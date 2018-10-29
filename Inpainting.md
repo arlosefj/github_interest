@@ -3,3 +3,9 @@
 https://github.com/MathiasGruber/PConv-Keras
 python3.6+keras+tf
 https://arxiv.org/abs/1804.07723
+
+
+
+# video inpainting
+https://github.com/jajatikr/Video-Inpainting
+keras+tf
