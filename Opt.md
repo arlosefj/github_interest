@@ -11,6 +11,8 @@ https://github.com/alexfjw/prunnable-layers-pytorch
 Pruning AI networks without impacting performance
 https://github.com/DNNToolBox/Net-Trim-v1
 
+基于Keras的AutoML机器学习自动化库
+https://github.com/jhfjhfj1/autokeras
 
 prune & quantize
 https://github.com/NervanaSystems/distiller

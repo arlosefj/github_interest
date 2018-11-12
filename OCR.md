@@ -26,3 +26,6 @@ https://github.com/Sanster/text_renderer
 准确率99.8%的开源车牌识别
 https://github.com/zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9
 
+Talk the Walk: Navigating New York City through Grounded Dialogue（语音导航）
+https://github.com/facebookresearch/talkthewalk
+https://arxiv.org/abs/1807.03367​
