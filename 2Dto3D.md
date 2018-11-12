@@ -7,3 +7,7 @@ https://arxiv.org/abs/1808.00449​
 
 Sparse-to-Dense: Depth Prediction from Sparse Depth Samples and a Single Image
 https://github.com/fangchangma/sparse-to-dense.pytorch
+
+快速场景理解(分割/实例分割/单图像深度估计)
+https://github.com/DavyNeven/fastSceneUnderstanding
+torch7 lua
