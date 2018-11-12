@@ -8,6 +8,9 @@ https://github.com/Eric-mingjie/rethinking-network-pruning
 提供了6种网络剪枝方法，使用pytorch
 https://github.com/alexfjw/prunnable-layers-pytorch
 
+Pruning AI networks without impacting performance
+https://github.com/DNNToolBox/Net-Trim-v1
+
 
 prune & quantize
 https://github.com/NervanaSystems/distiller
