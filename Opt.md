@@ -4,6 +4,9 @@ https://github.com/eladhoffer/quantized.pytorch
 
 prune
 https://github.com/jacobgil/pytorch-pruning
+https://jacobgil.github.io/deeplearning/pruning-deep-learning
+2016年的算法
+
 https://github.com/Eric-mingjie/rethinking-network-pruning
 提供了6种网络剪枝方法，使用pytorch
 https://github.com/alexfjw/prunnable-layers-pytorch
@@ -18,3 +21,12 @@ prune & quantize
 https://github.com/NervanaSystems/distiller
 intel开源的网络蒸馏工具，使用pytorch框架，不断更新中。。。
 教程：https://github.com/NervanaSystems/distiller/wiki/Tutorial:-Using-Distiller-to-prune-a-PyTorch-language-model
+
+tencent
+https://github.com/Tencent/PocketFlow
+
+自动化超参数搜索，后面可接很多不同框架
+https://github.com/tobegit3hub/advisor
+
+网络结构搜索，谷歌出品
+https://github.com/tensorflow/adanet
