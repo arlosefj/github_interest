@@ -27,3 +27,6 @@ https://github.com/opsnull/follow-me-install-kubernetes-cluster
 
 开源云存储平台，功能齐全，可以用于搭建公司内部的云存储平台
 https://github.com/nextcloud/server
+
+用来探索 docker 镜像每一层文件系统，以及发现缩小镜像体积方法的命令行工具
+https://github.com/wagoodman/dive
