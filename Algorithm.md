@@ -7,3 +7,6 @@ https://github.com/apachecn/awesome-algorithm
 
 各种基础算法、数据结构的 C 语言实现
 https://github.com/TheAlgorithms/C
+
+用动画的形式呈现解LeetCode题目的思路
+https://github.com/MisterBooo/LeetCodeAnimation
