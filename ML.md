@@ -25,3 +25,9 @@ https://github.com/Tencent/angel
 动手玩：卷积网络可视化
 https://github.com/feedly/ml-demos/blob/master/source/convnet-dataviz.ipynb
 
+Zero-Shot Learning相关资源大列表
+https://github.com/chichilicious/awesome-zero-shot-learning
+
+增量学习总结
+https://github.com/xialeiliu/Awesome-Incremental-Learning
+

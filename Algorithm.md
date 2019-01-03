@@ -10,3 +10,6 @@ https://github.com/TheAlgorithms/C
 
 用动画的形式呈现解LeetCode题目的思路
 https://github.com/MisterBooo/LeetCodeAnimation
+
+数据结构与算法/leetcode/lintcode题解
+https://github.com/billryan/algorithm-exercise

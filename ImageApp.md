@@ -93,3 +93,7 @@ https://github.com/CosmiQ/yolt
 
 关键点对目标检测
 https://github.com/umich-vl/CornerNet
+
+ CVPR 2018/ECCV 2018姿态估计相关工作汇总
+ https://github.com/wjbKimberly/pose_estimation_CVPR_ECCV_2018
+ 

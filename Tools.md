@@ -61,3 +61,5 @@ https://github.com/mozillazg/python-pinyin
 gitea：一个极易安装、运行快速、安装简单、使用体验良好的自建 Git 服务。采用 Go 作为后端语言，支持 Linux、 macOS、Windows 等
 https://github.com/go-gitea/gitea
 
+能显示图片缩略图的 ls 命令行工具
+https://github.com/hackerb9/lsix

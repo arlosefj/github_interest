@@ -29,3 +29,12 @@ https://github.com/zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Net
 Talk the Walk: Navigating New York City through Grounded Dialogue（语音导航）
 https://github.com/facebookresearch/talkthewalk
 https://arxiv.org/abs/1807.03367​
+
+验证码识别
+https://github.com/ecthros/uncaptcha2
+
+ARU-Net: A Neural Pixel Labeler for Layout Analysis of Historical Documents
+https://github.com/TobiasGruening/ARU-Net
+
+A tensorflow re-implementation of RRPN: Arbitrary-Oriented Scene Text Detection via Rotation Proposals.
+https://github.com/DetectionTeamUCAS/RRPN_Faster-RCNN_Tensorflow

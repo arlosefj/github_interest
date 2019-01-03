@@ -14,3 +14,14 @@ https://github.com/pathak22/seg-by-interaction
 
 Open MMLab Detection Toolbox
 https://github.com/open-mmlab/mmdetection
+
+
+Official implementation of "Minimizing Supervision for Free-space Segmentation" paper https://arxiv.org/abs/1711.05998
+https://github.com/pfnet-research/superpixel-align
+
+深度抠图(Keras/TensorFlow/OpenCV)
+https://github.com/foamliu/Deep-Image-Matting
+
+Modified implementation for DVSNet based on Tensorflow
+https://github.com/XUSean0118/DVSNet
+
