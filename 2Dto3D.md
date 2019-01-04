@@ -7,3 +7,6 @@ https://arxiv.org/abs/1808.00449​
 
 Sparse-to-Dense: Depth Prediction from Sparse Depth Samples and a Single Image
 https://github.com/fangchangma/sparse-to-dense.pytorch
+
+景深图像质量增强资源列表
+https://github.com/mdcnn/Depth-Image-Quality-Enhancement

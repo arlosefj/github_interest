@@ -34,3 +34,5 @@ https://github.com/machinebox/appify
 监听 MySQL binlog 的库，可以用来把主库 MySQL 的变化同步到 Redis、elasticsearch 等。同时提供了一个类似阿里 canal 的工具库，监听并解析 binlog 变化。让管理数据和了解数据状态变得更加轻松
 https://github.com/siddontang/go-mysql
 
+为互联网IT人打造的中文版awesome-go
+https://github.com/hackstoic/golang-open-source-projects

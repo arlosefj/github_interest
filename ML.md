@@ -31,3 +31,5 @@ https://github.com/chichilicious/awesome-zero-shot-learning
 增量学习总结
 https://github.com/xialeiliu/Awesome-Incremental-Learning
 
+图解机器学习的数学基础：线性代数，微积分，PCA的直觉
+https://bigquant.com/community/t/topic/129708

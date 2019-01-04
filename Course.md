@@ -7,3 +7,8 @@ https://github.com/simoninithomas/Deep_reinforcement_learning_Course
 Advanced Deep Learning and Reinforcement Learning course taught at UCL in partnership with Deepmind
 https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning
 
+强化学习从入门到放弃：中文强化学习资料汇总
+https://github.com/wwxFromTju/awesome-reinforcement-learning-zh
+
+Learning from data一书中的习题解答
+https://github.com/Doraemonzzz/Learning-from-data

@@ -30,3 +30,7 @@ https://github.com/tobegit3hub/advisor
 
 网络结构搜索，谷歌出品
 https://github.com/tensorflow/adanet
+
+Slimmable Neural Networks
+https://github.com/JiahuiYu/slimmable_networks
+https://github.com/JiahuiYu/slimmable_networks/tree/detection

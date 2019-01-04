@@ -12,3 +12,6 @@ https://github.com/cs-chan/Exclusively-Dark-Image-Dataset
 
 Keras数据预处理/数据增广模块
 https://github.com/keras-team/keras-preprocessing
+
+VATIC - Video Annotation Tool - UC Irvine
+http://www.cs.columbia.edu/~vondrick/vatic/

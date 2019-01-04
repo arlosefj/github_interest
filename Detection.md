@@ -4,3 +4,9 @@ https://github.com/qiaoguan/Person-reid-GAN-pytorch
 
 车道检测
 https://github.com/amusi/awesome-lane-detection
+
+[ECCV 2018] Spatial-Temporal Memory Networks for Video Object Detection
+https://github.com/fanyix/STMN
+
+深度学习目标检测文献列表(技术路线)
+https://github.com/hoya012/deep_learning_object_detection

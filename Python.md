@@ -66,3 +66,6 @@ https://github.com/UIUC-PPL/charmpy
 
 weixin_crawler是一款使用Scrapy、Flask、Echarts、Elasticsearch等实现的微信公众号文章爬虫，自带分析报告(报告样例)和全文检索功能，几百万的文档都能瞬间搜索。weixin_crawler设计的初衷是尽可能多、尽可能快地爬取微信公众的历史发文
 https://github.com/wonderfulsuccess/weixin_crawler
+
+阅读优秀 Python 开源项目的代码，提升编程技能
+https://github.com/mahmoud/awesome-python-applications

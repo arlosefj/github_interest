@@ -24,3 +24,6 @@ https://github.com/ChintanTrivedi/DeepGamingAI_FIFA
 
 2048
 https://github.com/plibither8/2048.cpp
+
+任天堂Gameboy游戏机学习环境(C)
+https://github.com/krocki/gb

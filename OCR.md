@@ -38,3 +38,12 @@ https://github.com/TobiasGruening/ARU-Net
 
 A tensorflow re-implementation of RRPN: Arbitrary-Oriented Scene Text Detection via Rotation Proposals.
 https://github.com/DetectionTeamUCAS/RRPN_Faster-RCNN_Tensorflow
+
+Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes
+https://arxiv.org/abs/1807.02242
+https://github.com/lvpengyuan/masktextspotter.caffe2
+
+用web界面从PDF文件提取表格数据
+https://github.com/camelot-dev/excalibur
+
+

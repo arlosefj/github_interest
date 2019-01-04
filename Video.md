@@ -24,3 +24,6 @@ https://github.com/malone6/youkuhttps://github.com/hanguokai/youkuhttps://github
 
 obs-studio 由 OBS 项目维护的免费开源流媒体和录制程序。该程序支持 Windows 7、macOS 10.10、Ubuntu 14.04 操作系统。可用于直播和屏幕录制
 https://github.com/obsproject/obs-studio/releases
+
+Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation
+https://github.com/avinashpaliwal/Super-SloMo

@@ -3,3 +3,6 @@ https://github.com/windstormeye/watchDog
 
 树莓派打造的“卡通相机”：目标识别+Google quickdraw数据集+热敏打印机+树莓派
 https://github.com/danmacnish/cartoonify
+
+在树莓派上搭建TensorFlow's Object Detection API
+https://github.com/EdjeElectronics/TensorFlow-Object-Detection-on-the-Raspberry-Pi

@@ -25,3 +25,18 @@ https://github.com/foamliu/Deep-Image-Matting
 Modified implementation for DVSNet based on Tensorflow
 https://github.com/XUSean0118/DVSNet
 
+PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model
+https://arxiv.org/abs/1803.08225
+https://github.com/octiapp/KerasPersonLab
+
+photorealistic video-to-video translation
+https://github.com/NVIDIA/vid2vid
+
+手机上实现的高速人像分割
+https://github.com/lizhengwei1992/Fast_Portrait_Segmentation
+
+CFUN: Combining Faster R-CNN and U-net Network for Efficient Whole Heart Segmentation
+https://github.com/Wuziyi616/CFUN
+
+Maximum Classifier Discrepancy for Domain Adaptation
+https://github.com/mil-tokyo/MCD_DA

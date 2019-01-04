@@ -96,4 +96,21 @@ https://github.com/umich-vl/CornerNet
 
  CVPR 2018/ECCV 2018姿态估计相关工作汇总
  https://github.com/wjbKimberly/pose_estimation_CVPR_ECCV_2018
- 
+
+ A Deep Learning based project for colorizing and restoring old images
+ https://github.com/jantic/DeOldify
+
+ 人群计数相关资源列表
+ https://github.com/gjy3035/Awesome-Crowd-Counting
+
+ Joint Body Parsing & Pose Estimation Network
+ https://github.com/Engineering-Course/LIP_JPPNet
+
+ Python开源图像处理框架ImagePy，其UI界面支持开放插件
+ https://github.com/Image-Py/imagepy
+
+ Image Super-Resolution Using Very Deep Residual Channel Attention Networks
+ https://github.com/yulunzhang/RCAN
+
+ On The Effectiveness Of Visible Watermarks
+ https://github.com/rohitrango/automatic-watermark-detection

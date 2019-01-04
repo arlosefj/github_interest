@@ -51,3 +51,6 @@ https://github.com/TianhongDai/reinforcement-learning-algorithms
 
 DARTS: Differentiable Architecture Search（网络结构搜索）
 https://github.com/quark0/darts
+
+PyTorch CNN可视化工具
+https://github.com/FrancescoSaverioZuppichini/mirror
