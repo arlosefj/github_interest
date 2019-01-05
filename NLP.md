@@ -11,3 +11,15 @@ https://github.com/codertimo/BERT-pytorch
 
 BertViz - Tool for visualizing BERT's attention
 https://github.com/jessevig/bertviz
+
+Facebook出品基于PyTorch的深度学习自然语言处理框架
+https://github.com/facebookresearch/pytext
+
+GIF动画解析RNN, LSTM, GRU
+https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45
+
+bert-Chinese-classification-task - bert中文分类实践
+https://github.com/NLPScott/bert-Chinese-classification-task
+
+使用预训练语言模型BERT做中文NER
+https://github.com/ProHiryu/bert-chinese-ner

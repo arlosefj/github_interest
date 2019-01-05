@@ -15,3 +15,9 @@ https://github.com/keras-team/keras-preprocessing
 
 VATIC - Video Annotation Tool - UC Irvine
 http://www.cs.columbia.edu/~vondrick/vatic/
+
+Web界面的图像分割/目标检测标记工具
+https://github.com/jsbroks/coco-annotator
+
+在线深度学习自动抠图服务
+https://www.remove.bg/

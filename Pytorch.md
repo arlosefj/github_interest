@@ -54,3 +54,16 @@ https://github.com/quark0/darts
 
 PyTorch CNN可视化工具
 https://github.com/FrancescoSaverioZuppichini/mirror
+
+Deformable ConvNets V2 in PyTorch
+https://github.com/chengdazhi/Deformable-Convolution-V2-PyTorch
+
+Implementation code of the paper: FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction, NeurIPS 2018
+https://github.com/kevin-ssy/FishNet
+
+用PyTorch从头实现经典机器模型(Dropout, Adam, RMSProp, basic neural nets…)
+https://github.com/anhquan0412/basic_model_scratch
+
+(PyTorch)机器学习实验管理工具
+https://github.com/MIC-DKFZ/trixi
+https://trixi.readthedocs.io/en/latest/

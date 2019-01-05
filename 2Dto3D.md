@@ -10,3 +10,9 @@ https://github.com/fangchangma/sparse-to-dense.pytorch
 
 景深图像质量增强资源列表
 https://github.com/mdcnn/Depth-Image-Quality-Enhancement
+
+Code for RenderNet: A deep convolutional network for differentiable rendering from 3D shapes
+https://github.com/thunguyenphuoc/RenderNet
+
+LabelFusion: A Pipeline for Generating Ground Truth Labels for Real RGBD Data of Cluttered Scenes http://labelfusion.csail.mit.edu
+https://github.com/RobotLocomotion/LabelFusion

@@ -33,3 +33,12 @@ https://github.com/xialeiliu/Awesome-Incremental-Learning
 
 图解机器学习的数学基础：线性代数，微积分，PCA的直觉
 https://bigquant.com/community/t/topic/129708
+
+将李航博士《统计学习方法》一书中所有算法实现一遍 （python 3.6版）
+https://bigquant.com/community/t/topic/127694?utm_source=suanfazu&utm_campaign=L3
+
+practicalAI：一种实用的机器学习方法
+https://github.com/GokuMohandas/practicalAI
+
+30分钟学会用scikit-learn的基本回归方法（线性、决策树、SVM、KNN）和集成方法（随机森林，Adaboost和GBRT）
+https://bigquant.com/community/t/topic/128986?suanfazu&181204&L3

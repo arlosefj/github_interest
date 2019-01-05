@@ -1,5 +1,15 @@
+* faster-CTPN - very fast CTPN
+https://github.com/hsddlz/faster-CTPN
+we change the LSTM model to conv1D that more than 5 times faster than the original version.
+
+* 场景文字图像增广工具
+https://github.com/Canjie-Luo/Scene-Text-Image-Transformer
+
 通过分割来检测文字 PixelLink: Detecting Scene Text via Instance Segmentation
 https://github.com/ZJULearning/pixel_link
+
+ChineseAddress_OCR - Photographing Chinese-Address OCR implemented using CTPN+CTC+Address Correction. 拍照文档中文地址文字识别。
+https://github.com/Walleclipse/ChineseAddress_OCR
 
 任意方向场景文字检测
 https://github.com/mjq11302010044/RRPN

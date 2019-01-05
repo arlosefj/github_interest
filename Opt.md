@@ -34,3 +34,15 @@ https://github.com/tensorflow/adanet
 Slimmable Neural Networks
 https://github.com/JiahuiYu/slimmable_networks
 https://github.com/JiahuiYu/slimmable_networks/tree/detection
+
+Trained Rank Pruning for Efficient Deep Neural Networks
+https://github.com/yuhuixu1993/Trained-Rank-Pruning
+
+AutoML相关资源列表
+https://github.com/dragen1860/awesome-AutoML
+
+深度网络模型压缩与加速相关文献大列表
+https://github.com/sun254/awesome-model-compression-and-acceleration
+
+超参优化框架Optuna
+https://github.com/pfnet/optuna

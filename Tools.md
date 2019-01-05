@@ -1,3 +1,7 @@
+
+Arxiv机器学习论文网络图浏览器
+https://github.com/ranihorev/arxiv-network-graph
+
 灵活的命令行工具，可以从CSV数据创建图形
 https://github.com/mcastorina/graph-cli
 
@@ -63,3 +67,21 @@ https://github.com/go-gitea/gitea
 
 能显示图片缩略图的 ls 命令行工具
 https://github.com/hackerb9/lsix
+
+深度学习(框架)默认值列表
+https://github.com/keisuke-umezawa/deeplearning-default-value
+
+正则表达式30分钟入门教程
+http://deerchao.net/tutorials/regex/regex.htm
+
+(Mac)将公式截屏自动转换成Latex的桌面工具Mathpix snipping-tool
+https://mathpix.com/
+
+跨平台高性能ONNX模型运行引擎
+https://github.com/Microsoft/onnxruntime
+
+用Latex代码绘制精美神经网络结构图
+https://github.com/HarisIqbal88/PlotNeuralNet
+
+Matplotlib简易动画制作库
+https://github.com/jwkvam/celluloid

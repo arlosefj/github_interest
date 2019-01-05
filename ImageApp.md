@@ -1,3 +1,6 @@
+应该是当下最全面的「Python异常检测工具库」了。除了收到近500个Star以外，我们还写了一篇JMLR（在审）。最近一直在加紧扩充算法和优化效率（主要是通过joblib和numba），这两周写了SOS、LOCI、LSCP等算法，同时还有两个全新的深度学习异常检测即将上线，敬请期待。
+https://github.com/yzhao062/pyod
+
 不会用Photoshop抠图？Mask R-CNN助你一键“除”人
 https://github.com/minimaxir/person-blocker
 
@@ -114,3 +117,18 @@ https://github.com/umich-vl/CornerNet
 
  On The Effectiveness Of Visible Watermarks
  https://github.com/rohitrango/automatic-watermark-detection
+
+Python/OpenCV图像拼接
+https://www.pyimagesearch.com/2018/12/17/image-stitching-with-opencv-and-python/
+
+显微镜图像细胞计数工具包
+https://github.com/hammerlab/cytokit
+
+用相片创建生动有趣的马赛克图片
+https://github.com/worldveil/photomosaic
+
+JPEG压缩感知：直接利用DCT域特征的高效神经网络图片识别
+https://eng.uber.com/neural-networks-jpeg/
+
+Collaging on Internal Representations: An Intuitive Approach for Semantic Transfiguration
+https://github.com/quolc/neural-collage

@@ -13,3 +13,6 @@ https://github.com/MisterBooo/LeetCodeAnimation
 
 数据结构与算法/leetcode/lintcode题解
 https://github.com/billryan/algorithm-exercise
+
+零公式透彻理解马尔可夫链蒙特卡洛方法
+https://bigquant.com/community/t/topic/129052?weibo&181205&L1

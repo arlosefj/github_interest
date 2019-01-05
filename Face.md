@@ -9,3 +9,9 @@ https://github.com/sfzhang15/FaceBoxes
 
 Landmark-guided face to face synthesis using GANs 
 https://github.com/ESanchezLozano/GANnotation
+
+SphereFace
+https://github.com/wy1iu/sphereface-plus
+
+Code for "Unsupervised Depth Estimation, 3D Face Rotation and Replacement", NeurIPS 2018
+https://github.com/joelmoniz/DepthNets

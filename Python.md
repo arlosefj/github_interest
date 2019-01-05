@@ -69,3 +69,21 @@ https://github.com/wonderfulsuccess/weixin_crawler
 
 阅读优秀 Python 开源项目的代码，提升编程技能
 https://github.com/mahmoud/awesome-python-applications
+
+Jupyter Notebook里的Python代码执行过程可视化
+https://github.com/lgpage/nbtutor
+
+Python简易日志库
+https://github.com/Delgan/loguru
+
+Python初学者常犯的简单错误
+https://github.com/qxf2/wtfiswronghere
+
+用Python实现一个大数据搜索引擎
+https://bigquant.com/community/t/topic/129097?suanfazu&181206&L2
+
+《程序员数学指南》书籍实现代码
+https://github.com/pim-book/programmers-introduction-to-mathematics
+
+链家网全国房源数据爬取教程&工具
+https://github.com/XuefengHuang/lianjia-scrawler
