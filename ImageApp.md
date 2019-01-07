@@ -1,6 +1,9 @@
 应该是当下最全面的「Python异常检测工具库」了。除了收到近500个Star以外，我们还写了一篇JMLR（在审）。最近一直在加紧扩充算法和优化效率（主要是通过joblib和numba），这两周写了SOS、LOCI、LSCP等算法，同时还有两个全新的深度学习异常检测即将上线，敬请期待。
 https://github.com/yzhao062/pyod
 
+异常检测相关资源大列表
+https://github.com/hoya012/awesome-anomaly-detection
+
 不会用Photoshop抠图？Mask R-CNN助你一键“除”人
 https://github.com/minimaxir/person-blocker
 
@@ -24,6 +27,9 @@ https://github.com/sekilab/RoadDamageDetector/
 浏览器上的姿态识别
 https://github.com/tensorflow/tfjs-models/tree/master/posenet/demos
 https://github.com/llSourcell/pose_estimation
+
+pytorch implementation of MultiPoseNet (ECCV 2018, Muhammed Kocabas et al.)
+https://github.com/LiMeng95/MultiPoseNet.pytorch
 
 【Lyft感知挑战赛第四名(最快)方案】"Lyft Perception Challenge | Self-Driving Cars Lab"
 https://github.com/NikolasEnt/Lyft-Perception-Challenge
@@ -132,3 +138,21 @@ https://eng.uber.com/neural-networks-jpeg/
 
 Collaging on Internal Representations: An Intuitive Approach for Semantic Transfiguration
 https://github.com/quolc/neural-collage
+
+深度学习(图像)数据增广库
+https://github.com/MIPT-Oulu/solt
+
+Integral Human Pose Regression
+https://github.com/JimmySuen/integral-human-pose
+
+(Python)图像哈希库
+https://github.com/JohannesBuchner/imagehash
+
+Learning to cluster in order to transfer across domains and tasks
+https://github.com/GT-RIPL/L2C
+
+Mixup数据增广技术(fastai)(CIFAR-10, 1 GPU, 94% accuracy, 6 minutes)
+https://forums.fast.ai/t/mixup-data-augmentation/22764
+
+快速图像增广库
+https://github.com/albu/albumentations

@@ -30,3 +30,19 @@ https://github.com/nextcloud/server
 
 用来探索 docker 镜像每一层文件系统，以及发现缩小镜像体积方法的命令行工具
 https://github.com/wagoodman/dive
+
+谈谈机器学习模型的部署
+https://bigquant.com/community/t/topic/128841?suanfazu&181130&L3
+
+Kubernetes上的超参调优框架
+https://github.com/kubeflow/katib
+
+专为机器学习设计的数据库系统
+https://github.com/mldbai/mldb
+
+GraphQL 是一种查询语言，由 Facebook 开发，用于替换 RESTful API。服务端可以用任何的语言实现。
+Slothking 开发了一个 GraphQL 的可视化编辑器。
+https://github.com/slothking-online/graphql-editor
+
+MySQL 优化实施方案
+https://clsn.io/clsn/lx287.html

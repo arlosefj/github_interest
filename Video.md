@@ -27,3 +27,6 @@ https://github.com/obsproject/obs-studio/releases
 
 Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation
 https://github.com/avinashpaliwal/Super-SloMo
+
+搭建自己的 Youtube 视频下载服务
+https://github.com/Algram/ytdl-webserver

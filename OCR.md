@@ -56,4 +56,6 @@ https://github.com/lvpengyuan/masktextspotter.caffe2
 用web界面从PDF文件提取表格数据
 https://github.com/camelot-dev/excalibur
 
+基于深度学习的文字识别系统
+https://github.com/AstarLight/CPS-OCR-Engine
 

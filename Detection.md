@@ -23,3 +23,6 @@ https://github.com/hoya012/deep_learning_object_detection
 本文是香港中文大学发表于AAAI 2019的工作，文章从梯度的角度解决样本中常见的正负样本不均衡的问题。从梯度的角度给计算loss的样本加权，相比与OHEM的硬截断，这种思路和focal loss一样属于软截断，文章设计的思路不仅可以用于分类loss改进，对回归loss也很容易进行嵌入。不需要考虑focal loss的超参设计问题，同时文章提出的方法效果Focal Loss更好。创新点相当于FL的下一步方案，给出了解决class-imbalance的另一中思路，开了一条路，估计下一步会有很多这种方面的paper出现。
 https://github.com/libuyu/GHM_Detection
 https://www.paperweekly.site/papers/2654
+
+Softer-NMS: Rethinking Bounding Box Regression for Accurate Object Detection
+https://github.com/yihui-he/softer-NMS

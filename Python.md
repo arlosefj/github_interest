@@ -87,3 +87,9 @@ https://github.com/pim-book/programmers-introduction-to-mathematics
 
 链家网全国房源数据爬取教程&工具
 https://github.com/XuefengHuang/lianjia-scrawler
+
+Python实例教学：lambda, map 和 filter
+https://pan.baidu.com/s/1JlTcagmpS-c96M8Y5UeROQ
+
+教程|计算任意视频中各人物的出镜时间（附Python实现）
+https://mp.weixin.qq.com/s/phFIcMt_QB2jNg0x8im4Uw

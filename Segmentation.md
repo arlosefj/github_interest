@@ -16,7 +16,8 @@ https://github.com/hualin95/Deeplab-v3plus
 
 # instance
 ## mask-rcnn
-
+Semantic Instance Segmentation with a Discriminative Loss Function
+https://github.com/Wizaron/instance-segmentation-pytorch
 
 Open MMLab Detection Toolbox
 https://github.com/open-mmlab/mmdetection
@@ -49,3 +50,12 @@ https://github.com/mil-tokyo/MCD_DA
 
 * Weakly- and Semi-Supervised Panoptic Segmentation
 https://github.com/qizhuli/Weakly-Supervised-Panoptic-Segmentation 
+
+Dual Attention Network for Scene Segmentation
+https://github.com/junfu1115/DANet
+
+Keras 语义分割(预训练)模型库
+https://github.com/qubvel/segmentation_models
+
+ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation
+https://github.com/sacmehta/ESPNet

@@ -24,3 +24,6 @@ https://mp.weixin.qq.com/s?__biz=MzUxMDc1Mzc0MA==&mid=2247484976&idx=3&sn=bc710d
 
 GBDT 和 Random Forest 为什么在Kaggle等比赛中效果非常好
 https://bigquant.com/community/t/topic/259?suanfazu&181206&L3
+
+机器学习项目失败的9个原因
+https://mp.weixin.qq.com/s/SWuaM7PqOD4MK_rpnGaB5w

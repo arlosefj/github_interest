@@ -20,3 +20,9 @@ https://www.zhihu.com/question/19864656
 
 如何克服严重的拖延症
 https://www.zhihu.com/question/20357585
+
+如何深入理解「比你优秀的人不可怕，可怕的是比你优秀的人比你更努力」这句话
+https://www.zhihu.com/question/31971136
+
+人这一生为什么要努力
+https://www.zhihu.com/question/22913650

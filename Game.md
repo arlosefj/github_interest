@@ -27,3 +27,6 @@ https://github.com/plibither8/2048.cpp
 
 任天堂Gameboy游戏机学习环境(C)
 https://github.com/krocki/gb
+
+自动生成无限迷宫的Pacman(吃豆小子)经典游戏
+https://github.com/skatiyar/pacman

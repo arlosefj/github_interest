@@ -46,3 +46,16 @@ https://github.com/sun254/awesome-model-compression-and-acceleration
 
 超参优化框架Optuna
 https://github.com/pfnet/optuna
+
+微软发布的AutoML工具包(自动网络结构搜索/超参优化)
+https://github.com/Microsoft/nni
+https://github.com/Microsoft/nni/blob/master/docs/GetStarted.md
+
+Keras模型超参调优工具
+https://github.com/autonomio/talos
+
+神经网络机器学习自动化框架
+https://github.com/CiscoAI/amla
+
+PyTorch 实现的NEAT (NeuroEvolution of Augmenting Topologies)神经进化算法
+https://github.com/uber-research/PyTorch-NEAT/

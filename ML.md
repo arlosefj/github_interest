@@ -42,3 +42,29 @@ https://github.com/GokuMohandas/practicalAI
 
 30分钟学会用scikit-learn的基本回归方法（线性、决策树、SVM、KNN）和集成方法（随机森林，Adaboost和GBRT）
 https://bigquant.com/community/t/topic/128986?suanfazu&181204&L3
+
+经典机器学习算法示例集(Jupyter Notebooks)
+https://github.com/masinoa/machine_learning
+
+Andrew Ng经典机器学习课程作业Python 版
+https://github.com/dibgerge/ml-coursera-python-assignments
+
+机器学习与深度学习算法示例
+https://github.com/Wasim37/machine_learning_code
+示例运行所需数据放在网盘中
+网盘地址：链接：https://pan.baidu.com/s/1jJLqavs 密码：p00a
+
+【干货】机器学习常用35大算法盘点
+https://bigquant.com/community/t/topic/124833
+
+干货 | 一文搞懂极大似然估计
+https://bigquant.com/community/t/topic/124182
+
+非均衡数据处理--如何学习
+https://mp.weixin.qq.com/s/t7fG7wl1mfMCKXnzk2CnSw
+
+机器学习面试干货精讲
+https://blog.csdn.net/np4rHI455vg29y2/article/details/79737184
+
+tSNE的高速并行实现(Python)
+https://github.com/pavlin-policar/openTSNE

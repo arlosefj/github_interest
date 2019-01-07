@@ -16,3 +16,6 @@ https://github.com/billryan/algorithm-exercise
 
 零公式透彻理解马尔可夫链蒙特卡洛方法
 https://bigquant.com/community/t/topic/129052?weibo&181205&L1
+
+算法相关知识储备 - 来源 leetCode 和 其他算法书
+https://github.com/HuberTRoy/leetCode

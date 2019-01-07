@@ -67,3 +67,12 @@ https://github.com/anhquan0412/basic_model_scratch
 (PyTorch)机器学习实验管理工具
 https://github.com/MIC-DKFZ/trixi
 https://trixi.readthedocs.io/en/latest/
+
+基于PyTorch的开源医学图像处理框架，提供全套的医学成像载入、预处理模块和数据集
+https://medicaltorch.readthedocs.io/en/stable/
+
+Deep Audio-Visual Embedding network (DAVEnet) implementation in PyTorch
+https://github.com/dharwath/DAVEnet-pytorch
+
+人人皆舞王(Everybody Dance Now)的 PyTorch 实现
+https://github.com/nyoki-mtl/pytorch-EverybodyDanceNow

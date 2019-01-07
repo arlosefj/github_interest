@@ -21,3 +21,12 @@ https://github.com/jsbroks/coco-annotator
 
 在线深度学习自动抠图服务
 https://www.remove.bg/
+
+手把手教你十分钟搞定人物检测(使用Supervise.ly)
+https://mp.weixin.qq.com/s/Q56xdUaRLEMBUq8wiUrkyA
+
+图像标记(标注)工具VIA
+https://gitlab.com/vgg/via/
+
+基于开源深度学习API服务DeepDetect的图像自动标记(tagger)工具
+https://github.com/CorentinB/DeepSort

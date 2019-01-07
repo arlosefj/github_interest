@@ -16,3 +16,11 @@ https://github.com/thunguyenphuoc/RenderNet
 
 LabelFusion: A Pipeline for Generating Ground Truth Labels for Real RGBD Data of Cluttered Scenes http://labelfusion.csail.mit.edu
 https://github.com/RobotLocomotion/LabelFusion
+
+
+# paper
+Real-Time Joint Semantic Segmentation and Depth Estimation Using Asymmetric Annotations
+https://arxiv.org/abs/1809.04766
+
+[ECCV 2018] DF-Net: Unsupervised Joint Learning of Depth and Flow using Cross-Task Consistency
+https://github.com/vt-vl-lab/DF-Net

@@ -12,3 +12,9 @@ https://github.com/wwxFromTju/awesome-reinforcement-learning-zh
 
 Learning from data一书中的习题解答
 https://github.com/Doraemonzzz/Learning-from-data
+
+(彭博)视频课程：机器学习基础
+https://github.com/davidrosenberg/mlcourse
+
+台大李宏毅(国语)线性代数课程
+https://www.bilibili.com/video/av31780632/
