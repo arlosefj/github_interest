@@ -7,8 +7,14 @@ https://github.com/hoya012/awesome-anomaly-detection
 不会用Photoshop抠图？Mask R-CNN助你一键“除”人
 https://github.com/minimaxir/person-blocker
 
+性能与OpenCV相当的轻量图像处理库(Python/C++)
+https://github.com/ethereon/lycon
+
 真人头像漫画化
 https://github.com/jerryli27/TwinGAN/blob/master/docs/blog/blog_CH.md
+
+Night-to-Day Image Translation for Retrieval-based Localization
+https://github.com/AAnoosheh/ToDayGAN
 
 js 简单、高效的帧动画生成工具，图片处理工具
 https://github.com/gkajs/gka
@@ -142,6 +148,9 @@ https://github.com/quolc/neural-collage
 深度学习(图像)数据增广库
 https://github.com/MIPT-Oulu/solt
 
+用AutoAugment自学习数据增广改进深度学习性能
+https://github.com/tensorflow/models/tree/master/research/autoaugment
+
 Integral Human Pose Regression
 https://github.com/JimmySuen/integral-human-pose
 
@@ -156,3 +165,9 @@ https://forums.fast.ai/t/mixup-data-augmentation/22764
 
 快速图像增广库
 https://github.com/albu/albumentations
+
+PyTorch implementation of "Emerging Disentanglement in Auto-Encoder Based Unsupervised Image Content Transfer"
+https://github.com/oripress/ContentDisentanglement
+
+Video Compression through Image Interpolation (ECCV'18) [PyTorch] 
+https://github.com/chaoyuaw/pytorch-vcii

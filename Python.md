@@ -93,3 +93,6 @@ https://pan.baidu.com/s/1JlTcagmpS-c96M8Y5UeROQ
 
 教程|计算任意视频中各人物的出镜时间（附Python实现）
 https://mp.weixin.qq.com/s/phFIcMt_QB2jNg0x8im4Uw
+
+Python高级应用程序与仪表板解决方案，可整合Bokeh，Matplotlib，HoloViews和其他Python绘图库的交互可视化
+https://github.com/pyviz/panel

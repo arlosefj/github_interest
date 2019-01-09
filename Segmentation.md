@@ -14,10 +14,14 @@ https://github.com/pathak22/seg-by-interaction
 A higher performance pytorch implementation of DeepLab V3 Plus(DeepLab v3+)
 https://github.com/hualin95/Deeplab-v3plus
 
+
 # instance
 ## mask-rcnn
 Semantic Instance Segmentation with a Discriminative Loss Function
 https://github.com/Wizaron/instance-segmentation-pytorch
+
+PyTorch-mask-x-rcnn - PyTorch implementation of the Mask-X-RCNN network
+https://github.com/skrish13/PyTorch-mask-x-rcnn
 
 Open MMLab Detection Toolbox
 https://github.com/open-mmlab/mmdetection
@@ -59,3 +63,9 @@ https://github.com/qubvel/segmentation_models
 
 ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation
 https://github.com/sacmehta/ESPNet
+
+Tensorflow实现的DeepLab_V3 CNN 语义分割
+https://github.com/sthalles/deeplab_v3
+
+Geometry and Uncertainty in Deep Learning for Computer Vision
+https://github.com/alexgkendall/thesis

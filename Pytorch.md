@@ -1,6 +1,9 @@
 PyTorch神经网络模型分析器(参数规模/FLOPs/MAdd/内存消耗)
 https://github.com/Swall0w/torchstat
 
+PyTorch implementation for Convolutional Networks with Adaptive Inference Graphs
+https://github.com/andreasveit/convnet-aig
+
 NVIDIA开源面向精简混合精度和分布式训练的Pytorch扩展
 https://github.com/nvidia/apex
 
@@ -76,3 +79,10 @@ https://github.com/dharwath/DAVEnet-pytorch
 
 人人皆舞王(Everybody Dance Now)的 PyTorch 实现
 https://github.com/nyoki-mtl/pytorch-EverybodyDanceNow
+
+基于PyTorch的高效深度学习库fastai
+https://github.com/fastai/fastai/
+https://docs.fast.ai/
+
+A PyTorch implementation of Xception: Deep Learning with Depthwise Separable Convolutions
+https://github.com/tstandley/Xception-PyTorch

@@ -3,3 +3,6 @@ https://github.com/baidu/openedge
 
 在Arm Cortex CPUs/Arm Mali GPUs上跑主流深度学习开发框架的开发包
 https://github.com/ARM-software/armnn
+
+AI Benchmark: Running Deep Neural Networks on Android Smartphones
+http://ai-benchmark.com/

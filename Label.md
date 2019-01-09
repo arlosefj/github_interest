@@ -30,3 +30,12 @@ https://gitlab.com/vgg/via/
 
 基于开源深度学习API服务DeepDetect的图像自动标记(tagger)工具
 https://github.com/CorentinB/DeepSort
+
+基于OpenCV图像分割的半自动图像标注工具
+https://github.com/abreheret/PixelAnnotationTool
+
+Visipedia图像标注工具
+https://github.com/visipedia/annotation_tools
+
+基于网页的图像标注工具
+https://github.com/NaturalIntelligence/imglab

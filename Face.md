@@ -27,3 +27,7 @@ https://github.com/ox-vgg/vgg_face2
 
 快速准确的全卷积头部检测
 https://github.com/aditya-vora/FCHD-Fully-Convolutional-Head-Detector
+
+FaceBoxes: A CPU Real-time Face Detector with High Accuracy
+https://github.com/lxg2015/faceboxes
+https://github.com/zeusees/FaceBoxes

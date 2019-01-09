@@ -30,3 +30,10 @@ https://github.com/krocki/gb
 
 自动生成无限迷宫的Pacman(吃豆小子)经典游戏
 https://github.com/skatiyar/pacman
+
+用PyTorch 开发ELF OpenGo(开源围棋机器人)
+https://github.com/pytorch/ELF
+
+
+OpenAI Gym推箱子游戏环境
+https://github.com/mpSchrader/gym-sokoban

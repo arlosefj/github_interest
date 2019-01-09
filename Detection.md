@@ -26,3 +26,6 @@ https://www.paperweekly.site/papers/2654
 
 Softer-NMS: Rethinking Bounding Box Regression for Accurate Object Detection
 https://github.com/yihui-he/softer-NMS
+
+Code for my master thesis: Vehicle Detection and Pose Estimation for Autonomous Driving
+https://github.com/libornovax/master_thesis_code

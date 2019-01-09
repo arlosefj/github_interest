@@ -30,3 +30,6 @@ https://github.com/avinashpaliwal/Super-SloMo
 
 搭建自己的 Youtube 视频下载服务
 https://github.com/Algram/ytdl-webserver
+
+ffmpeg-python - Python bindings for FFmpeg - with complex filtering support
+https://github.com/kkroening/ffmpeg-python

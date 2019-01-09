@@ -6,3 +6,12 @@ https://github.com/danmacnish/cartoonify
 
 在树莓派上搭建TensorFlow's Object Detection API
 https://github.com/EdjeElectronics/TensorFlow-Object-Detection-on-the-Raspberry-Pi
+
+兼容树莓派/Movidius神经计算棒的Mobilenet-SSD人脸检测
+https://github.com/BeloborodovDS/MobilenetSSDFace
+
+手把手：用树莓派搭建个人Python开发服务器
+https://pan.baidu.com/s/1SuVw94TQEI1W2CHyBh9O4Q
+
+(树莓派/本地服务器)家庭智能助理相关资源大列表
+https://github.com/frenck/awesome-home-assistant

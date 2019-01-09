@@ -9,3 +9,7 @@ https://github.com/csyanbin/TPN
 
 用PyTorch实现few-shot learning
 https://github.com/oscarknagg/few-shot
+
+* Implementation of Siamese Neural Networks for One-shot Image Recognition
+https://github.com/Goldesel23/Siamese-Networks-for-One-Shot-Learning
+https://sorenbouma.github.io/blog/oneshot/

@@ -46,3 +46,12 @@ https://github.com/slothking-online/graphql-editor
 
 MySQL 优化实施方案
 https://clsn.io/clsn/lx287.html
+
+Kubernetes资源情况实时观察工具
+https://github.com/pulumi/kubespy
+
+深度学习产品化部署资料集锦
+https://github.com/ahkarami/Deep-Learning-in-Production
+
+OpenVINO深度学习部署工具集，支持Open Model Zoo预训练模型以及100多种流行格式的开源和公共模型，如Caffe *，Tensorflow *，MXNet *和ONNX *
+https://github.com/opencv/dldt

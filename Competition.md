@@ -16,3 +16,8 @@ http://nooverfit.com/wp/%E7%94%A8keras%E5%AE%9E%E7%8E%B0%E7%AE%80%E5%8D%95%E4%B8
 用强化学习解决Kaggle西格玛投资公司金融预测比赛
 https://github.com/llSourcell/Kaggle_Challenge_LIVE-Two-Sigma
 
+(Kaggle)CVPR 2018 WAD视频分割挑战第二名方案
+https://github.com/Computational-Camera/Kaggle-CVPR-2018-WAD-Video-Segmentation-Challenge-Solution
+
+AI 比赛截止日期大列表(附software baselines/evaluation results)
+https://github.com/dieg0as/ai-challenge-deadlines

@@ -59,3 +59,12 @@ https://github.com/CiscoAI/amla
 
 PyTorch 实现的NEAT (NeuroEvolution of Augmenting Topologies)神经进化算法
 https://github.com/uber-research/PyTorch-NEAT/
+
+模型超参自动搜索工具
+https://github.com/NVIDIA/Milano
+
+神经网络模型量化方法简介
+http://chenrudan.github.io/blog/2018/10/02/networkquantization.html
+
+Rethinking the Value of Network Pruning
+https://github.com/Eric-mingjie/rethinking-network-pruning

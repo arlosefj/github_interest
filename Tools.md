@@ -92,3 +92,6 @@ https://github.com/Microsoft/onnxjs
 Grammaly
 https://www.grammarly.com/e
 可以实现实时语法检查，你边写它就边改，语法问题和修改意见会以标注的形式显示在文档的右侧，方便查看，而且在每条批注下面都会配有详细的解释，告诉你哪里错了，为什么要这样修改。
+
+跟踪NVIDIA GPU工作情况的类htop命令行工具
+https://github.com/Syllo/nvtop
