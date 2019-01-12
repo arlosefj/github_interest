@@ -68,3 +68,6 @@ http://chenrudan.github.io/blog/2018/10/02/networkquantization.html
 
 Rethinking the Value of Network Pruning
 https://github.com/Eric-mingjie/rethinking-network-pruning
+
+在线超参数优化平台Bender
+https://github.com/Dreem-Organization/benderopt

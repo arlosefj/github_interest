@@ -171,3 +171,9 @@ https://github.com/oripress/ContentDisentanglement
 
 Video Compression through Image Interpolation (ECCV'18) [PyTorch] 
 https://github.com/chaoyuaw/pytorch-vcii
+
+动漫人物图片自动修复，去马赛克，填补，去瑕疵
+https://github.com/youyuge34/Anime-InPainting
+
+OpenCV图像处理入门100题实例解析
+https://github.com/yoyoyo-yo/Gasyori100knock

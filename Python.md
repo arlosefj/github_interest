@@ -96,3 +96,9 @@ https://mp.weixin.qq.com/s/phFIcMt_QB2jNg0x8im4Uw
 
 Python高级应用程序与仪表板解决方案，可整合Bokeh，Matplotlib，HoloViews和其他Python绘图库的交互可视化
 https://github.com/pyviz/panel
+
+50种常用的matplotlib可视化，再也不用担心模型背着我乱跑了
+https://mp.weixin.qq.com/s/FQdnKL6cK8yV_yKl9cXoIA
+
+Python调用栈性能分析工具
+https://github.com/joerick/pyinstrument

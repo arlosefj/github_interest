@@ -59,3 +59,5 @@ https://github.com/camelot-dev/excalibur
 基于深度学习的文字识别系统
 https://github.com/AstarLight/CPS-OCR-Engine
 
+Geometry-Aware Scene Text Detection with Instance Transformation Network
+https://github.com/zlmzju/itn

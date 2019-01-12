@@ -31,3 +31,6 @@ https://github.com/aditya-vora/FCHD-Fully-Convolutional-Head-Detector
 FaceBoxes: A CPU Real-time Face Detector with High Accuracy
 https://github.com/lxg2015/faceboxes
 https://github.com/zeusees/FaceBoxes
+
+Towards Highly Accurate and Stable Face Alignment for High-Resolution Videos
+https://github.com/TencentYoutuResearch/FaceAlignment-FHR
