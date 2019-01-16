@@ -6,3 +6,6 @@ https://github.com/rlworkgroup/garage
 
 深度强化学习教程(高质量PyTorch实现集锦)
 https://github.com/qfettes/DeepRL-Tutorials
+
+BabyAI: First Steps Towards Grounded Language Learning With a Human In the Loop
+https://github.com/mila-udem/babyai

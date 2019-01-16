@@ -21,3 +21,11 @@ https://github.com/Computational-Camera/Kaggle-CVPR-2018-WAD-Video-Segmentation-
 
 AI 比赛截止日期大列表(附software baselines/evaluation results)
 https://github.com/dieg0as/ai-challenge-deadlines
+
+Kaggle TGS盐体识别挑战第22名方案32名方案
+https://github.com/svishnu88/TGS-SaltNet
+https://github.com/mingmingDiii/kaggle_tgs
+https://github.com/ybabakhin/kaggle_salt_bes_phalanx
+https://www.kaggle.com/c/tgs-salt-identification-challenge/discussion/69291
+https://github.com/SeuTao/Kaggle_TGS2018_4th_solution
+https://github.com/tugstugi/pytorch-saltnet

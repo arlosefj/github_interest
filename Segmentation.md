@@ -69,3 +69,12 @@ https://github.com/sthalles/deeplab_v3
 
 Geometry and Uncertainty in Deep Learning for Computer Vision
 https://github.com/alexgkendall/thesis
+
+Multi-stream CNN based Video Semantic Segmentation for Automated Driving
+https://arxiv.org/abs/1901.02511
+
+PyTorch implementation of DeepLabV3, trained on the Cityscapes dataset.
+https://github.com/fregu856/deeplabv3
+
+Unsupervised Image Segmentation by Backpropagation
+https://github.com/kanezaki/pytorch-unsupervised-segmentation

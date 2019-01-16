@@ -34,3 +34,24 @@ https://github.com/zeusees/FaceBoxes
 
 Towards Highly Accurate and Stable Face Alignment for High-Resolution Videos
 https://github.com/TencentYoutuResearch/FaceAlignment-FHR
+
+Our DSFD face detector achieves state-of-the-art performance on WIDER FACE and FDDB benchmark
+https://github.com/TencentYoutuResearch/FaceDetection-DSFD
+
+Pytorch implementation of face attention network
+https://github.com/rainofmine/Face_Attention_Network
+
+准实时CPU深度学习人脸检测
+https://github.com/iitzco/faced
+
+SSHA人脸检测与对齐(MXNet/OpenCV)
+https://github.com/ElegantGod/SSHA
+
+定制生成照片般逼真的人脸图片(TL-GAN)
+https://github.com/SummitKwan/transparent_latent_gan
+
+faceboxes implement by pytorch
+https://github.com/XiaXuehai/faceboxes
+
+The pytorch improved re-implementation of TPAMI 2017 paper: Face Alignment in Full Pose Range: A 3D Total Solution.
+https://github.com/cleardusk/3DDFA

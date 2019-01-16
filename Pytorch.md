@@ -86,3 +86,15 @@ https://docs.fast.ai/
 
 A PyTorch implementation of Xception: Deep Learning with Depthwise Separable Convolutions
 https://github.com/tstandley/Xception-PyTorch
+
+PyTorch几何计算机视觉库
+https://github.com/arraiy/torchgeometry
+
+Transformer implementation in PyTorch
+https://github.com/tunz/transformer-pytorch
+
+基于PyTorch的深度学习计算机视觉框架
+https://github.com/donnyyou/PyTorchCV
+
+PyTorch implementation of CVPR'18 - Perturbative Neural Networks http://xujuefei.com/pnn.html
+https://github.com/juefeix/pnn.pytorch

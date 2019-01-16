@@ -19,3 +19,9 @@ https://bigquant.com/community/t/topic/129052?weibo&181205&L1
 
 算法相关知识储备 - 来源 leetCode 和 其他算法书
 https://github.com/HuberTRoy/leetCode
+
+【漫画】以后在有面试官问你AVL树，你就把这篇文章扔给他
+https://mp.weixin.qq.com/s/X-HSkw1DWdGp5sdcCoNXKg
+
+C/C++面试知识总结
+https://github.com/huihut/interview

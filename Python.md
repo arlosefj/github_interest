@@ -102,3 +102,13 @@ https://mp.weixin.qq.com/s/FQdnKL6cK8yV_yKl9cXoIA
 
 Python调用栈性能分析工具
 https://github.com/joerick/pyinstrument
+
+Jupyter相关资源大列表
+https://github.com/markusschanta/awesome-jupyter
+
+一图了解Python3基本用法
+https://github.com/coodict/python3-in-one-pic
+http://coodict.github.io/python3-in-one-pic/
+
+Python命令行直显图像
+https://github.com/wookayin/python-imgcat

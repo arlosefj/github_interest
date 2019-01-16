@@ -68,3 +68,12 @@ https://blog.csdn.net/np4rHI455vg29y2/article/details/79737184
 
 tSNE的高速并行实现(Python)
 https://github.com/pavlin-policar/openTSNE
+
+机器学习代码/笔记集锦
+https://github.com/susanli2016/Machine-Learning-with-Python
+
+深度学习500问
+https://github.com/scutan90/DeepLearning-500-questions
+
+GitHub超过2600星的TensorFlow教程，简洁清晰还不太难
+https://github.com/osforscience/TensorFlow-Course#why-use-tensorflow

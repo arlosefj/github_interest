@@ -39,3 +39,9 @@ https://github.com/visipedia/annotation_tools
 
 基于网页的图像标注工具
 https://github.com/NaturalIntelligence/imglab
+
+开源文本标记工具
+https://github.com/chakki-works/doccano
+
+用Jupyter做数据标注的Widget
+https://github.com/natasha/ipyannotate

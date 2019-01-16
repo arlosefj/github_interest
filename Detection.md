@@ -29,3 +29,16 @@ https://github.com/yihui-he/softer-NMS
 
 Code for my master thesis: Vehicle Detection and Pose Estimation for Autonomous Driving
 https://github.com/libornovax/master_thesis_code
+
+目标识别神经网络评价
+https://github.com/Cartucho/mAP
+
+Crack-pot: Autonomous Road Crack and Pothole Detection
+https://github.com/sukhad-app/Crack-Pot
+
+Precise RoI Pooling with coordinate gradient support, proposed in the paper "Acquisition of Localization Confidence for Accurate Object Detection" (https://arxiv.org/abs/1807.11590).
+https://github.com/vacancy/PreciseRoIPooling
+
+
+Faster R-CNN and Mask R-CNN in PyTorch 1.0 - Fast, modular reference implementation of Semantic Segmentation and Object Detection algorithms in PyTorch.
+https://github.com/facebookresearch/maskrcnn-benchmark

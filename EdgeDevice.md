@@ -6,3 +6,6 @@ https://github.com/ARM-software/armnn
 
 AI Benchmark: Running Deep Neural Networks on Android Smartphones
 http://ai-benchmark.com/
+
+利用Mobilenetssd目标检测框架,ncnn前向推理,android项目
+https://github.com/chehongshu/ncnnforandroid_objectiondetection_Mobilenetssd

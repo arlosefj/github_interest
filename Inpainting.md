@@ -9,6 +9,12 @@ EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning
 https://github.com/knazeri/edge-connect
 https://arxiv.org/abs/1901.00212
 
+Anime-InPainting: An application Tool based on Edge-Connect
+https://github.com/youyuge34/Anime-InPainting
+
+Image Inpainting for Irregular Holes Using Partial Convolutions
+https://github.com/MathiasGruber/PConv-Keras
+
 
 # video inpainting
 https://github.com/jajatikr/Video-Inpainting

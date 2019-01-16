@@ -95,3 +95,6 @@ https://www.grammarly.com/e
 
 跟踪NVIDIA GPU工作情况的类htop命令行工具
 https://github.com/Syllo/nvtop
+
+专为程序员编写的英语学习指南
+https://github.com/yujiangshui/A-Programmers-Guide-to-English

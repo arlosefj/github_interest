@@ -30,3 +30,15 @@ https://github.com/Tencent/tencent-ml-images
 
 实体识别数据集集锦
 https://github.com/juand-r/entity-recognition-datasets
+
+医疗图像数据集大列表
+https://github.com/sfikas/medical-imaging-datasets
+
+fast.ai开放数据集
+https://course.fast.ai/datasets
+
+开放式博物馆识别挑战(ACCV 2018)
+http://users.cecs.anu.edu.au/~koniusz/openmic-dataset/
+
+(IPython Notebooks)创建自己的Google图片数据集
+https://github.com/fpingham/google-images-dataset

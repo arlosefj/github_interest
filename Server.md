@@ -55,3 +55,9 @@ https://github.com/ahkarami/Deep-Learning-in-Production
 
 OpenVINO深度学习部署工具集，支持Open Model Zoo预训练模型以及100多种流行格式的开源和公共模型，如Caffe *，Tensorflow *，MXNet *和ONNX *
 https://github.com/opencv/dldt
+
+GPU集群运维工具集
+https://github.com/NVIDIA/deepops
+
+TVM如何帮助部署隐私保护和安全的AI应用
+https://zhuanlan.zhihu.com/p/47613848

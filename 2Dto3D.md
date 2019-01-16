@@ -46,3 +46,8 @@ https://arxiv.org/abs/1809.04766
 [ECCV 2018] DF-Net: Unsupervised Joint Learning of Depth and Flow using Cross-Task Consistency
 https://github.com/vt-vl-lab/DF-Net
 
+Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving
+https://github.com/mileyan/pseudo_lidar
+
+Neural RGB->D Sensing: Depth and Uncertainty from a Video Camera
+https://arxiv.org/abs/1901.02571

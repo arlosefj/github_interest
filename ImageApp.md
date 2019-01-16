@@ -177,3 +177,22 @@ https://github.com/youyuge34/Anime-InPainting
 
 OpenCV图像处理入门100题实例解析
 https://github.com/yoyoyo-yo/Gasyori100knock
+
+椭圆检测 cvpr matlab
+https://github.com/AlanLuSun/High-quality-ellipse-detection
+https://www.52cv.net/?p=1535
+
+英特尔重磅开源OpenVINO™ ！附送的预训练模型是最大亮点
+非常强大！！！
+https://www.52cv.net/?p=1550
+https://github.com/opencv/dldt
+https://software.intel.com/en-us/openvino-toolkit/documentation/pretrained-models
+
+基于改进版OpenTLD和RNet的人脸追踪
+https://github.com/HandsomeHans/Face-Tracking-Based-on-OpenTLD-and-RNet
+
+C++实现的自动全景拼接
+https://github.com/ppwwyyxx/OpenPano
+
+Code Release for LF-Net: Learning Local Features from Images
+https://github.com/vcg-uvic/lf-net-release

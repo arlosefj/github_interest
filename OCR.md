@@ -5,6 +5,9 @@ we change the LSTM model to conv1D that more than 5 times faster than the origin
 * 场景文字图像增广工具
 https://github.com/Canjie-Luo/Scene-Text-Image-Transformer
 
+场景文字识别与理解资源集锦
+https://github.com/tangzhenyu/Scene-Text-Understanding
+
 通过分割来检测文字 PixelLink: Detecting Scene Text via Instance Segmentation
 https://github.com/ZJULearning/pixel_link
 
@@ -61,3 +64,9 @@ https://github.com/AstarLight/CPS-OCR-Engine
 
 Geometry-Aware Scene Text Detection with Instance Transformation Network
 https://github.com/zlmzju/itn
+
+开源OCR文字识别软件Calamari
+https://github.com/Calamari-OCR/calamari
+
+DeepTextSpotter: An End-to-End Trainable Scene Text Localization and Recognition Framework
+https://github.com/MichalBusta/DeepTextSpotter

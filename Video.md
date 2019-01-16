@@ -33,3 +33,6 @@ https://github.com/Algram/ytdl-webserver
 
 ffmpeg-python - Python bindings for FFmpeg - with complex filtering support
 https://github.com/kkroening/ffmpeg-python
+
+NVIDIA轻量低延迟视频压缩库(C)
+https://github.com/NVIDIA/NvPipe

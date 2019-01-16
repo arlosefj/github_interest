@@ -18,3 +18,9 @@ https://github.com/davidrosenberg/mlcourse
 
 台大李宏毅(国语)线性代数课程
 https://www.bilibili.com/video/av31780632/
+
+Deep Learning Summer School + Tensorflow + OpenCV cascade training + YOLO + COCO + CycleGAN + AWS EC2 Setup + AWS IoT Project + AWS SageMaker + AWS API Gateway + Raspberry Pi3 Ubuntu Core + Brain Waves Reconstruction
+https://github.com/RubensZimbres/Repo-2018
+
+STAT479: Machine Learning (Fall 2018)
+https://github.com/rasbt/stat479-machine-learning-fs18

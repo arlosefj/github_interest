@@ -16,3 +16,6 @@ https://github.com/kevin-ssy/Optical-Flow-Guided-Feature
 
 Multi-Fiber Networks for Video Recognition
 https://github.com/cypw/PyTorch-MFNet
+
+Stochastic Adversarial Video Prediction 预测生成视频下面的内容，可以做视频插值
+https://github.com/alexlee-gk/video_prediction
