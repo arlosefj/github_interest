@@ -75,3 +75,6 @@ https://github.com/Dreem-Organization/benderopt
 
 Tensorflow Implementation of ChannelNets (NIPS18) https://arxiv.org/abs/1809.01330
 https://github.com/HongyangGao/ChannelNets
+
+Neural Architecture Optimization
+https://github.com/renqianluo/NAO

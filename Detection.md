@@ -42,3 +42,9 @@ https://github.com/vacancy/PreciseRoIPooling
 
 Faster R-CNN and Mask R-CNN in PyTorch 1.0 - Fast, modular reference implementation of Semantic Segmentation and Object Detection algorithms in PyTorch.
 https://github.com/facebookresearch/maskrcnn-benchmark
+
+The implementation of “Gradient Harmonized Single-stage Detector” published on AAAI 2019.
+https://github.com/libuyu/GHM_Detection
+
+YOLO-LITE: A Real-Time Object Detection Algorithm Optimized for Non-GPU Computers
+https://github.com/reu2018DL/YOLO-LITE

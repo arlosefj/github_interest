@@ -24,3 +24,9 @@ https://github.com/RubensZimbres/Repo-2018
 
 STAT479: Machine Learning (Fall 2018)
 https://github.com/rasbt/stat479-machine-learning-fs18
+
+MIT Deep Learning
+https://github.com/lexfridman/mit-deep-learning
+
+深度学习教程整理
+https://github.com/zeusees/HyperDL-Tutorial

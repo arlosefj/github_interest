@@ -112,3 +112,12 @@ http://coodict.github.io/python3-in-one-pic/
 
 Python命令行直显图像
 https://github.com/wookayin/python-imgcat
+
+Python课程资料(IPython Notebooks)
+https://github.com/gautam1858/python-awesome
+
+让Python的GUI图形界面创建变得更简单
+https://github.com/PySimpleGUI/PySimpleGUI
+
+pixelhouse - A minimalist drawing library for making beautiful animations in python
+https://github.com/thoppe/pixelhouse

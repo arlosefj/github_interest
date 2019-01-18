@@ -61,3 +61,9 @@ https://github.com/NVIDIA/deepops
 
 TVM如何帮助部署隐私保护和安全的AI应用
 https://zhuanlan.zhihu.com/p/47613848
+
+Wayne：通用、基于 Web 的 Kubernetes 多集群管理平台
+https://github.com/Qihoo360/wayne
+
+复杂机器学习工作流(图形化)原型设计、构建和部署框架
+https://github.com/khaxis/plynx

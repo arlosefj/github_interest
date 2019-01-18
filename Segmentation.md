@@ -78,3 +78,7 @@ https://github.com/fregu856/deeplabv3
 
 Unsupervised Image Segmentation by Backpropagation
 https://github.com/kanezaki/pytorch-unsupervised-segmentation
+
+用Unet/Keras/TensorFlow.js实现的图片去背景
+https://ldenoue.github.io/keras-unet/
+https://github.com/ldenoue/keras-unet

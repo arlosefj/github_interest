@@ -77,3 +77,15 @@ https://github.com/scutan90/DeepLearning-500-questions
 
 GitHub超过2600星的TensorFlow教程，简洁清晰还不太难
 https://github.com/osforscience/TensorFlow-Course#why-use-tensorflow
+
+机器学习100天
+https://github.com/MLEveryday/100-Days-Of-ML-Code
+
+机器学习实战 | GBDT Xgboost LightGBM对比
+https://bigquant.com/community/t/topic/128066
+
+Python XGBoost算法代码实现和筛选特征应用
+https://bigquant.com/community/t/topic/128121
+
+LightGBM大战XGBoost，谁将夺得桂冠
+https://bigquant.com/community/t/topic/127385

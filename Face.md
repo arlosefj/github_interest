@@ -55,3 +55,6 @@ https://github.com/XiaXuehai/faceboxes
 
 The pytorch improved re-implementation of TPAMI 2017 paper: Face Alignment in Full Pose Range: A 3D Total Solution.
 https://github.com/cleardusk/3DDFA
+
+人脸识别相关资源大列表
+https://github.com/ChanChiChoi/awesome-Face_Recognition

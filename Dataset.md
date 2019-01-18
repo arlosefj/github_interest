@@ -42,3 +42,13 @@ http://users.cecs.anu.edu.au/~koniusz/openmic-dataset/
 
 (IPython Notebooks)创建自己的Google图片数据集
 https://github.com/fpingham/google-images-dataset
+
+中科院发布了目标追踪数据集，1万多条视频，150万个边界框
+http://got-10k.aitestunion.com/downloads
+https://zhuanlan.zhihu.com/p/53685015
+
+HACS：人体行为片段/分割数据集
+https://github.com/hangzhaomit/HACS-dataset
+
+SCUT-EPT离线手写汉字数据集
+https://github.com/HCIILAB/SCUT-EPT_Dataset_Release

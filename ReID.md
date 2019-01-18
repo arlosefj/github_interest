@@ -9,3 +9,6 @@ http://vision.cs.duke.edu/DukeMTMC/data/misc/Ristani_dissertation.pdf
 
 Multi-Target, Multi-Camera Tracking
 https://github.com/ergysr/DeepCC
+
+车辆重识别相关资源大列表
+https://github.com/knwng/awesome-vehicle-re-identification

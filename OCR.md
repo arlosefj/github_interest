@@ -5,6 +5,12 @@ we change the LSTM model to conv1D that more than 5 times faster than the origin
 * 场景文字图像增广工具
 https://github.com/Canjie-Luo/Scene-Text-Image-Transformer
 
+Single Shot Text Detector with Regional Attention
+https://github.com/HotaekHan/SSTDNet
+
+This is a pytorch re-implementation of EAST: An Efficient and Accurate Scene Text Detector.
+https://github.com/songdejia/EAST
+
 场景文字识别与理解资源集锦
 https://github.com/tangzhenyu/Scene-Text-Understanding
 

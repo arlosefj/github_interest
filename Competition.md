@@ -29,3 +29,9 @@ https://github.com/ybabakhin/kaggle_salt_bes_phalanx
 https://www.kaggle.com/c/tgs-salt-identification-challenge/discussion/69291
 https://github.com/SeuTao/Kaggle_TGS2018_4th_solution
 https://github.com/tugstugi/pytorch-saltnet
+
+Kaggle机器学习比赛指南
+https://towardsdatascience.com/machine-learning-kaggle-competition-part-one-getting-started-32fb9ff47426
+
+Data competition Top Solution 数据竞赛Top解决方案开源整理
+https://github.com/Smilexuhc/Data-Competition-TopSolution

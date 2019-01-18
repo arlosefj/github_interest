@@ -15,3 +15,6 @@ https://pan.baidu.com/s/1SuVw94TQEI1W2CHyBh9O4Q
 
 (树莓派/本地服务器)家庭智能助理相关资源大列表
 https://github.com/frenck/awesome-home-assistant
+
+基于树莓派的自动驾驶小车，利用树莓派和tensorflow实现小车在赛道的自动驾驶。（Self-driving car based on raspberry pie（tensorflow））
+https://github.com/Timthony/self_drive

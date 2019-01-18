@@ -178,11 +178,11 @@ https://github.com/youyuge34/Anime-InPainting
 OpenCV图像处理入门100题实例解析
 https://github.com/yoyoyo-yo/Gasyori100knock
 
-椭圆检测 cvpr matlab
+* 椭圆检测 cvpr matlab
 https://github.com/AlanLuSun/High-quality-ellipse-detection
 https://www.52cv.net/?p=1535
 
-英特尔重磅开源OpenVINO™ ！附送的预训练模型是最大亮点
+* 英特尔重磅开源OpenVINO™ ！附送的预训练模型是最大亮点
 非常强大！！！
 https://www.52cv.net/?p=1550
 https://github.com/opencv/dldt
@@ -196,3 +196,21 @@ https://github.com/ppwwyyxx/OpenPano
 
 Code Release for LF-Net: Learning Local Features from Images
 https://github.com/vcg-uvic/lf-net-release
+
+Deep Learning for Anomaly Detection: A Survey
+https://arxiv.org/abs/1901.03407
+
+Delira：医疗图像(放射学)轻量深度学习框架
+https://github.com/justusschock/delira
+
+Quickly search over billions of images
+https://github.com/EdjoLabs/image-match
+
+Squoosh 是 Google 推出的一款在线简单高效的图片压缩工具，支持 JPG、PNG 和 WebP 格式
+https://github.com/GoogleChromeLabs/squoosh
+
+最新的边缘检测和图像过分割
+https://mmcheng.net/zh/rcfedge/
+
+【C++实时视觉跟踪包】’OpenTracker - Real-time C++ ECO tracker etc. speed-up by SSE/NEON, support Linux, Mac, Jetson TX1/2, raspberry pi
+https://github.com/rockkingjy/OpenTracker
