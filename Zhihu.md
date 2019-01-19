@@ -32,3 +32,12 @@ https://www.zhihu.com/question/275351176
 
 如何保持长期、持续、稳定的努力
 https://www.zhihu.com/question/27484486
+
+英文原版阅读有哪些入门书籍推荐
+https://www.zhihu.com/question/20291266
+
+科研搞不出来的时候，大家一般都会干什么
+https://www.zhihu.com/question/62269624
+
+爬了下知乎神回复，笑死人
+https://mp.weixin.qq.com/s/fDh74BqvdGSmar32vPrw0Q

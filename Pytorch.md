@@ -98,3 +98,12 @@ https://github.com/donnyyou/PyTorchCV
 
 PyTorch implementation of CVPR'18 - Perturbative Neural Networks http://xujuefei.com/pnn.html
 https://github.com/juefeix/pnn.pytorch
+
+A PyTorch implementation of Mnasnet searched architecture: MnasNet: Platform-Aware Neural Architecture Search for Mobile.
+https://github.com/AnjieZheng/MnasNet-PyTorch
+
+PyTorch神经网络模型分析器(参数规模/FLOPs/MAdd/内存消耗)
+https://github.com/Swall0w/torchstat
+
+Pytorch Implementation of Refinenet
+https://github.com/thomasjpfan/pytorch_refinenet

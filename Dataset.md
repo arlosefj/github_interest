@@ -52,3 +52,9 @@ https://github.com/hangzhaomit/HACS-dataset
 
 SCUT-EPT离线手写汉字数据集
 https://github.com/HCIILAB/SCUT-EPT_Dataset_Release
+
+AI 从业者都应该知道的实验数据集
+https://bigquant.com/community/t/ai-%E4%BB%8E%E4%B8%9A%E8%80%85%E9%83%BD%E5%BA%94%E8%AF%A5%E7%9F%A5%E9%81%93%E7%9A%84%E5%AE%9E%E9%AA%8C%E6%95%B0%E6%8D%AE%E9%9B%86/127802?weibo&181112&L1
+
+淋巴结切片病理图像数据集：机器学习模型新基准——比CIFAR10规模大，比imagenet规模小，可在单个GPU上训练
+https://github.com/basveeling/pcam

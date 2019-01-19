@@ -82,3 +82,15 @@ https://github.com/kanezaki/pytorch-unsupervised-segmentation
 用Unet/Keras/TensorFlow.js实现的图片去背景
 https://ldenoue.github.io/keras-unet/
 https://github.com/ldenoue/keras-unet
+
+(PyTorch)U-Net, R2U-Net, Attention U-Net, Attention R2U-Net图像分割
+https://github.com/LeeJunHyun/Image_Segmentation
+
+PyTorch语义分割(DeepLabV3+, UNet, etc.)
+https://github.com/nyoki-mtl/pytorch-segmentation
+
+## Deep GrabCut in PyTorch
+https://github.com/jfzhang95/DeepGrabCut-PyTorch
+
+基于PyTorch 1.0的高性能图像检测/分割实现，比Detectron快2倍
+https://github.com/facebookresearch/maskrcnn-benchmark

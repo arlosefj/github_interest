@@ -89,3 +89,19 @@ https://bigquant.com/community/t/topic/128121
 
 LightGBM大战XGBoost，谁将夺得桂冠
 https://bigquant.com/community/t/topic/127385
+
+Facets可以将机器学习数据集可视化，以方便分析和研究。它是个Ploymer组件，因此可以很容易集成到Jupyter notebooks中或者网页上。
+https://github.com/PAIR-code/facets
+
+AI-Blocks是款强大的所见即所得工具，任何人都可以利用它轻松地建立机器学习模型。
+https://github.com/MrNothing/AI-Blocks
+
+将李航博士《统计学习方法》一书中所有算法实现一遍
+https://github.com/WenDesi/lihang_book_algorithm
+
+在CIFAR10上训练小型ResNet，79秒内达到94％测试精度
+https://github.com/davidcpage/cifar10-fast
+https://www.myrtle.ai/2018/09/24/how_to_train_your_resnet/
+
+Instance-Batch Normalization Networks (ECCV2018)
+https://github.com/XingangPan/IBN-Net

@@ -23,3 +23,9 @@ https://github.com/NLPScott/bert-Chinese-classification-task
 
 使用预训练语言模型BERT做中文NER
 https://github.com/ProHiryu/bert-chinese-ner
+
+PyTorch深度学习文本处理
+https://github.com/castorini/Castor
+
+跟踪NLP各项技术的state-of-the-art进展
+https://nlpprogress.com/

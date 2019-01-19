@@ -48,3 +48,6 @@ https://github.com/libuyu/GHM_Detection
 
 YOLO-LITE: A Real-Time Object Detection Algorithm Optimized for Non-GPU Computers
 https://github.com/reu2018DL/YOLO-LITE
+
+目标识别最新综述
+https://www.paperweekly.site/papers/2461

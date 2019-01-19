@@ -67,3 +67,6 @@ https://github.com/Qihoo360/wayne
 
 复杂机器学习工作流(图形化)原型设计、构建和部署框架
 https://github.com/khaxis/plynx
+
+用Python/Keras/Flask/Docker在Kubernetes上部署深度学习模型
+http://dockone.io/article/8316

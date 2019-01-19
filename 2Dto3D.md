@@ -39,6 +39,12 @@ https://github.com/phuang17/DeepMVS
 Layer-structured 3D Scene Inference via View Synthesis
 https://github.com/google/layered-scene-inference
 
+Deep Depth Completion of a Single RGB-D Image
+https://github.com/yindaz/DeepCompletionRelease
+
+场景理解和建模挑战(360° RGB-D 3D室内全景理解
+https://github.com/facebookresearch/sumo-challenge
+
 # paper
 Real-Time Joint Semantic Segmentation and Depth Estimation Using Asymmetric Annotations
 https://arxiv.org/abs/1809.04766

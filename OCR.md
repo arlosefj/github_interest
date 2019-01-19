@@ -5,6 +5,12 @@ we change the LSTM model to conv1D that more than 5 times faster than the origin
 * 场景文字图像增广工具
 https://github.com/Canjie-Luo/Scene-Text-Image-Transformer
 
+场景文字去除数据集
+https://github.com/HCIILAB/Scene-Text-Removal
+
+场景文字检测与识别文献/代码大列表
+https://github.com/Jyouhou/SceneTextPapers
+
 Single Shot Text Detector with Regional Attention
 https://github.com/HotaekHan/SSTDNet
 
@@ -76,3 +82,18 @@ https://github.com/Calamari-OCR/calamari
 
 DeepTextSpotter: An End-to-End Trainable Scene Text Localization and Recognition Framework
 https://github.com/MichalBusta/DeepTextSpotter
+
+yolo3+ocr
+https://github.com/chineseocr/chineseocr
+
+Recognizing cropped text in natural images.
+https://github.com/bgshih/aster
+
+Single Shot Scene Text Retrieval, ECCV 2018.
+https://github.com/lluisgomez/single-shot-str
+
+Graph Convolutional Networks for Text Classification. AAAI 2019
+https://github.com/yao8839836/text_gcn
+
+A PyTorch implement of ECCV2018 Paper: TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes
+https://github.com/princewang1994/TextSnake.pytorch

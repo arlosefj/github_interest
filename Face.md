@@ -58,3 +58,12 @@ https://github.com/cleardusk/3DDFA
 
 人脸识别相关资源大列表
 https://github.com/ChanChiChoi/awesome-Face_Recognition
+
+Face_recognition号称是“世界上最简单的面部识别API”，可以通过Python或命令行调用。该项目基于dlib的面部识别，在LFW数据集(Labeled Faces in the Wild，该数据集包含一万三千多张来源于互联网的人脸图像，并且全部标注了人名。详见http://vis-www.cs.umass.edu/lfw/)上达到了99.38%的准确率
+https://github.com/ageitgey/face_recognition
+
+这是个实时面部检测的模型，还能对表情、性别进行分类。基于keras CNN模型和openCV实现，在IMDB数据集上进行性别分类的测试准确率为96%，fer2013数据集上的表情分类测试准确率为66%。
+https://github.com/oarriaga/face_classification
+
+潜在属性编辑相片级人脸合成
+https://github.com/SummitKwan/transparent_latent_gan

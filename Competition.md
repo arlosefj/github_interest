@@ -35,3 +35,9 @@ https://towardsdatascience.com/machine-learning-kaggle-competition-part-one-gett
 
 Data competition Top Solution 数据竞赛Top解决方案开源整理
 https://github.com/Smilexuhc/Data-Competition-TopSolution
+
+Jeff Heaton的Kaggle工具箱
+https://github.com/jeffheaton/jh-kaggle-util
+
+如何达到Kaggle竞赛top 2%？这里有一篇特征探索经验帖
+https://mp.weixin.qq.com/s/SDCon7Uy-E4NlLN8JxzkFg

@@ -9,3 +9,6 @@ https://github.com/MultiPath/Squirrel
 
 复制即翻译的外文辅助阅读翻译解决方案
 https://github.com/elliottzheng/CopyTranslator/blob/master/README_zh.md
+
+OpenNMT是个开源的神经网络机器翻译系统，用Torch实现。其设计目标是简单易用、易于扩展，同时保证效率和一流的翻译准确性。
+https://github.com/OpenNMT/OpenNMT

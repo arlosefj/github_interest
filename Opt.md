@@ -78,3 +78,16 @@ https://github.com/HongyangGao/ChannelNets
 
 Neural Architecture Optimization
 https://github.com/renqianluo/NAO
+
+AdaNet 简介：快速灵活的 AutoML，提供学习保证
+https://github.com/tensorflow/adanet
+https://mp.weixin.qq.com/s?__biz=MzU1OTMyNDcxMQ==&mid=2247485095&idx=1&sn=990ca481921261e9ff5d850bd3753d6e&chksm=fc184defcb6fc4f986862449c630c80e9f285647a6bcac4a9e03c1108d11554a427d62da148e&scene=0&xtrack=1#rd
+
+Sonnet是个基于TensorFlow的库，可以帮助你建立复杂的神经网络。该项目由Deepmind的Malcolm Reynolds创建。
+https://github.com/deepmind/sonnet
+
+神经网络简化应用框架
+https://github.com/mindsdb/mindsdb
+
+腾讯发布的模型压缩自动化(AutoMC)框架
+https://github.com/Tencent/PocketFlow

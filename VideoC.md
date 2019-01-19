@@ -19,3 +19,9 @@ https://github.com/cypw/PyTorch-MFNet
 
 Stochastic Adversarial Video Prediction 预测生成视频下面的内容，可以做视频插值
 https://github.com/alexlee-gk/video_prediction
+
+Deep Video Analytics是个视频分析平台，能够从视频和图像中抽取并索引信息。可以用于视频搜索、视频识别检测、OCR等。
+https://github.com/AKSHAYUBHAT/DeepVideoAnalytics
+
+深度学习NBA球员行为识别/统计
+https://github.com/neeilan/DeepPlayByPlay

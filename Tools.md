@@ -98,3 +98,6 @@ https://github.com/Syllo/nvtop
 
 专为程序员编写的英语学习指南
 https://github.com/yujiangshui/A-Programmers-Guide-to-English
+
+如何高效的使用 Git
+http://dockone.io/article/8315

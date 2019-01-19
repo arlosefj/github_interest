@@ -12,3 +12,6 @@ https://github.com/ergysr/DeepCC
 
 车辆重识别相关资源大列表
 https://github.com/knwng/awesome-vehicle-re-identification
+
+Person Search by Progressive Propagation via Competitive Consensus (PPCC)
+https://github.com/hqqasw/person-search-PPCC
