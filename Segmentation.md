@@ -14,6 +14,15 @@ https://github.com/pathak22/seg-by-interaction
 A higher performance pytorch implementation of DeepLab V3 Plus(DeepLab v3+)
 https://github.com/hualin95/Deeplab-v3plus
 
+one-shot 分割
+http://people.ee.ethz.ch/~cvlsegmentation/osvos/
+https://github.com/kmaninis/OSVOS-PyTorch
+
+convCRF快速分割后处理
+https://arxiv.org/pdf/1805.04777.pdf
+https://github.com/MarvinTeichmann/ConvCRF
+推广一下我们在domain adaptation for semantic segmentation的新工作。和目前众多基于adversarial learning的方法不同，我们基于简单而有效的self-training方法，在GTA2City, SYNTHIA2City, City2NTHU上达到SOTA, 并在CVPR WAD domain adaptation challenge斩获第一和第三
+https://github.com/yzou2/cbst
 
 # instance
 ## mask-rcnn
@@ -88,6 +97,8 @@ https://github.com/LeeJunHyun/Image_Segmentation
 
 PyTorch语义分割(DeepLabV3+, UNet, etc.)
 https://github.com/nyoki-mtl/pytorch-segmentation
+
+
 
 ## Deep GrabCut in PyTorch
 https://github.com/jfzhang95/DeepGrabCut-PyTorch

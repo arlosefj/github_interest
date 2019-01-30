@@ -10,18 +10,8 @@ https://github.com/minimaxir/person-blocker
 性能与OpenCV相当的轻量图像处理库(Python/C++)
 https://github.com/ethereon/lycon
 
-真人头像漫画化
-https://github.com/jerryli27/TwinGAN/blob/master/docs/blog/blog_CH.md
-
-Night-to-Day Image Translation for Retrieval-based Localization
-https://github.com/AAnoosheh/ToDayGAN
-
 js 简单、高效的帧动画生成工具，图片处理工具
 https://github.com/gkajs/gka
-
-修复
-https://github.com/akmtn/pytorch-siggraph2017-inpainting
-http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/​
 
 人像抠图 Automatic Portrait Segmentation for Image Stylization
 https://github.com/PetroWu/AutoPortraitMatting
@@ -30,21 +20,11 @@ http://www.cse.cuhk.edu.hk/leojia/papers/portrait_eg16.pdf​
 道路缺陷检测
 https://github.com/sekilab/RoadDamageDetector/
 
-浏览器上的姿态识别
-https://github.com/tensorflow/tfjs-models/tree/master/posenet/demos
-https://github.com/llSourcell/pose_estimation
-
-pytorch implementation of MultiPoseNet (ECCV 2018, Muhammed Kocabas et al.)
-https://github.com/LiMeng95/MultiPoseNet.pytorch
-
 【Lyft感知挑战赛第四名(最快)方案】"Lyft Perception Challenge | Self-Driving Cars Lab"
 https://github.com/NikolasEnt/Lyft-Perception-Challenge
 
 Quickshift++: Provably Good Initializations for Sample-Based Mean Shift
 https://github.com/google/quickshift
-
-效果超赞的图片自动增强：GANs非成对学习图像增强
-https://github.com/nothinglo/Deep-Photo-Enhancer
 
 Facebook开源2D图片实时3D姿态估计DensePose(Caffe2)
 https://github.com/facebookresearch/DensePose
@@ -63,15 +43,6 @@ https://github.com/rui1996/DeRaindrop
 
 单图去雨
 https://github.com/XiaLiPKU/RESCAN
-
-CartoonGAN: Generative Adversarial Networks for Photo Cartoonization（卡通转换）
-https://github.com/Yijunmaverick/CartoonGAN-Test-Pytorch-Torch
-
-Eye In-Painting with Exemplar Generative Adversarial Networks（眼睛替换）
-https://github.com/bdol/exemplar_gans
-
-Simple Tensorflow implementation of FusionGAN（姿势替换）
-https://github.com/taki0112/FusionGAN-Tensorflow
 
 全局上下文场景图解析
 https://github.com/rowanz/neural-motifs

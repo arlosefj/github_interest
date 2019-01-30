@@ -18,6 +18,12 @@ https://github.com/MathiasGruber/PConv-Keras
 Deep Image Prior利用深度卷积网络来实现一些常见的图像逆操作，如去噪、提高分辨率、图像修复等。
 https://github.com/DmitryUlyanov/deep-image-prior
 
+
+修复
+https://github.com/akmtn/pytorch-siggraph2017-inpainting
+http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/​
+
+
 # video inpainting
 https://github.com/jajatikr/Video-Inpainting
 keras+tf

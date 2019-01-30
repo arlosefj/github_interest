@@ -91,3 +91,6 @@ https://github.com/mindsdb/mindsdb
 
 腾讯发布的模型压缩自动化(AutoMC)框架
 https://github.com/Tencent/PocketFlow
+
+面向手机优化的量化神经网络算子库
+https://github.com/pytorch/QNNPACK

@@ -9,3 +9,6 @@ https://github.com/llSourcell/pose_estimation
 
 用TensorFlow.js实现的画风迁移、符号识别、涂鸦识别、目光跟踪、情感分类等小项目
 https://github.com/zaidalyafeai/zaidalyafeai.github.io
+
+命令行机器学习开发环境(TensorFlow)：预训练模型/数据预处理/数据增强/训练会话/REST界面
+https://github.com/vergeml/vergeml

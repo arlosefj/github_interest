@@ -21,3 +21,10 @@ https://github.com/ZhaoJ9014/Multi-Human-Parsing_MHP
 
 Code for the Pose Residual Network introduced in 'MultiPoseNet: Fast Multi-Person Pose Estimation using Pose Residual Network (ECCV 2018)' paper https://arxiv.org/abs/1807.04067
 https://github.com/mkocabas/pose-residual-network
+
+浏览器上的姿态识别
+https://github.com/tensorflow/tfjs-models/tree/master/posenet/demos
+https://github.com/llSourcell/pose_estimation
+
+pytorch implementation of MultiPoseNet (ECCV 2018, Muhammed Kocabas et al.)
+https://github.com/LiMeng95/MultiPoseNet.pytorch

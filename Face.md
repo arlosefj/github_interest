@@ -67,3 +67,7 @@ https://github.com/oarriaga/face_classification
 
 潜在属性编辑相片级人脸合成
 https://github.com/SummitKwan/transparent_latent_gan
+
+可在CPU上实时运行的PCN旋转不变人脸检测
+https://github.com/Jack-CV/FaceKit
+https://github.com/HandsomeHans/PCN-ncnn

@@ -31,3 +31,22 @@ https://github.com/marian42/wavefunctioncollapse
 
 Pixel Level Data Augmentation for Semantic Image Segmentation using Generative Adversarial Networks
 https://www.arxiv-vanity.com/papers/1811.00174/
+
+真人头像漫画化
+https://github.com/jerryli27/TwinGAN/blob/master/docs/blog/blog_CH.md
+
+Night-to-Day Image Translation for Retrieval-based Localization
+https://github.com/AAnoosheh/ToDayGAN
+
+
+效果超赞的图片自动增强：GANs非成对学习图像增强
+https://github.com/nothinglo/Deep-Photo-Enhancer
+
+CartoonGAN: Generative Adversarial Networks for Photo Cartoonization（卡通转换）
+https://github.com/Yijunmaverick/CartoonGAN-Test-Pytorch-Torch
+
+Eye In-Painting with Exemplar Generative Adversarial Networks（眼睛替换）
+https://github.com/bdol/exemplar_gans
+
+Simple Tensorflow implementation of FusionGAN（姿势替换）
+https://github.com/taki0112/FusionGAN-Tensorflow
