@@ -41,3 +41,6 @@ https://github.com/jeffheaton/jh-kaggle-util
 
 如何达到Kaggle竞赛top 2%？这里有一篇特征探索经验帖
 https://mp.weixin.qq.com/s/SDCon7Uy-E4NlLN8JxzkFg
+
+开箱即用的 Kaggle比赛深度学习pipeline
+https://github.com/PavelOstyakov/pipeline

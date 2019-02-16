@@ -27,3 +27,6 @@ https://bigquant.com/community/t/topic/259?suanfazu&181206&L3
 
 机器学习项目失败的9个原因
 https://mp.weixin.qq.com/s/SWuaM7PqOD4MK_rpnGaB5w
+
+在文本分类任务中，有哪些论文中很少提及却对性能有重要影响的tricks？
+https://www.zhihu.com/question/265357659

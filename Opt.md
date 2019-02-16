@@ -94,3 +94,6 @@ https://github.com/Tencent/PocketFlow
 
 面向手机优化的量化神经网络算子库
 https://github.com/pytorch/QNNPACK
+
+PeleeNet: An efficient DenseNet architecture for mobile devices
+https://github.com/Robert-JunWang/PeleeNet

@@ -28,3 +28,9 @@ https://github.com/llSourcell/pose_estimation
 
 pytorch implementation of MultiPoseNet (ECCV 2018, Muhammed Kocabas et al.)
 https://github.com/LiMeng95/MultiPoseNet.pytorch
+
+Simple Baselines for Human Pose Estimation and Tracking
+https://github.com/mks0601/TF-SimpleHumanPose
+
+OpenPose's Unity Plugin for Unity users 
+https://github.com/CMU-Perceptual-Computing-Lab/openpose_unity_plugin

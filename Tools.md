@@ -101,3 +101,6 @@ https://github.com/yujiangshui/A-Programmers-Guide-to-English
 
 如何高效的使用 Git
 http://dockone.io/article/8315
+
+迈向 Tech Lead 之路
+https://github.com/phodal/techlead

@@ -107,3 +107,12 @@ https://github.com/Swall0w/torchstat
 
 Pytorch Implementation of Refinenet
 https://github.com/thomasjpfan/pytorch_refinenet
+
+Multi-Task Learning as Multi-Objective Optimization
+https://github.com/IntelVCL/MultiObjectiveOptimization
+
+PyTorch implementation of DGCNN (Deep Graph Convolutional Neural Network)
+https://github.com/muhanzhang/pytorch_DGCNN
+
+基于mltest的PyTorch单元测试包
+https://github.com/suriyadeepan/torchtest

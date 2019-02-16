@@ -51,3 +51,9 @@ https://github.com/reu2018DL/YOLO-LITE
 
 目标识别最新综述
 https://www.paperweekly.site/papers/2461
+
+SimpleDet：简单、通用的目标检测/实例识别框架
+https://github.com/TuSimple/simpledet
+
+BoxCars Fine-Grained Recognition of Vehicles
+https://github.com/JakubSochor/BoxCars

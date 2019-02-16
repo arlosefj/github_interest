@@ -105,3 +105,22 @@ https://www.myrtle.ai/2018/09/24/how_to_train_your_resnet/
 
 Instance-Batch Normalization Networks (ECCV2018)
 https://github.com/XingangPan/IBN-Net
+
+C++实现的高性能Gradient Boosting Decision Trees Algorithms (GBDT)
+https://github.com/yarny/gbdt
+
+Using Pre-Training Can Improve Model Robustness and Uncertainty
+https://github.com/hendrycks/pre-training
+
+小项目解决大问题：用Snorkel高效规范创建训练集
+https://towardsdatascience.com/introducing-snorkel-27e4b0e6ecff
+
+AI实战-practicalAI 中文版
+https://github.com/MLEveryday/practicalAI-cn
+
+机器学习论文阅读笔记集锦
+https://github.com/kweonwooj/papers
+https://towardsdatascience.com/guide-to-reading-academic-research-papers-c69c21619de6
+
+Deep Learning Interview 深度学习面试题目汇总
+https://github.com/ShanghaiTechAIClub/DLInterview

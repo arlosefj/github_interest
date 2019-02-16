@@ -31,3 +31,6 @@ https://colab.research.google.com/github/jantic/DeOldify/blob/master/DeOldify_co
 
 CartoonGAN: Generative Adversarial Networks for Photo Cartoonization
 https://github.com/znxlwm/pytorch-CartoonGAN
+
+MetaStyle: Three-Way Trade-Off Among Speed, Flexibility, and Quality in Neural Style Transfer
+https://github.com/WellyZhang/MetaStyle

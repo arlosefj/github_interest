@@ -97,3 +97,13 @@ https://github.com/yao8839836/text_gcn
 
 A PyTorch implement of ECCV2018 Paper: TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes
 https://github.com/princewang1994/TextSnake.pytorch
+
+
+ocr, cnn+lstm+ctc, crnn, recognition model, tensorflow
+https://github.com/Li-Ming-Fan/OCR-CRNN-CTC
+
+CRNN(CNN+RNN+CTCLoss)中文手写汉字识别
+https://github.com/chizhanyuefeng/Chinese_OCR_CNN-RNN-CTC
+
+ICDAR 2017场景文字图像数据集(及最新结果列表)
+https://github.com/cs-chan/Total-Text-Dataset

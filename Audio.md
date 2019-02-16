@@ -6,3 +6,12 @@ https://github.com/facebookresearch/wav2letter
 
 轻量语音识别解码框架
 https://github.com/robin1001/xdecoder
+
+(语音)说话人分割相关资源大列表
+https://github.com/wq2012/awesome-diarization
+
+(PyTorch)Seq2Seq普通话Transformer语音识别
+https://github.com/ZhengkunTian/Speech-Tranformer-Pytorch
+
+面向下一代交互设备的开源语音交互操作系统
+https://github.com/yodaos-project/yodaos

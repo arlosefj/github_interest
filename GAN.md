@@ -50,3 +50,12 @@ https://github.com/bdol/exemplar_gans
 
 Simple Tensorflow implementation of FusionGAN（姿势替换）
 https://github.com/taki0112/FusionGAN-Tensorflow
+
+(PyTorch)GANs训练库
+https://github.com/unit8co/vegans
+
+An "infinite"-resolution and interpretable GAN. It works based on a differentiable photo editing model and reinforcement learning. (ACM Transactions on Graphics, presented at SIGGRAPH 2018)
+https://github.com/yuanming-hu/exposure
+
+PyTorch implementation of DRAW: A Recurrent Neural Network For Image Generation trained on Devanagari dataset.
+https://github.com/Natsu6767/Generating-Devanagari-Using-DRAW

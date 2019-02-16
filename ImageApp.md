@@ -185,3 +185,9 @@ https://mmcheng.net/zh/rcfedge/
 
 【C++实时视觉跟踪包】’OpenTracker - Real-time C++ ECO tracker etc. speed-up by SSE/NEON, support Linux, Mac, Jetson TX1/2, raspberry pi
 https://github.com/rockkingjy/OpenTracker
+
+Intel的开源图像(渲染)去噪库
+https://github.com/OpenImageDenoise/oidn
+
+Visualizing Deep Similarity Networks
+https://github.com/GWUvision/Similarity-Visualization

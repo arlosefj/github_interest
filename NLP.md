@@ -29,3 +29,12 @@ https://github.com/castorini/Castor
 
 跟踪NLP各项技术的state-of-the-art进展
 https://nlpprogress.com/
+
+Reading Wikipedia to Answer Open-Domain Questions
+https://github.com/zaghaghi/drqa-webui
+
+transformer在summarization的尝试
+https://github.com/lipiji/TranSummar
+
+Neural-symbolic visual question answering
+https://github.com/kexinyi/ns-vqa

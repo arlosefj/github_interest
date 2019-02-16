@@ -25,3 +25,9 @@ https://github.com/AKSHAYUBHAT/DeepVideoAnalytics
 
 深度学习NBA球员行为识别/统计
 https://github.com/neeilan/DeepPlayByPlay
+
+ECO: Efficient Convolutional Network for Online Video Understanding
+https://github.com/mzolfaghari/ECO-pytorch
+
+视频研究常用方法、数据集和任务汇总
+https://github.com/gsig/PyVideoResearch

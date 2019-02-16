@@ -41,3 +41,6 @@ https://www.zhihu.com/question/62269624
 
 爬了下知乎神回复，笑死人
 https://mp.weixin.qq.com/s/fDh74BqvdGSmar32vPrw0Q
+
+有哪些数学上的事实，没有一定数学知识的人不会相信？ - 知乎
+https://www.zhihu.com/question/288093713

@@ -98,7 +98,11 @@ https://github.com/LeeJunHyun/Image_Segmentation
 PyTorch语义分割(DeepLabV3+, UNet, etc.)
 https://github.com/nyoki-mtl/pytorch-segmentation
 
+Pytorch code for semantic segmentation using ERFNet
+https://github.com/Eromera/erfnet_pytorch
 
+Dense Relation Network: Learning Consistent and Context-Aware Representation For Semantic Image Segmentation. Modification of DRN source code
+https://github.com/tonysy/DRN-MXNet
 
 ## Deep GrabCut in PyTorch
 https://github.com/jfzhang95/DeepGrabCut-PyTorch
