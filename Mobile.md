@@ -18,3 +18,6 @@ https://github.com/sindresorhus/gifski-app
 
 iOS开发者工具集锦
 https://github.com/LeoMobileDeveloper/ios-developer-tools
+
+Gitter for GitHub - 可能是目前颜值最高的GitHub小程序客户端
+https://github.com/huangjianke/Gitter

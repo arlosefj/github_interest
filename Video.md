@@ -36,3 +36,6 @@ https://github.com/kkroening/ffmpeg-python
 
 NVIDIA轻量低延迟视频压缩库(C)
 https://github.com/NVIDIA/NvPipe
+
+开源、入门级视频播放器跨平台视频播放器。该播放器拥有视频播放器基本功能，适合学习播放器开发技术，音频、视频技术
+https://github.com/itisyang/playerdemo

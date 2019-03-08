@@ -44,3 +44,6 @@ https://mp.weixin.qq.com/s/SDCon7Uy-E4NlLN8JxzkFg
 
 开箱即用的 Kaggle比赛深度学习pipeline
 https://github.com/PavelOstyakov/pipeline
+
+FashionAI 天池竞赛 - Top5 技术方案简汇
+https://www.aiuai.cn/aifarm881.html

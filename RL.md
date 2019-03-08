@@ -30,3 +30,6 @@ https://github.com/AppliedDataSciencePartners/DeepReinforcementLearning
 
 训练一个神经网络来玩贪食蛇
 https://github.com/greerviau/SnakeAI
+
+英文）OpenAI 制作的教育资源，可以更容易地学习深层强化学习。官方项目，浅显易懂，提供练手的例子，方便初学者或对深层强化学习感兴趣的人群学习和入门
+https://github.com/openai/spinningup

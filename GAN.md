@@ -59,3 +59,6 @@ https://github.com/yuanming-hu/exposure
 
 PyTorch implementation of DRAW: A Recurrent Neural Network For Image Generation trained on Devanagari dataset.
 https://github.com/Natsu6767/Generating-Devanagari-Using-DRAW
+
+生成对抗网络（Generative Adversarial Networks，简称GAN）的一个大集合，作者列举了生成对抗网络领域各式各样的应用集合，大部分为论文，包含少数的 GitHub 项目。该项目对于 GAN 领域覆盖面全面，论文列表整理清晰，GAN 方向的研究者可以从这个项目中查询到想看的经典的论文或者扩充自己的知识储备
+https://github.com/hindupuravinash/the-gan-zoo
