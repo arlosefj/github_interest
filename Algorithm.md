@@ -31,3 +31,6 @@ https://github.com/huihut/interview
 
 GitHub星数13200！用Python实现所有排序算法的开源项目
 https://bigquant.com/community/t/topic/127141
+
+收集了许多基于 Python 实现的算法
+https://github.com/TheAlgorithms/Python
