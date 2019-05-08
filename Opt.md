@@ -97,3 +97,18 @@ https://github.com/pytorch/QNNPACK
 
 PeleeNet: An efficient DenseNet architecture for mobile devices
 https://github.com/Robert-JunWang/PeleeNet
+
+深度网络压缩/加速最新进展列表
+https://github.com/MingSun-Tse/EfficientDNNs
+
+用于寻找和分析神经网络重要神经元的工具包
+https://github.com/fdalvi/NeuroX
+
+开源:Keras + Hyperopt方便超参优化的简单封装Hyperas
+http://maxpumperla.com/hyperas/
+
+PyTorch机器学习自动化：自动框架搜索、超参优化
+https://github.com/automl/Auto-PyTorch
+
+Tensorized Embedding Layers for Efficient Model Compression
+https://github.com/KhrulkovV/tt-pytorch

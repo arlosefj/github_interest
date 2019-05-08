@@ -21,3 +21,6 @@ https://github.com/LeoMobileDeveloper/ios-developer-tools
 
 Gitter for GitHub - 可能是目前颜值最高的GitHub小程序客户端
 https://github.com/huangjianke/Gitter
+
+用Fritz在手机上训练、部署多种机器学习模型
+https://github.com/fritzlabs/fritz-models

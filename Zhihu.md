@@ -44,3 +44,15 @@ https://mp.weixin.qq.com/s/fDh74BqvdGSmar32vPrw0Q
 
 有哪些数学上的事实，没有一定数学知识的人不会相信？ - 知乎
 https://www.zhihu.com/question/288093713
+
+如何保持长期、持续、稳定的努力？ - 知乎
+https://www.zhihu.com/question/27484486
+
+怎样理解和区分中心极限定理与大数定律？ - 知乎
+https://www.zhihu.com/question/22913867
+
+科研大牛们怎么读文献？ - 知乎
+https://www.zhihu.com/question/21278186
+
+不想学习的时候如何逼迫自己去学习？ - 知乎
+https://www.zhihu.com/question/20773513

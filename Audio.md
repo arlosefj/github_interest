@@ -15,3 +15,12 @@ https://github.com/ZhengkunTian/Speech-Tranformer-Pytorch
 
 面向下一代交互设备的开源语音交互操作系统
 https://github.com/yodaos-project/yodaos
+
+笑声检测器
+https://github.com/ideo/LaughDetection
+
+'ASRT_SpeechRecognition - A Deep-Learning-Based Chinese Speech Recognition System 基于深度学习的中文语音识别系统' by nl8590687
+https://github.com/nl8590687/ASRT_SpeechRecognition
+
+用卷积神经网络从立体声音乐中分离人声
+https://towardsdatascience.com/audio-ai-isolating-vocals-from-stereo-music-using-convolutional-neural-networks-210532383785

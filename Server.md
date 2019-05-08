@@ -70,3 +70,12 @@ https://github.com/khaxis/plynx
 
 用Python/Keras/Flask/Docker在Kubernetes上部署深度学习模型
 http://dockone.io/article/8316
+
+Slurm：可扩展负载管理器，用于排队调度集群CPU/GPU资源，值得一试
+https://github.com/SchedMD/slurm
+
+用于部署深度学习应用的混合计算平台，支持插件
+https://github.com/oeway/ImJoy
+
+Web/移动端的深度学习模型部署
+https://reshamas.github.io/deploying-deep-learning-models-on-web-and-mobile/

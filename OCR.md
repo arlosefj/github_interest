@@ -5,11 +5,20 @@ we change the LSTM model to conv1D that more than 5 times faster than the origin
 * 场景文字图像增广工具
 https://github.com/Canjie-Luo/Scene-Text-Image-Transformer
 
+ocr_densenet - 第一届西安交通大学人工智能实践大赛（2018AI实践大赛--图片文字识别）第一名；仅采用densenet识别图中文字
+https://github.com/yinchangchang/ocr_densenet
+
 场景文字去除数据集
 https://github.com/HCIILAB/Scene-Text-Removal
 
 场景文字检测与识别文献/代码大列表
 https://github.com/Jyouhou/SceneTextPapers
+
+CRNN场景文字识别
+https://github.com/MaybeShewill-CV/CRNN_Tensorflow
+
+(PyTorch)CRNN不定长中文字符识别
+https://github.com/Sierkinhane/crnn_chinese_characters_rec
 
 Single Shot Text Detector with Regional Attention
 https://github.com/HotaekHan/SSTDNet
@@ -22,6 +31,9 @@ https://github.com/tangzhenyu/Scene-Text-Understanding
 
 通过分割来检测文字 PixelLink: Detecting Scene Text via Instance Segmentation
 https://github.com/ZJULearning/pixel_link
+
+深度学习文本检测/识别资源大列表
+https://github.com/hwalsuklee/awesome-deep-text-detection-recognition
 
 ChineseAddress_OCR - Photographing Chinese-Address OCR implemented using CTPN+CTC+Address Correction. 拍照文档中文地址文字识别。
 https://github.com/Walleclipse/ChineseAddress_OCR
@@ -107,3 +119,6 @@ https://github.com/chizhanyuefeng/Chinese_OCR_CNN-RNN-CTC
 
 ICDAR 2017场景文字图像数据集(及最新结果列表)
 https://github.com/cs-chan/Total-Text-Dataset
+
+'CHINESE-OCR - [python3.6] 运用tf实现自然场景文字检测,keras/pytorch实现ctpn+crnn+ctc实现不定长场景文字OCR识别' by xiaofeng 
+https://github.com/xiaofengShi/CHINESE-OCR

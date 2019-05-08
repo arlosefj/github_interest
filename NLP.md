@@ -38,3 +38,6 @@ https://github.com/lipiji/TranSummar
 
 Neural-symbolic visual question answering
 https://github.com/kexinyi/ns-vqa
+
+简洁方便获取BERT嵌入表示(MXNet/gluonnlp)
+https://github.com/imgarylai/bert-embedding

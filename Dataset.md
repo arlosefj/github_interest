@@ -58,3 +58,27 @@ https://bigquant.com/community/t/ai-%E4%BB%8E%E4%B8%9A%E8%80%85%E9%83%BD%E5%BA%9
 
 淋巴结切片病理图像数据集：机器学习模型新基准——比CIFAR10规模大，比imagenet规模小，可在单个GPU上训练
 https://github.com/basveeling/pcam
+
+Google发布Open Images Dataset V4大规模图像数据集
+https://storage.googleapis.com/openimages/web/index.html
+
+包含480个图标的开源图标集
+https://github.com/akveo/eva-icons
+
+具有多边形注释的大型街拍数据集
+https://github.com/eBay/modanet
+
+DeepFashion2服饰数据集
+https://github.com/switchablenorms/DeepFashion2
+
+超现实室内机器人视觉数据集
+https://github.com/3dperceptionlab/therobotrix
+
+大规模零售商品结账图像数据集
+https://rpc-dataset.github.io/
+
+Hotels-50K全球酒店识别数据集，包含来自全球50,000家不同酒店的100多万张图片。许多人口贩运受害者的照片都是在酒店房间拍摄的，从图像识别酒店有挑战也很有意义。
+https://github.com/GWUvision/Hotels-50K
+
+面向城市场景行人姿态估计与跟踪的“侠盗猎车手V(GTA V)”视频数据集
+https://github.com/fabbrimatteo/JTA-Dataset

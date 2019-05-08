@@ -4,6 +4,16 @@ https://github.com/lzx1413/PytorchSSD
 * Single Shot Tracker
 https://github.com/shijieS/SST
 
+【目标检测】CornerNet: Detecting Objects as Paired Keypoints
+https://github.com/wenguanwang/DHF1K
+本文是密歇根大学发表于ECCV 2018的工作。当前的目标检测算法大多基于Anchor，引入Anchor容易导致正负样本不均衡和引入更多超参数。本文在不采用Anchor的前提下取得了不错效果，是一篇非常有意思的探索工作。具体来说，论文借鉴了人体关键点检测的思路来做目标检测，通过检测目标框的左上角和右下角两个关键点就能得到预测框。其次，整个检测网络训练是从头开始的，且不基于预训练的分类模型，这使得用户能够自由设计特征提取网络，不用受预训练模型的限制。
+
+(Python/OpenCV)Mask RCNN自动车牌识别系统
+https://github.com/ria-com/nomeroff-net
+
+Real-time Multi-person tracker using YOLO v3 and deep_sort with tensorflow
+https://github.com/Qidian213/deep_sort_yolov3
+
 Fast Online Object Tracking and Segmentation: A Unifying Approach
 http://www.robots.ox.ac.uk/~qwang/SiamMask/
 
@@ -15,6 +25,12 @@ https://github.com/amusi/awesome-lane-detection
 
 [ECCV 2018] Spatial-Temporal Memory Networks for Video Object Detection
 https://github.com/fanyix/STMN
+
+PyTorch实现的Detectron目标检测
+https://github.com/adityaarun1/Detectron.pytorch
+
+PyTorch实现的Yolo3
+https://github.com/zhanghanduo/yolo3_pytorch
 
 深度学习目标检测文献列表(技术路线)
 https://github.com/hoya012/deep_learning_object_detection

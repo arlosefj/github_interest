@@ -7,3 +7,6 @@ https://github.com/bertinetto/siamese-fc
 
 dlib多目标追踪
 https://www.pyimagesearch.com/2018/10/29/multi-object-tracking-with-dlib/
+
+MOT tracking using deepsort yolo3 with PyTorch
+https://github.com/ZQPei/deep_sort_pytorch

@@ -34,3 +34,13 @@ https://github.com/znxlwm/pytorch-CartoonGAN
 
 MetaStyle: Three-Way Trade-Off Among Speed, Flexibility, and Quality in Neural Style Transfer
 https://github.com/WellyZhang/MetaStyle
+
+人人都能成为艺术家，用python+OpenCV实现世界名画风格迁移
+https://mbd.baidu.com/newspage/data/landingshare?pageType=1&isBdboxFrom=1&context=%7B%22nid%22%3A%22news_9130260126327074330%22%2C%22sourceFrom%22%3A%22bjh%22%7D
+
+deep-painterly-harmonization 一个基于深度学习的开源项目，让图片可以毫无违和感的融入到绘画作品中
+https://arxiv.org/abs/1804.03189
+https://github.com/luanfujun/deep-painterly-harmonization
+
+deep-photo-styletransfer 一个基于深度学习的开源项目，利用了深度卷积网络来进行摄影风格转换，瞬间切换图片风格
+https://github.com/luanfujun/deep-photo-styletransfer

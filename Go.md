@@ -19,6 +19,9 @@ https://github.com/denverdino/aliyungo
 实现了类 top 命令展示效果的 docker 容器监控工具
 https://github.com/bcicen/ctop
 
+### Go+TensorFlow打造的个人照片管理平台
+https://github.com/photoprism/photoprism
+
 好雨开源的生产级无服务器 PaaS。用于为云原生应用的整个交付流程提供生产级支持，包括基础设施管理、容器化改造、微服务架构转型、DevOps 工作流落地、混合云多云管理等
 https://github.com/goodrain/rainbond
 

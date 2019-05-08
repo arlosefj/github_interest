@@ -121,3 +121,41 @@ https://github.com/PySimpleGUI/PySimpleGUI
 
 pixelhouse - A minimalist drawing library for making beautiful animations in python
 https://github.com/thoppe/pixelhouse
+
+Python“小而美”实用技巧集锦
+https://github.com/ekhoda/utilities/blob/master/Bite-Sized%20Recipes.ipynb
+
+【(Python)山脊图绘图包】’Ridge plots of ridges' by ColCarroll
+https://github.com/ColCarroll/ridge_map
+
+【Google/Naver多进程图片爬虫】’AutoCrawler - Google, Naver multiprocess image web crawler' by Yoongi Kim
+https://github.com/YoongiKim/AutoCrawler
+
+Python高级技巧：用一行代码减少一半内存占用
+https://medium.com/@alexmaisiura/python-how-to-reduce-memory-consumption-by-half-by-adding-just-one-line-of-code-56be6443d524
+
+python爬虫例子：淘宝模拟登录,淘宝商品爬虫,淘宝我已购买的宝贝爬虫,天猫商品爬虫,每天不同时间段通过微信发消息提醒女友,爬取5K分辨率超清唯美壁纸
+https://github.com/shengqiangzhang/examples-of-web-crawlers
+
+python各大网站登陆方式与一些简单的爬虫'
+https://github.com/CriseLYJ/awesome-python-login-model
+
+interesting-python 有趣的 Python 爬虫和数据分析小项目，可以用 Python 实现有趣的小项目，内容包括 Python 爬虫、Python 数据分析、机器学习、深度学习等
+https://github.com/Alfred1984/interesting-python
+
+
+自学是门手艺
+https://github.com/selfteaching/the-craft-of-selfteaching
+
+关于python的面试题
+https://github.com/kenwoodjw/python_interview_question
+
+
+PyViz：Python数据可视化集成工具箱
+http://pyviz.org/
+
+kroki：将纯文本图表转换成图片
+https://github.com/yuzutech/kroki
+
+Prefect：面向数据科学的工作流自动化管理系统
+https://github.com/PrefectHQ/prefect

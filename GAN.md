@@ -54,6 +54,9 @@ https://github.com/taki0112/FusionGAN-Tensorflow
 (PyTorch)GANs训练库
 https://github.com/unit8co/vegans
 
+生成模型教程(及演示)集锦
+https://github.com/omerbsezer/Generative_Models_Tutorial_with_Demo
+
 An "infinite"-resolution and interpretable GAN. It works based on a differentiable photo editing model and reinforcement learning. (ACM Transactions on Graphics, presented at SIGGRAPH 2018)
 https://github.com/yuanming-hu/exposure
 
@@ -62,3 +65,16 @@ https://github.com/Natsu6767/Generating-Devanagari-Using-DRAW
 
 生成对抗网络（Generative Adversarial Networks，简称GAN）的一个大集合，作者列举了生成对抗网络领域各式各样的应用集合，大部分为论文，包含少数的 GitHub 项目。该项目对于 GAN 领域覆盖面全面，论文列表整理清晰，GAN 方向的研究者可以从这个项目中查询到想看的经典的论文或者扩充自己的知识储备
 https://github.com/hindupuravinash/the-gan-zoo
+
+PyTorch implementation of InfoGAN by Mohit Jain 
+https://github.com/Natsu6767/InfoGAN-PyTorch
+
+基于GAN的大都会艺术博物馆收藏交互式浏览
+https://github.com/Microsoft/GenStudio
+
+万字综述之生成对抗网络
+https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247495668&idx=1&sn=e7e959b2bdd7b2763b9207ccb80fa6bc&chksm=96ea3074a19db96208a51d26f7b5b4ef9c3a37a7799ec270becc77203de4294235041ede7206&token=2004841509&lang=zh_CN#rd
+
+BigGAN-PyTorch - The author's officially unofficial PyTorch BigGAN implementation
+https://github.com/ajbrock/BigGAN-PyTorch
+https://github.com/huggingface/pytorch-pretrained-BigGAN

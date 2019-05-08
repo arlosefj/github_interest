@@ -1,4 +1,9 @@
 
+README文件语法解读，即Github Flavored Markdown语法介绍https://github.com/guodongxiaren/README
+
+Git使用教程：最详细、最傻瓜、最浅显、真正手把手教！
+https://mp.weixin.qq.com/s?__biz=MzIxODM4MjA5MA==&mid=2247487711&idx=1&sn=47b5354bd0f7a4744480ea421aeaa8fd&chksm=97ea3abaa09db3ac8992fa82b0ea048b03662ea2094440bc13d4aa7c29576563de9303cab22d&scene=0#rd
+
 Arxiv机器学习论文网络图浏览器
 https://github.com/ranihorev/arxiv-network-graph
 
@@ -68,6 +73,18 @@ https://github.com/go-gitea/gitea
 能显示图片缩略图的 ls 命令行工具
 https://github.com/hackerb9/lsix
 
+安全的个人文档索引/检索服务
+https://github.com/ICIJ/datashare
+
+Ambar：开源的文档搜素引擎
+https://github.com/RD17/ambar
+
+gifify 一款将视频转换成 GIF 图的工具，支持任何格式的视频以及选取某个时间段转换
+https://github.com/vvo/gifify
+
+awesome-vscode 收集了许多实用的 VSCode 相关资源
+https://github.com/viatsko/awesome-vscode
+
 深度学习(框架)默认值列表
 https://github.com/keisuke-umezawa/deeplearning-default-value
 
@@ -104,3 +121,6 @@ http://dockone.io/article/8315
 
 迈向 Tech Lead 之路
 https://github.com/phodal/techlead
+
+移动设备想要访问位于局域网中的某个特定设备上搭建的服务，需要通过代理服务器来实现，针对不同操作系统搭建代理服务器有不同的软件，如果系统是 OS X 的话，可以使用 Charles，对于 Windows，可以使用大名鼎鼎的 Fiddler ，可视化软件的使用这里不详述，本文重点讲述在 Unix/Linux 上使用 Squid 来搭建代理服务器。
+https://blogread.cn/it/article/8018?f=wb_blogread

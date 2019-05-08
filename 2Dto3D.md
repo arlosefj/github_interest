@@ -1,3 +1,6 @@
+Depth Prediction Without the Sensors: Leveraging Structure for Unsupervised Learning from Monocular Videos
+https://github.com/tensorflow/models/tree/master/research/struct2depth
+
 DeepTAM: Deep Tracking and Mapping
 https://github.com/lmb-freiburg/deeptam
 
@@ -9,6 +12,12 @@ https://github.com/ClubAI/MonoDepth-PyTorch
 
 DORN: Deep Ordinal Regression Network for Monocular Depth Estimation
 https://github.com/hufu6371/DORN
+
+从平行2D部分进行3D重建的C++工具
+https://github.com/paulknysh/shaper
+
+基于Feature Pyramid Network的单图深度估计
+https://github.com/xanderchf/MonoDepth-FPN-PyTorch
 
 视频时序一致性学习
 https://github.com/phoenix104104/fast_blind_video_consistency

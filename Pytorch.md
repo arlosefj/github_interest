@@ -116,3 +116,13 @@ https://github.com/muhanzhang/pytorch_DGCNN
 
 基于mltest的PyTorch单元测试包
 https://github.com/suriyadeepan/torchtest
+
+RetinaNet Examples - Fast and accurate object detection with end-to-end GPU optimization
+https://github.com/NVIDIA/retinanet-examples
+
+Pytorch分类实验模板
+https://github.com/learning-luke/pytorch-experiments-template
+
+PyTorch深度学习实验监控面板
+https://github.com/jotaf98/overboard
+

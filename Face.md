@@ -56,6 +56,9 @@ https://github.com/XiaXuehai/faceboxes
 The pytorch improved re-implementation of TPAMI 2017 paper: Face Alignment in Full Pose Range: A 3D Total Solution.
 https://github.com/cleardusk/3DDFA
 
+“facial-landmark-factory ( Production system of facial landmark detection)” by songheng 
+https://github.com/songhengyang/face_landmark_factory
+
 人脸识别相关资源大列表
 https://github.com/ChanChiChoi/awesome-Face_Recognition
 
@@ -71,3 +74,34 @@ https://github.com/SummitKwan/transparent_latent_gan
 可在CPU上实时运行的PCN旋转不变人脸检测
 https://github.com/Jack-CV/FaceKit
 https://github.com/HandsomeHans/PCN-ncnn
+
+e2e-joint-face-detection-and-alignment - 8'
+https://github.com/KaleidoZhouYN/e2e-joint-face-detection-and-alignment
+
+【PyTorch高性能人脸识别库】’face.evoLVe.PyTorch - High-Performance Face Recognition Library on PyTorch' by Zhao Jian 
+https://github.com/ZhaoJ9014/face.evoLVe.PyTorch
+
+Insightface人脸检测/识别的最小化推理包
+https://github.com/kiselev1189/insightface-just-works
+
+PyTorch实现的deepfake高分辨率换脸
+https://github.com/jinfagang/faceswap_pytorch
+
+PyTorch人脸识别算法集
+https://github.com/wujiyang/Face_Pytorch
+
+MTCNN Face detection algorithm's C++ implementation with NVIDIA TensorRT Inference acceleration SDK
+https://github.com/PKUZHOU/MTCNN_FaceDetection_TensorRT
+
+“人脸合成”讲解与实现
+https://github.com/carykh/alignedCelebFaces
+https://weibo.com/tv/v/HgcycnIwD?fid=1034:4338614541162153
+
+Single Shot Face Anti-spoofing.
+https://github.com/JinghuiZhou/awesome_face_antispoof
+
+基于GAN的人脸照片涂鸦编辑，可添加/更改耳环，眼镜，发型，酒窝等
+https://github.com/JoYoungjoo/SC-FEGAN
+
+PyTorch实现的深度人脸识别
+https://github.com/grib0ed0v/face_recognition.pytorch

@@ -18,3 +18,6 @@ https://github.com/frenck/awesome-home-assistant
 
 基于树莓派的自动驾驶小车，利用树莓派和tensorflow实现小车在赛道的自动驾驶。（Self-driving car based on raspberry pie（tensorflow））
 https://github.com/Timthony/self_drive
+
+DIY：用树莓派+EInk显示屏做智能日历
+https://github.com/zli117/EInk-Calendar

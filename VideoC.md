@@ -31,3 +31,6 @@ https://github.com/mzolfaghari/ECO-pytorch
 
 视频研究常用方法、数据集和任务汇总
 https://github.com/gsig/PyVideoResearch
+
+PyTorch实现的C3D, R3D, R2Plus1D视频行为识别
+https://github.com/jfzhang95/pytorch-video-recognition

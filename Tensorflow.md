@@ -12,3 +12,6 @@ https://github.com/zaidalyafeai/zaidalyafeai.github.io
 
 命令行机器学习开发环境(TensorFlow)：预训练模型/数据预处理/数据增强/训练会话/REST界面
 https://github.com/vergeml/vergeml
+
+TensorFlow-From-Zero-To-One 一位 TensorFlow 学习者整理的参考资料、笔记和代码
+https://github.com/amusi/TensorFlow-From-Zero-To-One

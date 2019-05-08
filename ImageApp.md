@@ -10,6 +10,9 @@ https://github.com/minimaxir/person-blocker
 性能与OpenCV相当的轻量图像处理库(Python/C++)
 https://github.com/ethereon/lycon
 
+故宫下雪了！我花了45秒，用Python给它画了一组手绘图
+https://mp.weixin.qq.com/s/iFC0NDjMebA-5Lw6Y88sjQ
+
 js 简单、高效的帧动画生成工具，图片处理工具
 https://github.com/gkajs/gka
 
@@ -25,6 +28,16 @@ https://github.com/NikolasEnt/Lyft-Perception-Challenge
 
 Quickshift++: Provably Good Initializations for Sample-Based Mean Shift
 https://github.com/google/quickshift
+
+快速图像增广库
+https://github.com/albu/albumentations
+
+用OpenCV实现活体检测
+https://www.pyimagesearch.com/2019/03/11/liveness-detection-with-opencv/
+
+将涂鸦生成逼真照片：空间自适应归一化语义图像合成
+https://nvlabs.github.io/SPADE/
+https://github.com/NVlabs/SPADE
 
 Facebook开源2D图片实时3D姿态估计DensePose(Caffe2)
 https://github.com/facebookresearch/DensePose
@@ -191,3 +204,26 @@ https://github.com/OpenImageDenoise/oidn
 
 Visualizing Deep Similarity Networks
 https://github.com/GWUvision/Similarity-Visualization
+
+基于ImageNet-1k的图像分类模型集
+https://github.com/osmr/imgclsmob
+Sandbox for training convolutional networks for computer vision
+
+利用深度学习，在手机上拍出单反相机效果的照片，Make your pictures beautiful with a touch of deep learning magic
+http://people.ee.ethz.ch/~ihnatova/
+https://github.com/aiff22/DPED
+
+如何将人脸与卡通动物脸融合并将其做成一项业务
+https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fhackernoon.com%2Fhow-we-used-ai-to-hybridize-humans-with-cartoon-animals-and-made-a-business-out-of-it-2d3ec9368ceb
+
+CNN运动模糊检测
+https://github.com/Sibozhu/MotionBlur-detection-by-CNN
+
+黄图鉴别(不可描述图片检测)
+https://github.com/rockyzhengwu/nsfw
+
+将文件隐写进图片文件
+https://github.com/DimitarPetrov/stegify
+
+医学影像交互工具包
+https://github.com/MITK/MITK

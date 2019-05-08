@@ -33,3 +33,9 @@ https://github.com/greerviau/SnakeAI
 
 英文）OpenAI 制作的教育资源，可以更容易地学习深层强化学习。官方项目，浅显易懂，提供练手的例子，方便初学者或对深层强化学习感兴趣的人群学习和入门
 https://github.com/openai/spinningup
+
+PyTorch的深度强化学习算法，Deep Reinforcement Learning Algorithms with PyTorch
+https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch
+
+PyTorch实现的深度强化学习算法：DQN, AC, ACER, A2C, A3C, , PG, DDPG, TRPO, PPO…
+https://github.com/sweetice/Deep-reinforcement-learning-with-pytorch

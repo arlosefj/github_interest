@@ -12,3 +12,9 @@ https://github.com/elliottzheng/CopyTranslator/blob/master/README_zh.md
 
 OpenNMT是个开源的神经网络机器翻译系统，用Torch实现。其设计目标是简单易用、易于扩展，同时保证效率和一流的翻译准确性。
 https://github.com/OpenNMT/OpenNMT
+
+面向教学目的的最小化神经网络机器翻译实现(PyTorch)
+https://github.com/joeynmt/joeynmt
+
+BERT论文中文翻译
+https://github.com/yuanxiaosc/BERT_Paper_Chinese_Translation

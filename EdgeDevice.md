@@ -9,3 +9,6 @@ http://ai-benchmark.com/
 
 利用Mobilenetssd目标检测框架,ncnn前向推理,android项目
 https://github.com/chehongshu/ncnnforandroid_objectiondetection_Mobilenetssd
+
+ARM GPU等边缘计算设备上的深度学习视频监控、人脸识等
+https://github.com/SharpAI/DeepCamera

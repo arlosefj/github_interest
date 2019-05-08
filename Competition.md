@@ -1,5 +1,27 @@
+『Data competition Top Solution 数据竞赛Top解决方案开源整理』
+https://github.com/Smilexuhc/Data-Competition-TopSolution
+
 Kaggle座头鲸识别比赛入门包(w/ FastAi )
 https://github.com/radekosmulski/whale
+
+Spacenet 4航拍建筑物识别比赛前十经验分享
+https://towardsdatascience.com/how-i-got-to-top-10-in-spacenet-4-challenge-5dbf020b6ffb
+
+SpaceNet挑战卫星图片建筑物识别优胜方案介绍
+https://github.com/SpaceNetChallenge/SpaceNet_Off_Nadir_Solutions
+https://medium.com/the-downlinq/the-spacenet-challenge-off-nadir-buildings-introducing-the-winners-b60f2b700266
+
+Kaggle座头鲸识别比赛夺冠方案点评
+https://medium.com/@vladislavshakhray_56227/a-gold-winning-solution-review-of-kaggle-humpback-whale-identification-challenge-53b0e3ba1e84
+
+Kaggle人类蛋白质图谱图像分类比赛第三名方案
+https://github.com/pudae/kaggle-hpa
+
+从Kaggle Airbus卫星图像船只检测比赛学到的
+https://medium.com/@YassineAlouini/lessons-learned-from-kaggles-airbus-challenge-252e25c5efac
+
+如何赢取数据科学竞赛：向顶级Kaggle选手学习（How to Win a Data Science Competition: Learn from Top Kagglers）
+http://coursegraph.com/coursera-competitive-data-science
 
 Kaggle卫星图像船舶检测比赛21名方案
 https://github.com/pascal1129/kaggle_airbus_ship_detection

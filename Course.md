@@ -4,6 +4,15 @@ https://github.com/mbadry1/CS231n-2017-Summary
 深度强化学习免费实例教程(Tensorflow)
 https://github.com/simoninithomas/Deep_reinforcement_learning_Course
 
+【异常检测】《Anomaly Detection - YouTube》by 李宏毅
+https://www.youtube.com/watch?v=ikJi4bEgrNI
+
+李宏毅机器学习2019(国语)
+https://www.bilibili.com/video/av46561029/
+
+Andrew Ng深度学习(Autumn 2018)
+https://www.bilibili.com/video/av47055599/
+
 Advanced Deep Learning and Reinforcement Learning course taught at UCL in partnership with Deepmind
 https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning
 

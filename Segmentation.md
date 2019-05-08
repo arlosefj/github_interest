@@ -109,3 +109,30 @@ https://github.com/jfzhang95/DeepGrabCut-PyTorch
 
 基于PyTorch 1.0的高性能图像检测/分割实现，比Detectron快2倍
 https://github.com/facebookresearch/maskrcnn-benchmark
+
+DeepLab v3+ model in PyTorch. Support different backbones.
+https://github.com/jfzhang95/pytorch-deeplab-xception
+
+(PyTorch)快速、模块化语义分割模型参考实现
+https://github.com/ycszen/TorchSeg
+
+PyTorch 实现的PSPNet、DeepLabV3、DenseASPP等深度学习语义分割
+https://github.com/donnyyou/torchcv-seg
+
+用Python/scikit-image实现图像分割
+https://towardsdatascience.com/image-segmentation-using-pythons-scikit-image-module-533a61ecc980
+
+DeepMask的PyTorch实现
+https://github.com/foolwood/deepmask-pytorch
+
+DeepLabv3.pytorch - PyTorch implementation of DeepLabv3
+https://github.com/chenxi116/DeepLabv3.pytorch
+
+### 用Unity/PyTorch/fastai生成用于图像分割的合成数据
+https://blog.stratospark.com/generating-synthetic-data-image-segmentation-unity-pytorch-fastai.html
+
+弱监督语义分割先进方法资源列表
+https://github.com/JackieZhangdx/WeakSupervisedSegmentationList
+
+DeepLabv3plus Semantic Segmentation in Pytorch - deeplabv3+ supporting ResNet(79.155%) and Xception(79.945%)
+https://github.com/YudeWang/deeplabv3plus-pytorch
