@@ -11,8 +11,29 @@ https://github.com/aitorzip/PyTorch-CycleGAN
 Multi-Content GAN for Few-Shot Font Style Transfer at CVPR 2018
 https://github.com/azadis/MC-GAN
 
+Text Generation Using A Variational Autoencoder
+https://github.com/Toni-Antonova/VAE-Text-Generation
+
+### SC-FEGAN : Face Editing Generative Adversarial Network with User's Sketch and Color
+https://github.com/JoYoungjoo/SC-FEGAN
+
+Pytorch Implementation of NeurIPS'18 paper on Generative Image Manipulation with Hierarchical Semantic Structures
+https://github.com/xcyan/neurips18_hierchical_image_manipulation
+
+Official PyTorch implementation of Harmonizing Maximum Likelihood with GANs for Multimodal Conditional Generation (ICLR 2019)
+https://github.com/soochan-lee/MR-GAN
+
+TextureGAN in Pytorch http://texturegan.eye.gatech.edu/
+https://github.com/janesjanes/Pytorch-TextureGAN
+
 An unofficial PyTorch implementation of SNGAN (ICLR 2018) and cGANs with projection discriminator (ICLR 2018).
 https://github.com/crcrpar/pytorch.sngan_projection
+
+Implementation A Style-Based Generator Architecture for Generative Adversarial Networks in PyTorch
+https://github.com/rosinality/style-based-gan-pytorch
+
+This is a tensorflow implementation of the paper: StarGAN-VC: Non-parallel many-to-many voice conversion with star generative adversarial networks.
+https://github.com/hujinsen/StarGAN-Voice-Conversion
 
 Video style transfer using feed-forward networks.
 https://github.com/manuelruder/fast-artistic-videos

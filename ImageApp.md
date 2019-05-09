@@ -1,11 +1,26 @@
 应该是当下最全面的「Python异常检测工具库」了。除了收到近500个Star以外，我们还写了一篇JMLR（在审）。最近一直在加紧扩充算法和优化效率（主要是通过joblib和numba），这两周写了SOS、LOCI、LSCP等算法，同时还有两个全新的深度学习异常检测即将上线，敬请期待。
 https://github.com/yzhao062/pyod
 
+A PyTorch implementation of the Deep SVDD anomaly detection method
+https://github.com/lukasruff/Deep-SVDD-PyTorch
+
+This is the official implementation of "Deep Anomaly Detection Using Geometric Transformations"
+https://github.com/izikgo/AnomalyDetectionTransformations
+
 异常检测相关资源大列表
 https://github.com/hoya012/awesome-anomaly-detection
 
+his repository contains code for training models from the paper Burst Denoising with Kernel Prediction Networks.
+https://github.com/google/burst-denoising
+
 不会用Photoshop抠图？Mask R-CNN助你一键“除”人
 https://github.com/minimaxir/person-blocker
+
+### Richer Convolutional Features for Edge Detection model in pytorch
+https://github.com/meteorshowers/RCF-pytorch
+
+Tensorflow implementation of Perception-Preserving Convolutional Networks for Image Enhancement on Smartphones (ECCV 2018 Workshop PIRM)
+https://github.com/Zheng222/PPCN
 
 性能与OpenCV相当的轻量图像处理库(Python/C++)
 https://github.com/ethereon/lycon
@@ -80,6 +95,23 @@ https://github.com/HCPLab-SYSU/ATEN
 
 压缩视频高性能行为识别
 https://github.com/chaoyuaw/pytorch-coviar
+
+Repository for Scale-recurrent Network for Deep Image Deblurring http://www.xtao.website/projects/srnd…
+https://github.com/jiangsutx/SRN-Deblur
+
+Decomposing an input image into layers via "color unblending" https://koyama.xyz/project/color_unbl…
+https://github.com/yuki-koyama/unblending
+
+Hierarchy-based Image Embeddings for Semantic Image Retrieval
+https://github.com/cvjena/semantic-embeddings
+
+### PyTorch Implementation of "Large-Scale Image Retrieval with Attentive Deep Local Features"
+reference: https://arxiv.org/pdf/1612.06321.pdf
+https://github.com/nashory/DeLF-pytorch
+
+### 基于深度强化学习的 AI 绘画开源项目
+https://github.com/hzwer/LearningToPaint
+https://zhuanlan.zhihu.com/p/61761901
 
 iCAN: Instance-Centric Attention Network for Human-Object Interaction Detection 人的交互识别
 https://github.com/vt-vl-lab/iCAN

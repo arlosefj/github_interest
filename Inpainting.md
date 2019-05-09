@@ -7,6 +7,9 @@ https://github.com/MathiasGruber/PConv-Keras
 python3.6+keras+tf
 https://arxiv.org/abs/1804.07723
 
+A modified reimplemented in pytorch of inpainting model in Free-Form Image Inpainting with Gated Convolution [http://jiahuiyu.com/deepfill2/]
+https://github.com/avalonstrel/GatedConvolution_pytorch
+
 
 EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning
 https://github.com/knazeri/edge-connect

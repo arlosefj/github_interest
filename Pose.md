@@ -10,11 +10,26 @@ https://github.com/MVIG-SJTU/WSHP
 基于TensorFlow/TensorLayer快速灵活的人体姿态估计框架
 https://github.com/tensorlayer/openpose-plus
 
+A simple baseline for pedestrian attribute recognition in surveillance scenarios
+https://github.com/dangweili/pedestrian-attribute-recognition-pytorch
+
 Mutual Learning to Adapt for Joint Human Parsing and Pose Estimation
 https://github.com/NieXC/pytorch-mula
 
 人体姿态估计资源大列表
 https://github.com/cbsudux/awesome-human-pose-estimation
+
+Code for our CVPR 2018 paper: "Synthesizing Images of Humans in Unseen Poses"
+https://github.com/balakg/posewarp-cvpr2018
+
+PoseFlow: Efficient Online Pose Tracking (BMVC'18) http://mvig.org/research/alphapose.html
+https://github.com/YuliangXiu/PoseFlow
+
+PVNet: Pixel-wise Voting Network for 6DoF Pose Estimation
+https://github.com/zju3dv/pvnet
+
+3D Human Pose Machines with Self-supervised Learning
+https://github.com/chanyn/3Dpose_ssl
 
 深度学习人体姿态估计纵览
 https://pan.baidu.com/s/1GSwPIFPT3ajxWdOoiivqPQ

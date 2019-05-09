@@ -49,6 +49,15 @@ https://github.com/tirthajyoti/Interactive_Machine_Learning
 命令行网页浏览器
 https://github.com/browsh-org/browsh
 
+如何创建10w+乐高标记图像数据集
+https://towardsdatascience.com/how-i-created-over-100-000-labeled-lego-training-images-ec74191bb4ef
+
+实用指南：在GitHub上免费创建网站
+https://towardsdatascience.com/how-to-create-a-free-github-pages-website-53743d7524e1
+
+Jupyter高效实用技巧
+https://towardsdatascience.com/productivity-tips-for-jupyter-python-a3614d70c770?gi=2fd851c19c28
+
 机器学习在线交互式Demo大列表
 https://github.com/stared/interactive-machine-learning-list
 

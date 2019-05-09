@@ -16,6 +16,25 @@ https://github.com/hysts/pytorch_image_classification
 TorchFusion：深度学习框架，基于PyTorch，面向AI系统加速研究与开发
 https://github.com/johnolafenwa/TorchFusion
 
+Hypergradient descent
+https://github.com/gbaydin/hypergradient-descent
+
+An intriguing failing of convolutional neural networks and the CoordConv solution
+https://github.com/Wizaron/coord-conv-pytorch
+
+An implementation of DropBlock in PyTorch. DropBlock is a replacement for dropout which zero-es entire spatial blocks instead of single pixels. For more information, check the paper: DropBlock: A regularization method for convolutional networks
+https://github.com/Randl/DropBlock-pytorch
+
+PyTorch implementation of Multi-Label Image Recognition with Graph Convolutional Networks, CVPR 2019.
+https://github.com/chenzhaomin123/ML_GCN
+
+PyTorch学习资源汇总
+https://github.com/INTERMT/Awesome-PyTorch-Chinese
+
+Benchmark Analysis of Representative Deep Neural Network Architectures
+https://github.com/CeLuigi/models-comparison.pytorch
+https://github.com/CeLuigi/models-comparison.pytorch/wiki/Accuracy-vs-Computational-complexity
+
 CNN图片检索
 https://github.com/filipradenovic/cnnimageretrieval-pytorch
 

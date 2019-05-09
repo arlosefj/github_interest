@@ -11,6 +11,24 @@ https://github.com/wenguanwang/DHF1K
 (Python/OpenCV)Mask RCNN自动车牌识别系统
 https://github.com/ria-com/nomeroff-net
 
+DSFD implement with pytorch
+https://github.com/yxlijun/DSFD.pytorch
+
+Code for bottom-up object detection by grouping extreme and center points
+https://github.com/xingyizhou/ExtremeNet
+
+Implemention of lanenet model for real time lane detection using deep neural network model https://maybeshewill-cv.github.io/lanenet-lane-detection/
+https://github.com/MaybeShewill-CV/lanenet-lane-detection
+
+Spatial CNN for traffic lane detection (AAAI2018)
+https://github.com/XingangPan/SCNN
+
+### Codebase for AAAI2019 "M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network"
+https://github.com/qijiezhao/M2Det
+
+FashionAI Key Points Detection using CPN model in Pytorch
+https://github.com/gathierry/FashionAI-KeyPointsDetectionOfApparel
+
 Real-time Multi-person tracker using YOLO v3 and deep_sort with tensorflow
 https://github.com/Qidian213/deep_sort_yolov3
 

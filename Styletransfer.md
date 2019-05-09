@@ -44,3 +44,6 @@ https://github.com/luanfujun/deep-painterly-harmonization
 
 deep-photo-styletransfer 一个基于深度学习的开源项目，利用了深度卷积网络来进行摄影风格转换，瞬间切换图片风格
 https://github.com/luanfujun/deep-photo-styletransfer
+
+Learning multi-domain multi-modality I2I translation
+https://github.com/HsinYingLee/MDMM

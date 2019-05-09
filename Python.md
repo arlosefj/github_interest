@@ -49,6 +49,9 @@ https://gitee.com/981764793/PyFly
 Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？
 https://github.com/wangshub/Douyin-Bot
 
+涵盖 Python 初中高级知识点，规划在 100 天之内让你从新手到大师级别水平
+https://github.com/jackfrued/Python-100-Days
+
 树莓派卷积网络蜜蜂检测(计数)
 https://github.com/matpalm/bnn
 
@@ -139,6 +142,12 @@ https://github.com/shengqiangzhang/examples-of-web-crawlers
 
 python各大网站登陆方式与一些简单的爬虫'
 https://github.com/CriseLYJ/awesome-python-login-model
+
+Flexx：纯Python图形界面开发工具集
+https://github.com/flexxui/flexx
+
+天生一对的Python与Slack：如何用Python编程发Slack消息、发图表、监控机器学习模型
+https://towardsdatascience.com/python-and-slack-a-natural-match-60b136883d4d
 
 interesting-python 有趣的 Python 爬虫和数据分析小项目，可以用 Python 实现有趣的小项目，内容包括 Python 爬虫、Python 数据分析、机器学习、深度学习等
 https://github.com/Alfred1984/interesting-python

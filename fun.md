@@ -12,3 +12,10 @@ https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247488506&idx=3&sn=06490c
 
 高质量二维条码生成库
 https://github.com/nayuki/QR-Code-generator
+
+An implementation of paper from NIPS2017 'Towards the Automatic Anime Characters Creation with Generative Adversarial Networks' using pytorch.
+https://github.com/VincentXWD/CreateGirlsMoe
+
+PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain. 🔥 图像翻译，条件GAN，AI绘画 https://arxiv.org/abs/1903.10146
+https://github.com/youyuge34/PI-REC
+https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ==&mid=2457914983&idx=1&sn=7d2624a39864d915ec7531b6c07c7b22&chksm=8cb6ab8dbbc1229b1550fa6a9ac1903f21f3372b92909f4b63cd2f2ea5f8e8e62b911e6d6823&token=1156490392&lang=zh_CN#rd

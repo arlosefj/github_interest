@@ -15,3 +15,6 @@ https://github.com/vergeml/vergeml
 
 TensorFlow-From-Zero-To-One 一位 TensorFlow 学习者整理的参考资料、笔记和代码
 https://github.com/amusi/TensorFlow-From-Zero-To-One
+
+A generalized gradient-based CNN visualization technique
+https://github.com/adityac94/Grad_CAM_plus_plus

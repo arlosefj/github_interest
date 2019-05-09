@@ -13,6 +13,9 @@ https://github.com/sfzhang15/FaceBoxes
 Landmark-guided face to face synthesis using GANs 
 https://github.com/ESanchezLozano/GANnotation
 
+PyTorch Face Recognizer based on 'VGGFace2: A dataset for recognising faces across pose and age'.
+https://github.com/cydonia999/VGGFace2-pytorch
+
 SphereFace
 https://github.com/wy1iu/sphereface-plus
 

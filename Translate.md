@@ -16,5 +16,8 @@ https://github.com/OpenNMT/OpenNMT
 面向教学目的的最小化神经网络机器翻译实现(PyTorch)
 https://github.com/joeynmt/joeynmt
 
+Meta learning for Neural Machine Translation
+https://github.com/MultiPath/MetaNMT
+
 BERT论文中文翻译
 https://github.com/yuanxiaosc/BERT_Paper_Chinese_Translation

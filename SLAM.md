@@ -6,3 +6,8 @@ https://vimeo.com/294862571
 
 GCNv2: Efficient Correspondence Prediction for Real-Time SLAM
 https://github.com/jiexiong2016/GCNv2_SLAM
+
+DynaSLAM is a SLAM system robust in dynamic environments for monocular, stereo and RGB-D setups https://bertabescos.github.io/DynaSLAM/
+
+### Real-time SLAM system with deep features
+https://github.com/jiexiong2016/GCNv2_SLAM

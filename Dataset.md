@@ -19,6 +19,9 @@ http://shici.store/chinese-poetry/
 Scale和nuTonomy发布nuScenes——拥有超过140万张图像的无人驾驶数据集
 https://www.nuscenes.org/
 
+计算机视觉数据集搜索引擎
+https://www.visualdata.io/
+
 获取Human 3.6M 3D人体姿态数据集
 https://github.com/anibali/h36m-fetch
 

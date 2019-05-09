@@ -18,6 +18,40 @@ one-shot 分割
 http://people.ee.ethz.ch/~cvlsegmentation/osvos/
 https://github.com/kmaninis/OSVOS-PyTorch
 
+Fast Video Object Segmentation by Reference-Guided Mask Propagation
+https://github.com/seoungwugoh/RGMP
+
+CGNet: A Light-weight Context Guided Network for Semantic Segmentation
+https://github.com/wutianyiRosun/CGNet
+
+Unified Perceptual Parsing for Scene Understanding
+https://github.com/CSAILVision/unifiedparsing
+
+Segmenting Unknown 3D Objects from Real Depth Images using Mask R-CNN Trained on Synthetic Data
+https://github.com/BerkeleyAutomation/sd-maskrcnn
+
+Predicting Future Instance Segmentation by Forecasting Convolutional Features
+https://github.com/facebookresearch/instpred
+
+Code for paper in CVPR2019, 'Attentive Feedback Network for Boundary-aware Salient Object Detection', Mengyang Feng, Huchuan Lu and Errui Ding.
+https://github.com/ArcherFMY/AFNet
+
+This is the code accompanying the ECCV 2018 publication on Superpixel Sampling Networks. 
+https://github.com/NVlabs/ssn_superpixels
+
+ENet - A Neural Net Architecture for real time Semantic Segmentation
+https://github.com/iArunava/ENet-Real-Time-Semantic-Segmentation
+
+### Regularized Losses (rloss) for Weakly-supervised CNN Segmentation
+https://github.com/meng-tang/rloss
+
+PyTorch implement of Deeply Supervised Salient Object Detection with Short Connection
+https://github.com/AceCoooool/DSS-pytorch
+
+### An implementation of OneshotTextureSegmentation
+https://github.com/drogen120/OneshotTextureSegmentation
+https://github.com/LiamLYJ/scene_seg
+
 convCRF快速分割后处理
 https://arxiv.org/pdf/1805.04777.pdf
 https://github.com/MarvinTeichmann/ConvCRF

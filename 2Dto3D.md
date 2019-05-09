@@ -57,6 +57,15 @@ https://github.com/yindaz/DeepCompletionRelease
 场景理解和建模挑战(360° RGB-D 3D室内全景理解
 https://github.com/facebookresearch/sumo-challenge
 
+Implementation of ICRA 2019 paper: Beyond Photometric Loss for Self-Supervised Ego-Motion Estimation
+https://github.com/hlzz/DeepMatchVO
+
+Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding
+https://github.com/svip-lab/PlanarReconstruction
+
+High Quality Monocular Depth Estimation via Transfer Learning https://arxiv.org/abs/1812.11941
+https://github.com/ialhashim/DenseDepth
+
 # paper
 Real-Time Joint Semantic Segmentation and Depth Estimation Using Asymmetric Annotations
 https://arxiv.org/abs/1809.04766
@@ -69,3 +78,12 @@ https://github.com/mileyan/pseudo_lidar
 
 Neural RGB->D Sensing: Depth and Uncertainty from a Video Camera
 https://arxiv.org/abs/1901.02571
+
+### This repository provides official models from the paper Real-Time Joint Semantic Segmentation and Depth Estimation Using Asymmetric Annotations
+https://github.com/DrSleep/multi-task-refinenet
+
+PyTorch implementation of Deep Ordinal Regression Network for Monocular Depth Estimation
+https://github.com/dontLoveBugs/DORN_pytorch
+
+The release code and dataset of CNN-MonoFusion for ismar2018
+https://github.com/NetEaseAI-CVLab/CNN-MonoFusion
