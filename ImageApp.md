@@ -1,15 +1,20 @@
+应该是当下最全面的「Python异常检测工具库」了。除了收到近500个Star以外，我们还写了一篇JMLR（在审）。最近一直在加紧扩充算法和优化效率（主要是通过joblib和numba），这两周写了SOS、LOCI、LSCP等算法，同时还有两个全新的深度学习异常检测即将上线，敬请期待。
+https://github.com/yzhao062/pyod
+
+异常检测相关资源大列表
+https://github.com/hoya012/awesome-anomaly-detection
+
 不会用Photoshop抠图？Mask R-CNN助你一键“除”人
 https://github.com/minimaxir/person-blocker
 
-真人头像漫画化
-https://github.com/jerryli27/TwinGAN/blob/master/docs/blog/blog_CH.md
+性能与OpenCV相当的轻量图像处理库(Python/C++)
+https://github.com/ethereon/lycon
+
+故宫下雪了！我花了45秒，用Python给它画了一组手绘图
+https://mp.weixin.qq.com/s/iFC0NDjMebA-5Lw6Y88sjQ
 
 js 简单、高效的帧动画生成工具，图片处理工具
 https://github.com/gkajs/gka
-
-修复
-https://github.com/akmtn/pytorch-siggraph2017-inpainting
-http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/​
 
 人像抠图 Automatic Portrait Segmentation for Image Stylization
 https://github.com/PetroWu/AutoPortraitMatting
@@ -18,18 +23,21 @@ http://www.cse.cuhk.edu.hk/leojia/papers/portrait_eg16.pdf​
 道路缺陷检测
 https://github.com/sekilab/RoadDamageDetector/
 
-浏览器上的姿态识别
-https://github.com/tensorflow/tfjs-models/tree/master/posenet/demos
-https://github.com/llSourcell/pose_estimation
-
 【Lyft感知挑战赛第四名(最快)方案】"Lyft Perception Challenge | Self-Driving Cars Lab"
 https://github.com/NikolasEnt/Lyft-Perception-Challenge
 
 Quickshift++: Provably Good Initializations for Sample-Based Mean Shift
 https://github.com/google/quickshift
 
-效果超赞的图片自动增强：GANs非成对学习图像增强
-https://github.com/nothinglo/Deep-Photo-Enhancer
+快速图像增广库
+https://github.com/albu/albumentations
+
+用OpenCV实现活体检测
+https://www.pyimagesearch.com/2019/03/11/liveness-detection-with-opencv/
+
+将涂鸦生成逼真照片：空间自适应归一化语义图像合成
+https://nvlabs.github.io/SPADE/
+https://github.com/NVlabs/SPADE
 
 Facebook开源2D图片实时3D姿态估计DensePose(Caffe2)
 https://github.com/facebookresearch/DensePose
@@ -48,15 +56,6 @@ https://github.com/rui1996/DeRaindrop
 
 单图去雨
 https://github.com/XiaLiPKU/RESCAN
-
-CartoonGAN: Generative Adversarial Networks for Photo Cartoonization（卡通转换）
-https://github.com/Yijunmaverick/CartoonGAN-Test-Pytorch-Torch
-
-Eye In-Painting with Exemplar Generative Adversarial Networks（眼睛替换）
-https://github.com/bdol/exemplar_gans
-
-Simple Tensorflow implementation of FusionGAN（姿势替换）
-https://github.com/taki0112/FusionGAN-Tensorflow
 
 全局上下文场景图解析
 https://github.com/rowanz/neural-motifs
@@ -93,3 +92,138 @@ https://github.com/CosmiQ/yolt
 
 关键点对目标检测
 https://github.com/umich-vl/CornerNet
+
+ CVPR 2018/ECCV 2018姿态估计相关工作汇总
+ https://github.com/wjbKimberly/pose_estimation_CVPR_ECCV_2018
+
+ A Deep Learning based project for colorizing and restoring old images
+ https://github.com/jantic/DeOldify
+
+ 人群计数相关资源列表
+ https://github.com/gjy3035/Awesome-Crowd-Counting
+
+ Joint Body Parsing & Pose Estimation Network
+ https://github.com/Engineering-Course/LIP_JPPNet
+
+ Python开源图像处理框架ImagePy，其UI界面支持开放插件
+ https://github.com/Image-Py/imagepy
+
+ Image Super-Resolution Using Very Deep Residual Channel Attention Networks
+ https://github.com/yulunzhang/RCAN
+
+ On The Effectiveness Of Visible Watermarks
+ https://github.com/rohitrango/automatic-watermark-detection
+
+Python/OpenCV图像拼接
+https://www.pyimagesearch.com/2018/12/17/image-stitching-with-opencv-and-python/
+
+显微镜图像细胞计数工具包
+https://github.com/hammerlab/cytokit
+
+用相片创建生动有趣的马赛克图片
+https://github.com/worldveil/photomosaic
+
+JPEG压缩感知：直接利用DCT域特征的高效神经网络图片识别
+https://eng.uber.com/neural-networks-jpeg/
+
+Collaging on Internal Representations: An Intuitive Approach for Semantic Transfiguration
+https://github.com/quolc/neural-collage
+
+深度学习(图像)数据增广库
+https://github.com/MIPT-Oulu/solt
+
+用AutoAugment自学习数据增广改进深度学习性能
+https://github.com/tensorflow/models/tree/master/research/autoaugment
+
+Integral Human Pose Regression
+https://github.com/JimmySuen/integral-human-pose
+
+(Python)图像哈希库
+https://github.com/JohannesBuchner/imagehash
+
+Learning to cluster in order to transfer across domains and tasks
+https://github.com/GT-RIPL/L2C
+
+Mixup数据增广技术(fastai)(CIFAR-10, 1 GPU, 94% accuracy, 6 minutes)
+https://forums.fast.ai/t/mixup-data-augmentation/22764
+
+快速图像增广库
+https://github.com/albu/albumentations
+
+PyTorch implementation of "Emerging Disentanglement in Auto-Encoder Based Unsupervised Image Content Transfer"
+https://github.com/oripress/ContentDisentanglement
+
+Video Compression through Image Interpolation (ECCV'18) [PyTorch] 
+https://github.com/chaoyuaw/pytorch-vcii
+
+动漫人物图片自动修复，去马赛克，填补，去瑕疵
+https://github.com/youyuge34/Anime-InPainting
+
+OpenCV图像处理入门100题实例解析
+https://github.com/yoyoyo-yo/Gasyori100knock
+
+* 椭圆检测 cvpr matlab
+https://github.com/AlanLuSun/High-quality-ellipse-detection
+https://www.52cv.net/?p=1535
+
+* 英特尔重磅开源OpenVINO™ ！附送的预训练模型是最大亮点
+非常强大！！！
+https://www.52cv.net/?p=1550
+https://github.com/opencv/dldt
+https://software.intel.com/en-us/openvino-toolkit/documentation/pretrained-models
+
+基于改进版OpenTLD和RNet的人脸追踪
+https://github.com/HandsomeHans/Face-Tracking-Based-on-OpenTLD-and-RNet
+
+C++实现的自动全景拼接
+https://github.com/ppwwyyxx/OpenPano
+
+Code Release for LF-Net: Learning Local Features from Images
+https://github.com/vcg-uvic/lf-net-release
+
+Deep Learning for Anomaly Detection: A Survey
+https://arxiv.org/abs/1901.03407
+
+Delira：医疗图像(放射学)轻量深度学习框架
+https://github.com/justusschock/delira
+
+Quickly search over billions of images
+https://github.com/EdjoLabs/image-match
+
+Squoosh 是 Google 推出的一款在线简单高效的图片压缩工具，支持 JPG、PNG 和 WebP 格式
+https://github.com/GoogleChromeLabs/squoosh
+
+最新的边缘检测和图像过分割
+https://mmcheng.net/zh/rcfedge/
+
+【C++实时视觉跟踪包】’OpenTracker - Real-time C++ ECO tracker etc. speed-up by SSE/NEON, support Linux, Mac, Jetson TX1/2, raspberry pi
+https://github.com/rockkingjy/OpenTracker
+
+Intel的开源图像(渲染)去噪库
+https://github.com/OpenImageDenoise/oidn
+
+Visualizing Deep Similarity Networks
+https://github.com/GWUvision/Similarity-Visualization
+
+基于ImageNet-1k的图像分类模型集
+https://github.com/osmr/imgclsmob
+Sandbox for training convolutional networks for computer vision
+
+利用深度学习，在手机上拍出单反相机效果的照片，Make your pictures beautiful with a touch of deep learning magic
+http://people.ee.ethz.ch/~ihnatova/
+https://github.com/aiff22/DPED
+
+如何将人脸与卡通动物脸融合并将其做成一项业务
+https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fhackernoon.com%2Fhow-we-used-ai-to-hybridize-humans-with-cartoon-animals-and-made-a-business-out-of-it-2d3ec9368ceb
+
+CNN运动模糊检测
+https://github.com/Sibozhu/MotionBlur-detection-by-CNN
+
+黄图鉴别(不可描述图片检测)
+https://github.com/rockyzhengwu/nsfw
+
+将文件隐写进图片文件
+https://github.com/DimitarPetrov/stegify
+
+医学影像交互工具包
+https://github.com/MITK/MITK

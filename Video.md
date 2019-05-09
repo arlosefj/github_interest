@@ -24,3 +24,21 @@ https://github.com/malone6/youkuhttps://github.com/hanguokai/youkuhttps://github
 
 obs-studio 由 OBS 项目维护的免费开源流媒体和录制程序。该程序支持 Windows 7、macOS 10.10、Ubuntu 14.04 操作系统。可用于直播和屏幕录制
 https://github.com/obsproject/obs-studio/releases
+
+Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation
+https://github.com/avinashpaliwal/Super-SloMo
+
+视频编辑过程自动化算法工具包
+https://github.com/DevonCrawford/Video-Editing-Automation
+
+搭建自己的 Youtube 视频下载服务
+https://github.com/Algram/ytdl-webserver
+
+ffmpeg-python - Python bindings for FFmpeg - with complex filtering support
+https://github.com/kkroening/ffmpeg-python
+
+NVIDIA轻量低延迟视频压缩库(C)
+https://github.com/NVIDIA/NvPipe
+
+开源、入门级视频播放器跨平台视频播放器。该播放器拥有视频播放器基本功能，适合学习播放器开发技术，音频、视频技术
+https://github.com/itisyang/playerdemo

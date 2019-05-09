@@ -1,5 +1,23 @@
+Depth Prediction Without the Sensors: Leveraging Structure for Unsupervised Learning from Monocular Videos
+https://github.com/tensorflow/models/tree/master/research/struct2depth
+
+DeepTAM: Deep Tracking and Mapping
+https://github.com/lmb-freiburg/deeptam
+
 (PyTorch)合成-现实(Synthetic-to-Realistic)转换深度估计
 https://github.com/lyndonzheng/Synthetic2Realistic
+
+PyTorch无监督单目深度估计
+https://github.com/ClubAI/MonoDepth-PyTorch
+
+DORN: Deep Ordinal Regression Network for Monocular Depth Estimation
+https://github.com/hufu6371/DORN
+
+从平行2D部分进行3D重建的C++工具
+https://github.com/paulknysh/shaper
+
+基于Feature Pyramid Network的单图深度估计
+https://github.com/xanderchf/MonoDepth-FPN-PyTorch
 
 视频时序一致性学习
 https://github.com/phoenix104104/fast_blind_video_consistency
@@ -11,3 +29,43 @@ https://github.com/fangchangma/sparse-to-dense.pytorch
 快速场景理解(分割/实例分割/单图像深度估计)
 https://github.com/DavyNeven/fastSceneUnderstanding
 torch7 lua
+景深图像质量增强资源列表
+https://github.com/mdcnn/Depth-Image-Quality-Enhancement
+
+Code for RenderNet: A deep convolutional network for differentiable rendering from 3D shapes
+https://github.com/thunguyenphuoc/RenderNet
+
+LabelFusion: A Pipeline for Generating Ground Truth Labels for Real RGBD Data of Cluttered Scenes http://labelfusion.csail.mit.edu
+https://github.com/RobotLocomotion/LabelFusion
+
+[ECCV'18] 3DMV: Joint 3D-Multi-View Prediction for 3D Semantic Scene Segmentation
+https://github.com/angeladai/3DMV
+https://arxiv.org/abs/1803.10409
+
+Code Repo for "Single View Stereo Matching" 
+https://github.com/lawy623/SVS
+
+DeepMVS: Learning Multi-View Stereopsis
+https://github.com/phuang17/DeepMVS
+
+Layer-structured 3D Scene Inference via View Synthesis
+https://github.com/google/layered-scene-inference
+
+Deep Depth Completion of a Single RGB-D Image
+https://github.com/yindaz/DeepCompletionRelease
+
+场景理解和建模挑战(360° RGB-D 3D室内全景理解
+https://github.com/facebookresearch/sumo-challenge
+
+# paper
+Real-Time Joint Semantic Segmentation and Depth Estimation Using Asymmetric Annotations
+https://arxiv.org/abs/1809.04766
+
+[ECCV 2018] DF-Net: Unsupervised Joint Learning of Depth and Flow using Cross-Task Consistency
+https://github.com/vt-vl-lab/DF-Net
+
+Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving
+https://github.com/mileyan/pseudo_lidar
+
+Neural RGB->D Sensing: Depth and Uncertainty from a Video Camera
+https://arxiv.org/abs/1901.02571

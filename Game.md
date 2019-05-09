@@ -13,6 +13,9 @@ https://github.com/mozilla/BrowserQuest
 贪吃蛇游戏 AI 版
 https://github.com/chuyangliu/Snake
 
+用遗传算法/深度学习玩贪吃蛇
+https://github.com/aliakbar09a/AI_plays_snake
+
 英雄联盟的机器学习项目
 https://github.com/farzaa/DeepLeague
 
@@ -24,3 +27,20 @@ https://github.com/ChintanTrivedi/DeepGamingAI_FIFA
 
 2048
 https://github.com/plibither8/2048.cpp
+
+任天堂Gameboy游戏机学习环境(C)
+https://github.com/krocki/gb
+
+自动生成无限迷宫的Pacman(吃豆小子)经典游戏
+https://github.com/skatiyar/pacman
+
+用PyTorch 开发ELF OpenGo(开源围棋机器人)
+https://github.com/pytorch/ELF
+
+
+OpenAI Gym推箱子游戏环境
+https://github.com/mpSchrader/gym-sokoban
+
+
+SCRIPT-8：开发、运行复古小游戏的JS引擎
+https://github.com/script-8/script-8.github.io

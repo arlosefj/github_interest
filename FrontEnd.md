@@ -21,3 +21,6 @@ https://github.com/retejs/rete
 
 33-js-concepts：该项目介绍了每个 Javascript 开发者应该知道的 33 个概念。列举了 Javascript 中非常常见的 33 个概念，对于深入了解 Javascript 语言有很大的帮助
 https://github.com/stephentian/33-js-concepts
+
+纯JavaScript图像处理库
+https://github.com/oliver-moran/jimp
