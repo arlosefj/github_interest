@@ -47,3 +47,15 @@ https://github.com/luanfujun/deep-photo-styletransfer
 
 Learning multi-domain multi-modality I2I translation
 https://github.com/HsinYingLee/MDMM
+
+Attention-aware Multi-stroke Style Transfer
+https://github.com/JianqiangRen/AAMS
+
+PyTorch implementation of the Delete, Retrieve Generate style transfer algorithm
+https://github.com/rpryzant/delete_retrieve_generate
+
+Photorealistic Style Transfer via Wavelet Transforms
+https://github.com/ClovaAI/WCT2
+
+Style Transfer by Relaxed Optimal Transport and Self-Similarity
+https://github.com/nkolkin13/STROTSS

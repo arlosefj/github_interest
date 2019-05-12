@@ -135,11 +135,77 @@ https://github.com/nyoki-mtl/pytorch-segmentation
 Pytorch code for semantic segmentation using ERFNet
 https://github.com/Eromera/erfnet_pytorch
 
+(ECCV 2018)COCO2018全景分割比赛第三名方案
+https://github.com/LaoYang1994/PanopticSegmentation
+
+语义分割、实例分割、全景分割和视频分割的论文和基准列表
+https://github.com/wutianyiRosun/Segmentation.X
+
+FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation
+https://github.com/wuhuikai/FastFCN
+
+全景分割相关资源大列表
+https://github.com/Angzz/awesome-panoptic-segmentation
+
+PyTorch实现的图像分割与预训练模型
+https://github.com/qubvel/segmentation_models.pytorch
+
+医学图像分割框架
+https://github.com/MIC-DKFZ/nnUNet
+
+### Mask-RCNN图像/视频(人物)背景自动灰化
+https://github.com/huuuuusy/Mask-RCNN-Shiny 
+
+### 肖像分割Demo
+https://github.com/nizhib/portrait-demo
+
 Dense Relation Network: Learning Consistent and Context-Aware Representation For Semantic Image Segmentation. Modification of DRN source code
 https://github.com/tonysy/DRN-MXNet
 
-## Deep GrabCut in PyTorch
+A Probabilistic U-Net for segmentation of ambiguous images implemented in PyTorch
+https://github.com/stefanknegt/Probabilistic-Unet-Pytorch
+
+In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images
+https://github.com/orsic/swiftnet
+
+FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation
+https://github.com/wuhuikai/FastFCN
+
+OpenCV深度学习时装图片降噪/分割
+https://github.com/anish9/Fashion-AI-segmentation
+
+### A simple, fully convolutional model for real-time instance segmentation.
+https://github.com/dbolya/yolact
+
+Analysis of Hand Segmentation in the Wild
+https://github.com/aurooj/Hand-Segmentation-in-the-Wild
+
+ICNet and PSPNet-50 in Tensorflow for real-time semantic segmentation
+https://github.com/oandrienko/fast-semantic-segmentation
+
+Tree-structured Kronecker Convolutional Network for Semantic Segmentation [Accepted by ICME 2019]　
+https://github.com/wutianyiRosun/TKCN
+
+nnU-Net is a framework designed for medical image segmentation. Given a new dataset (that includes training cases) nnU-Net will automatically take care of the entire experimental pipeline. Unlike other segmentation methods published recently, nnU-Net does not use complicated architectural modifications and instead revolves around the popular U-Net architecture. Still, nnU-Net outperforms many other methods and has been shown to produce segmentations that are on par with or even exceed the state-of-the art across six well-known medical segmentation challenges.
+https://github.com/MIC-DKFZ/nnUNet
+
+RVOS: End-to-End Recurrent Network for Video Object Segmentation https://imatge-upc.github.io/rvos/
+https://github.com/imatge-upc/rvos
+
+### Unseen Object Segmentation in Videos via Transferable Representations, ACCV 2018 (oral)
+https://github.com/wenz116/TransferSeg
+
+### Siamese Mask R-CNN model for one-shot instance segmentation
+https://github.com/bethgelab/siamese-mask-rcnn
+
+### Deep GrabCut in PyTorch
 https://github.com/jfzhang95/DeepGrabCut-PyTorch
+
+### OSMN: One-Shot Modulation Network for Semi-supervised Video Segmentation
+https://github.com/linjieyangsc/video_seg
+
+### Learning Pixel-level Semantic Affinity with Image-level Supervision for Weakly Supervised Semantic Segmentation, CVPR 2018
+https://github.com/jiwoon-ahn/psa
 
 基于PyTorch 1.0的高性能图像检测/分割实现，比Detectron快2倍
 https://github.com/facebookresearch/maskrcnn-benchmark

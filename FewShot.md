@@ -17,6 +17,9 @@ https://sorenbouma.github.io/blog/oneshot/
 Few-Shot Image Recognition by Predicting Parameters from Activations
 https://github.com/joe-siyuan-qiao/FewShot-CVPR
 
+Context-Aware Zero-Shot Recognition
+https://github.com/ruotianluo/Context-aware-ZSR
+
 The code and models for paper: "ScratchDet: Exploring to Train Single-Shot Object Detectors from Scratch"
 https://github.com/KimSoybean/ScratchDet The code is coming soon.
 
@@ -25,3 +28,6 @@ https://github.com/XiSHEN0220/ArtMiner
 
 Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples
 https://github.com/google-research/meta-dataset
+
+TensorFlow implementation for "Meta-Transfer Learning for Few-Shot Learning" (CVPR 2019)
+https://github.com/y2l/meta-transfer-learning-tensorflow

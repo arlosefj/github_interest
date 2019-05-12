@@ -45,3 +45,12 @@ https://github.com/chakki-works/doccano
 
 用Jupyter做数据标注的Widget
 https://github.com/natasha/ipyannotate
+
+### this is the official PyTorch implementation of Curve-GCN (CVPR 2019). This repository allows you to train new Curve-GCN models.
+https://github.com/fidler-lab/curve-gcn
+
+语义分割编辑器：相机和激光雷达数据web标记工具
+https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor
+
+为资源受限训练数据收集提供更智能的手工标注
+https://github.com/RTIInternational/SMART

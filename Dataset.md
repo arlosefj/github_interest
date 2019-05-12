@@ -62,14 +62,41 @@ https://bigquant.com/community/t/ai-%E4%BB%8E%E4%B8%9A%E8%80%85%E9%83%BD%E5%BA%9
 淋巴结切片病理图像数据集：机器学习模型新基准——比CIFAR10规模大，比imagenet规模小，可在单个GPU上训练
 https://github.com/basveeling/pcam
 
+Open Images V5发布与ICCV 2019 Open Images Challenge
+https://ai.googleblog.com/2019/05/announcing-open-images-v5-and-iccv-2019.html
+
+CelebAMask-HQ：大规模人脸图像数据集，包含三万张高分辨率人脸图像(从CelebA数据集选择而来)及人脸属性分割蒙版
+https://github.com/switchablenorms/CelebAMask-HQ
+
+SLAM数据集大列表
+https://github.com/youngguncho/awesome-slam-datasets
+
 Google发布Open Images Dataset V4大规模图像数据集
 https://storage.googleapis.com/openimages/web/index.html
+
+人像matting数据集，包含34427张图像和对应的matting结果图
+https://github.com/aisegmentcn/matting_human_datasets
+
+TextVQA:基于图像中文本的视觉推理基准数据集
+https://textvqa.org/
+
+航拍图像语义分割基准数据集
+https://github.com/ishann/aeroscapes
+
+推荐个小网站，收集了好多数据集
+https://www.datasetlist.com/
+
+街景店铺(中文)牌匾图像数据集
+https://github.com/chongshengzhang/shopsign
 
 包含480个图标的开源图标集
 https://github.com/akveo/eva-icons
 
 具有多边形注释的大型街拍数据集
 https://github.com/eBay/modanet
+
+A new test set for ImageNet
+https://github.com/modestyachts/ImageNetV2
 
 DeepFashion2服饰数据集
 https://github.com/switchablenorms/DeepFashion2
@@ -80,8 +107,23 @@ https://github.com/3dperceptionlab/therobotrix
 大规模零售商品结账图像数据集
 https://rpc-dataset.github.io/
 
+Dataset and Codebase for CVPR2019 "Precise Detection in Densely Packed Scenes"
+https://github.com/eg4000/SKU110K_CVPR19
+
 Hotels-50K全球酒店识别数据集，包含来自全球50,000家不同酒店的100多万张图片。许多人口贩运受害者的照片都是在酒店房间拍摄的，从图像识别酒店有挑战也很有意义。
 https://github.com/GWUvision/Hotels-50K
 
 面向城市场景行人姿态估计与跟踪的“侠盗猎车手V(GTA V)”视频数据集
 https://github.com/fabbrimatteo/JTA-Dataset
+
+This dataset contains 108,463 human-labeled and 656k noisily labeled pairs that feature the importance of modeling structure, context, and word order information for the problem of paraphrase identification.
+https://github.com/google-research-datasets/paws
+
+official github for paper "CELEB-500K: A LARGE TRAINING DATASET FOR FACE RECOGNITION"
+https://github.com/JiajiongCao/CELEB-500K
+
+PartNet Dataset Official Release Repo 
+https://github.com/daerduoCarey/partnet_dataset
+
+Info and sample codes for "NTU RGB+D Action Recognition Dataset"
+https://github.com/shahroudy/NTURGB-D

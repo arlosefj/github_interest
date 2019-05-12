@@ -112,3 +112,12 @@ https://github.com/automl/Auto-PyTorch
 
 Tensorized Embedding Layers for Efficient Model Compression
 https://github.com/KhrulkovV/tt-pytorch
+
+Code for paper "Learning to Reweight Examples for Robust Deep Learning"
+https://github.com/uber-research/learning-to-reweight-examples
+
+Code for “Discrimination-aware-Channel-Pruning-for-Deep-Neural-Networks”
+https://github.com/SCUT-AILab/DCP
+
+A PyTorch implementation of "Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights"
+https://github.com/Mxbonn/INQ-pytorch

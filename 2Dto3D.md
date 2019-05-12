@@ -10,11 +10,42 @@ https://github.com/lyndonzheng/Synthetic2Realistic
 PyTorch无监督单目深度估计
 https://github.com/ClubAI/MonoDepth-PyTorch
 
+基于深度图的2D图像3D化效果
+https://github.com/ialhashim/DenseDepth/
+
 DORN: Deep Ordinal Regression Network for Monocular Depth Estimation
 https://github.com/hufu6371/DORN
 
 从平行2D部分进行3D重建的C++工具
 https://github.com/paulknysh/shaper
+
+Transformable Bottleneck Networks
+https://github.com/kyleolsz/TB-Networks
+
+Recovering 3D Planes from a Single Image via Convolutional Neural Networks
+https://github.com/fuy34/planerecover
+
+Geometry-Aware Symmetric Domain Adaptation for Monocular Depth Estimation, CVPR 2019
+https://github.com/sshan-zhao/GASDA
+
+Direct Sparse Odometry with CNN Depth Prediction
+https://github.com/muskie82/CNN-DSO
+
+Annotation webapp (javascript) used in the research project Scan2CAD: Learning CAD Model Alignment in RGB-D Scans https://www.scan2cad.org
+https://github.com/skanti/Scan2CAD-Annotation-Webapp
+https://github.com/skanti/Scan2CAD
+
+### Monocular depth estimation from a single image
+https://github.com/nianticlabs/monodepth2
+
+### ICRA 2019 "FastDepth: Fast Monocular Depth Estimation on Embedded Systems"
+https://github.com/dwofk/fast-depth
+
+### Torch implementation for CVPR 18 paper: "LayoutNet: Reconstructing the 3D Room Layout from a Single RGB Image"
+https://github.com/zouchuhang/LayoutNet
+
+Stereo R-CNN based 3D Object Detection for Autonomous Driving
+https://github.com/HKUST-Aerial-Robotics/Stereo-RCNN
 
 基于Feature Pyramid Network的单图深度估计
 https://github.com/xanderchf/MonoDepth-FPN-PyTorch

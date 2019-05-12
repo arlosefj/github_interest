@@ -11,3 +11,6 @@ DynaSLAM is a SLAM system robust in dynamic environments for monocular, stereo a
 
 ### Real-time SLAM system with deep features
 https://github.com/jiexiong2016/GCNv2_SLAM
+
+用手持RGB-D相机实现实时动态语义SLAM
+https://github.com/floatlazer/semantic_slam

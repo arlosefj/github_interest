@@ -16,14 +16,62 @@ https://github.com/google/burst-denoising
 不会用Photoshop抠图？Mask R-CNN助你一键“除”人
 https://github.com/minimaxir/person-blocker
 
+CVPR 2019 论文开源项目合集
+https://github.com/amusi/CVPR2019-Code
+
+Official Implementation of 'Fast AutoAugment' in PyTorch.
+https://github.com/KakaoBrain/fast-autoaugment
+
+通过bows (基本feature为sift)来做图像特征表示
+https://github.com/lipiji/PG_BOW_DEMO
+
+计算机视觉挑战排行榜(Leaderboard)集锦
+https://github.com/kobiso/Computer-Vision-Leaderboard
+
+计算机视觉文献笔记集
+https://github.com/ahong007007/Awesome_Computer_Vision
+
 ### Richer Convolutional Features for Edge Detection model in pytorch
 https://github.com/meteorshowers/RCF-pytorch
+
+### The source code of CVPR19 'Im2Pencil: Controllable Pencil Illustration from Photographs'.
+https://github.com/Yijunmaverick/Im2Pencil
+
+图像质量评价指标集锦Python包
+https://github.com/andrewekhalel/sewar
+
+Implementation codes of SIGGRAPH Asia 2018 paper "Image Smoothing via Unsupervised Learning"
+https://github.com/fqnchina/ImageSmoothing
+
+Progressive Image Deraining Networks: A Better and Simpler Baseline (CVPR 2019)
+https://github.com/csdwren/PReNet
+
+NCNet Re-implementation on Pytorch 1.0 (Original implementation : https://github.com/ignacio-rocco/ncnet)
+https://github.com/XiSHEN0220/NeighConsensus
+
+A Tensorflow implementation of RetinexNet
+https://github.com/weichen582/RetinexNet
+
+This project is an unofficial implementation of AlphaGAN: Generative adversarial networks for natural image matting published at the BMVC 2018
+https://github.com/CDOTAD/AlphaGAN-Matting
+
+Code for the paper "Generalizing to Unseen Domains via Adversarial Data Augmentation", NeurIPS 2018
+https://github.com/ricvolpi/generalize-unseen-domains
 
 Tensorflow implementation of Perception-Preserving Convolutional Networks for Image Enhancement on Smartphones (ECCV 2018 Workshop PIRM)
 https://github.com/Zheng222/PPCN
 
+ECCV'18: Deep High Dynamic Range Imaging with Large Foreground Motions
+https://github.com/elliottwu/DeepHDR
+
+a reimplementation of Holistically-Nested Edge Detection in PyTorch
+https://github.com/sniklaus/pytorch-hed
+
 性能与OpenCV相当的轻量图像处理库(Python/C++)
 https://github.com/ethereon/lycon
+
+This is the official code of spatial FCN in the paper Learning from Synthetic Data for Crowd Counting in the Wild [CVPR2019].
+https://github.com/gjy3035/GCC-SFCN
 
 故宫下雪了！我花了45秒，用Python给它画了一组手绘图
 https://mp.weixin.qq.com/s/iFC0NDjMebA-5Lw6Y88sjQ

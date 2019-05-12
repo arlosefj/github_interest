@@ -48,5 +48,20 @@ https://github.com/mzolfaghari/ECO-pytorch
 视频研究常用方法、数据集和任务汇总
 https://github.com/gsig/PyVideoResearch
 
+深度学习视频高效加载器
+https://github.com/zhreshold/decord
+
+Python/OpenCV实现的视频场景检测与分析
+https://github.com/Breakthrough/PySceneDetect
+
+STCN: Stochastic Temporal Convolutional Networks
+https://github.com/emreaksan/stcn
+
 PyTorch实现的C3D, R3D, R2Plus1D视频行为识别
 https://github.com/jfzhang95/pytorch-video-recognition
+
+Code and models for our CVPR'19 paper "Representation Flow for Action Recognition" 
+https://github.com/piergiaj/representation-flow-cvpr19
+
+Repository for the paper "Adversarial Framing for Image and Video Classification"
+https://github.com/zajaczajac/adv_framing

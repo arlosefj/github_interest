@@ -24,3 +24,33 @@ https://github.com/huangjianke/Gitter
 
 用Fritz在手机上训练、部署多种机器学习模型
 https://github.com/fritzlabs/fritz-models
+
+深度学习移动端车型识别，支持1776种常见车辆品牌及子品牌
+https://github.com/zeusees/HyperVID
+
+Accelerate Pelee with tensorRT(over 200FPS(5ms) on Titan V and 70FPS(11ms) on jetson TX2(FP32))
+https://github.com/ginn24/Pelee-TensorRT
+
+移动设备神经网络推理性能端到端测试工具
+https://github.com/XiaoMi/mobile-ai-bench
+
+(iOS、安卓和边缘设备)移动机器学习资源精选列表
+https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning
+
+[ECCV 2018] Compressed models from AMC: AutoML for Model Compression and Acceleration on Mobile Devices.
+https://github.com/mit-han-lab/amc-compressed-models
+
+Core ML实现的人体姿态估计
+https://github.com/tucan9389/PoseEstimation-CoreML
+
+手机端人脸识别方案
+https://github.com/becauseofAI/MobileFace
+
+Towards Real-Time Automatic Portrait Matting on Mobile Devices
+https://github.com/hyperconnect/MMNet
+
+### 手机端高性能卷积神经网络推理引擎概览
+https://github.com/HolmesShuan/CNN-Inference-Engine-Quick-View
+
+iOS机器学习挑战项目大列表
+https://github.com/motlabs/awesome-ml-demos-with-ios

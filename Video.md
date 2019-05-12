@@ -22,6 +22,28 @@ https://github.com/anchen1011/toflow
 基于 Pyqt4 的电影天堂电影搜索工具
 https://github.com/lt94/MovieHeavens
 
+DVC: An End-to-end Deep Video Compression Framework, CVPR 2019 (Oral)
+https://github.com/GuoLusjtu/DVC
+
+通过识别视频中的 👍👎手势对视频进行自动剪切，删掉无用片段，还可以通过声音识别，自动加速或剪切视频
+https://github.com/carykh/jumpcutter
+
+基于OpenCV/PiCamera/FFmpeg的高级视频处理库
+https://github.com/abhiTronix/vidgear
+
+### Automatic Temporally Coherent Video Colorization
+https://github.com/Harry-Thasarathan/TCVC
+
+PyTorch视频基本变换
+https://github.com/hassony2/torch_videovision
+
+视频增强相关资源列表，包括视频超分辨率、插值、去噪、压缩伪影消除等
+https://github.com/yulunzhang/video-enhancement
+
+An implementation of Adaptive Separable Convolution for Video Frame Interpolation
+https://github.com/martkartasev/sepconv
+
+
 youku视频源地址解析
 https://github.com/malone6/youkuhttps://github.com/hanguokai/youkuhttps://github.com/holysor/spider_youkuhttps://github.com/EvilCult/Video-Downloader
 

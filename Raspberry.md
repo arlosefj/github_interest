@@ -21,3 +21,6 @@ https://github.com/Timthony/self_drive
 
 DIY：用树莓派+EInk显示屏做智能日历
 https://github.com/zli117/EInk-Calendar
+
+玩转树莓派机器学习：Vanilla Raspberry Pi 3 B+、Intel’s Neural Compute Stick 2、Xnor.ai
+https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fmedium.freecodecamp.org%2Fperf-machine-learning-on-rasp-pi-51101d03dba2

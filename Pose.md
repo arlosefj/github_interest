@@ -37,8 +37,48 @@ https://pan.baidu.com/s/1GSwPIFPT3ajxWdOoiivqPQ
 Android/iOS上实现实时单人姿态估计
 https://github.com/edvardHua/PoseEstimationForMobile
 
+CrossInfoNet of CVPR 2019 for hand pose estimation
+https://github.com/dumyy/handpose
+
+Single view depth image based hand detection and pose estimation.
+https://github.com/xkunwu/depth-hand
+
+2019深度学习人体姿态估计指南
+https://github.com/cbsudux/Human-Pose-Estimation-101
+
+### [CVPR19] FSA-Net: Learning Fine-Grained Structure Aggregation for Head Pose Estimation from a Single Image
+https://github.com/shamangary/FSA-Net
+
+### Web browser based demo of OpenPifPaf.
+https://github.com/vita-epfl/openpifpafwebdemo
+
+PyTorch implementation for our paper Learning Character-Agnostic Motion for Motion Retargeting in 2D, SIGGRAPH 2019 https://motionretargeting2d.github.io
+https://github.com/ChrisWu1997/2D-Motion-Retargeting
+
+Betapose for 6D pose estimation
+https://github.com/sjtuytc/betapose
+
+API for the dataset proposed in "Pose2Seg: Detection Free Human Instance Segmentation" @ CVPR2019.
+https://github.com/liruilong940607/OCHumanApi
+
+
 Official Repository for Multi-Human-Parsing (MHP)
 https://github.com/ZhaoJ9014/Multi-Human-Parsing_MHP
+
+Official TensorFlow implementation of "PoseFix: Model-agnostic General Human Pose Refinement Network", CVPR 2019
+https://github.com/mks0601/PoseFix_RELEASE
+
+Pose Guided Structured Region Ensemble Network for Cascaded Hand Pose Estimation
+https://github.com/xinghaochen/Pose-REN
+
+### Fast and accurate human pose estimation in PyTorch. Contains implementation of "Real-time 2D Multi-Person Pose Estimation on CPU: Lightweight OpenPose" paper.
+https://github.com/Daniil-Osokin/lightweight-human-pose-estimation.pytorch
+
+Implementation of "PifPaf: Composite Fields for Human Pose Estimation" in PyTorch.
+https://github.com/vita-epfl/openpifpaf
+
+### Everybody dance now reproduced in pytorch
+https://github.com/CUHKSZ-TQL/EverybodyDanceNow_reproduce_pytorch
 
 PyTorch implementation of pose proposal networks
 https://github.com/wangziren1/pytorch_pose_proposal_networks

@@ -76,6 +76,15 @@ https://github.com/bellecp/fast-p
 汉字拼音转换工具(Python 版)
 https://github.com/mozillazg/python-pinyin
 
+超级实用的工具
+https://miku.tools/
+
+这款工具能将带数学公式的截图一键转成 latex 代码
+https://mathpix.com/
+
+这个网站可以帮你生成手绘风格的流程图或架构图，写文章的时候随手插入几张应该很有艺术感。
+https://jeasonstudio.github.io/oxygen-demo/
+
 gitea：一个极易安装、运行快速、安装简单、使用体验良好的自建 Git 服务。采用 Go 作为后端语言，支持 Linux、 macOS、Windows 等
 https://github.com/go-gitea/gitea
 

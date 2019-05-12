@@ -96,6 +96,15 @@ https://github.com/wujiyang/Face_Pytorch
 MTCNN Face detection algorithm's C++ implementation with NVIDIA TensorRT Inference acceleration SDK
 https://github.com/PKUZHOU/MTCNN_FaceDetection_TensorRT
 
+CNN面部表情识别
+https://github.com/WuJie1010/Facial-Expression-Recognition.Pytorch
+
+Robust 2D and 3D Face Alignment Implemented in MXNet
+https://github.com/deepinx/deep-face-alignment
+
+【实时表情识别】’Real-Time-Facial-Expression-Recognition - A Deep Learning Case Study to detect one of the Seven Human Facial Expressions in Still Images and in Real Time'
+https://github.com/gauravtheP/Real-Time-Facial-Expression-Recognition
+
 “人脸合成”讲解与实现
 https://github.com/carykh/alignedCelebFaces
 https://weibo.com/tv/v/HgcycnIwD?fid=1034:4338614541162153
@@ -108,3 +117,9 @@ https://github.com/JoYoungjoo/SC-FEGAN
 
 PyTorch实现的深度人脸识别
 https://github.com/grib0ed0v/face_recognition.pytorch
+
+PyTorch implementation of Additive Angular Margin Loss for Deep Face Recognition.
+https://github.com/foamliu/InsightFace-v2
+
+Hair detection, segmentation, and hairstyle classification in the wild
+https://github.com/UmarSpa/HairAnalysis

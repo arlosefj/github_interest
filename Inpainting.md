@@ -28,10 +28,16 @@ https://github.com/DmitryUlyanov/deep-image-prior
 https://github.com/deeppomf/DeepCreamPy
 https://arxiv.org/abs/1804.07723
 
+
+Deep Fusion Network for Image completion
+https://github.com/hughplay/DFNet
+
 修复
 https://github.com/akmtn/pytorch-siggraph2017-inpainting
 http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/​
 
+Image Inpainting via Generative Multi-column Convolutional Neural Network
+https://github.com/shepnerd/inpainting_gmcnn
 
 # video inpainting
 https://github.com/jajatikr/Video-Inpainting

@@ -168,3 +168,30 @@ https://github.com/yuzutech/kroki
 
 Prefect：面向数据科学的工作流自动化管理系统
 https://github.com/PrefectHQ/prefect
+
+Python的PDF读写库
+https://github.com/pikepdf/pikepdf
+
+Python实现的面试题集锦
+https://github.com/leeguandong/Interview-code-practice-python
+
+### 浏览器里的Python游戏开发引擎
+https://github.com/pickitup247/pyckitup
+
+Jupyter机器人开发交互扩展集
+https://github.com/robostack/jupyter-ros
+
+三个Jupyter Notebook扩展帮你减少分心、提高效率
+https://towardsdatascience.com/three-jupyter-notebook-extensions-that-minimize-distractions-bd9ec98f0e2c
+
+维也纳数据科学家 Florian Rohrer 整理的 Python 数据科学清单
+https://github.com/r0f1/datascience
+
+免费的 Python 编程教程《Python for Everybody》
+https://github.com/csev/py4e
+
+用Matplotlib创建动画
+https://towardsdatascience.com/animations-with-matplotlib-d96375c5442c
+
+### Python交互式教学课程制作框架
+https://github.com/ines/course-starter-python

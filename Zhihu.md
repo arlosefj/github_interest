@@ -56,3 +56,9 @@ https://www.zhihu.com/question/21278186
 
 不想学习的时候如何逼迫自己去学习？ - 知乎
 https://www.zhihu.com/question/20773513
+
+你是怎么变自律的？ - 知乎
+https://www.zhihu.com/question/284206141
+
+了解/从事机器学习/深度学习系统相关的研究需要什么样的知识结构
+https://www.zhihu.com/question/315611053/answer/676815240?utm_source=weibo&utm_medium=social&utm_oi=28266941382656

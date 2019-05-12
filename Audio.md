@@ -24,3 +24,12 @@ https://github.com/nl8590687/ASRT_SpeechRecognition
 
 用卷积神经网络从立体声音乐中分离人声
 https://towardsdatascience.com/audio-ai-isolating-vocals-from-stereo-music-using-convolutional-neural-networks-210532383785
+
+A Pytorch Implementation of "Neural Speech Synthesis with Transformer Network"
+https://github.com/soobinseo/Transformer-TTS
+
+This is research-code for Synthesizing Obama: Learning Lip Sync from Audio.
+https://github.com/supasorn/synthesizing_obama_network_training
+
+Voice Operated Character Animation https://voca.is.tue.mpg.de/en
+https://github.com/TimoBolkart/voca

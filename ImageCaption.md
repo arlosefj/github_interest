@@ -18,3 +18,12 @@ https://github.com/flrngel/Self-Attentive-tensorflow
 
 This repository contains the reference code for the paper Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions (CVPR 2019).
 https://github.com/aimagelab/show-control-and-tell 
+
+Learning to Evaluate Image Captioning. CVPR 2018
+https://github.com/richardaecn/cvpr18-caption-eval
+
+Official Tensorflow Implementation of the paper "Bidirectional Attentive Fusion with Context Gating for Dense Video Captioning" in CVPR 2018, with code, model and prediction results.
+https://github.com/JaywongWang/DenseVideoCaptioning
+
+A PyTorch implementation of Transformer in "Attention is All You Need" https://arxiv.org/abs/1706.03762
+https://github.com/dreamgonfly/Transformer-pytorch

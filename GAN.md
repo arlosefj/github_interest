@@ -1,3 +1,10 @@
+对抗生成网络(GANs)：从理解到实践(生成手写数字)
+https://towardsdatascience.com/graduating-in-gans-going-from-understanding-generative-adversarial-networks-to-running-your-own-39804c283399
+
+# TextCaps : Handwritten Character Recognition with Very Small Datasets》V Jayasundara, S Jayasekara, H Jayasekara, J Rajasegaran, S Seneviratne, R Rodrigo [University of Moratuwa & University of Sydney] (2019) 
+https://github.com/vinojjayasundara/textcaps
+用capsule network生成逼真训练样本，用200样本在MNIST上达到98.7%精度
+
 TorchGAN：基于PyTorch的GAN简易高效训练研究框架
 https://github.com/torchgan/torchgan
 https://torchgan.readthedocs.io/en/latest/
@@ -14,8 +21,27 @@ https://github.com/azadis/MC-GAN
 Text Generation Using A Variational Autoencoder
 https://github.com/Toni-Antonova/VAE-Text-Generation
 
+(PyTorch)GAN工具箱(实现集锦)
+https://github.com/facebookresearch/pytorch_GAN_zoo
+
+GAN图片编辑：恶犬秒变萌汪
+https://github.com/quolc/neural-collage
+内部表示拼接空间可控图像合成——基于CNN的图像编辑策略，通过在训练GAN模型中操纵图像特征空间表示改变任意区域图像语义信息
+
+StyleGAN made with Keras (without growth or mixing regularization)
+https://github.com/manicman1999/StyleGAN-Keras
+
+### SPADE涂鸦绘画逼真照片合成
+https://github.com/NVlabs/SPADE
+
+### TecoGAN(时序一致GAN)视频超分辨率实现
+https://github.com/thunil/TecoGAN
+
 ### SC-FEGAN : Face Editing Generative Adversarial Network with User's Sketch and Color
 https://github.com/JoYoungjoo/SC-FEGAN
+
+(Pytorch)人脸正面化GAN
+https://github.com/scaleway/frontalization
 
 Pytorch Implementation of NeurIPS'18 paper on Generative Image Manipulation with Hierarchical Semantic Structures
 https://github.com/xcyan/neurips18_hierchical_image_manipulation
@@ -59,6 +85,8 @@ https://github.com/jerryli27/TwinGAN/blob/master/docs/blog/blog_CH.md
 Night-to-Day Image Translation for Retrieval-based Localization
 https://github.com/AAnoosheh/ToDayGAN
 
+ELEGANT: Exchanging Latent Encodings with GAN for Transferring Multiple Face Attributes https://arxiv.org/abs/1803.10562
+https://github.com/Prinsphield/ELEGANT
 
 效果超赞的图片自动增强：GANs非成对学习图像增强
 https://github.com/nothinglo/Deep-Photo-Enhancer
@@ -69,17 +97,44 @@ https://github.com/Yijunmaverick/CartoonGAN-Test-Pytorch-Torch
 Eye In-Painting with Exemplar Generative Adversarial Networks（眼睛替换）
 https://github.com/bdol/exemplar_gans
 
+pix2pix舞姿迁移Demo
+https://github.com/GordonRen/pose2pose
+
+Code for “Auto-Embedding Generative Adversarial Networks for High Resolution Image Synthesis”
+https://github.com/guoyongcs/AEGAN
+
+### STGAN: A Unified Selective Transfer Network for Arbitrary Image Attribute Editing
+https://github.com/csmliu/STGAN
+
 Simple Tensorflow implementation of FusionGAN（姿势替换）
 https://github.com/taki0112/FusionGAN-Tensorflow
 
+### Code for our paper: You Only Propagate Once: Painless Adversarial Training Using Maximal Principle
+https://github.com/a1600012888/YOPO-You-Only-Propagate-Once
+
 (PyTorch)GANs训练库
 https://github.com/unit8co/vegans
+
+Multi-Channel Attention Selection GAN with Cascaded Semantic Guidance for Cross-View Image Translation (CVPR 2019 Oral)
+https://github.com/Ha0Tang/SelectionGAN
+
+Video Generation from Single Semantic Label Map
+https://github.com/junting/seg2vid
+
+Memory Replay GANs: learning to generate images from new categories without forgetting
+https://github.com/WuChenshen/MeRGAN
+
+PacGAN: The power of two samples in generative adversarial networks, NeurIPS 2018 https://arxiv.org/abs/1712.04086
+https://github.com/fjxmlzn/PacGAN
 
 生成模型教程(及演示)集锦
 https://github.com/omerbsezer/Generative_Models_Tutorial_with_Demo
 
 An "infinite"-resolution and interpretable GAN. It works based on a differentiable photo editing model and reinforcement learning. (ACM Transactions on Graphics, presented at SIGGRAPH 2018)
 https://github.com/yuanming-hu/exposure
+
+[MSG-GAN] Any body can GAN! Highly stable and robust architecture. Requires little to no hyperparameter tuning.
+https://github.com/akanimax/BMSG-GAN
 
 PyTorch implementation of DRAW: A Recurrent Neural Network For Image Generation trained on Devanagari dataset.
 https://github.com/Natsu6767/Generating-Devanagari-Using-DRAW

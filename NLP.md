@@ -41,3 +41,6 @@ https://github.com/kexinyi/ns-vqa
 
 简洁方便获取BERT嵌入表示(MXNet/gluonnlp)
 https://github.com/imgarylai/bert-embedding
+
+This code is for paper Fine-tune BERT for Extractive Summarization
+https://github.com/nlpyang/BertSum

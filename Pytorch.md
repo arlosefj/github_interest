@@ -130,11 +130,29 @@ https://github.com/thomasjpfan/pytorch_refinenet
 Multi-Task Learning as Multi-Objective Optimization
 https://github.com/IntelVCL/MultiObjectiveOptimization
 
+'Pytorch TVM Extension' 
+https://github.com/pytorch/tvm
+
 PyTorch implementation of DGCNN (Deep Graph Convolutional Neural Network)
 https://github.com/muhanzhang/pytorch_DGCNN
 
+用Python实现Transformer
+https://github.com/SamLynnEvans/Transformer
+
+PyTorch大数据集高效训练最佳实践
+https://github.com/Lyken17/Efficient-PyTorch
+
+(Pytorch)GPU内存跟踪工具
+https://github.com/Oldpan/Pytorch-Memory-Utils
+
+(PyTorch)手写体合成与预测
+https://github.com/ritheshkumar95/pytorch_handwriting_synthesis
+
 基于mltest的PyTorch单元测试包
 https://github.com/suriyadeepan/torchtest
+
+Implementing Billion-scale semi-supervised learning for image classification using Pytorch
+https://github.com/leaderj1001/Billion-scale-semi-supervised-learning
 
 RetinaNet Examples - Fast and accurate object detection with end-to-end GPU optimization
 https://github.com/NVIDIA/retinanet-examples

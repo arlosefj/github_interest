@@ -15,3 +15,15 @@ https://github.com/ZZUTK/SRNTT
 
 Official code (Tensorflow) for paper "Fast and Efficient Image Quality Enhancement via Desubpixel Convolutional Neural Networks"
 https://github.com/thangvubk/FEQE
+
+Pytorch code for our paper "Feedback Network for Image Super-Resolution" (CVPR2019)
+https://github.com/Paper99/SRFBN_CVPR19
+
+### Repository for Detail-revealing Deep Video Super-resolution https://arxiv.org/abs/1704.02738
+https://github.com/jiangsutx/SPMC_VideoSR
+
+Deep Plug-and-Play Super-Resolution for Arbitrary Blur Kernels (CVPR, 2019) (PyTorch)
+https://github.com/cszn/DPSR
+
+(PyTorch)超分辨率模型、算法集锦
+https://github.com/icpm/super-resolution

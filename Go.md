@@ -19,6 +19,9 @@ https://github.com/denverdino/aliyungo
 实现了类 top 命令展示效果的 docker 容器监控工具
 https://github.com/bcicen/ctop
 
+Go语言写的全文搜索/索引服务器
+https://github.com/mosuka/blast
+
 ### Go+TensorFlow打造的个人照片管理平台
 https://github.com/photoprism/photoprism
 

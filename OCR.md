@@ -17,14 +17,53 @@ https://github.com/Jyouhou/SceneTextPapers
 An Implementation of the alogrithm in paper IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection
 https://github.com/xieyufei1993/InceptText-Tensorflow
 
+ICDAR2015场景文字检测方案
+https://github.com/Vipermdl/OCR_detection_IC15
+
+### 基于文本行/线段的文档图像去变形
+https://github.com/xellows1305/Document-Image-Dewarping
+
+Pyramid Mask Text Detector
+https://www.arxiv-vanity.com/papers/1903.11800/
+
+基于CTPN（tensorflow）+CRNN（pytorch）+CTC的不定长文本检测和识别
+https://github.com/ooooverflow/chinese-ocr
+
 CRNN场景文字识别
 https://github.com/MaybeShewill-CV/CRNN_Tensorflow
 
 FOTS: Fast Oriented Text Spotting with a Unified Network
 https://github.com/xieyufei1993/FOTS
 
+This is a tensorflow re-implementation of PSENet: Shape Robust Text Detection with Progressive Scale Expansion Network.My blog: https://blog.csdn.net/liuxiaoheng1992…
+https://github.com/liuheng92/tensorflow_PSENet
+
 Deep Pyramid Convolutional Neural Networks for Text Categorization
 https://github.com/Cheneng/DPCNN
+
+cnocr：用来做中文OCR的Python 3包，自带了训练好的识别模型
+https://github.com/breezedeus/cnocr
+
+Implementation for CVPR 2018 text recognition Paper by Tensorflow: "AON: Towards Arbitrarily-Oriented Text Recognition"
+https://github.com/huizhang0110/AON
+
+PyTorch implementation of CRNN to do Image Text Recognition using torch.nn.CTCLoss
+https://github.com/zhiqwang/crnn.pytorch
+
+License Plate Detection and Recognition in Unconstrained Scenarios
+https://github.com/sergiomsilva/alpr-unconstrained
+
+### Tensorflow based. Use CNN and CTC loss. It is a light network for Plate Recognition
+https://github.com/lyl8213/Plate_Recognition-LPRnet
+
+Tightness-aware Evaluation Protocol for Scene Text Detection (CVPR 2019)
+https://github.com/Yuliang-Liu/TIoU-metric
+
+### Text recognition (optical character recognition) with deep learning methods.
+https://github.com/clovaai/deep-text-recognition-benchmark
+
+TextField: Learning A Deep Direction Field for Irregular Scene Text Detection (TIP 2019)
+https://github.com/YukangWang/TextField
 
 Convolutional Recurrent Neural Networks(CRNN) for Scene Text Recognition
 https://github.com/MaybeShewill-CV/CRNN_Tensorflow

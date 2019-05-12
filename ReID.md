@@ -21,3 +21,15 @@ https://github.com/hqqasw/person-search-PPCC
 
 This is the code repository for our tech report "Revisiting Temporal Modeling for Video-based Person ReID": https://arxiv.org/abs/1805.02104.
 https://github.com/jiyanggao/Video-Person-ReID
+
+Code for ECCV2018 paper: Part-Aligned Bilinear Representations for Person Re-Identification
+https://github.com/yuminsuh/part_bilinear_reid
+
+Unsupervised Domain Adaptive Re-Identification
+https://github.com/LcDog/DomainAdaptiveReID
+
+Invariance Matters: Exemplar Memory for Domain Adaptive Person Re-identification CVPR 2019
+https://github.com/zhunzhong07/ECN
+
+Pytorch code for our CVPR'19 (oral) work: Unsupervised person re-identification by soft multilabel learning
+https://github.com/KovenYu/MAR
