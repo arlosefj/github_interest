@@ -18,3 +18,12 @@ https://github.com/amusi/TensorFlow-From-Zero-To-One
 
 A generalized gradient-based CNN visualization technique
 https://github.com/adityac94/Grad_CAM_plus_plus
+
+TensorFlow模型优化工具集
+https://github.com/tensorflow/model-optimization
+
+(TensorFlow)机器学习交互示例集
+https://research.google.com/seedbank/
+
+TensorFlow图形学入门
+https://github.com/tensorflow/graphics

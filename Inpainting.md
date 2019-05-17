@@ -42,3 +42,6 @@ https://github.com/shepnerd/inpainting_gmcnn
 # video inpainting
 https://github.com/jajatikr/Video-Inpainting
 keras+tf
+
+### Deep Flow-Guided Video Inpainting
+https://nbei.github.io/video-inpainting.html

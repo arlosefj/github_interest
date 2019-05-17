@@ -51,6 +51,12 @@ https://github.com/gsig/PyVideoResearch
 深度学习视频高效加载器
 https://github.com/zhreshold/decord
 
+Decoupling Localization and Classification in Single Shot Temporal Action Detection
+https://github.com/HYPJUDY/Decouple-SSAD
+
+R-C3D pytorch implementation
+https://github.com/sunnyxiaohu/R-C3D.pytorch
+
 Python/OpenCV实现的视频场景检测与分析
 https://github.com/Breakthrough/PySceneDetect
 

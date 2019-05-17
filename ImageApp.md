@@ -299,6 +299,12 @@ https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fhackernoon.com%2F
 CNN运动模糊检测
 https://github.com/Sibozhu/MotionBlur-detection-by-CNN
 
+Learning Deep CNN Denoiser Prior for Image Restoration (CVPR, 2017) 
+https://github.com/cszn/ircnn
+
+边缘检测文献大列表
+https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers
+
 黄图鉴别(不可描述图片检测)
 https://github.com/rockyzhengwu/nsfw
 
@@ -307,3 +313,6 @@ https://github.com/DimitarPetrov/stegify
 
 医学影像交互工具包
 https://github.com/MITK/MITK
+
+TideFinger——指纹识别小工具，汲取整合了多个web指纹库，结合了多种指纹检测方法，让指纹检测更快捷、准确
+https://github.com/TideSec/TideFinger

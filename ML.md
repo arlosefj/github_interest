@@ -118,6 +118,9 @@ https://towardsdatascience.com/introducing-snorkel-27e4b0e6ecff
 AI实战-practicalAI 中文版
 https://github.com/MLEveryday/practicalAI-cn
 
+Large Scale Fine-Grained Categorization and Domain-Specific Transfer Learning. CVPR 2018
+https://github.com/richardaecn/cvpr18-inaturalist-transfer
+
 机器学习论文阅读笔记集锦
 https://github.com/kweonwooj/papers
 https://towardsdatascience.com/guide-to-reading-academic-research-papers-c69c21619de6

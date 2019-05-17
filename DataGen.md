@@ -10,3 +10,6 @@ https://towardsdatascience.com/generating-training-datasets-using-energy-based-m
 
 AutoML数据增广
 https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fblog.insightdatascience.com%2Fautoml-for-data-augmentation-e87cf692c366
+
+用贝叶斯优化发现最适合数据集的图像增广策略
+https://github.com/barisozmen/deepaugment

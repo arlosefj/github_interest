@@ -54,3 +54,9 @@ https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-edi
 
 为资源受限训练数据收集提供更智能的手工标注
 https://github.com/RTIInternational/SMART
+
+点云标记工具
+https://github.com/springzfx/point-cloud-annotation-tool
+
+WebAnno：灵活的、基于网络、可视化的分布式文本标注系统
+https://github.com/webanno/webanno

@@ -62,3 +62,6 @@ https://www.zhihu.com/question/284206141
 
 了解/从事机器学习/深度学习系统相关的研究需要什么样的知识结构
 https://www.zhihu.com/question/315611053/answer/676815240?utm_source=weibo&utm_medium=social&utm_oi=28266941382656
+
+如何学习数据结构？ - 知乎
+https://www.zhihu.com/question/21318658

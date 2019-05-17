@@ -1,3 +1,6 @@
+### mathAI - 一个拍照做题程序。输入一张包含数学计算题的图片，输出识别出的数学计算式以及计算结果
+https://github.com/Roujack/mathAI
+
 * faster-CTPN - very fast CTPN
 https://github.com/hsddlz/faster-CTPN
 we change the LSTM model to conv1D that more than 5 times faster than the original version.

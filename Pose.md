@@ -43,11 +43,20 @@ https://github.com/dumyy/handpose
 Single view depth image based hand detection and pose estimation.
 https://github.com/xkunwu/depth-hand
 
+### LightTrack: A Generic Framework for Online Top-Down Human Pose Tracking
+https://github.com/Guanghan/lighttrack
+
+A reinplement pytorch version of multiposenet. A pytorch version that define networks for architecture introduced in 'MultiPoseNet: Fast Multi-Person Pose Estimation using Pose Residual Network' paper https://arxiv.org/abs/1807.04067
+https://github.com/IcewineChen/pytorch-MultiPoseNet
+
 2019深度学习人体姿态估计指南
 https://github.com/cbsudux/Human-Pose-Estimation-101
 
 ### [CVPR19] FSA-Net: Learning Fine-Grained Structure Aggregation for Head Pose Estimation from a Single Image
 https://github.com/shamangary/FSA-Net
+
+### Multi-person Human Pose Estimation with HRNet in Pytorch
+https://github.com/stefanopini/simple-HRNet
 
 ### Web browser based demo of OpenPifPaf.
 https://github.com/vita-epfl/openpifpafwebdemo

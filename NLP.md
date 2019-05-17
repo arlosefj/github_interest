@@ -44,3 +44,6 @@ https://github.com/imgarylai/bert-embedding
 
 This code is for paper Fine-tune BERT for Extractive Summarization
 https://github.com/nlpyang/BertSum
+
+中文聊天机器人小智
+https://github.com/Doragd/Chinese-Chatbot-PyTorch-Implementation

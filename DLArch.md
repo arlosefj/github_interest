@@ -10,6 +10,19 @@ https://github.com/lixincn2015/Partial-Order-Pruning
 DeepSwarm神经网络架构搜索框架
 https://github.com/Pattio/DeepSwarm
 
+MobileNetV3, PyTorch, pretrained model, on ImageNet 1K, detailed training processing.
+https://github.com/PengBoXiangShang/MobileNetV3_PyTorch
+https://github.com/xiaolai-sqlai/mobilenetv3
+
+Graph U-Nets
+https://arxiv.org/abs/1905.05178
+
+深度神经网络可扩展异步神经结构/超参搜索
+https://github.com/deephyper/deephyper
+
+A GPipe implementation in PyTorch
+https://github.com/KakaoBrain/torchgpipe
+
 Code for our CVPR 2019 paper: Selective Kernel Networks; See zhihu：https://zhuanlan.zhihu.com/p/59690223
 https://github.com/implus/SKNet
 

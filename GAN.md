@@ -1,9 +1,21 @@
+Ian Goodfellow：对抗机器学习
+https://www.bilibili.com/video/av52414025
+
 对抗生成网络(GANs)：从理解到实践(生成手写数字)
 https://towardsdatascience.com/graduating-in-gans-going-from-understanding-generative-adversarial-networks-to-running-your-own-39804c283399
 
 # TextCaps : Handwritten Character Recognition with Very Small Datasets》V Jayasundara, S Jayasekara, H Jayasekara, J Rajasegaran, S Seneviratne, R Rodrigo [University of Moratuwa & University of Sydney] (2019) 
 https://github.com/vinojjayasundara/textcaps
 用capsule network生成逼真训练样本，用200样本在MNIST上达到98.7%精度
+
+用fastai实现SPADE涂鸦变照片
+https://towardsdatascience.com/implementing-spade-using-fastai-6ad86b94030a
+
+深入GANs
+https://github.com/mrdragonbear/GAN-Tutorial
+
+Image-to-image translation with flow-based generative model
+https://github.com/yenchenlin/pix2pix-flow
 
 TorchGAN：基于PyTorch的GAN简易高效训练研究框架
 https://github.com/torchgan/torchgan
@@ -14,6 +26,9 @@ https://github.com/charliememory/Disentangled-Person-Image-Generation
 
 Pytorch-CycleGAN
 https://github.com/aitorzip/PyTorch-CycleGAN
+
+用StyleGAN生成“权力的游戏”人物
+https://blog.nanonets.com/stylegan-got/
 
 Multi-Content GAN for Few-Shot Font Style Transfer at CVPR 2018
 https://github.com/azadis/MC-GAN

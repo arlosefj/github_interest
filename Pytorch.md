@@ -145,6 +145,12 @@ https://github.com/Lyken17/Efficient-PyTorch
 (Pytorch)GPU内存跟踪工具
 https://github.com/Oldpan/Pytorch-Memory-Utils
 
+Pytorch高级训练框架
+https://github.com/achaiah/pywick
+
+Facebook基于PyTorch的Ax与BoTorch：简化深度学习实验
+https://towardsdatascience.com/facebook-is-making-deep-learning-experimentation-easier-with-these-two-new-pytorch-based-frameworks-5e29754bb8de
+
 (PyTorch)手写体合成与预测
 https://github.com/ritheshkumar95/pytorch_handwriting_synthesis
 

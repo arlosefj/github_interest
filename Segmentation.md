@@ -141,8 +141,29 @@ https://github.com/LaoYang1994/PanopticSegmentation
 语义分割、实例分割、全景分割和视频分割的论文和基准列表
 https://github.com/wutianyiRosun/Segmentation.X
 
+Generalized Intersection over Union - PyTorch Faster/Mask R-CNN
+https://github.com/generalized-iou/Detectron.pytorch
+
 FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation
 https://github.com/wuhuikai/FastFCN
+
+Semantic Segmentation for Line Drawing Vectorization Using Neural Networks
+
+https://github.com/byungsook/vectornet
+
+Tensorflow implementation of "Semantic Instance Segmentation with a Discriminative Loss Function"
+https://github.com/hq-jiang/instance-segmentation-with-discriminative-loss-tensorflow
+
+LEDNet: A Lightweight Encoder-Decoder Network for Real-time Semantic Segmentation
+https://github.com/xiaoyufenfei/LEDNet
+A pytorch implementation of BDL. If you use this code in your research please consider citing
+https://github.com/liyunsheng13/BDL
+
+图像分割文献/代码集锦(语义分割、2D医学分割、3D医学分割、实例分割、全景分割)
+https://github.com/xiaoketongxue/CV-News
+
+code used for CVPR2019 oral "Collaborative Global-Local Networks for Memory-Efﬁcient Segmentation of Ultra-High Resolution Images"
+https://github.com/chenwydj/ultra_high_resolution_segmentation
 
 全景分割相关资源大列表
 https://github.com/Angzz/awesome-panoptic-segmentation

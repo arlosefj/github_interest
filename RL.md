@@ -39,3 +39,6 @@ https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch
 
 PyTorch实现的深度强化学习算法：DQN, AC, ACER, A2C, A3C, , PG, DDPG, TRPO, PPO…
 https://github.com/sweetice/Deep-reinforcement-learning-with-pytorch
+
+Learning to Learn how to Learn: Self-Adaptive Visual Navigation using Meta-Learning
+https://github.com/allenai/savn

@@ -27,3 +27,5 @@ https://github.com/jiecaoyu/XNOR-Net-PyTorch
 https://github.com/belskikh/kekas
 https://github.com/belskikh/kekas/blob/master/Tutorial.ipynb
 
+Keras Tuner：(Google)以人文本的超参调试框架
+https://elie.net/talk/cutting-edge-tensorflow-keras-tuner-hypertuning-for-humans/

@@ -19,6 +19,9 @@ https://github.com/knwng/awesome-vehicle-re-identification
 Person Search by Progressive Propagation via Competitive Consensus (PPCC)
 https://github.com/hqqasw/person-search-PPCC
 
+Code and model for "Peeking into the Future: Predicting Future Person Activities and Locations in Videos", Liang et al, CVPR 2019
+https://github.com/google/next-prediction
+
 This is the code repository for our tech report "Revisiting Temporal Modeling for Video-based Person ReID": https://arxiv.org/abs/1805.02104.
 https://github.com/jiyanggao/Video-Person-ReID
 

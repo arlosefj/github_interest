@@ -42,6 +42,9 @@ https://github.com/researchmm/SiamDW
 基于PyTorch的单目标跟踪
 https://github.com/STVIR/pysot
 
+PyTorch implementation of GOTURN object tracker: Learning to Track at 100 FPS with Deep Regression Networks (ECCV 2016)
+https://github.com/amoudgl/pygoturn
+
 多运动目标实时识别、跟踪与重建
 https://github.com/martinruenz/maskfusion
 

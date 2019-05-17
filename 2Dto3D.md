@@ -16,6 +16,9 @@ https://github.com/ialhashim/DenseDepth/
 DORN: Deep Ordinal Regression Network for Monocular Depth Estimation
 https://github.com/hufu6371/DORN
 
+Code for "PackNet-SfM: 3D Packing for Self-Supervised Monocular Depth Estimation"
+https://github.com/ToyotaResearchInstitute/packnet-sfm
+
 从平行2D部分进行3D重建的C++工具
 https://github.com/paulknysh/shaper
 
