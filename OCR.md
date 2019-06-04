@@ -23,8 +23,19 @@ https://github.com/xieyufei1993/InceptText-Tensorflow
 ICDAR2015场景文字检测方案
 https://github.com/Vipermdl/OCR_detection_IC15
 
+### iOS利用OpenCV 实现文字行区域提取的尝试
+https://juejin.im/post/5ce21f99e51d4510686adf85
+
 ### 基于文本行/线段的文档图像去变形
 https://github.com/xellows1305/Document-Image-Dewarping
+
+用TensorFlow实现手写文字识别
+https://github.com/githubharald/SimpleHTR
+
+### Shape Robust Text Detection with Progressive Scale Expansion Network
+https://github.com/WenmuZhou/PSENet.pytorch
+https://github.com/whai362/PSENet
+https://arxiv.org/abs/1903.12473
 
 Pyramid Mask Text Detector
 https://www.arxiv-vanity.com/papers/1903.11800/

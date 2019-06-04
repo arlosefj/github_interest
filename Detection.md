@@ -7,12 +7,27 @@ https://github.com/lzx1413/PytorchSSD
 * Single Shot Tracker
 https://github.com/shijieS/SST
 
+NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection. https://arxiv.org/abs/1904.07392
+https://github.com/DetectionTeamUCAS/NAS_FPN_Tensorflow
+
+AnchorFreeDetection - list the paper for recently anchor free detector'
+https://github.com/VCBE123/AnchorFreeDetection
+
+Light-Weight RetinaNet for Object Detection
+https://github.com/PSCLab-ASU/LW-RetinaNet
+
+### 基于PyTorch的开源人群计数框架
+https://github.com/gjy3035/C-3-Framework
+
 ### PyTorch codes for our paper "PCL: Proposal Cluster Learning for Weakly Supervised Object Detection".
 https://github.com/ppengtang/pcl.pytorch
 
 【目标检测】CornerNet: Detecting Objects as Paired Keypoints
 https://github.com/wenguanwang/DHF1K
 本文是密歇根大学发表于ECCV 2018的工作。当前的目标检测算法大多基于Anchor，引入Anchor容易导致正负样本不均衡和引入更多超参数。本文在不采用Anchor的前提下取得了不错效果，是一篇非常有意思的探索工作。具体来说，论文借鉴了人体关键点检测的思路来做目标检测，通过检测目标框的左上角和右下角两个关键点就能得到预测框。其次，整个检测网络训练是从头开始的，且不基于预训练的分类模型，这使得用户能够自由设计特征提取网络，不用受预训练模型的限制。
+
+This is a tensorflow implementation of R2CNN++: Multi-Dimensional Attention Based Rotation Invariant Detector with Robust Anchor Strategy. https://arxiv.org/abs/1811.07126
+https://github.com/DetectionTeamUCAS/R2CNN-Plus-Plus_Tensorflow
 
 ### Official implementation of paper "Learning Attraction Field Map for Robust Line Segment Detection" (CVPR 2019)
 https://github.com/cherubicXN/afm_cvpr2019

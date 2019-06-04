@@ -34,6 +34,12 @@ https://github.com/ResolveWang/WeiboSpider
 基于搜狗微信搜索的微信公众号爬虫库
 https://github.com/Chyroc/WechatSogou
 
+### 深度学习/强化学习的调试、监控和可视化工具
+https://github.com/microsoft/tensorwatch
+
+### 有助于写作、计划和协作的免费模板
+https://www.ithinkwell.com.au/resources
+
 定时任务管理平台
 https://github.com/apache/incubator-airflow
 
@@ -72,6 +78,18 @@ https://github.com/pwxcoo/chinese-xinhua
 
 对大量pdf文档模糊搜索的命令行工具
 https://github.com/bellecp/fast-p
+
+Wizard是基于Laravel开发框架开发的一款开源项目（API）文档管理工具。 
+https://github.com/mylxsw/wizard
+
+一款个人独立博客系统。该系统部署简单快捷，并提供 Api 接口拓展行强，支持多款云存储，支持多款主题，支持 Web 端、 App 端管理后台，随时随地记录你的想法。
+https://github.com/halo-dev/halo
+
+终端图片浏览器
+https://github.com/atanunq/viu
+
+Git/GitHub基础速查
+https://medium.com/better-programming/basic-git-github-cheat-sheet-fa020831cb35
 
 汉字拼音转换工具(Python 版)
 https://github.com/mozillazg/python-pinyin

@@ -27,3 +27,6 @@ https://github.com/JaywongWang/DenseVideoCaptioning
 
 A PyTorch implementation of Transformer in "Attention is All You Need" https://arxiv.org/abs/1706.03762
 https://github.com/dreamgonfly/Transformer-pytorch
+
+### Video Grounding and Captioning
+https://github.com/facebookresearch/grounded-video-description

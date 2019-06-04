@@ -46,6 +46,9 @@ https://github.com/xkunwu/depth-hand
 ### LightTrack: A Generic Framework for Online Top-Down Human Pose Tracking
 https://github.com/Guanghan/lighttrack
 
+### Using a single RGB frame for real time 3D hand pose estimation in the wild
+https://github.com/FORTH-ModelBasedTracker/MonocularRGB_3D_Handpose_WACV18
+
 A reinplement pytorch version of multiposenet. A pytorch version that define networks for architecture introduced in 'MultiPoseNet: Fast Multi-Person Pose Estimation using Pose Residual Network' paper https://arxiv.org/abs/1807.04067
 https://github.com/IcewineChen/pytorch-MultiPoseNet
 

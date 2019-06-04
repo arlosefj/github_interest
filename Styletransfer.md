@@ -59,3 +59,6 @@ https://github.com/ClovaAI/WCT2
 
 Style Transfer by Relaxed Optimal Transport and Self-Similarity
 https://github.com/nkolkin13/STROTSS
+
+### 用TensorFlow 2.0实现CartoonGAN图片卡通化
+https://github.com/mnicnc404/CartoonGan-tensorflow

@@ -102,6 +102,18 @@ https://github.com/WuJie1010/Facial-Expression-Recognition.Pytorch
 Robust 2D and 3D Face Alignment Implemented in MXNet
 https://github.com/deepinx/deep-face-alignment
 
+Code for "Joint Voxel and Coordinate Regression for Accurate 3D Facial Landmark Localization"
+https://github.com/HongwenZhang/JVCR-3Dlandmark
+
+### FaceBoxes: A CPU Real-time Face Detector with High Accuracy
+https://github.com/sfzhang15/FaceBoxes
+
+### FaceSwapNet: Landmark Guided Many-to-Many Face Reenactment
+https://github.com/zhangzjn/FaceSwapNet
+
+AI换脸Deepfake的善、恶、丑
+https://medium.com/twentybn/deepfake-the-good-the-bad-and-the-ugly-8b261ecf0f52
+
 【实时表情识别】’Real-Time-Facial-Expression-Recognition - A Deep Learning Case Study to detect one of the Seven Human Facial Expressions in Still Images and in Real Time'
 https://github.com/gauravtheP/Real-Time-Facial-Expression-Recognition
 

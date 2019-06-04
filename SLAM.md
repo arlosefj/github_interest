@@ -14,3 +14,12 @@ https://github.com/jiexiong2016/GCNv2_SLAM
 
 用手持RGB-D相机实现实时动态语义SLAM
 https://github.com/floatlazer/semantic_slam
+
+深度学习驱动的视觉导航引擎，支持袖珍四旋翼飞行器自主导航
+https://github.com/pulp-platform/pulp-dronet
+
+RESLAM: A real-time robust edge-based SLAM system
+https://github.com/fabianschenk/RESLAM
+
+通用视觉SLAM框架OpenVSLAM
+https://github.com/xdspacelab/openvslam

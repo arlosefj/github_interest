@@ -25,6 +25,9 @@ https://github.com/huangjianke/Gitter
 用Fritz在手机上训练、部署多种机器学习模型
 https://github.com/fritzlabs/fritz-models
 
+Mobile AI Compute Engine Model Zoo
+https://github.com/XiaoMi/mace-models
+
 深度学习移动端车型识别，支持1776种常见车辆品牌及子品牌
 https://github.com/zeusees/HyperVID
 

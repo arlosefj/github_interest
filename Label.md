@@ -60,3 +60,10 @@ https://github.com/springzfx/point-cloud-annotation-tool
 
 WebAnno：灵活的、基于网络、可视化的分布式文本标注系统
 https://github.com/webanno/webanno
+
+### Data_Label_Tools - 开源数据标注工具大列表
+https://github.com/mingx9527/Data_Label_Tools
+
+图像标记(标注)工具VIA
+新版本支持图像、音频和视频的手工标注。VIA在浏览器中运行，无需安装配置。
+https://gitlab.com/vgg/via/

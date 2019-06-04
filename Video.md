@@ -31,8 +31,17 @@ https://github.com/carykh/jumpcutter
 基于OpenCV/PiCamera/FFmpeg的高级视频处理库
 https://github.com/abhiTronix/vidgear
 
+Videoflow：Python视频流处理框架
+https://github.com/videoflow/videoflow
+
 ### Automatic Temporally Coherent Video Colorization
 https://github.com/Harry-Thasarathan/TCVC
+
+Source code for the SIGGRAPH paper "tempoGAN: A Temporally Coherent, Volumetric GAN for Super-resolution Fluid Flow"
+https://github.com/thunil/tempoGAN
+
+集成Redis Streams, RedisGears, RedisAI, RedisTimeSeries的实时视频分析实例
+https://github.com/RedisGears/EdgeRealtimeVideoAnalytics
 
 PyTorch视频基本变换
 https://github.com/hassony2/torch_videovision

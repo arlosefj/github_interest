@@ -19,3 +19,9 @@ https://github.com/VincentXWD/CreateGirlsMoe
 PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain. 🔥 图像翻译，条件GAN，AI绘画 https://arxiv.org/abs/1903.10146
 https://github.com/youyuge34/PI-REC
 https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ==&mid=2457914983&idx=1&sn=7d2624a39864d915ec7531b6c07c7b22&chksm=8cb6ab8dbbc1229b1550fa6a9ac1903f21f3372b92909f4b63cd2f2ea5f8e8e62b911e6d6823&token=1156490392&lang=zh_CN#rd
+
+### Bridging deep learning and logical reasoning using a differentiable satisfiability solver.
+https://github.com/locuslab/SATNet
+
+伪 3D 引擎，体积小，简单快速的创建伪 3D 模型。
+https://github.com/metafizzy/zdog

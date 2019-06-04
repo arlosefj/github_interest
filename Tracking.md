@@ -54,5 +54,11 @@ https://github.com/visionml/pytracking
 ### SiameseX.PyTorch - A simplified PyTorch implementation of Siamese networks for tracking: SiamFC, SiamVGG, SiamDW, SiamRPN, SiamRPN-VGG
 https://github.com/zllrunning/SiameseX.PyTorch
 
+### 用DeepDetect对视频流进行实时检测的客户端
+https://github.com/jolibrain/livedetect
+
+### Unsupervised Deep Tracking
+https://github.com/594422814/UDT
+
 Tensorflow implementation of "Self-Supervised Tracking via Video Colorization"
 https://github.com/hirokiyokoyama/tracking_via_colorizing

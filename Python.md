@@ -175,6 +175,15 @@ https://github.com/pikepdf/pikepdf
 Python实现的面试题集锦
 https://github.com/leeguandong/Interview-code-practice-python
 
+Python 的第三方调试库。让你通过装饰器方法，方便的知道每一行程序运行后的结果，而不需要再手动增加 print 展示过程数据、调试程序。
+https://github.com/cool-RR/PySnooper
+
+《Python 100 天从新手到大师》—— Python 的入门学习资料，学习曲线低。非专业人士也能上手学习，适合新手入门
+https://github.com/jackfrued/Python-100-Days
+
+### 用公交路线数据，还原城市结构。通过数据可视化手段，还原了 30 多个城市的城市结构。该项目中有数据获取和处理的脚本，而且该项目充分体现了数据可视化带来的便利和效果，易于激发学习编程的热情。
+https://github.com/96486d9b/city-vein
+
 ### 浏览器里的Python游戏开发引擎
 https://github.com/pickitup247/pyckitup
 

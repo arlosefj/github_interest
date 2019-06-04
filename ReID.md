@@ -16,6 +16,9 @@ https://github.com/vana77/Bottom-up-Clustering-Person-Re-identification
 车辆重识别相关资源大列表
 https://github.com/knwng/awesome-vehicle-re-identification
 
+行人重识别相关资源大列表
+https://github.com/bismex/Awesome-person-re-identification
+
 Person Search by Progressive Propagation via Competitive Consensus (PPCC)
 https://github.com/hqqasw/person-search-PPCC
 

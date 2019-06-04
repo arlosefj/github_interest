@@ -45,3 +45,6 @@ keras+tf
 
 ### Deep Flow-Guided Video Inpainting
 https://nbei.github.io/video-inpainting.html
+
+PEPSI++: Fast and Lightweight Network for Image Inpainting
+https://arxiv.org/abs/1905.09010

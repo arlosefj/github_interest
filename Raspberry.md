@@ -24,3 +24,9 @@ https://github.com/zli117/EInk-Calendar
 
 玩转树莓派机器学习：Vanilla Raspberry Pi 3 B+、Intel’s Neural Compute Stick 2、Xnor.ai
 https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fmedium.freecodecamp.org%2Fperf-machine-learning-on-rasp-pi-51101d03dba2
+
+59美元的JeVois：微型四核ARM开源摄像头，可运行Linux、OpenCV、TF等
+http://jevois.org/
+
+### 用 Python 和 OpenCV 识别扑克牌
+https://github.com/EdjeElectronics/OpenCV-Playing-Card-Detector

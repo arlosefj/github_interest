@@ -7,6 +7,12 @@ https://github.com/Smilexuhc/Data-Competition-TopSolution
 Kaggle座头鲸识别比赛入门包(w/ FastAi )
 https://github.com/radekosmulski/whale
 
+非均衡数据集分类(Colab)：Kaggle信用卡欺诈数据集实例
+https://colab.research.google.com/drive/1xL2jSdY-MGlN60gGuSH_L30P7kxxwUfM
+
+特征抽取漫游指南：Kaggle和日常工作的一些技巧和代码
+https://towardsdatascience.com/the-hitchhikers-guide-to-feature-extraction-b4c157e96631
+
 如何开始Kaggle比赛之旅
 https://towardsdatascience.com/how-to-begin-competing-on-kaggle-bd9b5f32dbbc
 

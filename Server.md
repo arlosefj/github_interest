@@ -79,3 +79,12 @@ https://github.com/oeway/ImJoy
 
 Web/移动端的深度学习模型部署
 https://reshamas.github.io/deploying-deep-learning-models-on-web-and-mobile/
+
+基于 dive 分析 docker 镜像，界面化展示了镜像每层的变动（增加、修改、删除等）、用户层数据大小等信息。便捷获取镜像信息和每层镜像内容的文件树，可以方便地浏览镜像信息。对于需要优化镜像体积时非常方便
+https://github.com/vicanso/diving
+
+用Docker构建Python数据科学容器
+https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fhackernoon.com%2Fbuilding-python-data-science-container-using-docker-c8e346295669
+
+CODO：为用户提供企业多混合云、自动化运维、完全开源的云管理平台
+https://github.com/opendevops-cn/opendevops

@@ -10,11 +10,18 @@ https://github.com/lyndonzheng/Synthetic2Realistic
 PyTorch无监督单目深度估计
 https://github.com/ClubAI/MonoDepth-PyTorch
 
+How do neural networks see depth in single images?
+https://arxiv.org/abs/1905.07005
+
 基于深度图的2D图像3D化效果
 https://github.com/ialhashim/DenseDepth/
 
 DORN: Deep Ordinal Regression Network for Monocular Depth Estimation
 https://github.com/hufu6371/DORN
+
+移动像机，移动人物：深度学习深度预测方法
+https://arxiv.org/abs/1904.11111
+https://ai.googleblog.com/2019/05/moving-camera-moving-people-deep.html
 
 Code for "PackNet-SfM: 3D Packing for Self-Supervised Monocular Depth Estimation"
 https://github.com/ToyotaResearchInstitute/packnet-sfm

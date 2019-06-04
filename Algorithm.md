@@ -8,11 +8,26 @@ Leetcode 题解 (跟随思路一步一步撸出代码) 及经典算法实现
 awesome-algorithm：Leetcode 题解及经典算法实现，实现语言包含 Python、Java、C++、JS
 https://github.com/apachecn/awesome-algorithm
 
+游戏中的敏感词过滤算法如何实现的？
+https://mp.weixin.qq.com/s/HVUmlUbhDT4IObIKRCIydw
+
+数据结构和算法必知必会的 50 个代码实现
+https://github.com/wangzheng0822/algo
+
 各种基础算法、数据结构的 C 语言实现
 https://github.com/TheAlgorithms/C
 
+必知必会的数据结构和算法代码答案（多种编程语言）
+https://github.com/wangzheng0822/algo
+
+麻省理工学院的课程6.851《高级数据结构》，是《算法导论》的姊妹篇。 ​​​​
+https://courses.csail.mit.edu/6.851/fall17/
+
 用动画的形式呈现解LeetCode题目的思路
 https://github.com/MisterBooo/LeetCodeAnimation
+
+Github 标星近 4w，热榜第一，如何用 Python 实现所有算法
+https://github.com/TheAlgorithms/Python
 
 数据结构与算法/leetcode/lintcode题解
 https://github.com/billryan/algorithm-exercise

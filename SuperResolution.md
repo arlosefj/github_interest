@@ -27,3 +27,9 @@ https://github.com/cszn/DPSR
 
 (PyTorch)超分辨率模型、算法集锦
 https://github.com/icpm/super-resolution
+
+Official implementation of Meta-SR: A Magnification-Arbitrary Network for Super-Resolution(CVPR2019)(PyTorch)
+https://github.com/XuecaiHu/Meta-SR-Pytorch
+
+Residual Dense Network for Image Super-Resolution
+https://github.com/yulunzhang/RDN

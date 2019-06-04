@@ -10,12 +10,38 @@ https://github.com/lixincn2015/Partial-Order-Pruning
 DeepSwarm神经网络架构搜索框架
 https://github.com/Pattio/DeepSwarm
 
+A Gluon implementation of Mnasnet
+https://github.com/chinakook/Mnasnet.MXNet
+
+Simple Self Attention Layer (SimpleSelfAttention)
+https://github.com/sdoria/SimpleSelfAttention
+
 MobileNetV3, PyTorch, pretrained model, on ImageNet 1K, detailed training processing.
 https://github.com/PengBoXiangShang/MobileNetV3_PyTorch
 https://github.com/xiaolai-sqlai/mobilenetv3
 
+Caffe Implementation of MobileNets V3
+https://github.com/jixing0415/caffe-mobilenet-v3
+
+Mobile Computer Vision @ Facebook - Mobile vision models and code
+https://github.com/facebookresearch/mobile-vision
+
+Implementation on EfficientNet model. Keras. https://arxiv.org/abs/1905.11946
+https://github.com/qubvel/efficientnet
+https://github.com/lukemelas/EfficientNet-PyTorch
+https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet
+
+Github上的图神经网络必读论文和最新进展列表
+https://weibo.com/ttarticle/p/show?id=2309634376853627462065&u=1923399337&m=4376981174538555&cu=1923399337&ru=2210647444&rm=4376853626016899
+
+This repository contains the PyTorch implementation of the paper Multi-Scale Dense Networks for Resource Efficient Image Classification
+https://github.com/kalviny/MSDNet-PyTorch
+
 Graph U-Nets
 https://arxiv.org/abs/1905.05178
+
+This is a pytorch re-implementation of Learning a Discriminative Filter Bank Within a CNN for Fine-Grained Recognition
+https://github.com/songdejia/DFL-CNN
 
 深度神经网络可扩展异步神经结构/超参搜索
 https://github.com/deephyper/deephyper
@@ -34,6 +60,9 @@ https://github.com/lemonhu/RE-CNN-pytorch
 
 implement the CVPR 2019 paper "Selective Kernel Networks" by PyTorch
 https://github.com/pppLang/SKNet
+
+实现时尚图片分类的四种CNN模型
+https://towardsdatascience.com/the-4-convolutional-neural-network-models-that-can-classify-your-fashion-images-9fe7f3e5399d
 
 AutoML与轻量模型大列表
 https://github.com/guan-yuan/awesome-AutoML-and-Lightweight-Models

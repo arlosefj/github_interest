@@ -159,6 +159,30 @@ https://github.com/xiaoyufenfei/LEDNet
 A pytorch implementation of BDL. If you use this code in your research please consider citing
 https://github.com/liyunsheng13/BDL
 
+图像分割/显著性检测数据集列表
+https://github.com/lartpang/awesome-segmentation-saliency-dataset
+
+Colab)宠物图片分割实例
+https://colab.research.google.com/drive/1EJKlMKrdlZ5BctIWlk3TrXJfE7dzpiaH
+
+### PyTorch实现的头发分割
+https://github.com/YBIGTA/pytorch-hair-segmentation
+
+Virtual KITTI 3D Dataset for Semantic Segmentation
+https://github.com/VisualComputingInstitute/vkitti3D-dataset
+
+PyTorch Semantic Segmentation
+https://github.com/hszhao/semseg
+
+Tensorflow implementation of our paper: Few-shot 3D Multi-modal Medical Image Segmentation using Generative Adversarial Learning
+https://github.com/arnab39/FewShot_GAN-Unet3D
+
+(PyTorch)语义分割参考实现
+https://github.com/lingtengqiu/Deeperlab-pytorch
+
+### MaskTrackRCNN for video instance segmentation
+https://github.com/youtubevos/MaskTrackRCNN
+
 图像分割文献/代码集锦(语义分割、2D医学分割、3D医学分割、实例分割、全景分割)
 https://github.com/xiaoketongxue/CV-News
 

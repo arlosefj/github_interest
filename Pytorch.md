@@ -157,6 +157,30 @@ https://github.com/ritheshkumar95/pytorch_handwriting_synthesis
 基于mltest的PyTorch单元测试包
 https://github.com/suriyadeepan/torchtest
 
+PyTorch深度学习教程资料
+https://github.com/sethjuarez/DeepLearningWithPyTorch
+
+(PyTorch)轻量实时语义分割模型集锦
+https://github.com/Tramac/Lightweight-Segmentation
+
+PyTorch语义分割实现集锦
+https://github.com/Tramac/Awesome-semantic-segmentation-pytorch
+
+PytorchInsight - a pytorch lib with state-of-the-art architectures, pretrained models and real-time updated results
+https://github.com/implus/PytorchInsight
+
+PyTorch图像模型代码、脚本、预训练模型集锦
+https://github.com/rwightman/pytorch-image-models
+
+PyTorch模型摘要插件
+https://github.com/Tramac/torchscope
+
+用PySnooper调试PyTorch代码
+https://github.com/zasdfgbnm/TorchSnooper
+
+PyTorch & PyTorch Geometric图神经网络(GNN)实战
+https://towardsdatascience.com/hands-on-graph-neural-networks-with-pytorch-pytorch-geometric-359487e221a8
+
 Implementing Billion-scale semi-supervised learning for image classification using Pytorch
 https://github.com/leaderj1001/Billion-scale-semi-supervised-learning
 

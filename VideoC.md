@@ -48,6 +48,9 @@ https://github.com/mzolfaghari/ECO-pytorch
 视频研究常用方法、数据集和任务汇总
 https://github.com/gsig/PyVideoResearch
 
+Tutorial for video classification/ action recognition using 3D CNN/ CNN+RNN on UCF101
+https://github.com/HHTseng/video-classification
+
 深度学习视频高效加载器
 https://github.com/zhreshold/decord
 
