@@ -1,1 +1,1 @@
-# github_intrest
+# github_interest
