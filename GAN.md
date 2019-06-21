@@ -8,6 +8,24 @@ https://towardsdatascience.com/graduating-in-gans-going-from-understanding-gener
 https://github.com/vinojjayasundara/textcaps
 用capsule network生成逼真训练样本，用200样本在MNIST上达到98.7%精度
 
+This repository provides the code for our work on in-the-wild image synthesis and manipulation.
+https://github.com/aayushbansal/OpenShapes
+
+### 基于GauGAN的涂鸦转照片工具
+https://github.com/noyoshi/smart-sketch
+
+Official PyTorch Implementation of Image Generation from Layout - CVPR 2019 https://layout2im.cs.ubc.ca
+https://github.com/zhaobozb/layout2im
+
+### 用单个分类器实现图像生成、图到图转换、图像修复(补全)、辅助绘画等任务
+https://colab.research.google.com/drive/1rCIitoeXy1Ae8HYnArCDgUBcw1IDyGxD
+
+Official PyTorch implementation of GDWCT (CVPR 2019)
+https://github.com/WonwoongCho/GDWCT
+
+GANs学习路线图
+https://github.com/machinelearningmindset/Generative-Adversarial-Networks-Roadmap
+
 用fastai实现SPADE涂鸦变照片
 https://towardsdatascience.com/implementing-spade-using-fastai-6ad86b94030a
 

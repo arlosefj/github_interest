@@ -65,3 +65,15 @@ https://www.zhihu.com/question/315611053/answer/676815240?utm_source=weibo&utm_m
 
 如何学习数据结构？ - 知乎
 https://www.zhihu.com/question/21318658
+
+有哪些让你相见恨晚的思维方式？ - 知乎
+https://www.zhihu.com/question/323459753
+
+如何找到自己真正想做的事情？ - 知乎
+https://www.zhihu.com/question/19750624
+
+碎片化时代，有哪些高效的学习方法？ - 知乎
+https://www.zhihu.com/question/301990435
+
+有哪些让你极力想推荐，庆幸读到的好书？ - 知乎
+https://www.zhihu.com/question/39474276

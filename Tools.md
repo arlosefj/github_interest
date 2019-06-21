@@ -34,6 +34,9 @@ https://github.com/ResolveWang/WeiboSpider
 基于搜狗微信搜索的微信公众号爬虫库
 https://github.com/Chyroc/WechatSogou
 
+nvidia-smi输出强化工具
+https://github.com/peci1/nvidia-htop
+
 ### 深度学习/强化学习的调试、监控和可视化工具
 https://github.com/microsoft/tensorwatch
 

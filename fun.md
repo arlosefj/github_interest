@@ -25,3 +25,15 @@ https://github.com/locuslab/SATNet
 
 伪 3D 引擎，体积小，简单快速的创建伪 3D 模型。
 https://github.com/metafizzy/zdog
+
+仅需3D模型的高效视觉系统机器手控制
+https://github.com/zuoym15/craves.ai
+
+Astral：组织你在GitHub上的加星项目
+https://github.com/astralapp/astral
+
+机器学习"玩"起来：自制两个小游戏
+https://github.com/vibertthio/runn
+
+### Keras/Flask/OpenCV表情识别实例
+https://towardsdatascience.com/from-raw-images-to-real-time-predictions-with-deep-learning-ddbbda1be0e4

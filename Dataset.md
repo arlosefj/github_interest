@@ -1,5 +1,12 @@
+
+数据集索引
+https://hyper.ai/datasets
+
 面向图像自动描述系统的“图片-描述”数据集
 https://github.com/google-research-datasets/conceptual-captions
+
+### 大规模中英文数据集VATEX
+http://vatex.org/main/index.html
 
 GOT-10k：通用目标追踪数据集
 https://github.com/got-10k/toolkit

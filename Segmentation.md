@@ -159,11 +159,32 @@ https://github.com/xiaoyufenfei/LEDNet
 A pytorch implementation of BDL. If you use this code in your research please consider citing
 https://github.com/liyunsheng13/BDL
 
+Instance Segmentation by Deep Coloring
+https://github.com/kulikovv/DeepColoring
+
+### U-Net implementation in PyTorch for FLAIR abnormality segmentation in brain MRI 
+https://github.com/mateuszbuda/brain-segmentation-pytorch
+
+### Improving Semantic Segmentation via Video Propagation and Label Relaxation 
+https://github.com/NVIDIA/semantic-segmentation
+
+### STEAL - Learning Semantic Boundaries from Noisy Annotations https://nv-tlabs.github.io/STEAL/
+https://github.com/nv-tlabs/STEAL
+
+### PyTorch implementation of the paper "A Generative Appearance Model for End-to-End Video Object Segmentation".
+https://github.com/joakimjohnander/agame-vos
+
 图像分割/显著性检测数据集列表
 https://github.com/lartpang/awesome-segmentation-saliency-dataset
 
 Colab)宠物图片分割实例
 https://colab.research.google.com/drive/1EJKlMKrdlZ5BctIWlk3TrXJfE7dzpiaH
+
+paper:Budget-aware Semi-Supervised Semantic and Instance Segmentation
+https://arxiv.org/abs/1905.05880
+
+Learning to Reconstruct People in Clothing from a Single RGB Camera.
+https://github.com/thmoa/octopus
 
 ### PyTorch实现的头发分割
 https://github.com/YBIGTA/pytorch-hair-segmentation

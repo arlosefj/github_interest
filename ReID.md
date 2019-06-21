@@ -16,8 +16,20 @@ https://github.com/vana77/Bottom-up-Clustering-Person-Re-identification
 车辆重识别相关资源大列表
 https://github.com/knwng/awesome-vehicle-re-identification
 
+VeRi：大规模城市交通监控车辆再识别图像数据集
+https://github.com/VehicleReId/VeRidataset
+
+Keras based Person reid siamese network and learning to rank based transfer learning
+https://github.com/ahangchen/rank-reid
+
+A multi-camera vehicle detection, tracking and re-identification system
+https://github.com/cw1204772/AIC2018_iamai
+
 行人重识别相关资源大列表
 https://github.com/bismex/Awesome-person-re-identification
+
+行人重识别数据集大列表
+https://github.com/NEU-Gou/awesome-reid-dataset
 
 Person Search by Progressive Propagation via Competitive Consensus (PPCC)
 https://github.com/hqqasw/person-search-PPCC

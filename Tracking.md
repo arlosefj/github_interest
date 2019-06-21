@@ -51,6 +51,9 @@ https://github.com/martinruenz/maskfusion
 PyTracking：基于PyTorch的视觉追踪框架
 https://github.com/visionml/pytracking
 
+### TrackR-CNN baseline method for Multi-Object Tracking and Segmentation (MOTS)
+https://github.com/VisualComputingInstitute/TrackR-CNN
+
 ### SiameseX.PyTorch - A simplified PyTorch implementation of Siamese networks for tracking: SiamFC, SiamVGG, SiamDW, SiamRPN, SiamRPN-VGG
 https://github.com/zllrunning/SiameseX.PyTorch
 
@@ -59,6 +62,9 @@ https://github.com/jolibrain/livedetect
 
 ### Unsupervised Deep Tracking
 https://github.com/594422814/UDT
+
+### 【多用户追踪】’centerNet + deep sort with pytorch - multi-people tracking (centerNet based person detector + deep sort algorithm with pytorch)' 
+https://github.com/kimyoon-young/centerNet-deep-sort
 
 Tensorflow implementation of "Self-Supervised Tracking via Video Colorization"
 https://github.com/hirokiyokoyama/tracking_via_colorizing

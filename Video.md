@@ -76,3 +76,12 @@ https://github.com/NVIDIA/NvPipe
 
 开源、入门级视频播放器跨平台视频播放器。该播放器拥有视频播放器基本功能，适合学习播放器开发技术，音频、视频技术
 https://github.com/itisyang/playerdemo
+
+rga：可对文档、压缩文件、视频内嵌字幕、数据库文件等进行内容搜索的强大命令行grep工具
+https://github.com/phiresky/ripgrep-all
+
+OpenCV视频稳定工具包
+https://github.com/AdamSpannbauer/python_video_stab
+
+Bridging Stereo Matching and Optical Flow via Spatiotemporal Correspondence, CVPR 2019
+https://github.com/lelimite4444/BridgeDepthFlow

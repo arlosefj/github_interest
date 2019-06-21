@@ -42,3 +42,6 @@ https://github.com/sweetice/Deep-reinforcement-learning-with-pytorch
 
 Learning to Learn how to Learn: Self-Adaptive Visual Navigation using Meta-Learning
 https://github.com/allenai/savn
+
+一个DeepMind开放的增强学习的开源工具库，Open sourcing TRFL: a library of reinforcement learning building blocks 
+https://github.com/deepmind/trfl/

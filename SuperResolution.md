@@ -33,3 +33,9 @@ https://github.com/XuecaiHu/Meta-SR-Pytorch
 
 Residual Dense Network for Image Super-Resolution
 https://github.com/yulunzhang/RDN
+
+超分辨率相关资源大列表
+https://github.com/ptkin/Awesome-Super-Resolution
+
+PyTorch code for our paper "Lightweight Image Super-Resolution with Adaptive Weighted Learning Network"
+https://github.com/ChaofWang/AWSRN

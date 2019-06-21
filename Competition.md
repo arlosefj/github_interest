@@ -1,6 +1,15 @@
 机器学习/深度学习相关比赛、挑战大列表
 https://github.com/skrish13/ml-contests-conf
 
+### 2nd Place and 2nd Place Solution to Kaggle Landmark Recognition andRetrieval Competition 2019
+https://arxiv.org/abs/1906.03990
+
+Kaggle TGS Salt Identification Challenge. b.e.s. & phalanx 1st Place Solution
+https://github.com/ybabakhin/kaggle_salt_bes_phalanx
+
+How I made top 0.3% on a Kaggle competition
+https://www.kaggle.com/lavanyashukla01/how-i-made-top-0-3-on-a-kaggle-competition
+
 『Data competition Top Solution 数据竞赛Top解决方案开源整理』
 https://github.com/Smilexuhc/Data-Competition-TopSolution
 

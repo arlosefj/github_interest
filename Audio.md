@@ -13,6 +13,9 @@ https://github.com/wq2012/awesome-diarization
 (PyTorch)Seq2Seq普通话Transformer语音识别
 https://github.com/ZhengkunTian/Speech-Tranformer-Pytorch
 
+### 声音模仿秀：5秒钟实时克隆任意语音
+https://github.com/CorentinJ/Real-Time-Voice-Cloning
+
 面向下一代交互设备的开源语音交互操作系统
 https://github.com/yodaos-project/yodaos
 

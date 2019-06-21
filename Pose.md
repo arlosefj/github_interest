@@ -43,6 +43,15 @@ https://github.com/dumyy/handpose
 Single view depth image based hand detection and pose estimation.
 https://github.com/xkunwu/depth-hand
 
+Pytorch Code for CVPR2019 paper "Fast Human Pose Estimation" https://arxiv.org/abs/1811.05419
+https://github.com/yuanyuanli85/Fast_Human_Pose_Estimation_Pytorch
+
+Multi-Stage Pose Network
+https://github.com/megvii-detection/MSPN
+
+Human Gender Classifier for Expressive Body Capture https://smpl-x.is.tue.mpg.de/
+https://github.com/nghorbani/homogenus
+
 ### LightTrack: A Generic Framework for Online Top-Down Human Pose Tracking
 https://github.com/Guanghan/lighttrack
 

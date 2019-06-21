@@ -39,6 +39,9 @@ http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/​
 Image Inpainting via Generative Multi-column Convolutional Neural Network
 https://github.com/shepnerd/inpainting_gmcnn
 
+Tensorflow implementation of Semantic Image Inpainting with Deep Generative Models
+https://github.com/ChengBinJin/semantic-image-inpainting
+
 # video inpainting
 https://github.com/jajatikr/Video-Inpainting
 keras+tf
@@ -46,5 +49,11 @@ keras+tf
 ### Deep Flow-Guided Video Inpainting
 https://nbei.github.io/video-inpainting.html
 
+图像补全相关资源大列表
+https://github.com/1900zyh/Awesome-Image-Inpainting
+
 PEPSI++: Fast and Lightweight Network for Image Inpainting
 https://arxiv.org/abs/1905.09010
+
+QD-IMD: Quick Draw Irregular Mask Dataset
+https://github.com/karfly/qd-imd

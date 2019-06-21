@@ -23,3 +23,6 @@ https://github.com/fabianschenk/RESLAM
 
 通用视觉SLAM框架OpenVSLAM
 https://github.com/xdspacelab/openvslam
+
+Python开源机器人研究平台
+https://github.com/facebookresearch/pyrobot

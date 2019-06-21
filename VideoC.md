@@ -63,6 +63,9 @@ https://github.com/sunnyxiaohu/R-C3D.pytorch
 Python/OpenCV实现的视频场景检测与分析
 https://github.com/Breakthrough/PySceneDetect
 
+MMAction：PyTorch开源视频行为识别工具包
+https://github.com/open-mmlab/mmaction
+
 STCN: Stochastic Temporal Convolutional Networks
 https://github.com/emreaksan/stcn
 

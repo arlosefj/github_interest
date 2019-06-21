@@ -5,6 +5,12 @@ https://github.com/Roujack/mathAI
 https://github.com/hsddlz/faster-CTPN
 we change the LSTM model to conv1D that more than 5 times faster than the original version.
 
+### Shape Robust Text Detection with Progressive Scale Expansion Network
+https://github.com/xiaomaxiao/PSENET
+
+RRD: Rotation-Sensitive Regression for Oriented Scene Text Detection
+https://github.com/MhLiao/RRD
+
 * 场景文字图像增广工具
 https://github.com/Canjie-Luo/Scene-Text-Image-Transformer
 
@@ -22,6 +28,12 @@ https://github.com/xieyufei1993/InceptText-Tensorflow
 
 ICDAR2015场景文字检测方案
 https://github.com/Vipermdl/OCR_detection_IC15
+
+Extremely simple implement for CRNN by Tensorflow https://zhuanlan.zhihu.com/p/43534801
+https://github.com/bai-shang/crnn_ctc_ocr.Tensorflow
+
+Pyramid Mask Text Detector designed by SenseTime Video Intelligence Research team.
+https://github.com/STVIR/PMTD
 
 ### iOS利用OpenCV 实现文字行区域提取的尝试
 https://juejin.im/post/5ce21f99e51d4510686adf85

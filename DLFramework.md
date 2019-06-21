@@ -29,3 +29,9 @@ https://github.com/belskikh/kekas/blob/master/Tutorial.ipynb
 
 Keras Tuner：(Google)以人文本的超参调试框架
 https://elie.net/talk/cutting-edge-tensorflow-keras-tuner-hypertuning-for-humans/
+
+Keras超参调试器
+https://github.com/keras-team/keras-tuner
+
+studio.ml：用来简化、加快模型构建过程的模型管理框架
+https://github.com/studioml/studio

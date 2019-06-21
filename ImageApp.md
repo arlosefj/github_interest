@@ -316,3 +316,21 @@ https://github.com/MITK/MITK
 
 TideFinger——指纹识别小工具，汲取整合了多个web指纹库，结合了多种指纹检测方法，让指纹检测更快捷、准确
 https://github.com/TideSec/TideFinger
+
+EnlightenGAN: Deep Light Enhancement without Paired Supervision
+https://github.com/yueruchen/EnlightenGAN
+
+Code repo for "DAVANet: Stereo Deblurring with View Aggregation" (CVPR'19, Oral)
+https://github.com/sczhou/DAVANet
+
+FFDNet: Toward a Fast and Flexible Solution for CNN based Image Denoising (TIP, 2018) 
+https://github.com/cszn/FFDNet
+
+The code for the CVPR2019 paper Bi-Directional Cascade Network for Perceptual Edge Detection
+https://github.com/pkuCactus/BDCN
+
+用深度学习和局部敏感哈希搜索相似图片
+https://towardsdatascience.com/finding-similar-images-using-deep-learning-and-locality-sensitive-hashing-9528afee02f5
+
+### 图像处理数据集列表
+https://github.com/Ir1d/image-processing-datasets

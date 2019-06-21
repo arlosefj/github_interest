@@ -47,3 +47,6 @@ https://github.com/nlpyang/BertSum
 
 中文聊天机器人小智
 https://github.com/Doragd/Chinese-Chatbot-PyTorch-Implementation
+
+Pre-Training with Whole Word Masking for Chinese BERT https://arxiv.org/abs/1906.08101
+https://github.com/ymcui/Chinese-BERT-wwm

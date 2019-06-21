@@ -46,6 +46,9 @@ https://github.com/chakki-works/doccano
 用Jupyter做数据标注的Widget
 https://github.com/natasha/ipyannotate
 
+Anafora：网页版文本标注工具
+https://github.com/weitechen/anafora
+
 ### this is the official PyTorch implementation of Curve-GCN (CVPR 2019). This repository allows you to train new Curve-GCN models.
 https://github.com/fidler-lab/curve-gcn
 

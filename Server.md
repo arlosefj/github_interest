@@ -88,3 +88,6 @@ https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fhackernoon.com%2F
 
 CODO：为用户提供企业多混合云、自动化运维、完全开源的云管理平台
 https://github.com/opendevops-cn/opendevops
+
+CUDA GPU python作业调度程序
+https://github.com/google/gpu-mux

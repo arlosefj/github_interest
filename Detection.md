@@ -16,6 +16,21 @@ https://github.com/VCBE123/AnchorFreeDetection
 Light-Weight RetinaNet for Object Detection
 https://github.com/PSCLab-ASU/LW-RetinaNet
 
+视频目标检测文献大列表
+https://github.com/ZHANGHeng19931123/awesome-video-object-detection
+
+A Keras implementation of CenterNet with pre-trained model (unofficial)
+https://github.com/see--/keras-centernet
+
+Learning Efficient Single-stage Pedestrian Detectors by Asymptotic Localization Fitting
+https://github.com/liuwei16/ALFNet
+
+An mmdetection based implementation of updated Grid R-CNN published on CVPR 2019. 
+https://github.com/STVIR/Grid-R-CNN
+
+### 卫星图像快速目标检测 小目标
+https://github.com/avanetten/simrdwn
+
 ### 基于PyTorch的开源人群计数框架
 https://github.com/gjy3035/C-3-Framework
 

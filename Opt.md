@@ -2,6 +2,9 @@ quantize
 https://github.com/eladhoffer/quantized.pytorch
 使用pytorch
 
+### [ECCV 2018] PyTorch implementation for AMC: AutoML for Model Compression and Acceleration on Mobile Devices.
+https://github.com/mit-han-lab/amc
+
 prune
 https://github.com/jacobgil/pytorch-pruning
 https://jacobgil.github.io/deeplearning/pruning-deep-learning
@@ -94,6 +97,9 @@ https://github.com/Tencent/PocketFlow
 
 面向手机优化的量化神经网络算子库
 https://github.com/pytorch/QNNPACK
+
+NVIDIA TensorRT：NVIDIA GPU和深度学习加速器的C++高性能推理库
+https://github.com/NVIDIA/TensorRT
 
 PeleeNet: An efficient DenseNet architecture for mobile devices
 https://github.com/Robert-JunWang/PeleeNet

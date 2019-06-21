@@ -10,6 +10,12 @@ https://github.com/lyndonzheng/Synthetic2Realistic
 PyTorch无监督单目深度估计
 https://github.com/ClubAI/MonoDepth-PyTorch
 
+Neural RGB→D Sensing: Per-pixel depth and its uncertainty estimation from a monocular RGB video
+https://github.com/NVlabs/neuralrgbd
+
+Tensorflow implementation of DeepV2D: Video to Depth with Differentiable Structure from Motion.
+https://github.com/princeton-vl/DeepV2D
+
 How do neural networks see depth in single images?
 https://arxiv.org/abs/1905.07005
 

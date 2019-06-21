@@ -99,11 +99,17 @@ https://github.com/PKUZHOU/MTCNN_FaceDetection_TensorRT
 CNN面部表情识别
 https://github.com/WuJie1010/Facial-Expression-Recognition.Pytorch
 
+C++实现的RetinaFace人脸检测
+https://github.com/Charrin/RetinaFace-Cpp
+
 Robust 2D and 3D Face Alignment Implemented in MXNet
 https://github.com/deepinx/deep-face-alignment
 
 Code for "Joint Voxel and Coordinate Regression for Accurate 3D Facial Landmark Localization"
 https://github.com/HongwenZhang/JVCR-3Dlandmark
+
+人脸相关数据集列表
+https://github.com/jian667/face-dataset
 
 ### FaceBoxes: A CPU Real-time Face Detector with High Accuracy
 https://github.com/sfzhang15/FaceBoxes

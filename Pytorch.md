@@ -169,6 +169,15 @@ https://github.com/Tramac/Awesome-semantic-segmentation-pytorch
 PytorchInsight - a pytorch lib with state-of-the-art architectures, pretrained models and real-time updated results
 https://github.com/implus/PytorchInsight
 
+PyTorch内存使用分析器
+https://github.com/Stonesjtu/pytorch_memlab
+
+PyTorch Hub：仅需一行代码(torch.hub.load())复用ResNet, ResNext, BERT, GPT, PGAN, Tacotron, DenseNet, MobileNet等最新模型】
+https://pytorch.org/blog/towards-reproducible-research-with-pytorch-hub/
+
+DaskMaskRCNN - Running Mask-RCNN on Dask with PyTorch
+https://github.com/msalvaris/DaskMaskRCNN
+
 PyTorch图像模型代码、脚本、预训练模型集锦
 https://github.com/rwightman/pytorch-image-models
 

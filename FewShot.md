@@ -15,6 +15,9 @@ https://arxiv.org/abs/1905.01723
 https://nvlabs.github.io/FUNIT/
 https://github.com/nvlabs/FUNIT/
 
+### The code of "Revisiting Local Descriptor based Image-to-Class Measure for Few-shot Learning", CVPR 2019.
+https://github.com/WenbinLee/DN4
+
 * Implementation of Siamese Neural Networks for One-shot Image Recognition
 https://github.com/Goldesel23/Siamese-Networks-for-One-Shot-Learning
 https://sorenbouma.github.io/blog/oneshot/

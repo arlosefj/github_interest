@@ -13,6 +13,9 @@ https://github.com/Pattio/DeepSwarm
 A Gluon implementation of Mnasnet
 https://github.com/chinakook/Mnasnet.MXNet
 
+A Gluon implement of MobileNetV3
+https://github.com/AmigoCDT/MXNet-MobileNetV3
+
 Simple Self Attention Layer (SimpleSelfAttention)
 https://github.com/sdoria/SimpleSelfAttention
 
@@ -25,6 +28,9 @@ https://github.com/jixing0415/caffe-mobilenet-v3
 
 Mobile Computer Vision @ Facebook - Mobile vision models and code
 https://github.com/facebookresearch/mobile-vision
+
+nn_builder - Removes the need for boilerplate code when building neural networks
+https://github.com/p-christ/nn_builder
 
 Implementation on EfficientNet model. Keras. https://arxiv.org/abs/1905.11946
 https://github.com/qubvel/efficientnet
@@ -96,3 +102,18 @@ MobileNetV3
 https://github.com/kuan-wang/pytorch-mobilenet-v3
 https://github.com/Randl/MobileNetV3-pytorch
 https://github.com/leaderj1001/MobileNetV3-Pytorch
+
+Making Convolutional Networks Shift-Invariant Again 
+https://github.com/adobe/antialiased-cnns
+
+Pytorch code for Unsupervised Embedding Learning via Invariant and Spreading Instance Feature in CVPR 2019. 
+https://github.com/mangye16/Unsupervised_Embedding_Learning
+
+EfficientNets snapshot
+https://github.com/mingxingtan/efficientnet
+
+Octave Convolution Implementation in PyTorch
+https://github.com/braincreators/octconv
+
+Pytorch implementation of Graph U-Nets (ICML19) https://arxiv.org/abs/1905.05178
+https://github.com/HongyangGao/gunet
