@@ -30,3 +30,9 @@ http://jevois.org/
 
 ### 用 Python 和 OpenCV 识别扑克牌
 https://github.com/EdjeElectronics/OpenCV-Playing-Card-Detector
+
+新款树莓派4上的TensorFlow Lite实测
+https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fblog.hackster.io%2Fbenchmarking-tensorflow-lite-on-the-new-raspberry-pi-4-model-b-3fd859d05b98
+
+(Tensorflow 2.0)树莓派低成本计算机视觉实战
+https://towardsdatascience.com/portable-computer-vision-tensorflow-2-0-on-a-raspberry-pi-part-1-of-2-84e318798ce9

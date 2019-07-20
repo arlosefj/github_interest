@@ -26,3 +26,6 @@ https://github.com/xdspacelab/openvslam
 
 Python开源机器人研究平台
 https://github.com/facebookresearch/pyrobot
+
+视觉SLAM/视觉里程计相关资源大列表
+https://github.com/tzutalin/awesome-visual-slam

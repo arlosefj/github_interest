@@ -22,6 +22,9 @@ https://arxiv.org/abs/1905.07005
 基于深度图的2D图像3D化效果
 https://github.com/ialhashim/DenseDepth/
 
+CVPR 2019 Translate-to-Recognize Networks for RGB-D Scene Recognition
+https://github.com/ownstyledu/Translate-to-Recognize-Networks
+
 DORN: Deep Ordinal Regression Network for Monocular Depth Estimation
 https://github.com/hufu6371/DORN
 

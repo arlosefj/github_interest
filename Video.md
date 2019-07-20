@@ -85,3 +85,7 @@ https://github.com/AdamSpannbauer/python_video_stab
 
 Bridging Stereo Matching and Optical Flow via Spatiotemporal Correspondence, CVPR 2019
 https://github.com/lelimite4444/BridgeDepthFlow
+
+ffmpeg-cpp - A clean, easy-to-use C++ wrapper around the ffmpeg libraries
+https://github.com/Raveler/ffmpeg-cpp
+

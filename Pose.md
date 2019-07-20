@@ -52,6 +52,15 @@ https://github.com/megvii-detection/MSPN
 Human Gender Classifier for Expressive Body Capture https://smpl-x.is.tue.mpg.de/
 https://github.com/nghorbani/homogenus
 
+人体属性识别相关文献大列表
+https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List
+
+OpenPose实时姿态估计的PyTorch实现
+https://github.com/Hzzone/pytorch-openpose
+
+基于OpenPose的在线实时人体行为检测
+https://github.com/LZQthePlane/Online-Realtime-Action-Recognition-based-on-OpenPose
+
 ### LightTrack: A Generic Framework for Online Top-Down Human Pose Tracking
 https://github.com/Guanghan/lighttrack
 

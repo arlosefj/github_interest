@@ -1,20 +1,14 @@
-应该是当下最全面的「Python异常检测工具库」了。除了收到近500个Star以外，我们还写了一篇JMLR（在审）。最近一直在加紧扩充算法和优化效率（主要是通过joblib和numba），这两周写了SOS、LOCI、LSCP等算法，同时还有两个全新的深度学习异常检测即将上线，敬请期待。
-https://github.com/yzhao062/pyod
-
-A PyTorch implementation of the Deep SVDD anomaly detection method
-https://github.com/lukasruff/Deep-SVDD-PyTorch
-
-This is the official implementation of "Deep Anomaly Detection Using Geometric Transformations"
-https://github.com/izikgo/AnomalyDetectionTransformations
-
-异常检测相关资源大列表
-https://github.com/hoya012/awesome-anomaly-detection
+Deep Set Prediction Networks
+https://github.com/Cyanogenoid/dspn
 
 his repository contains code for training models from the paper Burst Denoising with Kernel Prediction Networks.
 https://github.com/google/burst-denoising
 
 不会用Photoshop抠图？Mask R-CNN助你一键“除”人
 https://github.com/minimaxir/person-blocker
+
+Video Crowd Counting via Dynamic Temporal Modeling
+https://arxiv.org/abs/1907.02198
 
 CVPR 2019 论文开源项目合集
 https://github.com/amusi/CVPR2019-Code
@@ -30,6 +24,9 @@ https://github.com/kobiso/Computer-Vision-Leaderboard
 
 计算机视觉文献笔记集
 https://github.com/ahong007007/Awesome_Computer_Vision
+
+### 细粒度图像分析综述
+https://arxiv.org/abs/1907.03069
 
 ### Richer Convolutional Features for Edge Detection model in pytorch
 https://github.com/meteorshowers/RCF-pytorch
@@ -307,6 +304,9 @@ https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers
 
 黄图鉴别(不可描述图片检测)
 https://github.com/rockyzhengwu/nsfw
+
+图像配准：从SIFT到深度学习
+https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fblog.sicara.com%2Fimage-registration-sift-deep-learning-3c794d794b7a
 
 将文件隐写进图片文件
 https://github.com/DimitarPetrov/stegify

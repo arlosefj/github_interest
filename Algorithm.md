@@ -11,6 +11,12 @@ https://github.com/apachecn/awesome-algorithm
 游戏中的敏感词过滤算法如何实现的？
 https://mp.weixin.qq.com/s/HVUmlUbhDT4IObIKRCIydw
 
+程序员必须掌握哪些算法？
+https://www.zhihu.com/question/23148377/answer/714596562
+
+2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总
+https://github.com/0voice/interview_internal_reference
+
 数据结构和算法必知必会的 50 个代码实现
 https://github.com/wangzheng0822/algo
 

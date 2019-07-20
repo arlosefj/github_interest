@@ -127,3 +127,6 @@ https://github.com/SCUT-AILab/DCP
 
 A PyTorch implementation of "Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights"
 https://github.com/Mxbonn/INQ-pytorch
+
+Neural Rejuvenation: Improving Deep Network Training by Enhancing Computational Resource Utilization at CVPR'19
+https://github.com/joe-siyuan-qiao/NeuralRejuvenation-CVPR19

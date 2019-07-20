@@ -22,6 +22,9 @@ https://github.com/bcicen/ctop
 Go语言写的全文搜索/索引服务器
 https://github.com/mosuka/blast
 
+LeetCode的Go语言解答集
+https://github.com/halfrost/LeetCode-Go
+
 ### Go+TensorFlow打造的个人照片管理平台
 https://github.com/photoprism/photoprism
 

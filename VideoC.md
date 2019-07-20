@@ -66,6 +66,10 @@ https://github.com/Breakthrough/PySceneDetect
 MMAction：PyTorch开源视频行为识别工具包
 https://github.com/open-mmlab/mmaction
 
+视频分析/多模态学习论文、代码、数据集大列表
+https://github.com/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis
+
+
 STCN: Stochastic Temporal Convolutional Networks
 https://github.com/emreaksan/stcn
 
@@ -77,3 +81,6 @@ https://github.com/piergiaj/representation-flow-cvpr19
 
 Repository for the paper "Adversarial Framing for Image and Video Classification"
 https://github.com/zajaczajac/adv_framing
+
+Keras深度学习视频分类
+https://www.pyimagesearch.com/2019/07/15/video-classification-with-keras-and-deep-learning/

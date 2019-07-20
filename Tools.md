@@ -37,6 +37,22 @@ https://github.com/Chyroc/WechatSogou
 nvidia-smi输出强化工具
 https://github.com/peci1/nvidia-htop
 
+网页版SSH客户端
+https://github.com/huashengdun/webssh
+
+kkFileView - 使用spring boot打造文件文档在线预览项目解决方案，支持doc、docx、ppt、pptx、xls、xlsx、zip、rar、mp4，mp3以及众多类文本如txt、html、xml、java、properties、sql、js、md、json、conf、ini、vue、php、py、bat、gitignore等文件在线预览
+https://github.com/kekingcn/kkFileView
+
+### Oppia：可协同创建在线交互教程的开源学习工具
+https://github.com/oppia/oppia
+
+TDengine：面向物联网设计和优化的开源大数据平台
+https://github.com/taosdata/TDengine
+
+能帮你生成漂亮的 REAMDE.md 文件小工具。
+https://github.com/kefranabg/readme-md-generator
+
+
 ### 深度学习/强化学习的调试、监控和可视化工具
 https://github.com/microsoft/tensorwatch
 

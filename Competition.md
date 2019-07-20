@@ -39,6 +39,11 @@ https://github.com/zhanzecheng/SOHU_competition
 一个深度学习新手团队是如何拿到kaggle比赛第三名的(用fast.ai分类油棕种植园图像)
 https://towardsdatascience.com/how-a-team-of-deep-learning-newbies-came-3rd-place-in-a-kaggle-contest-644adcc143c8
 
+2019 Google 地标检索比赛第一名、第三名方案
+https://arxiv.org/abs/1906.04087
+https://github.com/lyakaap/Landmark2019-1st-and-3rd-Place-Solution
+
+
 Kaggle新赛：Google地标检索挑战——大规模图像检索，新数据集包含700K图像，超过100K的独特地标
 https://www.kaggle.com/c/landmark-retrieval-2019
 Google地标检索比赛fast.ai起步包

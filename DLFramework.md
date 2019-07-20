@@ -11,6 +11,15 @@ https://github.com/cgnorthcutt/cleanlab
 ONNX模型转换工具，目前已支持Keras, CoreML, LightGBM, Scikit-Learn
 https://github.com/onnx/onnxmltools
 
+BytePS：支持TensorFlow, Keras, PyTorch, MXNet的通用高性能训练框架
+https://github.com/bytedance/byteps
+
+深度学习监控自动化
+https://medium.com/nanonets/how-to-automate-surveillance-easily-with-deep-learning-4eb4fa0cd68d
+
+机器学习/AI模型的Panini产品化部署(Panini Beta测试阶段免费)
+https://towardsdatascience.com/deploy-ml-dl-models-to-production-via-panini-3e0a6e9ef14
+
 ONNC：开放神经网络ONNX编译器
 https://github.com/ONNC/onnc
 

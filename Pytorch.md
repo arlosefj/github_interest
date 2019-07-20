@@ -172,6 +172,12 @@ https://github.com/implus/PytorchInsight
 PyTorch内存使用分析器
 https://github.com/Stonesjtu/pytorch_memlab
 
+Simple, extendable, easy to understand Glow implementation in PyTorch
+https://github.com/y0ast/Glow-PyTorch
+
+Official Pytorch Implementation for ICML'19 paper: Unsupervised Deep Learning by Neighbourhood Discovery
+https://github.com/Raymond-sci/AND
+
 PyTorch Hub：仅需一行代码(torch.hub.load())复用ResNet, ResNext, BERT, GPT, PGAN, Tacotron, DenseNet, MobileNet等最新模型】
 https://pytorch.org/blog/towards-reproducible-research-with-pytorch-hub/
 

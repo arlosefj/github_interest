@@ -148,8 +148,13 @@ FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentatio
 https://github.com/wuhuikai/FastFCN
 
 Semantic Segmentation for Line Drawing Vectorization Using Neural Networks
-
 https://github.com/byungsook/vectornet
+
+Bonnet: An Open-Source Training and Deployment Framework for Semantic Segmentation in Robotics.
+https://github.com/PRBonn/bonnet
+
+实时语义分割模型集锦
+https://github.com/xiaoyufenfei/Real-Time-Semantic-Segmentation
 
 Tensorflow implementation of "Semantic Instance Segmentation with a Discriminative Loss Function"
 https://github.com/hq-jiang/instance-segmentation-with-discriminative-loss-tensorflow
@@ -161,6 +166,13 @@ https://github.com/liyunsheng13/BDL
 
 Instance Segmentation by Deep Coloring
 https://github.com/kulikovv/DeepColoring
+
+Gated-SCNN: Gated Shape CNNs for Semantic Segmentation
+https://github.com/nv-tlabs/GSCNN
+https://arxiv.org/abs/1907.05740
+
+### SegNet人体解析
+https://github.com/foamliu/Look-Into-Person
 
 ### U-Net implementation in PyTorch for FLAIR abnormality segmentation in brain MRI 
 https://github.com/mateuszbuda/brain-segmentation-pytorch

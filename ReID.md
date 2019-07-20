@@ -31,6 +31,15 @@ https://github.com/bismex/Awesome-person-re-identification
 行人重识别数据集大列表
 https://github.com/NEU-Gou/awesome-reid-dataset
 
+Paper: "Bag of Tricks and A Strong Baseline for Deep Person Re-identification"[
+https://github.com/lulujianjie/person-reid-tiny-baseline
+
+Adaptation and Re-Identification Network: An Unsupervised Deep Transfer Learning Approach to Person Re-Identification
+https://github.com/yujheli/ARN
+
+CVPR2019 Joint Discriminative and Generative Learning for Person Re-identification
+https://github.com/NVlabs/DG-Net
+
 Person Search by Progressive Propagation via Competitive Consensus (PPCC)
 https://github.com/hqqasw/person-search-PPCC
 

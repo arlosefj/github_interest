@@ -6,3 +6,6 @@ https://github.com/All-less/continuum
 
 Continual-Learning-Benchmark
 https://github.com/GT-RIPL/Continual-Learning-Benchmark
+
+Continual Learning for Robotics
+https://arxiv.org/abs/1907.00182

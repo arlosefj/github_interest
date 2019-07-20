@@ -8,6 +8,24 @@ https://github.com/google-research-datasets/conceptual-captions
 ### 大规模中英文数据集VATEX
 http://vatex.org/main/index.html
 
+Open Images 2019实例分割比赛
+https://www.kaggle.com/c/open-images-2019-instance-segmentation/overview
+
+Argoverse数据集：用于测试、实验和训练自驾车辆理解周围世界
+https://github.com/argoai/argoverse-api
+
+大规模野外车辆再识别数据集
+https://github.com/PKU-IMRE/VERI-Wild
+
+代码机器学习数据集列表
+https://github.com/src-d/datasets
+
+Traffic-Net：拥挤、少车、事故和车辆起火图像数据集
+https://github.com/OlafenwaMoses/Traffic-Net
+
+YouTube-8M大规模视频分割数据集升级及ICCV 2019比赛发布
+https://ai.googleblog.com/2019/06/announcing-youtube-8m-segments-dataset.html
+
 GOT-10k：通用目标追踪数据集
 https://github.com/got-10k/toolkit
 

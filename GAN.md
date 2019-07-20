@@ -187,3 +187,21 @@ https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247495668&idx=1&sn=e7e959
 BigGAN-PyTorch - The author's officially unofficial PyTorch BigGAN implementation
 https://github.com/ajbrock/BigGAN-PyTorch
 https://github.com/huggingface/pytorch-pretrained-BigGAN
+
+### Neural Rerendering in the Wild
+https://github.com/google/neural_rerendering_in_the_wild
+
+The implementation of StyleGAN on PyTorch 1.0.1
+https://github.com/tomguluson92/StyleGAN_PyTorch
+
+The authors' official implementation of GANalyze, a framework for studying cognitive properties such as memorability, aesthetics, and emotional valence using genenerative models.
+https://github.com/LoreGoetschalckx/GANalyze
+
+Mask Embedding in conditional GAN for Guided Synthesis of High Resolution Images
+https://github.com/johnryh/Face_Embedding_GAN
+
+GAN漫画人物生成实战
+https://github.com/nikitaa30/Manga-GAN
+
+Semi-supervised Image Attribute Editing using Generative Adversarial Networks
+https://arxiv.org/abs/1907.01841

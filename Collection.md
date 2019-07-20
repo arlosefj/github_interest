@@ -4,3 +4,6 @@ https://gallerix.asia/
 中国哲学书电子化计划 
 https://ctext.org/zhs
 
+
+利用网络上公开的数据构建一个小型的证券知识图谱/知识库
+https://github.com/lemonhu/stock-knowledge-graph

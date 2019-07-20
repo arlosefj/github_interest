@@ -34,8 +34,14 @@ https://github.com/XuecaiHu/Meta-SR-Pytorch
 Residual Dense Network for Image Super-Resolution
 https://github.com/yulunzhang/RDN
 
+多帧超分辨率(MFSR)网络HighRes-net
+https://github.com/ElementAI/HighRes-net
+
 超分辨率相关资源大列表
 https://github.com/ptkin/Awesome-Super-Resolution
 
 PyTorch code for our paper "Lightweight Image Super-Resolution with Adaptive Weighted Learning Network"
 https://github.com/ChaofWang/AWSRN
+
+无需GAN的深度学习超分辨率
+https://towardsdatascience.com/deep-learning-based-super-resolution-without-using-a-gan-11c9bb5b6cd5

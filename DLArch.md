@@ -117,3 +117,13 @@ https://github.com/braincreators/octconv
 
 Pytorch implementation of Graph U-Nets (ICML19) https://arxiv.org/abs/1905.05178
 https://github.com/HongyangGao/gunet
+
+知识蒸馏相关文献列表
+https://github.com/lhyfst/knowledge-distillation-papers
+
+Graph Neural Networks: A Review of Methods and Applications
+https://arxiv.org/abs/1812.08434
+https://github.com/thunlp/GNNPapers
+
+A PyTorch implementation of "Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks" (KDD 2019).
+https://github.com/benedekrozemberczki/ClusterGCN

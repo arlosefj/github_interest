@@ -187,6 +187,58 @@ https://github.com/96486d9b/city-vein
 ### 浏览器里的Python游戏开发引擎
 https://github.com/pickitup247/pyckitup
 
+### 用于创建交互式可视化网络图的Python包
+https://github.com/WestHealth/pyvis
+
+100道经典Python面试题集锦（附答案）
+https://zhuanlan.zhihu.com/p/71913026
+https://zhuanlan.zhihu.com/p/72177799
+
+基于PySnooper的一组强大的Python调试工具
+https://github.com/alexmojaki/snoop
+
+强化你的Jupyter Notebooks
+https://towardsdatascience.com/supercharging-jupyter-notebooks-e22f5ad7ca18
+
+技巧、诀窍和魔法：轻松优化Jupyter Notebook
+https://towardsdatascience.com/how-to-effortlessly-optimize-jupyter-notebooks-e864162a06ee
+
+超全Python速查表登上GitHub热榜
+https://mp.weixin.qq.com/s/jts2Vo1mKpgP6Whd5mQ0Cg
+
+Python 竟能绘制出如此酷炫的三维图
+https://mp.weixin.qq.com/s/rLSsa6DJA4gSdH3LcG_Fug
+
+如果不懂 numpy，请别说自己是 python 程序员
+https://mp.weixin.qq.com/s/R96sxswxF4D5cMukh-pqPA
+
+写给 python 程序员的 OpenGL 教程
+https://mp.weixin.qq.com/s/EYg-LAvOcoRwkejpfKDKjA
+
+Python - 100天从新手到大师
+https://github.com/jackfrued/Python-100-Days
+
+PyQt Python图形界面编程实例集锦
+https://github.com/pyqt/examples
+
+Python技巧与窍门
+https://medium.com/fintechexplained/top-python-tips-tricks-dd996b807865
+
+(Python)Apache Kafka实战入门
+https://towardsdatascience.com/getting-started-with-apache-kafka-in-python-604b3250aa05
+
+Python多线程/多进程释疑：为啥、何时、怎么用？
+https://medium.com/towards-artificial-intelligence/the-why-when-and-how-of-using-python-multi-threading-and-multi-processing-afd1b8a8ecca
+
+49个Python学习资源
+https://code-love.com/2019/06/03/49-essential-resources-to-learn-python/
+
+24 个让 Python 加速的好方法
+https://mp.weixin.qq.com/s/9pIP1054c8pyY7NyGnbFeA
+
+50+条Python 3技巧与提示
+https://medium.com/towards-artificial-intelligence/50-python-3-tips-tricks-e5dbe05212d7
+
 Jupyter机器人开发交互扩展集
 https://github.com/robostack/jupyter-ros
 

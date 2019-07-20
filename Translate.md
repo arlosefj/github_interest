@@ -24,3 +24,6 @@ https://github.com/yuanxiaosc/BERT_Paper_Chinese_Translation
 
 Source code to reproduce the results in the ACL 2019 paper "Syntactically Supervised Transformers for Faster Neural Machine Translation"
 https://github.com/dojoteef/synst
+
+The implementation of "Learning Deep Transformer Models for Machine Translation"
+https://github.com/wangqiangneu/dlcl

@@ -37,6 +37,9 @@ https://github.com/ginn24/Pelee-TensorRT
 移动设备神经网络推理性能端到端测试工具
 https://github.com/XiaoMi/mobile-ai-bench
 
+### Android/iOS实时单人姿态估计
+https://github.com/edvardHua/PoseEstimationForMobile
+
 (iOS、安卓和边缘设备)移动机器学习资源精选列表
 https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning
 

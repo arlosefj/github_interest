@@ -32,6 +32,9 @@ https://arxiv.org/abs/1804.07723
 Deep Fusion Network for Image completion
 https://github.com/hughplay/DFNet
 
+### 从视频里“擦除”框选的目标
+https://github.com/zllrunning/video-object-removal
+
 修复
 https://github.com/akmtn/pytorch-siggraph2017-inpainting
 http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/​

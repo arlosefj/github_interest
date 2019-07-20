@@ -23,6 +23,18 @@ https://github.com/foolwood/SiamMask
 ### A clean PyTorch implementation of SiamFC tracker described in paper Fully-Convolutional Siamese Networks for Object Tracking.
 https://github.com/huanglianghua/siamfc-pytorch
 
+用Python复现的相关滤波跟踪器
+https://github.com/wwdguu/pyCFTrackers
+
+Python/OpenCV实现的视频车辆计数
+https://github.com/nicholaskajoh/Vehicle-Counting
+
+Long-term Tracking in the Wild: A Benchmark 
+https://github.com/oxuva/long-term-tracking-benchmark
+
+Tools for evaluating and visualizing results for the Multi Object Tracking and Segmentation (MOTS) task
+https://github.com/VisualComputingInstitute/mots_tools
+
 SiamFC PyTorch
 https://github.com/StrangerZhang/SiamFC-PyTorch
 

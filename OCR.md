@@ -11,6 +11,16 @@ https://github.com/xiaomaxiao/PSENET
 RRD: Rotation-Sensitive Regression for Oriented Scene Text Detection
 https://github.com/MhLiao/RRD
 
+Brno Mobile OCR数据集
+https://pero.fit.vutbr.cz/brno_mobile_ocr_dataset
+https://github.com/DCGM/B-MOD
+
+用图像预处理提高OCR文字识别精度
+https://medium.com/cashify-engineering/improve-accuracy-of-ocr-using-image-preprocessing-8df29ec3a033
+
+中文字型特征深度学习Glyce开源代码 Glyce: Glyph-vectors for Chinese Character Representations
+https://github.com/ShannonAI/glyce
+
 * 场景文字图像增广工具
 https://github.com/Canjie-Luo/Scene-Text-Image-Transformer
 

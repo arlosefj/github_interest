@@ -75,5 +75,18 @@ https://www.zhihu.com/question/19750624
 碎片化时代，有哪些高效的学习方法？ - 知乎
 https://www.zhihu.com/question/301990435
 
+有哪些越早知道越好的人生经验？ - 知乎
+https://www.zhihu.com/question/266090769
+
+傅立叶变换、拉普拉斯变换、Z 变换的联系是什么？为什么要进行这些变换？ - 知乎
+https://www.zhihu.com/question/22085329
+
+有哪些格局比较大的书籍值得推荐？ - 知乎
+https://www.zhihu.com/question/52815813
+
+论文成功发表的科研人员，应该拥有哪些良好写作习惯？ - 知乎
+https://www.zhihu.com/question/38059861
+
+
 有哪些让你极力想推荐，庆幸读到的好书？ - 知乎
 https://www.zhihu.com/question/39474276

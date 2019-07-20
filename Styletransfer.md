@@ -62,3 +62,9 @@ https://github.com/nkolkin13/STROTSS
 
 ### 用TensorFlow 2.0实现CartoonGAN图片卡通化
 https://github.com/mnicnc404/CartoonGan-tensorflow
+
+Ebsynth：快速示例图片合成与画风迁移
+https://github.com/jamriska/ebsynth
+
+对抗鲁棒分类器神经网络画风迁移
+https://reiinakano.com/2019/06/21/robust-neural-style-transfer.html

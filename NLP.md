@@ -50,3 +50,12 @@ https://github.com/Doragd/Chinese-Chatbot-PyTorch-Implementation
 
 Pre-Training with Whole Word Masking for Chinese BERT https://arxiv.org/abs/1906.08101
 https://github.com/ymcui/Chinese-BERT-wwm
+
+Simple XLNet implementation with Pytorch Wrapper
+https://github.com/graykode/xlnet-Pytorch
+
+OpenCLaP：多领域开源中文预训练语言模型仓库
+https://github.com/thunlp/OpenCLaP
+
+BERT模型从训练到部署'
+https://github.com/xmxoxo/BERT-train2deploy

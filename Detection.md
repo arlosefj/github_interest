@@ -28,11 +28,29 @@ https://github.com/liuwei16/ALFNet
 An mmdetection based implementation of updated Grid R-CNN published on CVPR 2019. 
 https://github.com/STVIR/Grid-R-CNN
 
+Python/YOLOv3自定义对象检测器实战指南
+http://emaraic.com/blog/yolov3-custom-object-detector
+
+### 显著目标检测(SOD)代码大列表
+https://github.com/jiwei0921/SOD-CNNs-based-code-summary-
+
+### Human vs Machine Attention in Neural Networks: A Comparative Study
+https://arxiv.org/abs/1906.08764
+
+### YOLOv3-model-pruning - 对 YOLOv3 做模型剪枝（network slimming），对于 oxford hand 数据集，模型剪枝后的参数量减少 80%，Infer 的速度达到原来 2 倍，mAP 基本不变
+https://github.com/Lam1360/YOLOv3-model-pruning
+
+Grid R-CNN Plus: Faster and Better
+https://github.com/STVIR/Grid-R-CNN
+
 ### 卫星图像快速目标检测 小目标
 https://github.com/avanetten/simrdwn
 
 ### 基于PyTorch的开源人群计数框架
 https://github.com/gjy3035/C-3-Framework
+
+This repository is the pytorch implementation for the crowd counting model, LSC-CNN, proposed in the paper - Locate, Size and Count: Accurately Resolving People in Dense Crowds via Detection.
+https://github.com/val-iisc/lsc-cnn
 
 ### PyTorch codes for our paper "PCL: Proposal Cluster Learning for Weakly Supervised Object Detection".
 https://github.com/ppengtang/pcl.pytorch

@@ -90,8 +90,29 @@ https://github.com/kiselev1189/insightface-just-works
 PyTorch实现的deepfake高分辨率换脸
 https://github.com/jinfagang/faceswap_pytorch
 
+实时表情识别
+https://github.com/omar178/Emotion-recognition
+
+Slim-CNN: A Light-Weight CNN for Face Attribute Prediction
+https://arxiv.org/abs/1907.02157
+
+(PyTorch)看人脸猜年龄
+https://github.com/yu4u/age-estimation-pytorch
+
+FaceQnet: Quality Assessment for Face Recognition based on Deep Learning
+https://github.com/uam-biometrics/FaceQnet
+
+### PyTorch实现的BiSeNet人脸解析改进
+https://github.com/zllrunning/face-parsing.PyTorch
+
+PyTorch实现的Inception Resnet (V1)/VGGFace2&CASIA-Webface人脸识别
+https://github.com/timesler/facenet-pytorch
+
 PyTorch人脸识别算法集
 https://github.com/wujiyang/Face_Pytorch
+
+(Python)OpenCV实时人脸识别】
+https://github.com/Mjrovai/OpenCV-Face-Recognition
 
 MTCNN Face detection algorithm's C++ implementation with NVIDIA TensorRT Inference acceleration SDK
 https://github.com/PKUZHOU/MTCNN_FaceDetection_TensorRT
@@ -110,6 +131,9 @@ https://github.com/HongwenZhang/JVCR-3Dlandmark
 
 人脸相关数据集列表
 https://github.com/jian667/face-dataset
+
+高性能无约束/大规模/少样本人脸识别模型实现集锦
+https://github.com/ZhaoJ9014/High-Performance-Face-Recognition
 
 ### FaceBoxes: A CPU Real-time Face Detector with High Accuracy
 https://github.com/sfzhang15/FaceBoxes

@@ -64,6 +64,12 @@ https://github.com/springzfx/point-cloud-annotation-tool
 WebAnno：灵活的、基于网络、可视化的分布式文本标注系统
 https://github.com/webanno/webanno
 
+### 网页版图片标记与分割工具
+https://github.com/Slava/label-tool
+
+### ImageTagger：在线协同图像标记平台
+https://github.com/bit-bots/imagetagger
+
 ### Data_Label_Tools - 开源数据标注工具大列表
 https://github.com/mingx9527/Data_Label_Tools
 

@@ -16,6 +16,15 @@ https://github.com/ZhengkunTian/Speech-Tranformer-Pytorch
 ### 声音模仿秀：5秒钟实时克隆任意语音
 https://github.com/CorentinJ/Real-Time-Voice-Cloning
 
+用深度学习实时克隆别人的声音
+https://towardsdatascience.com/you-can-now-speak-using-someone-elses-voice-with-deep-learning-8be24368fa2b
+
+用卷积网络从立体声音乐中分离乐器
+https://towardsdatascience.com/audio-ai-isolating-instruments-from-stereo-music-using-convolutional-neural-networks-584ababf69de
+
+用卷积神经网络从立体声音乐中分离人声
+https://towardsdatascience.com/audio-ai-isolating-vocals-from-stereo-music-using-convolutional-neural-networks-210532383785
+
 面向下一代交互设备的开源语音交互操作系统
 https://github.com/yodaos-project/yodaos
 

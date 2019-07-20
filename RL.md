@@ -45,3 +45,9 @@ https://github.com/allenai/savn
 
 一个DeepMind开放的增强学习的开源工具库，Open sourcing TRFL: a library of reinforcement learning building blocks 
 https://github.com/deepmind/trfl/
+
+强化学习入门（资源下载
+https://bigquant.com/community/t/topic/157213?utm_source=weibo&utm_medium=weibo_algorithm&utm_campaign=19705_down
+
+中国象棋Zero（CCZero）：用AlphaZero/AlphaGo Zero类似算法训练的中国象棋机器人
+https://github.com/NeymarL/ChineseChess-AlphaZero

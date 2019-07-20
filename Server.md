@@ -91,3 +91,12 @@ https://github.com/opendevops-cn/opendevops
 
 CUDA GPU python作业调度程序
 https://github.com/google/gpu-mux
+
+Kubernetes 学习路径
+https://github.com/caicloud/kube-ladder
+
+Docker 虽然很帅，就是有时候用起来略嫌麻烦和琐碎。但是有个牛人开发了个小工具【Lazydocker】
+https://github.com/jesseduffield/lazydocker
+
+Easy Scheduler - 分布式工作流任务调度系统'
+https://github.com/analysys/EasyScheduler
