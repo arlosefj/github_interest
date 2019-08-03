@@ -5,6 +5,18 @@ https://github.com/debidatta/syndata-generation
 https://github.com/stratospark/UnityImageSynthesisTutorial1
 https://blog.stratospark.com/generating-synthetic-data-image-segmentation-unity-pytorch-fastai.html
 
+### SynthText3D: Synthesizing Scene Text Images from 3D Virtual Worlds
+https://github.com/MhLiao/SynthText3D 1907.06007
+
+This package provides a set of corruptions that can be applied to images in order to benchmark the robustness of neural networks.
+https://github.com/bethgelab/imagecorruptions
+
+A Pytorch implementation of Fast AutoAugment and EfficientNet
+https://github.com/JunYeopLee/fast-autoaugment-efficientnet-pytorch
+
+Generative Probabilistic Novelty Detection with Adversarial Autoencoders
+https://github.com/podgorskiy/GPND
+
 用实际可扩展的能量模型生成训练数据集
 https://towardsdatascience.com/generating-training-datasets-using-energy-based-models-that-actually-scale-4e1f83bb9e00
 

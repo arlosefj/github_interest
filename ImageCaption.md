@@ -31,5 +31,12 @@ https://github.com/dreamgonfly/Transformer-pytorch
 ### Video Grounding and Captioning
 https://github.com/facebookresearch/grounded-video-description
 
+
+Cooperative Vision-and-Dialog Navigation
+https://github.com/mmurray/cvdn
+
+Auto-Encoding Scene Graphs for Image Captioning, CVPR 2019
+https://github.com/yangxuntu/SGAE
+
 A PyTorch implementation of the Transformer model from "Attention Is All You Need".
 https://github.com/phohenecker/pytorch-transformer

@@ -40,6 +40,18 @@ https://github.com/yujheli/ARN
 CVPR2019 Joint Discriminative and Generative Learning for Person Re-identification
 https://github.com/NVlabs/DG-Net
 
+Deep Cosine Metric Learning for Person Re-identification
+https://github.com/nwojke/cosine_metric_learning
+
+My implementation of Spectral-Feature-Transformation-ReID, link to the paper: https://arxiv.org/abs/1811.11405
+https://github.com/CoinCheung/SFT-ReID
+
+Joint Detection and Identification Feature Learning for Person Search https://arxiv.org/abs/1604.01850
+https://github.com/ShuangLI59/person_search
+
+### 深度学习模型训练时往往需要大量的标注数据，但收集和标注大量的数据往往比较困难。作者在行人重识别这个任务上探索了，利用生成数据来辅助训练的方法。通过生成高质量的行人图像（行人两两换衣），将其与行人重识别模型融合，同时提升行人生成的质量和行人重识别的精度
+https://github.com/NVlabs/DG-Net
+
 Person Search by Progressive Propagation via Competitive Consensus (PPCC)
 https://github.com/hqqasw/person-search-PPCC
 

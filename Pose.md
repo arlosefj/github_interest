@@ -46,6 +46,18 @@ https://github.com/xkunwu/depth-hand
 Pytorch Code for CVPR2019 paper "Fast Human Pose Estimation" https://arxiv.org/abs/1811.05419
 https://github.com/yuanyuanli85/Fast_Human_Pose_Estimation_Pytorch
 
+Code to evaluate model of paper "Cross-modal Deep Variational Hand Pose Estimation" 
+https://github.com/spurra/vae-hands-3d
+
+Fast and accurate single-person pose estimation, ranked 10th at CVPR'19 LIP challenge. Contains implementation of "Global Context for Convolutional Pose Machines" paper.
+https://github.com/Daniil-Osokin/gccpm-look-into-person-cvpr19.pytorch
+
+https://github.com/shirgur/UnsupervisedDepthFromFocus
+https://github.com/YoungXIAO13/PoseFromShape
+
+A flexible, effective and fast cross-view gait recognition network
+https://github.com/AbnerHqC/GaitSet
+
 Multi-Stage Pose Network
 https://github.com/megvii-detection/MSPN
 

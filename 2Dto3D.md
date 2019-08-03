@@ -10,8 +10,29 @@ https://github.com/lyndonzheng/Synthetic2Realistic
 PyTorch无监督单目深度估计
 https://github.com/ClubAI/MonoDepth-PyTorch
 
+正交特征变换单目三维目标检测
+https://github.com/tom-roddick/oft
+
+### Code for the CVPR 2019 paper "Learning Single-Image Depth from Videos using Quality Assessment Networks"
+https://github.com/princeton-vl/YouTube3D
+
+A Pytorch implement of 《Deeper Depth Prediction with Fully Convolutional Residual Networks》
+https://github.com/XPFly1989/FCRN
+
+Single Image Depth Estimation Trained via Depth from Defocus Cues
+https://github.com/shirgur/UnsupervisedDepthFromFocus
+
+SceneGraphNet: Neural Message Passing for 3D Indoor Scene Augmentation
+https://github.com/yzhou359/3DIndoor-SceneGraphNet
+
+MultiDepth: Single-Image Depth Estimation via Multi-Task Regression and Classification
+https://github.com/lukasliebel/MultiDepth https://arxiv.org/abs/1907.11111
+
 Neural RGB→D Sensing: Per-pixel depth and its uncertainty estimation from a monocular RGB video
 https://github.com/NVlabs/neuralrgbd
+
+深度估计相关文献列表
+https://github.com/scott89/awesome-depth
 
 Tensorflow implementation of DeepV2D: Video to Depth with Differentiable Structure from Motion.
 https://github.com/princeton-vl/DeepV2D

@@ -39,3 +39,15 @@ https://github.com/google-research/meta-dataset
 
 TensorFlow implementation for "Meta-Transfer Learning for Few-Shot Learning" (CVPR 2019)
 https://github.com/y2l/meta-transfer-learning-tensorflow
+
+用元学习解决少样本图像分类
+https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fblog.sicara.com%2Fmeta-learning-for-few-shot-computer-vision-1a2655ac0f3a
+
+Few-Shot Adversarial Learning of Realistic Neural Talking Head Models
+https://github.com/vincent-thevenin/Realistic-Neural-Talking-Head-Models
+
+Implementation of "A Simple Neural Attentive Meta-Learner" (SNAIL, https://arxiv.org/pdf/1707.03141.pdf) in PyTorch
+https://github.com/eambutu/snail-pytorch
+
+Translate images to unseen domains in the test time with few example images. https://nvlabs.github.io/FUNIT/
+https://github.com/NVlabs/FUNIT

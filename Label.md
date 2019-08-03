@@ -49,6 +49,9 @@ https://github.com/natasha/ipyannotate
 Anafora：网页版文本标注工具
 https://github.com/weitechen/anafora
 
+HyperLabelImg - 开源可视化图像标注工具(支持人脸关键点/不规则四边形/多边形标注)'
+https://github.com/zeusees/HyperLabelImg
+
 ### this is the official PyTorch implementation of Curve-GCN (CVPR 2019). This repository allows you to train new Curve-GCN models.
 https://github.com/fidler-lab/curve-gcn
 

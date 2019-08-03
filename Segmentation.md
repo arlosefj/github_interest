@@ -167,6 +167,57 @@ https://github.com/liyunsheng13/BDL
 Instance Segmentation by Deep Coloring
 https://github.com/kulikovv/DeepColoring
 
+A PyTorch Implementation of Fast-SCNN: Fast Semantic Segmentation Network
+https://github.com/Tramac/Fast-SCNN-pytorch
+
+reimpliment of DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation
+https://github.com/huaifeng1993/DFANet
+
+The code for Expectation-Maximization Attention Networks for Semantic Segmentation (ICCV'2019 Oral)
+https://github.com/XiaLiPKU/EMANet
+
+### Few-shot Segmentation Propagation with Guided Networks
+https://github.com/shelhamer/revolver
+
+Depth-wise Asymmetric Bottleneck for Real-time Semantic Segmentation (BMVC2019)
+https://github.com/Reagan1311/DABNet
+
+Implementation of Pyramid Attention Networks for Semantic Segmentation.
+https://github.com/JaveyWang/Pyramid-Attention-Networks-pytorch
+
+Pytorch implementation of GCN architecture for semantic segmentation
+https://github.com/SConsul/Global_Convolutional_Network
+
+Learning Superpixels with Segmentation-Aware Affinity Loss
+https://github.com/wctu/SEAL
+
+High-resolution representation learning (HRNets) for Semantic Segmentation
+https://github.com/HRNet/HRNet-Semantic-Segmentation
+
+PyTorch implementation of PSPNet
+https://github.com/kazuto1011/pspnet-pytorch
+
+### Proposal, Tracking and Segmentation (PTS): A Cascaded Network for Video Object Segmentation
+https://github.com/sydney0zq/PTSNet
+
+### Fast, high accuracy video segmentation framework (CVPR 2019 oral) http://www.samvitjain.com/accel/
+https://github.com/SamvitJ/Accel
+
+### Mapillary Research: Seamless Scene Segmentation and In-Place Activated BatchNorm | PyTorch
+https://github.com/mapillary/seamseg/
+
+Pytorch Implementation -- All about Structure: Adapting Structural Information across Domains for Boosting Semantic Segmentation, CVPR 2019
+https://github.com/a514514772/DISE-Domain-Invariant-Structure-Extraction
+
+(TensorFlow 2.0)U-Net图像分割教程
+https://www.tensorflow.org/beta/tutorials/images/segmentation
+
+Grape detection, segmentation and tracking using deep neural networks and three-dimensional association
+https://github.com/thsant/wgisd
+
+2019语义分割指南
+https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fheartbeat.fritz.ai%2Fa-2019-guide-to-semantic-segmentation-ca8242f5a7fc
+
 Gated-SCNN: Gated Shape CNNs for Semantic Segmentation
 https://github.com/nv-tlabs/GSCNN
 https://arxiv.org/abs/1907.05740

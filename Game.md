@@ -47,3 +47,6 @@ https://github.com/script-8/script-8.github.io
 
 GitHub 上开源的这个坦克大战小游戏
 https://github.com/shinima/battle-city
+
+神经网络学习玩蛇，Neural Network Learns to Play Snake。训练神经网络使用遗传算法玩Snake
+https://github.com/greerviau/SnakeAI

@@ -130,3 +130,27 @@ https://github.com/Mxbonn/INQ-pytorch
 
 Neural Rejuvenation: Improving Deep Network Training by Enhancing Computational Resource Utilization at CVPR'19
 https://github.com/joe-siyuan-qiao/NeuralRejuvenation-CVPR19
+
+### 面向目标检测/语义分割的机器学习自动化(AutoML)
+https://github.com/NoamRosenberg/AutoML
+
+机器学习模型压缩相关文献、工具、学习资料列表
+https://github.com/cedrickchee/awesome-ml-model-compression
+
+深度神经网络修剪
+https://towardsdatascience.com/pruning-deep-neural-network-56cae1ec5505
+
+面向图像分类和检测的神经网络压缩
+https://arxiv.org/abs/1907.05686 https://ai.facebook.com/blog/compressing-neural-networks-for-image-classification-and-detection/
+
+Partial Channel Connections for Memory-Efficient Differentiable Architecture Search
+https://github.com/yuhuixu1993/PC-DARTS
+
+Code for: "And the bit goes down: Revisiting the quantization of neural networks"
+https://github.com/facebookresearch/kill-the-bits
+
+Implementation with latest PyTorch for multi-gpu DARTS https://arxiv.org/abs/1806.09055
+https://github.com/alphadl/darts.pytorch1.1 https://github.com/quark0/darts
+
+神经网络架构搜索相关资源大列表
+https://github.com/D-X-Y/awesome-NAS

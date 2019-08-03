@@ -106,6 +106,36 @@ https://github.com/leaderj1001/MobileNetV3-Pytorch
 Making Convolutional Networks Shift-Invariant Again 
 https://github.com/adobe/antialiased-cnns
 
+Attention in Graph Neural Networks using PyTorch https://arxiv.org/abs/1905.02850
+https://github.com/bknyaz/graph_attention_pool
+
+A PyTorch implementation of MixNet architecture: MixNet: Mixed Depthwise Convolutional Kernels. 
+https://github.com/romulus0914/MixNet-Pytorch
+
+Source code of the paper Revisiting Spatial-Temporal Similarity: A Deep Learning Framework for Traffic Prediction
+https://github.com/tangxianfeng/STDN
+
+Implementation for: Graph-Based Global Reasoning Networks (CVPR19)
+https://github.com/facebookresearch/GloRe
+
+TensorFlow Implementation of TCN (Temporal Convolutional Networks)
+https://github.com/Songweiping/TCN-TF
+
+PyTorch implementation of binary neural networks
+https://github.com/wonnado/binary-nets
+
+Implementation for the paper "DeepGBM: A Deep Learning Framework Distilled by GBDT for Online Prediction Tasks", which has been accepted by KDD'2019.
+https://github.com/motefly/DeepGBM
+
+图深度学习技术路线图(文献列表)
+https://github.com/guillaumejaume/graph-neural-networks-roadmap
+
+GNN相关工作有如井喷，为了使论文列表更加条理，同学们按主题进行了分类
+https://github.com/thunlp/GNNPapers
+
+"On the Minimal Supervision for Training Any Binary Classifier from Only Unlabeled Data".
+https://github.com/lunanbit/UUlearning
+
 Pytorch code for Unsupervised Embedding Learning via Invariant and Spreading Instance Feature in CVPR 2019. 
 https://github.com/mangye16/Unsupervised_Embedding_Learning
 

@@ -30,3 +30,6 @@ https://mp.weixin.qq.com/s/SWuaM7PqOD4MK_rpnGaB5w
 
 在文本分类任务中，有哪些论文中很少提及却对性能有重要影响的tricks？
 https://www.zhihu.com/question/265357659
+
+技术面试参考资料大列表
+https://github.com/Awesome-Interview/Awesome-Interview

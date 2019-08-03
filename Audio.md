@@ -13,8 +13,20 @@ https://github.com/wq2012/awesome-diarization
 (PyTorch)Seq2Seq普通话Transformer语音识别
 https://github.com/ZhengkunTian/Speech-Tranformer-Pytorch
 
+Deep neural network based speech enhancement toolkit
+https://github.com/jtkim-kaist/Speech-enhancement
+
 ### 声音模仿秀：5秒钟实时克隆任意语音
 https://github.com/CorentinJ/Real-Time-Voice-Cloning
+
+Program to benchmark various speech recognition APIs
+https://github.com/Franck-Dernoncourt/ASR_benchmark
+
+基于Transformer的TTS语音合成模型
+https://github.com/xcmyz/Transformer-TTS
+
+DIY智能音箱(资源列表)
+https://github.com/voice-engine/make-a-smart-speaker/blob/master/zh.md
 
 用深度学习实时克隆别人的声音
 https://towardsdatascience.com/you-can-now-speak-using-someone-elses-voice-with-deep-learning-8be24368fa2b

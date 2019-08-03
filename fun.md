@@ -20,6 +20,9 @@ PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain. �
 https://github.com/youyuge34/PI-REC
 https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ==&mid=2457914983&idx=1&sn=7d2624a39864d915ec7531b6c07c7b22&chksm=8cb6ab8dbbc1229b1550fa6a9ac1903f21f3372b92909f4b63cd2f2ea5f8e8e62b911e6d6823&token=1156490392&lang=zh_CN#rd
 
+跟神经网络玩“石头、剪子、布”
+https://github.com/victorqribeiro/jokenpo
+
 ### Bridging deep learning and logical reasoning using a differentiable satisfiability solver.
 https://github.com/locuslab/SATNet
 
@@ -43,3 +46,12 @@ https://github.com/vibertthio/runn
 
 ### Keras/Flask/OpenCV表情识别实例
 https://towardsdatascience.com/from-raw-images-to-real-time-predictions-with-deep-learning-ddbbda1be0e4
+
+图像AI应用之Google Shopping Ads
+https://medium.com/@picaas/image-ai-leverage-image-insights-via-ml-picaas-for-google-shopping-ads-picaas-3a1bfeab234
+
+在线制作漫画人物并可将制作的人物图片放在你的网站中
+https://github.com/gramener/comicgen https://gramener.com/comicgen/
+
+Repository for the CVPR19 oral paper "Domain Generalization by Solving Jigsaw Puzzles"
+https://github.com/fmcarlucci/JigenDG

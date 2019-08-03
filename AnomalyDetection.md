@@ -15,3 +15,8 @@ https://github.com/izikgo/AnomalyDetectionTransformations
 
 A Survey on GANs for Anomaly Detection
 https://arxiv.org/abs/1906.11632
+
+布匹缺陷检测
+https://github.com/GT-ZhangAcer/Fabric_Defect
+https://github.com/deiry/FabricDefect
+https://github.com/ZCmeteor/Fabric-defect-recognition

@@ -7,3 +7,6 @@ https://ctext.org/zhs
 
 利用网络上公开的数据构建一个小型的证券知识图谱/知识库
 https://github.com/lemonhu/stock-knowledge-graph
+
+2020年的算法实习岗位信息表，部分包括内推码，和常见深度学习算法岗面试题及答案，暑期计算机视觉实习面经和总结
+https://github.com/HarleysZhang/2019_algorithm_intern_information

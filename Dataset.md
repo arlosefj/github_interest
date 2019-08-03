@@ -8,6 +8,18 @@ https://github.com/google-research-datasets/conceptual-captions
 ### 大规模中英文数据集VATEX
 http://vatex.org/main/index.html
 
+### 面向少样本分割的1000类图片数据集
+https://github.com/HKUSTCV/FSS-1000
+
+### ImageNet草图版数据集，1000类50000图片
+https://github.com/HaohanWang/ImageNet-Sketch
+
+最好用的 AI 开源数据集(涵盖计算机视觉、NLP、语音等 6 大类）
+https://mp.weixin.qq.com/s/epeFvNjYk8f-49xMaO1bdg
+
+Open Images v4图像数据集单类/多类下载与可视化工具集
+https://github.com/EscVM/OIDv4_ToolKit
+
 Open Images 2019实例分割比赛
 https://www.kaggle.com/c/open-images-2019-instance-segmentation/overview
 

@@ -19,11 +19,23 @@ https://github.com/KakaoBrain/fast-autoaugment
 通过bows (基本feature为sift)来做图像特征表示
 https://github.com/lipiji/PG_BOW_DEMO
 
+Reimplemented code for "Toward Characteristic-Preserving Image-based Virtual Try-On Network"
+https://github.com/sergeywong/cp-vton
+
 计算机视觉挑战排行榜(Leaderboard)集锦
 https://github.com/kobiso/Computer-Vision-Leaderboard
 
 计算机视觉文献笔记集
 https://github.com/ahong007007/Awesome_Computer_Vision
+
+压缩自编码器有损图像压缩
+https://github.com/alexandru-dinu/cae
+
+Fastai/Pytorch Hooks/Spotify’s Annoy相似图片搜索
+https://medium.com/@abhikjha/fastai-image-similarity-search-pytorch-hooks-spotifys-annoy-9161bf517aaf
+
+斯坦福课程“计算机视觉基础与应用”课堂笔记
+https://github.com/StanfordVL/CS131_notes
 
 ### 细粒度图像分析综述
 https://arxiv.org/abs/1907.03069

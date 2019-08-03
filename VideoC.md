@@ -84,3 +84,18 @@ https://github.com/zajaczajac/adv_framing
 
 Keras深度学习视频分类
 https://www.pyimagesearch.com/2019/07/15/video-classification-with-keras-and-deep-learning/
+
+简易快速的视频深度特征抽取
+https://github.com/antoine77340/video_feature_extractor
+
+Code for the paper "High Speed and High Dynamic Range Video with an Event Camera" (arXiv, 2019). http://rpg.ifi.uzh.ch/E2VID.html
+https://github.com/uzh-rpg/rpg_e2vid
+
+MS-TCN: Multi-Stage Temporal Convolutional Network for Action Segmentation
+https://github.com/yabufarha/ms-tcn
+
+Deep Spatio-Temporal Neural Network (DSTN)
+https://github.com/oywtece/dstn
+
+### Real-time Hand Gesture Recognition with PyTorch on EgoGesture, NvGesture and Jester https://arxiv.org/abs/1901.10323
+https://github.com/ahmetgunduz/Real-time-GesRec

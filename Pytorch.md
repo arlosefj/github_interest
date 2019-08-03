@@ -121,9 +121,6 @@ https://github.com/juefeix/pnn.pytorch
 A PyTorch implementation of Mnasnet searched architecture: MnasNet: Platform-Aware Neural Architecture Search for Mobile.
 https://github.com/AnjieZheng/MnasNet-PyTorch
 
-PyTorch神经网络模型分析器(参数规模/FLOPs/MAdd/内存消耗)
-https://github.com/Swall0w/torchstat
-
 Pytorch Implementation of Refinenet
 https://github.com/thomasjpfan/pytorch_refinenet
 
@@ -160,6 +157,12 @@ https://github.com/suriyadeepan/torchtest
 PyTorch深度学习教程资料
 https://github.com/sethjuarez/DeepLearningWithPyTorch
 
+60分钟PyTorch深度学习实例入门教程
+https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
+
+《动手学深度学习》例子的PyTorch实现
+https://github.com/dsgiitr/d2l-pytorch
+
 (PyTorch)轻量实时语义分割模型集锦
 https://github.com/Tramac/Lightweight-Segmentation
 
@@ -169,11 +172,23 @@ https://github.com/Tramac/Awesome-semantic-segmentation-pytorch
 PytorchInsight - a pytorch lib with state-of-the-art architectures, pretrained models and real-time updated results
 https://github.com/implus/PytorchInsight
 
+一个包含计算机视觉、自然语言处理领域的诸多经典模型的聚合中心。这年头有很多 Hub，什么 GitHub、SciHub、xxxxHub 等等，但是最近图灵奖得主 Yann LeCun 强推的 PyTorch-Hub。无论是 ResNet、BERT、GPT、VGG、PGAN 还是 MobileNet 等经典模型，只需输入一行代码，都能实现一键调用！妈妈再也不用担心你的模型啦！
+https://github.com/pytorch/hub
+
+Life is short, you need PyTorch. 
+https://github.com/Eurus-Holmes/LIS-YNP
+
+PyTorch快速教程
+https://github.com/omerbsezer/Fast-Pytorch
+
 PyTorch内存使用分析器
 https://github.com/Stonesjtu/pytorch_memlab
 
 Simple, extendable, easy to understand Glow implementation in PyTorch
 https://github.com/y0ast/Glow-PyTorch
+
+Flambé：面向研究和产品化加速的机器学习实验框架(基于PyTorch)
+https://github.com/Open-ASAPP/flambe
 
 Official Pytorch Implementation for ICML'19 paper: Unsupervised Deep Learning by Neighbourhood Discovery
 https://github.com/Raymond-sci/AND

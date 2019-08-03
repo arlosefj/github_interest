@@ -29,6 +29,8 @@ Kaggle比赛常胜将军Owen Zhang的技巧分享《Tips for data science compet
 https://www.slideshare.net/OwenZhang2/tips-for-data-science-competitions
 https://www.youtube.com/watch?v=LgLcfZjNF44
 
+### Kaggle新赛：钢铁缺陷检测
+https://www.kaggle.com/c/severstal-steel-defect-detection
 
 Kaggle大都会艺术博物馆艺术品属性识别比赛PyTorch Baseline
 https://github.com/lopuhin/kaggle-imet-2019
@@ -43,6 +45,8 @@ https://towardsdatascience.com/how-a-team-of-deep-learning-newbies-came-3rd-plac
 https://arxiv.org/abs/1906.04087
 https://github.com/lyakaap/Landmark2019-1st-and-3rd-Place-Solution
 
+KDD Cup 2019 AutoML Track第一名方案
+https://github.com/DeepBlueAI/AutoSmart
 
 Kaggle新赛：Google地标检索挑战——大规模图像检索，新数据集包含700K图像，超过100K的独特地标
 https://www.kaggle.com/c/landmark-retrieval-2019

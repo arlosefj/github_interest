@@ -190,6 +190,30 @@ https://github.com/pickitup247/pyckitup
 ### 用于创建交互式可视化网络图的Python包
 https://github.com/WestHealth/pyvis
 
+用Python实现蒙特卡罗树搜索(MCTS)算法
+https://github.com/int8/monte-carlo-tree-search
+
+Pylustrator：交互式编辑Python生成matplotlib图表风格，以适合出版发布
+https://github.com/Randrian45/pylustrator
+
+用Cython 30倍加速 Python代码
+https://towardsdatascience.com/use-cython-to-get-more-than-30x-speedup-on-your-python-code-f6cb337919b6
+
+《像计算机科学家一样思考Python （英文原版）》
+https://bigquant.com/community/t/topic/159579
+
+8点超级有用的Python编程建议
+https://mp.weixin.qq.com/s/NkDPtYOzQo1B4ZAxu_Bg3Q
+
+'What the f*ck Python! 中文翻译 - 一些有趣且鲜为人知的 Python 特性.
+https://github.com/leisurelicht/wtfpython-cn
+
+Python一行代码搞定炫酷可视化，你需要了解一下Cufflinks
+https://mp.weixin.qq.com/s/pDDnd26GQFDRkIH1hh-Vcw
+
+15条常用Python小技巧
+https://medium.com/@george.seif94/15-python-tips-and-tricks-so-you-dont-have-to-look-them-up-on-stack-overflow-90cec02705ae
+
 100道经典Python面试题集锦（附答案）
 https://zhuanlan.zhihu.com/p/71913026
 https://zhuanlan.zhihu.com/p/72177799

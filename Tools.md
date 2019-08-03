@@ -46,6 +46,9 @@ https://github.com/kekingcn/kkFileView
 ### Oppia：可协同创建在线交互教程的开源学习工具
 https://github.com/oppia/oppia
 
+Sampler：shell命令的执行、可视化和提醒工具
+https://github.com/sqshq/sampler
+
 TDengine：面向物联网设计和优化的开源大数据平台
 https://github.com/taosdata/TDengine
 

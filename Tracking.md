@@ -23,6 +23,21 @@ https://github.com/foolwood/SiamMask
 ### A clean PyTorch implementation of SiamFC tracker described in paper Fully-Convolutional Siamese Networks for Object Tracking.
 https://github.com/huanglianghua/siamfc-pytorch
 
+### Keras实现的BiGAN相似地标图片检测
+https://github.com/manicman1999/Keras-BiGAN
+
+Attention-based Dropout Layer for Weakly Supervised Object Localization, CVPR 2019 (Oral)
+https://github.com/junsukchoe/ADL
+
+Learning multi-domain convolutional neural networks for visual tracking
+https://github.com/shipubupt/NIPS2018
+
+YOLOv3多目标跟踪
+https://github.com/afunTW/pytorch-mot-tracking
+
+A pytorch implementation of Detect and Track (https://arxiv.org/abs/1710.03958)
+https://github.com/Feynman27/pytorch-detect-to-track
+
 用Python复现的相关滤波跟踪器
 https://github.com/wwdguu/pyCFTrackers
 

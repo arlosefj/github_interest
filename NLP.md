@@ -59,3 +59,12 @@ https://github.com/thunlp/OpenCLaP
 
 BERT模型从训练到部署'
 https://github.com/xmxoxo/BERT-train2deploy
+
+加速版结巴分词
+https://github.com/deepcs233/jieba_fast
+
+宗成庆教授《自然语言处理方法与应用》课程PPT
+https://bigquant.com/community/t/topic/160261
+
+MONPA（罔拍）是一個提供正體中文分詞及 POS, NE 標註的模型
+https://github.com/monpa-team/monpa

@@ -4,9 +4,33 @@ https://github.com/VAR-solutions/Algorithms
 算法可视化工具。你可以自由选择自己想学习的算法，每个算法它都清晰描绘了其原理和运作过程
 https://github.com/algorithm-visualizer/algorithm-visualizer
 
+### 《挑战程序设计竞赛》习题册攻略
+https://github.com/yogykwan/acm-challenge-workbook
+
+用Jupyter Notebooks编写、分享算法分析的十条简单规则
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007007
+
+百道算法面试题集锦！Python 实现，含华为、BAT 等校招真题
+https://redstonewill.com/2134/
+
+图解：什么是 BF 算法 ？
+https://mp.weixin.qq.com/s/DnjLeZbdhSbSLj6phPXwhQ
+
+很全面的算法和数据结构知识
+https://github.com/kdn251/interviews https://mp.weixin.qq.com/s/pkjgL4St2gwPZcinkHfx8Q
+
 Leetcode 题解 (跟随思路一步一步撸出代码) 及经典算法实现
 awesome-algorithm：Leetcode 题解及经典算法实现，实现语言包含 Python、Java、C++、JS
 https://github.com/apachecn/awesome-algorithm
+
+这可能是史上最全的 Python 算法集（建议收藏）
+https://mp.weixin.qq.com/s/S6C1egxDWxCSjjGulruFYA
+
+图的基本概念以及Python实例分析
+https://mp.weixin.qq.com/s/zOdy-1vCJD_dPFSoe0ELFA
+
+GIF 动图让你弄懂递归等概念
+https://mp.weixin.qq.com/s/iG7FxmM6Sqxt2HW-yKyKxw
 
 游戏中的敏感词过滤算法如何实现的？
 https://mp.weixin.qq.com/s/HVUmlUbhDT4IObIKRCIydw

@@ -24,6 +24,18 @@ https://github.com/ShannonAI/glyce
 * 场景文字图像增广工具
 https://github.com/Canjie-Luo/Scene-Text-Image-Transformer
 
+### Omnidirectional Scene Text Detection with Sequential-free Box Discretization (IJCAI 2019)
+https://github.com/Yuliang-Liu/Box_Discretization_Network
+
+### Repository for Scene Text Detection with Supervised Pyramid Context Network with tensorflow.
+https://github.com/AirBernard/Scene-Text-Detection-with-SPCNET
+
+### ASTER: Attentional Scene Text Recognizer with Flexible Rectification
+https://github.com/ayumiymk/aster.pytorch
+
+文字识别OCR相关文献大列表
+https://github.com/ChanChiChoi/awesome-ocr
+
 ocr_densenet - 第一届西安交通大学人工智能实践大赛（2018AI实践大赛--图片文字识别）第一名；仅采用densenet识别图中文字
 https://github.com/yinchangchang/ocr_densenet
 

@@ -23,6 +23,12 @@ https://towardsdatascience.com/deploy-ml-dl-models-to-production-via-panini-3e0a
 ONNC：开放神经网络ONNX编译器
 https://github.com/ONNC/onnc
 
+Weight Watcher：深度网络泛化精度预测工具
+https://github.com/CalculatedContent/WeightWatcher
+
+神经网络模型可视化浏览器(支持ONNX/Keras/Core ML/TensorFlow Lite等，实验性支持PyTorch/Torch/CNTK/TensorFlow.js/TensorFlow等)
+https://github.com/lutzroeder/Netron
+
 Xfer：MXNet迁移学习库
 https://github.com/amzn/xfer/
 

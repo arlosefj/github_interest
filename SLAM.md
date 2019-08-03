@@ -29,3 +29,9 @@ https://github.com/facebookresearch/pyrobot
 
 视觉SLAM/视觉里程计相关资源大列表
 https://github.com/tzutalin/awesome-visual-slam
+
+C++实现的激光雷达扫描/点云多目标检测、跟踪和分类
+https://github.com/praveen-palanisamy/multiple-object-tracking-lidar
+
+Deep Surface Normal Guided Depth Prediction for Outdoor Scene from Sparse LiDAR Data and Single Color Image
+https://github.com/JiaxiongQ/DeepLiDAR

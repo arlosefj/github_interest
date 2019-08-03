@@ -96,14 +96,38 @@ https://github.com/omar178/Emotion-recognition
 Slim-CNN: A Light-Weight CNN for Face Attribute Prediction
 https://arxiv.org/abs/1907.02157
 
+A PyTorch implementation of Cross-Resolution Face Recognition via Prior-Aided Face Hallucination and Residual Knowledge Distillation. 
+https://github.com/HyoKong/Cross-Resolution-Face-Recognition
+
 (PyTorch)看人脸猜年龄
 https://github.com/yu4u/age-estimation-pytorch
+
+A PyTorch Implementation of Single Shot Scale-invariant Face Detector
+https://github.com/yxlijun/S3FD.pytorch
+
+PyTorch复现的RetinaFace人脸检测
+https://github.com/yongtaoge/RetinaFace.PyTorch
 
 FaceQnet: Quality Assessment for Face Recognition based on Deep Learning
 https://github.com/uam-biometrics/FaceQnet
 
+Deblurring Face Images using Uncertainty Guided Multi-Stream Semantic Networks
+https://github.com/rajeevyasarla/UMSN-Face-Deblurring
+
+A fast face detector
+https://github.com/TropComplique/FaceBoxes-tensorflow
+
 ### PyTorch实现的BiSeNet人脸解析改进
 https://github.com/zllrunning/face-parsing.PyTorch
+
+### 少样本人脸迁移(变脸)
+https://github.com/shaoanlu/fewshot-face-translation-GAN
+
+基于OpenCV/dlib的图片换脸工具
+https://github.com/wuhuikai/FaceSwap
+
+PyTorch实现的EXTD极小人脸检测
+https://github.com/clovaai/EXTD_Pytorch
 
 PyTorch实现的Inception Resnet (V1)/VGGFace2&CASIA-Webface人脸识别
 https://github.com/timesler/facenet-pytorch

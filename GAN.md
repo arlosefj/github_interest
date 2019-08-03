@@ -188,6 +188,39 @@ BigGAN-PyTorch - The author's officially unofficial PyTorch BigGAN implementatio
 https://github.com/ajbrock/BigGAN-PyTorch
 https://github.com/huggingface/pytorch-pretrained-BigGAN
 
+A keras (tensorflow) reimplementation of MUNIT: Multimodal Unsupervised Image-to-Image Translation https://arxiv.org/abs/1804.04732
+https://github.com/shaoanlu/MUNIT-keras
+
+Disentangling Multiple Conditional Inputs in GANs
+https://github.com/zalandoresearch/disentangling_conditional_gans
+
+A new gesture-to-gesture translation framework. Gesture-to-Gesture Translation in the Wild via Category-Independent Conditional Maps, to be presented in ACM International Conference on Multimedia, 2019.
+https://github.com/yhlleo/TriangleGAN
+
+On the "steerability" of generative adversarial networks 
+https://github.com/ali-design/gan_steerability
+
+SaGAN PyTorch "Generative Adversarial Network with Spatial Attention for Face Attribute Editing"
+https://github.com/elvisyjlin/SpatialAttentionGAN
+
+使用GAN一年得到的GAN训练十条经验(教训)
+https://towardsdatascience.com/10-lessons-i-learned-training-generative-adversarial-networks-gans-for-a-year-c9071159628
+
+从随意涂鸦到逼真照片：GauGAN的可视化解析
+https://adamdking.com/blog/gaugan/
+
+训练GANs的陷阱与提示
+https://medium.com/@utk.is.here/keep-calm-and-train-a-gan-pitfalls-and-tips-on-training-generative-adversarial-networks-edd529764aa9
+
+DreamTime - DreamTime allows you to transform photos to get free entertainment.
+https://github.com/private-dreamnet/dreamtime
+
+PetSwap少样本宠物图片迁移在线Demo
+https://github.com/nvlabs/FUNIT/
+
+### A large-scale face dataset for face parsing, recognition, generation and editing.
+https://github.com/switchablenorms/CelebAMask-HQ
+
 ### Neural Rerendering in the Wild
 https://github.com/google/neural_rerendering_in_the_wild
 

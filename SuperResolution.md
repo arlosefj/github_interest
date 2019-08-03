@@ -45,3 +45,15 @@ https://github.com/ChaofWang/AWSRN
 
 无需GAN的深度学习超分辨率
 https://towardsdatascience.com/deep-learning-based-super-resolution-without-using-a-gan-11c9bb5b6cd5
+
+(MXNet)预训练超分辨率模型集锦
+https://github.com/WolframRhodium/Super-Resolution-Zoo
+
+A TensorFlow implementation of CVPR 2018 paper "Residual Dense Network for Image Super-Resolution".
+https://github.com/hengchuan/RDN-TensorFlow
+
+TDAN: Temporally Deformable Alignment Network for Video Super-Resolution
+https://github.com/YapengTian/TDAN_VSR
+
+Second-order Attention Network for Single Image Super-resolution (CVPR-2019)
+https://github.com/daitao/SAN

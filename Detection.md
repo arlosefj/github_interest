@@ -31,6 +31,24 @@ https://github.com/STVIR/Grid-R-CNN
 Python/YOLOv3自定义对象检测器实战指南
 http://emaraic.com/blog/yolov3-custom-object-detector
 
+RetinaNet: how Focal Loss fixes Single-Shot Detection
+https://towardsdatascience.com/retinanet-how-focal-loss-fixes-single-shot-detection-cb320e3bb0de
+
+Object detection with multi-level representations generated from deep high-resolution representation learning (HRNetV2h).
+https://github.com/HRNet/HRNet-MaskRCNN-Benchmark
+
+NAS-FCOS: Fast Neural Architecture Search for Object Detection https://arxiv.org/abs/1906.04423
+https://github.com/Lausannen/NAS-FCOS
+
+Some improvements about FCOS (FCOS: Fully Convolutional One-Stage Object Detection).
+https://github.com/yqyao/FCOS_PLUS
+
+Focal Loss for Dense Rotation Object Detection
+https://github.com/DetectionTeamUCAS/RetinaNet_Tensorflow_Rotation
+
+### PyTorch code for locating objects without bounding boxes - Loss function and trained models
+https://github.com/javiribera/locating-objects-without-bboxes
+
 ### 显著目标检测(SOD)代码大列表
 https://github.com/jiwei0921/SOD-CNNs-based-code-summary-
 
