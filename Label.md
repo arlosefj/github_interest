@@ -49,6 +49,15 @@ https://github.com/natasha/ipyannotate
 Anafora：网页版文本标注工具
 https://github.com/weitechen/anafora
 
+makesense.ai：免费在线图片标记工具
+https://github.com/SkalskiP/make-sense
+
+### AlpacaTag：基于主动学习的众包序列标注框架
+https://github.com/INK-USC/AlpacaTag
+
+### Label Studio：具有标准化输出格式的多域数据标注工具
+https://github.com/heartexlabs/label-studio
+
 HyperLabelImg - 开源可视化图像标注工具(支持人脸关键点/不规则四边形/多边形标注)'
 https://github.com/zeusees/HyperLabelImg
 

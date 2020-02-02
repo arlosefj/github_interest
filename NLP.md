@@ -68,3 +68,6 @@ https://bigquant.com/community/t/topic/160261
 
 MONPA（罔拍）是一個提供正體中文分詞及 POS, NE 標註的模型
 https://github.com/monpa-team/monpa
+
+收集NLP领域相关的数据集、论文、开源实现，尤其是情感分析、情绪原因识别、评价对象和评价词抽取方面
+https://github.com/haiker2011/awesome-nlp-sentiment-analysis

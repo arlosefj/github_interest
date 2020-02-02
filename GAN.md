@@ -1,5 +1,18 @@
+### Ready to train Pytorch implementation of the CVPR'19 paper "Self-Supervised GANs via Auxiliary Rotation Loss"
+https://github.com/vandit15/Self-Supervised-Gans-Pytorch
+
+[ICLR 2020] A repository for extremely fast adversarial training using FGSM
+https://github.com/locuslab/fast_adversarial
+
+
 Ian Goodfellow：对抗机器学习
 https://www.bilibili.com/video/av52414025
+
+[ICCV 2019] "AutoGAN: Neural Architecture Search for Generative Adversarial Networks" by Xinyu Gong, Shiyu Chang, Yifan Jiang and Zhangyang Wang
+https://github.com/TAMU-VITA/AutoGAN
+
+DCGAN LSGAN WGAN-GP DRAGAN PyTorch
+https://github.com/LynnHo/DCGAN-LSGAN-WGAN-GP-DRAGAN-Pytorch
 
 对抗生成网络(GANs)：从理解到实践(生成手写数字)
 https://towardsdatascience.com/graduating-in-gans-going-from-understanding-generative-adversarial-networks-to-running-your-own-39804c283399

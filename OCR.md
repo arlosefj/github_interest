@@ -1,3 +1,13 @@
+### 如何通过OCR技术识别“收据”上的信息
+https://github.com/NanoNets/nanonets-ocr-sample-python
+
+### DocUNet: Document Image Unwarping via A Stacked U-Net, Ke Ma, Zhixin Shu, Xue Bai, Jue Wang, Dimitris Samaras. Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+https://github.com/wuleiaty/DocUNet
+
+
+### (Notebooks)用MXNet Gluon实现的(整页)手写文字识别(OCR)
+https://github.com/awslabs/handwritten-text-recognition-for-apache-mxnet
+
 ### mathAI - 一个拍照做题程序。输入一张包含数学计算题的图片，输出识别出的数学计算式以及计算结果
 https://github.com/Roujack/mathAI
 

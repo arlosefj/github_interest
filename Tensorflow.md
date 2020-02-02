@@ -27,3 +27,12 @@ https://research.google.com/seedbank/
 
 TensorFlow图形学入门
 https://github.com/tensorflow/graphics
+
+深度学习自动化算法集(TensorFlow)
+https://github.com/D-X-Y/AutoDL-Projects
+
+Basic_CNNs_TensorFlow2 - A tensorflow2 implementation of some basic CNNs(MobileNetV1/V2/V3, EfficientNet, ResNeXt, InceptionV4, InceptionResNetV1/V2, SENet, SqueezeNet, DenseNet, ShuffleNetV2, ResNet).
+https://github.com/calmisential/Basic_CNNs_TensorFlow2
+
+Multi-Task Learning package built with tensorflow 2 (Multi-Gate Mixture of Experts, Cross-Stitch, Ucertainty Weighting)
+https://github.com/AmazaspShumik/mtlearn

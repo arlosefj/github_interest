@@ -40,8 +40,17 @@ https://github.com/edvardHua/PoseEstimationForMobile
 CrossInfoNet of CVPR 2019 for hand pose estimation
 https://github.com/dumyy/handpose
 
+Code to evaluate model of paper "Cross-modal Deep Variational Hand Pose Estimation" 
+https://github.com/spurra/vae-hands-3d
+
+HumanPose - 人体骨骼14点调参心得
+https://wx3.sinaimg.cn/mw690/5396ee05ly1g5nt63qe1gj20vj0u01h7.jpg
+
 Single view depth image based hand detection and pose estimation.
 https://github.com/xkunwu/depth-hand
+
+ActionAI：人体姿态估计/行为分类库
+https://github.com/smellslikeml/ActionAI
 
 Pytorch Code for CVPR2019 paper "Fast Human Pose Estimation" https://arxiv.org/abs/1811.05419
 https://github.com/yuanyuanli85/Fast_Human_Pose_Estimation_Pytorch

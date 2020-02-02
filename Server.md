@@ -100,3 +100,18 @@ https://github.com/jesseduffield/lazydocker
 
 Easy Scheduler - 分布式工作流任务调度系统'
 https://github.com/analysys/EasyScheduler
+
+Kubernetes从入门到实战指南
+https://github.com/collabnix/kubelabs
+
+Airbnb的开源分布式延迟任务队列系统
+https://github.com/airbnb/dynein
+
+cinatra - 高效易用的c++ http框架 - modern c++(c++17), cross-platform, header-only, easy to use http framework
+https://github.com/qicosmos/cinatra
+
+系统重构与迁移指南 - 手把手教你分析、评估现有系统、制定重构策略、探索可行重构方案、搭建测试防护网、进行系统架构重构、服务架构重构、模块重构、代码重构、数据库重构、重构后的架构守护
+https://github.com/phodal/migration
+
+用docker可简单部署的虚拟浏览器
+https://github.com/nurdism/neko

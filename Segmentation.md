@@ -5,8 +5,26 @@ Light-Weight RefineNet for Real-Time Semantic Segmentation (pytorch)
 * ShelfNet for Real-time Semantic Segmentation
 https://github.com/juntang-zhuang/ShelfNet
 
+### Devil Is in the Edges: Learning Semantic Boundaries from Noisy Annotations
+https://github.com/nv-tlabs/STEAL
+
+Depth-wise Asymmetric Bottleneck for Real-time Semantic Segmentation (BMVC2019) 
+https://github.com/Reagan1311/DABNet
+
+TensorFlow model for training AdapNet++ for semantic segmentation http://deepscene.cs.uni-freiburg.de
+https://github.com/DeepSceneSeg/AdapNet-pp
+
 深度学习语义分割相关资源大列表
 https://github.com/tangzhenyu/SemanticSegmentation_DL
+
+ 一文带你读懂 DeepMask（实例分割）
+ https://www.yanxishe.com/TextTranslation/1591
+
+PyTorch 语义分割
+https://github.com/yassouali/pytorch_segmentation
+
+Image Segmentation Using Deep Learning: A Survey
+https://www.arxiv-vanity.com/papers/2001.05566/ https://arxiv.org/abs/2001.05566
 
 基于交互的实例分割学习
 https://github.com/pathak22/seg-by-interaction
@@ -175,6 +193,12 @@ https://github.com/huaifeng1993/DFANet
 
 The code for Expectation-Maximization Attention Networks for Semantic Segmentation (ICCV'2019 Oral)
 https://github.com/XiaLiPKU/EMANet
+
+A PyTorch implementation of PointRend: Image Segmentation as Rendering
+https://github.com/zsef123/PointRend-PyTorch
+
+"Context-aware Image Matting for Simultaneous Foreground and Alpha Estimation"
+https://github.com/hqqxyy/Context-Aware-Matting
 
 ### Few-shot Segmentation Propagation with Guided Networks
 https://github.com/shelhamer/revolver

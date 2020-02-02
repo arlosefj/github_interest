@@ -13,3 +13,6 @@ https://github.com/cpp-taskflow/cpp-taskflow
 libaco：一个极速、轻量级、C语言非对称协程库
 https://github.com/hnes/libaco
 
+C 语言教程 （用编写一个text编辑器工程来学习）
+https://viewsourcecode.org/snaptoken/kilo/index.html
+

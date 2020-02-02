@@ -20,3 +20,9 @@ https://arxiv.org/abs/1906.11632
 https://github.com/GT-ZhangAcer/Fabric_Defect
 https://github.com/deiry/FabricDefect
 https://github.com/ZCmeteor/Fabric-defect-recognition
+
+自编码器异常检测交互可视化介绍
+https://anomagram.fastforwardlabs.com/#/
+
+### Python可扩展多元异常检测工具包
+https://github.com/yzhao062/Pyod

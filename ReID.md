@@ -49,6 +49,15 @@ https://github.com/CoinCheung/SFT-ReID
 Joint Detection and Identification Feature Learning for Person Search https://arxiv.org/abs/1604.01850
 https://github.com/ShuangLI59/person_search
 
+Pytorch Code for Cross-Modality Person Re-Identification (Visible Thermal Re-ID)'
+https://github.com/mangye16/Cross-Modal-Re-ID-baseline
+
+[ICCV 2019] "ABD-Net: Attentive but Diverse Person Re-Identification" https://arxiv.org/abs/1908.01114
+https://github.com/TAMU-VITA/ABD-Net
+
+Self-Training with Progressive Augmentation for Unsupervised Cross-Domain Person Re-identification
+https://github.com/zhangxinyu-xyz/PAST-ReID
+
 ### 深度学习模型训练时往往需要大量的标注数据，但收集和标注大量的数据往往比较困难。作者在行人重识别这个任务上探索了，利用生成数据来辅助训练的方法。通过生成高质量的行人图像（行人两两换衣），将其与行人重识别模型融合，同时提升行人生成的质量和行人重识别的精度
 https://github.com/NVlabs/DG-Net
 

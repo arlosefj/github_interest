@@ -22,6 +22,9 @@ https://github.com/bcicen/ctop
 Go语言写的全文搜索/索引服务器
 https://github.com/mosuka/blast
 
+将Go语言开发的包载入到Python程序
+https://github.com/go-python/gopy
+
 LeetCode的Go语言解答集
 https://github.com/halfrost/LeetCode-Go
 

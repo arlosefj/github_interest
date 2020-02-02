@@ -181,6 +181,16 @@ https://github.com/cool-RR/PySnooper
 《Python 100 天从新手到大师》—— Python 的入门学习资料，学习曲线低。非专业人士也能上手学习，适合新手入门
 https://github.com/jackfrued/Python-100-Days
 
+探索式Python编程环境nbdev：让Jupyter Notebooks“面面俱到”——构建在 Jupyter Notebook 之上，将 IDE编辑器
+通过nbdev，可以享受Notebooks的所有优点，而不必有所顾虑；用nbdev可以构建完整的Python项目，创建文档站点、处理测试、辅助版本控制、甚至支持持续集成
+https://www.fast.ai/2019/12/02/nbdev/
+
+Poetry：Python依赖/打包管理器
+https://github.com/python-poetry/poetry
+
+CrossHair：Python静态分析工具
+https://github.com/pschanely/CrossHair
+
 ### 用公交路线数据，还原城市结构。通过数据可视化手段，还原了 30 多个城市的城市结构。该项目中有数据获取和处理的脚本，而且该项目充分体现了数据可视化带来的便利和效果，易于激发学习编程的热情。
 https://github.com/96486d9b/city-vein
 
@@ -190,11 +200,20 @@ https://github.com/pickitup247/pyckitup
 ### 用于创建交互式可视化网络图的Python包
 https://github.com/WestHealth/pyvis
 
+用 ipyleaflet 实现 Jupyter 里的交互式 GIS
+https://github.com/jupyter-widgets/ipyleaflet
+
 用Python实现蒙特卡罗树搜索(MCTS)算法
 https://github.com/int8/monte-carlo-tree-search
 
 Pylustrator：交互式编辑Python生成matplotlib图表风格，以适合出版发布
 https://github.com/Randrian45/pylustrator
+
+gif：方便制作Matplotlib的Gif动画
+https://github.com/maxhumber/gif
+
+用 Python 手写十大经典排序算法
+https://mp.weixin.qq.com/s/QaflNoxiI_FS4Ij8jg1KrQ
 
 用Cython 30倍加速 Python代码
 https://towardsdatascience.com/use-cython-to-get-more-than-30x-speedup-on-your-python-code-f6cb337919b6
@@ -221,8 +240,20 @@ https://zhuanlan.zhihu.com/p/72177799
 基于PySnooper的一组强大的Python调试工具
 https://github.com/alexmojaki/snoop
 
+“早知道就好了”的Python可视化技巧
+https://github.com/MengtingWan/bittersweet-phd/blob/master/visualization.md
+
 强化你的Jupyter Notebooks
 https://towardsdatascience.com/supercharging-jupyter-notebooks-e22f5ad7ca18
+
+基于 matplotlib/pandas 的 joyplot 可视化生成
+https://github.com/sbebo/joypy
+
+Jupyter Notebook/JupyterLab 里的 Conda 环境和 package 访问扩展
+https://github.com/fcollonval/jupyter_conda
+
+Jupyter Notebooks中的动态交互控制
+https://www.yanxishe.com/TextTranslation/1491
 
 技巧、诀窍和魔法：轻松优化Jupyter Notebook
 https://towardsdatascience.com/how-to-effortlessly-optimize-jupyter-notebooks-e864162a06ee

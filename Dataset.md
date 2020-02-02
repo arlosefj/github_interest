@@ -5,6 +5,17 @@ https://hyper.ai/datasets
 面向图像自动描述系统的“图片-描述”数据集
 https://github.com/google-research-datasets/conceptual-captions
 
+Virtual KITTI 2：基于Unity游戏引擎合成的虚拟场景数据集
+https://europe.naverlabs.com/research/computer-vision/proxy-virtual-worlds-vkitti-2/ 
+https://europe.naverlabs.com/blog/announcing-virtual-kitti-2/
+
+自然场景垃圾废物标注数据集
+http://tacodataset.org/
+https://github.com/pedropro/TACO
+
+LVIS：长尾目标实例分割数据集
+https://github.com/lvis-dataset/lvis-api
+
 ### 大规模中英文数据集VATEX
 http://vatex.org/main/index.html
 

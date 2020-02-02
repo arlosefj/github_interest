@@ -13,6 +13,15 @@ https://github.com/ClubAI/MonoDepth-PyTorch
 正交特征变换单目三维目标检测
 https://github.com/tom-roddick/oft
 
+Camera Distance-aware Top-down Approach for 3D Multi-person Pose Estimation from a Single RGB Image
+https://github.com/mks0601/3DMPPE_ROOTNET_RELEASE
+
+SharpNet: Fast and Accurate Recovery of Occluding Contours in Monocular Depth Estimation
+https://github.com/MichaelRamamonjisoa/SharpNet
+
+What Do Single-view 3D Reconstruction Networks Learn?
+https://github.com/lmb-freiburg/what3d
+
 ### Code for the CVPR 2019 paper "Learning Single-Image Depth from Videos using Quality Assessment Networks"
 https://github.com/princeton-vl/YouTube3D
 

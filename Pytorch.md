@@ -223,3 +223,17 @@ https://github.com/learning-luke/pytorch-experiments-template
 PyTorch深度学习实验监控面板
 https://github.com/jotaf98/overboard
 
+Danbooru2018数据集上的ResNet预训练模型(PyTorch)
+https://github.com/RF5/danbooru-pretrained
+
+Flambé：面向研究和产品化加速的机器学习实验框架(基于PyTorch)
+https://github.com/asappresearch/flambe
+
+Awesome-Pytorch-list｜厉害的Pytorch项目
+https://github.com/xavier-zy/Awesome-pytorch-list-CNVersion
+
+PyTorch工具箱
+https://github.com/bonlime/pytorch-tools
+
+### PyTorch + PySyft 加密训练实战(MNIST)
+https://blog.openmined.org/encrypted-training-on-mnist/

@@ -96,6 +96,12 @@ https://github.com/omar178/Emotion-recognition
 Slim-CNN: A Light-Weight CNN for Face Attribute Prediction
 https://arxiv.org/abs/1907.02157
 
+Face and Image Super-resolution
+https://github.com/jingyang2017/Face-and-Image-super-resolution
+
+### 边缘设备上的轻量快速人脸检测器(LFFD)
+https://github.com/YonghaoHe/A-Light-and-Fast-Face-Detector-for-Edge-Devices
+
 A PyTorch implementation of Cross-Resolution Face Recognition via Prior-Aided Face Hallucination and Residual Knowledge Distillation. 
 https://github.com/HyoKong/Cross-Resolution-Face-Recognition
 

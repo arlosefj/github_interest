@@ -76,11 +76,20 @@ https://github.com/guan-yuan/awesome-AutoML-and-Lightweight-Models
 用遗传算法搜索最优神经网络结构
 https://github.com/Tsdevendra1/NEAT-Algorithm
 
+A PyTorch implementation of WS-DAN (Weakly Supervised Data Augmentation Network) for FGVC (Fine-Grained Visual Classification)
+https://github.com/GuYuc/WS-DAN.PyTorch
+
 Pretrained Image & Video ConvNets for PyTorch: NASNet, ResNeXt (2D + 3D), ResNet (2D + 3D), InceptionV4, InceptionResnetV2, Xception, DPN, NonLocalNets, R(2+1)D nets, MultiView CNNs, Temporal Relation Networks, etc
 https://github.com/alexandonian/pretorched-x
 
+NNI：微软发布的开源神经架构搜索/超参调优自动机器学习(AutoML)工具包，通过多种调优算法搜索最佳神经网络结构和(或)超参，支持单机、本地多机、云等不同的运行环境】’NNI (Neural Network Intelligence) - An open source AutoML toolkit for neural architecture search and hyper-parameter tuning' by Microsoft 
+https://github.com/Microsoft/nni/releases
+
 PyTorch implementation of "Searching for A Robust Neural Architecture in Four GPU Hours", CVPR 2019
 https://github.com/D-X-Y/GDAS
+
+21秒看尽ImageNet屠榜模型，60+模型架构同台献艺
+https://mp.weixin.qq.com/s/8isaB1F_66Ykx3eojYMmRw
 
 Interpretable Convolutional Neural Networks
 https://github.com/zqs1022/interpretableCNN
@@ -88,6 +97,8 @@ https://github.com/zqs1022/interpretableCNN
 Keras implementation of the graph attention networks (GAT) by Veličković et al. (2017; https://arxiv.org/abs/1710.10903)
 https://github.com/danielegrattarola/keras-gat
 
+Advbox: a toolbox to generate adversarial examples that fool neural networks
+https://github.com/advboxes/AdvBox
 
 This repository contains a MXNet implementation of the paper Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution.
 https://github.com/terrychenism/OctaveConv
@@ -97,6 +108,15 @@ https://github.com/ianwhale/nsga-net
 
 Official Implementation of "DeepCaps: Going Deeper with Capsule Networks" paper (CVPR 2019).
 https://github.com/brjathu/deepcaps
+
+Channel Pruning via Automatic Structure Search
+https://github.com/lmbxmu/ABCPruner
+
+ANRL: Attributed Network Representation Learning via Deep Neural Networks
+https://github.com/cszhangzhen/ANRL
+
+Official repo for `ELF: Embedded Localisation of Features in pre-trained CNN' (ICCV19)
+https://github.com/abenbihi/elf
 
 MobileNetV3
 https://github.com/kuan-wang/pytorch-mobilenet-v3

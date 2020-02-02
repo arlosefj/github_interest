@@ -13,6 +13,9 @@ https://github.com/BeloborodovDS/MobilenetSSDFace
 手把手：用树莓派搭建个人Python开发服务器
 https://pan.baidu.com/s/1SuVw94TQEI1W2CHyBh9O4Q
 
+手把手：在树莓派4上用TensorFlow Lite实现目标识别
+https://learn.adafruit.com/running-tensorflow-lite-on-the-raspberry-pi-4?view=all
+
 (树莓派/本地服务器)家庭智能助理相关资源大列表
 https://github.com/frenck/awesome-home-assistant
 
@@ -36,3 +39,6 @@ https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fblog.hackster.io%
 
 (Tensorflow 2.0)树莓派低成本计算机视觉实战
 https://towardsdatascience.com/portable-computer-vision-tensorflow-2-0-on-a-raspberry-pi-part-1-of-2-84e318798ce9
+
+笑脸自拍器：树莓派上构建基于TensorFlow Lite的PhotoBooth Lite
+https://blog.tensorflow.org/2020/01/photobooth-lite-on-raspberry-pi-with-tensorflow-lite.html

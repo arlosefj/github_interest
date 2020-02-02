@@ -21,3 +21,6 @@ https://www.aitransformer.com/
 
 边缘机器学习相关资源大列表
 https://github.com/Bisonai/awesome-edge-machine-learning
+
+AWTK = Toolkit AnyWhere(为嵌入式、手机和PC打造的通用GUI系统)
+https://github.com/zlgopen/awtk

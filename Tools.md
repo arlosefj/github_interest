@@ -43,6 +43,18 @@ https://github.com/huashengdun/webssh
 kkFileView - 使用spring boot打造文件文档在线预览项目解决方案，支持doc、docx、ppt、pptx、xls、xlsx、zip、rar、mp4，mp3以及众多类文本如txt、html、xml、java、properties、sql、js、md、json、conf、ini、vue、php、py、bat、gitignore等文件在线预览
 https://github.com/kekingcn/kkFileView
 
+无需编写代码、利用GitHub搭建全免费个人博客
+https://www.fast.ai/2020/01/16/fast_template/
+
+微软开源可视化数据探索工具SandDance
+https://github.com/Microsoft/SandDance
+
+OneDev：超简单的一体化DevOps平台
+https://github.com/theonedev/onedev
+
+### 推荐一款能将 Markdown 文档转成高大上 PPT 的开源工具，支持图表、流程图、数学符号、自定义主题配色以及样式等等。
+https://github.com/ksky521/nodeppt
+
 ### Oppia：可协同创建在线交互教程的开源学习工具
 https://github.com/oppia/oppia
 

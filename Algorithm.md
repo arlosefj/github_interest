@@ -4,6 +4,18 @@ https://github.com/VAR-solutions/Algorithms
 算法可视化工具。你可以自由选择自己想学习的算法，每个算法它都清晰描绘了其原理和运作过程
 https://github.com/algorithm-visualizer/algorithm-visualizer
 
+C/C++ /Python/Go/JS/Java多语言LeetCode解题参考
+https://github.com/luliyucoordinate/Leetcode
+
+算法和编程面试题精选TOP50！(附代码+解题思路+答案)
+https://mp.weixin.qq.com/s/ABSgO36dGLa1_d5daN2c8A
+
+算法/深度学习/NLP面试笔记 - 2018/2019/校招/春招/秋招/自然语言处理(NLP)/深度学习(Deep Learning)/机器学习(Machine Learning)/C/C++/Python/面试笔记
+https://github.com/DarLiner/Algorithm_Interview_Notes-Chinese
+
+GitHub 上开源的一份非常棒的正则教程，每个知识点提供一个通俗易懂的例子说明。
+https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md
+
 ### 《挑战程序设计竞赛》习题册攻略
 https://github.com/yogykwan/acm-challenge-workbook
 

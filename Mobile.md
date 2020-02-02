@@ -37,6 +37,9 @@ https://github.com/ginn24/Pelee-TensorRT
 移动设备神经网络推理性能端到端测试工具
 https://github.com/XiaoMi/mobile-ai-bench
 
+移动设备高性能实时网络/语义分割文献资源列表
+https://github.com/wpf535236337/real-time-network
+
 ### AidLearning：安卓平台上的Linux+Anroid+AI+Python四合一环境，支持主流深度学习框架和图形界面开发，旧手机、旧平板可以翻出来搞一下
 https://github.com/aidlearning/AidLearning-FrameWork
 

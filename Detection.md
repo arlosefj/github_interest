@@ -1,3 +1,6 @@
+* SlimYOLOv3: Narrower, Faster and Better for UAV Real-Time Applications
+https://github.com/PengyiZhang/SlimYOLOv3
+
 Object Detection in 20 Years: A Survey
 https://arxiv.org/abs/1905.05055
 
@@ -6,6 +9,12 @@ https://github.com/lzx1413/PytorchSSD
 
 * Single Shot Tracker
 https://github.com/shijieS/SST
+
+Learning Lightweight Lane Detection CNNs by Self Attention Distillation
+https://github.com/cardwing/Codes-for-Lane-Detection
+
+Data Priming Network for Automatic Check-Out - ACMMM 2019
+https://github.com/lufficc/DPNet
 
 NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection. https://arxiv.org/abs/1904.07392
 https://github.com/DetectionTeamUCAS/NAS_FPN_Tensorflow

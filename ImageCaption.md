@@ -31,6 +31,11 @@ https://github.com/dreamgonfly/Transformer-pytorch
 ### Video Grounding and Captioning
 https://github.com/facebookresearch/grounded-video-description
 
+Reformer：高效的Transformer
+https://github.com/google/trax/tree/master/trax/models/reformer
+
+ICCV研讨会的中英文视频描述大赛
+http://vatex.org/main/index.html
 
 Cooperative Vision-and-Dialog Navigation
 https://github.com/mmurray/cvdn

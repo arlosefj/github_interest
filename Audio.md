@@ -16,6 +16,12 @@ https://github.com/ZhengkunTian/Speech-Tranformer-Pytorch
 Deep neural network based speech enhancement toolkit
 https://github.com/jtkim-kaist/Speech-enhancement
 
+音乐音频标记预训练深度网络模型
+https://github.com/jordipons/musiCNN
+
+End-to-End Automatic Speech Recognition on PyTorch
+https://github.com/gentaiscool/end2end-asr-pytorch
+
 ### 声音模仿秀：5秒钟实时克隆任意语音
 https://github.com/CorentinJ/Real-Time-Voice-Cloning
 

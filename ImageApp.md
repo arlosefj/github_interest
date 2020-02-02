@@ -13,6 +13,16 @@ https://arxiv.org/abs/1907.02198
 CVPR 2019 论文开源项目合集
 https://github.com/amusi/CVPR2019-Code
 
+
+MoGA: Searching Beyond MobileNetV3
+https://github.com/xiaomi-automl/MoGA
+
+FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search
+https://github.com/AnnaAraslanova/FBNet
+
+Caffe implementation of "Hybrid-Attention based Decoupled Metric Learning for Zero-Shot Image Retrieval"
+https://github.com/chenbinghui1/Hybrid-Attention-based-Decoupled-Metric-Learning
+
 Official Implementation of 'Fast AutoAugment' in PyTorch.
 https://github.com/KakaoBrain/fast-autoaugment
 

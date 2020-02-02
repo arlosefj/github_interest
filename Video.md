@@ -89,3 +89,6 @@ https://github.com/lelimite4444/BridgeDepthFlow
 ffmpeg-cpp - A clean, easy-to-use C++ wrapper around the ffmpeg libraries
 https://github.com/Raveler/ffmpeg-cpp
 
+深度感知视频插帧(DAIN)
+https://github.com/baowenbo/DAIN
+

@@ -33,3 +33,12 @@ https://www.zhihu.com/question/265357659
 
 技术面试参考资料大列表
 https://github.com/Awesome-Interview/Awesome-Interview
+
+Bringing Giant Neural Networks Down to Earth with Unlabeled Data
+https://arxiv.org/abs/1907.06065
+
+Towards Explaining the Regularization Effect of Initial Large Learning Rate in Training Neural Networks
+https://arxiv.org/abs/1907.04595
+
+为什么机器学习模型在产品化过程中会退化？
+https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fwhy-machine-learning-models-degrade-in-production-d0f2108e9214

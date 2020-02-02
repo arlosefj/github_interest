@@ -1,5 +1,18 @@
+隐私保护机器学习四大关键：训练数据隐私、输入隐私、输出隐私、模型隐私
+https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fperfectly-privacy-preserving-ai-c14698f322f5
+
 以最简单的机器学习算法逻辑回归为例，介绍底层C++实现，以及高层Python调用
 https://github.com/wepe/dive-into-ml-system
+
+### (Python)白手起家机器学习
+https://github.com/eriklindernoren/ML-From-Scratch
+从头开始实现基本机器学习模型和算法，目的不是实现尽可能优化和高效的算法，而是以透明和可理解的方式呈现算法的内部工作方式。
+
+### CausalNex：(Python)贝叶斯网络因果推理工具包
+https://github.com/quantumblacklabs/causalnex
+
+《百面机器学习算法工程师带你去面试》（附PDF下载链接）
+https://bigquant.com/community/t/topic/161842
 
 将深度神经网络中的一些模型 进行统一的图示，便于大家对模型的理解
 https://github.com/weslynn/AlphaTree-graphic-deep-neural-network

@@ -91,11 +91,21 @@ https://github.com/antoine77340/video_feature_extractor
 Code for the paper "High Speed and High Dynamic Range Video with an Event Camera" (arXiv, 2019). http://rpg.ifi.uzh.ch/E2VID.html
 https://github.com/uzh-rpg/rpg_e2vid
 
+Timeception for Complex Action Recognition
+https://github.com/noureldien/timeception
+
 MS-TCN: Multi-Stage Temporal Convolutional Network for Action Segmentation
 https://github.com/yabufarha/ms-tcn
 
 Deep Spatio-Temporal Neural Network (DSTN)
 https://github.com/oywtece/dstn
+
+Learning to align and match videos with kernelized temporal layers
+https://github.com/facebookresearch/videoalignment
+
+
+Self-supervised Spatiotemporal Learning via Video Clip Order Prediction
+https://github.com/xudejing/video-clip-order-prediction
 
 ### Real-time Hand Gesture Recognition with PyTorch on EgoGesture, NvGesture and Jester https://arxiv.org/abs/1901.10323
 https://github.com/ahmetgunduz/Real-time-GesRec

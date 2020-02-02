@@ -50,3 +50,8 @@ https://github.com/shinima/battle-city
 
 神经网络学习玩蛇，Neural Network Learns to Play Snake。训练神经网络使用遗传算法玩Snake
 https://github.com/greerviau/SnakeAI
+
+RPG Maker 是一款很酷的工具，可以让一个不会编程的人也能做出像模像样的RPG游戏来。
+但如果你第一次使用 RPG Maker，可能需要花上好几个小时才能做出来一个简单的 RPG 游戏。这个视频想帮你省下一些时间。
+https://weibo.com/tv/v/I0VFwEEt9?fid=1034:4402067851434296
+

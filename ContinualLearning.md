@@ -12,3 +12,12 @@ https://arxiv.org/abs/1907.00182
 
 Lifelong GAN: Continual Learning for Conditional Image Generation
 https://arxiv.org/abs/1907.10107
+
+Learning a Unified Classifier Incrementally via Rebalancing
+https://github.com/hshustc/CVPR19_Incremental_Learning
+
+Learning to Remember: A Synaptic Plasticity Driven Framework for Continual Learning 
+https://github.com/SAP-samples/machine-learning-dgm
+
+Official implementation of the paper: Unsupervised learning of action classes with continuous temporal embedding
+https://github.com/Annusha/unsup_temp_embed

@@ -1,3 +1,6 @@
+将MOOC和Kaggle比赛结合
+在线自学 + 精益实践
+
 Standford CS231n 2017课程学习总结
 https://github.com/mbadry1/CS231n-2017-Summary
 

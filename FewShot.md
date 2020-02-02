@@ -18,15 +18,27 @@ https://github.com/nvlabs/FUNIT/
 ### The code of "Revisiting Local Descriptor based Image-to-Class Measure for Few-shot Learning", CVPR 2019.
 https://github.com/WenbinLee/DN4
 
+Cross-Domain Few-Shot Learning Benchmarking System
+https://github.com/IBM/cdfsl-benchmark
+
 * Implementation of Siamese Neural Networks for One-shot Image Recognition
 https://github.com/Goldesel23/Siamese-Networks-for-One-Shot-Learning
 https://sorenbouma.github.io/blog/oneshot/
+
+FSS-1000: A 1000-Class Dataset for Few-Shot Segmentation
+https://github.com/HKUSTCV/FSS-1000
+
+N样本学习：用更少的数据，学到更多
+https://blog.floydhub.com/n-shot-learning/
 
 Few-Shot Image Recognition by Predicting Parameters from Activations
 https://github.com/joe-siyuan-qiao/FewShot-CVPR
 
 Context-Aware Zero-Shot Recognition
 https://github.com/ruotianluo/Context-aware-ZSR
+
+A combination of Autoencoder and Robust PCA
+https://github.com/zc8340311/RobustAutoencoder
 
 The code and models for paper: "ScratchDet: Exploring to Train Single-Shot Object Detectors from Scratch"
 https://github.com/KimSoybean/ScratchDet The code is coming soon.

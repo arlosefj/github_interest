@@ -2,8 +2,20 @@ quantize
 https://github.com/eladhoffer/quantized.pytorch
 使用pytorch
 
+我们真的需要模型压缩吗？
+http://mitchgordon.me/machine/learning/2020/01/13/do-we-really-need-model-compression.html
+
 ### [ECCV 2018] PyTorch implementation for AMC: AutoML for Model Compression and Acceleration on Mobile Devices.
 https://github.com/mit-han-lab/amc
+
+神经网络量化相关文献集
+https://github.com/xu3kev/neural-networks-quantization-notes
+
+Pytorch Implementation of Neural Architecture Optimization
+https://github.com/renqianluo/NAO_pytorch
+
+TensorRT 深度学习优化
+https://github.com/ardianumam/Tensorflow-TensorRT
 
 prune
 https://github.com/jacobgil/pytorch-pruning

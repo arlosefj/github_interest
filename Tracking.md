@@ -17,6 +17,9 @@ https://github.com/bychen515/ACT
 Deep Regression Tracking with Shrinkage Loss
 https://github.com/chaoma99/DSLT
 
+### Learning the Model Update for Siamese Trackers (ICCV 2019)
+https://github.com/zhanglichao/updatenet
+
 ### [CVPR2019] Fast Online Object Tracking and Segmentation: A Unifying Approach 
 https://github.com/foolwood/SiamMask
 
@@ -25,6 +28,12 @@ https://github.com/huanglianghua/siamfc-pytorch
 
 ### Keras实现的BiGAN相似地标图片检测
 https://github.com/manicman1999/Keras-BiGAN
+
+### Visual Trackers for Single Object - 记录每天整理的视觉目标跟踪论文
+https://github.com/czla/daily-paper-visual-tracking
+
+Implementation of "Tracking without bells and whistles” and the multi-object tracking "Tracktor" https://arxiv.org/abs/1903.05625
+https://github.com/phil-bergmann/tracking_wo_bnw
 
 Attention-based Dropout Layer for Weakly Supervised Object Localization, CVPR 2019 (Oral)
 https://github.com/junsukchoe/ADL

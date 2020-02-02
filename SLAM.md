@@ -24,6 +24,9 @@ https://github.com/fabianschenk/RESLAM
 通用视觉SLAM框架OpenVSLAM
 https://github.com/xdspacelab/openvslam
 
+SE(2)-Constrained Localization and Mapping by Fusing Odometry and Vision (IEEE Transactions on Cybernetics 2019) 
+https://github.com/izhengfan/se2clam
+
 Python开源机器人研究平台
 https://github.com/facebookresearch/pyrobot
 
@@ -35,3 +38,6 @@ https://github.com/praveen-palanisamy/multiple-object-tracking-lidar
 
 Deep Surface Normal Guided Depth Prediction for Outdoor Scene from Sparse LiDAR Data and Single Color Image
 https://github.com/JiaxiongQ/DeepLiDAR
+
+DeepFactors: Real-Time Probabilistic Dense Monocular SLAM
+https://github.com/jczarnowski/DeepFactors https://www.arxiv-vanity.com/papers/2001.05049/

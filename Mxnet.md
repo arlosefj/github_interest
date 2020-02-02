@@ -9,3 +9,6 @@ https://github.com/mahyarnajibi/SNIPER
 
 Mnasnet-Imagenet1k-Pretrained
 https://github.com/zeusees/Mnasnet-Pretrained-Model
+
+Lookahead Optimizer: k steps forward, 1step back
+https://github.com/wkcn/LookaheadOptimizer-mx
