@@ -55,3 +55,8 @@ RPG Maker 是一款很酷的工具，可以让一个不会编程的人也能做�
 但如果你第一次使用 RPG Maker，可能需要花上好几个小时才能做出来一个简单的 RPG 游戏。这个视频想帮你省下一些时间。
 https://weibo.com/tv/v/I0VFwEEt9?fid=1034:4402067851434296
 
+Python 语言编写的植物大战僵尸。学习如何使用 Python 编写小游戏的极佳例子
+https://github.com/marblexu/PythonPlantsVsZombies
+
+### 一个基于机器学习的地下城文字游戏。此项目介绍了如何使用机器学习构建一个游戏，代码简单清晰适合 AI 爱好者深入研究
+https://github.com/AIDungeon/AIDungeon

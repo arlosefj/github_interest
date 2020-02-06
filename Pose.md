@@ -43,11 +43,20 @@ https://github.com/dumyy/handpose
 Code to evaluate model of paper "Cross-modal Deep Variational Hand Pose Estimation" 
 https://github.com/spurra/vae-hands-3d
 
+Self Correction for Human Parsing - An out-of-box human parsing representation extracter
+https://github.com/PeikeLi/Self-Correction-Human-Parsing
+
+基于卷积神经网络和监督学习的开源库，可以实现人的面部、躯干和四肢甚至手指的跟踪。适用于多人，且标记准确，同时具有较好的鲁棒性
+https://github.com/CMU-Perceptual-Computing-Lab/openpose
+
 HumanPose - 人体骨骼14点调参心得
 https://wx3.sinaimg.cn/mw690/5396ee05ly1g5nt63qe1gj20vj0u01h7.jpg
 
 Single view depth image based hand detection and pose estimation.
 https://github.com/xkunwu/depth-hand
+
+Coral PoseNet - Human Pose Detection on EdgeTPU
+https://github.com/google-coral/project-posenet
 
 ActionAI：人体姿态估计/行为分类库
 https://github.com/smellslikeml/ActionAI

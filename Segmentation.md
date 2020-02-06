@@ -8,6 +8,24 @@ https://github.com/juntang-zhuang/ShelfNet
 ### Devil Is in the Edges: Learning Semantic Boundaries from Noisy Annotations
 https://github.com/nv-tlabs/STEAL
 
+全景分割相关资源大列表
+https://github.com/Angzz/awesome-panoptic-segmentation
+
+视觉分类/分割相关深度学习模型大列表
+https://github.com/nerox8664/awesome-computer-vision-models
+
+用于图像分割的各种Unet模型实现(PyTorch)
+https://github.com/bigmb/Unet-Segmentation-Pytorch-Nest-of-Unets
+
+2019 语义分割指南
+https://www.yanxishe.com/TextTranslation/1981
+
+图像分割损失函数集
+https://github.com/JunMa11/SegLoss
+
+### 深度抠图的PyTorch实现
+https://github.com/huochaitiantang/pytorch-deep-image-matting
+
 Depth-wise Asymmetric Bottleneck for Real-time Semantic Segmentation (BMVC2019) 
 https://github.com/Reagan1311/DABNet
 

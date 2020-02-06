@@ -10,6 +10,12 @@ https://github.com/simoninithomas/Deep_reinforcement_learning_Course
 【异常检测】《Anomaly Detection - YouTube》by 李宏毅
 https://www.youtube.com/watch?v=ikJi4bEgrNI
 
+很好的计算机视觉视频课程 课程：计算机视觉远古探秘”
+https://www.bilibili.com/video/av43498478/
+
+经典统计学到现代机器学习
+https://www.bilibili.com/video/av65718644/
+
 李宏毅机器学习2019(国语)
 https://www.bilibili.com/video/av46561029/
 

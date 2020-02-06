@@ -16,3 +16,6 @@ https://github.com/hnes/libaco
 C 语言教程 （用编写一个text编辑器工程来学习）
 https://viewsourcecode.org/snaptoken/kilo/index.html
 
+操作系统、计算机网络、数据结构与算法、数据库、Linux管理、C++ 学习笔记整理
+https://github.com/arkingc/note
+

@@ -17,6 +17,15 @@ https://github.com/LynnHo/DCGAN-LSGAN-WGAN-GP-DRAGAN-Pytorch
 对抗生成网络(GANs)：从理解到实践(生成手写数字)
 https://towardsdatascience.com/graduating-in-gans-going-from-understanding-generative-adversarial-networks-to-running-your-own-39804c283399
 
+(PyTorch)50行代码实现对抗生成网络(GAN)
+https://github.com/devnag/pytorch-generative-adversarial-networks
+
+### SPIRAL：用强化对抗学习19笔画张明星脸
+https://github.com/deepmind/spiral
+
+### GIMP 的 GauGAN 涂鸦图像生成插件
+https://github.com/prusnak/gimp-plugin-gaugan
+
 # TextCaps : Handwritten Character Recognition with Very Small Datasets》V Jayasundara, S Jayasekara, H Jayasekara, J Rajasegaran, S Seneviratne, R Rodrigo [University of Moratuwa & University of Sydney] (2019) 
 https://github.com/vinojjayasundara/textcaps
 用capsule network生成逼真训练样本，用200样本在MNIST上达到98.7%精度

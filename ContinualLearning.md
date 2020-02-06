@@ -21,3 +21,6 @@ https://github.com/SAP-samples/machine-learning-dgm
 
 Official implementation of the paper: Unsupervised learning of action classes with continuous temporal embedding
 https://github.com/Annusha/unsup_temp_embed
+
+Code for Semi-Supervised Learning by Augmented Distribution Alignment
+https://github.com/qinenergy/adanet

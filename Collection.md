@@ -4,9 +4,17 @@ https://gallerix.asia/
 中国哲学书电子化计划 
 https://ctext.org/zhs
 
+互联网上的免费书籍汇总
+https://github.com/ruanyf/free-books
 
 利用网络上公开的数据构建一个小型的证券知识图谱/知识库
 https://github.com/lemonhu/stock-knowledge-graph
 
 2020年的算法实习岗位信息表，部分包括内推码，和常见深度学习算法岗面试题及答案，暑期计算机视觉实习面经和总结
 https://github.com/HarleysZhang/2019_algorithm_intern_information
+
+任正非管理思想
+http://www.ruanyifeng.com/blog/2019/08/ren-zhengfei.html
+
+独立开发者赚钱资料集锦
+https://github.com/josephchang10/awesome-indie https://github.com/mezod/awesome-indie

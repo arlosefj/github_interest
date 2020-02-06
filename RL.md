@@ -51,3 +51,9 @@ https://bigquant.com/community/t/topic/157213?utm_source=weibo&utm_medium=weibo_
 
 中国象棋Zero（CCZero）：用AlphaZero/AlphaGo Zero类似算法训练的中国象棋机器人
 https://github.com/NeymarL/ChineseChess-AlphaZero
+
+OpenSpiel游戏强化学习框架：包含一系列环境、算法，用于研究一般强化学习和游戏中的搜索/规划
+https://github.com/deepmind/open_spiel
+
+一个深度强化学习项目，研究如何让机器用画笔画画。也可体验制作自己的绘画或根据一张图片生成一整个绘画过程
+https://github.com/hzwer/ICCV2019-LearningToPaint

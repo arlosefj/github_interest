@@ -76,6 +76,18 @@ https://github.com/guan-yuan/awesome-AutoML-and-Lightweight-Models
 用遗传算法搜索最优神经网络结构
 https://github.com/Tsdevendra1/NEAT-Algorithm
 
+(PyTorch)从头开始实现 Transformers
+https://github.com/pbloem/former
+
+机器学习自动化(AutoML)文献/工具/项目资源大列表
+https://github.com/windmaple/awesome-AutoML
+
+ShuffleNet 系列模型实现与预训练模型
+https://github.com/megvii-model/ShuffleNet-Series
+
+HungaBunga：遍历超参“暴力”优化Scikit-Learn模型
+https://github.com/ypeleg/HungaBunga
+
 A PyTorch implementation of WS-DAN (Weakly Supervised Data Augmentation Network) for FGVC (Fine-Grained Visual Classification)
 https://github.com/GuYuc/WS-DAN.PyTorch
 

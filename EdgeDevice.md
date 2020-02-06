@@ -24,3 +24,6 @@ https://github.com/Bisonai/awesome-edge-machine-learning
 
 AWTK = Toolkit AnyWhere(为嵌入式、手机和PC打造的通用GUI系统)
 https://github.com/zlgopen/awtk
+
+AoE (AI on Edge，终端智能，边缘计算) ：滴滴开源的 终端侧 AI 集成运行时环境 ( IRE )，以 “稳定性、易用性、安全性” 为设计原则
+https://didi.github.io/AoE/ https://github.com/didi/AoE

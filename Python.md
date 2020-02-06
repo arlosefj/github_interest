@@ -240,8 +240,59 @@ https://zhuanlan.zhihu.com/p/72177799
 基于PySnooper的一组强大的Python调试工具
 https://github.com/alexmojaki/snoop
 
+统计分析数据强化的 ggplot2 图表
+https://github.com/IndrajeetPatil/ggstatsplot
+
 “早知道就好了”的Python可视化技巧
 https://github.com/MengtingWan/bittersweet-phd/blob/master/visualization.md
+
+Python/Matplotlib科学可视化
+https://github.com/rougier/scientific-visualization-book
+
+给中级Python开发者的13个练手项目点子
+https://realpython.com/intermediate-python-project-ideas/
+
+Python数据集探索与可视化实例指南
+https://github.com/FBosler/Medium-Data-Exploration
+
+Python 常见的17个错误分析
+https://mp.weixin.qq.com/s/sayNyU2bPN893gpenN8nvw
+
+Python编码规范（国内程序员创建和维护）
+https://bigquant.com/community/t/topic/162807?pk_campaign=bigquant&pk_kwd=190823_weibo
+
+一款免费开源的 Python 实时异常监控平台。采用 C/S 模式，服务器端通过 Python 实现，同时提供 web 管理页面，支持从任何语言、任何应用程序发送事件。一个成熟的服务必要的一环就是异常告警，Sentry 可以帮你及时知道服务非预期的异常
+https://github.com/getsentry/sentry
+
+一个交互式的数据可视化 Python 库，专注于在 Web 浏览器中实现美观、直接的数据可视化功能。使用它可以让你快速和轻松地创建交互式图表、仪表板和数据可视化程序。
+https://github.com/bokeh/bokeh
+
+一个跨平台库的进程和系统资源监控、管理库。用于查看有关正在运行的进程和系统利用率，如 CPU、内存、磁盘、网络等信息。 实现了 UNIX 命令行工具提供的许多功能，例如：ps、top、lsof、netstat、ifconfig 等，支持 Linux、Windows、macOS 等系统。学会了这个库，就可以通过 Python 脚本做更多有趣的事情了
+https://github.com/giampaolo/psutil
+
+一个 Python 写的视频下载工具，下载工具千万个但我仅仅推荐了这个工具。是因为正常情况下载不了视频的网站，用它你就可以方便地下载下来。
+https://github.com/soimort/you-get
+
+微软出品的零基础 Python 入门教程，内容浅显易懂。包含示例代码、演示的 PPT
+https://github.com/microsoft/c9-python-getting-started
+
+Python 的词云生成工具
+https://github.com/amueller/word_cloud
+
+类似 Pandas 的 Python 数据处理库，在处理大型数据集的时候表现极大的优于 Pandas。Vaex 通过懒加载、延迟计算和零内存复制策略，极大的降低了内存的使用率、提高了计算的效率。从而能够每秒处理 10 亿行的数据，并且支持以直方图、密度图等形式展示数据。
+https://github.com/vaexio/vaex
+
+Python 实现的精简绿色版按键精灵。记录用户的鼠标、键盘操作，自动执行之前记录的操作，可设定执行的次数。在进行某些简单、单调重复的操作时，使用该软件可以十分省事儿。只需要录制一遍，剩下的交给 KeymouseGo 来做就可以了
+https://github.com/taojy123/KeymouseGo
+
+### VS Code 下 Python 语言开发指南
+https://realpython.com/python-development-visual-studio-code/
+
+《Python3教程（廖雪峰）》
+https://bigquant.com/community/t/topic/161963
+
+pigar：Python项目requirements 文件自动生成工具
+https://github.com/Damnever/pigar
 
 强化你的Jupyter Notebooks
 https://towardsdatascience.com/supercharging-jupyter-notebooks-e22f5ad7ca18

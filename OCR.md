@@ -4,6 +4,29 @@ https://github.com/NanoNets/nanonets-ocr-sample-python
 ### DocUNet: Document Image Unwarping via A Stacked U-Net, Ke Ma, Zhixin Shu, Xue Bai, Jue Wang, Dimitris Samaras. Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 https://github.com/wuleiaty/DocUNet
 
+Seq2Seq+Attention 中文OCR文字识别
+https://github.com/bai-shang/crnn_seq2seq_ocr_pytorch
+
+端到端场景文字检测与识别资源大列表
+https://github.com/HCIILAB/Scene-Text-End2end
+
+【CRAFT + CRNN 文本识别工具】’Text recognition tool - Text recognition with Pytorch Using CRNN and CRAFT pretrained models.
+https://github.com/s3nh/text-detector
+
+ICDAR 2019自由字型文本识别竞赛第一名方案
+https://github.com/Jyouhou/ICDAR2019-ArT-Recognition-Alchemy
+
+### Page to PAGE Layout Analysis Tool
+https://github.com/lquirosd/P2PaLA
+
+面向文本定位与识别的合成数据/OCR数据集列表
+https://github.com/TianzhongSong/awesome-SynthText
+
+### 文档分类和OCR关键值提取
+https://github.com/ikivanc/Document-Classification-and-Post-OCR-Key-Value-Extraction
+
+场景文字检测资源大列表
+https://github.com/HCIILAB/Scene-Text-Detection https://github.com/HCIILAB/Scene-Text-Recognition
 
 ### (Notebooks)用MXNet Gluon实现的(整页)手写文字识别(OCR)
 https://github.com/awslabs/handwritten-text-recognition-for-apache-mxnet
@@ -20,6 +43,9 @@ https://github.com/xiaomaxiao/PSENET
 
 RRD: Rotation-Sensitive Regression for Oriented Scene Text Detection
 https://github.com/MhLiao/RRD
+
+Keras implementation of Character Region Awareness for Text Detection (CRAFT)
+https://github.com/RubanSeven/CRAFT_keras
 
 Brno Mobile OCR数据集
 https://pero.fit.vutbr.cz/brno_mobile_ocr_dataset

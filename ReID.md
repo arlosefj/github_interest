@@ -58,6 +58,12 @@ https://github.com/TAMU-VITA/ABD-Net
 Self-Training with Progressive Augmentation for Unsupervised Cross-Domain Person Re-identification
 https://github.com/zhangxinyu-xyz/PAST-ReID
 
+Spatial-Temporal Re-identification
+https://github.com/Wanggcong/Spatial-Temporal-Re-identification
+
+Code for 1st Place Soluition in both the Tiger Re-ID in the plain track and Tiger Re-ID in the wild track (CVWC) @ ICCV19 Workshop.
+https://github.com/LcenArthas/CVWC2019-Amur-Tiger-Re-ID
+
 ### 深度学习模型训练时往往需要大量的标注数据，但收集和标注大量的数据往往比较困难。作者在行人重识别这个任务上探索了，利用生成数据来辅助训练的方法。通过生成高质量的行人图像（行人两两换衣），将其与行人重识别模型融合，同时提升行人生成的质量和行人重识别的精度
 https://github.com/NVlabs/DG-Net
 

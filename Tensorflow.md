@@ -36,3 +36,6 @@ https://github.com/calmisential/Basic_CNNs_TensorFlow2
 
 Multi-Task Learning package built with tensorflow 2 (Multi-Gate Mixture of Experts, Cross-Stitch, Ucertainty Weighting)
 https://github.com/AmazaspShumik/mtlearn
+
+(TensorFlow)深度网络可视化技术教程
+https://github.com/1202kbs/Understanding-NN

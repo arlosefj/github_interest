@@ -71,3 +71,6 @@ https://github.com/monpa-team/monpa
 
 收集NLP领域相关的数据集、论文、开源实现，尤其是情感分析、情绪原因识别、评价对象和评价词抽取方面
 https://github.com/haiker2011/awesome-nlp-sentiment-analysis
+
+GPT2-Chinese - 中文的GPT2模型训练代码，基于Pytorch-Transformers，可以写诗，写新闻，写小说，或是训练通用语言模型等'
+https://github.com/Morizeyao/GPT2-Chinese

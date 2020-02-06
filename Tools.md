@@ -37,6 +37,15 @@ https://github.com/Chyroc/WechatSogou
 nvidia-smi输出强化工具
 https://github.com/peci1/nvidia-htop
 
+### 寓教于乐，用玩游戏的方式学习 Git！
+https://mp.weixin.qq.com/s/JR7a6Cu0zUccggLvq2-txQ
+
+Davinci：数据可视化即服务(DVsaaS)平台解决方案
+https://github.com/edp963/davinci
+
+### 一款免费开源的 Linux 系统性能实时监控工具。它易于安装、占用资源少、功能强大，支持监控多种服务
+https://github.com/netdata/netdata
+
 网页版SSH客户端
 https://github.com/huashengdun/webssh
 
@@ -51,6 +60,9 @@ https://github.com/Microsoft/SandDance
 
 OneDev：超简单的一体化DevOps平台
 https://github.com/theonedev/onedev
+
+### 将带有Markdown注释的Python代码转换为配有说明和插图的文档(可代替Jupyter notebooks的另一种代码分发方式)
+https://github.com/danijar/handout
 
 ### 推荐一款能将 Markdown 文档转成高大上 PPT 的开源工具，支持图表、流程图、数学符号、自定义主题配色以及样式等等。
 https://github.com/ksky521/nodeppt

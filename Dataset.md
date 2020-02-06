@@ -13,8 +13,26 @@ https://europe.naverlabs.com/blog/announcing-virtual-kitti-2/
 http://tacodataset.org/
 https://github.com/pedropro/TACO
 
+面向场景解构/表示学习的多目标数据集
+https://github.com/deepmind/multi_object_datasets
+
+V3C1 视频检索数据集
+https://github.com/klschoef/V3C1Analysis/blob/master/README.md
+
 LVIS：长尾目标实例分割数据集
 https://github.com/lvis-dataset/lvis-api
+
+医疗(图像)数据集大列表
+https://github.com/adalca/medical-datasets
+
+目标姿态检测数据集与渲染方法
+https://github.com/YoungXIAO13/ObjectPoseEstimationSummary
+
+水果/蔬菜图像数据集
+https://github.com/Horea94/Fruit-Images-Dataset
+
+推荐一些数据集
+https://mp.weixin.qq.com/s/kJCrCFnc3EyEhM_2-xbWDQ
 
 ### 大规模中英文数据集VATEX
 http://vatex.org/main/index.html

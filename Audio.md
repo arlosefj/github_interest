@@ -7,8 +7,14 @@ https://github.com/facebookresearch/wav2letter
 轻量语音识别解码框架
 https://github.com/robin1001/xdecoder
 
+Landmark音频指纹
+https://github.com/dpwe/audfprint
+
 (语音)说话人分割相关资源大列表
 https://github.com/wq2012/awesome-diarization
+
+Audio samples from ICML2019 "Almost Unsupervised Text to Speech and Automatic Speech Recognition"
+https://github.com/SpeechResearch/speechresearch.github.io
 
 (PyTorch)Seq2Seq普通话Transformer语音识别
 https://github.com/ZhengkunTian/Speech-Tranformer-Pytorch
@@ -21,6 +27,12 @@ https://github.com/jordipons/musiCNN
 
 End-to-End Automatic Speech Recognition on PyTorch
 https://github.com/gentaiscool/end2end-asr-pytorch
+
+(Pytorch)音源分离语音信号提取
+https://github.com/AppleHolic/source_separation
+
+Code and models for evaluating a state-of-the-art lip reading network
+https://github.com/afourast/deep_lip_reading
 
 ### 声音模仿秀：5秒钟实时克隆任意语音
 https://github.com/CorentinJ/Real-Time-Voice-Cloning

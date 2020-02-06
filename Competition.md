@@ -41,6 +41,9 @@ https://github.com/zhanzecheng/SOHU_competition
 一个深度学习新手团队是如何拿到kaggle比赛第三名的(用fast.ai分类油棕种植园图像)
 https://towardsdatascience.com/how-a-team-of-deep-learning-newbies-came-3rd-place-in-a-kaggle-contest-644adcc143c8
 
+Kaggle入门实战
+https://www.bilibili.com/video/av66097664/
+
 2019 Google 地标检索比赛第一名、第三名方案
 https://arxiv.org/abs/1906.04087
 https://github.com/lyakaap/Landmark2019-1st-and-3rd-Place-Solution

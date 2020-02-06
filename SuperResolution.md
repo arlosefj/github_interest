@@ -57,3 +57,6 @@ https://github.com/YapengTian/TDAN_VSR
 
 Second-order Attention Network for Single Image Super-resolution (CVPR-2019)
 https://github.com/daitao/SAN
+
+MMSR：基于PyTorch的图像/视频超分辨率工具箱
+https://github.com/open-mmlab/mmsr

@@ -4,11 +4,23 @@ https://github.com/PengyiZhang/SlimYOLOv3
 Object Detection in 20 Years: A Survey
 https://arxiv.org/abs/1905.05055
 
+Recent Advances in Deep Learning for Object Detection
+https://www.arxiv-vanity.com/papers/1908.03673/
+
+基于深度学习的目标检测最新进展（2013-2019）
+https://mp.weixin.qq.com/s/T6qeaj2K-rfZA7yrkWrhhA
+
 * pytorch version of SSD and it's enhanced methods such as RFBSSD,FSSD and RefineDet
 https://github.com/lzx1413/PytorchSSD
 
 * Single Shot Tracker
 https://github.com/shijieS/SST
+
+A higher performance PyTorch implementation of Single-Shot Refinement Neural Network for Object Detection
+https://github.com/luuuyi/RefineDet.PyTorch
+
+### PyTorch实现的DenseBox多任务学习目标检测/关键点定位
+https://github.com/CaptainEven/DenseBox
 
 Learning Lightweight Lane Detection CNNs by Self Attention Distillation
 https://github.com/cardwing/Codes-for-Lane-Detection

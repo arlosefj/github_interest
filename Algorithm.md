@@ -10,6 +10,18 @@ https://github.com/luliyucoordinate/Leetcode
 算法和编程面试题精选TOP50！(附代码+解题思路+答案)
 https://mp.weixin.qq.com/s/ABSgO36dGLa1_d5daN2c8A
 
+面试官最喜爱的TopK问题算法详解
+https://zhuanlan.zhihu.com/p/76734219
+
+峰值检测算法Python实现
+https://github.com/MonsieurV/py-findpeaks
+
+如何用一行代码解决约瑟夫环问题
+https://mp.weixin.qq.com/s/xBiQHKdSop1HzKTF7EVhCQ
+
+算法面试中的趣味题目（附答案分享）
+https://mp.weixin.qq.com/s/m93dlWkikxuxY4PnwVYwow
+
 算法/深度学习/NLP面试笔记 - 2018/2019/校招/春招/秋招/自然语言处理(NLP)/深度学习(Deep Learning)/机器学习(Machine Learning)/C/C++/Python/面试笔记
 https://github.com/DarLiner/Algorithm_Interview_Notes-Chinese
 

@@ -101,6 +101,9 @@ https://github.com/jesseduffield/lazydocker
 Easy Scheduler - 分布式工作流任务调度系统'
 https://github.com/analysys/EasyScheduler
 
+用 Python 语言开发的开源容器集群管理平台。在离线网络环境下通过可视化 Web UI 在 VMware、Openstack 或者物理机上规划、部署和管理生产级别的 Kubernetes 集群
+https://github.com/KubeOperator/KubeOperator
+
 Kubernetes从入门到实战指南
 https://github.com/collabnix/kubelabs
 

@@ -49,8 +49,23 @@ https://github.com/natasha/ipyannotate
 Anafora：网页版文本标注工具
 https://github.com/weitechen/anafora
 
+FoLiA：WEB版文本标注工具
+https://github.com/proycon/flat
+
+数据标注、标注管理等工具大列表
+https://github.com/taivop/awesome-data-annotation
+
+计算机视觉最佳开源标注工具
+https://www.sicara.ai/blog/2019-09-01-top-five-open-source-annotation-tools-computer-vision
+
 makesense.ai：免费在线图片标记工具
 https://github.com/SkalskiP/make-sense
+
+### 数据标注工具大列表
+https://github.com/heartexlabs/awesome-data-labeling
+
+通用实体标注基准框架
+https://github.com/dice-group/gerbil
 
 ### AlpacaTag：基于主动学习的众包序列标注框架
 https://github.com/INK-USC/AlpacaTag

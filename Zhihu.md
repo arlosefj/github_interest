@@ -87,6 +87,9 @@ https://www.zhihu.com/question/52815813
 论文成功发表的科研人员，应该拥有哪些良好写作习惯？ - 知乎
 https://www.zhihu.com/question/38059861
 
+你见过哪些厉害的商业思维？
+https://wx4.sinaimg.cn/mw690/6df5b9ddly1g6nl2vpdgrj20j68qi4qp.jpg
+
 
 有哪些让你极力想推荐，庆幸读到的好书？ - 知乎
 https://www.zhihu.com/question/39474276

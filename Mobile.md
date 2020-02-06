@@ -40,6 +40,15 @@ https://github.com/XiaoMi/mobile-ai-bench
 移动设备高性能实时网络/语义分割文献资源列表
 https://github.com/wpf535236337/real-time-network
 
+用 Swift 从头开始搭建/训练 XResNet
+https://nbviewer.jupyter.org/github/jamesdellinger/fastai_deep_learning_course_part2_v3/blob/master/13_swift_resnet_pipeline_s4tf_v04_my_reimplementation.ipynb?flush_cache=true
+
+### 一款可以用电脑显示并控制 Android 手机的开源工具。连接方便使用方便，手机无需 root、无需安装任何应用。支持 USB、Wi-Fi 两种方式连接，支持 Windows、macOS、Linux 三种操作系统。注意电脑端需要安装 adb 工具
+https://github.com/Genymobile/scrcpy
+
+SwiftAI - Swift for TensorFlow's high-level API, modeled after fastai
+https://github.com/fastai/swiftai
+
 ### AidLearning：安卓平台上的Linux+Anroid+AI+Python四合一环境，支持主流深度学习框架和图形界面开发，旧手机、旧平板可以翻出来搞一下
 https://github.com/aidlearning/AidLearning-FrameWork
 

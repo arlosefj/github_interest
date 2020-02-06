@@ -23,6 +23,9 @@ https://github.com/AnnaAraslanova/FBNet
 Caffe implementation of "Hybrid-Attention based Decoupled Metric Learning for Zero-Shot Image Retrieval"
 https://github.com/chenbinghui1/Hybrid-Attention-based-Decoupled-Metric-Learning
 
+Holocron - PyTorch implementations of recent Computer Vision tricks
+https://github.com/frgfm/Holocron
+
 Official Implementation of 'Fast AutoAugment' in PyTorch.
 https://github.com/KakaoBrain/fast-autoaugment
 

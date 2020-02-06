@@ -16,6 +16,7 @@ https://towardsdatascience.com/10-lessons-learned-from-participating-to-google-a
 技术面试常见问题/解答集锦
 https://github.com/FAQGURU/FAQGURU
 
+
 超有用总结：AI实践者需要用到的10个深度学习方法
 https://bigquant.com/community/t/topic/125367?suanfazu&181210&L1
 

@@ -90,11 +90,41 @@ https://github.com/kiselev1189/insightface-just-works
 PyTorch实现的deepfake高分辨率换脸
 https://github.com/jinfagang/faceswap_pytorch
 
+腾讯优图的双分支人脸检测器全新算法，该算法已经被计算机视觉顶级会议 CVPR 2019 接收。
+https://github.com/TencentYoutuResearch/FaceDetection-DSFD
+
+SeetaFace2：C++ 开发的人脸识别引擎
+https://github.com/seetafaceengine/SeetaFace2
+
+PyTorch复现的RetinaFace
+https://github.com/supernotman/RetinaFace_Pytorch
+
+(PyTorch)基于modified BiSeNet的人脸解析
+https://github.com/zllrunning/face-parsing.PyTorch
+
+### 在 Colab 里训练 DeepFaceLab 换脸
+https://github.com/chervonij/DFL-Colab
+
+DeepFaceLab：基于深度学习的图像/视频人脸识别/替换(换脸)
+https://github.com/iperov/DeepFaceLab
+
+1MB 大小的轻量级人脸检测模型。该模型是针对边缘计算设备，基于 libfacedetection 替换压缩网络设计实现
+https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB
+
 实时表情识别
 https://github.com/omar178/Emotion-recognition
 
 Slim-CNN: A Light-Weight CNN for Face Attribute Prediction
 https://arxiv.org/abs/1907.02157
+
+### 基于 MXNet C++ 框架的 CPU 实时人脸识别 pipeline
+https://github.com/njvisionpower/mxnet-insightface-cpp
+
+Official test script for 2019 BMVC paper 'One-shot Face Reenactment' in PyTorch.
+https://github.com/bj80heyue/One_Shot_Face_Reenactment
+
+Face Aging with Identity-Preserved Conditional Generative Adversarial Networks
+https://github.com/dawei6875797/Face-Aging-with-Identity-Preserved-Conditional-Generative-Adversarial-Networks
 
 Face and Image Super-resolution
 https://github.com/jingyang2017/Face-and-Image-super-resolution

@@ -8,6 +8,24 @@ https://blog.stratospark.com/generating-synthetic-data-image-segmentation-unity-
 ### SynthText3D: Synthesizing Scene Text Images from 3D Virtual Worlds
 https://github.com/MhLiao/SynthText3D 1907.06007
 
+克服自然场景视频理解的大规模标注需求
+https://github.com/cmhungsteve/TA3N
+
+### Image Synthesis From Reconfigurable Layout and Style
+https://github.com/iVMCL/LostGANs
+
+Diverse Image Synthesis from Semantic Layouts via Conditional IMLE
+https://github.com/zth667/Diverse-Image-Synthesis-from-Semantic-Layout
+
+OpenRefine：用于处理、改善杂乱数据的强大开源工具
+https://github.com/OpenRefine/OpenRefine
+
+Photo-Realistic Facial Details Synthesis from Single Image 
+https://github.com/apchenstu/Facial_Details_Synthesis
+
+PyTorch implementation of AutoAugment.
+https://github.com/4uiiurz1/pytorch-auto-augment
+
 Unofficial PyTorch Implementation of Unsupervised Data Augmentation.
 https://github.com/ildoonet/unsupervised-data-augmentation
 

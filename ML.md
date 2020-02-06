@@ -4,9 +4,14 @@ https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascienc
 以最简单的机器学习算法逻辑回归为例，介绍底层C++实现，以及高层Python调用
 https://github.com/wepe/dive-into-ml-system
 
+一起捋一捋机器学习分类算法
+https://mp.weixin.qq.com/s/hN73sdADY--LnUh7Bo9G5Q
+
 ### (Python)白手起家机器学习
 https://github.com/eriklindernoren/ML-From-Scratch
 从头开始实现基本机器学习模型和算法，目的不是实现尽可能优化和高效的算法，而是以透明和可理解的方式呈现算法的内部工作方式。
+
+
 
 ### CausalNex：(Python)贝叶斯网络因果推理工具包
 https://github.com/quantumblacklabs/causalnex
@@ -14,14 +19,32 @@ https://github.com/quantumblacklabs/causalnex
 《百面机器学习算法工程师带你去面试》（附PDF下载链接）
 https://bigquant.com/community/t/topic/161842
 
+2000字带有详细公式地总结：朴素和半朴素贝叶斯
+https://mp.weixin.qq.com/s/sk6LlPJQgl6Ysu6SAMvnkw
+
+10种常用降维算法源代码(python)
+https://github.com/heucoder/dimensionality_reduction_alo_codes
+
 将深度神经网络中的一些模型 进行统一的图示，便于大家对模型的理解
 https://github.com/weslynn/AlphaTree-graphic-deep-neural-network
 
 适用于Linux，Windows和Mac上ONNX格式的机器学习模型的高性能推理引擎。
 https://github.com/microsoft/onnxruntime
 
+将SVM讲解的很详细的一篇文章
+https://zhuanlan.zhihu.com/p/77750026
+
 机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归
 https://github.com/Jack-Cherish/Machine-Learning
+
+机器学习版本控制/Pipeline管理教程
+https://github.com/peopledoc/mlv-tools-tutorial
+
+机器学习产品化(部署/监控/版本管理与扩展/保护)相关开源资源大列表
+https://github.com/EthicalML/awesome-production-machine-learning
+
+带图形界面的机器学习分布式DAG框架
+https://github.com/catalyst-team/mlcomp
 
 Kaggle 项目实战（教程） = 文档 + 代码 + 视频
 https://github.com/apachecn/kaggle

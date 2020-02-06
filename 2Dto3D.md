@@ -10,6 +10,9 @@ https://github.com/lyndonzheng/Synthetic2Realistic
 PyTorch无监督单目深度估计
 https://github.com/ClubAI/MonoDepth-PyTorch
 
+A collection of segmentation methods working on depth images
+https://github.com/ethz-asl/depth_segmentation
+
 正交特征变换单目三维目标检测
 https://github.com/tom-roddick/oft
 
@@ -21,6 +24,15 @@ https://github.com/MichaelRamamonjisoa/SharpNet
 
 What Do Single-view 3D Reconstruction Networks Learn?
 https://github.com/lmb-freiburg/what3d
+
+UprightNet: Geometry-Aware Camera Orientation Estimation from Single Images
+https://arxiv.org/abs/1908.07070
+
+A customized implementation of the paper "StereoNet: guided hierarchical refinement for real-time edge-aware depth prediction"
+https://github.com/zhixuanli/StereoNet
+
+### Tensorflow implementation of Semi-Supervised Monocular Depth Estimation with Left-Right Consistency Using Deep Neural Network.
+https://github.com/a-jahani/semiDepth
 
 ### Code for the CVPR 2019 paper "Learning Single-Image Depth from Videos using Quality Assessment Networks"
 https://github.com/princeton-vl/YouTube3D

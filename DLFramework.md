@@ -11,6 +11,9 @@ https://github.com/cgnorthcutt/cleanlab
 ONNX模型转换工具，目前已支持Keras, CoreML, LightGBM, Scikit-Learn
 https://github.com/onnx/onnxmltools
 
+### OpenCV的OpenVINO训练扩展，基于PyTorch的神经网络压缩(模型压缩)框架
+https://github.com/opencv/openvino_training_extensions/tree/develop/pytorch_toolkit/nncf
+
 BytePS：支持TensorFlow, Keras, PyTorch, MXNet的通用高性能训练框架
 https://github.com/bytedance/byteps
 

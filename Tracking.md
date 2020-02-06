@@ -17,6 +17,13 @@ https://github.com/bychen515/ACT
 Deep Regression Tracking with Shrinkage Loss
 https://github.com/chaoma99/DSLT
 
+
+Self-supervised Learning for Video Correspondence Flow
+https://github.com/zlai0/CorrFlow
+
+深度学习目标检测/多目标跟踪
+https://github.com/adipandas/multi-object-tracker
+
 ### Learning the Model Update for Siamese Trackers (ICCV 2019)
 https://github.com/zhanglichao/updatenet
 
