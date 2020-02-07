@@ -60,3 +60,6 @@ https://github.com/daitao/SAN
 
 MMSR：基于PyTorch的图像/视频超分辨率工具箱
 https://github.com/open-mmlab/mmsr
+
+EDSR/WDSR/SRGAN单张图片超分辨率Tensorflow 2.0参考实现
+https://github.com/krasserm/super-resolution

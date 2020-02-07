@@ -14,6 +14,9 @@ https://github.com/cmhungsteve/TA3N
 ### Image Synthesis From Reconfigurable Layout and Style
 https://github.com/iVMCL/LostGANs
 
+### Specifying Object Attributes and Relations in Interactive Scene Generation
+https://github.com/ashual/scene_generation
+
 Diverse Image Synthesis from Semantic Layouts via Conditional IMLE
 https://github.com/zth667/Diverse-Image-Synthesis-from-Semantic-Layout
 

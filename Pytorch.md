@@ -238,6 +238,9 @@ https://github.com/bonlime/pytorch-tools
 PyTorch 实现的神经网络量化算法集
 https://github.com/Enderdead/Pytorch_Quantize_impls
 
+PyProf: PyTorch Profiling tool
+https://github.com/adityaiitb/pyprof2
+
 ### PyTorch + PySyft 加密训练实战(MNIST)
 https://blog.openmined.org/encrypted-training-on-mnist/
 
@@ -246,6 +249,9 @@ https://weibo.com/tv/v/I1ZEC6h6n?fid=1034:4404753053200068
 
 ### 一个包含计算机视觉、自然语言处理领域的诸多经典模型的聚合中心。这年头有很多 Hub，什么 GitHub、SciHub、xxxxHub 等等，但是最近图灵奖得主 Yann LeCun 强推的 PyTorch-Hub。无论是 ResNet、BERT、GPT、VGG、PGAN 还是 MobileNet 等经典模型，只需输入一行代码，都能实现一键调用！
 https://github.com/pytorch/hub
+
+### 《动手学深度学习》（Dive into Deep Learning）原书中的 MXNet 代码实现改为 PyTorch 实现
+https://github.com/ShusenTang/Dive-into-DL-PyTorch
 
 一个包含基础教程、提高参考资料、有趣实践项目的 PyTorch 教程
 https://github.com/Eurus-Holmes/LIS-YNP

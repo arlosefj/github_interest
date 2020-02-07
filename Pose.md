@@ -40,6 +40,9 @@ https://github.com/edvardHua/PoseEstimationForMobile
 CrossInfoNet of CVPR 2019 for hand pose estimation
 https://github.com/dumyy/handpose
 
+FreiHAND数据集：单RGB图像手部姿态、形状估计
+https://github.com/lmb-freiburg/freihand
+
 Code to evaluate model of paper "Cross-modal Deep Variational Hand Pose Estimation" 
 https://github.com/spurra/vae-hands-3d
 

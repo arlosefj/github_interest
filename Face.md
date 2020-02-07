@@ -99,6 +99,9 @@ https://github.com/seetafaceengine/SeetaFace2
 PyTorch复现的RetinaFace
 https://github.com/supernotman/RetinaFace_Pytorch
 
+【简单实现的人脸检测/对齐】’Peppa_Pig_Face_Engine - A simple face detect and aligment method, it is easy and stable' 
+https://github.com/610265158/Peppa_Pig_Face_Engine
+
 (PyTorch)基于modified BiSeNet的人脸解析
 https://github.com/zllrunning/face-parsing.PyTorch
 

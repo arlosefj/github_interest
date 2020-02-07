@@ -60,6 +60,9 @@ https://github.com/thunlp/OpenCLaP
 BERT模型从训练到部署'
 https://github.com/xmxoxo/BERT-train2deploy
 
+DeepPavlov：用于构建端到端对话系统/训练聊天机器人的开源库
+https://github.com/deepmipt/DeepPavlov
+
 加速版结巴分词
 https://github.com/deepcs233/jieba_fast
 

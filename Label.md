@@ -52,6 +52,12 @@ https://github.com/weitechen/anafora
 FoLiA：WEB版文本标注工具
 https://github.com/proycon/flat
 
+Poplar：网页版自然语言标注工具
+https://github.com/synyi/poplar
+
+### dataset_labeling - 图片简易标注工具，标注类似ICDAR数据集，支持多边形标注，文本标注，方便OCR数据集标注
+https://github.com/jayney/dataset_labeling
+
 数据标注、标注管理等工具大列表
 https://github.com/taivop/awesome-data-annotation
 

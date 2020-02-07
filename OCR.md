@@ -16,11 +16,17 @@ https://github.com/s3nh/text-detector
 ICDAR 2019自由字型文本识别竞赛第一名方案
 https://github.com/Jyouhou/ICDAR2019-ArT-Recognition-Alchemy
 
+### tr - Offline OCR - 针对扫描文档的离线文本识别SDK，核心代码全部采用C++开发，并提供Python接口
+https://github.com/myhub/tr
+
 ### Page to PAGE Layout Analysis Tool
 https://github.com/lquirosd/P2PaLA
 
 面向文本定位与识别的合成数据/OCR数据集列表
 https://github.com/TianzhongSong/awesome-SynthText
+
+### 【文档图像自适应二值化】’robin - RObust document image BINarization' 
+https://github.com/masyagin1998/robin
 
 ### 文档分类和OCR关键值提取
 https://github.com/ikivanc/Document-Classification-and-Post-OCR-Key-Value-Extraction

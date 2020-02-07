@@ -76,6 +76,9 @@ https://github.com/emreaksan/stcn
 PyTorch实现的C3D, R3D, R2Plus1D视频行为识别
 https://github.com/jfzhang95/pytorch-video-recognition
 
+Resources about activity recognition-行为识别资料汇总’
+https://github.com/jindongwang/activityrecognition
+
 Code and models for our CVPR'19 paper "Representation Flow for Action Recognition" 
 https://github.com/piergiaj/representation-flow-cvpr19
 

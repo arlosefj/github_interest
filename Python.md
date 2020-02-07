@@ -240,6 +240,9 @@ https://zhuanlan.zhihu.com/p/72177799
 基于PySnooper的一组强大的Python调试工具
 https://github.com/alexmojaki/snoop
 
+用好Jupyter Notebooks的四大技巧
+https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2F4-awesome-tips-for-enhancing-jupyter-notebooks-4d8905f926c5
+
 统计分析数据强化的 ggplot2 图表
 https://github.com/IndrajeetPatil/ggstatsplot
 

@@ -16,6 +16,12 @@ https://github.com/lzx1413/PytorchSSD
 * Single Shot Tracker
 https://github.com/shijieS/SST
 
+【5大目标检测挑战与解决方案】《5 Significant Object Detection Challenges and Solutions》
+https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2F5-significant-object-detection-challenges-and-solutions-924cb09de9dd
+
+卫星图像快速目标检测
+https://github.com/CosmiQ/simrdwn
+
 A higher performance PyTorch implementation of Single-Shot Refinement Neural Network for Object Detection
 https://github.com/luuuyi/RefineDet.PyTorch
 

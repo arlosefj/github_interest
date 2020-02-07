@@ -37,6 +37,9 @@ https://github.com/Chyroc/WechatSogou
 nvidia-smi输出强化工具
 https://github.com/peci1/nvidia-htop
 
+PDFPlumber：从PDF文件提取文字和表格的Python库
+https://github.com/jsvine/pdfplumber
+
 ### 寓教于乐，用玩游戏的方式学习 Git！
 https://mp.weixin.qq.com/s/JR7a6Cu0zUccggLvq2-txQ
 
@@ -119,11 +122,17 @@ https://github.com/NaoTu/DesktopNaotu
 把命令行操作过程录制成gif
 https://github.com/faressoft/terminalizer
 
+### 【yeetgif：命令行gif动画制作工具】’yeetgif - gif effects CLI. single binary, no dependencies. linux, osx, windows' 
+https://github.com/sgreben/yeetgif
+
 中华新华字典数据库。包括歇后语，成语，汉字。提供新华字典API
 https://github.com/pwxcoo/chinese-xinhua
 
 对大量pdf文档模糊搜索的命令行工具
 https://github.com/bellecp/fast-p
+
+实用的“全面升级”工具
+https://github.com/r-darwish/topgrade
 
 Wizard是基于Laravel开发框架开发的一款开源项目（API）文档管理工具。 
 https://github.com/mylxsw/wizard

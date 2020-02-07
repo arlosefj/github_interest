@@ -4,6 +4,9 @@ https://github.com/tensorflow/models/tree/master/research/struct2depth
 DeepTAM: Deep Tracking and Mapping
 https://github.com/lmb-freiburg/deeptam
 
+深度学习深度估计研究指南
+https://pan.baidu.com/s/1RhORsmInOk1ZEmOKuUeybw
+
 (PyTorch)合成-现实(Synthetic-to-Realistic)转换深度估计
 https://github.com/lyndonzheng/Synthetic2Realistic
 

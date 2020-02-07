@@ -32,6 +32,9 @@ https://arxiv.org/abs/1804.07723
 Deep Fusion Network for Image completion
 https://github.com/hughplay/DFNet
 
+An Internal Learning Approach to Video Inpainting
+https://arxiv.org/abs/1909.07957
+
 ### 从视频里“擦除”框选的目标
 https://github.com/zllrunning/video-object-removal
 

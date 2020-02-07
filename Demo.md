@@ -13,6 +13,15 @@ https://github.com/SupreethN/Hand-CNN
 DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better
 https://github.com/TAMU-VITA/DeblurGANv2
 
+Mobilenet-SSD License Plate Detection & Recognition - 基于mobilenet-ssd车牌检测,全新模型仅3.4MB.
+https://github.com/zeusees/Mobilenet-SSD-License-Plate-Detection
+
+(Pytorch)面向行为识别和目标检测的视频平台
+https://github.com/MichiganCOG/ViP
+
+### 云端Mail.ru如何实现地标识别
+https://medium.com/@andrei.boiarov/how-we-made-landmark-recognition-in-cloud-mail-ru-and-why-715b5f72e6d4
+
 用 FastAPI + Uvicorn 快速部署机器学习模型
 https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fhow-to-deploy-a-machine-learning-model-dc51200fe8cf
 
@@ -34,12 +43,18 @@ https://towardsdatascience.com/deploying-a-machine-learning-model-as-a-rest-api-
 fullstack.ai：端到端的机器学习项目全程实例，展示了从开发到部署的真实机器学习驱动应用开发的关键环节
 https://github.com/xadrianzetx/fullstack.ai
 
+深度学习web应用：从数据采集到应用部署
+https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fdeep-learning-based-web-application-from-data-collection-to-deployment-9e89f29b67df
+
 ## Basic DL&ML
 (Colab)深度学习神经网络手把手实例入门
 https://colab.research.google.com/drive/1VdwQq8JJsonfT4SV0pfXKZ1vsoNvvxcH#scrollTo=V8Vq_6Q3zivl
 
 如何学习SVM（支持向量机）以及改进实现SVM算法程序？
 https://mp.weixin.qq.com/s/HewogcuiDhemMGagvwGXEA
+
+卷积神经网络详解
+https://github.com/ss-is-master-chief/MNIST-Digit.Recognizer-CNNs
 
 用 Pytorch 理解卷积网络
 https://builtin.com/data-science/convolutional-neural-networks-explained
@@ -153,9 +168,23 @@ https://github.com/Yorko/mlcourse.ai
 机器学习领域经典书籍《统计学习方法》的课件和代码。这个项目提供了课件、代码资源，叙述从具体问题或实例入手，由浅入深，阐明思路，给出必要的数学推导，便于读者掌握统计学习方法的实质，学会运用
 https://github.com/fengdu78/lihang-code
 
+使用Python进行机器学习的假设检验
+https://mp.weixin.qq.com/s/iC6I66_bBEHlnwZMEZsN_Q
+
+几行代码可视化深度学习模型激活图
+https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Factivation-maps-for-deep-learning-models-in-a-few-lines-of-code-ed9ced1e8d21
+
+图像分类任务中的损失
+https://medium.com/@lightsanweb/losses-in-image-classification-task-7401a8348927
+
+
 ## Teach
 如何用简单易懂的例子解释隐马尔可夫模型？
 https://www.zhihu.com/question/20962240/answer/33438846
+
+上手实战：Jupyter Notebook安装与机器学习起步
+https://pan.baidu.com/s/1ebTJkBKtlHk55OHy3ysO1g
+https://medium.com/installation-of-jupyter-notebook-and-getting/installation-of-jupyter-notebook-getting-started-with-machine-learning-7443a5e09309
 
 图像迷你实验室，可进行图像实验、处理、分析。使用 PyQt5 结合 opencv-python 实现代码简洁易读，通过该工具可以快速演示图像算法效果，便于 cv 入门学习
 https://github.com/itisyang/ImageMiniLab
@@ -168,6 +197,9 @@ https://github.com/ageitgey/face_recognition
 
 《 解析卷积神经网络 ——深度学习实践手册》
 https://bigquant.com/community/t/topic/161186
+
+机器学习超级笔记：基本概念、算法、流行模型等
+https://createmomo.github.io/2018/01/23/Super-Machine-Learning-Revision-Notes/#tableofcontents
 
 神经网络不起作用的37个理由
 https://mp.weixin.qq.com/s/WX_4wEIX8JWdsJQNdkLkJw
@@ -186,3 +218,8 @@ https://github.com/PyMLVizard/PyMLViz
 CVPR 2019 计算机视觉最新趋势
 https://towardsdatascience.com/latest-computer-vision-trends-from-cvpr-2019-c07806dd570b
 
+深度学习应用思路分享
+https://github.com/sladesha/deep_learning
+
+如何向投资人和客户展示你的产品
+https://medium.com/@oyper/how-to-present-your-product-to-investors-and-customers-7b4974b03fbf

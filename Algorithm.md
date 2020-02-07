@@ -7,6 +7,9 @@ https://github.com/algorithm-visualizer/algorithm-visualizer
 C/C++ /Python/Go/JS/Java多语言LeetCode解题参考
 https://github.com/luliyucoordinate/Leetcode
 
+### 提供的动画效果能让你更好的理解与吸收算法知识。
+https://mp.weixin.qq.com/s/fIRW0z-AMwFwsvC8hvYnYg
+
 算法和编程面试题精选TOP50！(附代码+解题思路+答案)
 https://mp.weixin.qq.com/s/ABSgO36dGLa1_d5daN2c8A
 
@@ -111,3 +114,9 @@ https://github.com/TheAlgorithms/Python
 
  Daily-Interview-Question 每天一道前端大厂面试题，让你时刻保持危机感，不断精进自己的技能
  https://github.com/Advanced-Frontend/Daily-Interview-Question
+
+【AI 落地思考集】’Shift AI models to real world products' 
+https://lonelygo.gitbook.io/shift-ai-models-to-real-world-products/
+
+算法工程师面试题整理'
+https://github.com/PPshrimpGo/AIinterview

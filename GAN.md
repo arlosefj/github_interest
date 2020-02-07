@@ -14,6 +14,13 @@ https://github.com/TAMU-VITA/AutoGAN
 DCGAN LSGAN WGAN-GP DRAGAN PyTorch
 https://github.com/LynnHo/DCGAN-LSGAN-WGAN-GP-DRAGAN-Pytorch
 
+用GAN实现人脸渐变
+https://www.bilibili.com/video/av67800453/
+https://drive.google.com/drive/folders/1LBWcmnUPoHDeaYlRiHokGyjywIdyhAQb?usp=drive_open
+
+MetalGAN: a Cluster-based Adaptive Training for Few-Shot Adversarial Colorization
+https://arxiv.org/abs/1909.07654
+
 对抗生成网络(GANs)：从理解到实践(生成手写数字)
 https://towardsdatascience.com/graduating-in-gans-going-from-understanding-generative-adversarial-networks-to-running-your-own-39804c283399
 

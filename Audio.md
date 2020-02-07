@@ -7,8 +7,17 @@ https://github.com/facebookresearch/wav2letter
 轻量语音识别解码框架
 https://github.com/robin1001/xdecoder
 
+Espresso：快速端到端神经网络语音识别工具集
+https://github.com/freewym/espresso
+
 Landmark音频指纹
 https://github.com/dpwe/audfprint
+
+基于Kaldi/Tensorflow的神经网络说话人识别/鉴别系统
+https://github.com/mycrazycracy/tf-kaldi-speaker
+
+【PyTorch语音识别框架】’patter - speech-to-text framework in PyTorch with initial support for the DeepSpeech2 architecture 
+https://github.com/ryanleary/patter
 
 (语音)说话人分割相关资源大列表
 https://github.com/wq2012/awesome-diarization
