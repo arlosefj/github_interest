@@ -96,6 +96,33 @@ https://github.com/TencentYoutuResearch/FaceDetection-DSFD
 SeetaFace2：C++ 开发的人脸识别引擎
 https://github.com/seetafaceengine/SeetaFace2
 
+【带有关键点检测的超轻量级人脸检测器】’Face-Detector-1MB-with-landmark - 1M人脸检测模型(含关键点)' 
+https://github.com/biubug6/Face-Detector-1MB-with-landmark
+
+【PyTorch 移植版 InsightFace】’Pytorch InsightFace - Pretrained insightface models ported to pytorch' 
+https://github.com/nizhib/pytorch-insightface
+
+### '基于mtcnn人脸检测+onet人脸跟踪（光流跟踪）'
+https://github.com/xiangdeyizhang/FaceTrack_ncnn_HyperFT
+
+Real-world attack on MTCNN face detection system
+https://github.com/edosedgar/mtcnnattack
+
+### '基于人脸关键区域提取的人脸识别(LFW:99.82%+ CFP_FP:98.50%+ AgeDB30:98.25%+)’ 
+https://github.com/bleakie/MaskInsightface
+
+CenterFace：实用的边缘设备无锚人脸检测器
+https://github.com/Star-Clouds/centerface
+
+Keras人脸分析工具箱
+https://github.com/shaoanlu/face_toolbox_keras
+
+RetinaFace C++ Reimplement - Reimplement RetinaFace use C++ and TensorRT' 
+https://github.com/clancylian/retinaface
+
+'Ultra-Light-Fast-Generic-Face-Detector-1MB - 一款超轻量级通用人脸检测模型（模型文件大小仅1MB，320x240输入下计算量仅90MFlops）适用于边缘计算设备、低算力设备以及PC'
+https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB
+
 PyTorch复现的RetinaFace
 https://github.com/supernotman/RetinaFace_Pytorch
 
@@ -228,3 +255,13 @@ https://github.com/foamliu/InsightFace-v2
 
 Hair detection, segmentation, and hairstyle classification in the wild
 https://github.com/UmarSpa/HairAnalysis
+
+
+### TensorRT-CenterNet - tensorrt5 , centernet , centerface' 
+https://github.com/CaoWGG/TensorRT-CenterNet
+
+照片批量“人脸裁剪”工具
+https://github.com/leblancfg/autocrop
+
+Photo Reality：P脸美女“照妖镜”】“Photo Reality” 
+https://github.com/PeterWang512/FALdetector

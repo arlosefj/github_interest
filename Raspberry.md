@@ -31,6 +31,9 @@ https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fmedium.freecodeca
 59美元的JeVois：微型四核ARM开源摄像头，可运行Linux、OpenCV、TF等
 http://jevois.org/
 
+【安卓设备/树莓派 TensorFlow Lite 目标检测全程指南】
+https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi
+
 ### 用 Python 和 OpenCV 识别扑克牌
 https://github.com/EdjeElectronics/OpenCV-Playing-Card-Detector
 

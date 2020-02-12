@@ -25,6 +25,15 @@ https://github.com/huangjianke/Gitter
 用Fritz在手机上训练、部署多种机器学习模型
 https://github.com/fritzlabs/fritz-models
 
+PyTorch iOS examples
+https://github.com/pytorch/ios-demo-app
+
+iPhone手机上的ESPNetv2实时语义分割
+https://github.com/sacmehta/ESPNetv2-COREML
+
+### PyTorch Mobile：部署到手机上的端到端PyTorch深度学习工作流
+https://pytorch.org/mobile/home/
+
 Mobile AI Compute Engine Model Zoo
 https://github.com/XiaoMi/mace-models
 

@@ -13,6 +13,29 @@ https://arxiv.org/abs/1907.02198
 CVPR 2019 论文开源项目合集
 https://github.com/amusi/CVPR2019-Code
 
+Unsupervised Doodling and Painting with Improved SPIRAL
+https://learning-to-paint.github.io/
+
+PyTorch可视化时尚分析开源工具箱
+https://github.com/open-mmlab/mmfashion
+
+Keras写的自驾系统
+https://github.com/littlemountainman/selfdrive
+
+【卷积网络图像质量评估】
+https://github.com/idealo/image-quality-assessment
+
+### 微软火箭视频分析平台：用于构建实时视频分析应用的人人可用高可扩展性软件栈，实现基于机器学习的对象检测和预警
+https://github.com/microsoft/Microsoft-Rocket-Video-Analytics-Platform
+
+### magePlay：图像处理快速原型应用
+https://github.com/cpvrlab/ImagePlay
+
+计算机视觉入门大全：基础概念、运行原理、应用案例详解』《An Introductory Guide to Computer Vision》
+https://mp.weixin.qq.com/s/uCzd5HPjSUBXGhgvhw_2Cw
+
+图像相关、距离和分析工具包
+https://github.com/CIRCL/douglas-quaid
 
 MoGA: Searching Beyond MobileNetV3
 https://github.com/xiaomi-automl/MoGA

@@ -63,3 +63,9 @@ https://github.com/open-mmlab/mmsr
 
 EDSR/WDSR/SRGAN单张图片超分辨率Tensorflow 2.0参考实现
 https://github.com/krasserm/super-resolution
+
+基于waifu2x/Anime4K的视频超分辨率工具
+https://github.com/k4yt3x/video2x
+
+【Fast-SRGAN 图像超分辨率】’Fast-SRGAN - A Single Image Super Resolution GAN that uses a mobile net architecture as a generator.' 
+https://github.com/HasnainRaz/Fast-SRGAN

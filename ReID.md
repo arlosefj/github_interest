@@ -31,6 +31,9 @@ https://github.com/bismex/Awesome-person-re-identification
 行人重识别数据集大列表
 https://github.com/NEU-Gou/awesome-reid-dataset
 
+### 'RepNet-Vehicle-ReID - Implementing RepNet(a two-stream multitask learning network) to do vehicle Re-identification, vehicle search(or vehicle match) with PyTorch 可用于车辆细粒度识别，车辆再识别，车辆匹配，车辆检索，RepNet/MDNet的一种PyTorch实现' 
+https://github.com/CaptainEven/RepNet-MDNet-VehicleReID
+
 Paper: "Bag of Tricks and A Strong Baseline for Deep Person Re-identification"[
 https://github.com/lulujianjie/person-reid-tiny-baseline
 

@@ -16,6 +16,9 @@ https://towardsdatascience.com/10-lessons-learned-from-participating-to-google-a
 技术面试常见问题/解答集锦
 https://github.com/FAQGURU/FAQGURU
 
+【构建实用深度学习系统得到的经验教训】
+https://www.slideshare.net/xamat/lessons-learned-from-building-practical-deep-learning-systems
+
 神经网络训练技巧：黑客视角
 https://blog.floydhub.com/training-neural-nets-a-hackers-perspective/
 

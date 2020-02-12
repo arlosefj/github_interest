@@ -76,6 +76,9 @@ https://github.com/guan-yuan/awesome-AutoML-and-Lightweight-Models
 用遗传算法搜索最优神经网络结构
 https://github.com/Tsdevendra1/NEAT-Algorithm
 
+(Keras)神经网络多标签分类
+https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fmulti-label-image-classification-with-neural-network-keras-ddc1ab1afede
+
 (PyTorch)从头开始实现 Transformers
 https://github.com/pbloem/former
 
@@ -100,8 +103,23 @@ https://github.com/Microsoft/nni/releases
 PyTorch implementation of "Searching for A Robust Neural Architecture in Four GPU Hours", CVPR 2019
 https://github.com/D-X-Y/GDAS
 
+【Keras超参调试器】’Keras Tuner - Hyperparameter tuning for humans' 
+https://github.com/keras-team/keras-tuner
+
+【BANANAS：新的神经网络架构搜索方法(NAS)】
+https://github.com/naszilla/bananas
+
+'(Generic) EfficientNets for PyTorch - Pretrained EfficientNet, MixNet, MobileNetV3, MNASNet A1 and B1, FBNet, Single-Path NAS' 
+https://github.com/rwightman/gen-efficientnet-pytorch
+
+CBNet：一种新的目标检测复合骨干网络架构
+https://medium.com/swlh/cbnet-a-novel-composite-backbone-network-architecture-for-object-detection-review-88b79a838ef1
+
 21秒看尽ImageNet屠榜模型，60+模型架构同台献艺
 https://mp.weixin.qq.com/s/8isaB1F_66Ykx3eojYMmRw
+
+'ICCV 2019 Tutorial: Everything You Need to Know to Reproduce SOTA Deep Learning Models
+https://github.com/zhreshold/ICCV19-GluonCV
 
 Interpretable Convolutional Neural Networks
 https://github.com/zqs1022/interpretableCNN

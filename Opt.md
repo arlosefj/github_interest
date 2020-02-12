@@ -14,6 +14,9 @@ https://github.com/xu3kev/neural-networks-quantization-notes
 Pytorch Implementation of Neural Architecture Optimization
 https://github.com/renqianluo/NAO_pytorch
 
+XNNPACK：面向手机和浏览器的高效浮点神经网络推理运算器
+https://github.com/google/XNNPACK
+
 TensorRT 深度学习优化
 https://github.com/ardianumam/Tensorflow-TensorRT
 
@@ -145,6 +148,9 @@ https://github.com/joe-siyuan-qiao/NeuralRejuvenation-CVPR19
 
 ### 面向目标检测/语义分割的机器学习自动化(AutoML)
 https://github.com/NoamRosenberg/AutoML
+
+【神经网络修剪技术研究指南】
+https://pan.baidu.com/s/1onGzAUw4pKrySM1uS1HTeg
 
 机器学习模型压缩相关文献、工具、学习资料列表
 https://github.com/cedrickchee/awesome-ml-model-compression

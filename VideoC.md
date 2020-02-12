@@ -79,11 +79,20 @@ https://github.com/jfzhang95/pytorch-video-recognition
 Resources about activity recognition-行为识别资料汇总’
 https://github.com/jindongwang/activityrecognition
 
+【视频架构搜索】《Video Architecture Search | Google AI Blog》
+https://github.com/google-research/google-research/tree/master/evanet
+
+Facebook 开源 SlowFast：双帧率分析视频识别
+https://github.com/facebookresearch/SlowFast
+
 Code and models for our CVPR'19 paper "Representation Flow for Action Recognition" 
 https://github.com/piergiaj/representation-flow-cvpr19
 
 Repository for the paper "Adversarial Framing for Image and Video Classification"
 https://github.com/zajaczajac/adv_framing
+
+'IG-65M PyTorch - PyTorch 3D video classification models pre-trained on 65 million Instagram videos' 
+https://github.com/moabitcoin/ig65m-pytorch
 
 Keras深度学习视频分类
 https://www.pyimagesearch.com/2019/07/15/video-classification-with-keras-and-deep-learning/

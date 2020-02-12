@@ -25,14 +25,32 @@ https://github.com/CosmiQ/simrdwn
 A higher performance PyTorch implementation of Single-Shot Refinement Neural Network for Object Detection
 https://github.com/luuuyi/RefineDet.PyTorch
 
+【开源目标检测工具包(PyTorch)】’mmdetection - Open MMLab Detection Toolbox' by Multimedia Laboratory, 
+https://github.com/open-mmlab/mmdetection
+
 ### PyTorch实现的DenseBox多任务学习目标检测/关键点定位
 https://github.com/CaptainEven/DenseBox
+
+【自动安全帽佩戴检测】’Automatic Hardhat Wearing Detection - Helmet Detection on Construction Sites'
+https://github.com/wujixiu/helmet-detection
+
+'YOLOv3-complete-pruning - 对YOLOv3及Tiny的多种剪枝版本，以适应不同的需求'
+https://github.com/coldlarry/YOLOv3-complete-pruning
 
 Learning Lightweight Lane Detection CNNs by Self Attention Distillation
 https://github.com/cardwing/Codes-for-Lane-Detection
 
 Data Priming Network for Automatic Check-Out - ACMMM 2019
 https://github.com/lufficc/DPNet
+
+行人检测(Pedestrian Detection)论文整理
+https://github.com/xingkongliang/Pedestrian-Detection
+
+'RFSong行人检测网络 - 重新设计的轻量级RFB进行行人检测，AP达到0.7993，参数量仅有3.1MB，200 FPS' 
+https://github.com/songwsx/RFSong-7993
+
+trident net + refinedet 目标检测
+https://github.com/wei-yuma/multitrident
 
 NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection. https://arxiv.org/abs/1904.07392
 https://github.com/DetectionTeamUCAS/NAS_FPN_Tensorflow

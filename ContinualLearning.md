@@ -24,3 +24,6 @@ https://github.com/Annusha/unsup_temp_embed
 
 Code for Semi-Supervised Learning by Augmented Distribution Alignment
 https://github.com/qinenergy/adanet
+
+《Active Learning for Deep Detection Neural Networks》
+https://arxiv.org/abs/1911.09168

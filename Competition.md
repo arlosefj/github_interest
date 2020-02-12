@@ -41,8 +41,23 @@ https://github.com/zhanzecheng/SOHU_competition
 一个深度学习新手团队是如何拿到kaggle比赛第三名的(用fast.ai分类油棕种植园图像)
 https://towardsdatascience.com/how-a-team-of-deep-learning-newbies-came-3rd-place-in-a-kaggle-contest-644adcc143c8
 
+'阿水的开源比赛方案集锦’
+https://github.com/finlay-liu/kaggle_public
+
 Kaggle入门实战
 https://www.bilibili.com/video/av66097664/
+
+'中国法研杯司法人工智能挑战赛之相似案例匹配第一名解决方案' 
+https://github.com/GuidoPaul/CAIL2019
+
+Kaggle 颅内出血检测比赛解决方案
+https://github.com/darraghdog/rsna
+
+Kaggle比赛优胜方案汇总
+http://kagglesolutions.com/
+
+Kaggle比赛泰坦尼克手把手入门
+https://weibo.com/tv/v/I9sVGdysJ?fid=1034:4422561287632493
 
 2019 Google 地标检索比赛第一名、第三名方案
 https://arxiv.org/abs/1906.04087

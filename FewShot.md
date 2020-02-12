@@ -28,6 +28,15 @@ https://sorenbouma.github.io/blog/oneshot/
 FSS-1000: A 1000-Class Dataset for Few-Shot Segmentation
 https://github.com/HKUSTCV/FSS-1000
 
+【小数据如何深度学习】《How To Use Deep Learning Even with Small Data - Towards Data Science》
+https://towardsdatascience.com/how-to-use-deep-learning-even-with-small-data-e7f34b673987
+
+用十亿级半监督学习实现最先进图像与视频分类
+https://ai.facebook.com/blog/billion-scale-semi-supervised-learning/
+
+'Multi-digit MNIST for Few-shot Learning - Combine multiple MNIST digits to create datasets with 100/1000 classes for few-shot learning/meta-learning' 
+https://github.com/shaohua0116/MultiDigitMNIST
+
 N样本学习：用更少的数据，学到更多
 https://blog.floydhub.com/n-shot-learning/
 

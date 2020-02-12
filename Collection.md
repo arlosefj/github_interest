@@ -18,3 +18,6 @@ http://www.ruanyifeng.com/blog/2019/08/ren-zhengfei.html
 
 独立开发者赚钱资料集锦
 https://github.com/josephchang10/awesome-indie https://github.com/mezod/awesome-indie
+
+30个非常实用的心理学小窍门
+https://weibo.com/tv/v/HBED7uD44?fid=1034:4389743065034223

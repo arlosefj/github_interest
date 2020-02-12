@@ -25,6 +25,21 @@ https://github.com/tensorflow/model-optimization
 (TensorFlow)机器学习交互示例集
 https://research.google.com/seedbank/
 
+GitHub 标星 3.6k，一本开源的深度学习中文教程！
+https://mp.weixin.qq.com/s/JbX5rTzFV92_cdxGZ5e8rw
+
+Handtrack.js：用 Tensorflow.js 三行代码实现浏览器里的的手势交互
+https://github.com/victordibia/handtrack.js/
+
+【TensorFlow 2.0深度学习开源书】’深度学习开源书，基于TensorFlow 2.0实战。
+https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book
+
+### 【循序渐进的Tensorflow2.x示例项目代码】’Tensorflow2.0 Examples - Tensorflow2.x Examples from basic to hard' 
+https://github.com/YunYang1994/TensorFlow2.0-Examples
+
+Tensorflow 2.x 资源大列表
+https://github.com/Amin-Tgz/awesome-tensorflow-2
+
 TensorFlow图形学入门
 https://github.com/tensorflow/graphics
 

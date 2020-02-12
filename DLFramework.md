@@ -14,8 +14,26 @@ https://github.com/onnx/onnxmltools
 ### OpenCV的OpenVINO训练扩展，基于PyTorch的神经网络压缩(模型压缩)框架
 https://github.com/opencv/openvino_training_extensions/tree/develop/pytorch_toolkit/nncf
 
+### 【Cottonwood 神经网络框架(教学用)】’The Cottonwood Neural Network Framework - A flexible neural network framework for running experiments and trying ideas.' 
+https://github.com/brohrer/cottonwood
+
+Catalyst：聚焦快速开发与复现的深度学习/强化学习高级工具集
+https://github.com/catalyst-team/catalyst
+
+【thor：C++深度学习工具库】’thor - thor: C++ helper library, for deep learning purpose'
+https://github.com/jinfagang/Thor
+
+【Radish：C++深度学习模型训练/部署框架】'Radish - C++ model train&inference framework' 
+https://github.com/LieLuoboai/radish
+
 BytePS：支持TensorFlow, Keras, PyTorch, MXNet的通用高性能训练框架
 https://github.com/bytedance/byteps
+
+机器学习模型管理框架概览：MLFlow/DVC/Sacred
+https://www.inovex.de/blog/machine-learning-model-management/
+
+Reaction：快速便捷的深度学习模型服务框架
+https://github.com/catalyst-team/reaction
 
 深度学习监控自动化
 https://medium.com/nanonets/how-to-automate-surveillance-easily-with-deep-learning-4eb4fa0cd68d

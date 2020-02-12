@@ -40,6 +40,27 @@ https://github.com/edvardHua/PoseEstimationForMobile
 CrossInfoNet of CVPR 2019 for hand pose estimation
 https://github.com/dumyy/handpose
 
+【DensePose安装指南】’How to install DensePose with PyTorch (including caffe2) from source code or binaries via conda'
+https://github.com/Johnqczhang/densepose_installation
+
+【AlphaPose 的高性能 PyTorch 实现】'Amanbhandula - AlphaPose Implementation in Pytorch along with the pre-trained wights' 
+https://github.com/Amanbhandula/AlphaPose
+
+'PoseNet Pytorch - A PyTorch port of Google TensorFlow.js PoseNet (Real-time Human Pose Estimation)' 
+https://github.com/rwightman/posenet-pytorch
+
+【深度学习姿态估计工具包】'DeepPoseKit - a toolkit for pose estimation using deep learning'
+https://github.com/jgraving/deepposekit
+
+【OpenPose训练代码】’OpenPose Training - training code for OpenPose’ by CMU-Perceptual-Computing-Lab
+https://github.com/CMU-Perceptual-Computing-Lab/openpose_train
+
+骨架动作识别相关资源列表
+https://github.com/niais/Awesome-Skeleton-based-Action-Recognition
+
+【目标姿态估计文献资源列表】’Object Pose Estimation [Paper List] - Resources (papers, datasets, rendering methods) in the domain of object pose estimation.'
+https://github.com/YoungXIAO13/ObjectPoseEstimationSummary
+
 FreiHAND数据集：单RGB图像手部姿态、形状估计
 https://github.com/lmb-freiburg/freihand
 

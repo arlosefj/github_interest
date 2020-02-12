@@ -10,6 +10,18 @@ https://github.com/robin1001/xdecoder
 Espresso：快速端到端神经网络语音识别工具集
 https://github.com/freewym/espresso
 
+PyTorch音频处理工具/数据集
+https://github.com/audeering/audtorch
+
+'基于Kaldi的aidatatang_200zh的训练之葵花宝典' 
+https://github.com/datatang-ailab/aidatatang_200zh/blob/master/README.zh.md
+
+### 【轻量快速语音合成】’LightSpeech - A Light, Fast and Robust Speech Synthesis.' 
+https://github.com/xcmyz/lightspeech
+
+DeepSpectrum：基于预训练图像CNN的音频数据特征抽取工具包
+https://github.com/DeepSpectrum/DeepSpectrum
+
 Landmark音频指纹
 https://github.com/dpwe/audfprint
 
@@ -84,3 +96,18 @@ https://github.com/supasorn/synthesizing_obama_network_training
 
 Voice Operated Character Animation https://voca.is.tue.mpg.de/en
 https://github.com/TimoBolkart/voca
+
+Deezer 的(Tensorflow)音源分离库，可用命令行直接提取音乐中的人声、钢琴、鼓声等
+https://github.com/deezer/spleeter
+
+【开源语音分离/增强库】
+https://github.com/speechLabBcCuny/onssen
+
+【MelGAN 超快音频合成】
+https://github.com/descriptinc/melgan-neurips
+
+用深度学习生成钢琴音乐
+https://github.com/haryoa/note_music_generator
+
+(C++)音频文件波形图生成
+https://github.com/bbc/audiowaveform

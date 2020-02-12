@@ -7,11 +7,21 @@ https://github.com/objcoding/wxpay
 由Go和Google TensorFlow提供支持的个人照片管理工具
 https://github.com/photoprism/photoprism
 
+goAdmin：Go语言编写的数据可视化与管理平台构建框架
+https://github.com/chenhg5/go-admin
+
+
 Pholcus 是 Go 写的重量级爬虫，纯 Go 语言编写的高并发、分布式、重量级爬虫软件，支持单机、服务端、客户端三种运行模式，拥有 Web、GUI、命令行三种操作界面，功能齐全、强大
 https://github.com/henrylee2cn/pholcus
 
 悟空引擎，是一个高度可定制的全文搜索引擎
 https://github.com/huichen/wukong
+
+《GO专家编程》 - 开源的Go语言进阶图书
+https://rainbowmango.gitbook.io/go/
+
+Wide - 基于 Web 的 Go 语言 IDE，随时随地玩 golang
+
 
 非官方的 Aliyun Go语言 SDK 支持API
 https://github.com/denverdino/aliyungo

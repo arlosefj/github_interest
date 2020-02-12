@@ -160,11 +160,26 @@ https://github.com/sethjuarez/DeepLearningWithPyTorch
 60分钟PyTorch深度学习实例入门教程
 https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
 
+【pycls：灵活的(PyTorch)图像分类研究框架】'pycls - Codebase for Image Classification Research, written in PyTorch.'
+https://github.com/facebookresearch/pycls
+
 《动手学深度学习》例子的PyTorch实现
 https://github.com/dsgiitr/d2l-pytorch
 
+【开源书：PyTorch深度学习起步】’First steps towards Deep Learning with pyTorch - This is an open sourced book on deep learning.' b
+https://github.com/vaibhawvipul/First-steps-towards-Deep-Learning
+
+'torchprofile - A general and accurate MACs / FLOPs profiler for PyTorch models.'
+https://github.com/mit-han-lab/torchprofile
+
 (PyTorch)轻量实时语义分割模型集锦
 https://github.com/Tramac/Lightweight-Segmentation
+
+PyTorch 官方推荐了一份 60 分钟的深度学习指南
+https://mp.weixin.qq.com/s/fB7iW_luNOyHAMD7GoJMYg
+
+NVIDIA 出品的 PyTorch 模型性能分析工具
+https://github.com/NVIDIA/apex/tree/master/apex/pyprof
 
 PyTorch语义分割实现集锦
 https://github.com/Tramac/Awesome-semantic-segmentation-pytorch
@@ -240,6 +255,9 @@ https://github.com/Enderdead/Pytorch_Quantize_impls
 
 PyProf: PyTorch Profiling tool
 https://github.com/adityaiitb/pyprof2
+
+PyTorch深度学习教程
+https://www.bilibili.com/video/av69000304/
 
 ### PyTorch + PySyft 加密训练实战(MNIST)
 https://blog.openmined.org/encrypted-training-on-mnist/

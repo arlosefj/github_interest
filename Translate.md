@@ -27,3 +27,6 @@ https://github.com/dojoteef/synst
 
 The implementation of "Learning Deep Transformer Models for Machine Translation"
 https://github.com/wangqiangneu/dlcl
+
+哈佛OpenNMT开源神经网络机器翻译 TensorFlow 2.0 实现版
+https://github.com/OpenNMT/OpenNMT-tf

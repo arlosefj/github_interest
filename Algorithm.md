@@ -7,14 +7,32 @@ https://github.com/algorithm-visualizer/algorithm-visualizer
 C/C++ /Python/Go/JS/Java多语言LeetCode解题参考
 https://github.com/luliyucoordinate/Leetcode
 
+免费书“动手解决算法问题”
+https://github.com/liyin2015/Algorithms-and-Coding-Interviews
+
 ### 提供的动画效果能让你更好的理解与吸收算法知识。
 https://mp.weixin.qq.com/s/fIRW0z-AMwFwsvC8hvYnYg
+
+【旅行商问题解决算法可视化】’Traveling Salesman Problem - Visualization of algorithms for solving the traveling salesman problem'
+https://github.com/jhackshaw/tspvis
 
 算法和编程面试题精选TOP50！(附代码+解题思路+答案)
 https://mp.weixin.qq.com/s/ABSgO36dGLa1_d5daN2c8A
 
+【Leetcode 的 Python 参考方案/解析】’ Leetcode Python Solution and Explanation. Also a Guide to Prepare for Software Engineer Interview.'
+https://github.com/wuduhren/leetcode-python
+
+《算法导论(第三版)》习题与问题
+https://github.com/CyberZHG/CLRS
+
+《五大常用算法之二：动态规划算法》动态规划过程是：每次决策依赖于当前状态，又随即引起状态的转移。一个决策序列就是在变化的状态中产生出来的，所以，这种多阶段最优化决策解决问题的过程就称为动态规划。
+https://mp.weixin.qq.com/s/A0lPQ7wNBJn-MeIbLVvLcA
+
 面试官最喜爱的TopK问题算法详解
 https://zhuanlan.zhihu.com/p/76734219
+
+白话讲解遗传算法》
+https://mp.weixin.qq.com/s/VKU7UQ2iYzGfnbk41ltdBA
 
 峰值检测算法Python实现
 https://github.com/MonsieurV/py-findpeaks

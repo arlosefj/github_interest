@@ -191,6 +191,51 @@ https://github.com/python-poetry/poetry
 CrossHair：Python静态分析工具
 https://github.com/pschanely/CrossHair
 
+Pandas 数据分析通俗可视化入门
+https://jalammar.github.io/gentle-visual-intro-to-data-analysis-python-pandas/
+
+【gazpacho：网页爬取框架】
+https://github.com/maxhumber/gazpacho
+
+用 Matplotlib 实现柱状图动态可视化(赛跑图)
+https://towardsdatascience.com/bar-chart-race-in-python-with-matplotlib-8e687a5c8a41
+
+【Voilà：将 Jupyter notebooks 变成独立的网页应用，自带多种交互式widgets】
+https://github.com/voila-dashboards/voila
+
+【Python多进程日志库】
+https://github.com/jruere/multiprocessing-logging
+
+【Python依赖管理、打包工具集】’Poetry:  Python dependency management and packaging made easy.'
+https://github.com/python-poetry/poetry
+
+几个有用的Python“小众”库：textwrap、pprint、enum、shelve、email and smtplib、winreg
+https://medium.com/@vmsp/less-known-bits-of-the-python-standard-library-46dc88490115
+
+Py3plex：可扩展多层网络分析和可视化库
+https://github.com/SkBlaz/Py3plex
+
+一些 Python 技巧小贴士》整理用户输入的问题在编程过程中极为常见
+https://mp.weixin.qq.com/s/zSTtBhAWQ5AV_I5f4neLJQ
+
+用 Python 来做交互式图形，简单且实用 Bokeh https://github.com/bokeh/bokeh
+https://mp.weixin.qq.com/s/gcK0JCOVbZY1ck2POmU9xw
+
+Jupyter 里的交互式画布
+https://github.com/martinRenou/ipycanvas
+
+在远程服务器上运行 Jupyter Notebooks
+https://pan.baidu.com/s/1yFjukvKIhsjJ9rMVAHQKVQ
+
+【有助于日常工作的25段Python代码】《25 Useful Python Snippets to Help in Your Day-to-Day Work》
+https://medium.com/better-programming/25-useful-python-snippets-to-help-in-your-day-to-day-work-d59c636ec1b
+
+### 程序运行中修改Python代码而不打断运行过程，可在PyTorch程序训练过程中添加输出、查看统计、保存模型参数等
+https://github.com/julvo/reloading
+
+8 个 Python 高效数据分析的技巧
+https://mp.weixin.qq.com/s/i5MfSbkEE5-ORSydqvIu8g
+
 ### 用公交路线数据，还原城市结构。通过数据可视化手段，还原了 30 多个城市的城市结构。该项目中有数据获取和处理的脚本，而且该项目充分体现了数据可视化带来的便利和效果，易于激发学习编程的热情。
 https://github.com/96486d9b/city-vein
 
@@ -221,8 +266,23 @@ https://towardsdatascience.com/use-cython-to-get-more-than-30x-speedup-on-your-p
 《像计算机科学家一样思考Python （英文原版）》
 https://bigquant.com/community/t/topic/159579
 
+### 基于tkinter的拖拽式Python图形界面构建工具
+https://github.com/TristenHarr/MyPyBuilder
+
+Python数据可视化实例集锦
+https://github.com/aaronpenne/data_visualization
+
+Python图片爬取实战
+https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fimage-scraping-with-python-a96feda8af2d
+
 8点超级有用的Python编程建议
 https://mp.weixin.qq.com/s/NkDPtYOzQo1B4ZAxu_Bg3Q
+
+几则Python编程技巧
+https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fpython-tips-and-trick-you-havent-already-seen-37825547544f
+
+5分钟创建、打包、发布 Python3 pip 模块
+https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fitnext.io%2Fcreate-build-and-ship-a-python3-pip-module-in-5-minutes-31dd6d9d5c8f
 
 'What the f*ck Python! 中文翻译 - 一些有趣且鲜为人知的 Python 特性.
 https://github.com/leisurelicht/wtfpython-cn

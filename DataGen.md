@@ -11,6 +11,15 @@ https://github.com/MhLiao/SynthText3D 1907.06007
 克服自然场景视频理解的大规模标注需求
 https://github.com/cmhungsteve/TA3N
 
+《Cali-Sketch: Stroke Calibration and Completion for High-Quality Face Image Generation from Poorly-Drawn Sketches》
+https://arxiv.org/abs/1911.00426
+
+PyTorch图像测试时增广
+https://github.com/qubvel/ttach
+
+### 少样本视频到视频合成：人体骨架、涂鸦、街景分割图的逼真视频合成
+https://github.com/NVlabs/few-shot-vid2vid
+
 ### Image Synthesis From Reconfigurable Layout and Style
 https://github.com/iVMCL/LostGANs
 

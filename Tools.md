@@ -40,6 +40,43 @@ https://github.com/peci1/nvidia-htop
 PDFPlumber：从PDF文件提取文字和表格的Python库
 https://github.com/jsvine/pdfplumber
 
+支持协同编辑/修订等功能的Office文档在线编辑服务器
+https://github.com/ONLYOFFICE/DocumentServer
+
+面向小团队/初创企业的项目管理系统(PHP/JS/MySQL)
+https://github.com/Leantime/leantime
+
+mac软件推荐
+https://weibo.com/1088413295/H3K951Fup?sudaref=weibo.com&type=comment
+
+### ggplot2 科技期刊配色集锦
+https://github.com/nanxstats/ggsci
+
+'folder-explorer：分析文件目录，统计数据并以树形结构和图表的形式展示结果，也可以导出多种格式留存
+https://github.com/d2-projects/folder-explorer
+
+
+我是如何通过开源项目月入 10 万的
+https://mp.weixin.qq.com/s/743y_WwRi0zrcDiH1BJnJw
+
+将Word文档转换到Markdown
+https://github.com/mattn/docx2md
+
+超级实用的 Chrome 插件，可选中、复制、编辑图片中的内嵌文字
+https://projectnaptha.com/
+
+SVG VAE: 可缩放矢量图字体生成
+https://github.com/tensorflow/magenta/tree/master/magenta/models/svg_vae
+
+### takenote：支持Markdown、GitHub同步的网页版笔记应用
+https://github.com/taniarascia/takenote
+
+### 免费调用的API接口
+https://github.com/fangzesheng/free-api
+
+用命令行创建社交网络(服务)
+https://github.com/DimiMikadze/create-social-network
+
 ### 寓教于乐，用玩游戏的方式学习 Git！
 https://mp.weixin.qq.com/s/JR7a6Cu0zUccggLvq2-txQ
 

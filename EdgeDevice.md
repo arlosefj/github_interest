@@ -16,6 +16,12 @@ https://github.com/SharpAI/DeepCamera
 5MB的神经网络也高效，Facebook新压缩算法造福嵌入式设备
 https://mp.weixin.qq.com/s/m9I5TM9uJcgZvMusO667OA
 
+【嵌入式AI(边缘AI)相关资源列表】
+https://github.com/crespum/edge-ai
+
+物联网相关项目/资源大列表
+https://github.com/HQarroum/awesome-iot
+
 AI Transformer：将(Keras)深度学习模型转换成可用于嵌入式环境的可读无依赖C程序
 https://www.aitransformer.com/
 
@@ -27,3 +33,9 @@ https://github.com/zlgopen/awtk
 
 AoE (AI on Edge，终端智能，边缘计算) ：滴滴开源的 终端侧 AI 集成运行时环境 ( IRE )，以 “稳定性、易用性、安全性” 为设计原则
 https://didi.github.io/AoE/ https://github.com/didi/AoE
+
+嵌入式/物联网安全相关资源大列表
+https://github.com/fkie-cad/awesome-embedded-and-iot-security
+
+面向ARM设备的非官方PyTorch/torchvision编译版
+https://github.com/nmilosev/pytorch-arm-builds

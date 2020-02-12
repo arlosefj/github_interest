@@ -13,6 +13,10 @@ https://github.com/yiminghe/learning-react
 适合新手的 React 全家桶项目学习
 https://github.com/Juliiii/React-Cnode
 
+Fabric.js 又被顶到 GitHub 排行榜上了。这个库功能挺强，甚至可以做一个在线简版的PS出来。
+拼图、加标、交互式图像合成需求的同学可以用用。
+https://github.com/fabricjs/fabric.js
+
 ECharts是一款由百度前端技术部开发的，基于Javascript的数据可视化图表库，提供直观，生动，可交互，可个性化定制的数据可视化图表。
 ​https://github.com/apache/incubator-echarts
 

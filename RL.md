@@ -55,5 +55,17 @@ https://github.com/NeymarL/ChineseChess-AlphaZero
 OpenSpiel游戏强化学习框架：包含一系列环境、算法，用于研究一般强化学习和游戏中的搜索/规划
 https://github.com/deepmind/open_spiel
 
+Real-Time Reinforcement Learning
+https://github.com/rmst/rtrl
+
+'State-of-the-art Model-free Reinforcement Learning Algorithms - PyTorch implementation of Soft Actor-Critic (SAC), Twin Delayed DDPG (TD3), Actor-Critic (AC/A2C), Proximal Policy Optimization (PPO), QT-Opt, PointNet..'
+https://github.com/quantumiracle/SOTA-RL-Algorithms
+
+《DeepRacer: Educational Autonomous Racing Platform for Experimentation with Sim2Real Reinforcement Learning》
+https://github.com/awslabs/amazon-sagemaker-examples/tree/master/reinforcement_learning/rl_deepracer_robomaker_coach_gazebo
+
+RLCard：纸牌游戏强化学习工具包
+https://github.com/datamllab/rlcard
+
 一个深度强化学习项目，研究如何让机器用画笔画画。也可体验制作自己的绘画或根据一张图片生成一整个绘画过程
 https://github.com/hzwer/ICCV2019-LearningToPaint

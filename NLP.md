@@ -57,8 +57,38 @@ https://github.com/graykode/xlnet-Pytorch
 OpenCLaP：多领域开源中文预训练语言模型仓库
 https://github.com/thunlp/OpenCLaP
 
+DocSearch：免费文档搜索引擎
+https://github.com/algolia/docsearch
+
+Awesome-Nlp-Questions
+https://github.com/Dikea/Awesome-Nlp-Questions
+
+### ICLR 2020 OpenReview 论文数据爬取/可视化
+https://github.com/shaohua0116/ICLR2020-OpenReviewData
+
+'FASPell - 产学界最强（SOTA）的简繁中文拼写检查工具：FASPell Chinese Spell Checker (Chinese Spell Check / 中文拼写检错 / 中文拼写纠错 / 中文拼写检查)' 
+https://github.com/iqiyi/FASPell
+
+句子相似性计算方法集，包括ELMo, BERT, USE等预训练模型
+https://github.com/Huffon/sentence-similarity
+
 BERT模型从训练到部署'
 https://github.com/xmxoxo/BERT-train2deploy
+
+'GPT2 for Multiple Languages, including pretrained models. GPT2 多语言支持, 15亿参数中文预训练模型' 
+https://github.com/imcaspar/gpt2-ml
+
+'狗屁不通文章生成器 😓 - 偶尔需要一些中文文字用于GUI开发时测试文本渲染'
+https://github.com/menzi11/BullshitGenerator
+
+基于 GPT-2-simple 的格言生成机器人
+https://github.com/tomasrasymas/quote-me-ai
+
+BERT 中文句子相似度计算
+https://github.com/policeme/chinese-bert-similarity
+
+Chinese-Text-Classification-Pytorch - 中文文本分类，TextCNN，TextRNN，FastText，TextRCNN，BiLSTM_Attention，DPCNN，Transformer，基于pytorch，开箱即用' 
+https://github.com/649453932/Chinese-Text-Classification-Pytorch
 
 DeepPavlov：用于构建端到端对话系统/训练聊天机器人的开源库
 https://github.com/deepmipt/DeepPavlov

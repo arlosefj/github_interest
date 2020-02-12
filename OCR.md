@@ -1,11 +1,35 @@
+### 文档图像识别技术回顾与反思
+https://mp.weixin.qq.com/s/sigPeclXz12NUk_nX8TZ-A
+
 ### 如何通过OCR技术识别“收据”上的信息
 https://github.com/NanoNets/nanonets-ocr-sample-python
 
 ### DocUNet: Document Image Unwarping via A Stacked U-Net, Ke Ma, Zhixin Shu, Xue Bai, Jue Wang, Dimitris Samaras. Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 https://github.com/wuleiaty/DocUNet
 
+用 PyTorch 1.2 实现的文本检测与识别研究项目
+https://github.com/Megvii-CSG/MegReader
+
+### OpenCV/scikit-image 实现的(文档图像)手写签名提取
+https://github.com/ahmetozlu/signature_extractor
+
+### 【文档图像校正与光照校正】
+https://github.com/xiaoyu258/DocProj
+
 Seq2Seq+Attention 中文OCR文字识别
 https://github.com/bai-shang/crnn_seq2seq_ocr_pytorch
+
+【AttentionOCR 自然场景文字识别】
+https://github.com/zhang0jhon/AttentionOCR
+
+【OCR文本检测】’Text Detector for OCR - Text detection model that combines Retinanet with textboxes++ for OCR'
+https://github.com/qjadud1994/Text_Detector
+
+### 'LaTeX_OCR_PRO - 数学公式识别增强版：中英文手写印刷公式、支持初级符号推导（数据结构基于 LaTeX 抽象语法树）' 
+https://github.com/LinXueyuanStdio/LaTeX_OCR_PRO
+
+'树洞 OCR 文字识别
+https://github.com/AnyListen/tools-ocr
 
 端到端场景文字检测与识别资源大列表
 https://github.com/HCIILAB/Scene-Text-End2end
@@ -15,6 +39,18 @@ https://github.com/s3nh/text-detector
 
 ICDAR 2019自由字型文本识别竞赛第一名方案
 https://github.com/Jyouhou/ICDAR2019-ArT-Recognition-Alchemy
+
+PDF表格数据提取工具
+https://github.com/camelot-dev/camelot
+
+'Convolutional Recurrent Neural Network + CTCLoss - Pytorch implementation of CRNN (CNN + RNN + CTCLoss) for all language OCR' 
+https://github.com/Holmeyoung/crnn-pytorch
+
+Kaggle 日文古文字识别比赛第二名方案
+https://github.com/lopuhin/kaggle-kuzushiji-2019
+
+寻找最好的OCR工具
+https://github.com/factful/ocr_testing
 
 ### tr - Offline OCR - 针对扫描文档的离线文本识别SDK，核心代码全部采用C++开发，并提供Python接口
 https://github.com/myhub/tr

@@ -4,6 +4,24 @@ http://sweeper-robot.eu/
 Docker, PyTorch & Flask 机器学习模型训练与web界面部署实例
 https://github.com/imadelh/ML-web-app
 
+Keras)简单图片搜索
+https://github.com/matsui528/sis
+
+无需代码，训练自己的学习机器
+https://teachablemachine.withgoogle.com/ https://github.com/googlecreativelab/teachablemachine-community
+
+【手把手：将机器学习模型部署为REST API 】《Deploy Your Machine Learning Model as a REST API 》
+https://pan.baidu.com/s/1zGztpScX2JxJKpeNNhOBjA
+
+### PyTorch Flask API 示例
+https://github.com/avinassh/pytorch-flask-api
+
+面向可视化和传感器融合的深度学习实用程序库
+https://github.com/jinfagang/alfred
+
+机器学习常用库基础（附PPT下载链接）
+https://bigquant.com/community/t/topic/163807?utm_source=weibo&utm_campaign=191114_l1
+
 用Angular/Tensorflow.js构建和部署图像分类应用
 https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fblog.angularindepth.com%2Fcreate-your-own-image-classifier-with-angular-and-tensorflow-js-5b1bc2391424
 
@@ -18,6 +36,15 @@ https://github.com/zeusees/Mobilenet-SSD-License-Plate-Detection
 
 (Pytorch)面向行为识别和目标检测的视频平台
 https://github.com/MichiganCOG/ViP
+
+### yolo_nano https://blog.csdn.net/qq_33270279/article/details/102522025 https://arxiv.org/abs/1910.01271
+https://github.com/liux0614/yolo_nano
+
+【男宝/女宝👶分类器】’boyorgirl - A web application + neural net to distinguish baby boys and girls' 
+https://github.com/artoby/boyorgirl
+
+用于重复/近似图片发现的Python包
+https://github.com/idealo/imagededup
 
 ### 云端Mail.ru如何实现地标识别
 https://medium.com/@andrei.boiarov/how-we-made-landmark-recognition-in-cloud-mail-ru-and-why-715b5f72e6d4
@@ -45,6 +72,14 @@ https://github.com/xadrianzetx/fullstack.ai
 
 深度学习web应用：从数据采集到应用部署
 https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fdeep-learning-based-web-application-from-data-collection-to-deployment-9e89f29b67df
+
+
+lightKG，lightsmile个人的知识图谱技术框架
+https://github.com/smilelight/lightKG
+
+
+上传一份PPT，它会自动分析里边的演讲者注释，用人工智能生成语音，然后再合成视频。非常适合用来做产品介绍、流程介绍、以及技术课程。
+Slide.ftqq.com
 
 ## Basic DL&ML
 (Colab)深度学习神经网络手把手实例入门
@@ -77,9 +112,20 @@ https://mp.weixin.qq.com/s/ZObRXiCqKH1HEqByW8F5AQ
 深度网络权重初始化好文(Xavier和Kaiming He方法解析)
 https://link.medium.com/IRdTdYN6zV
 
+比个手势，AI 自动识别 Emoji！
+https://mp.weixin.qq.com/s/46P-M2wHx4277EhQAhBGEA
 
 为工程师设计的机器学习课程和教学项目
 https://github.com/lukas/ml-class
+
+### 真人自拍生成二次元头像
+https://mp.weixin.qq.com/s/Qr4PlxjiQPPoxRDskeDIUw https://github.com/znxlwm/UGATIT-pytorch
+
+Keras深度学习实践：交通标志分类
+https://www.pyimagesearch.com/2019/11/04/traffic-sign-classification-with-keras-and-deep-learning/
+
+### 如何训练 fastai 模型并部署到浏览器应用(fastai/PyTorch/ONNX/React.js
+https://github.com/davidpfahler/react-ml-app https://davidpfahler.com/fastai-in-the-browser
 
 Logistic回归入门详解
 https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Flogistic-regression-for-dummies-a-detailed-explanation-9597f76edf46
@@ -90,6 +136,9 @@ https://github.com/eriklindernoren/ML-From-Scratch
 非常好的优化器选择指南
 https://ruder.io/optimizing-gradient-descent/
 https://arxiv.org/abs/1609.04747
+
+推荐 GitHub 上几个比较实用的机器学习项目
+https://mp.weixin.qq.com/s/M3fDPJKvFt6oUetTKnCN3w
 
 如何管理机器学习实验
 https://medium.com/@hadyelsahar/how-do-you-manage-your-machine-learning-experiments-ab87508348ac
@@ -124,6 +173,9 @@ https://github.com/lonelygo/Shift-AI-models-to-real-world-products
 
 《深度学习入门：基于Python的理论与实现》
 https://bigquant.com/community/t/topic/160266
+
+PCA、LDA、MDS、LLE、TSNE等降维算法的python实现
+https://github.com/heucoder/dimensionality_reduction_alo_codes
 
 李宏毅机器学习完整笔记
 https://github.com/datawhalechina/leeml-notes
@@ -177,8 +229,32 @@ https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascienc
 图像分类任务中的损失
 https://medium.com/@lightsanweb/losses-in-image-classification-task-7401a8348927
 
+超参优化概览
+https://pan.baidu.com/s/14s8zUNNkc6hladTY2BwH_Q
+
+8个深度学习/计算机视觉常见错误及如何避免
+https://pan.baidu.com/s/12nfLHjUW4VFAvYTlL5IDoQ 
+
+用 Tensorflow.js、ONNX.js 在浏览器里运行深度学习模型
+https://medium.com/datadriveninvestor/running-your-deep-learning-models-in-a-browser-using-tensorflow-js-and-onnx-js-a35256d3933
+
+【机器学习应用开发框架，可大大简化前端开发】’Streamlit - Streamlit — The fastest way to build custom ML tools' Streamlit：把Python脚本变成漂亮的机器学习工具
+https://github.com/streamlit/streamlit
+https://weibo.com/1402400261/I9CCR0u8v?mid=4423196612519378&ouid=1402400261&type=comment#_rnd1581127724731
+
+'Streamlit Demo: The Udacity Self-driving Car Image Browser - Streamlit app demonstrating an image browser for the Udacity self-driving-car dataset with realtime object detection using YOLO.' 
+https://github.com/streamlit/demo-self-driving
+
+fastai v2 基本使用实例教程
+https://www.kaggle.com/jhoward/fastai-v2-pipeline-tutorial
+
+用 DeepStream SDK 加速实时AI视频/图像分析
+https://www.bilibili.com/video/av69983350
 
 ## Teach
+### 企业级 Jupyter notebook 共享/协同应用
+https://github.com/nbgallery/nbgallery
+
 如何用简单易懂的例子解释隐马尔可夫模型？
 https://www.zhihu.com/question/20962240/answer/33438846
 
@@ -188,6 +264,12 @@ https://medium.com/installation-of-jupyter-notebook-and-getting/installation-of-
 
 图像迷你实验室，可进行图像实验、处理、分析。使用 PyQt5 结合 opencv-python 实现代码简洁易读，通过该工具可以快速演示图像算法效果，便于 cv 入门学习
 https://github.com/itisyang/ImageMiniLab
+
+计算机视觉最佳实践、代码示例和相关文档
+https://github.com/microsoft/computervision-recipes
+
+图像处理入门100题实例解析中文版
+https://github.com/gzr2017/ImageProcessing100Wen
 
 一款优秀入门级 AI 项目以及教程，内容涵盖：人脸、视频、文字的检测和识别。他不仅包含最基本的人脸检测、识别（图片、视频）、轮廓标识、头像合成（给人戴帽子），还有表情识别（生气、厌恶、恐惧等）、视频对象提取、图片修复（可用于水印去除）、图片自动上色等等。推荐这个开源项目不是因为它的内容强大，而是它的教程写的实在太好了，真 · 入门级。手把手教你如何使用这个项目，做出上述功能来。在每篇功能文章的教程里，不仅仅写了每个功能的技术实现方案，还有具体重点关键代码的注释和解释以及具体实现，让你非常轻松的能够看懂、学习和使用。对于想要入门或者了解机器学习的初学者不能再友好了
 https://github.com/vipstone/faceai
@@ -213,6 +295,12 @@ https://mp.weixin.qq.com/s/tz-Gzh1TifGDjBLE6HBKdQ
 (Jupyter notebooks)机器学习/数据科学算法交互式探索与可视化
 https://github.com/PyMLVizard/PyMLViz
 
+计算机视觉/深度学习/OpenCV 入门指南
+https://www.pyimagesearch.com/start-here/
+
+CV岗常见面试题
+https://github.com/donnyyou/cv-interview
+
 ## trends
 
 CVPR 2019 计算机视觉最新趋势
@@ -223,3 +311,6 @@ https://github.com/sladesha/deep_learning
 
 如何向投资人和客户展示你的产品
 https://medium.com/@oyper/how-to-present-your-product-to-investors-and-customers-7b4974b03fbf
+
+《Deep Learning vs. Traditional Computer Vision》
+https://arxiv.org/abs/1910.13796

@@ -63,6 +63,9 @@ https://github.com/nkolkin13/STROTSS
 ### 用TensorFlow 2.0实现CartoonGAN图片卡通化
 https://github.com/mnicnc404/CartoonGan-tensorflow
 
+ETNet: Error Transition Network for Arbitrary Style Transfer
+https://github.com/zhijieW94/ETNet
+
 用Python快速实现图片的风格迁移
 https://mp.weixin.qq.com/s/A5hcU5kZlSW0qx6BJ5UIyA
 

@@ -10,6 +10,15 @@ https://pan.baidu.com/s/1RhORsmInOk1ZEmOKuUeybw
 (PyTorch)合成-现实(Synthetic-to-Realistic)转换深度估计
 https://github.com/lyndonzheng/Synthetic2Realistic
 
+【整体3D重建论文/资源列表】'Holistic 3D Reconstruction - A list of papers and resources for holistic 3D reconstruction' 
+https://github.com/holistic-3d/awesome-holistic-3d
+
+'Facebook360 Depth Estimation Pipeline (facebook360_dep) - a computational imaging software pipeline supporting on-line marker-less calibration, high-quality reconstruction, and real-time streaming and rendering of 6DoF content.' 
+https://github.com/facebook/facebook360_dep
+
+ICCV的3D Vision Tutorial
+https://holistic-3d.github.io/iccv19/ 其实计算机视觉一开始就是研究3D重建问题的。当时几乎所有的奠基者都一致地在研究如何从二维的点、线、面恢复三维结构。用这些几何元素的理由来自于人的perception和cognition。所以一开始计算机视觉就是把recognition和reconstruction统一在三维重建这个问题中的。只是后来，做三维的开始淡化recognition，认为用局部features就够了，所以目前几乎所有三维重建系统（SfM，vSLAM）都是非常不稳定不鲁棒；而做recognition的开始淡化3D，集中在2D图像上做识别，然后认为三维可以从数据学来，不需要几何。这一分就是近二十年。而现在两边的都发现需要对方，不然计算机视觉真正落地就是做梦。
+
 PyTorch无监督单目深度估计
 https://github.com/ClubAI/MonoDepth-PyTorch
 

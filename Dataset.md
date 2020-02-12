@@ -9,9 +9,30 @@ Virtual KITTI 2：基于Unity游戏引擎合成的虚拟场景数据集
 https://europe.naverlabs.com/research/computer-vision/proxy-virtual-worlds-vkitti-2/ 
 https://europe.naverlabs.com/blog/announcing-virtual-kitti-2/
 
+史上最大规模1.4亿中文知识图谱
+https://github.com/ownthink/KnowledgeGraphData
+
+Human3.6M：包含360万个人体姿态和相应图像的3D人体姿态数据集
+http://vision.imar.ro/human3.6m/description.php
+
+图像配准资源集
+https://github.com/uncbiag/registration
+
+【RGBD数据集列表】“List of RGBD datasets” 
+http://www.michaelfirman.co.uk/RGBDdatasets/
+
+【机器学习数据集大列表】“Dataset list — A list of the biggest machine learning datasets”
+https://www.datasetlist.com/
+
 自然场景垃圾废物标注数据集
 http://tacodataset.org/
 https://github.com/pedropro/TACO
+
+'Toolkit for ApolloScape Dataset - Api for visualize sample data, evaluation of different tasks' by ApolloScapeAuto
+https://github.com/ApolloScapeAuto/dataset-api
+
+全年龄人脸数据集
+https://github.com/JingchunCheng/All-Age-Faces-Dataset
 
 面向场景解构/表示学习的多目标数据集
 https://github.com/deepmind/multi_object_datasets

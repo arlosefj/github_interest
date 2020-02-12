@@ -5,6 +5,9 @@ Light-Weight RefineNet for Real-Time Semantic Segmentation (pytorch)
 * ShelfNet for Real-time Semantic Segmentation
 https://github.com/juntang-zhuang/ShelfNet
 
+### DM M -Net: Differentiable Mask-Matching Network for Video Object Segmentation
+https://github.com/ZENGXH/DMM_Net
+
 ### Devil Is in the Edges: Learning Semantic Boundaries from Noisy Annotations
 https://github.com/nv-tlabs/STEAL
 
@@ -154,6 +157,30 @@ https://arxiv.org/abs/1901.02511
 
 PyTorch implementation of DeepLabV3, trained on the Cityscapes dataset.
 https://github.com/fregu856/deeplabv3
+
+基于 Mask R-CNN 的街景广告检测与模糊
+https://github.com/WannaFIy/mask_AD
+
+BodyPix(2.0)：TensorFlow.js 实现的浏览器里的实时人体图像分割
+https://blog.tensorflow.org/2019/11/updated-bodypix-2.html   https://storage.googleapis.com/tfjs-models/demos/body-pix/index.html
+
+### 【YOLACT实时实例分割】《YOLACT: Real-Time Instance Segmentation [ICCV Trailer] - YouTube》
+https://github.com/dbolya/yolact
+
+【(PyTorch)实例分割/对象检测算法快速模块化参考实现】’Rotated Mask R-CNN - Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch.' 
+https://github.com/mrlooi/rotated_maskrcnn
+
+### 基于 maskrcnn-benchmark 的Kaggle Open Images 2019 实例分割比赛简单解决方案
+https://github.com/yu4u/kaggle-open-images-2019-instance-segmentation
+
+前背景分割(抠图)相关文献与资源列表
+https://github.com/murari023/awesome-background-subtraction
+
+TensorMask：一种新的密集滑动窗口实例分割技术
+https://research.fb.com/publications/tensormask-a-foundation-for-dense-object-segmentation/
+
+### U-net 抠图
+https://github.com/eti-p-doray/unet-gan-matting
 
 Unsupervised Image Segmentation by Backpropagation
 https://github.com/kanezaki/pytorch-unsupervised-segmentation

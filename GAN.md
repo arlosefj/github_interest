@@ -174,6 +174,44 @@ https://github.com/taki0112/FusionGAN-Tensorflow
 ### Code for our paper: You Only Propagate Once: Painless Adversarial Training Using Maximal Principle
 https://github.com/a1600012888/YOPO-You-Only-Propagate-Once
 
+### Learning to Predict Layout-to-image Conditional Convolutions for Semantic Image Synthesis
+https://github.com/xh-liu/CC-FPSE
+
+### 神经网络涂鸦的乐趣
+https://github.com/libreai/neural-painters-x
+
+### SinGAN: Learning a Generative Model from a Single Natural Image
+https://github.com/tamarott/SinGAN
+
+条件StyleGAN标志生成
+https://github.com/cedricoeldorf/ConditionalStyleGAN
+
+Yash Katariya 的 TensorFlow 2.0 实战系列教程
+DCGAN(有中文) https://www.tensorflow.org/tutorials/generative/dcgan
+Pix2Pix：https://www.tensorflow.org/tutorials/generative/pix2pix
+CycleGAN(有中文)：https://www.tensorflow.org/tutorials/generative/cyclegan
+
+基于 CycleGAN 的人脸“小丑化”
+https://github.com/junkwhinger/jokerise
+
+Semantic Object Accuracy for Generative Text-to-Image Synthesis
+https://github.com/tohinz/semantic-object-accuracy-for-generative-text-to-image-synthesis
+
+Guided Image-to-Image Translation with Bi-Directional Feature Transformation
+https://github.com/vt-vl-lab/Guided-pix2pix
+
+GAN Lab：在浏览器里玩转GAN
+https://poloclub.github.io/ganlab/
+
+用StyleGAN训练的黄种人人脸生成器
+https://github.com/a312863063/seeprettyface-generator-yellow
+
+用StyleGAN训练出的网红脸生成器
+https://github.com/a312863063/seeprettyface-generator-wanghong
+
+GAN PyTorch实现集锦
+https://github.com/ozanciga/gans-with-pytorch
+
 (PyTorch)GANs训练库
 https://github.com/unit8co/vegans
 

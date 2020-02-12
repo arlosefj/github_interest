@@ -11,10 +11,15 @@ https://mp.weixin.qq.com/s/hN73sdADY--LnUh7Bo9G5Q
 https://github.com/eriklindernoren/ML-From-Scratch
 从头开始实现基本机器学习模型和算法，目的不是实现尽可能优化和高效的算法，而是以透明和可理解的方式呈现算法的内部工作方式。
 
+大规模高效机器学习训练的调度
+https://www.bilibili.com/video/av70121787/
 
+如何管理机器学习产品
+https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fhow-to-manage-machine-learning-products-part-1-386e7011258a
 
 ### CausalNex：(Python)贝叶斯网络因果推理工具包
 https://github.com/quantumblacklabs/causalnex
+
 
 《百面机器学习算法工程师带你去面试》（附PDF下载链接）
 https://bigquant.com/community/t/topic/161842
@@ -99,11 +104,66 @@ https://bigquant.com/community/t/topic/124182
 非均衡数据处理--如何学习
 https://mp.weixin.qq.com/s/t7fG7wl1mfMCKXnzk2CnSw
 
+理解朴素贝叶斯分类器
+https://towardsdatascience.com/understanding-the-naive-bayes-classifier-16b6ee03ff7b
+
+’机器学习学习资源汇总：从入门到进阶，所用到机器学习资料，包括书、视频、源码' 
+https://github.com/linxid/Machine_Learning_Study_Path
+
+自动化机器学习模型优化工具
+https://github.com/LGE-ARC-AdvancedAI/auptimizer
+
+五个简单步骤实现机器学习模型产品化
+https://pan.baidu.com/s/196P5CuE2_pJHaEkPXl1edw
+
+【fastai资源大列表】’awesome-fastai - collection of fastai resources: blog posts, twitter threads etc.' 
+https://github.com/ucalyptus/awesome-fastai
+
+### 【计算机视觉迁移学习教程】
+https://github.com/MyLtYkRiTiK/ComputerVision_Tutorials
+
+统计学习方法 清华大学深圳研究院的袁春教授为《统计学习方法（第2版）》制作了课件。可以在清华大学出版社网站下载。
+http://www.tup.tsinghua.edu.cn/booksCenter/book_08132901.html 
+
+### MachineLP CodeFun
+https://github.com/MachineLP/MachineLP-CodeFun
+
+'周志华《机器学习》手推笔记
+https://github.com/Sophia-11/Machine-Learning-Notes
+
+旷视&北大联合深度学习课程资料
+https://github.com/zsc/megvii-pku-dl-course
+
+用 Django 部署机器学习模型
+https://github.com/pplonski/my_ml_service
+
+
 机器学习面试干货精讲
 https://blog.csdn.net/np4rHI455vg29y2/article/details/79737184
 
 tSNE的高速并行实现(Python)
 https://github.com/pavlin-policar/openTSNE
+
+用激活图(Activation Atlases)探索神经网络
+https://github.com/distillpub/post--activation-atlas https://distill.pub/2019/activation-atlas/
+
+类激活图：神经网络决策的可视化
+https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fheartbeat.fritz.ai%2Fclass-activation-maps-visualizing-neural-network-decision-making-92efa5af9a33
+
+【深度学习算法库】
+https://github.com/iArunava/scratchai
+
+Kaggle特征工程教程
+https://www.kaggle.com/learn/feature-engineering 挺好的入门手把手，特征工程几乎是建模工作里最重要的部分，第三段里有很多书本上不教的实战经验/
+
+实战入门：基于线性回归的Airbnb房租价格预测
+https://towardsdatascience.com/airbnb-price-prediction-using-linear-regression-scikit-learn-and-statsmodels-6e1fc2bd51a6
+
+'Top Deep Learning Projects - list of popular github projects related to deep learning' 
+https://github.com/aymericdamien/TopDeepLearning
+
+机器学习100天
+https://github.com/MLEveryday/100-Days-Of-ML-Code https://github.com/Avik-Jain/100-Days-Of-ML-Code
 
 机器学习代码/笔记集锦
 https://github.com/susanli2016/Machine-Learning-with-Python

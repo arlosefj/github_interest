@@ -52,8 +52,32 @@ https://github.com/weitechen/anafora
 FoLiA：WEB版文本标注工具
 https://github.com/proycon/flat
 
+【多功能、可扩展的图像标注工具】’Scalabel - a versatile and scalable tool that supports various kinds of annotations needed for training computer vision models, especially for driving environment'
+https://github.com/scalabel/scalabel
+
+【人脸特征点标注工具】’FLAT - Facial Landmarks Annotation Tool - A visual editor for manually annotating facial landmarks in images of human faces.' 
+https://github.com/luigivieira/Facial-Landmarks-Annotation-Tool
+
+Gecko：人类对话高效标注工具
+https://github.com/gong-io/gecko
+
+社交行为标注分析工具
+https://github.com/hcmlab/nova
+
+【点云标注工具】’Point Cloud Labeling Tool - My awesome point cloud labeling tool' 
+https://github.com/jbehley/point_labeler
+
+面向AI训练的文本/文档标注服务
+https://www.tagtog.net/
+
 Poplar：网页版自然语言标注工具
 https://github.com/synyi/poplar
+
+### 网页版半自动图像标注框架 LOST: A flexible framework for semi-automatic image annotation
+https://github.com/l3p-cv/lost
+
+MuViLab：多视频标注工具
+https://github.com/ale152/muvilab
 
 ### dataset_labeling - 图片简易标注工具，标注类似ICDAR数据集，支持多边形标注，文本标注，方便OCR数据集标注
 https://github.com/jayney/dataset_labeling

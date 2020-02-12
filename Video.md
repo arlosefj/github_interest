@@ -92,3 +92,13 @@ https://github.com/Raveler/ffmpeg-cpp
 深度感知视频插帧(DAIN)
 https://github.com/baowenbo/DAIN
 
+### 【vid：完成视频的合成、合并、下载、裁剪、帧提取等日常任务的命令行工具】’vid - Command line tool for common video manipulations'
+https://github.com/achalddave/vid
+
+### 视频加工服务,浏览器版本
+https://github.com/easychen/ffonline
+http://ff.ftqq.com/
+
+Hysia 视频上线平台：基于智能多模态学习的视频、产品和广告分析系统，可用于构建产品推荐、视频检索等产品’Hysia Video to Online Platform [V1.0] - An intelligent multimodal-learning based system for video, product and ads analysis. Based on the system, you can build a lot of downstream applications such as product recommendation, video retrieval, etc.' by Cloud Application and Platform Lab
+https://github.com/cap-ntu/Video-to-Online-Platform
+

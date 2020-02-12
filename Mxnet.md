@@ -12,3 +12,6 @@ https://github.com/zeusees/Mnasnet-Pretrained-Model
 
 Lookahead Optimizer: k steps forward, 1step back
 https://github.com/wkcn/LookaheadOptimizer-mx
+
+将 MXNet 模型转换为高性能推理框架(NCNN/TVM)
+https://pan.baidu.com/s/16WKbTtU1CGF6CsuIUv8k4Q 
