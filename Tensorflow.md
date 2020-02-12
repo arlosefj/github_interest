@@ -25,6 +25,18 @@ https://github.com/tensorflow/model-optimization
 (TensorFlow)机器学习交互示例集
 https://research.google.com/seedbank/
 
+Tensorflow公平性评价、可视化工具集】
+https://github.com/tensorflow/fairness-indicators
+
+TensorFlow 2教程：tf.keras深度学习入门
+https://machinelearningmastery.com/tensorflow-tutorial-deep-learning-with-tf-keras/
+
+【TensorBoard.dev：分享机器学习实验结果的新方法】
+https://blog.tensorflow.org/2019/12/introducing-tensorboarddev-new-way-to.html
+
+Uber发布的TensorFlow分布式训练框架Horovod
+https:// github.com/uber/horovod ​​​​
+
 GitHub 标星 3.6k，一本开源的深度学习中文教程！
 https://mp.weixin.qq.com/s/JbX5rTzFV92_cdxGZ5e8rw
 

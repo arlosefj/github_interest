@@ -92,6 +92,9 @@ https://github.com/Raveler/ffmpeg-cpp
 深度感知视频插帧(DAIN)
 https://github.com/baowenbo/DAIN
 
+### GPU加速视频处理框架(C++/Python)
+https://github.com/NVIDIA/VideoProcessingFramework
+
 ### 【vid：完成视频的合成、合并、下载、裁剪、帧提取等日常任务的命令行工具】’vid - Command line tool for common video manipulations'
 https://github.com/achalddave/vid
 

@@ -13,11 +13,17 @@ https://github.com/chehongshu/ncnnforandroid_objectiondetection_Mobilenetssd
 ARM GPU等边缘计算设备上的深度学习视频监控、人脸识等
 https://github.com/SharpAI/DeepCamera
 
+### 【TensorRT 加速实现的实时姿态估计】
+https://github.com/NVIDIA-AI-IOT/trt_pose
+
 5MB的神经网络也高效，Facebook新压缩算法造福嵌入式设备
 https://mp.weixin.qq.com/s/m9I5TM9uJcgZvMusO667OA
 
 【嵌入式AI(边缘AI)相关资源列表】
 https://github.com/crespum/edge-ai
+
+【Bolt：面向移动设备的高性能、异构灵活的深度学习框架】
+https://github.com/huawei-noah/bolt
 
 物联网相关项目/资源大列表
 https://github.com/HQarroum/awesome-iot

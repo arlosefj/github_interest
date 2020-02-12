@@ -22,6 +22,12 @@ https://github.com/frenck/awesome-home-assistant
 基于树莓派的自动驾驶小车，利用树莓派和tensorflow实现小车在赛道的自动驾驶。（Self-driving car based on raspberry pie（tensorflow））
 https://github.com/Timthony/self_drive
 
+### 基于TensorFlow Lite的版本可在四核树莓派上实现超实时语音识别
+https://hacks.mozilla.org/2019/12/deepspeech-0-6-mozillas-speech-to-text-engine/
+
+### 开源的智能家居系统：Home Assistant
+https://github.com/home-assistant/home-assistant 你可以利用它来追踪并控制家里的智能设备，如灯光、温度、声音等。另外，Home Assistant 还提供了交互友好的管理后台，可自定义控制面板，并支持跨终端使用。
+
 DIY：用树莓派+EInk显示屏做智能日历
 https://github.com/zli117/EInk-Calendar
 

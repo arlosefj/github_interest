@@ -23,3 +23,9 @@ https://weibo.com/tv/v/IdVYx5YKE?fid=1034:4433210977773231
 
 ### 【OpenARK：UC Berkeley 开源可穿戴增强现实系统(C++)】
 https://github.com/augcog/OpenARK
+
+Yann LeCun：AR 眼镜将成为节能机器学习的杀手级应用
+https://venturebeat.com/2019/12/17/yann-lecun-ar-glasses-will-be-the-killer-app-of-energy-efficient-machine-learning/
+
+AR 中遮挡物的实时深度图生成
+https://weibo.com/tv/v/IioNMBIWv?fid=1034:4443852216452933   https://ai.facebook.com/blog/using-ai-to-create-real-time-depth-maps-for-occlusions-in-ar/

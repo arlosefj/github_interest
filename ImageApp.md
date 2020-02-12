@@ -19,11 +19,38 @@ https://learning-to-paint.github.io/
 PyTorch可视化时尚分析开源工具箱
 https://github.com/open-mmlab/mmfashion
 
+### 【PyTorch图像恢复/去噪工具箱】’KAIR - Image Restoration Toolbox (PyTorch). Training and testing codes for DnCNN, FFDNet, SRMD, DPSR, MSRResNet, ESRGAN, IMDN' 
+https://github.com/cszn/KAIR
+
+81页计算机视觉学习指南
+https://weibo.com/ttarticle/p/show?id=2309404434995602128900
+
+Image Processing Using Multi-Code GAN Prior
+https://github.com/JasonGUTU/Multi-Code-GAN-Prior https://arxiv.org/abs/1912.07116
+
+Asymmetric Generative Adversarial Networks for Image-to-Image Translation》
+https://github.com/Ha0Tang/AsymmetricGAN
+
+【图像/视频去噪算法资源集锦】
+https://github.com/z-bingo/awesome-image-denoising-state-of-the-art
+
+【图片/视频除雨相关文献资源列表】
+https://github.com/nnUyi/DerainZoo
+
+图片/视频去模糊相关资源列表
+https://github.com/subeeshvasu/Awesome-Deblurring
+
 Keras写的自驾系统
 https://github.com/littlemountainman/selfdrive
 
 【卷积网络图像质量评估】
 https://github.com/idealo/image-quality-assessment
+
+《Deep Motion Blur Removal Using Noisy/Blurry Image Pairs》
+https://arxiv.org/abs/1911.08541
+
+时尚推荐引擎：服装检索及视觉时尚推荐
+https://github.com/khanhnamle1994/fashion-recommendation
 
 ### 微软火箭视频分析平台：用于构建实时视频分析应用的人人可用高可扩展性软件栈，实现基于机器学习的对象检测和预警
 https://github.com/microsoft/Microsoft-Rocket-Video-Analytics-Platform

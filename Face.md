@@ -256,6 +256,8 @@ https://github.com/foamliu/InsightFace-v2
 Hair detection, segmentation, and hairstyle classification in the wild
 https://github.com/UmarSpa/HairAnalysis
 
+动漫人脸特征点检测
+https://github.com/kanosawa/anime_face_landmark_detection
 
 ### TensorRT-CenterNet - tensorrt5 , centernet , centerface' 
 https://github.com/CaoWGG/TensorRT-CenterNet
@@ -263,5 +265,27 @@ https://github.com/CaoWGG/TensorRT-CenterNet
 照片批量“人脸裁剪”工具
 https://github.com/leblancfg/autocrop
 
+【DeepFake换脸检测】’Visual DeepFake Detection - Towards deepfake detection that actually works' 
+https://github.com/dessa-public/DeepFake-Detection
+
+【GAN人脸编辑】《Face editing with Generative Adversarial Networks - YouTube》
+https://www.youtube.com/watch?v=dCKbRCUyop8
+
 Photo Reality：P脸美女“照妖镜”】“Photo Reality” 
 https://github.com/PeterWang512/FALdetector
+
+【换脸/渐变/变形/美化Repo大列表】
+https://github.com/mrgloom/Face-Swap
+
+实时人脸识别检测器，用CPU达到 30FPS
+https://github.com/markson14/Face-Recognition-Cpp
+
+【人脸识别手册(分类文献集)
+https://github.com/jiankangdeng/handbook
+
+'Face Reconstruction and Dense Alignment'
+https://github.com/Star-Clouds/FRDA
+
+【BlazeFace人脸检测】’BlazeFace in Python - The BlazeFace face detector model implemented in PyTorch'
+https://github.com/hollance/BlazeFace-PyTorch
+

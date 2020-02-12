@@ -27,3 +27,6 @@ https://github.com/qinenergy/adanet
 
 《Active Learning for Deep Detection Neural Networks》
 https://arxiv.org/abs/1911.09168
+
+【面向无人驾驶的可扩展主动学习】
+https://pan.baidu.com/s/1P9EuDv69sfcUvZka7xg49A

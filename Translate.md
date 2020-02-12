@@ -30,3 +30,6 @@ https://github.com/wangqiangneu/dlcl
 
 哈佛OpenNMT开源神经网络机器翻译 TensorFlow 2.0 实现版
 https://github.com/OpenNMT/OpenNMT-tf
+
+开源翻译平台 traduora，支持多人协作在线翻译，可导入导出 JSON、CSV、YAML 等多种文本格式。
+https://github.com/traduora/traduora

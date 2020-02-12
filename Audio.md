@@ -109,5 +109,38 @@ https://github.com/descriptinc/melgan-neurips
 用深度学习生成钢琴音乐
 https://github.com/haryoa/note_music_generator
 
+音频分析/音乐检索相关数据集大列表
+https://www.audiocontentanalysis.org/data-sets/
+
+用WaveNet让语音受损用户重拾原声(少样本自适应自然语音合成)
+https://deepmind.com/blog/article/Using-WaveNet-technology-to-reunite-speech-impaired-users-with-their-original-voices
+
 (C++)音频文件波形图生成
 https://github.com/bbc/audiowaveform
+
+【时域卷积DeepFake变音检测】
+https://github.com/dessa-public/fake-voice-detection
+
+Athena：(Tensorflow)端到端自动语音识别引擎开源实现
+https://github.com/didi/athena
+
+SV2TTS 
+https://github.com/CorentinJ/Real-Time-Voice-Cloning
+
+### 【GPU上的特定领域自动语音识别模型】《How to Build Domain Specific Automatic Speech Recognition Models on GPUs》
+https://devblogs.nvidia.com/how-to-build-domain-specific-automatic-speech-recognition-models-on-gpus/
+
+【(音频)数字信号处理入门(Notebooks)】
+https://github.com/earthspecies/from_zero_to_DSP
+
+### 【at16k：Python语音识别库】’at16k - Trained models for automatic speech recognition (ASR). A library to quickly build applications that require speech to text conversion.'
+https://github.com/at16k/at16k
+
+一维卷积网络音频处理
+https://github.com/KinWaiCheuk/nnAudio
+
+CRF数据高效端到端语音识别工具集
+https://github.com/thu-spmi/CAT
+
+【音乐波形域音源分离】’Music Source Separation in the Waveform Domain - source separation in the waveform domain for music' 
+https://github.com/facebookresearch/demucs

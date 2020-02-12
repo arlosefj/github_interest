@@ -13,6 +13,12 @@ https://teachablemachine.withgoogle.com/ https://github.com/googlecreativelab/te
 【手把手：将机器学习模型部署为REST API 】《Deploy Your Machine Learning Model as a REST API 》
 https://pan.baidu.com/s/1zGztpScX2JxJKpeNNhOBjA
 
+【收集各类深度学习项目,快速搭建demo.用最小代码量实现功能展现】
+https://github.com/zhangqijun/deeplearningdemo
+
+Comet ML — 你必須知道的 ML 實驗管理神器
+https://pan.baidu.com/s/1lK8ZuEInFDl7D0JHCkmG6w
+
 ### PyTorch Flask API 示例
 https://github.com/avinassh/pytorch-flask-api
 
@@ -73,6 +79,8 @@ https://github.com/xadrianzetx/fullstack.ai
 深度学习web应用：从数据采集到应用部署
 https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fdeep-learning-based-web-application-from-data-collection-to-deployment-9e89f29b67df
 
+###【YOLOv3的简化训练API】
+https://github.com/BMW-InnovationLab/BMW-YOLOv3-Training-Automation
 
 lightKG，lightsmile个人的知识图谱技术框架
 https://github.com/smilelight/lightKG
@@ -251,7 +259,14 @@ https://www.kaggle.com/jhoward/fastai-v2-pipeline-tutorial
 用 DeepStream SDK 加速实时AI视频/图像分析
 https://www.bilibili.com/video/av69983350
 
+【机器学习数据集版本控制入门】
+https://towardsdatascience.com/start-version-controlling-your-machine-learning-datasets-2b872e109856
+
 ## Teach
+
+Deepnote：面向团队的notebook，可实时协作
+https://www.deepnote.com/
+
 ### 企业级 Jupyter notebook 共享/协同应用
 https://github.com/nbgallery/nbgallery
 
@@ -314,3 +329,16 @@ https://medium.com/@oyper/how-to-present-your-product-to-investors-and-customers
 
 《Deep Learning vs. Traditional Computer Vision》
 https://arxiv.org/abs/1910.13796
+
+深度学习框架的技术挑战和发展趋势
+https://v.qq.com/x/page/e302689p3l0.html?&__t=1&ptag=1.sina&_out=1
+
+Yoshua Bengio：深度学习——从1型系统(直觉/无意识/感知)到2型系统(推理/规划/因果)
+https://www.bilibili.com/video/av79448071?p=1
+
+【NeurIPS 2019 关键趋势总结】
+https://huyenchip.com/2019/12/18/key-trends-neurips-2019.html https://venturebeat.com/2019/12/13/google-ai-chief-jeff-dean-interview-machine-learning-trends-in-2020/
+1、机器学习专用芯片将会更有优势； 2、社区不应该痴迷于 SOTA； 3、多模态、多任务和多模型学习会是一个有趣的方向。
+
+“Melanie Mitchell访谈：概念、类比、常识与AI未来”
+https://www.bilibili.com/video/av65677422?p=9

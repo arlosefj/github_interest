@@ -12,6 +12,15 @@ DynaSLAM is a SLAM system robust in dynamic environments for monocular, stereo a
 ### Real-time SLAM system with deep features
 https://github.com/jiexiong2016/GCNv2_SLAM
 
+'Semantic SLAM - Semantic SLAM using ROS, ORB SLAM, PSPNet101' 
+https://github.com/1989Ryan/Semantic_SLAM
+
+'SLAM 学习与开发经验分享'
+https://github.com/AlbertSlam/Lee-SLAM-source
+
+'Awesome-SLAM-Papers - A curated list of SLAM-related papers / SLAM文章速递' 
+https://github.com/YoujieXia/Awesome-SLAM-Papers
+
 【SLAM相关资源大列表】
 https://github.com/YoujieXia/Awesome-SLAM
 

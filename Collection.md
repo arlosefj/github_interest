@@ -21,3 +21,9 @@ https://github.com/josephchang10/awesome-indie https://github.com/mezod/awesome-
 
 30个非常实用的心理学小窍门
 https://weibo.com/tv/v/HBED7uD44?fid=1034:4389743065034223
+
+全球 8000 多个公共的 IPTV 频道，领域覆盖历史、教育、商业、电影、音乐.
+https://github.com/iptv-org/iptv
+
+'笔记/搜集/摘录/实践'
+https://github.com/jaywcjlove/handbook

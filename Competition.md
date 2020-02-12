@@ -44,6 +44,15 @@ https://towardsdatascience.com/how-a-team-of-deep-learning-newbies-came-3rd-plac
 '阿水的开源比赛方案集锦’
 https://github.com/finlay-liu/kaggle_public
 
+【开放 机器学习/数据科学/AI 竞赛大列表】
+https://github.com/mlcontests/mlcontests.github.io
+
+Kaggle卫星云图理解比赛第一名解决方案
+https://github.com/pudae/kaggle-understanding-clouds
+
+Kaggle RSNA颅内出血检测比赛第三名方案
+https://github.com/okotaku/kaggle_rsna2019_3rd_solution
+
 Kaggle入门实战
 https://www.bilibili.com/video/av66097664/
 

@@ -16,6 +16,39 @@ https://github.com/ahmetozlu/signature_extractor
 ### 【文档图像校正与光照校正】
 https://github.com/xiaoyu258/DocProj
 
+### '2019CCF-BDCI大赛基于OCR身份证要素提取赛冠军方案’ 
+https://github.com/Mingtzge/2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement
+
+'汉字字符特征提取器 (featurizer)，提取汉字的特征（发音特征、字形特征）用做深度学习的特征' 
+https://github.com/howl-anderson/hanzi_char_featurizer
+
+【CRNN (CNN+RNN)车牌识别】
+https://github.com/qjadud1994/CRNN-Keras
+
+【基于darknet框架实现CTPN版本自然场景文字检测与CNN+CTCOCR文字识别】
+https://github.com/chineseocr/darknet-ocr
+
+'Scanner - 二维码/条码识别、身份证识别、银行卡识别、车牌识别、图片文字识别、黄图识别' 
+https://github.com/shouzhong/Scanner
+
+【教程：用YOLO+Tesseract实现定制OCR系统】
+https://medium.com/saarthi-ai/how-to-build-your-own-ocr-a5bb91b622ba
+
+### 'LaTeX OCR - 数学公式识别' 
+https://github.com/LinXueyuanStdio/LaTeX_OCR
+
+【深度学习OCR/文档分析/文本识别/语言建模教程资料】
+https://github.com/tmbdev/icdar2019-tutorial
+
+将书本公式快速转换为 LaTex 格式
+https://mp.weixin.qq.com/s/vNNNJumpgobE-iAdharL9A https://github.com/blaisewang/img2latex-mathpix
+
+### PyTorch 实现的 MTCNN/LPRNet 车牌识别
+https://github.com/xuexingyu24/License_Plate_Detection_Pytorch
+
+'选字验证码破解'
+https://github.com/cos120/captcha_crack
+
 Seq2Seq+Attention 中文OCR文字识别
 https://github.com/bai-shang/crnn_seq2seq_ocr_pytorch
 

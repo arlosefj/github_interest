@@ -25,11 +25,20 @@ https://github.com/huangjianke/Gitter
 用Fritz在手机上训练、部署多种机器学习模型
 https://github.com/fritzlabs/fritz-models
 
+'awesome-wepy - 微信小程序组件化开发框架wepy开发资源汇总' 
+https://github.com/aben1188/awesome-wepy
+
+【Pyto：iOS上的Python开发环境】
+https://github.com/ColdGrub1384/Pyto
+
 PyTorch iOS examples
 https://github.com/pytorch/ios-demo-app
 
 iPhone手机上的ESPNetv2实时语义分割
 https://github.com/sacmehta/ESPNetv2-COREML
+
+【手机端机器学习：你能用它做什么？】
+https://pan.baidu.com/s/1s-BI3M9zVbcM5hKtI1iWXQ
 
 ### PyTorch Mobile：部署到手机上的端到端PyTorch深度学习工作流
 https://pytorch.org/mobile/home/

@@ -183,6 +183,31 @@ https://github.com/libreai/neural-painters-x
 ### SinGAN: Learning a Generative Model from a Single Natural Image
 https://github.com/tamarott/SinGAN
 
+《CPGAN: Full-Spectrum Content-Parsing Generative Adversarial Networks for Text-to-Image Synthesis》
+https://github.com/dongdongdong666/CPGAN
+
+
+### Ambient Lighting Generation for Flash Images with Guided Conditional Adversarial Networks
+https://github.com/jozech/flash-to-ambient
+
+### StyleGAN2
+https://github.com/NVlabs/stylegan2 https://github.com/rosinality/stylegan2-pytorch https://github.com/manicman1999/StyleGAN2-Tensorflow-2.0
+
+'基于StyleGAN2的新版人脸生成器'
+https://github.com/a312863063/generators-with-stylegan2
+
+《UWGAN: Underwater GAN for Real-world Underwater Color Restoration and Dehazing》
+https://github.com/infrontofme/UWGAN_UIE
+
+【非官方PyTorch 1.0.1实现的StyleGAN2】
+https://github.com/tomguluson92/StyleGAN2_PyTorch
+
+'动漫脸生成器 - 用StyleGAN训练出的动漫脸生成器' 
+https://github.com/a312863063/seeprettyface-ganerator-dongman
+
+【GANs的PyTorch实现集锦】
+https://github.com/Yangyangii/GAN-Tutorial
+
 条件StyleGAN标志生成
 https://github.com/cedricoeldorf/ConditionalStyleGAN
 

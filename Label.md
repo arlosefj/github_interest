@@ -49,6 +49,9 @@ https://github.com/natasha/ipyannotate
 Anafora：网页版文本标注工具
 https://github.com/weitechen/anafora
 
+【doccano：基于网页的开源协同多语言文本标注工具】
+https://github.com/doccano/doccano
+
 FoLiA：WEB版文本标注工具
 https://github.com/proycon/flat
 

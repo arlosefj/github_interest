@@ -26,8 +26,14 @@ https://github.com/jinfagang/Thor
 【Radish：C++深度学习模型训练/部署框架】'Radish - C++ model train&inference framework' 
 https://github.com/LieLuoboai/radish
 
+ImJoy：插件化的深度学习混合计算平台
+https://github.com/oeway/ImJoy
+
 BytePS：支持TensorFlow, Keras, PyTorch, MXNet的通用高性能训练框架
 https://github.com/bytedance/byteps
+
+Alink：基于Flink的通用算法平台，由阿里巴巴计算平台PAI团队研发
+https://github.com/alibaba/Alink
 
 机器学习模型管理框架概览：MLFlow/DVC/Sacred
 https://www.inovex.de/blog/machine-learning-model-management/

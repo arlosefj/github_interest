@@ -31,6 +31,18 @@ https://github.com/HKUSTCV/FSS-1000
 【小数据如何深度学习】《How To Use Deep Learning Even with Small Data - Towards Data Science》
 https://towardsdatascience.com/how-to-use-deep-learning-even-with-small-data-e7f34b673987
 
+《All you need is a good representation: A multi-level and classifier-centric representation for few-shot learning》
+https://arxiv.org/abs/1911.12476
+
+【少样本语义分割文献列表】
+https://github.com/xiaomengyc/Few-Shot-Semantic-Segmentation-Papers
+
+【少样本/零样本学习文献资源列表】
+https://github.com/e-271/awesome-few-shot-learning
+
+【少样本学习相关文献列表】
+https://github.com/Duan-JM/awesome-papers-fewshot
+
 用十亿级半监督学习实现最先进图像与视频分类
 https://ai.facebook.com/blog/billion-scale-semi-supervised-learning/
 

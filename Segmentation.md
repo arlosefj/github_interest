@@ -164,8 +164,26 @@ https://github.com/WannaFIy/mask_AD
 BodyPix(2.0)：TensorFlow.js 实现的浏览器里的实时人体图像分割
 https://blog.tensorflow.org/2019/11/updated-bodypix-2.html   https://storage.googleapis.com/tfjs-models/demos/body-pix/index.html
 
+【语义分割训练/部署框架】'Bonnetal! - Bonnet and then some! Deep Learning Framework for various Image Recognition Tasks' 
+https://github.com/PRBonn/bonnetal
+
+《Learning a Spatio-Temporal Embedding for Video Instance Segmentation》
+https://arxiv.org/abs/1912.08969
+
+【视频目标分割文献列表】
+https://github.com/du0915/Video-Object-Segmentation-Paper-List
+
+《UNet++: Redesigning Skip Connections to Exploit Multiscale Features in Image Segmentation》
+https://github.com/MrGiovanni/UNetPlusPlus
+
 ### 【YOLACT实时实例分割】《YOLACT: Real-Time Instance Segmentation [ICCV Trailer] - YouTube》
-https://github.com/dbolya/yolact
+https://github.com/dbolya/yolact 
+
+【PyTorch轻量实时语义分割模型】'Efficient-Segmentation-Networks - Lightweight models for real-time semantic segmentationon PyTorch (include SQNet, LinkNet, SegNet, UNet, ENet, ERFNet, EDANet, ESPNet, ESPNetv2, LEDNet, ESNet, FSSNet, CGNet, DABNet, Fast-SCNN, ContextNet, FPENet, etc.)' 
+https://github.com/xiaoyufenfei/Efficient-Segmentation-Networks
+
+道路图像(街景)快速语义分割
+https://github.com/lxtGH/Fast_Seg
 
 【(PyTorch)实例分割/对象检测算法快速模块化参考实现】’Rotated Mask R-CNN - Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch.' 
 https://github.com/mrlooi/rotated_maskrcnn

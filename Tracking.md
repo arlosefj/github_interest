@@ -27,6 +27,9 @@ https://github.com/adipandas/multi-object-tracker
 TensorFlow.js 实现的实时目标追踪
 https://github.com/cloud-annotations/object-tracking-js
 
+Deep Learning for Visual Tracking: A Comprehensive Survey
+https://github.com/MMarvasti/Deep-Learning-for-Visual-Tracking-Survey
+
 ### Learning the Model Update for Siamese Trackers (ICCV 2019)
 https://github.com/zhanglichao/updatenet
 

@@ -143,6 +143,18 @@ https://github.com/SCUT-AILab/DCP
 A PyTorch implementation of "Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights"
 https://github.com/Mxbonn/INQ-pytorch
 
+【PyTorch实现的深度模型压缩】
+https://github.com/666DZY666/model-compression
+
+【深度网络压缩文献/代码列表】
+https://github.com/csyhhu/Awesome-Deep-Neural-Network-Compression
+
+【模型压缩相关文献资源大列表】
+https://github.com/ChanChiChoi/awesome-model-compression
+
+【神经网络压缩与加速资源集锦】
+https://github.com/mrgloom/Network-Speed-and-Compression
+
 Neural Rejuvenation: Improving Deep Network Training by Enhancing Computational Resource Utilization at CVPR'19
 https://github.com/joe-siyuan-qiao/NeuralRejuvenation-CVPR19
 

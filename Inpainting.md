@@ -38,6 +38,12 @@ https://arxiv.org/abs/1909.07957
 ### 从视频里“擦除”框选的目标
 https://github.com/zllrunning/video-object-removal
 
+【.NET实现的智能图像内容补全】’Inpainting - Want to remove something(someone) from a photo as it never was there? This is .NET implementation of content-aware fill. It smartly fills in unwanted or missing areas of photographs.' 
+https://github.com/zavolokas/Inpainting
+
+### 《LaFIn: Generative Landmark Guided Face Inpainting》
+https://github.com/YaN9-Y/lafin
+
 修复
 https://github.com/akmtn/pytorch-siggraph2017-inpainting
 http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/​

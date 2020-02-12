@@ -103,6 +103,9 @@ https://github.com/Microsoft/nni/releases
 PyTorch implementation of "Searching for A Robust Neural Architecture in Four GPU Hours", CVPR 2019
 https://github.com/D-X-Y/GDAS
 
+【女孩图片多标签分类】
+https://github.com/KichangKim/DeepDanbooru
+
 【Keras超参调试器】’Keras Tuner - Hyperparameter tuning for humans' 
 https://github.com/keras-team/keras-tuner
 

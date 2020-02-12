@@ -31,6 +31,39 @@ https://github.com/open-mmlab/mmdetection
 ### PyTorch实现的DenseBox多任务学习目标检测/关键点定位
 https://github.com/CaptainEven/DenseBox
 
+### Learning Spatial Fusion for Single-Shot Object Detection
+https://github.com/ruinmessi/ASFF
+
+### 【路面坑洼检测】
+https://github.com/JordanMicahBennett/Smart-Ai-Pothole-Detector------Powered-by-Tensorflow-TensorRT-on-Google-Colab-and-or-Jetson-Nano
+
+【tf.keras实现的YOLOv3/v2目标检测pipeline】
+https://github.com/david8862/keras-YOLOv3-model-set
+
+【ZazuML：面向实例检测的开源AutoML项目】
+https://github.com/dataloop-ai/ZazuML
+
+“目标检测和图像分类算法”
+https://www.bilibili.com/video/av80558087/
+
+### '基于CenterNet训练的目标检测器和姿态估计模型' tensorrt
+https://github.com/bleakie/CenterMulti
+
+'YOLOv3 Darknet GPU Inference API for Linux' 
+https://github.com/BMW-InnovationLab/BMW-YOLOv3-Inference-API-GPU
+
+【Tensorflow目标检测图形化训练界面
+https://github.com/BMW-InnovationLab/BMW-TensorFlow-Training-GUI
+
+【YOLO3的通道剪枝/层剪枝压缩】
+https://github.com/tanluren/yolov3-channel-and-layer-pruning
+
+'Strongeryolo-pytorch - Pytorch implementation of Stronger-Yolo with channel-pruning.'
+https://github.com/wlguan/Stronger-yolo-pytorch
+
+Side-Aware Boundary Localization for More Precise Object Detection
+https://github.com/open-mmlab/mmdetection
+
 【自动安全帽佩戴检测】’Automatic Hardhat Wearing Detection - Helmet Detection on Construction Sites'
 https://github.com/wujixiu/helmet-detection
 

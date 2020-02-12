@@ -26,8 +26,14 @@ https://github.com/retejs/rete
 33-js-concepts：该项目介绍了每个 Javascript 开发者应该知道的 33 个概念。列举了 Javascript 中非常常见的 33 个概念，对于深入了解 Javascript 语言有很大的帮助
 https://github.com/stephentian/33-js-concepts
 
+一款专业的图形可视化引擎，基于 JavaScript 构建
+https://github.com/antvis/G6
+
 纯JavaScript图像处理库
 https://github.com/oliver-moran/jimp
+
+一个开源的前端课程，教新手从零到一学前端
+https://github.com/lefex/FE/
 
 一款基于 React 的轻量级在线视频播放器组件，界面简洁、操作流畅具有视频播放器的基础功能。方便你在项目中轻松添加播放器组件，实现视频播放功能。如果你嫌原生 video 功能太少、操作太傻、界面太简陋，那这个播放器就是你的菜。你还能够通过阅读源码学习到关于生命周期执行顺序、父子组件传值的方式、以及如何利用定时器进行一些实时的状态更新的技巧
 https://github.com/vortesnail/qier-player

@@ -46,6 +46,33 @@ https://github.com/ONLYOFFICE/DocumentServer
 面向小团队/初创企业的项目管理系统(PHP/JS/MySQL)
 https://github.com/Leantime/leantime
 
+clayoven：支持LaTeX，面向数学、编程和文章的漂亮网站生成器
+https://github.com/artagnon/clayoven
+
+### Memex：个人知识管理平台
+https://github.com/kormyen/Memex
+
+'Qt编写的开源demo集’ 
+https://github.com/feiyangqingyun/QWidgetDemo
+
+【Mermaid：用类似Markdown的语法创建图表】
+https://medium.com/better-programming/mermaid-create-charts-and-diagrams-with-markdown-88a9e639ab14
+
+“技术文章配图指南”
+https://draveness.me/sketch-and-sketch
+
+免费好用的软件哪里找？GitHub 上的这些资源不能错过
+https://sspai.com/post/53901
+
+### MIT课程：计算机科学“补漏”课——如何充分利用高效程序员常用工具：如何玩转命令行，如何使用强大的文本编辑器，如何高效使用版本控制，如何自动化日常任务，如何管理包和软件，如何配置桌面环境等
+https://www.bilibili.com/video/av77912571/
+
+### markmap：将markdown文档显示为思维导图的Javascript库
+https://github.com/dundalek/markmap
+
+一款开源的前端编辑器，主要对微信排版做了适配
+https://github.com/doocs/md
+
 mac软件推荐
 https://weibo.com/1088413295/H3K951Fup?sudaref=weibo.com&type=comment
 

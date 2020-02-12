@@ -11,11 +11,29 @@ https://github.com/MhLiao/SynthText3D 1907.06007
 克服自然场景视频理解的大规模标注需求
 https://github.com/cmhungsteve/TA3N
 
+【自动生成花卉工笔画】
+https://github.com/LingDong-/nonflowers
+
+【用“Contrastive Predictive Coding 2.0”将深度学习需要的标记数据量降低2-5倍】
+https://medium.com/@lessw/reducing-your-labeled-data-requirements-2-5x-for-deep-learning-google-brains-new-contrastive-2ac0da0367ef
+
 《Cali-Sketch: Stroke Calibration and Completion for High-Quality Face Image Generation from Poorly-Drawn Sketches》
 https://arxiv.org/abs/1911.00426
 
+Data Dive(DeeDive)：自动数据探索(在线)工具，自动完成数据摘要、可视化，用于假设生成、发现数据中的现象/模式
+https://www.mooremetrics.com/deedive/
+
+【数据增广综述(资源大列表)】’Data augmentation - List of useful data augmentation resources. You will find here some not common techniques, libraries, links to github repos, papers and others.' 
+https://github.com/AgaMiko/data-augmentation-review
+
+Controlling Style and Semantics in Weakly-Supervised Image Generation
+https://arxiv.org/abs/1912.03161
+
 PyTorch图像测试时增广
 https://github.com/qubvel/ttach
+
+### Semantic Bottleneck Scene Generation
+https://github.com/azadis/SB-GAN
 
 ### 少样本视频到视频合成：人体骨架、涂鸦、街景分割图的逼真视频合成
 https://github.com/NVlabs/few-shot-vid2vid

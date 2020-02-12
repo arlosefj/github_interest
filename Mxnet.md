@@ -15,3 +15,6 @@ https://github.com/wkcn/LookaheadOptimizer-mx
 
 将 MXNet 模型转换为高性能推理框架(NCNN/TVM)
 https://pan.baidu.com/s/16WKbTtU1CGF6CsuIUv8k4Q 
+
+【AutoGluon：MXNet自动化机器学习工具集】
+https://github.com/awslabs/autogluon

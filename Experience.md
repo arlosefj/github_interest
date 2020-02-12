@@ -16,6 +16,9 @@ https://towardsdatascience.com/10-lessons-learned-from-participating-to-google-a
 技术面试常见问题/解答集锦
 https://github.com/FAQGURU/FAQGURU
 
+'船长黑板报 - 关于机器学习、计算机视觉和工程技术的总结和分享'
+https://github.com/Captain1986/CaptainBlackboard
+
 【构建实用深度学习系统得到的经验教训】
 https://www.slideshare.net/xamat/lessons-learned-from-building-practical-deep-learning-systems
 

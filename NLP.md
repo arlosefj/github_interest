@@ -60,8 +60,41 @@ https://github.com/thunlp/OpenCLaP
 DocSearch：免费文档搜索引擎
 https://github.com/algolia/docsearch
 
+【简单实用的BERT API服务】
+https://github.com/robrua/easy-bert
+
+中文歌词生成
+https://github.com/yangjianxin1/QQMusicSpider
+
+【Mycroft：开源语音助理】
+https://github.com/MycroftAI
+
+### 【(Python)Alexis语音助理】
+https://github.com/bradtraversy/alexis_speech_assistant
+
+【基于BERT的OpenKP序列标注】
+https://github.com/thunlp/Bert2Tag
+
+### 'COPE - 格律诗编辑程序 - A modern IDE for writing classical Chinese poetry'
+https://github.com/LingDong-/cope
+
+【MeiliSearch：高效易用的开源全文搜索API】
+https://github.com/meilisearch/MeiliSearch
+
+【手把手教你用GPT-2辅助写作(内容生成)】
+https://github.com/ADGEfficiency/creative-writing-with-gpt2
+
+【用于中文闲聊的GPT2模型】
+https://github.com/yangjianxin1/GPT2-chitchat
+
 Awesome-Nlp-Questions
 https://github.com/Dikea/Awesome-Nlp-Questions
+
+腾讯 800 万中文词向量 API Demo 搭建
+https://mp.weixin.qq.com/s/JB3Tg8s8YHfLL0kLtR92kw
+
+Transformers最新增加Distil-mBERT，模型更小，速度更快
+https://github.com/huggingface/transformers/tree/master/examples/distillation
 
 ### ICLR 2020 OpenReview 论文数据爬取/可视化
 https://github.com/shaohua0116/ICLR2020-OpenReviewData

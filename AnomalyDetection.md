@@ -29,3 +29,6 @@ https://anomagram.fastforwardlabs.com/#/
 
 ### Python可扩展多元异常检测工具包
 https://github.com/yzhao062/Pyod
+
+【改进机器学习模型分布外异常检测】
+https://ai.googleblog.com/2019/12/improving-out-of-distribution-detection.html

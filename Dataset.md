@@ -1,4 +1,7 @@
 
+VizWiz Dataset Browser: A Tool for Visualizing Machine Learning Datasets
+https://arxiv.org/abs/1912.09336
+
 数据集索引
 https://hyper.ai/datasets
 
@@ -12,11 +15,35 @@ https://europe.naverlabs.com/blog/announcing-virtual-kitti-2/
 史上最大规模1.4亿中文知识图谱
 https://github.com/ownthink/KnowledgeGraphData
 
+'QQ音乐爬虫(with scrapy)/QQ Music Spider/49万+歌曲信息(歌曲信息、歌词、精彩评论等)数据’ 
+https://github.com/yangjianxin1/QQMusicSpider
+
+ObjectNet：借鉴了其他科学领域控制思想的新视觉数据集
+https://objectnet.dev/
+
+【CoreUI高品质免费图标集】
+https://github.com/coreui/coreui-icons
+
+【AVSpeech大规模音视频数据集】
+https://github.com/changil/avspeech-downloader
+
+【安全帽佩戴检测数据集】'SafetyHelmetWearing-Dataset - Safety helmet wearing detect dataset, with pretrained model' 
+https://github.com/njvisionpower/Safety-Helmet-Wearing-Dataset
+
+Furnishing Your Room by What You See: An End-to-End Furniture Set Retrieval Framework with Rich Annotated Benchmark Dataset
+https://arxiv.org/abs/1911.09299
+
+Creative Flow+ 数据集：大型密集标注艺术视频数据集，标注包括光流、遮挡、对应关系、分割标记、法线和深度等
+https://www.cs.toronto.edu/creativeflow/
+
 Human3.6M：包含360万个人体姿态和相应图像的3D人体姿态数据集
 http://vision.imar.ro/human3.6m/description.php
 
 图像配准资源集
 https://github.com/uncbiag/registration
+
+【RoboNet：大规模多机器人学习数据集】
+https://bair.berkeley.edu/blog/2019/11/26/robo-net/
 
 【RGBD数据集列表】“List of RGBD datasets” 
 http://www.michaelfirman.co.uk/RGBDdatasets/

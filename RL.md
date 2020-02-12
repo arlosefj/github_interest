@@ -58,6 +58,15 @@ https://github.com/deepmind/open_spiel
 Real-Time Reinforcement Learning
 https://github.com/rmst/rtrl
 
+多智能体强化学习环境
+https://github.com/Bigpig4396/Multi-Agent-Reinforcement-Learning-Environment
+
+Unpaired Image Enhancement Featuring Reinforcement-Learning-Controlled Image Editing Software
+https://www.arxiv-vanity.com/papers/1912.07833/
+
+“强化学习：过去、现在和未来(NeurIPS 2019)”
+https://www.bilibili.com/video/av79448071?p=8
+
 'State-of-the-art Model-free Reinforcement Learning Algorithms - PyTorch implementation of Soft Actor-Critic (SAC), Twin Delayed DDPG (TD3), Actor-Critic (AC/A2C), Proximal Policy Optimization (PPO), QT-Opt, PointNet..'
 https://github.com/quantumiracle/SOTA-RL-Algorithms
 

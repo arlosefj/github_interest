@@ -46,6 +46,9 @@ https://github.com/Johnqczhang/densepose_installation
 【AlphaPose 的高性能 PyTorch 实现】'Amanbhandula - AlphaPose Implementation in Pytorch along with the pre-trained wights' 
 https://github.com/Amanbhandula/AlphaPose
 
+【视频三维人体姿态检测】’Video to Pose3D - Convert video to 3D pose in one-key.' 
+https://github.com/zh-plus/video-to-pose3D
+
 'PoseNet Pytorch - A PyTorch port of Google TensorFlow.js PoseNet (Real-time Human Pose Estimation)' 
 https://github.com/rwightman/posenet-pytorch
 

@@ -55,3 +55,45 @@ https://github.com/gramener/comicgen https://gramener.com/comicgen/
 
 Repository for the CVPR19 oral paper "Domain Generalization by Solving Jigsaw Puzzles"
 https://github.com/fmcarlucci/JigenDG
+
+用单张动漫头像生成动画，可指定姿态或从真人示范视频迁移
+https://pkhungurn.github.io/talking-head-anime/
+
+用 tf.Keras 打造深度图片搜索引擎
+https://github.com/CVxTz/image_search_engine
+
+Fast.ai 深度学习课程学员练手项目
+https://github.com/jamesdellinger/fastai_deep_learning_course_part2_v3
+
+fastai 程序员深度学习实战课程v3 Notebooks汉化版
+https://github.com/fastai/course-v3/tree/master/zh-nbs
+
+AI新功能之自动剪视频
+http://www.faculty.idc.ac.il/arik/site/writeVideo.asp 怎样用文字创作视频呢？第一步，用户以文本的形式提供输入。Write-A-Video会挑选出句子中的关键词。第二步，Write-A-Video会利用关键词，把素材库里与之相匹配的候选片段挑出来。第三步，就是将这些镜头组合在一起，完成视频的剪辑。
+
+车载广告牌的新生意：数据收集——“街道和桌面、手机一样有价值。我们花了大把时间只为了巡游世界。”
+https://www.citylab.com/transportation/2019/11/firefly-digital-advertising-driver-pay-uber-lyft-cars-data/602077/
+
+【超强算法：一张图让二次元妹纸活起来】只要输入一张静态的老婆，就能让她动起来，会张嘴会眨眼，还能东张西望，抬眼看天。仿佛成了3D老婆。并且，你想让妹子怎样动，姿势都可以定制。
+https://mp.weixin.qq.com/s/AK199QUu7S9qBPO3HjezXQ
+
+用单张动漫头像生成动画，可指定姿态或从真人示范视频迁移
+https://github.com/pkhungurn/talking-head-anime-demo
+
+【拍照解数独应用】’AI_Sudoku - GUI based Smart Sudoku Solver that tries to extract a sudoku puzzle from a photo and solve it' 
+https://github.com/neeru1207/AI_Sudoku
+
+### 【基于YOLOv3的交通信号违章检测系统】
+https://github.com/anmspro/Traffic-Signal-Violation-Detection-System
+
+AI技术可以一键把静态二次元妹子图转换成VTuber
+https://pkhungurn.github.io/talking-head-anime/
+
+### 【唇色/发色编辑器】
+https://github.com/zllrunning/face-makeup.PyTorch
+
+Pytorch实现的少样本视频-视频转换，可实现多种 示范-合成 任务
+https://github.com/NVlabs/few-shot-vid2vid
+
+总结报告自动生成+手写机 
+www.diyifanwen.com，www.xiangdang.net，www.ypppt.com

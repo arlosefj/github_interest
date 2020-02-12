@@ -58,5 +58,26 @@ https://weibo.com/tv/v/I0VFwEEt9?fid=1034:4402067851434296
 Python 语言编写的植物大战僵尸。学习如何使用 Python 编写小游戏的极佳例子
 https://github.com/marblexu/PythonPlantsVsZombies
 
+【PlayCanvas：快速轻量的WebGL游戏引擎】
+https://github.com/playcanvas/engine
+
+【回忆杀：魔法门之英雄无敌III开源引擎】
+https://github.com/vcmi/vcmi
+
 ### 一个基于机器学习的地下城文字游戏。此项目介绍了如何使用机器学习构建一个游戏，代码简单清晰适合 AI 爱好者深入研究
 https://github.com/AIDungeon/AIDungeon
+
+'Game-Programmer-Study-Notes - ⚓️ 游戏程序员生涯的读书笔记合辑，涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容' 
+https://github.com/QianMo/Game-Programmer-Study-Notes
+
+【Python实现的德州扑克】’Python Poker - Texas Holdem Poker made with Python and TKinter' 
+https://github.com/Jeremiah9000/Poker-with-Python
+
+【Python国际象棋库】
+https://github.com/niklasf/python-chess
+
+【Python写的“植物大战僵尸”】
+https://github.com/marblexu/PythonPlantsVsZombies
+
+Viry3D：C++ 跨平台 3D 游戏引擎】'Viry3D - Cross platform 2D and 3D game engine in C++.'
+https://github.com/stackos/Viry3D

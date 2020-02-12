@@ -172,6 +172,30 @@ https://github.com/vaibhawvipul/First-steps-towards-Deep-Learning
 'torchprofile - A general and accurate MACs / FLOPs profiler for PyTorch models.'
 https://github.com/mit-han-lab/torchprofile
 
+【PyTorch教程：用TensorBoard实现模型、数据和训练过程可视化】
+https://pytorch.org/tutorials/intermediate/tensorboard_tutorial.html
+
+【PyTorch Elastic ：PyTorch分布式训练框架】
+https://github.com/pytorch/elastic
+
+将训练数据快速便捷地加载到深度学习框架
+https://github.com/NVlabs/tensorcom
+
+【PyTorch半监督学习工具包】
+https://github.com/moskomule/ssl-suite
+
+###【PyTorch小trick集锦】’pytorch_tricks - some tircks for PyTorch' 
+https://github.com/zxdefying/pytorch_tricks
+
+【PyTorch深度学习教程C++实现版】
+https://github.com/prabhuomkar/pytorch-cpp
+
+一文总结Pytorch的8张思维导图!
+https://bigquant.com/community/t/topic/157823?utm_source=weibo&utm_campaign=191121_l1
+
+【PyTorch深度学习项目框架模板(最佳实践)】’PyTorch Project Template - A best practice for deep learning project template architecture.'
+https://github.com/L1aoXingyu/Deep-Learning-Project-Template
+
 (PyTorch)轻量实时语义分割模型集锦
 https://github.com/Tramac/Lightweight-Segmentation
 

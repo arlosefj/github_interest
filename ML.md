@@ -119,14 +119,80 @@ https://pan.baidu.com/s/196P5CuE2_pJHaEkPXl1edw
 【fastai资源大列表】’awesome-fastai - collection of fastai resources: blog posts, twitter threads etc.' 
 https://github.com/ucalyptus/awesome-fastai
 
+'Benchmarks for Bayesian optimization'
+https://github.com/jungtaekkim/bayeso-benchmarks
+
 ### 【计算机视觉迁移学习教程】
 https://github.com/MyLtYkRiTiK/ComputerVision_Tutorials
+
+【Trax：通向高级深度学习的简单路径】'Trax: your path to advanced deep learning' 
+https://github.com/google/trax
+
+Isotonic Regression：你可能错过的最酷的机器学习模型
+https://towardsdatascience.com/isotonic-regression-is-the-coolest-machine-learning-model-you-might-not-have-heard-of-3ce14afc6d1e
 
 统计学习方法 清华大学深圳研究院的袁春教授为《统计学习方法（第2版）》制作了课件。可以在清华大学出版社网站下载。
 http://www.tup.tsinghua.edu.cn/booksCenter/book_08132901.html 
 
+【机器学习实战速成课】
+https://pan.baidu.com/s/1I5HI1ZURY6VHnVGqK_DDmA
+
+【金融强化学习/深度学习/进化/遗传算法资源大列表】
+https://github.com/georgezouq/awesome-deep-reinforcement-learning-in-finance
+
+【practicalAI 2.0：实用机器学习方法(基于TensorFlow 2.0 + Keras)】
+https://practicalai.me/
+
+“开发者机器学习备忘单”
+https://www.bilibili.com/video/av78463028
+
+AI/机器学习/深度学习相关资源、笔记集锦
+https://github.com/neomatrix369/awesome-ai-ml-dl
+
+【Kaggle特征/预处理工具箱】
+https://github.com/Ynakatsuka/kaggle_utils
+
+【免费书：机器学习数学基础】
+https://mml-book.github.io/book/mml-book.pdf
+
 ### MachineLP CodeFun
 https://github.com/MachineLP/MachineLP-CodeFun
+
+【局部/全局描述子资源列表】’awesome-local-global-descriptor - My personal note about local and global descriptor' 
+https://github.com/shamangary/awesome-local-global-descriptor
+
+【深度学习自动化实战教程】’CVPR 2020 Tutorial: Hands-on Tutorial on Automatic Deep Learning (Proposing)'
+https://github.com/zhanghang1989/AutoGluon-Tutorial-CVPR2020
+
+《图解深度学习》随书代码
+https://github.com/the-deep-learners/deep-learning-illustrated
+
+机器学习论文笔记/摘要集
+https://github.com/yassouali/ML_paper_notes
+
+机器学习生命周期框架
+https://github.com/zyfra/ebonite
+
+【机器学习系统设计指南】’Machine Learning Interviews - Machine Learning Systems Design'
+https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf
+
+机器学习教程代码集
+https://github.com/TannerGilbert/Tutorials
+
+kaos：机器学习简化部署开源平台
+https://github.com/KI-labs/kaos
+
+“一站式” AI 快速原型开发容器】
+https://github.com/NVAITC/ai-lab
+
+将“整洁代码”思想应用于机器学习/数据科学
+https://github.com/davified/clean-code-ml
+
+语义分割/目标检测/轻量级网络文献分类列表
+https://github.com/yyfyan/read-paper-list
+
+如何用机器学习/深度学习方法分析音频
+https://pan.baidu.com/s/1C4phUZr1JdrmeyYeT3sEXA
 
 '周志华《机器学习》手推笔记
 https://github.com/Sophia-11/Machine-Learning-Notes
@@ -223,3 +289,37 @@ https://towardsdatascience.com/guide-to-reading-academic-research-papers-c69c216
 
 Deep Learning Interview 深度学习面试题目汇总
 https://github.com/ShanghaiTechAIClub/DLInterview
+
+Jeff Dean访谈：2020年机器学习趋势
+多任务学习和多模态学习、高效运行的设备端模型、与AI相关的原则性工作、机器学习芯片设计、面向机器人的机器学习
+
+【直播编程：从头开始创建深度学习库】
+https://github.com/joelgrus/joelnet
+
+dudeperf3ct深度学习博客与notebooks集
+https://github.com/dudeperf3ct/DL_Notebooks
+
+François Chollet 访谈：为什么电子游戏和棋类游戏不是衡量AI的好方法
+https://www.theverge.com/2019/12/19/21029605/artificial-intelligence-ai-progress-measurement-benchmarks-interview-francois-chollet-google
+对机器来说，技能(Skill)和智能(Intelligence)完全正交。只要能采集有关任务的无限数据(或花费无限工程资源) ，就能获得任意技能……没有哪一项任务中，取得高水平技能可以代表智能水平，除非任务本身是个元任务，要在一系列之前未知的问题上获得新技能。这就是我提出的智能衡量标准。
+
+【机器学习法则：机器学习工程最佳实践】
+https://weibo.com/1402400261/GByZYhuGI?mid=4452197393781313&ouid=1402400261&type=comment
+
+【深度学习的12个面试问题】
+https://pan.baidu.com/s/1GgsNrol2a8RMqSMEvDLHeQ#list/path=%2F
+
+“机器学习面试”
+https://www.bilibili.com/video/av78329663/
+
+Kubernetes机器学习模型部署指南
+https://github.com/AlexIoannides/kubernetes-ml-ops
+
+【机器学习资源集锦】
+https://www.datasciencecentral.com/profiles/blogs/40-tutorials-covering-all-aspects-of-machine-learning
+
+### 机器学习可复现性自查清单
+https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf
+
+免费书：《因果推理原理：基础与学习算法》
+https://pan.baidu.com/s/1RzvyuVnMjSfRHKRKmNd0Yg

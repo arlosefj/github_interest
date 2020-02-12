@@ -191,6 +191,33 @@ https://github.com/python-poetry/poetry
 CrossHair：Python静态分析工具
 https://github.com/pschanely/CrossHair
 
+ProPlot：好用的matplotlib封装绘图库
+https://github.com/lukelbd/proplot
+
+【fastdot：对pydot(Graphviz网络可视化DOT语言接口)的一致性易用性封装】
+https://fastai.github.io/fastdot/
+
+【PySimpleGUI：用Python五分钟创建图形界面】
+https://pan.baidu.com/s/13MChntIQKpH6d6ax2MtQzw
+
+用Jupyter Notebooks创建交互式网页
+https://github.com/SamLau95/nbinteract
+
+探索式Python编程环境nbdev：让Jupyter Notebooks“面面俱到”——构建在 Jupyter Notebook 之上，将 IDE编辑器开发的优点带入Notebooks系统，可以在Notebooks中开发而不影响整个Python项目生命周期
+https://www.fast.ai/2019/12/02/nbdev/ https://github.com/fastai/nbdev_template
+
+Heartrate：一个牛逼的工具，Python执行实时可视化
+https://mp.weixin.qq.com/s/qyNHV18RGCdgYr6wiNgOGg
+
+Python 绘图还在用 Matplotlib？发现一款手绘可视化神器！
+https://mp.weixin.qq.com/s/L8Wo7fRNEPbgGu6A6rNPMw
+
+【用来创建、编译Latex文件的Python库】’PyLaTeX - A Python library for creating LaTeX files'
+https://github.com/JelteF/PyLaTeX
+
+Interactive Data Visualization in the browser, from Python
+https://github.com/bokeh/bokeh
+
 Pandas 数据分析通俗可视化入门
 https://jalammar.github.io/gentle-visual-intro-to-data-analysis-python-pandas/
 

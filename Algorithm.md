@@ -22,8 +22,40 @@ https://mp.weixin.qq.com/s/ABSgO36dGLa1_d5daN2c8A
 【Leetcode 的 Python 参考方案/解析】’ Leetcode Python Solution and Explanation. Also a Guide to Prepare for Software Engineer Interview.'
 https://github.com/wuduhren/leetcode-python
 
+一份作者在刷 Leetcode 题目时记录下来的解题思路，且提供详细的注释，并且按问题类型整理出来，分享给有需要的同学。
+https://github.com/xiaoylu/leetcode_category
+
+“Donald Knuth访谈：算法、复杂度、生活和计算机编程艺术”
+https://www.bilibili.com/video/av65677422?p=10
+
+【按问题类型整理的 Leetcode 题解】’Leetcode by Category - Leetcode solutions organized by the problem categories' 
+https://github.com/xiaoylu/leetcode_category
+
+文本编辑器是如何检查英文单词出错的？
+https://mp.weixin.qq.com/s/OqLTqUHL3MKUlbdfhVlPOQ
+
+优质的算法技术博主，作者在 GitHub 上曾开源过一个超 4.6 万 Star 的算法类项目，他所撰写的文章大部分是算法相关的题目讲解
+https://mp.weixin.qq.com/s/b8A0sb9kPj3mJ7Ef4gFrJA
+
+【LeetCode中文题解】'LeetCode - LeetCode solutions with Chinese explanation.' 
+https://github.com/ShusenTang/LeetCode
+
+【Python算法与数据结构学习资源集】
+https://github.com/MTrajK/coding-problems
+
+【Python遗传/进化算法工具箱】
+https://github.com/geatpy-dev/geatpy
+
+[译] Google Interview University 一套完整的学习手册帮助自己准备 Google 的面试
+https://github.com/xitu/google-interview-university/blob/zh-hans/translations/README-cn.md
+
 《算法导论(第三版)》习题与问题
 https://github.com/CyberZHG/CLRS
+
+两位大佬 blog 描述自己怎么解数独的。
+http://norvig.com/sudoku.html
+https://ronjeffries.com/categories/sudoku/
+
 
 《五大常用算法之二：动态规划算法》动态规划过程是：每次决策依赖于当前状态，又随即引起状态的转移。一个决策序列就是在变化的状态中产生出来的，所以，这种多阶段最优化决策解决问题的过程就称为动态规划。
 https://mp.weixin.qq.com/s/A0lPQ7wNBJn-MeIbLVvLcA

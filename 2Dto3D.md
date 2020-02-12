@@ -10,6 +10,12 @@ https://pan.baidu.com/s/1RhORsmInOk1ZEmOKuUeybw
 (PyTorch)合成-现实(Synthetic-to-Realistic)转换深度估计
 https://github.com/lyndonzheng/Synthetic2Realistic
 
+用强化学习装宜家家具——IKEA(宜家)家具组装仿真环境，用于促进长期操作任务的解决：80多个家具模型、多个机器人、多观察角度、支持 OpenAI gym 
+https://github.com/clvrai/furniture
+
+三维深度学习论文列表
+https://github.com/pointcloudlearning/3D-Deep-Learning-Paper-List
+
 【整体3D重建论文/资源列表】'Holistic 3D Reconstruction - A list of papers and resources for holistic 3D reconstruction' 
 https://github.com/holistic-3d/awesome-holistic-3d
 
