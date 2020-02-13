@@ -48,8 +48,20 @@ https://github.com/script-8/script-8.github.io
 GitHub 上开源的这个坦克大战小游戏
 https://github.com/shinima/battle-city
 
+Mario Level Generation From Mechanics Using Scene Stitching
+https://github.com/LuvneeshM/MarioExperiments/tree/master/scenelibrary
+
 神经网络学习玩蛇，Neural Network Learns to Play Snake。训练神经网络使用遗传算法玩Snake
 https://github.com/greerviau/SnakeAI
+
+【AlphaZero的多线程实现】
+https://github.com/hijkzzz/alpha-zero-gomoku
+
+【Python写的Game Boy模拟器】
+https://github.com/Baekalfen/PyBoy
+
+【GDevelop：简单易用的跨平台游戏开发引擎】
+https://github.com/4ian/GDevelop
 
 RPG Maker 是一款很酷的工具，可以让一个不会编程的人也能做出像模像样的RPG游戏来。
 但如果你第一次使用 RPG Maker，可能需要花上好几个小时才能做出来一个简单的 RPG 游戏。这个视频想帮你省下一些时间。

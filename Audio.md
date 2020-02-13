@@ -103,6 +103,60 @@ https://github.com/deezer/spleeter
 【开源语音分离/增强库】
 https://github.com/speechLabBcCuny/onssen
 
+Feature extractor for DL speech processing.
+https://github.com/bepierre/SpeechVGG
+
+Transforming Spectrum and Prosody for Emotional Voice Conversion with Non-Parallel Training Data
+https://github.com/KunZhou9646/Nonparallel-emotional-VC
+
+This is a PyTorch re-implementation of Speech-Transformer: A No-Recurrence Sequence-to-Sequence Model for Speech Recognition.
+https://github.com/foamliu/Speech-Transformer
+
+【Athena：开源端到端语音识别引擎】
+https://github.com/athena-team/athena
+
+PREDICTING EXPRESSIVE SPEAKING STYLE FROM TEXT IN END-TO-END SPEECH SYNTHESIS
+https://github.com/Yangyangii/TPGST-Tacotron
+
+PyTorch implementation of LF-MMI for End-to-end ASR
+https://github.com/YiwenShaoStephen/pychain
+
+Audio samples from ICML2019 "Almost Unsupervised Text to Speech and Automatic Speech Recognition"
+https://github.com/RayeRen/unsuper_tts_asr
+
+ Efficiently Trainable Text-to-Speech System Based on Deep Convolutional Networks with Guided Attention.
+ https://github.com/CSTR-Edinburgh/ophelia
+
+Efficient neural speech synthesis
+https://github.com/MlWoo/LPCNet
+
+Code for Vision-Infused Deep Audio Inpainting (ICCV 2019)
+https://github.com/Hangz-nju-cuhk/Vision-Infused-Audio-Inpainter-VIAI
+
+deep learning based speech enhancement using keras or pytorch
+https://github.com/yongxuUSTC/sednn
+
+Multi-voice singing voice synthesis
+https://github.com/MTG/WGANSing
+
+【用涂鸦“唱歌”：将图像合成为声音】
+https://github.com/jeonghopark/SketchSynth-Simple
+
+【面向语音识别的中文/英文发音辞典】’
+https://github.com/speech-io/BigCiDian
+
+### 【Kaldi/TensorFlow实现的神经网络说话人验证系统】
+https://github.com/someonefighting/tf-kaldi-speaker-master
+
+### Facebook开源低延迟在线语音识别框架wav2letter
+https://github.com/facebookresearch/wav2letter/wiki/Inference-Framework
+
+【GridSound：在线数字音频编辑器】
+https://github.com/GridSound/daw
+
+【Asteroid：基于PyTorch的音源分离工具集】
+https://github.com/mpariente/ASSteroid
+
 【MelGAN 超快音频合成】
 https://github.com/descriptinc/melgan-neurips
 
@@ -111,6 +165,9 @@ https://github.com/haryoa/note_music_generator
 
 音频分析/音乐检索相关数据集大列表
 https://www.audiocontentanalysis.org/data-sets/
+
+### 【用TensorRT在GPU上部署实时文本-语音合成应用】
+https://devblogs.nvidia.com/how-to-deploy-real-time-text-to-speech-applications-on-gpus-using-tensorrt/
 
 用WaveNet让语音受损用户重拾原声(少样本自适应自然语音合成)
 https://deepmind.com/blog/article/Using-WaveNet-technology-to-reunite-speech-impaired-users-with-their-original-voices

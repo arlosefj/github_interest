@@ -46,6 +46,12 @@ https://github.com/allenai/savn
 一个DeepMind开放的增强学习的开源工具库，Open sourcing TRFL: a library of reinforcement learning building blocks 
 https://github.com/deepmind/trfl/
 
+### 【看神经网络自学“打炮”】’Self Taught Neural Network - Watch a Neural Network learns to shoot a target' 
+https://github.com/victorqribeiro/bangBangML
+
+【smarties：轻量可扩展的强化学习框架】
+https://github.com/cselab/smarties
+
 强化学习入门（资源下载
 https://bigquant.com/community/t/topic/157213?utm_source=weibo&utm_medium=weibo_algorithm&utm_campaign=19705_down
 

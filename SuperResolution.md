@@ -69,3 +69,39 @@ https://github.com/k4yt3x/video2x
 
 【Fast-SRGAN 图像超分辨率】’Fast-SRGAN - A Single Image Super Resolution GAN that uses a mobile net architecture as a generator.' 
 https://github.com/HasnainRaz/Fast-SRGAN
+
+Progressive Perception-Oriented Network for Single Image Super-Resolution
+https://github.com/Zheng222/PPON
+
+Fast, Accurate and Lightweight Super-Resolution models
+https://github.com/xiaomi-automl/FALSR
+
+Official Implementation for Kernel Modeling Super-Resolution on Real Low-Resolution Images
+https://github.com/IVRL/Kernel-Modeling-Super-Resolution
+
+Progressive Fusion Video Super-Resolution Network via Exploiting Non-Local Spatio-Temporal Correlations
+https://github.com/psychopa4/PFNL
+
+Official Pytorch Implementation of Progressive Face Super-Resolution (BMVC 2019 Accepted)
+https://github.com/DeokyunKim/Progressive-Face-Super-Resolution
+
+Toward Real-World Single Image Super-Resolution: A New Benchmark and A New Model (ICCV 2019)
+https://github.com/csjcai/RealSR
+
+ICCV 2019 (oral) RankSRGAN: Generative Adversarial Networks with Ranker for Image Super-Resolution. 
+https://github.com/WenlongZhang0724/RankSRGAN
+
+Lightweight Image Super-Resolution with Information Multi-distillation Network
+https://github.com/Zheng222/IMDN
+
+Camera Lens Super-Resolution in CVPR 2019
+https://github.com/ngchc/CameraSR
+
+IKC: Blind Super-Resolution With Iterative Kernel Correction
+https://github.com/yuanjunchai/IKC
+
+《Deep Video Super-Resolution using HR Optical Flow Estimation》
+https://www.arxiv-vanity.com/papers/2001.02129/
+
+《Simultaneous Enhancement and Super-Resolution of Underwater Imagery for Improved Visual Perception》
+https://github.com/xahidbuffon/Deep-SESR

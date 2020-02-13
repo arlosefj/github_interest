@@ -22,8 +22,32 @@ https://github.com/LeoMobileDeveloper/ios-developer-tools
 Gitter for GitHub - 可能是目前颜值最高的GitHub小程序客户端
 https://github.com/huangjianke/Gitter
 
+A PyTorch implementation of Pelee: A Real-Time Object Detection System on Mobile Devices 
+https://github.com/yxlijun/Pelee.Pytorch
+
+### Real-time semantic image segmentation on mobile devices
+https://github.com/sercant/mobile-segmentation
+
+This repo contains the official Pytorch reimplementation of the paper "NetAdapt: Platform-Aware Neural Network Adaptation for Mobile Applications".
+https://github.com/denru01/netadapt
+
+### Accurate Hand Keypoint Localization on Mobile Devices
+https://github.com/FORTH-ModelBasedTracker/MonocularRGB_2D_Handjoints_MVA19
+
+'MNNKit - 基于端上推理引擎MNN提供的系列应用层解决方案，主要面向Android/iOS移动应用开发者’ 
+https://github.com/alibaba/MNNKit
+
 用Fritz在手机上训练、部署多种机器学习模型
 https://github.com/fritzlabs/fritz-models
+
+【基于Core ML的iOS深度预测Demo】
+https://github.com/tucan9389/DepthPrediction-CoreML
+
+【SwiftUI/PyTorch Mobile手机端机器学习实例】
+https://medium.com/flawless-app-stories/on-device-machine-learning-with-swiftui-and-pytorch-mobile-aa0dcec5d881
+
+Android 进阶路线知识图谱 + 干货资料收集
+https://github.com/feelschaotic/AndroidKnowledgeSystem
 
 'awesome-wepy - 微信小程序组件化开发框架wepy开发资源汇总' 
 https://github.com/aben1188/awesome-wepy

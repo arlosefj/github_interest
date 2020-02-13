@@ -66,6 +66,9 @@ https://github.com/mnicnc404/CartoonGan-tensorflow
 ETNet: Error Transition Network for Arbitrary Style Transfer
 https://github.com/zhijieW94/ETNet
 
+Content and Style Disentanglement for Artistic Style Transfer
+https://github.com/CompVis/content-style-disentangled-ST
+
 用Python快速实现图片的风格迁移
 https://mp.weixin.qq.com/s/A5hcU5kZlSW0qx6BJ5UIyA
 

@@ -17,9 +17,41 @@ https://github.com/bychen515/ACT
 Deep Regression Tracking with Shrinkage Loss
 https://github.com/chaoma99/DSLT
 
+Official implementation of our AAAI2020 paper: GlobalTrack: A Simple and Strong Baseline for Long-term Tracking.
+https://github.com/huanglianghua/GlobalTrack
+
+STGAT: Modeling Spatial-Temporal Interactions for Human Trajectory Prediction
+https://github.com/huang-xx/STGAT
+
+Out-of-the-box code and models for CMU's object detection and tracking system for surveillance videos. Tensorflow based.
+https://github.com/JunweiLiang/Object_Detection_Tracking
+
+###【如何做图：可视化例子集】’VisualTracking-Toolkit - Powerful visualization tool (still under development)' 
+https://github.com/foolwood/VisualTracking-Toolkit
+
+This is the official implementation with training code for 'GradNet: Gradient-Guided Network for Visual Object Tracking' (ICCV2019 Oral)
+https://github.com/LPXTT/GradNet-Tensorflow
+
+Discriminative and Robust Online Learning for Siamese Visual Tracking [AAAI2020] https://arxiv.org/abs/1909.02959
+https://github.com/shallowtoil/DROL
+
+SPSTracker: Sub-Peak Suppression of Response Map for Robust Object Tracking(AAAI2020)
+https://github.com/TrackerLB/SPSTracker
+
+joint-task Self-supervised Learning for Temporal Correspondence (NeurIPS 2019)
+https://github.com/Liusifei/UVC
+
+An re-implementation for Siamese-RPN with Tensorflow
+https://github.com/makalo/Siamese-RPN-tensorflow
 
 Self-supervised Learning for Video Correspondence Flow
 https://github.com/zlai0/CorrFlow
+
+[ICCV2019] Robust Multi-Modality Multi-Object Tracking
+https://github.com/ZwwWayne/mmMOT
+
+Package for performing analysis on event-based feature trackers.
+https://github.com/uzh-rpg/rpg_feature_tracking_analysis
 
 深度学习目标检测/多目标跟踪
 https://github.com/adipandas/multi-object-tracker

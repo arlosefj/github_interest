@@ -8,6 +8,27 @@ https://blog.stratospark.com/generating-synthetic-data-image-segmentation-unity-
 ### SynthText3D: Synthesizing Scene Text Images from 3D Virtual Worlds
 https://github.com/MhLiao/SynthText3D 1907.06007
 
+Deep Embedded Clustering with Data Augmentation (DEC-DA). Performance on MNIST (acc=0.985, nmi=0.960).
+https://github.com/XifengGuo/DEC-DA
+
+NAACL 2019: Submodular optimization-based diverse paraphrasing and its effectiveness in data augmentation
+https://github.com/malllabiisc/DiPS
+
+fast image augmentation library and easy to use wrapper around other libraries
+https://github.com/albumentations-team/albumentations
+
+Pytorch implementation of the image transformer for unconditional image generation
+https://github.com/sahajgarg/image_transformer
+
+Unsupervised Data Augmentation experiments in PyTorch
+https://github.com/vfdev-5/UDA-pytorch
+
+Implicit Semantic Data Augmentation for Deep Networks (NeurIPS 2019)
+https://github.com/blackfeather-wang/ISDA-for-Deep-Networks
+
+Language-based Colorization of Scene Sketches.
+https://github.com/SketchyScene/SketchySceneColorization
+
 克服自然场景视频理解的大规模标注需求
 https://github.com/cmhungsteve/TA3N
 

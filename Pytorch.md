@@ -166,14 +166,59 @@ https://github.com/facebookresearch/pycls
 《动手学深度学习》例子的PyTorch实现
 https://github.com/dsgiitr/d2l-pytorch
 
+新书《Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD》随书代码
+https://github.com/fastai/book_nbs
+
+【PyTorch深度学习教程】
+https://www.youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh
+
+PyTorch implementation of "Grid anchor based image cropping"
+https://github.com/HuiZeng/Grid-Anchor-based-Image-Cropping-Pytorch
+
+【PyTorch3d：(PyTorch)3D视觉深度学习库】
+https://github.com/facebookresearch/pytorch3d
+
+Implement Towards Effective Low-bitwidth Convolutional Neural Networks
+https://github.com/nowgood/QuantizeCNNModel
+
+【Hydra：机器学习项目配置的全新视角(PyTorch)】
+https://hydra.cc/
+
+【PyTorch封装库，提供了系统的、可扩展的方法，用PyTorch高效构建、训练、评价和优化深度学习模型】
+https://github.com/jkoutsikakis/pytorch-wrapper
+
+【PyTorch实现的NCA(Neighbourhood Components Analysis)降维方法】
+https://github.com/kevinzakka/nca
+
+【用PyTorch+einops改善深度学习代码】《Writing better code with pytorch+einops》
+https://github.com/arogozhnikov/einops
+
+【Hydra：基于PyTorch的多任务学习框架】
+https://github.com/hav4ik/Hydra
+
+【PyTorch计算机视觉深度学习模板】
+https://github.com/FrancescoSaverioZuppichini/PyTorch-Deep-Learning-Template
+
 【开源书：PyTorch深度学习起步】’First steps towards Deep Learning with pyTorch - This is an open sourced book on deep learning.' b
 https://github.com/vaibhawvipul/First-steps-towards-Deep-Learning
 
 'torchprofile - A general and accurate MACs / FLOPs profiler for PyTorch models.'
 https://github.com/mit-han-lab/torchprofile
 
+【PyTorch简化开发工具箱】
+https://github.com/PistonY/torch-toolbox
+
 【PyTorch教程：用TensorBoard实现模型、数据和训练过程可视化】
 https://pytorch.org/tutorials/intermediate/tensorboard_tutorial.html
+
+【dlib vs. PyTorch 简单性能评测】
+https://github.com/arrufat/dlib-pytorch-benchmark
+
+【用Cortex实现PyTorch模型产品化部署】
+https://pan.baidu.com/s/1xzd7ZwC_RMt3AwLsqjtFKw
+
+【Ray：构建和运行分布式应用的快速简单框架，包括可扩展超参微调库Tune和强化学习库RLlib，可实现PyTorch分布式训练】
+https://github.com/ray-project/ray
 
 【PyTorch Elastic ：PyTorch分布式训练框架】
 https://github.com/pytorch/elastic

@@ -44,6 +44,12 @@ https://towardsdatascience.com/how-a-team-of-deep-learning-newbies-came-3rd-plac
 '阿水的开源比赛方案集锦’
 https://github.com/finlay-liu/kaggle_public
 
+“Kaggle开放日：Kaggle比赛教程”
+https://www.bilibili.com/video/av82395461/
+
+【Kaggle优胜方案汇总】“KaggleDB“
+https://kaggledb.com/solutions
+
 【开放 机器学习/数据科学/AI 竞赛大列表】
 https://github.com/mlcontests/mlcontests.github.io
 

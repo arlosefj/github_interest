@@ -10,6 +10,36 @@ https://github.com/wuleiaty/DocUNet
 用 PyTorch 1.2 实现的文本检测与识别研究项目
 https://github.com/Megvii-CSG/MegReader
 
+DB (Real-time Scene Text Detection with Differentiable Binarization) implementation in Keras and Tensorflow
+https://github.com/xuannianz/DifferentiableBinarization
+
+A PyToch implementation of "Real-time Scene Text Detection with Differentiable Binarization".
+https://github.com/MhLiao/DB
+
+CharNet: Convolutional Character Networks
+https://github.com/MalongTech/research-charnet
+
+pytorch implementation of R2CNN, Rotational Faster RCNN for orientated object detection
+https://github.com/Xiangyu-CAS/R2CNN.pytorch
+
+Show, Attend and Read: A Simple and Strong Baseline for Irregular Text Recognition [AAAI-2019]
+https://github.com/Pay20Y/SAR_TF
+
+PyTorch re-implementation of ''Real-time Scene Text Detection with Differentiable Binarization'' (AAAI 2019)
+https://github.com/SURFZJY/Real-time-Text-Detection
+
+Code for the paper "KISS: Keeping it Simple for Scene Text Recognition"
+https://github.com/Bartzi/kiss
+
+Pytorch implementation for "Decoupled attention network for text recognition".
+https://github.com/Wang-Tianwei/Decoupled-attention-network
+
+### A reimplementation of Character Region Awareness for Text Detection (CRAFT) with training code
+https://github.com/brooklyn1900/CRAFT_pytorch
+
+Unofficial PyTorch implementation of 2D Attentional Irregular Scene Text Recognizer
+https://github.com/chenjun2hao/Bert_OCR.pytorch
+
 ### OpenCV/scikit-image 实现的(文档图像)手写签名提取
 https://github.com/ahmetozlu/signature_extractor
 
@@ -18,6 +48,57 @@ https://github.com/xiaoyu258/DocProj
 
 ### '2019CCF-BDCI大赛基于OCR身份证要素提取赛冠军方案’ 
 https://github.com/Mingtzge/2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement
+
+### A tensorflow reproducing of paper “Editing Text in the wild”
+https://github.com/youdao-ai/SRNet
+
+Scene Text Detection with Learned Anchor
+https://github.com/xhzdeng/stela
+
+EATEN: Entity-aware Attention for Single Shot Visual Text Extraction
+https://github.com/beacandler/EATEN
+
+mxnet-Gluon implementation of PSENet text detector (Shape Robust Text Detection with Progressive Scale Expansion Network)
+https://github.com/saicoco/Gluon-PSENet
+
+[ICCV 2019] CompenNet++: End-to-end Full Projector Compensation
+https://github.com/BingyaoHuang/CompenNet-plusplus
+
+CRAFT-Pyotorch：Character Region Awareness for Text Detection Reimplementation for Pytorch
+https://github.com/backtime92/CRAFT-Reimplementation
+
+【OpenCV表格识别】’OTR - Optical table recognition - recognize tables in scan images using OpenCV'
+https://github.com/ulikoehler/OTR
+
+【PyLaia：面向手写文档分析的深度学习工具包】
+https://github.com/jpuigcerver/PyLaia
+
+'齊伋體(字体) - typeface from Ming Dynasty woodblock printed books' 
+https://github.com/LingDong-/qiji-font
+
+【CORD：(收据)OCR后处理解析数据集】
+https://github.com/clovaai/cord
+
+【小票信息提取(OCR)】
+https://github.com/zzzDavid/ICDAR-2019-SROIE
+
+【Kaggle开放日：Kuzushiji日文古文字识别】
+https://www.youtube.com/watch?v=cGpIVyV96Hg
+
+【深度学习表格检测、信息提取和结构化】
+https://nanonets.com/blog/table-extraction-deep-learning/
+
+'Image2Katex - 公式图片ocr，输入图片输出对应的latex表达式' 
+https://github.com/xiaofengShi/Image2Katex
+
+【用深度学习/OCR实现收据(小票)自动数字化】
+https://nanonets.com/blog/receipt-ocr/
+
+【Keras文本检测/OCR包】
+https://github.com/faustomorales/keras-ocr
+
+《Handwritten Optical Character Recognition (OCR): A Comprehensive Systematic Literature Review (SLR)》
+https://www.arxiv-vanity.com/papers/2001.00139/
 
 '汉字字符特征提取器 (featurizer)，提取汉字的特征（发音特征、字形特征）用做深度学习的特征' 
 https://github.com/howl-anderson/hanzi_char_featurizer

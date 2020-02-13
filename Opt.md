@@ -140,8 +140,23 @@ https://github.com/uber-research/learning-to-reweight-examples
 Code for “Discrimination-aware-Channel-Pruning-for-Deep-Neural-Networks”
 https://github.com/SCUT-AILab/DCP
 
+ZeroQ: A Novel Zero Shot Quantization Framework
+https://github.com/amirgholami/ZeroQ
+
+Graph Transforms to Quantize and Retrain Deep Neural Nets in TensorFlow. https://arxiv.org/abs/1903.08066
+https://github.com/Xilinx/graffitist
+
 A PyTorch implementation of "Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights"
 https://github.com/Mxbonn/INQ-pytorch
+
+This repository contains the training code of Quantization Networks introduced in our CVPR 2019 paper: Quantization Networks.
+https://github.com/aliyun/alibabacloud-quantization-networks
+
+Code released for "FNNP: Fast Neural Network Pruning Using Adaptive Batch Normalization"
+https://github.com/anonymous47823493/FNNP
+
+Code for the NuerIPS'19 paper "Gate Decorator: Global Filter Pruning Method for Accelerating Deep Convolutional Neural Networks"
+https://github.com/youzhonghui/gate-decorator-pruning
 
 【PyTorch实现的深度模型压缩】
 https://github.com/666DZY666/model-compression

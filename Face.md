@@ -256,8 +256,65 @@ https://github.com/foamliu/InsightFace-v2
 Hair detection, segmentation, and hairstyle classification in the wild
 https://github.com/UmarSpa/HairAnalysis
 
+Progressive Calibration Networks (PCN) is an accurate rotation-invariant face detector running at real-time speed on CPU. This is an implementation for PCN.
+https://github.com/siriusdemon/pytorch-PCN
+
+Dual Variational Generation for Low Shot Heterogeneous Face Recognition, NeurIPS 2019
+https://github.com/BradyFU/DVG
+
+Mis-classifided Vector Guided Softmax Loss for Face Recognition
+https://github.com/xiaoboCASIA/SV-X-Softmax
+
+Reimplementation of retinaface, faster and stronger.
+https://github.com/1996scarlet/faster-mobile-retinaface
+
+Code and model for the winner team 'trojans' in ICCV19-Lightweight Face Recognition Challenge
+https://github.com/liuyuisanai/trojans-face-recognizer
+
+Tensoflow implementation of InsightFace (ArcFace: Additive Angular Margin Loss for Deep Face Recognition).
+https://github.com/luckycallor/InsightFace-tensorflow
+
+Code for CVPR2019 paper《Unequal Training for Deep Face Recognition with Long Tailed Noisy Data》
+https://github.com/zhongyy/Unequal-Training-for-Deep-Face-Recognition-with-Long-Tailed-Noisy-Data
+
+Multi-task face recognition framework based on PyTorch
+https://github.com/XiaohangZhan/face_recognition_framework
+
+This is a MXNET implementation of VarGFaceNet. 
+https://github.com/zma-c-137/VarGFaceNet
+
+MassFace: an effecient implementation using triplet loss for face recognition
+https://github.com/yule-li/MassFace
+
+### Tiny Face Detector, CVPR 2017 https://cs.cmu.edu/~peiyunh/tiny
+https://github.com/peiyunh/tiny
+
+【deepfacelab深度换脸实战教程】
+https://www.youtube.com/watch?v=R-fIN9pkEtc&t=0s
+
+DeepPrivacy: A Generative Adversarial Network for Face Anonymization
+https://github.com/hukkelas/DeepPrivacy
+
 动漫人脸特征点检测
 https://github.com/kanosawa/anime_face_landmark_detection
+
+Learning Face Age Progression: A Pyramid Architecture of GANs, CVPR 2018
+https://github.com/yoyohonyang/LearingFaceAgeProgression
+
+【定制类别人脸生成API】
+https://generated.photos/
+
+VGGFace2 Extension
+https://github.com/WeidiXie/Keras-VGGFace2-ResNet50
+
+【TensorFlow 2.0实现的Triplet Loss人脸识别】
+https://github.com/aangfanboy/TripletLossFace
+
+【TensorFlow.js实现的实时人脸检测】
+https://www.npmjs.com/package/@tensorflow-models/blazeface?linkId=80168838
+
+### 【通过人脸检测制作人脸聚焦GIF动画的小工具】
+https://github.com/jbirms/ok-zoomer
 
 ### TensorRT-CenterNet - tensorrt5 , centernet , centerface' 
 https://github.com/CaoWGG/TensorRT-CenterNet

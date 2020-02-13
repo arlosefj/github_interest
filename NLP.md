@@ -60,11 +60,35 @@ https://github.com/thunlp/OpenCLaP
 DocSearch：免费文档搜索引擎
 https://github.com/algolia/docsearch
 
+【SActive Bot：可扩展聊天机器人框架】
+https://github.com/shipengqi/sactive-bot
+
+X-BERT: eXtreme Multi-label Text Classification with BERT
+https://github.com/OctoberChang/X-BERT
+
+Code for the paper "VisualBERT: A Simple and Performant Baseline for Vision and Language"
+https://github.com/uclanlp/visualbert
+
+PyTorch code for ICCV'19 paper "Visual Semantic Reasoning for Image-Text Matching"
+https://github.com/KunpengLi1994/VSRN
+
+Implementation of 'Pretraining-Based Natural Language Generation for Text Summarization'
+https://github.com/nayeon7lee/bert-summarization
+
+Python code for training models in the ACL paper, "Beyond BLEU:Training Neural Machine Translation with Semantic Similarity".
+https://github.com/jwieting/beyond-bleu
+
 【简单实用的BERT API服务】
 https://github.com/robrua/easy-bert
 
+【基于歌词相似性的歌曲搜索API】’searchly - 🎶 Song similarity search API based on lyrics' 
+https://github.com/AlbertSuarez/searchly
+
 中文歌词生成
 https://github.com/yangjianxin1/QQMusicSpider
+
+【Transformers语言模型可视化浏览/分析工具】
+https://github.com/bhoov/exbert
 
 【Mycroft：开源语音助理】
 https://github.com/MycroftAI

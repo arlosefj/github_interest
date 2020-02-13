@@ -31,6 +31,54 @@ https://github.com/bismex/Awesome-person-re-identification
 行人重识别数据集大列表
 https://github.com/NEU-Gou/awesome-reid-dataset
 
+[ICLR-2020] Mutual Mean-Teaching: Pseudo Label Refinery for Unsupervised Domain Adaptation on Person Re-identification.
+https://github.com/yxgeee/MMT
+
+The source code for the ICLR-2020 submission Mutual Mean-Teaching: Pseudo Label Refinery for Unsupervised Domain Adaptation on Person Re-identification.
+https://github.com/Pre-release/MMT
+
+[ICCV2019] RGB-Infrared Cross-Modality Person Re-Identification via Joint Pixel and Feature Alignment
+https://github.com/wangguanan/AlignGAN
+
+【行人再识别数据集/代码/文献/任务排行大列表】
+https://github.com/FDU-VTS/Awesome-Person-Re-Identification
+
+This is the pytorch implementation and dataset of the ICCV2019 paper "Pose-Guided Feature Alignment for Occluded Person Re-identification"
+https://github.com/lightas/ICCV19_Pose_Guided_Occluded_Person_ReID
+
+Reproduction of paper: Learning Discriminative Features with Multiple Granularities for Person Re-Identification
+https://github.com/seathiefwang/MGN-pytorch
+
+Spatially and Temporally Efficient Non-local Attention Network for Video-based Person Re-Identification (BMVC 2019)
+https://github.com/jackie840129/STE-NVAN
+
+Beyond Human Parts: Dual Part-Aligned Representations for Person ReID
+https://github.com/ggjy/P2Net.pytorch
+
+A Dual Path Model With Adaptive Attention For Vehicle Re-Identification 
+https://github.com/Pirazh/Vehicle_Key_Point_Orientation_Estimation
+
+A pytorch implementation of using DARTS to search better structure for Re-ID
+https://github.com/DuanYiqun/Auto-ReID-Fast
+
+Official source code of "Batch DropBlock Network for Person Re-identification and Beyond" (ICCV 2019)
+https://github.com/daizuozhuo/batch-dropblock-network
+
+Deep Learning for Person Re-identification: A Survey and Outlook
+https://github.com/mangye16/ReID-Survey
+
+Part-based Convolutional Baseline for Person Retrieval and the Refined Part Pooling
+https://github.com/syfafterzy/PCB_RPP_for_reID
+
+This is the Occluded-DukeMTMC dataset from the ICCV2019 paper "Pose-Guided Feature Alignment for Occluded Person Re-Identification"
+https://github.com/lightas/Occluded-DukeMTMC-Dataset
+
+Self-similarity Grouping: A Simple Unsupervised Cross Domain Adaptation Approach for Person Re-identification, ICCV 2019 (Oral)
+https://github.com/OasisYang/SSG
+
+This repo contains the source code for our CVPR'19 work "Patch-based discriminative feature learning for unsupervised person re-identification"
+https://github.com/QizeYang/PAUL
+
 ### 'RepNet-Vehicle-ReID - Implementing RepNet(a two-stream multitask learning network) to do vehicle Re-identification, vehicle search(or vehicle match) with PyTorch 可用于车辆细粒度识别，车辆再识别，车辆匹配，车辆检索，RepNet/MDNet的一种PyTorch实现' 
 https://github.com/CaptainEven/RepNet-MDNet-VehicleReID
 

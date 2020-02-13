@@ -35,11 +35,17 @@ https://github.com/hughplay/DFNet
 An Internal Learning Approach to Video Inpainting
 https://arxiv.org/abs/1909.07957
 
+Official Pytorch implementation of Copy-and-Paste Networks for Deep Video Inpainting (ICCV 2019)
+https://github.com/shleecs/Copy-and-Paste-Networks-for-Deep-Video-Inpainting
+
 ### 从视频里“擦除”框选的目标
 https://github.com/zllrunning/video-object-removal
 
 【.NET实现的智能图像内容补全】’Inpainting - Want to remove something(someone) from a photo as it never was there? This is .NET implementation of content-aware fill. It smartly fills in unwanted or missing areas of photographs.' 
 https://github.com/zavolokas/Inpainting
+
+《Image Fine-grained Inpainting》
+https://github.com/Zheng222/DMFN
 
 ### 《LaFIn: Generative Landmark Guided Face Inpainting》
 https://github.com/YaN9-Y/lafin

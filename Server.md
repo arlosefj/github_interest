@@ -95,6 +95,18 @@ https://tech.meituan.com/2018/10/11/tfserving-improve.html
 ### Dapr - portable, event-driven, runtime for building distributed applications across cloud and edge
 https://github.com/dapr/dapr
 
+### 【Hydrosphere Serving：机器学习服务集群管理平台】
+https://github.com/Hydrospheredata/hydro-serving
+
+【Diagrams：用Python代码绘制云系统架构(原型)，目前支持四个主要的提供者: AWS、Azure、GCP和Kubernetes】
+https://github.com/mingrammer/diagrams
+
+【KubeDL：Kubernetes深度学习operator】
+https://github.com/alibaba/kubedl
+
+【Docker & Kubernetes 从入门到实战教程】
+https://github.com/collabnix/dockerlabs
+
 Docker + Jupyter 一分钟配置机器学习开发环境
 https://pan.baidu.com/s/10Y0FyEOeSbEMsIeYLkClew&shfl=sharepset
 

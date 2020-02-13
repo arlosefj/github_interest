@@ -183,18 +183,125 @@ https://github.com/libreai/neural-painters-x
 ### SinGAN: Learning a Generative Model from a Single Natural Image
 https://github.com/tamarott/SinGAN
 
+### LostGANs: Image Synthesis From Reconfigurable Layout and Style
+https://github.com/WillSuen/LostGANs
+
+Official Implementation of "Style Generator Inversion for Image Enhancement and Animation".
+https://github.com/avivga/style-image-prior
+
+The code for the paper "Disentangled GANs for Controllable Generation of High-Resolution Images"
+https://github.com/AnonymousDisentangledGans/Disentangled_GANs
+
+《A Style-Based Generator Architecture for Generative Adversarial Networks》(CVPR 2018)
+https://github.com/huangzh13/StyleGAN.pytorch
+
+The official Tensorflow implementation for ICCV'19 paper 'Attributing Fake Images to GANs: Learning and Analyzing GAN Fingerprints'
+https://github.com/ningyu1991/GANFingerprints
+
+Tensorflow implement of "Eye In-Painting with Exemplar Generative Adversarial Networks"
+https://github.com/zhangqianhui/Exemplar-GAN-Eye-Inpainting-Tensorflow
+
+An Out-of-the-Box Replicate of GANimation using PyTorch, pretrained weights are available!
+https://github.com/donydchen/ganimation_replicate
+
+An implementation of ObamaNet: Photo-realistic lip-sync from text.
+https://github.com/acvictor/Obama-Lip-Sync
+
+Semisupervised learning for adversarial robustness https://arxiv.org/pdf/1905.13736.pdf
+https://github.com/yaircarmon/semisup-adv
+
+TPU enabled Tensorflow implementation of "Large Scale GAN Training for High Fidelity Natural Image Synthesis" (BigGAN)
+https://github.com/Octavian-ai/BigGAN-TPU-TensorFlow
+
+Seeing what a GAN cannot generate
+https://github.com/davidbau/ganseeing
+
+A pytorch implementation of the GAN-TTS: HIGH FIDELITY SPEECH SYNTHESIS WITH ADVERSARIAL NETWORKS
+https://github.com/yanggeng1995/GAN-TTS
+
+SteganoGAN is a tool for creating steganographic images using adversarial training.
+https://github.com/DAI-Lab/SteganoGAN
+
 《CPGAN: Full-Spectrum Content-Parsing Generative Adversarial Networks for Text-to-Image Synthesis》
 https://github.com/dongdongdong666/CPGAN
 
+DM-GAN: Dynamic Memory Generative Adversarial Networks for Text-to-Image Synthesis
+https://github.com/MinfengZhu/DM-GAN
+
+### pytorch implementation of "Mask-Guided Portrait Editing with Conditional GANs"
+https://github.com/cientgu/Mask_Guided_Portrait_Editing
+
+Code to train and evaluate the GeNeVA-GAN model for the GeNeVA task proposed in our ICCV 2019 paper "Tell, Draw, and Repeat: Generating and modifying images based on continual linguistic instruction" 
+https://github.com/Maluuba/GeNeVA
+
+A tensorflow Implement for BeautyGAN:Instance-level facial makeup transfer with deep generative adversarial networks.
+https://github.com/baldFemale/beautyGAN-tf-Implement
+
+Pytorch implementation of GANimation with pretrained weights.
+https://github.com/vipermu/ganimation
+
+unsupervised video and image generation
+https://github.com/musikisomorphie/swd
+
+Aggregation via Separation: Boosting Facial Landmark Detector with Semi-Supervised Style Translation
+https://github.com/TheSouthFrog/stylealign
+
+Cycle-consistent Conditional Adversarial Transfer Networks, ACM MM 2019
+https://github.com/lijin118/3CATN
+
+We propose a new variant GAN model to deal with image generation and transformation,especially in facial attributes area.
+https://github.com/punkcure/Iterative-GAN
+
+This repository contains the source codes for the paper "Unsupervised cycle-consistent deformation for shape matching".
+https://github.com/ThibaultGROUEIX/CycleConsistentDeformation
+
+《OneGAN: Simultaneous Unsupervised Learning of Conditional Image Generation, Foreground Segmentation, and Fine-Grained Clustering》
+https://www.arxiv-vanity.com/papers/1912.13471/
+
+【Pytorch实现的StyleGAN编码器】
+https://github.com/jacobhallberg/pytorch_stylegan_encoder
+
+神经网络老视频翻新
+http://iizuka.cs.tsukuba.ac.jp/projects/remastering/en/index.html
+
+【基于StyleGAN2条件模型的WikiArt图像生成】
+https://github.com/pbaylies/stylegan2
+
+### 两分钟论文解读之StyleGAN2
+https://arxiv.org/abs/1912.04958 https://github.com/NVlabs/stylegan2 https://weibo.com/tv/v/IshQb5Lfq?fid=1034:4467417141936136
+
+'Simple StyleGan2 for Pytorch'
+https://github.com/lucidrains/stylegan2-pytorch
 
 ### Ambient Lighting Generation for Flash Images with Guided Conditional Adversarial Networks
 https://github.com/jozech/flash-to-ambient
 
+### 【StyleGAN模型可视化交互工具】’GANInterface - Tool to interface with a StyleGAN model' 
+https://github.com/nolan-dev/GANInterface
+
+### '基于StyleGAN的人脸属性编辑器' 
+https://github.com/a312863063/seeprettyface-face_editor
+
 ### StyleGAN2
 https://github.com/NVlabs/stylegan2 https://github.com/rosinality/stylegan2-pytorch https://github.com/manicman1999/StyleGAN2-Tensorflow-2.0
 
+【CoupleGenerator：根据照片生成你的“另一半”】
+https://github.com/irfanICMLL/CoupleGenerator
+
+《Deep Plastic Surgery: Robust and Controllable Image Editing with Human-Drawn Sketches》
+https://www.arxiv-vanity.com/papers/2001.02890/
+
+《Painting Many Pasts: Synthesizing Time Lapse Videos of Paintings》
+https://arxiv.org/abs/2001.01026
+
 '基于StyleGAN2的新版人脸生成器'
 https://github.com/a312863063/generators-with-stylegan2
+
+【StarGAN v2 非官方简单复现(Tensorflow)】
+https://github.com/taki0112/StarGAN_v2-Tensorflow
+
+《SketchTransfer: A Challenging New Task for Exploring Detail-Invariance and the Abstractions Learned by Deep Networks》
+https://www.arxiv-vanity.com/papers/1912.11570/
 
 《UWGAN: Underwater GAN for Real-world Underwater Color Restoration and Dehazing》
 https://github.com/infrontofme/UWGAN_UIE

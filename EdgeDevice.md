@@ -13,11 +13,26 @@ https://github.com/chehongshu/ncnnforandroid_objectiondetection_Mobilenetssd
 ARM GPU等边缘计算设备上的深度学习视频监控、人脸识等
 https://github.com/SharpAI/DeepCamera
 
+### MNN Implementation of the paper of LFFD: A Light and Fast Face Detector for Edge Devices
+https://github.com/SyGoing/LFFD-MNN
+
+### A C++ API of the LFFD with ncnn
+https://github.com/SyGoing/LFFD-with-ncnn
+
+【TinyML：边缘微机器学习工程】
+https://www.informationweek.com/big-data/ai-machine-learning/engineering-tiny-machine-learning-for-the-edge/a/d-id/1336972
+
+### 【嵌入(Embedding-Based)机器学习模型部署通用模式】
+https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fblog.ml6.eu%2Fa-general-pattern-for-deploying-embedding-based-machine-learning-models-bf12e8979070
+
 ### 【TensorRT 加速实现的实时姿态估计】
 https://github.com/NVIDIA-AI-IOT/trt_pose
 
 5MB的神经网络也高效，Facebook新压缩算法造福嵌入式设备
 https://mp.weixin.qq.com/s/m9I5TM9uJcgZvMusO667OA
+
+'超迷你智能摄像头A-Eye - 基于K210的超迷你开发板，软硬件完全开源' 
+https://github.com/david-pzh/A-Eye
 
 【嵌入式AI(边缘AI)相关资源列表】
 https://github.com/crespum/edge-ai

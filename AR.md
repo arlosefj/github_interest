@@ -16,6 +16,9 @@ https://www.aminer.cn/research_report/5cf7993c00eea1f1d521d784
 基于ARKit3的人体实时分割与打码 via:Kitasenju Design 
 https://weibo.com/tv/v/HApWK8FAc?fid=1034:4386795211940756
 
+C++ implementation of Fast Depth Densification for Occlusion-aware Augmented Reality (SIGGRAPH-Asia 2018)
+https://github.com/muskie82/AR-Depth-cpp
+
 用 普通手机 + Google Street View App + Google Tour Creator 可以轻松创建很酷的VR导览 Demo
 
 很有感觉的未来派#AR# 

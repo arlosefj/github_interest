@@ -12,8 +12,17 @@ DynaSLAM is a SLAM system robust in dynamic environments for monocular, stereo a
 ### Real-time SLAM system with deep features
 https://github.com/jiexiong2016/GCNv2_SLAM
 
+Code for "Deep Generative Models for LiDAR Data"
+https://github.com/pclucas14/lidar_generation
+
+《DS-SLAM: A Semantic Visual SLAM towards Dynamic Environments》(IROS 2018) 
+https://github.com/ivipsourcecode/DS-SLAM
+
 'Semantic SLAM - Semantic SLAM using ROS, ORB SLAM, PSPNet101' 
 https://github.com/1989Ryan/Semantic_SLAM
+
+A real-time robust monocular visual SLAM system based on ORB-SLAM for fisheye cameras, without rectifying or cropping the input images
+https://github.com/lsyads/fisheye-ORB-SLAM
 
 'SLAM 学习与开发经验分享'
 https://github.com/AlbertSlam/Lee-SLAM-source
@@ -23,6 +32,9 @@ https://github.com/YoujieXia/Awesome-SLAM-Papers
 
 【SLAM相关资源大列表】
 https://github.com/YoujieXia/Awesome-SLAM
+
+Depth and Flow for Visual Odometry
+https://github.com/Huangying-Zhan/DF-VO
 
 用手持RGB-D相机实现实时动态语义SLAM
 https://github.com/floatlazer/semantic_slam

@@ -10,6 +10,30 @@ https://www.amazon.com/Beginning-Anomaly-Detection-Python-Based-Learning/dp/1484
 深度学习缺陷检测
 https://github.com/sundyCoder/DEye
 
+Detection and Segmentation of Manufacturing Defects with Convolutional Neural Networks and Transfer Learning
+https://github.com/maxkferg/metal-defect-detection
+
+A Benchmark for Anomaly Segmentation
+https://github.com/hendrycks/anomaly-seg
+
+Code for the CVPR'19 paper "Learning Regularity in Skeleton Trajectories for Anomaly Detection in Videos"
+https://github.com/RomeroBarata/skeleton_based_anomaly_detection
+
+### Repository for the One class neural networks paper
+https://github.com/raghavchalapathy/oc-nn
+
+An Acceleration System for Large-Scale Unsupervised Anomaly Detection
+https://github.com/yzhao062/SUOD
+
+### （最先进的缺陷检测网络） A Tensorflow implementation of "Segmentation-Based Deep-Learning Approach for Surface-Defect Detection"
+https://github.com/Wslsdx/Deep-Learning-Approach-for-Surface-Defect-Detection
+
+Cork/Face Presentation Attack Detection
+https://github.com/ee09115/spoofing_detection
+
+### 【深度学习混凝土结构裂纹检测】
+https://github.com/priya-dwivedi/Deep-Learning/blob/master/crack_detection/Crack%20Detection%20Model.ipynb
+
 A PyTorch implementation of the Deep SVDD anomaly detection method
 https://github.com/lukasruff/Deep-SVDD-PyTorch
 

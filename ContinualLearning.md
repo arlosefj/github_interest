@@ -4,6 +4,9 @@ https://github.com/GMvandeVen/continual-learning
 A platform for online learning that curtails data latency and saves you cost.
 https://github.com/All-less/continuum
 
+Official code for ICLR 2020 paper "A Neural Dirichlet Process Mixture Model for Task-Free Continual Learning."
+https://github.com/soochan-lee/CN-DPM
+
 Continual-Learning-Benchmark
 https://github.com/GT-RIPL/Continual-Learning-Benchmark
 

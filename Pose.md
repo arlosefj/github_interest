@@ -40,11 +40,47 @@ https://github.com/edvardHua/PoseEstimationForMobile
 CrossInfoNet of CVPR 2019 for hand pose estimation
 https://github.com/dumyy/handpose
 
+An Tensorflow implementation of PersonLab for Multi-Person Pose Estimation and Instance Segmentation.
+https://github.com/scnuhealthy/Tensorflow_PersonLab
+
+transformer, multi-graph transformer, graph, graph classification, sketch recognition, sketch classification, free-hand sketch, official code of the paper "Multi-Graph Transformer for Free-Hand Sketch Recognition"
+https://github.com/PengBoXiangShang/multigraph_transformer
+
+Simple Pose: Rethinking and Improving a Bottom-up Approach for Multi-Person Pose Estimation 
+https://github.com/jialee93/Improved-Body-Parts
+
+Automatic Estimation of {3D} Human Pose and Shape from a Single Image
+https://github.com/ZhengZerong/im2smpl
+
+Code and pre-trained models for our paper "Multi-Person Pose Estimation Based on Body Parts" 
+https://github.com/jialee93/Multi-Person-Pose-using-Body-Parts
+
+Official implementation of "VIBE: Video Inference for Human Body Pose and Shape Estimation" 
+https://github.com/mkocabas/VIBE
+
+Learning Temporal Pose Estimation from Sparsely Labeled Videos
+https://github.com/facebookresearch/PoseWarper
+
+Multi-Stage Pose Network
+https://github.com/fenglinglwb/MSPN
+
+Deep human action recognition and pose estimation
+https://github.com/dluvizon/deephar
+
+A tensorlfow implementation about arxiv paper "Single-Stage Multi-Person Pose Machines" (SPM)
+https://github.com/murdockhou/Single-Stage-Multi-person-Pose-Machines
+
+Code release for "Real-Time Object Pose Estimation with Pose Interpreter Networks"
+https://github.com/jimmyyhwu/pose-interpreter-networks
+
 【DensePose安装指南】’How to install DensePose with PyTorch (including caffe2) from source code or binaries via conda'
 https://github.com/Johnqczhang/densepose_installation
 
 【AlphaPose 的高性能 PyTorch 实现】'Amanbhandula - AlphaPose Implementation in Pytorch along with the pre-trained wights' 
 https://github.com/Amanbhandula/AlphaPose
+
+This is an official Pytorch implementation of "Cross View Fusion for 3D Human Pose Estimation, ICCV 2019".
+https://github.com/microsoft/multiview-human-pose-estimation-pytorch
 
 【视频三维人体姿态检测】’Video to Pose3D - Convert video to 3D pose in one-key.' 
 https://github.com/zh-plus/video-to-pose3D

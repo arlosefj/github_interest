@@ -16,8 +16,39 @@ https://mp.weixin.qq.com/s/fIRW0z-AMwFwsvC8hvYnYg
 【旅行商问题解决算法可视化】’Traveling Salesman Problem - Visualization of algorithms for solving the traveling salesman problem'
 https://github.com/jhackshaw/tspvis
 
+【Python字符串相似性算法库】
+https://github.com/luozhouyang/python-string-similarity
+
+'面试算法/数据结构笔记 - Algorithm for Interview（面试算法笔记-中文）
+https://github.com/imhuay/Algorithm_for_Interview-Chinese
+
+'信息学竞赛讲课课件'
+https://github.com/huzecong/oi-slides
+本科毕业于清华大学，现于CMU攻读硕士的胡泽聪同学，在GitHub上放出了他从2013年至2018年的所有信息学竞赛讲课课件。主要内容包括：TopCoder题目选讲、CodeChef题目选讲、网络流模型、NOIP图论、NOIP数学方法、数据结构及应用、动态规划、线性代数、概率与期望等。
+
+'LeetCode-book - leetcode 1~400知识点&题型总结&leetcode对应题表' 
+https://github.com/huxiaoman7/leetcodebook
+
+动态规划之博弈问题
+https://mp.weixin.qq.com/s/gY9aHcIaBz2iPQraptJmgQ
+
+【基于Anki的算法与数据结构面试准备资料集】
+https://github.com/teivah/algodeck
+
+《详解一道高频面试题：接雨水》
+https://mp.weixin.qq.com/s/sO3rokhr_xsjZ0wXf6j5GQ
+
 算法和编程面试题精选TOP50！(附代码+解题思路+答案)
 https://mp.weixin.qq.com/s/ABSgO36dGLa1_d5daN2c8A
+
+【算法分类知识框架】
+https://static.coggle.it/diagram/WHeBqDIrJRk-kDDY/t/categories-of-algorithms-non-exhaustive
+
+《程序员修炼之路》作者将自己作为一个过来人，总结了自己程序员修炼之路的经验，以及给后辈的一些建议，分享给初入门的程序员同学。
+https://github.com/Snailclimb/programmer-advancement
+
+107+ 条最常出现的编码面试问题及详细解决方案
+https://github.com/hoanhan101/algo
 
 【Leetcode 的 Python 参考方案/解析】’ Leetcode Python Solution and Explanation. Also a Guide to Prepare for Software Engineer Interview.'
 https://github.com/wuduhren/leetcode-python

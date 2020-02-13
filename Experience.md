@@ -10,6 +10,12 @@ https://www.kaggle.com/c/PLAsTiCC-2018/discussion/75011
 https://www.zhihu.com/question/272988870
 https://github.com/liaopeiyuan/ml-arsenal-public
 
+【模型训练日记】’Choochoo (ch2) - An open, hackable and free training diary.'
+https://github.com/andrewcooke/choochoo
+
+【Xavier Amatriain：构建实用深度学习系统得到的经验教训】
+https://www.youtube.com/watch?v=5ygO8FxNB8c
+
 参加Kaggle涂鸦识别比赛的十条经验教训
 https://towardsdatascience.com/10-lessons-learned-from-participating-to-google-ai-challenge-268b4aa87efa
 

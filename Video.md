@@ -89,8 +89,35 @@ https://github.com/lelimite4444/BridgeDepthFlow
 ffmpeg-cpp - A clean, easy-to-use C++ wrapper around the ffmpeg libraries
 https://github.com/Raveler/ffmpeg-cpp
 
+Video Generation from Single Semantic Label Map
+https://github.com/STVIR/seg2vid
+
+Quality Assessment of In-the-Wild Videos (ACM MM 2019)
+https://github.com/lidq92/VSFA
+
+A multi-sensor capture system for free viewpoint video.
+https://github.com/VCL3D/VolumetricCapture
+
+Unsupervised Video Interpolation using Cycle Consistency
+https://github.com/NVIDIA/unsupervised-video-interpolation
+
+The codes and data of paper "Urban Traffic Prediction from Spatio-Temporal Data Using Deep Meta Learning"
+https://github.com/panzheyi/ST-MetaNet
+
+Temporal Attentive Alignment for Video Domain Adaptation
+https://github.com/olivesgatech/TA3N
+
+Code for the paper: Long-Term On-Board Prediction of People in Traffic Scenes under Uncertainty
+https://github.com/apratimbhattacharyya18/onboard_long_term_prediction
+
+e3d-lstm; Eidetic 3D LSTM A Model for Video Prediction and Beyond
+https://github.com/google/e3d_lstm
+
 深度感知视频插帧(DAIN)
 https://github.com/baowenbo/DAIN
+
+Code for model proposed in: Nachiket Deo and Mohan M. Trivedi,"Convolutional Social Pooling for Vehicle Trajectory Prediction." CVPRW, 2018
+https://github.com/nachiket92/conv-social-pooling
 
 ### GPU加速视频处理框架(C++/Python)
 https://github.com/NVIDIA/VideoProcessingFramework

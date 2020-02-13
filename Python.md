@@ -188,17 +188,71 @@ https://www.fast.ai/2019/12/02/nbdev/
 Poetry：Python依赖/打包管理器
 https://github.com/python-poetry/poetry
 
+### Python 热门开源项目Top10
+https://weibo.com/ttarticle/p/show?id=2309404283921801036022
+
 CrossHair：Python静态分析工具
 https://github.com/pschanely/CrossHair
 
 ProPlot：好用的matplotlib封装绘图库
 https://github.com/lukelbd/proplot
 
+【提升Jupyter Notebook环境使用体验】
+https://towardsdatascience.com/elevate-your-jupyter-notebook-environment-experience-9bdd1101aa54
+
 【fastdot：对pydot(Graphviz网络可视化DOT语言接口)的一致性易用性封装】
 https://fastai.github.io/fastdot/
 
+【ggspatial：基于ggplot2的空间可视化增强包】
+https://github.com/paleolimbot/ggspatial
+
+【Jupyter Notebooks里创建实时绘图】
+https://github.com/lvwerra/jupyterplot
+
+【使用简单的Python C语言内联函数】
+https://github.com/georgek42/inlinec
+
+《Think Python 2e》最新版中文翻译
+https://codingpy.com/books/thinkpython2/index.html
+
+【Python绘图示例(含代码)集锦】
+https://github.com/holtzy/The-Python-Graph-Gallery
+
+【数据科学基础：面向无编程经验人士的Python数据科学入门教程(Colab Notebooks)】
+https://github.com/AllenDowney/ElementsOfDataScience
+
+【vardbg：带有程序运行流可视化的Python代码简单调试/分析工具】
+https://github.com/CCExtractor/vardbg
+
+【CleverCSV：专门处理脏乱CSV数据的Python包】
+https://github.com/alan-turing-institute/CleverCSV
+
+【将自然语言数字串解析转换为整数和浮点数】
+https://github.com/jaidevd/numerizer
+
+'汉字数字(中文数字)-阿拉伯数字转换工具 The Best Tool of Chinese Number to Digits' 
+https://github.com/Wall-ee/chinese2digits
+
 【PySimpleGUI：用Python五分钟创建图形界面】
 https://pan.baidu.com/s/13MChntIQKpH6d6ax2MtQzw
+
+【用Python/PyAutoGUI实现任务自动化】
+https://medium.com/datadriveninvestor/automating-your-job-with-python-f1952b6b640d
+
+【Python最佳实践、技巧与提示30则】
+https://pan.baidu.com/s/1tmNBhwjKSPcytNyZFdLoEg
+
+【Scalene：Python高性能CPU/内存分析器】
+https://github.com/emeryberger/scalene
+
+【NVML库的Python3接口库，在程序里获取NVIDIA GPU使用状态】
+https://github.com/fbcotter/py3nvml
+
+【STPyV8：实现 Python3 和 JavaScript 的相互调用】
+https://github.com/area1/stpyv8
+
+【Python3进程内存分析器】
+https://github.com/facebookincubator/memory-analyzer
 
 用Jupyter Notebooks创建交互式网页
 https://github.com/SamLau95/nbinteract

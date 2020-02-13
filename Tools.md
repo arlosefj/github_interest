@@ -49,6 +49,46 @@ https://github.com/Leantime/leantime
 clayoven：支持LaTeX，面向数学、编程和文章的漂亮网站生成器
 https://github.com/artagnon/clayoven
 
+云收藏 Spring Boot 2.X 开源项目 http://favorites.ren/
+https://github.com/cloudfavorites/favorites-web
+
+【数据科学家2020工具箱：提高生产力工具列表】
+https://pan.baidu.com/s/1KAXSyGZD_tR0wJgo-kBqug
+
+【日常有用脚本分享】
+https://github.com/oldratlee/useful-scripts
+
+### 【CheatSheet：最佳实践速查集锦】
+https://github.com/dennyzhang/cheatsheet.dennyzhang.com
+
+一个带缓存的异步图片下载库
+https://github.com/SDWebImage/SDWebImage
+
+【Parsr：小巧实用的文档(图像，pdf)清理、解析和提取工具，可为数据科学家和开发者生成随时可用且整理完成的数据】
+https://github.com/axa-group/Parsr
+
+【iHateregex.io：正则表达式速查、调试、验证、可视化】
+https://github.com/geongeorge/i-hate-regex
+
+【Contextualise：简单灵活的知识文档工具，适合组织信息密集的项目和活动】
+https://github.com/brettkromkamp/contextualise
+
+'JustWrite (Typora Plus) - 增强版的Typora Plus，跨平台Markdown编辑器，微信公众号文章排版，自带新浪微博免费图床，Markdown个人简历，一键发布文章到博客园、CSDN、SegmentFault、掘金、开源中国等平台。' 
+https://github.com/yueshutong/JustWrite
+也可用mweb
+
+手机通过 USB 连接电脑，即可使用电脑网络上网
+https://github.com/Genymobile/gnirehtet
+
+一个让你的程序看起来更有设计感的Repo。看了下还挺实用，包括了 字体、配色、CSS、背景、动画、图标等方面的资源
+https://github.com/sw-yx/spark-joy
+
+开源免费批量下载 Google 图片的工具，支持 macOS、Windows 及 Linux 系统。
+https://github.com/hardikvasa/google-images-download
+
+《程序员请收好：10个非常实用的 VS Code 插件》
+https://mp.weixin.qq.com/s/LMV_WQHRwLUndoz1p-ZVnw
+
 ### Memex：个人知识管理平台
 https://github.com/kormyen/Memex
 

@@ -28,17 +28,128 @@ https://github.com/luuuyi/RefineDet.PyTorch
 【开源目标检测工具包(PyTorch)】’mmdetection - Open MMLab Detection Toolbox' by Multimedia Laboratory, 
 https://github.com/open-mmlab/mmdetection
 
+Official Tensorflow implementation of drl-RPN: Deep Reinforcement Learning of Region Proposal Networks (CVPR 2018 paper)
+https://github.com/aleksispi/drl-rpn-tf
+
+Enriched Feature Guided Refinement Network for Detection，ICCV2019.
+https://github.com/Ranchentx/EFGRNet
+
+FCOS: Fully Convolutional One-Stage Object Detection (ICCV'19) https://arxiv.org/abs/1904.01355
+https://github.com/Adelaide-AI-Group/FCOS
+
+Monocular 3D Object Detection
+https://github.com/kujason/monopsr
+
+Benchmark for Generic Product Detection: A Low Data Baseline for Dense Object Detection
+https://github.com/ParallelDots/generic-sku-detection-benchmark
+
+PyTorch implementation for MatrixNet object detection architecture.
+https://github.com/arashwan/matrixnet
+
+This is a pytorch implementation of VoVNet backbone networks as described in the paper An Energy and GPU-Computation Efficient Backbone Network for Real-Time Object Detection. 
+https://github.com/stigma0617/VoVNet.pytorch
+
+YOLOv3 object detection architecture with uncertainty estimation.
+https://github.com/flkraus/bayesian-yolov3
+
+ThunderNet: Towards Real-time Generic Object Detection
+https://github.com/ouyanghuiyu/Thundernet_Pytorch
+
+Key.Net: Keypoint Detection by Handcrafted and Learned CNN Filters
+https://github.com/axelBarroso/Key.Net
+
+yolov3 with mobilenet v2 and ASFF
+https://github.com/ruinmessi/ASFF
+
+Code for calculating the upper bound AP in object detection
+https://github.com/aliborji/DeetctionUpperbound
+
+Learning RoI Transformer for Detecting Oriented Objects in Aerial Images
+https://github.com/dingjiansw101/RoITransformer_DOTA
+
+Fast Learning of Temporal Action Proposal via Dense Boundary Generator!
+https://github.com/TencentYoutuResearch/ActionDetection-DBG
+
+This project is the code for implementing the GridMask augmentation for image classification and object detection. 
+https://github.com/akuxcw/GridMask
+
+The implementation of "Towards accurate one-stage object detection with AP-loss" and its journal version.
+https://github.com/cccorn/AP-loss
+
+A loss function (Weighted Hausdorff Distance) for object localization in PyTorch
+https://github.com/HaipengXiong/weighted-hausdorff-loss
+
+Mask-Guided Attention Network for Occluded Pedestrian Detection. (ICCV'19)
+https://github.com/Leotju/MGAN
+
+This project provides the implementation for DetNAS: Backbone Search for Object Detection.
+https://github.com/megvii-model/DetNAS
+
+Paper: CVPR2018, Learning Rich Features for Image Manipulation Detection
+https://github.com/LarryJiang134/Image_manipulation_detection
+
+Gaussian YOLOv3: An Accurate and Fast Object Detector Using Localization Uncertainty for Autonomous Driving (ICCV, 2019)
+https://github.com/jwchoi384/Gaussian_YOLOv3
+
+### A light and fast one class detection framework for edge devices. We provide face detector, head detector, pedestrian detector, vehicle detector......
+https://github.com/becauseofAI/lffd-pytorch
+
+《Accelerating Object Detection by Erasing Background Activations》
+https://www.arxiv-vanity.com/papers/2002.01609/
+
+CenterNet: Objects as Points in Tensorflow
+https://github.com/Stick-To/CenterNet-tensorflow
+
+Feature pyramid network (FPN) with online hard example mining (OHEM)
+https://github.com/gurkirt/FPN.pytorch1.0
+
+Reasoning-RCNN: Unifying Adaptive Global Reasoning into Large-scale Object Detection (CVPR2019 Oral)
+https://github.com/chanyn/Reasoning-RCNN
+
+Lists the papers related to imbalance problems in object detection
+https://github.com/kemaloksuz/ObjectDetectionImbalance
+
+M3D-RPN: Monocular 3D Region Proposal Network for Object Detection
+https://github.com/garrickbrazil/M3D-RPN
+
+The PyTorch Implementation of F-ConvNet for 3D Object Detection
+https://github.com/zhixinwang/frustum-convnet
+
+【AdelaiDet：开源多实例级检测应用工具箱】
+https://github.com/aim-uofa/adet
+
+【面向目标检测标注的无人机图像及其YOLO模型】
+https://github.com/chuanenlin/drone-net
+
+【Detecto：用5行代码构建计算机视觉/目标检测模型的Python包】
+https://github.com/alankbi/detecto
+
+《Evaluating Weakly Supervised Object Localization Methods Right》
+https://github.com/clovaai/wsolevaluation
+
 ### PyTorch实现的DenseBox多任务学习目标检测/关键点定位
 https://github.com/CaptainEven/DenseBox
 
 ### Learning Spatial Fusion for Single-Shot Object Detection
 https://github.com/ruinmessi/ASFF
 
+【Elixir/Phoenix实时目标检测】
+https://www.poeticoding.com/real-time-object-detection-with-phoenix-and-python/
+
+【Sightseer：(TensorFlow 1.15)计算机视觉/目标检测最新预训练模型集成库
+https://github.com/rish-16/sight
+
+【YOLOv3各框架复现项目汇总(TensorFlow/PyTorch/Keras/Caffe/MXNet)】
+https://github.com/amusi/YOLO-Reproduce-Summary
+
 ### 【路面坑洼检测】
 https://github.com/JordanMicahBennett/Smart-Ai-Pothole-Detector------Powered-by-Tensorflow-TensorRT-on-Google-Colab-and-or-Jetson-Nano
 
 【tf.keras实现的YOLOv3/v2目标检测pipeline】
 https://github.com/david8862/keras-YOLOv3-model-set
+
+【PyTorch实现的YOLOv3】
+https://github.com/westerndigitalcorporation/YOLOv3-in-PyTorch
 
 【ZazuML：面向实例检测的开源AutoML项目】
 https://github.com/dataloop-ai/ZazuML

@@ -52,6 +52,18 @@ https://github.com/weitechen/anafora
 【doccano：基于网页的开源协同多语言文本标注工具】
 https://github.com/doccano/doccano
 
+### Code for CVPR 2019 paper Label Propagation for Deep Semi-supervised Learning
+https://github.com/ahmetius/LP-DeepSSL
+
+### 【Label Studio：数据标注的“瑞士军刀”】《Introducing Label Studio, a swiss army knife of data labeling》
+https://github.com/heartexlabs/label-studio
+
+### 【Trunklucator：面向数据科学家/机器学习研究者用来快速创建数据标注项目的Python模块】
+https://github.com/Dumbris/trunklucator
+
+【Jupyter notebooks/Jupyter Lab的内联数据标注扩展】
+https://github.com/ideonate/jupyter-innotater
+
 FoLiA：WEB版文本标注工具
 https://github.com/proycon/flat
 

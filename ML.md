@@ -303,6 +303,111 @@ François Chollet 访谈：为什么电子游戏和棋类游戏不是衡量AI的
 https://www.theverge.com/2019/12/19/21029605/artificial-intelligence-ai-progress-measurement-benchmarks-interview-francois-chollet-google
 对机器来说，技能(Skill)和智能(Intelligence)完全正交。只要能采集有关任务的无限数据(或花费无限工程资源) ，就能获得任意技能……没有哪一项任务中，取得高水平技能可以代表智能水平，除非任务本身是个元任务，要在一系列之前未知的问题上获得新技能。这就是我提出的智能衡量标准。
 
+《数据科学基础》
+https://pan.baidu.com/s/1hpmi1rXuCaNYLRUzPtdM-g
+
+【机器学习资源汇总(课程、教材、教程、笔记、速查等)】
+https://sgfin.github.io/learning-resources/
+
+【高效机器学习指南】
+https://pan.baidu.com/s/1pNqmuBx
+
+【多角度理解CNN】
+https://pan.baidu.com/s/1mi9ckcw
+
+'人工智能实战就业(面试)学习路线图' 
+https://github.com/tangyudi/Ai-learn
+
+【机器学习因果推理概览】
+https://www.ericsson.com/en/blog/2020/2/causal-inference-machine-learning
+
+机器学习数学全书，1900 页 PDF 下载
+https://mp.weixin.qq.com/s/UzdicLaDSpjalcl52Dw6HA
+
+'开源预训练语言模型合集 - Open Language Pre-trained Model Zoo' 
+https://github.com/ZhuiyiTechnology/pretrained-models
+
+【机器学习面试准备指南】
+https://github.com/AstronomerAmber/ML_prep
+
+【深度学习基础原理十日谈】
+http://penkovsky.com/neural-networks/
+
+【(fastai)机器学习实用场景方案分享汇总】
+https://forums.fast.ai/t/share-you-work-here-highlights/57140
+
+【高级机器学习笔记】
+https://github.com/AlphaOneSrc/SuperMachineLearningNotes
+
+【实用特征工程技巧】
+https://github.com/Pysamlam/Tips-of-Feature-engineering
+
+### 【端到端机器学习：从数据采集到部署】
+https://medium.com/swlh/end-to-end-machine-learning-from-data-collection-to-deployment-ce74f51ca203
+
+【在浏览器里运行Mediapipe(用于构建跨平台多模态应用机器学习pipeline的框架)】
+https://developers.googleblog.com/2020/01/mediapipe-on-web.html
+
+《How Much Position Information Do Convolutional Neural Networks Encode?》
+https://www.arxiv-vanity.com/papers/2001.08248/
+
+【机器学习应用软件工程最佳实践大列表】
+https://github.com/SE-ML/awesome-seml
+
+【深度学习架构、模型和技巧集合(TensorFlow/PyTorch)】
+https://github.com/rasbt/deeplearning-models
+
+【神经网络数据服务器(AI数据搜索引擎)】
+https://arxiv.org/abs/2001.02799
+
+【基于PySyft的协同AI模型训练端到端网络
+https://github.com/OpenMined/PyGrid
+
+【卷积网络分层特征量的反思】
+http://martin-mundt.com/rethinking-cnn-feature-amounts/
+
+Evolutionary Learning: Advances in Theories and Algorithms  周志华 （南京大学）等 
+https://www.springer.com/gp/book/9789811359552?utm_source=springer&utm_medium=referral&utm_content=null&utm_campaign=SRCN_1_LL01_cny20_b_cs#otherversion=9789811359569
+
+【给孩子的机器学习指南】《Children’s Guide to Machine Learning》
+https://pan.baidu.com/s/1aYnAUhB9i_5fGc3xTWoG0w
+
+This is the PyTorch code for CVPR 2019 Paper: Learning to Learn from Noisy Labeled Data
+https://github.com/LiJunnan1992/MLNT
+
+【手把手机器学习新手实践入门】
+https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+
+【随机森林、主成分分析与超参优化：机器学习分类手把手入门】
+https://towardsdatascience.com/machine-learning-step-by-step-6fbde95c455a
+
+【缺失数据的处理】
+https://medium.com/wids-mysore/handling-missing-values-82ce096c0cef
+
+### ' Source code/webpage/demos for the What-If Tool' 
+https://github.com/PAIR-code/what-if-tool
+
+【《人工智能：一种现代方法》习题与实现】
+https://github.com/aimacode/aima-exercises
+
+【Zincbase：最先进的知识库和复杂效应仿真组件，可高效存储、检索图结构化数据，提供包括包括图神经网络的图查询方法，模拟复杂效应】
+https://github.com/complexdb/zincbase
+
+【Unity机器学习入门教程】
+https://www.youtube.com/playlist?list=PLZu8GD0ChvDz_lm8EuF7Xx_zzWx-IL8_u
+
+【数据项目自查清单】
+https://www.fast.ai/2020/01/07/data-questionnaire/
+
+【2019热门开源机器学习项目汇总】
+https://pan.baidu.com/s/17Gskt5wxsbYuyetYDkfMYw
+
+【深度学习十年发展回顾：里程碑论文汇编】
+https://pan.baidu.com/s/1O92jyxmHt-iTfLBspC_xww
+
+【在线书稿：公平与机器学习——局限与挑战】
+https://github.com/fairmlbook/fairmlbook.github.io
+
 【机器学习法则：机器学习工程最佳实践】
 https://weibo.com/1402400261/GByZYhuGI?mid=4452197393781313&ouid=1402400261&type=comment
 

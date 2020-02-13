@@ -5,6 +5,60 @@ https://arxiv.org/abs/1912.09336
 数据集索引
 https://hyper.ai/datasets
 
+WoodScape: A multi-task, multi-camera fisheye dataset for autonomous driving
+https://github.com/valeoai/WoodScape
+
+【缺失大量行人、骑车人标注的无人驾驶数据集可能是个大问题】
+https://blog.roboflow.ai/self-driving-car-dataset-missing-pedestrians/
+
+PyTorch implementation of MMT on TVCaption dataset - TVR: A Large-Scale Dataset for Video-Subtitle Moment Retrieval
+https://github.com/jayleicn/TVCaption
+
+Python SDK for "A Dataset of Multi-Illumination Images in the Wild" (ICCV 2019)
+https://github.com/lmurmann/multi_illumination
+
+A*3D: An Autonomous Driving Dataset in Challeging Environments
+https://github.com/I2RDL2/ASTAR-3D
+
+PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.
+https://github.com/facebookresearch/SlowFast
+
+SIXray：A Large-scale Security Inspection X-ray Benchmark for Prohibited Item Discovery in Overlapping Images
+https://github.com/MeioJane/CHR
+
+EuroSAT : Land Use and Land Cover Classification with Sentinel-2
+https://github.com/phelber/EuroSAT
+
+### 【支持众多图片网站的命令行图片爬虫】
+https://github.com/mikf/gallery-dl
+
+【3RScan：大规模实景数据集，包括478个自然变化室内环境，1482个3D重建/快照，可用于基准测试新兴任务，如long-term SLAM、场景变化检测和目标实例重定位】
+https://github.com/WaldJohannaU/3RScan
+
+'电影数据集 Moviedata-10M - 1000万豆瓣电影/评论/名人/评分数据采集源码分享（内含千万电影数据集，可下载' by D.W
+https://github.com/csuldw/AntSpider
+
+《Neural Data Server: A Large-Scale Search Engine for Transfer Learning Data》
+https://www.arxiv-vanity.com/papers/2001.02799/
+
+【3D着装人体数据集】 “3DPeople Dataset - The first dataset of dressed humans with specific geometry representation for clothes” 
+https://cv.iri.upc-csic.es/
+
+【机器人/计算机视觉相关数据集列表】
+https://github.com/sunglok/awesome-robotics-datasets
+
+【卫星图像目标检测基准】
+https://github.com/dingjiansw101/AerialDetection
+
+【HO-3D：手/目标3D姿态标注数据集】
+https://www.tugraz.at/index.php?id=40231
+
+'PolSF - PolSAR dataset on San Francisco' 
+https://github.com/liuxuvip/PolSF
+
+【Danbooru2018：大规模众包标记动漫图片数据集】
+https://www.gwern.net/Danbooru2019#danbooru2018
+
 面向图像自动描述系统的“图片-描述”数据集
 https://github.com/google-research-datasets/conceptual-captions
 
@@ -14,6 +68,13 @@ https://europe.naverlabs.com/blog/announcing-virtual-kitti-2/
 
 史上最大规模1.4亿中文知识图谱
 https://github.com/ownthink/KnowledgeGraphData
+
+
+【汽车信息数据集：64,000张汽车图片，标注信息包括车型、型号、年份、价格、马力、车身风格等】
+https://github.com/nicolas-gervais/predicting-car-price-from-scraped-data/tree/master/picture-scraper
+
+【暴力识别视频数据集】’Violence-Recognition-Dataset - some video with fighting and normal' 
+https://github.com/ZHEQIUSHUI/Violence-Recognition-Dataset
 
 'QQ音乐爬虫(with scrapy)/QQ Music Spider/49万+歌曲信息(歌曲信息、歌词、精彩评论等)数据’ 
 https://github.com/yangjianxin1/QQMusicSpider

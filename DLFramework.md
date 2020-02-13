@@ -17,6 +17,18 @@ https://github.com/opencv/openvino_training_extensions/tree/develop/pytorch_tool
 ### 【Cottonwood 神经网络框架(教学用)】’The Cottonwood Neural Network Framework - A flexible neural network framework for running experiments and trying ideas.' 
 https://github.com/brohrer/cottonwood
 
+【Thinc：支持PyTorch、TensorFlow、 MXNet等各主流框架的轻量深度学习库，提供优雅的、类型检查的函数式编程 API】
+https://thinc.ai/
+
+FAIR Self-Supervised Learning Integrated Multi-modal Environment (SSLIME)
+https://github.com/facebookresearch/fair-sslime
+
+【基于Scikit-Learn的Python高性能拓扑机器学习工具箱】
+https://github.com/giotto-ai/giotto-tda
+
+【DeepSpeed：微软的深度学习优化库，让分布式训练更简单、更高效、更有效】
+https://github.com/microsoft/DeepSpeed
+
 Catalyst：聚焦快速开发与复现的深度学习/强化学习高级工具集
 https://github.com/catalyst-team/catalyst
 

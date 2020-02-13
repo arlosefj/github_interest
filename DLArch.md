@@ -100,8 +100,99 @@ https://github.com/alexandonian/pretorched-x
 NNI：微软发布的开源神经架构搜索/超参调优自动机器学习(AutoML)工具包，通过多种调优算法搜索最佳神经网络结构和(或)超参，支持单机、本地多机、云等不同的运行环境】’NNI (Neural Network Intelligence) - An open source AutoML toolkit for neural architecture search and hyper-parameter tuning' by Microsoft 
 https://github.com/Microsoft/nni/releases
 
+Implementation of the paper: "Learning Semantic-Specific Graph Representation for Multi-Label Image Recognition" (ICCV 2019)
+https://github.com/HCPLab-SYSU/SSGRL
+
+Efficient Transformers for research, PyTorch and Tensorflow using Locality Sensitive Hashing
+https://github.com/cerebroai/reformers
+
+Code release for "Adversarial Robustness vs Model Compression, or Both?"
+https://github.com/yeshaokai/Robustness-Aware-Pruning-ADMM
+
+Visual Attention Consistency Under Image Transforms for Multi-Label Image Classification
+https://github.com/hguosc/visual_attention_consistency
+
+Geom-GCN: Geometric Graph Convolutional Networks
+https://github.com/graphdml-uiuc-jlu/geom-gcn
+
+Code for ICLR 2020 paper 'AtomNAS: Fine-Grained End-to-End Neural Architecture Search'
+https://github.com/meijieru/AtomNAS
+
+Source code accompanying our CVPR 2019 paper: "NetTailor: Tuning the architecture, not just the weights." 
+https://github.com/pedro-morgado/nettailor
+
+Official pyTorch implementation of "Dynamic-Net: Tuning the Objective Without Re-training for Synthesis Tasks" experiments
+https://github.com/AlonShoshan10/dynamic_net
+
+R2D2: Reliable and Repeatable Detector and Descriptor
+https://github.com/naver/r2d2
+
+Multi-level Wavelet-CNN for Image Restoration
+https://github.com/lpj0/MWCNN
+
+Improved Wave-U-Net implemented in Pytorch
+https://github.com/f90/Wave-U-Net-Pytorch
+
+This is a tensorflow implementation of high-resolution representations for ImageNet classification.
+https://github.com/yuanyuanli85/tf-hrnet
+
+Codebase for Image Classification Research, written in PyTorch.
+https://github.com/facebookresearch/pycls
+
+Official code for using / reproducing CDEP from the paper "Interpretations are useful: penalizing explanations to align neural networks with prior knowledge". 
+https://github.com/laura-rieger/deep-explanation-penalization
+
+partial residual networks
+https://github.com/WongKinYiu/PartialResidualNetworks
+
+SPOS(Single Path One-Shot Neural Architecture Search with Uniform Sampling) rebuilt in Pytorch with single GPU.
+https://github.com/ShunLu91/Single-Path-One-Shot-NAS
+
+This repository contains FCOS(ICCV'19) with VoVNet (CVPRW'19) efficient backbone networks. This code based on pytorch imeplementation of FCOS
+https://github.com/vov-net/VoVNet-FCOS
+
+NeuralNetwork-Viterbi: A Framework for Weakly Supervised Video Learning
+https://github.com/alexanderrichard/NeuralNetwork-Viterbi
+
+Graph Neural Networks for Multi-Label Classification
+https://github.com/QData/LaMP
+
+CORnet: Modeling the Neural Mechanisms of Core Object Recognition
+https://github.com/dicarlolab/CORnet
+
+The official pytorch implemention of the TPAMI paper "Res2Net: A New Multi-scale Backbone Architecture"
+https://github.com/Res2Net/Res2Net-PretrainedModels
+
+PyTorch code for our BMVC 2019 paper "Image Classification with Hierarchical Multigraph Networks" 
+https://github.com/bknyaz/bmvc_2019
+
+Efficient Graph Generation with Graph Recurrent Attention Networks, Deep Generative Model of Graphs, Graph Neural Networks, NeurIPS 2019
+https://github.com/lrjconan/GRAN
+
+Bridging the gap Between Stability and Scalability in Neural Architecture Search
+https://github.com/xiaomi-automl/SCARLET-NAS
+
+A Pytorch implementation for the paper Local Relational Networks for Image Recognition 
+https://github.com/gan3sh500/local-relational-nets
+
+Knowledge-Aware Graph Networks for Commonsense Reasoning (EMNLP-IJCNLP 19)
+https://github.com/INK-USC/KagNet
+
 PyTorch implementation of "Searching for A Robust Neural Architecture in Four GPU Hours", CVPR 2019
 https://github.com/D-X-Y/GDAS
+
+'《深入浅出图神经网络：GNN原理解析》配套代码' 
+https://github.com/FighterLYL/GraphNeuralNetwork
+
+'用Keras实现的图卷积神经网络  Semi-supervised classification by Graph Convolutional Network with Keras' 
+https://github.com/zhouchunpong/GCN_Keras
+
+【超参自动优化框架Optuna发布v1.0版】“Optuna: An open source hyperparameter optimization framework to automate hyperparameter search”
+https://github.com/optuna/optuna
+新特性：用最先进优化算法实现高效超参优化；支持各种机器学习库，包括PyTorch、TensorFlow、Keras、FastAI、Scikit-Learn、LightGBM和XGBoost；支持跨多台计算机并行执行，减少优化时间；搜索空间可用 Python 控制语句描述；集成多种可视化，方便对优化结果进行各种分析
+
+《FrequentNet : A New Deep Learning Baseline for Image Classification》
+https://arxiv.org/abs/2001.01034
 
 【女孩图片多标签分类】
 https://github.com/KichangKim/DeepDanbooru

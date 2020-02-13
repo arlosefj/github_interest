@@ -21,18 +21,81 @@ https://github.com/WenbinLee/DN4
 Cross-Domain Few-Shot Learning Benchmarking System
 https://github.com/IBM/cdfsl-benchmark
 
-* Implementation of Siamese Neural Networks for One-shot Image Recognition
+### Implementation of Siamese Neural Networks for One-shot Image Recognition
 https://github.com/Goldesel23/Siamese-Networks-for-One-Shot-Learning
 https://sorenbouma.github.io/blog/oneshot/
 
+[TOG(SIGGRAPH Asia) 2019] Artistic Glyph Image Synthesis via One-Stage Few-Shot Learning
+https://github.com/hologerry/AGIS-Net
+
+### SimpleShot: Revisiting Nearest-Neighbor Classification for Few-Shot Learning
+https://github.com/mileyan/simple_shot
+
+### Learning to Self-Train for Semi-Supervised Few-Shot
+https://github.com/xinzheli1217/learning-to-self-train
+
+### Few-shot Object Detection via Feature Reweighting
+https://github.com/bingykang/Fewshot_Detection
+
+PANet: Few-Shot Image Semantic Segmentation with Prototype Alignment
+https://github.com/kaixin96/PANet
+
+Paper:Few-Shot Text Classification with Induction Network
+https://github.com/wuzhiye7/Induction-Network-on-FewRel
+
+Diversity Transfer Network for Few-Shot Learning
+https://github.com/Yuxin-CV/DTN
+
+Cross Attention Network for Few-shot Classification
+https://github.com/blue-blue272/fewshot-CAN
+
+An unofficial implementation of MemoPainter(Coloring With Limited Data: Few-shot Colorization via Memory Augmented Networks) using PyTorch framework.
+https://github.com/dongheehand/MemoPainter-PyTorch
+
+Cross-Domain Few-Shot Classification via Learned Feature-Wise Transformation (ICLR 2020 spotlight)
+https://github.com/hytseng0509/CrossDomainFewShot
+
+### A simple method to perform semi-supervised learning with limited data.
+https://github.com/google-research/fixmatch
+
 FSS-1000: A 1000-Class Dataset for Few-Shot Segmentation
 https://github.com/HKUSTCV/FSS-1000
+
+Adaptive Cross-Modal Few-shot learning OSS code
+https://github.com/ElementAI/am3
+
+A PyTorch implementation of "Image Deformation Meta-Networks for One-Shot Learning"(CVPR 2019 Oral).
+https://github.com/tankche1/IDeMe-Net
+
+The source code of our COLING'18 paper "Few-Shot Charge Prediction with Discriminative Legal Attributes".
+https://github.com/thunlp/attribute_charge
+
+Learning Rich Features at High-Speed for Single-Shot Object Detection, ICCV, 2019
+https://github.com/vaesl/LRF-Net
+
+Boosting Few-Shot Visual Learning with Self-Supervision
+https://github.com/valeoai/BF3S
+
+Pytorch implementation of "Few-Shot Unsupervised Image-to-Image Translation" (ICCV 2019)
+https://github.com/znxlwm/FUNIT-pytorch
+
+The codes for paper "Continual Local Replacement for Few-shot Image Recognition"
+https://github.com/Lecanyu/ContinualLocalReplacement
+
+### Deep Metric Transfer for Label Propagation with Limited Annotated Data
+https://github.com/microsoft/metric-transfer.pytorch
 
 【小数据如何深度学习】《How To Use Deep Learning Even with Small Data - Towards Data Science》
 https://towardsdatascience.com/how-to-use-deep-learning-even-with-small-data-e7f34b673987
 
 《All you need is a good representation: A multi-level and classifier-centric representation for few-shot learning》
 https://arxiv.org/abs/1911.12476
+
+Few-Shot-Object-Detection-Dataset
+https://github.com/fanq15/Few-Shot-Object-Detection-Dataset
+
+Code for Paper "Incremental Few-Shot Learning with Attention Attractor Networks"
+https://github.com/renmengye/inc-few-shot-attractor-public
 
 【少样本语义分割文献列表】
 https://github.com/xiaomengyc/Few-Shot-Semantic-Segmentation-Papers

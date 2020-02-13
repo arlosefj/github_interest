@@ -7,6 +7,12 @@ https://github.com/imadelh/ML-web-app
 Keras)简单图片搜索
 https://github.com/matsui528/sis
 
+### 'OpenVino For SmartCity' 
+https://github.com/incluit/OpenVino-For-SmartCity
+
+### 【视频理解基础算法实现集】
+https://github.com/MegviiDetection/video_analyst
+
 无需代码，训练自己的学习机器
 https://teachablemachine.withgoogle.com/ https://github.com/googlecreativelab/teachablemachine-community
 
@@ -85,6 +91,8 @@ https://github.com/BMW-InnovationLab/BMW-YOLOv3-Training-Automation
 lightKG，lightsmile个人的知识图谱技术框架
 https://github.com/smilelight/lightKG
 
+服务侧深度学习部署案例
+https://github.com/layerism/TensorRT-Inference-Server-Tutorial
 
 上传一份PPT，它会自动分析里边的演讲者注释，用人工智能生成语音，然后再合成视频。非常适合用来做产品介绍、流程介绍、以及技术课程。
 Slide.ftqq.com
@@ -342,3 +350,12 @@ https://huyenchip.com/2019/12/18/key-trends-neurips-2019.html https://venturebea
 
 “Melanie Mitchell访谈：概念、类比、常识与AI未来”
 https://www.bilibili.com/video/av65677422?p=9
+
+【2千万数据集唾手可及数据科学新时代的思考】
+https://pan.baidu.com/s/1n4oVSl44gwDoOWcpDpZwMQ
+
+【来自AI初创公司创始人的2020年机器学习趋势预测】
+https://pan.baidu.com/s/1ou6xUBgxsMSMO494rYBmpw https://medium.com/@ivanfokeev/machine-learning-in-2020-from-the-ai-startup-founder-4ecb6745b6ce
+
+【2020年AI将走向何方：Soumith Chintala, Celeste Kidd, Jeff Dean, Anima Anandkumar, Dario Gil 观点】
+https://venturebeat.com/2020/01/02/top-minds-in-machine-learning-predict-where-ai-is-going-in-2020/

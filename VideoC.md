@@ -85,8 +85,41 @@ https://github.com/google-research/google-research/tree/master/evanet
 Facebook 开源 SlowFast：双帧率分析视频识别
 https://github.com/facebookresearch/SlowFast
 
+This is the official repo for "S3D: Single Shot multi-Span Detector via Fully 3D Convolutional Network"
+https://github.com/dazhang-cv/S3D
+
+code for learning trajectory dependencies for human motion prediction
+https://github.com/wei-mao-2019/LearnTrajDep
+
 Code and models for our CVPR'19 paper "Representation Flow for Action Recognition" 
 https://github.com/piergiaj/representation-flow-cvpr19
+
+"Attention in Convolutional LSTM for Gesture Recognition" in NIPS 2018 
+https://github.com/GuangmingZhu/AttentionConvLSTM
+
+Code and models for our ICCV'19 paper "Evolving Space-Time Neural Architectures for Videos"
+https://github.com/piergiaj/evanet-iccv19
+
+Unofficial PyTorch implementation of the CVPR'19 paper "Skeleton-Based Action Recognition with Directed Graph Neural Networks".
+https://github.com/kenziyuliu/DGNN-PyTorch
+
+This repo contains a PyTorch S3D Text-Video model trained from scratch on HowTo100M using MIL-NCE
+https://github.com/antoine77340/S3D_HowTo100M
+
+A Faster Pytorch Implementation of R-C3D
+https://github.com/sunnyxiaohu/R-C3D.pytorch
+
+Pytorch code for End-to-End Audiovisual Speech Recognition
+https://github.com/mpc001/end-to-end-lipreading
+
+NSD: Neural Scene Decomposition for Human Motion Capture
+https://github.com/hrhodin/NeuralSceneDecomposition
+
+I3D implemetation in Keras + video preprocessing + visualization of results
+https://github.com/oanaignat/i3d_keras
+
+### CVPR2019 STEP: Spatio-Temporal Progressive Learning for Video Action Detection
+https://github.com/NVlabs/STEP
 
 Repository for the paper "Adversarial Framing for Image and Video Classification"
 https://github.com/zajaczajac/adv_framing

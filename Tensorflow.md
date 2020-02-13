@@ -28,6 +28,27 @@ https://research.google.com/seedbank/
 Tensorflow公平性评价、可视化工具集】
 https://github.com/tensorflow/fairness-indicators
 
+Simple Tensorflow implementation of "On The Variance Of The Adaptive Learning Rate And Beyond"
+https://github.com/taki0112/RAdam-Tensorflow
+
+【TensorFlow 模型优化工具包：优化机器学习模型以便部署和执行】
+https://www.tensorflow.org/model_optimization
+
+【deeplearning.ai 的新专项课程：TensorFlow数据与部署——包括TensorFlow.js浏览器模型部署、TensorFlow Lite设备端部署、TensorFlow Data Services数据管道以及TensorFlow高级部署场景四门具体课程】
+https://www.coursera.org/specializations/tensorflow-data-and-deployment
+
+【TensorFlow 2.0手写文字识别】
+https://github.com/arthurflor23/handwritten-text-recognition
+
+机器学习: 从0到1学Tensorflow(中文)
+https://weibo.com/tv/v/IrQd6klxL?fid=1034:4466355252953095 https://www.youtube.com/playlist?list=PLQY2H8rRoyvwr-3IlvJXA1JyOlpcbIGa1
+
+【无需转换用Node.js运行TensorFlow SavedModel】
+https://blog.tensorflow.org/2020/01/run-tensorflow-savedmodel-in-nodejs-directly-without-conversion.html
+
+《动手学深度学习》(Dive into Deep Learning) 原书中的 MXNet 实现改为 TensorFlow 2.0 实现
+https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0
+
 TensorFlow 2教程：tf.keras深度学习入门
 https://machinelearningmastery.com/tensorflow-tutorial-deep-learning-with-tf-keras/
 

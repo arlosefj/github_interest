@@ -4,8 +4,80 @@ https://github.com/tensorflow/models/tree/master/research/struct2depth
 DeepTAM: Deep Tracking and Mapping
 https://github.com/lmb-freiburg/deeptam
 
+FADNet: A Fast and Accurate Network for Disparity Estimation
+https://github.com/HKBU-HPML/FADNet
+
+code for Mesh R-CNN, an academic publication, presented at ICCV 2019
+https://github.com/facebookresearch/meshrcnn
+
+A PyTorch Library for Accelerating 3D Deep Learning Research
+https://github.com/NVIDIAGameWorks/kaolin
+
+A pytorch implementation of "D4LCN: Learning Depth-Guided Convolutions for Monocular 3D Object Detection"
+https://github.com/dingmyu/D4LCN
+
+it referenced paper of GANerated Hands for Real-Time 3D Hand Tracking from Monocular RGB.
+https://github.com/Ninebell/GaneratedHandsForReal_TIME
+
+Hierarchical Deep Stereo Matching on High Resolution Images, CVPR 2019. 
+https://github.com/gengshan-y/high-res-stereo
+
+Learning View Priors for Single-view 3D Reconstruction
+https://github.com/hiroharu-kato/view_prior_learning
+
+The official implementation of the ICCV 2019 paper "GraphX-convolution for point cloud deformation in 2D-to-3D conversion".
+https://github.com/justanhduc/graphx-conv
+
+Official pytorch implementation of "Indoor Depth Completion with Boundary Consistency and Self-Attention. Huang et al. RLQ@ICCV 2019." https://arxiv.org/abs/1908.08344
+https://github.com/patrickwu2/Depth-Completion
+
+MVSNet: Depth Inference for Unstructured Multi-view Stereo. 
+https://github.com/xy-guo/MVSNet_pytorch
+
+Neural network code for Deep Blending for Free-Viewpoint Image-Based Rendering (SIGGRAPH Asia 2018)
+https://github.com/Phog/DeepBlending
+
+Extreme View Synthesis
+https://github.com/NVlabs/extreme-view-synth
+
+Learning to Predict 3D Objects with an Interpolation-based Differentiable Renderer (NeurIPS 2019)
+https://github.com/nv-tlabs/DIB-R
+
+CNN-SVO: Improving the Mapping in Semi-Direct Visual Odometry Using Single-Image Depth Prediction
+https://github.com/yan99033/CNN-SVO
+
+TriDepth: Triangular Patch-based Deep Depth Prediction [Kaneko+, ICCVW2019(oral)]
+https://github.com/syinari0123/tridepth
+
+From Big to Small: Multi-Scale Local Planar Guidance for Monocular Depth Estimation
+https://github.com/cogaplex-bts/bts
+
+Geometry meets semantics for semi-supervised monocular depth estimation - ACCV 2018
+https://github.com/CVLAB-Unibo/Semantic-Mono-Depth
+
+PyTorch implementation for LayoutNet v2 in the paper: "3D Manhattan Room Layout Reconstruction from a Single 360 Image"
+https://github.com/zouchuhang/LayoutNetv2
+
+Real-Time 3D Semantic Reconstruction from 2D data
+https://github.com/MIT-SPARK/Kimera-Semantics
+
+This repo includes the source code of the fully convolutional depth denoising model presented in https://arxiv.org/pdf/1909.01193.pdf
+https://github.com/VCL3D/DeepDepthDenoising
+
+This is the project page of the paper "Flow-Motion and Depth Network for Monocular Stereo and Beyond''
+https://github.com/HKUST-Aerial-Robotics/Flow-Motion-Depth
+
+【神经网络3D重建资源列表】
+https://github.com/natowi/3D-Reconstruction-with-Neural-Network
+
+Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video (NeurIPS 2019)
+https://github.com/JiawangBian/SC-SfMLearner-Release
+
 深度学习深度估计研究指南
 https://pan.baidu.com/s/1RhORsmInOk1ZEmOKuUeybw
+
+《Do As I Do: Transferring Human Motion and Appearance between Monocular Videos with Spatial and Temporal Constraints》
+https://www.arxiv-vanity.com/papers/2001.02606/
 
 (PyTorch)合成-现实(Synthetic-to-Realistic)转换深度估计
 https://github.com/lyndonzheng/Synthetic2Realistic
