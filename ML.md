@@ -291,6 +291,49 @@ http://www.r2d3.us/visual-intro-to-machine-learning-part-2/
 CART_DBDT_Xgboost——从决策树到xgboost
 https://bigquant.com/community/t/topic/127997
 
+https://github.com/MLEveryday/100-Days-Of-ML-Code
+
+机器学习好好玩(Machine Learning is Fun!)
+https://zhuanlan.zhihu.com/p/24339995
+
+各种深度学习架构，模型和技巧的集合
+https://mp.weixin.qq.com/s/CibOY2cPDRRtv765TGeuYQ
+
+让CNN有了平移不变性，同时提升ImageNet成绩：Adobe开源新方法，登上ICML
+https://mp.weixin.qq.com/s/m5rUNy938cCNjD7L3J4h-Q
+https://richzhang.github.io/antialiased-cnns/
+
+清华老师十几小时近二万字作#90个人工智能相关问题的解答# 
+https://mp.weixin.qq.com/s/0V7Xiax72V6vViF29XdY_w
+
+《统计学习方法》的代码实现
+https://github.com/fengdu78/lihang-code
+
+一文读懂随机森林的解释和实现
+https://zhuanlan.zhihu.com/p/51165358
+
+谷歌高级研究员Nature发文：避开机器学习三大「坑」
+https://mp.weixin.qq.com/s/wLeCoOJDoSAx0BBq34Vj-Q
+
+蒙特卡罗方法入门
+https://mp.weixin.qq.com/s/gfKSRUMMXlfmYlxcDWPGog
+
+仅用Numpy实现的机器学习算法集锦
+https://github.com/ddbourgin/numpy-ml
+https://mp.weixin.qq.com/s/KmGB8U5g3eOf41GIC_n5yg
+
+机器学习实践者之路
+https://blog.gregbrockman.com/how-i-became-a-machine-learning-practitioner
+
+分类特征选择技术及其Python应用技巧
+https://towardsdatascience.com/feature-selection-techniques-for-classification-and-python-tips-for-their-application-10c0ddd7918b
+
+机器学习的局限
+https://towardsdatascience.com/the-limitations-of-machine-learning-a00e0c3040c6
+
+关于学习机器学习算法的一些建议（忠告） - 知乎
+https://zhuanlan.zhihu.com/p/69104881
+
 深度网络揭秘之改进优化器加速训练过程
 https://towardsdatascience.com/how-to-train-neural-network-faster-with-optimizers-d297730b3713
 
