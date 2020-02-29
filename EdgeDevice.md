@@ -12,3 +12,51 @@ https://github.com/chehongshu/ncnnforandroid_objectiondetection_Mobilenetssd
 
 ARM GPU等边缘计算设备上的深度学习视频监控、人脸识等
 https://github.com/SharpAI/DeepCamera
+
+### MNN Implementation of the paper of LFFD: A Light and Fast Face Detector for Edge Devices
+https://github.com/SyGoing/LFFD-MNN
+
+### A C++ API of the LFFD with ncnn
+https://github.com/SyGoing/LFFD-with-ncnn
+
+【TinyML：边缘微机器学习工程】
+https://www.informationweek.com/big-data/ai-machine-learning/engineering-tiny-machine-learning-for-the-edge/a/d-id/1336972
+
+### 【嵌入(Embedding-Based)机器学习模型部署通用模式】
+https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fblog.ml6.eu%2Fa-general-pattern-for-deploying-embedding-based-machine-learning-models-bf12e8979070
+
+### 【TensorRT 加速实现的实时姿态估计】
+https://github.com/NVIDIA-AI-IOT/trt_pose
+
+5MB的神经网络也高效，Facebook新压缩算法造福嵌入式设备
+https://mp.weixin.qq.com/s/m9I5TM9uJcgZvMusO667OA
+
+'超迷你智能摄像头A-Eye - 基于K210的超迷你开发板，软硬件完全开源' 
+https://github.com/david-pzh/A-Eye
+
+【嵌入式AI(边缘AI)相关资源列表】
+https://github.com/crespum/edge-ai
+
+【Bolt：面向移动设备的高性能、异构灵活的深度学习框架】
+https://github.com/huawei-noah/bolt
+
+物联网相关项目/资源大列表
+https://github.com/HQarroum/awesome-iot
+
+AI Transformer：将(Keras)深度学习模型转换成可用于嵌入式环境的可读无依赖C程序
+https://www.aitransformer.com/
+
+边缘机器学习相关资源大列表
+https://github.com/Bisonai/awesome-edge-machine-learning
+
+AWTK = Toolkit AnyWhere(为嵌入式、手机和PC打造的通用GUI系统)
+https://github.com/zlgopen/awtk
+
+AoE (AI on Edge，终端智能，边缘计算) ：滴滴开源的 终端侧 AI 集成运行时环境 ( IRE )，以 “稳定性、易用性、安全性” 为设计原则
+https://didi.github.io/AoE/ https://github.com/didi/AoE
+
+嵌入式/物联网安全相关资源大列表
+https://github.com/fkie-cad/awesome-embedded-and-iot-security
+
+面向ARM设备的非官方PyTorch/torchvision编译版
+https://github.com/nmilosev/pytorch-arm-builds

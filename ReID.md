@@ -31,6 +31,96 @@ https://github.com/bismex/Awesome-person-re-identification
 行人重识别数据集大列表
 https://github.com/NEU-Gou/awesome-reid-dataset
 
+[ICLR-2020] Mutual Mean-Teaching: Pseudo Label Refinery for Unsupervised Domain Adaptation on Person Re-identification.
+https://github.com/yxgeee/MMT
+
+The source code for the ICLR-2020 submission Mutual Mean-Teaching: Pseudo Label Refinery for Unsupervised Domain Adaptation on Person Re-identification.
+https://github.com/Pre-release/MMT
+
+[ICCV2019] RGB-Infrared Cross-Modality Person Re-Identification via Joint Pixel and Feature Alignment
+https://github.com/wangguanan/AlignGAN
+
+【行人再识别数据集/代码/文献/任务排行大列表】
+https://github.com/FDU-VTS/Awesome-Person-Re-Identification
+
+This is the pytorch implementation and dataset of the ICCV2019 paper "Pose-Guided Feature Alignment for Occluded Person Re-identification"
+https://github.com/lightas/ICCV19_Pose_Guided_Occluded_Person_ReID
+
+Reproduction of paper: Learning Discriminative Features with Multiple Granularities for Person Re-Identification
+https://github.com/seathiefwang/MGN-pytorch
+
+Spatially and Temporally Efficient Non-local Attention Network for Video-based Person Re-Identification (BMVC 2019)
+https://github.com/jackie840129/STE-NVAN
+
+Beyond Human Parts: Dual Part-Aligned Representations for Person ReID
+https://github.com/ggjy/P2Net.pytorch
+
+A Dual Path Model With Adaptive Attention For Vehicle Re-Identification 
+https://github.com/Pirazh/Vehicle_Key_Point_Orientation_Estimation
+
+A pytorch implementation of using DARTS to search better structure for Re-ID
+https://github.com/DuanYiqun/Auto-ReID-Fast
+
+Official source code of "Batch DropBlock Network for Person Re-identification and Beyond" (ICCV 2019)
+https://github.com/daizuozhuo/batch-dropblock-network
+
+Deep Learning for Person Re-identification: A Survey and Outlook
+https://github.com/mangye16/ReID-Survey
+
+Part-based Convolutional Baseline for Person Retrieval and the Refined Part Pooling
+https://github.com/syfafterzy/PCB_RPP_for_reID
+
+This is the Occluded-DukeMTMC dataset from the ICCV2019 paper "Pose-Guided Feature Alignment for Occluded Person Re-Identification"
+https://github.com/lightas/Occluded-DukeMTMC-Dataset
+
+Self-similarity Grouping: A Simple Unsupervised Cross Domain Adaptation Approach for Person Re-identification, ICCV 2019 (Oral)
+https://github.com/OasisYang/SSG
+
+This repo contains the source code for our CVPR'19 work "Patch-based discriminative feature learning for unsupervised person re-identification"
+https://github.com/QizeYang/PAUL
+
+### 'RepNet-Vehicle-ReID - Implementing RepNet(a two-stream multitask learning network) to do vehicle Re-identification, vehicle search(or vehicle match) with PyTorch 可用于车辆细粒度识别，车辆再识别，车辆匹配，车辆检索，RepNet/MDNet的一种PyTorch实现' 
+https://github.com/CaptainEven/RepNet-MDNet-VehicleReID
+
+### 'person search - 利用YOLOv3结合行人重识别模型，实现行人的检测识别，查找特定行人'
+https://github.com/songwsx/person_search_demo
+
+Paper: "Bag of Tricks and A Strong Baseline for Deep Person Re-identification"[
+https://github.com/lulujianjie/person-reid-tiny-baseline
+
+Adaptation and Re-Identification Network: An Unsupervised Deep Transfer Learning Approach to Person Re-Identification
+https://github.com/yujheli/ARN
+
+CVPR2019 Joint Discriminative and Generative Learning for Person Re-identification
+https://github.com/NVlabs/DG-Net
+
+Deep Cosine Metric Learning for Person Re-identification
+https://github.com/nwojke/cosine_metric_learning
+
+My implementation of Spectral-Feature-Transformation-ReID, link to the paper: https://arxiv.org/abs/1811.11405
+https://github.com/CoinCheung/SFT-ReID
+
+Joint Detection and Identification Feature Learning for Person Search https://arxiv.org/abs/1604.01850
+https://github.com/ShuangLI59/person_search
+
+Pytorch Code for Cross-Modality Person Re-Identification (Visible Thermal Re-ID)'
+https://github.com/mangye16/Cross-Modal-Re-ID-baseline
+
+[ICCV 2019] "ABD-Net: Attentive but Diverse Person Re-Identification" https://arxiv.org/abs/1908.01114
+https://github.com/TAMU-VITA/ABD-Net
+
+Self-Training with Progressive Augmentation for Unsupervised Cross-Domain Person Re-identification
+https://github.com/zhangxinyu-xyz/PAST-ReID
+
+Spatial-Temporal Re-identification
+https://github.com/Wanggcong/Spatial-Temporal-Re-identification
+
+Code for 1st Place Soluition in both the Tiger Re-ID in the plain track and Tiger Re-ID in the wild track (CVWC) @ ICCV19 Workshop.
+https://github.com/LcenArthas/CVWC2019-Amur-Tiger-Re-ID
+
+### 深度学习模型训练时往往需要大量的标注数据，但收集和标注大量的数据往往比较困难。作者在行人重识别这个任务上探索了，利用生成数据来辅助训练的方法。通过生成高质量的行人图像（行人两两换衣），将其与行人重识别模型融合，同时提升行人生成的质量和行人重识别的精度
+https://github.com/NVlabs/DG-Net
+
 Person Search by Progressive Propagation via Competitive Consensus (PPCC)
 https://github.com/hqqasw/person-search-PPCC
 

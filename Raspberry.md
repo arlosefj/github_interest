@@ -13,11 +13,20 @@ https://github.com/BeloborodovDS/MobilenetSSDFace
 手把手：用树莓派搭建个人Python开发服务器
 https://pan.baidu.com/s/1SuVw94TQEI1W2CHyBh9O4Q
 
+手把手：在树莓派4上用TensorFlow Lite实现目标识别
+https://learn.adafruit.com/running-tensorflow-lite-on-the-raspberry-pi-4?view=all
+
 (树莓派/本地服务器)家庭智能助理相关资源大列表
 https://github.com/frenck/awesome-home-assistant
 
 基于树莓派的自动驾驶小车，利用树莓派和tensorflow实现小车在赛道的自动驾驶。（Self-driving car based on raspberry pie（tensorflow））
 https://github.com/Timthony/self_drive
+
+### 基于TensorFlow Lite的版本可在四核树莓派上实现超实时语音识别
+https://hacks.mozilla.org/2019/12/deepspeech-0-6-mozillas-speech-to-text-engine/
+
+### 开源的智能家居系统：Home Assistant
+https://github.com/home-assistant/home-assistant 你可以利用它来追踪并控制家里的智能设备，如灯光、温度、声音等。另外，Home Assistant 还提供了交互友好的管理后台，可自定义控制面板，并支持跨终端使用。
 
 DIY：用树莓派+EInk显示屏做智能日历
 https://github.com/zli117/EInk-Calendar
@@ -28,5 +37,17 @@ https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fmedium.freecodeca
 59美元的JeVois：微型四核ARM开源摄像头，可运行Linux、OpenCV、TF等
 http://jevois.org/
 
+【安卓设备/树莓派 TensorFlow Lite 目标检测全程指南】
+https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi
+
 ### 用 Python 和 OpenCV 识别扑克牌
 https://github.com/EdjeElectronics/OpenCV-Playing-Card-Detector
+
+新款树莓派4上的TensorFlow Lite实测
+https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fblog.hackster.io%2Fbenchmarking-tensorflow-lite-on-the-new-raspberry-pi-4-model-b-3fd859d05b98
+
+(Tensorflow 2.0)树莓派低成本计算机视觉实战
+https://towardsdatascience.com/portable-computer-vision-tensorflow-2-0-on-a-raspberry-pi-part-1-of-2-84e318798ce9
+
+笑脸自拍器：树莓派上构建基于TensorFlow Lite的PhotoBooth Lite
+https://blog.tensorflow.org/2020/01/photobooth-lite-on-raspberry-pi-with-tensorflow-lite.html

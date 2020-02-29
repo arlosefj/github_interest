@@ -1,14 +1,5 @@
-应该是当下最全面的「Python异常检测工具库」了。除了收到近500个Star以外，我们还写了一篇JMLR（在审）。最近一直在加紧扩充算法和优化效率（主要是通过joblib和numba），这两周写了SOS、LOCI、LSCP等算法，同时还有两个全新的深度学习异常检测即将上线，敬请期待。
-https://github.com/yzhao062/pyod
-
-A PyTorch implementation of the Deep SVDD anomaly detection method
-https://github.com/lukasruff/Deep-SVDD-PyTorch
-
-This is the official implementation of "Deep Anomaly Detection Using Geometric Transformations"
-https://github.com/izikgo/AnomalyDetectionTransformations
-
-异常检测相关资源大列表
-https://github.com/hoya012/awesome-anomaly-detection
+Deep Set Prediction Networks
+https://github.com/Cyanogenoid/dspn
 
 his repository contains code for training models from the paper Burst Denoising with Kernel Prediction Networks.
 https://github.com/google/burst-denoising
@@ -16,8 +7,209 @@ https://github.com/google/burst-denoising
 不会用Photoshop抠图？Mask R-CNN助你一键“除”人
 https://github.com/minimaxir/person-blocker
 
+Video Crowd Counting via Dynamic Temporal Modeling
+https://arxiv.org/abs/1907.02198
+
 CVPR 2019 论文开源项目合集
 https://github.com/amusi/CVPR2019-Code
+
+### https://github.com/liruoteng/HeavyRainRemoval
+https://github.com/liruoteng/HeavyRainRemoval
+
+### 【基于深度学习的下一代隐性水印】
+https://github.com/nikcheerla/neuralhash
+
+FFA-Net: Feature Fusion Attention Network for Single Image Dehazing (AAAI 2020)
+https://github.com/zhilin007/FFA-Net
+
+Code for the paper: Fighting Fake News: Image Splice Detection via Learned Self-Consistency
+https://github.com/minyoungg/selfconsistency
+
+Code for our NeurIPS'19 paper "Learning Deep Bilinear Transformation for Fine-grained Image Representation"
+https://github.com/researchmm/DBTNet
+
+ "Self-supervised Domain adaptation for Computer Vision Tasks".
+ https://github.com/Jiaolong/self-supervised-da
+
+This is a Pytorch implementation of deep image blending https://arxiv.org/pdf/1910.11495.pdf
+https://github.com/owenzlz/DeepImageBlending
+
+Single Image Deraining using a Recurrent Multi-scale Aggregation and Enhancement Network (ICME'19)
+https://github.com/nnUyi/ReMAEN
+
+A pytorch implementation of Paper "IntroVAE: Introspective Variational Autoencoders for Photographic Image Synthesis"
+https://github.com/hhb072/IntroVAE
+
+This repository contains the source code for the paper First Order Motion Model for Image Animation
+https://github.com/AliaksandrSiarohin/first-order-model
+
+Source code of our ACM MM 2019 paper "A New Benchmark and Approach for Fine-grained Cross-media Retrieval".
+https://github.com/PKU-ICST-MIPL/FGCrossNet_ACMMM2019
+
+Code repo for "Spatio-Temporal Filter Adaptive Network for Video Deblurring" (ICCV'19)
+https://github.com/sczhou/STFAN
+
+This repo contains the official training and testing codes for our paper: GridDehazeNet: Attention-Based Multi-Scale Network for Image Dehazing. https://xiaohongliu.ca/GridDehazeNet/
+https://github.com/proteus1991/GridDehazeNet
+
+Code for Perspective-Guided Convolution Networks for Crowd Counting (ICCV 2019)
+https://github.com/Zhaoyi-Yan/PGCNet
+
+Seeing Motion in the Dark
+https://github.com/cchen156/Seeing-Motion-in-the-Dark
+
+Neural Vanishing Point Scanning via Conic Convolution
+https://github.com/zhou13/neurvps
+
+High-Quality Self-Supervised Deep Image Denoising - Official TensorFlow implementation of the NeurIPS 2019 paper
+https://github.com/NVlabs/selfsupervised-denoising
+
+### Official Code for Context-Aware Crowd Counting. CVPR 2019
+https://github.com/weizheliu/Context-Aware-Crowd-Counting
+
+Pytorch code for "Real image denoising with feature attention", ICCV (Oral), 2019.
+https://github.com/saeed-anwar/RIDNet
+
+Doodle to Search: Practical Zero Shot Sketch Based Image Retrieval
+https://github.com/sounakdey/doodle2search
+
+Codes of ECCV 2018 workshop paper "Deep Fashion Analysis with Feature Map Upsampling and Landmark-driven Attention"
+https://github.com/fdjingyuan/Deep-Fashion-Analysis-ECCV2018
+
+Implementation of active contour loss function
+https://github.com/xuuuuuuchen/Active-Contour-Loss
+
+Official implementation of the paper "Double-DIP: Unsupervised Image Decomposition via Coupled Deep-Image-Priors"
+https://github.com/yossigandelsman/DoubleDIP
+
+### Composing Text and Image for Image Retrieval
+https://github.com/google/tirg
+
+Keras implementation of "DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks"
+https://github.com/RaphaelMeudec/deblur-gan
+
+im2recipe: Learning Cross-modal Embeddings for Cooking Recipes and Food Images
+https://github.com/torralba-lab/im2recipe-Pytorch
+
+Pytorch implementation of Neural Processes for functions and images
+https://github.com/EmilienDupont/neural-processes
+
+Learning to Discover Novel Visual Categories via Deep Transfer Clustering (ICCV 2019)
+https://github.com/k-han/DTC
+
+Neural 3D Mesh Renderer (CVPR 2018)
+https://github.com/hiroharu-kato/neural_renderer_v2
+
+Where are the Blobs: Counting by Localization with Point Supervision
+https://github.com/ElementAI/LCFCN
+
+【TEASER++：快速鲁棒的C++点云配准库】
+https://github.com/MIT-SPARK/TEASER-plusplus
+
+Unofficial implementation of: Multi-task learning using uncertainty to weigh losses for scene geometry and semantics
+https://github.com/ranandalon/mtl
+
+Counting-with-Focus-for-Free
+https://github.com/shizenglin/Counting-with-Focus-for-Free
+
+Pytorch Implementation of CVPR19 "Deep Stacked Multi-patch Hierarchical Network for Image Deblurring"
+https://github.com/HongguangZhang/DMPHN-cvpr19-master
+
+Unsupervised Doodling and Painting with Improved SPIRAL
+https://learning-to-paint.github.io/
+
+【会创造性分形、自我生长的神经细胞自动机】
+https://distill.pub/2020/growing-ca/
+
+PyTorch可视化时尚分析开源工具箱
+https://github.com/open-mmlab/mmfashion
+
+【用ASCII字符渲染3D图像】
+https://github.com/alecjacobson/ascii3d
+
+【深度学习HDR(高动态范围)图像合成文献列表】
+https://github.com/vinthony/awesome-deep-hdr
+
+### 【Ecovacs Robotics：用TensorFlow开发AI扫地机器人】
+https://blog.tensorflow.org/2020/01/ecovacs-robotics-ai-robotic-vacuum.html
+
+【深度学习与AGI：计算机视觉】
+https://pan.baidu.com/s/1uPids6uxa_47amZwQoTS5g
+
+【自监督学习与计算机视觉】《Self-supervised learning and computer vision · fast.ai》
+https://www.fast.ai//2020/01/13/self_supervised/
+
+【Taichi：高性能图形学编程语言】
+https://github.com/taichi-dev/taichi
+
+【图片/视频自动着色相关文献列表】
+https://github.com/MarkMoHR/Awesome-Image-Colorization
+
+【《用OpenCV4/C++开发计算机视觉项目》随书代码】
+https://github.com/PacktPublishing/Building-Computer-Vision-Projects-with-OpenCV4-and-CPlusPlus
+
+利用OpenCV和深度学习来实现人类活动识别
+https://mp.weixin.qq.com/s/oPYWwZ6GkaE4L4YMxh7WGA
+
+【(Java)实时计算机视觉库】
+https://github.com/lessthanoptimal/BoofCV
+
+### 【PyTorch图像恢复/去噪工具箱】’KAIR - Image Restoration Toolbox (PyTorch). Training and testing codes for DnCNN, FFDNet, SRMD, DPSR, MSRResNet, ESRGAN, IMDN' 
+https://github.com/cszn/KAIR
+
+81页计算机视觉学习指南
+https://weibo.com/ttarticle/p/show?id=2309404434995602128900
+
+Image Processing Using Multi-Code GAN Prior
+https://github.com/JasonGUTU/Multi-Code-GAN-Prior https://arxiv.org/abs/1912.07116
+
+Asymmetric Generative Adversarial Networks for Image-to-Image Translation》
+https://github.com/Ha0Tang/AsymmetricGAN
+
+【图像/视频去噪算法资源集锦】
+https://github.com/z-bingo/awesome-image-denoising-state-of-the-art
+
+【图片/视频除雨相关文献资源列表】
+https://github.com/nnUyi/DerainZoo
+
+图片/视频去模糊相关资源列表
+https://github.com/subeeshvasu/Awesome-Deblurring
+
+Keras写的自驾系统
+https://github.com/littlemountainman/selfdrive
+
+【卷积网络图像质量评估】
+https://github.com/idealo/image-quality-assessment
+
+《Deep Motion Blur Removal Using Noisy/Blurry Image Pairs》
+https://arxiv.org/abs/1911.08541
+
+时尚推荐引擎：服装检索及视觉时尚推荐
+https://github.com/khanhnamle1994/fashion-recommendation
+
+### 微软火箭视频分析平台：用于构建实时视频分析应用的人人可用高可扩展性软件栈，实现基于机器学习的对象检测和预警
+https://github.com/microsoft/Microsoft-Rocket-Video-Analytics-Platform
+
+### magePlay：图像处理快速原型应用
+https://github.com/cpvrlab/ImagePlay
+
+计算机视觉入门大全：基础概念、运行原理、应用案例详解』《An Introductory Guide to Computer Vision》
+https://mp.weixin.qq.com/s/uCzd5HPjSUBXGhgvhw_2Cw
+
+图像相关、距离和分析工具包
+https://github.com/CIRCL/douglas-quaid
+
+MoGA: Searching Beyond MobileNetV3
+https://github.com/xiaomi-automl/MoGA
+
+FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search
+https://github.com/AnnaAraslanova/FBNet
+
+Caffe implementation of "Hybrid-Attention based Decoupled Metric Learning for Zero-Shot Image Retrieval"
+https://github.com/chenbinghui1/Hybrid-Attention-based-Decoupled-Metric-Learning
+
+Holocron - PyTorch implementations of recent Computer Vision tricks
+https://github.com/frgfm/Holocron
 
 Official Implementation of 'Fast AutoAugment' in PyTorch.
 https://github.com/KakaoBrain/fast-autoaugment
@@ -25,11 +217,26 @@ https://github.com/KakaoBrain/fast-autoaugment
 通过bows (基本feature为sift)来做图像特征表示
 https://github.com/lipiji/PG_BOW_DEMO
 
+Reimplemented code for "Toward Characteristic-Preserving Image-based Virtual Try-On Network"
+https://github.com/sergeywong/cp-vton
+
 计算机视觉挑战排行榜(Leaderboard)集锦
 https://github.com/kobiso/Computer-Vision-Leaderboard
 
 计算机视觉文献笔记集
 https://github.com/ahong007007/Awesome_Computer_Vision
+
+压缩自编码器有损图像压缩
+https://github.com/alexandru-dinu/cae
+
+Fastai/Pytorch Hooks/Spotify’s Annoy相似图片搜索
+https://medium.com/@abhikjha/fastai-image-similarity-search-pytorch-hooks-spotifys-annoy-9161bf517aaf
+
+斯坦福课程“计算机视觉基础与应用”课堂笔记
+https://github.com/StanfordVL/CS131_notes
+
+### 细粒度图像分析综述
+https://arxiv.org/abs/1907.03069
 
 ### Richer Convolutional Features for Edge Detection model in pytorch
 https://github.com/meteorshowers/RCF-pytorch
@@ -307,6 +514,9 @@ https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers
 
 黄图鉴别(不可描述图片检测)
 https://github.com/rockyzhengwu/nsfw
+
+图像配准：从SIFT到深度学习
+https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fblog.sicara.com%2Fimage-registration-sift-deep-learning-3c794d794b7a
 
 将文件隐写进图片文件
 https://github.com/DimitarPetrov/stegify

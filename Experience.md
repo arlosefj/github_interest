@@ -10,11 +10,27 @@ https://www.kaggle.com/c/PLAsTiCC-2018/discussion/75011
 https://www.zhihu.com/question/272988870
 https://github.com/liaopeiyuan/ml-arsenal-public
 
+【模型训练日记】’Choochoo (ch2) - An open, hackable and free training diary.'
+https://github.com/andrewcooke/choochoo
+
+【Xavier Amatriain：构建实用深度学习系统得到的经验教训】
+https://www.youtube.com/watch?v=5ygO8FxNB8c
+
 参加Kaggle涂鸦识别比赛的十条经验教训
 https://towardsdatascience.com/10-lessons-learned-from-participating-to-google-ai-challenge-268b4aa87efa
 
 技术面试常见问题/解答集锦
 https://github.com/FAQGURU/FAQGURU
+
+'船长黑板报 - 关于机器学习、计算机视觉和工程技术的总结和分享'
+https://github.com/Captain1986/CaptainBlackboard
+
+【构建实用深度学习系统得到的经验教训】
+https://www.slideshare.net/xamat/lessons-learned-from-building-practical-deep-learning-systems
+
+神经网络训练技巧：黑客视角
+https://blog.floydhub.com/training-neural-nets-a-hackers-perspective/
+
 
 超有用总结：AI实践者需要用到的10个深度学习方法
 https://bigquant.com/community/t/topic/125367?suanfazu&181210&L1
@@ -30,3 +46,15 @@ https://mp.weixin.qq.com/s/SWuaM7PqOD4MK_rpnGaB5w
 
 在文本分类任务中，有哪些论文中很少提及却对性能有重要影响的tricks？
 https://www.zhihu.com/question/265357659
+
+技术面试参考资料大列表
+https://github.com/Awesome-Interview/Awesome-Interview
+
+Bringing Giant Neural Networks Down to Earth with Unlabeled Data
+https://arxiv.org/abs/1907.06065
+
+Towards Explaining the Regularization Effect of Initial Large Learning Rate in Training Neural Networks
+https://arxiv.org/abs/1907.04595
+
+为什么机器学习模型在产品化过程中会退化？
+https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fwhy-machine-learning-models-degrade-in-production-d0f2108e9214

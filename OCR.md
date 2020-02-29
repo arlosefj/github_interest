@@ -1,3 +1,192 @@
+### 文档图像识别技术回顾与反思
+https://mp.weixin.qq.com/s/sigPeclXz12NUk_nX8TZ-A
+
+### 如何通过OCR技术识别“收据”上的信息
+https://github.com/NanoNets/nanonets-ocr-sample-python
+
+### DocUNet: Document Image Unwarping via A Stacked U-Net, Ke Ma, Zhixin Shu, Xue Bai, Jue Wang, Dimitris Samaras. Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+https://github.com/wuleiaty/DocUNet
+
+用 PyTorch 1.2 实现的文本检测与识别研究项目
+https://github.com/Megvii-CSG/MegReader
+
+DB (Real-time Scene Text Detection with Differentiable Binarization) implementation in Keras and Tensorflow
+https://github.com/xuannianz/DifferentiableBinarization
+
+A PyToch implementation of "Real-time Scene Text Detection with Differentiable Binarization".
+https://github.com/MhLiao/DB
+
+CharNet: Convolutional Character Networks
+https://github.com/MalongTech/research-charnet
+
+pytorch implementation of R2CNN, Rotational Faster RCNN for orientated object detection
+https://github.com/Xiangyu-CAS/R2CNN.pytorch
+
+Show, Attend and Read: A Simple and Strong Baseline for Irregular Text Recognition [AAAI-2019]
+https://github.com/Pay20Y/SAR_TF
+
+PyTorch re-implementation of ''Real-time Scene Text Detection with Differentiable Binarization'' (AAAI 2019)
+https://github.com/SURFZJY/Real-time-Text-Detection
+
+Code for the paper "KISS: Keeping it Simple for Scene Text Recognition"
+https://github.com/Bartzi/kiss
+
+Pytorch implementation for "Decoupled attention network for text recognition".
+https://github.com/Wang-Tianwei/Decoupled-attention-network
+
+### A reimplementation of Character Region Awareness for Text Detection (CRAFT) with training code
+https://github.com/brooklyn1900/CRAFT_pytorch
+
+Unofficial PyTorch implementation of 2D Attentional Irregular Scene Text Recognizer
+https://github.com/chenjun2hao/Bert_OCR.pytorch
+
+### OpenCV/scikit-image 实现的(文档图像)手写签名提取
+https://github.com/ahmetozlu/signature_extractor
+
+### 【文档图像校正与光照校正】
+https://github.com/xiaoyu258/DocProj
+
+### '2019CCF-BDCI大赛基于OCR身份证要素提取赛冠军方案’ 
+https://github.com/Mingtzge/2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement
+
+### A tensorflow reproducing of paper “Editing Text in the wild”
+https://github.com/youdao-ai/SRNet
+
+Scene Text Detection with Learned Anchor
+https://github.com/xhzdeng/stela
+
+EATEN: Entity-aware Attention for Single Shot Visual Text Extraction
+https://github.com/beacandler/EATEN
+
+mxnet-Gluon implementation of PSENet text detector (Shape Robust Text Detection with Progressive Scale Expansion Network)
+https://github.com/saicoco/Gluon-PSENet
+
+[ICCV 2019] CompenNet++: End-to-end Full Projector Compensation
+https://github.com/BingyaoHuang/CompenNet-plusplus
+
+CRAFT-Pyotorch：Character Region Awareness for Text Detection Reimplementation for Pytorch
+https://github.com/backtime92/CRAFT-Reimplementation
+
+【OpenCV表格识别】’OTR - Optical table recognition - recognize tables in scan images using OpenCV'
+https://github.com/ulikoehler/OTR
+
+【PyLaia：面向手写文档分析的深度学习工具包】
+https://github.com/jpuigcerver/PyLaia
+
+'齊伋體(字体) - typeface from Ming Dynasty woodblock printed books' 
+https://github.com/LingDong-/qiji-font
+
+【CORD：(收据)OCR后处理解析数据集】
+https://github.com/clovaai/cord
+
+【小票信息提取(OCR)】
+https://github.com/zzzDavid/ICDAR-2019-SROIE
+
+【Kaggle开放日：Kuzushiji日文古文字识别】
+https://www.youtube.com/watch?v=cGpIVyV96Hg
+
+【深度学习表格检测、信息提取和结构化】
+https://nanonets.com/blog/table-extraction-deep-learning/
+
+'Image2Katex - 公式图片ocr，输入图片输出对应的latex表达式' 
+https://github.com/xiaofengShi/Image2Katex
+
+【用深度学习/OCR实现收据(小票)自动数字化】
+https://nanonets.com/blog/receipt-ocr/
+
+【Keras文本检测/OCR包】
+https://github.com/faustomorales/keras-ocr
+
+《Handwritten Optical Character Recognition (OCR): A Comprehensive Systematic Literature Review (SLR)》
+https://www.arxiv-vanity.com/papers/2001.00139/
+
+'汉字字符特征提取器 (featurizer)，提取汉字的特征（发音特征、字形特征）用做深度学习的特征' 
+https://github.com/howl-anderson/hanzi_char_featurizer
+
+【CRNN (CNN+RNN)车牌识别】
+https://github.com/qjadud1994/CRNN-Keras
+
+【基于darknet框架实现CTPN版本自然场景文字检测与CNN+CTCOCR文字识别】
+https://github.com/chineseocr/darknet-ocr
+
+'Scanner - 二维码/条码识别、身份证识别、银行卡识别、车牌识别、图片文字识别、黄图识别' 
+https://github.com/shouzhong/Scanner
+
+【教程：用YOLO+Tesseract实现定制OCR系统】
+https://medium.com/saarthi-ai/how-to-build-your-own-ocr-a5bb91b622ba
+
+### 'LaTeX OCR - 数学公式识别' 
+https://github.com/LinXueyuanStdio/LaTeX_OCR
+
+【深度学习OCR/文档分析/文本识别/语言建模教程资料】
+https://github.com/tmbdev/icdar2019-tutorial
+
+将书本公式快速转换为 LaTex 格式
+https://mp.weixin.qq.com/s/vNNNJumpgobE-iAdharL9A https://github.com/blaisewang/img2latex-mathpix
+
+### PyTorch 实现的 MTCNN/LPRNet 车牌识别
+https://github.com/xuexingyu24/License_Plate_Detection_Pytorch
+
+'选字验证码破解'
+https://github.com/cos120/captcha_crack
+
+Seq2Seq+Attention 中文OCR文字识别
+https://github.com/bai-shang/crnn_seq2seq_ocr_pytorch
+
+【AttentionOCR 自然场景文字识别】
+https://github.com/zhang0jhon/AttentionOCR
+
+【OCR文本检测】’Text Detector for OCR - Text detection model that combines Retinanet with textboxes++ for OCR'
+https://github.com/qjadud1994/Text_Detector
+
+### 'LaTeX_OCR_PRO - 数学公式识别增强版：中英文手写印刷公式、支持初级符号推导（数据结构基于 LaTeX 抽象语法树）' 
+https://github.com/LinXueyuanStdio/LaTeX_OCR_PRO
+
+'树洞 OCR 文字识别
+https://github.com/AnyListen/tools-ocr
+
+端到端场景文字检测与识别资源大列表
+https://github.com/HCIILAB/Scene-Text-End2end
+
+【CRAFT + CRNN 文本识别工具】’Text recognition tool - Text recognition with Pytorch Using CRNN and CRAFT pretrained models.
+https://github.com/s3nh/text-detector
+
+ICDAR 2019自由字型文本识别竞赛第一名方案
+https://github.com/Jyouhou/ICDAR2019-ArT-Recognition-Alchemy
+
+PDF表格数据提取工具
+https://github.com/camelot-dev/camelot
+
+'Convolutional Recurrent Neural Network + CTCLoss - Pytorch implementation of CRNN (CNN + RNN + CTCLoss) for all language OCR' 
+https://github.com/Holmeyoung/crnn-pytorch
+
+Kaggle 日文古文字识别比赛第二名方案
+https://github.com/lopuhin/kaggle-kuzushiji-2019
+
+寻找最好的OCR工具
+https://github.com/factful/ocr_testing
+
+### tr - Offline OCR - 针对扫描文档的离线文本识别SDK，核心代码全部采用C++开发，并提供Python接口
+https://github.com/myhub/tr
+
+### Page to PAGE Layout Analysis Tool
+https://github.com/lquirosd/P2PaLA
+
+面向文本定位与识别的合成数据/OCR数据集列表
+https://github.com/TianzhongSong/awesome-SynthText
+
+### 【文档图像自适应二值化】’robin - RObust document image BINarization' 
+https://github.com/masyagin1998/robin
+
+### 文档分类和OCR关键值提取
+https://github.com/ikivanc/Document-Classification-and-Post-OCR-Key-Value-Extraction
+
+场景文字检测资源大列表
+https://github.com/HCIILAB/Scene-Text-Detection https://github.com/HCIILAB/Scene-Text-Recognition
+
+### (Notebooks)用MXNet Gluon实现的(整页)手写文字识别(OCR)
+https://github.com/awslabs/handwritten-text-recognition-for-apache-mxnet
+
 ### mathAI - 一个拍照做题程序。输入一张包含数学计算题的图片，输出识别出的数学计算式以及计算结果
 https://github.com/Roujack/mathAI
 
@@ -11,8 +200,33 @@ https://github.com/xiaomaxiao/PSENET
 RRD: Rotation-Sensitive Regression for Oriented Scene Text Detection
 https://github.com/MhLiao/RRD
 
+Keras implementation of Character Region Awareness for Text Detection (CRAFT)
+https://github.com/RubanSeven/CRAFT_keras
+
+Brno Mobile OCR数据集
+https://pero.fit.vutbr.cz/brno_mobile_ocr_dataset
+https://github.com/DCGM/B-MOD
+
+用图像预处理提高OCR文字识别精度
+https://medium.com/cashify-engineering/improve-accuracy-of-ocr-using-image-preprocessing-8df29ec3a033
+
+中文字型特征深度学习Glyce开源代码 Glyce: Glyph-vectors for Chinese Character Representations
+https://github.com/ShannonAI/glyce
+
 * 场景文字图像增广工具
 https://github.com/Canjie-Luo/Scene-Text-Image-Transformer
+
+### Omnidirectional Scene Text Detection with Sequential-free Box Discretization (IJCAI 2019)
+https://github.com/Yuliang-Liu/Box_Discretization_Network
+
+### Repository for Scene Text Detection with Supervised Pyramid Context Network with tensorflow.
+https://github.com/AirBernard/Scene-Text-Detection-with-SPCNET
+
+### ASTER: Attentional Scene Text Recognizer with Flexible Rectification
+https://github.com/ayumiymk/aster.pytorch
+
+文字识别OCR相关文献大列表
+https://github.com/ChanChiChoi/awesome-ocr
 
 ocr_densenet - 第一届西安交通大学人工智能实践大赛（2018AI实践大赛--图片文字识别）第一名；仅采用densenet识别图中文字
 https://github.com/yinchangchang/ocr_densenet

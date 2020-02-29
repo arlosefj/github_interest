@@ -37,6 +37,156 @@ https://github.com/Chyroc/WechatSogou
 nvidia-smi输出强化工具
 https://github.com/peci1/nvidia-htop
 
+PDFPlumber：从PDF文件提取文字和表格的Python库
+https://github.com/jsvine/pdfplumber
+
+支持协同编辑/修订等功能的Office文档在线编辑服务器
+https://github.com/ONLYOFFICE/DocumentServer
+
+面向小团队/初创企业的项目管理系统(PHP/JS/MySQL)
+https://github.com/Leantime/leantime
+
+clayoven：支持LaTeX，面向数学、编程和文章的漂亮网站生成器
+https://github.com/artagnon/clayoven
+
+云收藏 Spring Boot 2.X 开源项目 http://favorites.ren/
+https://github.com/cloudfavorites/favorites-web
+
+【数据科学家2020工具箱：提高生产力工具列表】
+https://pan.baidu.com/s/1KAXSyGZD_tR0wJgo-kBqug
+
+【日常有用脚本分享】
+https://github.com/oldratlee/useful-scripts
+
+### 【CheatSheet：最佳实践速查集锦】
+https://github.com/dennyzhang/cheatsheet.dennyzhang.com
+
+一个带缓存的异步图片下载库
+https://github.com/SDWebImage/SDWebImage
+
+【Parsr：小巧实用的文档(图像，pdf)清理、解析和提取工具，可为数据科学家和开发者生成随时可用且整理完成的数据】
+https://github.com/axa-group/Parsr
+
+【iHateregex.io：正则表达式速查、调试、验证、可视化】
+https://github.com/geongeorge/i-hate-regex
+
+【Contextualise：简单灵活的知识文档工具，适合组织信息密集的项目和活动】
+https://github.com/brettkromkamp/contextualise
+
+'JustWrite (Typora Plus) - 增强版的Typora Plus，跨平台Markdown编辑器，微信公众号文章排版，自带新浪微博免费图床，Markdown个人简历，一键发布文章到博客园、CSDN、SegmentFault、掘金、开源中国等平台。' 
+https://github.com/yueshutong/JustWrite
+也可用mweb
+
+手机通过 USB 连接电脑，即可使用电脑网络上网
+https://github.com/Genymobile/gnirehtet
+
+一个让你的程序看起来更有设计感的Repo。看了下还挺实用，包括了 字体、配色、CSS、背景、动画、图标等方面的资源
+https://github.com/sw-yx/spark-joy
+
+开源免费批量下载 Google 图片的工具，支持 macOS、Windows 及 Linux 系统。
+https://github.com/hardikvasa/google-images-download
+
+《程序员请收好：10个非常实用的 VS Code 插件》
+https://mp.weixin.qq.com/s/LMV_WQHRwLUndoz1p-ZVnw
+
+### Memex：个人知识管理平台
+https://github.com/kormyen/Memex
+
+'Qt编写的开源demo集’ 
+https://github.com/feiyangqingyun/QWidgetDemo
+
+【Mermaid：用类似Markdown的语法创建图表】
+https://medium.com/better-programming/mermaid-create-charts-and-diagrams-with-markdown-88a9e639ab14
+
+“技术文章配图指南”
+https://draveness.me/sketch-and-sketch
+
+免费好用的软件哪里找？GitHub 上的这些资源不能错过
+https://sspai.com/post/53901
+
+### MIT课程：计算机科学“补漏”课——如何充分利用高效程序员常用工具：如何玩转命令行，如何使用强大的文本编辑器，如何高效使用版本控制，如何自动化日常任务，如何管理包和软件，如何配置桌面环境等
+https://www.bilibili.com/video/av77912571/
+
+### markmap：将markdown文档显示为思维导图的Javascript库
+https://github.com/dundalek/markmap
+
+一款开源的前端编辑器，主要对微信排版做了适配
+https://github.com/doocs/md
+
+mac软件推荐
+https://weibo.com/1088413295/H3K951Fup?sudaref=weibo.com&type=comment
+
+### ggplot2 科技期刊配色集锦
+https://github.com/nanxstats/ggsci
+
+'folder-explorer：分析文件目录，统计数据并以树形结构和图表的形式展示结果，也可以导出多种格式留存
+https://github.com/d2-projects/folder-explorer
+
+
+我是如何通过开源项目月入 10 万的
+https://mp.weixin.qq.com/s/743y_WwRi0zrcDiH1BJnJw
+
+将Word文档转换到Markdown
+https://github.com/mattn/docx2md
+
+超级实用的 Chrome 插件，可选中、复制、编辑图片中的内嵌文字
+https://projectnaptha.com/
+
+SVG VAE: 可缩放矢量图字体生成
+https://github.com/tensorflow/magenta/tree/master/magenta/models/svg_vae
+
+### takenote：支持Markdown、GitHub同步的网页版笔记应用
+https://github.com/taniarascia/takenote
+
+### 免费调用的API接口
+https://github.com/fangzesheng/free-api
+
+用命令行创建社交网络(服务)
+https://github.com/DimiMikadze/create-social-network
+
+### 寓教于乐，用玩游戏的方式学习 Git！
+https://mp.weixin.qq.com/s/JR7a6Cu0zUccggLvq2-txQ
+
+Davinci：数据可视化即服务(DVsaaS)平台解决方案
+https://github.com/edp963/davinci
+
+### 一款免费开源的 Linux 系统性能实时监控工具。它易于安装、占用资源少、功能强大，支持监控多种服务
+https://github.com/netdata/netdata
+
+网页版SSH客户端
+https://github.com/huashengdun/webssh
+
+kkFileView - 使用spring boot打造文件文档在线预览项目解决方案，支持doc、docx、ppt、pptx、xls、xlsx、zip、rar、mp4，mp3以及众多类文本如txt、html、xml、java、properties、sql、js、md、json、conf、ini、vue、php、py、bat、gitignore等文件在线预览
+https://github.com/kekingcn/kkFileView
+
+无需编写代码、利用GitHub搭建全免费个人博客
+https://www.fast.ai/2020/01/16/fast_template/
+
+微软开源可视化数据探索工具SandDance
+https://github.com/Microsoft/SandDance
+
+OneDev：超简单的一体化DevOps平台
+https://github.com/theonedev/onedev
+
+### 将带有Markdown注释的Python代码转换为配有说明和插图的文档(可代替Jupyter notebooks的另一种代码分发方式)
+https://github.com/danijar/handout
+
+### 推荐一款能将 Markdown 文档转成高大上 PPT 的开源工具，支持图表、流程图、数学符号、自定义主题配色以及样式等等。
+https://github.com/ksky521/nodeppt
+
+### Oppia：可协同创建在线交互教程的开源学习工具
+https://github.com/oppia/oppia
+
+Sampler：shell命令的执行、可视化和提醒工具
+https://github.com/sqshq/sampler
+
+TDengine：面向物联网设计和优化的开源大数据平台
+https://github.com/taosdata/TDengine
+
+能帮你生成漂亮的 REAMDE.md 文件小工具。
+https://github.com/kefranabg/readme-md-generator
+
+
 ### 深度学习/强化学习的调试、监控和可视化工具
 https://github.com/microsoft/tensorwatch
 
@@ -76,11 +226,17 @@ https://github.com/NaoTu/DesktopNaotu
 把命令行操作过程录制成gif
 https://github.com/faressoft/terminalizer
 
+### 【yeetgif：命令行gif动画制作工具】’yeetgif - gif effects CLI. single binary, no dependencies. linux, osx, windows' 
+https://github.com/sgreben/yeetgif
+
 中华新华字典数据库。包括歇后语，成语，汉字。提供新华字典API
 https://github.com/pwxcoo/chinese-xinhua
 
 对大量pdf文档模糊搜索的命令行工具
 https://github.com/bellecp/fast-p
+
+实用的“全面升级”工具
+https://github.com/r-darwish/topgrade
 
 Wizard是基于Laravel开发框架开发的一款开源项目（API）文档管理工具。 
 https://github.com/mylxsw/wizard

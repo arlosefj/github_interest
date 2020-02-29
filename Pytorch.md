@@ -121,9 +121,6 @@ https://github.com/juefeix/pnn.pytorch
 A PyTorch implementation of Mnasnet searched architecture: MnasNet: Platform-Aware Neural Architecture Search for Mobile.
 https://github.com/AnjieZheng/MnasNet-PyTorch
 
-PyTorch神经网络模型分析器(参数规模/FLOPs/MAdd/内存消耗)
-https://github.com/Swall0w/torchstat
-
 Pytorch Implementation of Refinenet
 https://github.com/thomasjpfan/pytorch_refinenet
 
@@ -160,8 +157,98 @@ https://github.com/suriyadeepan/torchtest
 PyTorch深度学习教程资料
 https://github.com/sethjuarez/DeepLearningWithPyTorch
 
+60分钟PyTorch深度学习实例入门教程
+https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
+
+【pycls：灵活的(PyTorch)图像分类研究框架】'pycls - Codebase for Image Classification Research, written in PyTorch.'
+https://github.com/facebookresearch/pycls
+
+《动手学深度学习》例子的PyTorch实现
+https://github.com/dsgiitr/d2l-pytorch
+
+新书《Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD》随书代码
+https://github.com/fastai/book_nbs
+
+【PyTorch深度学习教程】
+https://www.youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh
+
+PyTorch implementation of "Grid anchor based image cropping"
+https://github.com/HuiZeng/Grid-Anchor-based-Image-Cropping-Pytorch
+
+【PyTorch3d：(PyTorch)3D视觉深度学习库】
+https://github.com/facebookresearch/pytorch3d
+
+Implement Towards Effective Low-bitwidth Convolutional Neural Networks
+https://github.com/nowgood/QuantizeCNNModel
+
+【Hydra：机器学习项目配置的全新视角(PyTorch)】
+https://hydra.cc/
+
+【PyTorch封装库，提供了系统的、可扩展的方法，用PyTorch高效构建、训练、评价和优化深度学习模型】
+https://github.com/jkoutsikakis/pytorch-wrapper
+
+【PyTorch实现的NCA(Neighbourhood Components Analysis)降维方法】
+https://github.com/kevinzakka/nca
+
+【用PyTorch+einops改善深度学习代码】《Writing better code with pytorch+einops》
+https://github.com/arogozhnikov/einops
+
+【Hydra：基于PyTorch的多任务学习框架】
+https://github.com/hav4ik/Hydra
+
+【PyTorch计算机视觉深度学习模板】
+https://github.com/FrancescoSaverioZuppichini/PyTorch-Deep-Learning-Template
+
+【开源书：PyTorch深度学习起步】’First steps towards Deep Learning with pyTorch - This is an open sourced book on deep learning.' b
+https://github.com/vaibhawvipul/First-steps-towards-Deep-Learning
+
+'torchprofile - A general and accurate MACs / FLOPs profiler for PyTorch models.'
+https://github.com/mit-han-lab/torchprofile
+
+【PyTorch简化开发工具箱】
+https://github.com/PistonY/torch-toolbox
+
+【PyTorch教程：用TensorBoard实现模型、数据和训练过程可视化】
+https://pytorch.org/tutorials/intermediate/tensorboard_tutorial.html
+
+【dlib vs. PyTorch 简单性能评测】
+https://github.com/arrufat/dlib-pytorch-benchmark
+
+【用Cortex实现PyTorch模型产品化部署】
+https://pan.baidu.com/s/1xzd7ZwC_RMt3AwLsqjtFKw
+
+【Ray：构建和运行分布式应用的快速简单框架，包括可扩展超参微调库Tune和强化学习库RLlib，可实现PyTorch分布式训练】
+https://github.com/ray-project/ray
+
+【PyTorch Elastic ：PyTorch分布式训练框架】
+https://github.com/pytorch/elastic
+
+将训练数据快速便捷地加载到深度学习框架
+https://github.com/NVlabs/tensorcom
+
+【PyTorch半监督学习工具包】
+https://github.com/moskomule/ssl-suite
+
+###【PyTorch小trick集锦】’pytorch_tricks - some tircks for PyTorch' 
+https://github.com/zxdefying/pytorch_tricks
+
+【PyTorch深度学习教程C++实现版】
+https://github.com/prabhuomkar/pytorch-cpp
+
+一文总结Pytorch的8张思维导图!
+https://bigquant.com/community/t/topic/157823?utm_source=weibo&utm_campaign=191121_l1
+
+【PyTorch深度学习项目框架模板(最佳实践)】’PyTorch Project Template - A best practice for deep learning project template architecture.'
+https://github.com/L1aoXingyu/Deep-Learning-Project-Template
+
 (PyTorch)轻量实时语义分割模型集锦
 https://github.com/Tramac/Lightweight-Segmentation
+
+PyTorch 官方推荐了一份 60 分钟的深度学习指南
+https://mp.weixin.qq.com/s/fB7iW_luNOyHAMD7GoJMYg
+
+NVIDIA 出品的 PyTorch 模型性能分析工具
+https://github.com/NVIDIA/apex/tree/master/apex/pyprof
 
 PyTorch语义分割实现集锦
 https://github.com/Tramac/Awesome-semantic-segmentation-pytorch
@@ -169,8 +256,26 @@ https://github.com/Tramac/Awesome-semantic-segmentation-pytorch
 PytorchInsight - a pytorch lib with state-of-the-art architectures, pretrained models and real-time updated results
 https://github.com/implus/PytorchInsight
 
+一个包含计算机视觉、自然语言处理领域的诸多经典模型的聚合中心。这年头有很多 Hub，什么 GitHub、SciHub、xxxxHub 等等，但是最近图灵奖得主 Yann LeCun 强推的 PyTorch-Hub。无论是 ResNet、BERT、GPT、VGG、PGAN 还是 MobileNet 等经典模型，只需输入一行代码，都能实现一键调用！妈妈再也不用担心你的模型啦！
+https://github.com/pytorch/hub
+
+Life is short, you need PyTorch. 
+https://github.com/Eurus-Holmes/LIS-YNP
+
+PyTorch快速教程
+https://github.com/omerbsezer/Fast-Pytorch
+
 PyTorch内存使用分析器
 https://github.com/Stonesjtu/pytorch_memlab
+
+Simple, extendable, easy to understand Glow implementation in PyTorch
+https://github.com/y0ast/Glow-PyTorch
+
+Flambé：面向研究和产品化加速的机器学习实验框架(基于PyTorch)
+https://github.com/Open-ASAPP/flambe
+
+Official Pytorch Implementation for ICML'19 paper: Unsupervised Deep Learning by Neighbourhood Discovery
+https://github.com/Raymond-sci/AND
 
 PyTorch Hub：仅需一行代码(torch.hub.load())复用ResNet, ResNext, BERT, GPT, PGAN, Tacotron, DenseNet, MobileNet等最新模型】
 https://pytorch.org/blog/towards-reproducible-research-with-pytorch-hub/
@@ -202,3 +307,38 @@ https://github.com/learning-luke/pytorch-experiments-template
 PyTorch深度学习实验监控面板
 https://github.com/jotaf98/overboard
 
+Danbooru2018数据集上的ResNet预训练模型(PyTorch)
+https://github.com/RF5/danbooru-pretrained
+
+Flambé：面向研究和产品化加速的机器学习实验框架(基于PyTorch)
+https://github.com/asappresearch/flambe
+
+Awesome-Pytorch-list｜厉害的Pytorch项目
+https://github.com/xavier-zy/Awesome-pytorch-list-CNVersion
+
+PyTorch工具箱
+https://github.com/bonlime/pytorch-tools
+
+PyTorch 实现的神经网络量化算法集
+https://github.com/Enderdead/Pytorch_Quantize_impls
+
+PyProf: PyTorch Profiling tool
+https://github.com/adityaiitb/pyprof2
+
+PyTorch深度学习教程
+https://www.bilibili.com/video/av69000304/
+
+### PyTorch + PySyft 加密训练实战(MNIST)
+https://blog.openmined.org/encrypted-training-on-mnist/
+
+PyTorch 应用技巧
+https://weibo.com/tv/v/I1ZEC6h6n?fid=1034:4404753053200068
+
+### 一个包含计算机视觉、自然语言处理领域的诸多经典模型的聚合中心。这年头有很多 Hub，什么 GitHub、SciHub、xxxxHub 等等，但是最近图灵奖得主 Yann LeCun 强推的 PyTorch-Hub。无论是 ResNet、BERT、GPT、VGG、PGAN 还是 MobileNet 等经典模型，只需输入一行代码，都能实现一键调用！
+https://github.com/pytorch/hub
+
+### 《动手学深度学习》（Dive into Deep Learning）原书中的 MXNet 代码实现改为 PyTorch 实现
+https://github.com/ShusenTang/Dive-into-DL-PyTorch
+
+一个包含基础教程、提高参考资料、有趣实践项目的 PyTorch 教程
+https://github.com/Eurus-Holmes/LIS-YNP

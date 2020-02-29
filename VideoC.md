@@ -66,14 +66,91 @@ https://github.com/Breakthrough/PySceneDetect
 MMAction：PyTorch开源视频行为识别工具包
 https://github.com/open-mmlab/mmaction
 
+视频分析/多模态学习论文、代码、数据集大列表
+https://github.com/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis
+
+
 STCN: Stochastic Temporal Convolutional Networks
 https://github.com/emreaksan/stcn
 
 PyTorch实现的C3D, R3D, R2Plus1D视频行为识别
 https://github.com/jfzhang95/pytorch-video-recognition
 
+Resources about activity recognition-行为识别资料汇总’
+https://github.com/jindongwang/activityrecognition
+
+【视频架构搜索】《Video Architecture Search | Google AI Blog》
+https://github.com/google-research/google-research/tree/master/evanet
+
+Facebook 开源 SlowFast：双帧率分析视频识别
+https://github.com/facebookresearch/SlowFast
+
+This is the official repo for "S3D: Single Shot multi-Span Detector via Fully 3D Convolutional Network"
+https://github.com/dazhang-cv/S3D
+
+code for learning trajectory dependencies for human motion prediction
+https://github.com/wei-mao-2019/LearnTrajDep
+
 Code and models for our CVPR'19 paper "Representation Flow for Action Recognition" 
 https://github.com/piergiaj/representation-flow-cvpr19
 
+"Attention in Convolutional LSTM for Gesture Recognition" in NIPS 2018 
+https://github.com/GuangmingZhu/AttentionConvLSTM
+
+Code and models for our ICCV'19 paper "Evolving Space-Time Neural Architectures for Videos"
+https://github.com/piergiaj/evanet-iccv19
+
+Unofficial PyTorch implementation of the CVPR'19 paper "Skeleton-Based Action Recognition with Directed Graph Neural Networks".
+https://github.com/kenziyuliu/DGNN-PyTorch
+
+This repo contains a PyTorch S3D Text-Video model trained from scratch on HowTo100M using MIL-NCE
+https://github.com/antoine77340/S3D_HowTo100M
+
+A Faster Pytorch Implementation of R-C3D
+https://github.com/sunnyxiaohu/R-C3D.pytorch
+
+Pytorch code for End-to-End Audiovisual Speech Recognition
+https://github.com/mpc001/end-to-end-lipreading
+
+NSD: Neural Scene Decomposition for Human Motion Capture
+https://github.com/hrhodin/NeuralSceneDecomposition
+
+I3D implemetation in Keras + video preprocessing + visualization of results
+https://github.com/oanaignat/i3d_keras
+
+### CVPR2019 STEP: Spatio-Temporal Progressive Learning for Video Action Detection
+https://github.com/NVlabs/STEP
+
 Repository for the paper "Adversarial Framing for Image and Video Classification"
 https://github.com/zajaczajac/adv_framing
+
+'IG-65M PyTorch - PyTorch 3D video classification models pre-trained on 65 million Instagram videos' 
+https://github.com/moabitcoin/ig65m-pytorch
+
+Keras深度学习视频分类
+https://www.pyimagesearch.com/2019/07/15/video-classification-with-keras-and-deep-learning/
+
+简易快速的视频深度特征抽取
+https://github.com/antoine77340/video_feature_extractor
+
+Code for the paper "High Speed and High Dynamic Range Video with an Event Camera" (arXiv, 2019). http://rpg.ifi.uzh.ch/E2VID.html
+https://github.com/uzh-rpg/rpg_e2vid
+
+Timeception for Complex Action Recognition
+https://github.com/noureldien/timeception
+
+MS-TCN: Multi-Stage Temporal Convolutional Network for Action Segmentation
+https://github.com/yabufarha/ms-tcn
+
+Deep Spatio-Temporal Neural Network (DSTN)
+https://github.com/oywtece/dstn
+
+Learning to align and match videos with kernelized temporal layers
+https://github.com/facebookresearch/videoalignment
+
+
+Self-supervised Spatiotemporal Learning via Video Clip Order Prediction
+https://github.com/xudejing/video-clip-order-prediction
+
+### Real-time Hand Gesture Recognition with PyTorch on EgoGesture, NvGesture and Jester https://arxiv.org/abs/1901.10323
+https://github.com/ahmetgunduz/Real-time-GesRec

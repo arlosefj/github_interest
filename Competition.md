@@ -29,6 +29,8 @@ Kaggle比赛常胜将军Owen Zhang的技巧分享《Tips for data science compet
 https://www.slideshare.net/OwenZhang2/tips-for-data-science-competitions
 https://www.youtube.com/watch?v=LgLcfZjNF44
 
+### Kaggle新赛：钢铁缺陷检测
+https://www.kaggle.com/c/severstal-steel-defect-detection
 
 Kaggle大都会艺术博物馆艺术品属性识别比赛PyTorch Baseline
 https://github.com/lopuhin/kaggle-imet-2019
@@ -38,6 +40,46 @@ https://github.com/zhanzecheng/SOHU_competition
 
 一个深度学习新手团队是如何拿到kaggle比赛第三名的(用fast.ai分类油棕种植园图像)
 https://towardsdatascience.com/how-a-team-of-deep-learning-newbies-came-3rd-place-in-a-kaggle-contest-644adcc143c8
+
+'阿水的开源比赛方案集锦’
+https://github.com/finlay-liu/kaggle_public
+
+“Kaggle开放日：Kaggle比赛教程”
+https://www.bilibili.com/video/av82395461/
+
+【Kaggle优胜方案汇总】“KaggleDB“
+https://kaggledb.com/solutions
+
+【开放 机器学习/数据科学/AI 竞赛大列表】
+https://github.com/mlcontests/mlcontests.github.io
+
+Kaggle卫星云图理解比赛第一名解决方案
+https://github.com/pudae/kaggle-understanding-clouds
+
+Kaggle RSNA颅内出血检测比赛第三名方案
+https://github.com/okotaku/kaggle_rsna2019_3rd_solution
+
+Kaggle入门实战
+https://www.bilibili.com/video/av66097664/
+
+'中国法研杯司法人工智能挑战赛之相似案例匹配第一名解决方案' 
+https://github.com/GuidoPaul/CAIL2019
+
+Kaggle 颅内出血检测比赛解决方案
+https://github.com/darraghdog/rsna
+
+Kaggle比赛优胜方案汇总
+http://kagglesolutions.com/
+
+Kaggle比赛泰坦尼克手把手入门
+https://weibo.com/tv/v/I9sVGdysJ?fid=1034:4422561287632493
+
+2019 Google 地标检索比赛第一名、第三名方案
+https://arxiv.org/abs/1906.04087
+https://github.com/lyakaap/Landmark2019-1st-and-3rd-Place-Solution
+
+KDD Cup 2019 AutoML Track第一名方案
+https://github.com/DeepBlueAI/AutoSmart
 
 Kaggle新赛：Google地标检索挑战——大规模图像检索，新数据集包含700K图像，超过100K的独特地标
 https://www.kaggle.com/c/landmark-retrieval-2019

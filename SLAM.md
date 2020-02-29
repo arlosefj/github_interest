@@ -12,6 +12,30 @@ DynaSLAM is a SLAM system robust in dynamic environments for monocular, stereo a
 ### Real-time SLAM system with deep features
 https://github.com/jiexiong2016/GCNv2_SLAM
 
+Code for "Deep Generative Models for LiDAR Data"
+https://github.com/pclucas14/lidar_generation
+
+《DS-SLAM: A Semantic Visual SLAM towards Dynamic Environments》(IROS 2018) 
+https://github.com/ivipsourcecode/DS-SLAM
+
+'Semantic SLAM - Semantic SLAM using ROS, ORB SLAM, PSPNet101' 
+https://github.com/1989Ryan/Semantic_SLAM
+
+A real-time robust monocular visual SLAM system based on ORB-SLAM for fisheye cameras, without rectifying or cropping the input images
+https://github.com/lsyads/fisheye-ORB-SLAM
+
+'SLAM 学习与开发经验分享'
+https://github.com/AlbertSlam/Lee-SLAM-source
+
+'Awesome-SLAM-Papers - A curated list of SLAM-related papers / SLAM文章速递' 
+https://github.com/YoujieXia/Awesome-SLAM-Papers
+
+【SLAM相关资源大列表】
+https://github.com/YoujieXia/Awesome-SLAM
+
+Depth and Flow for Visual Odometry
+https://github.com/Huangying-Zhan/DF-VO
+
 用手持RGB-D相机实现实时动态语义SLAM
 https://github.com/floatlazer/semantic_slam
 
@@ -24,5 +48,20 @@ https://github.com/fabianschenk/RESLAM
 通用视觉SLAM框架OpenVSLAM
 https://github.com/xdspacelab/openvslam
 
+SE(2)-Constrained Localization and Mapping by Fusing Odometry and Vision (IEEE Transactions on Cybernetics 2019) 
+https://github.com/izhengfan/se2clam
+
 Python开源机器人研究平台
 https://github.com/facebookresearch/pyrobot
+
+视觉SLAM/视觉里程计相关资源大列表
+https://github.com/tzutalin/awesome-visual-slam
+
+C++实现的激光雷达扫描/点云多目标检测、跟踪和分类
+https://github.com/praveen-palanisamy/multiple-object-tracking-lidar
+
+Deep Surface Normal Guided Depth Prediction for Outdoor Scene from Sparse LiDAR Data and Single Color Image
+https://github.com/JiaxiongQ/DeepLiDAR
+
+DeepFactors: Real-Time Probabilistic Dense Monocular SLAM
+https://github.com/jczarnowski/DeepFactors https://www.arxiv-vanity.com/papers/2001.05049/

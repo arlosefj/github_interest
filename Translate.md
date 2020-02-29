@@ -24,3 +24,30 @@ https://github.com/yuanxiaosc/BERT_Paper_Chinese_Translation
 
 Source code to reproduce the results in the ACL 2019 paper "Syntactically Supervised Transformers for Faster Neural Machine Translation"
 https://github.com/dojoteef/synst
+
+Source code for the paper <Bridging the Gap between Training and Inference for Neural Machine Translation>
+https://github.com/ictnlp/OR-NMT
+
+Incorporating BERT into Neural Machine Translation
+https://github.com/bert-nmt/bert-nmt
+
+'Bob：一款 Mac 端翻译软件，翻译方式支持划词翻译和截图翻译，翻译引擎支持有道翻译、百度翻译和谷歌翻译~' 
+https://github.com/ripperhe/Bob
+
+LaNMT: Latent-variable Non-autoregressive Neural Machine Translation with Deterministic Inference
+https://github.com/zomux/lanmt
+
+Implementation of "Effective Adversarial Regularization for Neural Machine Translation", ACL 2019
+https://github.com/pfnet-research/vat_nmt
+
+机器翻译中的强化学习：优点、缺点以及不足
+https://mp.weixin.qq.com/s/yILXP7EJFC_ST75mrhi8ng
+
+The implementation of "Learning Deep Transformer Models for Machine Translation"
+https://github.com/wangqiangneu/dlcl
+
+哈佛OpenNMT开源神经网络机器翻译 TensorFlow 2.0 实现版
+https://github.com/OpenNMT/OpenNMT-tf
+
+开源翻译平台 traduora，支持多人协作在线翻译，可导入导出 JSON、CSV、YAML 等多种文本格式。
+https://github.com/traduora/traduora

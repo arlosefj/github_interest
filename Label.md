@@ -49,6 +49,78 @@ https://github.com/natasha/ipyannotate
 Anafora：网页版文本标注工具
 https://github.com/weitechen/anafora
 
+【doccano：基于网页的开源协同多语言文本标注工具】
+https://github.com/doccano/doccano
+
+### Code for CVPR 2019 paper Label Propagation for Deep Semi-supervised Learning
+https://github.com/ahmetius/LP-DeepSSL
+
+### 【Label Studio：数据标注的“瑞士军刀”】《Introducing Label Studio, a swiss army knife of data labeling》
+https://github.com/heartexlabs/label-studio
+
+### 【Trunklucator：面向数据科学家/机器学习研究者用来快速创建数据标注项目的Python模块】
+https://github.com/Dumbris/trunklucator
+
+【Jupyter notebooks/Jupyter Lab的内联数据标注扩展】
+https://github.com/ideonate/jupyter-innotater
+
+FoLiA：WEB版文本标注工具
+https://github.com/proycon/flat
+
+【多功能、可扩展的图像标注工具】’Scalabel - a versatile and scalable tool that supports various kinds of annotations needed for training computer vision models, especially for driving environment'
+https://github.com/scalabel/scalabel
+
+【人脸特征点标注工具】’FLAT - Facial Landmarks Annotation Tool - A visual editor for manually annotating facial landmarks in images of human faces.' 
+https://github.com/luigivieira/Facial-Landmarks-Annotation-Tool
+
+Gecko：人类对话高效标注工具
+https://github.com/gong-io/gecko
+
+社交行为标注分析工具
+https://github.com/hcmlab/nova
+
+【点云标注工具】’Point Cloud Labeling Tool - My awesome point cloud labeling tool' 
+https://github.com/jbehley/point_labeler
+
+面向AI训练的文本/文档标注服务
+https://www.tagtog.net/
+
+Poplar：网页版自然语言标注工具
+https://github.com/synyi/poplar
+
+### 网页版半自动图像标注框架 LOST: A flexible framework for semi-automatic image annotation
+https://github.com/l3p-cv/lost
+
+MuViLab：多视频标注工具
+https://github.com/ale152/muvilab
+
+### dataset_labeling - 图片简易标注工具，标注类似ICDAR数据集，支持多边形标注，文本标注，方便OCR数据集标注
+https://github.com/jayney/dataset_labeling
+
+数据标注、标注管理等工具大列表
+https://github.com/taivop/awesome-data-annotation
+
+计算机视觉最佳开源标注工具
+https://www.sicara.ai/blog/2019-09-01-top-five-open-source-annotation-tools-computer-vision
+
+makesense.ai：免费在线图片标记工具
+https://github.com/SkalskiP/make-sense
+
+### 数据标注工具大列表
+https://github.com/heartexlabs/awesome-data-labeling
+
+通用实体标注基准框架
+https://github.com/dice-group/gerbil
+
+### AlpacaTag：基于主动学习的众包序列标注框架
+https://github.com/INK-USC/AlpacaTag
+
+### Label Studio：具有标准化输出格式的多域数据标注工具
+https://github.com/heartexlabs/label-studio
+
+HyperLabelImg - 开源可视化图像标注工具(支持人脸关键点/不规则四边形/多边形标注)'
+https://github.com/zeusees/HyperLabelImg
+
 ### this is the official PyTorch implementation of Curve-GCN (CVPR 2019). This repository allows you to train new Curve-GCN models.
 https://github.com/fidler-lab/curve-gcn
 
@@ -63,6 +135,12 @@ https://github.com/springzfx/point-cloud-annotation-tool
 
 WebAnno：灵活的、基于网络、可视化的分布式文本标注系统
 https://github.com/webanno/webanno
+
+### 网页版图片标记与分割工具
+https://github.com/Slava/label-tool
+
+### ImageTagger：在线协同图像标记平台
+https://github.com/bit-bots/imagetagger
 
 ### Data_Label_Tools - 开源数据标注工具大列表
 https://github.com/mingx9527/Data_Label_Tools

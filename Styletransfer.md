@@ -62,3 +62,28 @@ https://github.com/nkolkin13/STROTSS
 
 ### 用TensorFlow 2.0实现CartoonGAN图片卡通化
 https://github.com/mnicnc404/CartoonGan-tensorflow
+
+ETNet: Error Transition Network for Arbitrary Style Transfer
+https://github.com/zhijieW94/ETNet
+
+Content and Style Disentanglement for Artistic Style Transfer
+https://github.com/CompVis/content-style-disentangled-ST
+
+用Python快速实现图片的风格迁移
+https://mp.weixin.qq.com/s/A5hcU5kZlSW0qx6BJ5UIyA
+
+Realtime Coherent Style Transfer for Videos
+https://github.com/safwankdb/ReCoNet-PyTorch
+
+Don't Worry About the Weather: Unsupervised Condition-Dependent Domain Adaptation
+https://arxiv.org/abs/1907.11004
+
+End-to-end Projector Photometric Compensation (CVPR'19 Oral) 
+https://github.com/BingyaoHuang/CompenNet 
+
+
+Ebsynth：快速示例图片合成与画风迁移
+https://github.com/jamriska/ebsynth
+
+对抗鲁棒分类器神经网络画风迁移
+https://reiinakano.com/2019/06/21/robust-neural-style-transfer.html

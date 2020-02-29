@@ -1,3 +1,6 @@
+将MOOC和Kaggle比赛结合
+在线自学 + 精益实践
+
 Standford CS231n 2017课程学习总结
 https://github.com/mbadry1/CS231n-2017-Summary
 
@@ -6,6 +9,18 @@ https://github.com/simoninithomas/Deep_reinforcement_learning_Course
 
 【异常检测】《Anomaly Detection - YouTube》by 李宏毅
 https://www.youtube.com/watch?v=ikJi4bEgrNI
+
+很好的计算机视觉视频课程 课程：计算机视觉远古探秘”
+https://www.bilibili.com/video/av43498478/
+
+Kaggle出品的小型数据科学系列课程
+https://github.com/Kaggle/learntools https://www.kaggle.com/learn/overview
+
+经典统计学到现代机器学习
+https://www.bilibili.com/video/av65718644/
+
+'fun-with-graphics - 图形学相关的高校课程、书籍、教程、文章、博客、资源、开源项目。'
+https://github.com/FancyVin/fun-with-graphics
 
 李宏毅机器学习2019(国语)
 https://www.bilibili.com/video/av46561029/

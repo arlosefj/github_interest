@@ -2,8 +2,23 @@ quantize
 https://github.com/eladhoffer/quantized.pytorch
 使用pytorch
 
+我们真的需要模型压缩吗？
+http://mitchgordon.me/machine/learning/2020/01/13/do-we-really-need-model-compression.html
+
 ### [ECCV 2018] PyTorch implementation for AMC: AutoML for Model Compression and Acceleration on Mobile Devices.
 https://github.com/mit-han-lab/amc
+
+神经网络量化相关文献集
+https://github.com/xu3kev/neural-networks-quantization-notes
+
+Pytorch Implementation of Neural Architecture Optimization
+https://github.com/renqianluo/NAO_pytorch
+
+XNNPACK：面向手机和浏览器的高效浮点神经网络推理运算器
+https://github.com/google/XNNPACK
+
+TensorRT 深度学习优化
+https://github.com/ardianumam/Tensorflow-TensorRT
 
 prune
 https://github.com/jacobgil/pytorch-pruning
@@ -125,5 +140,62 @@ https://github.com/uber-research/learning-to-reweight-examples
 Code for “Discrimination-aware-Channel-Pruning-for-Deep-Neural-Networks”
 https://github.com/SCUT-AILab/DCP
 
+ZeroQ: A Novel Zero Shot Quantization Framework
+https://github.com/amirgholami/ZeroQ
+
+Graph Transforms to Quantize and Retrain Deep Neural Nets in TensorFlow. https://arxiv.org/abs/1903.08066
+https://github.com/Xilinx/graffitist
+
 A PyTorch implementation of "Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights"
 https://github.com/Mxbonn/INQ-pytorch
+
+This repository contains the training code of Quantization Networks introduced in our CVPR 2019 paper: Quantization Networks.
+https://github.com/aliyun/alibabacloud-quantization-networks
+
+Code released for "FNNP: Fast Neural Network Pruning Using Adaptive Batch Normalization"
+https://github.com/anonymous47823493/FNNP
+
+Code for the NuerIPS'19 paper "Gate Decorator: Global Filter Pruning Method for Accelerating Deep Convolutional Neural Networks"
+https://github.com/youzhonghui/gate-decorator-pruning
+
+【PyTorch实现的深度模型压缩】
+https://github.com/666DZY666/model-compression
+
+【深度网络压缩文献/代码列表】
+https://github.com/csyhhu/Awesome-Deep-Neural-Network-Compression
+
+【模型压缩相关文献资源大列表】
+https://github.com/ChanChiChoi/awesome-model-compression
+
+【神经网络压缩与加速资源集锦】
+https://github.com/mrgloom/Network-Speed-and-Compression
+
+Neural Rejuvenation: Improving Deep Network Training by Enhancing Computational Resource Utilization at CVPR'19
+https://github.com/joe-siyuan-qiao/NeuralRejuvenation-CVPR19
+
+### 面向目标检测/语义分割的机器学习自动化(AutoML)
+https://github.com/NoamRosenberg/AutoML
+
+【神经网络修剪技术研究指南】
+https://pan.baidu.com/s/1onGzAUw4pKrySM1uS1HTeg
+
+机器学习模型压缩相关文献、工具、学习资料列表
+https://github.com/cedrickchee/awesome-ml-model-compression
+
+深度神经网络修剪
+https://towardsdatascience.com/pruning-deep-neural-network-56cae1ec5505
+
+面向图像分类和检测的神经网络压缩
+https://arxiv.org/abs/1907.05686 https://ai.facebook.com/blog/compressing-neural-networks-for-image-classification-and-detection/
+
+Partial Channel Connections for Memory-Efficient Differentiable Architecture Search
+https://github.com/yuhuixu1993/PC-DARTS
+
+Code for: "And the bit goes down: Revisiting the quantization of neural networks"
+https://github.com/facebookresearch/kill-the-bits
+
+Implementation with latest PyTorch for multi-gpu DARTS https://arxiv.org/abs/1806.09055
+https://github.com/alphadl/darts.pytorch1.1 https://github.com/quark0/darts
+
+神经网络架构搜索相关资源大列表
+https://github.com/D-X-Y/awesome-NAS

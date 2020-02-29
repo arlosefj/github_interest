@@ -85,3 +85,50 @@ https://github.com/AdamSpannbauer/python_video_stab
 
 Bridging Stereo Matching and Optical Flow via Spatiotemporal Correspondence, CVPR 2019
 https://github.com/lelimite4444/BridgeDepthFlow
+
+ffmpeg-cpp - A clean, easy-to-use C++ wrapper around the ffmpeg libraries
+https://github.com/Raveler/ffmpeg-cpp
+
+Video Generation from Single Semantic Label Map
+https://github.com/STVIR/seg2vid
+
+Quality Assessment of In-the-Wild Videos (ACM MM 2019)
+https://github.com/lidq92/VSFA
+
+A multi-sensor capture system for free viewpoint video.
+https://github.com/VCL3D/VolumetricCapture
+
+Unsupervised Video Interpolation using Cycle Consistency
+https://github.com/NVIDIA/unsupervised-video-interpolation
+
+The codes and data of paper "Urban Traffic Prediction from Spatio-Temporal Data Using Deep Meta Learning"
+https://github.com/panzheyi/ST-MetaNet
+
+Temporal Attentive Alignment for Video Domain Adaptation
+https://github.com/olivesgatech/TA3N
+
+Code for the paper: Long-Term On-Board Prediction of People in Traffic Scenes under Uncertainty
+https://github.com/apratimbhattacharyya18/onboard_long_term_prediction
+
+e3d-lstm; Eidetic 3D LSTM A Model for Video Prediction and Beyond
+https://github.com/google/e3d_lstm
+
+深度感知视频插帧(DAIN)
+https://github.com/baowenbo/DAIN
+
+Code for model proposed in: Nachiket Deo and Mohan M. Trivedi,"Convolutional Social Pooling for Vehicle Trajectory Prediction." CVPRW, 2018
+https://github.com/nachiket92/conv-social-pooling
+
+### GPU加速视频处理框架(C++/Python)
+https://github.com/NVIDIA/VideoProcessingFramework
+
+### 【vid：完成视频的合成、合并、下载、裁剪、帧提取等日常任务的命令行工具】’vid - Command line tool for common video manipulations'
+https://github.com/achalddave/vid
+
+### 视频加工服务,浏览器版本
+https://github.com/easychen/ffonline
+http://ff.ftqq.com/
+
+Hysia 视频上线平台：基于智能多模态学习的视频、产品和广告分析系统，可用于构建产品推荐、视频检索等产品’Hysia Video to Online Platform [V1.0] - An intelligent multimodal-learning based system for video, product and ads analysis. Based on the system, you can build a lot of downstream applications such as product recommendation, video retrieval, etc.' by Cloud Application and Platform Lab
+https://github.com/cap-ntu/Video-to-Online-Platform
+

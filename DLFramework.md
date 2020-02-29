@@ -11,8 +11,62 @@ https://github.com/cgnorthcutt/cleanlab
 ONNX模型转换工具，目前已支持Keras, CoreML, LightGBM, Scikit-Learn
 https://github.com/onnx/onnxmltools
 
+### OpenCV的OpenVINO训练扩展，基于PyTorch的神经网络压缩(模型压缩)框架
+https://github.com/opencv/openvino_training_extensions/tree/develop/pytorch_toolkit/nncf
+
+### 【Cottonwood 神经网络框架(教学用)】’The Cottonwood Neural Network Framework - A flexible neural network framework for running experiments and trying ideas.' 
+https://github.com/brohrer/cottonwood
+
+【Thinc：支持PyTorch、TensorFlow、 MXNet等各主流框架的轻量深度学习库，提供优雅的、类型检查的函数式编程 API】
+https://thinc.ai/
+
+FAIR Self-Supervised Learning Integrated Multi-modal Environment (SSLIME)
+https://github.com/facebookresearch/fair-sslime
+
+【基于Scikit-Learn的Python高性能拓扑机器学习工具箱】
+https://github.com/giotto-ai/giotto-tda
+
+【DeepSpeed：微软的深度学习优化库，让分布式训练更简单、更高效、更有效】
+https://github.com/microsoft/DeepSpeed
+
+Catalyst：聚焦快速开发与复现的深度学习/强化学习高级工具集
+https://github.com/catalyst-team/catalyst
+
+【thor：C++深度学习工具库】’thor - thor: C++ helper library, for deep learning purpose'
+https://github.com/jinfagang/Thor
+
+【Radish：C++深度学习模型训练/部署框架】'Radish - C++ model train&inference framework' 
+https://github.com/LieLuoboai/radish
+
+ImJoy：插件化的深度学习混合计算平台
+https://github.com/oeway/ImJoy
+
+BytePS：支持TensorFlow, Keras, PyTorch, MXNet的通用高性能训练框架
+https://github.com/bytedance/byteps
+
+Alink：基于Flink的通用算法平台，由阿里巴巴计算平台PAI团队研发
+https://github.com/alibaba/Alink
+
+机器学习模型管理框架概览：MLFlow/DVC/Sacred
+https://www.inovex.de/blog/machine-learning-model-management/
+
+Reaction：快速便捷的深度学习模型服务框架
+https://github.com/catalyst-team/reaction
+
+深度学习监控自动化
+https://medium.com/nanonets/how-to-automate-surveillance-easily-with-deep-learning-4eb4fa0cd68d
+
+机器学习/AI模型的Panini产品化部署(Panini Beta测试阶段免费)
+https://towardsdatascience.com/deploy-ml-dl-models-to-production-via-panini-3e0a6e9ef14
+
 ONNC：开放神经网络ONNX编译器
 https://github.com/ONNC/onnc
+
+Weight Watcher：深度网络泛化精度预测工具
+https://github.com/CalculatedContent/WeightWatcher
+
+神经网络模型可视化浏览器(支持ONNX/Keras/Core ML/TensorFlow Lite等，实验性支持PyTorch/Torch/CNTK/TensorFlow.js/TensorFlow等)
+https://github.com/lutzroeder/Netron
 
 Xfer：MXNet迁移学习库
 https://github.com/amzn/xfer/

@@ -5,8 +5,47 @@ Light-Weight RefineNet for Real-Time Semantic Segmentation (pytorch)
 * ShelfNet for Real-time Semantic Segmentation
 https://github.com/juntang-zhuang/ShelfNet
 
+### DM M -Net: Differentiable Mask-Matching Network for Video Object Segmentation
+https://github.com/ZENGXH/DMM_Net
+
+### Devil Is in the Edges: Learning Semantic Boundaries from Noisy Annotations
+https://github.com/nv-tlabs/STEAL
+
+全景分割相关资源大列表
+https://github.com/Angzz/awesome-panoptic-segmentation
+
+视觉分类/分割相关深度学习模型大列表
+https://github.com/nerox8664/awesome-computer-vision-models
+
+用于图像分割的各种Unet模型实现(PyTorch)
+https://github.com/bigmb/Unet-Segmentation-Pytorch-Nest-of-Unets
+
+2019 语义分割指南
+https://www.yanxishe.com/TextTranslation/1981
+
+图像分割损失函数集
+https://github.com/JunMa11/SegLoss
+
+### 深度抠图的PyTorch实现
+https://github.com/huochaitiantang/pytorch-deep-image-matting
+
+Depth-wise Asymmetric Bottleneck for Real-time Semantic Segmentation (BMVC2019) 
+https://github.com/Reagan1311/DABNet
+
+TensorFlow model for training AdapNet++ for semantic segmentation http://deepscene.cs.uni-freiburg.de
+https://github.com/DeepSceneSeg/AdapNet-pp
+
 深度学习语义分割相关资源大列表
 https://github.com/tangzhenyu/SemanticSegmentation_DL
+
+ 一文带你读懂 DeepMask（实例分割）
+ https://www.yanxishe.com/TextTranslation/1591
+
+PyTorch 语义分割
+https://github.com/yassouali/pytorch_segmentation
+
+Image Segmentation Using Deep Learning: A Survey
+https://www.arxiv-vanity.com/papers/2001.05566/ https://arxiv.org/abs/2001.05566
 
 基于交互的实例分割学习
 https://github.com/pathak22/seg-by-interaction
@@ -119,6 +158,189 @@ https://arxiv.org/abs/1901.02511
 PyTorch implementation of DeepLabV3, trained on the Cityscapes dataset.
 https://github.com/fregu856/deeplabv3
 
+基于 Mask R-CNN 的街景广告检测与模糊
+https://github.com/WannaFIy/mask_AD
+
+【DroneDeploy无人机图像分割基准】
+https://github.com/dronedeploy/dd-ml-segmentation-benchmark
+
+BodyPix(2.0)：TensorFlow.js 实现的浏览器里的实时人体图像分割
+https://blog.tensorflow.org/2019/11/updated-bodypix-2.html   https://storage.googleapis.com/tfjs-models/demos/body-pix/index.html
+
+【语义分割训练/部署框架】'Bonnetal! - Bonnet and then some! Deep Learning Framework for various Image Recognition Tasks' 
+https://github.com/PRBonn/bonnetal
+
+### 【Alpha Matting抠图算法库(Python)】
+https://github.com/pymatting/pymatting
+
+### Natural Image Matting via Guided Contextual Attention
+https://github.com/Yaoyi-Li/GCA-Matting
+
+《Evolution of Image Segmentation using Deep Convolutional Neural Network: A Survey》
+https://www.arxiv-vanity.com/papers/2001.04074/
+
+《Learning a Spatio-Temporal Embedding for Video Instance Segmentation》
+https://arxiv.org/abs/1912.08969
+
+### Deep Snake for Real-Time Instance Segmentation
+https://github.com/zju3dv/snake/ https://arxiv.org/abs/2001.01629
+
+【视频目标分割文献列表】
+https://github.com/du0915/Video-Object-Segmentation-Paper-List
+
+《UNet++: Redesigning Skip Connections to Exploit Multiscale Features in Image Segmentation》
+https://github.com/MrGiovanni/UNetPlusPlus
+
+### 【YOLACT实时实例分割】《YOLACT: Real-Time Instance Segmentation [ICCV Trailer] - YouTube》
+https://github.com/dbolya/yolact 
+
+【PyTorch轻量实时语义分割模型】'Efficient-Segmentation-Networks - Lightweight models for real-time semantic segmentationon PyTorch (include SQNet, LinkNet, SegNet, UNet, ENet, ERFNet, EDANet, ESPNet, ESPNetv2, LEDNet, ESNet, FSSNet, CGNet, DABNet, Fast-SCNN, ContextNet, FPENet, etc.)' 
+https://github.com/xiaoyufenfei/Efficient-Segmentation-Networks
+
+【PyTorch语义分割模型集】’PyTorch for Semantic Segmentation - Support Fast_SCNN, HRNet, Deeplabv3_plus(xception, resnet, mobilenet), ContextNet, FPENet, DABNet, EdaNet, ENet, Espnetv2, RefineNet, UNet, DANet, HRNet, DFANet, HardNet, LedNet, OCNet, EncNet, DuNet, CGNet, CCNet, BiSeNet, PSPNet, ICNet, FCN, deeplab)' 
+https://github.com/LikeLy-Journey/SegmenTron
+
+道路图像(街景)快速语义分割
+https://github.com/lxtGH/Fast_Seg
+
+### CenterMask : Real-Time Anchor-Free Instance Segmentation
+https://github.com/youngwanLEE/CenterMask
+
+implement for paper: "RDSNet: A New Deep Architecture for Reciprocal Object Detection and Instance Segmentation"
+https://github.com/wangsr126/RDSNet
+
+Real-time Localized Style Transfer with Semantic Segmentation
+https://github.com/IssamLaradji/CBStyling
+
+(NeurIPS2019) Category Anchor-Guided Unsupervised Domain Adaptation for Semantic Segmentation
+https://github.com/RogerZhangzz/CAG_UDA
+
+Bayesian Adaptive Superpixel Segmentation
+https://github.com/BGU-CS-VIL/BASS
+
+Implementation of Deep Complex UNet Using PyTorch
+https://github.com/sweetcocoa/DeepComplexUNetPyTorch
+
+Natural Image Matting via Guided Contextual Attention
+https://github.com/Yaoyi-Li/GCA-Matting
+
+### Zero-Shot Semantic Segmentation https://arxiv.org/pdf/1906.00817.pdf
+https://github.com/valeoai/ZS3
+
+Object-Contextual Representations for Semantic Segmentation in PyTorch
+https://github.com/rosinality/ocr-pytorch
+
+### [ICLR 2020] "FasterSeg: Searching for Faster Real-time Semantic Segmentation" 
+https://github.com/TAMU-VITA/FasterSeg
+
+Segmenting Objects by Locations
+https://github.com/Epiphqny/SOLO
+
+[CVPR 2019, Oral] "Collaborative Global-Local Networks for Memory-Efﬁcient Segmentation of Ultra-High Resolution Images" 
+https://github.com/TAMU-VITA/GLNet
+
+Efficient Segmentation: Learning Downsampling Near Semantic Boundaries
+https://github.com/dmitrii-marin/adaptive-sampling
+
+The code is unofficial version for TensorMask: A Foundation for Dense Object Segmentation.
+https://github.com/CaoWGG/TensorMask
+
+Unofficial implementation of Fast-SCNN: Fast Semantic Segmentation Network
+https://github.com/DeepVoltaire/Fast-SCNN
+
+Implementation of NeurIPS 2019 paper "Weakly Supervised Instance Segmentation using the Bounding Box Tightness Prior"
+https://github.com/chengchunhsu/WSIS_BBTP
+
+Code for Universal Semi-Supervised Semantic Segmentation models paper accepted in ICCV 2019
+https://github.com/tarun005/USSS_ICCV19
+
+The Pytorch implementation of "Location-aware Upsampling for Semantic Segmentation" (LaU)
+https://github.com/HolmesShuan/Location-aware-Upsampling-for-Semantic-Segmentation
+
+【(PyTorch)实例分割/对象检测算法快速模块化参考实现】’Rotated Mask R-CNN - Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch.' 
+https://github.com/mrlooi/rotated_maskrcnn
+
+NAS-Unet: Neural Architecture Search for Medical Image Segmentation
+https://github.com/tianbaochou/NasUnet
+
+UNet++: A Nested U-Net Architecture for Medical Image Segmentation implemented in PyTorch.
+https://github.com/4uiiurz1/pytorch-nested-unet
+
+Video Object Segmentation using Space-Time Memory Networks
+https://github.com/seoungwugoh/stm
+
+Fully Convolutional HarDNet for Segmentation in Pytorch
+https://github.com/PingoLH/FCHarDNet
+
+Code for the paper "Pose2Seg: Detection Free Human Instance Segmentation" @ CVPR2019.
+https://github.com/erezposner/Pose2Seg
+
+SqueezeNAS: Fast Neural Architecture Search for Faster Semantic Segmentation
+https://github.com/ashaw596/squeezenas
+
+Pytorch Code release for our NeurIPS paper "Multi-source Domain Adaptation for Semantic Segmentation"
+https://github.com/Luodian/MADAN
+
+Criss-Cross Attention for Semantic Segmentation in pure Pytorch with a faster and more precise implementation.
+https://github.com/Serge-weihao/CCNet-Pure-Pytorch
+
+Code for NeurIPS 2019 paper Emergence of Object Segmentation in Perturbed Generative Models
+https://github.com/adambielski/perturbed-seg
+
+The Best of Both Modes: Separately Leveraging RGB and Depth for Unseen Object Instance Segmentation
+https://github.com/chrisdxie/uois
+
+This repository is for Asymmetric Non-local Neural Networks for Semantic Segmentation (to appear in ICCV 2019)
+https://github.com/MendelXu/ANN
+
+Official PyTorch implementation of "Unsupervised Microvascular Image Segmentation Using an Active Contours Mimicking Neural Network"
+https://github.com/shirgur/UMIS
+
+This is the code for GMIS, which is published on ECCV 2018 as "Pixel Derivation and Graph Merge for Instance Segmentation"
+https://github.com/xck36/GMIS
+
+Anchor Diffusion for Unsupervised Video Object Segmentation
+https://github.com/yz93/anchor-diff-VOS
+
+Detectron with VoVNet(CVPRW'19) backbone networks
+https://github.com/vov-net/VoVNet-Detectron
+
+A Cross-Season Correspondence Dataset for Robust Semantic Segmentation
+https://github.com/maunzzz/cross-season-segmentation
+
+BCDU-Net : Medical Image Segmentation
+https://github.com/rezazad68/BCDU-Net
+
+SegSort: Segmentation by Discriminative Sorting of Segments
+https://github.com/jyhjinghwang/SegSort
+
+code for paper Boundary and Entropy-driven Adversarial Learning for Fundus Image Segmentation
+https://github.com/EmmaW8/BEAL
+
+The pytorch implementation of self-supervised scale equivariant network for weakly supervised semantic segmentation.
+https://github.com/YudeWang/SSENet-pytorch
+
+### 基于 maskrcnn-benchmark 的Kaggle Open Images 2019 实例分割比赛简单解决方案
+https://github.com/yu4u/kaggle-open-images-2019-instance-segmentation
+
+### Code for 'PolarMask: Single Shot Instance Segmentation with Polar Representation'
+https://github.com/xieenze/PolarMask
+
+RANet: Ranking Attention Network for Fast Video Object Segmentation (VOS), ICCV2019
+https://github.com/Storife/RANet
+
+前背景分割(抠图)相关文献与资源列表
+https://github.com/murari023/awesome-background-subtraction
+
+TensorMask：一种新的密集滑动窗口实例分割技术
+https://research.fb.com/publications/tensormask-a-foundation-for-dense-object-segmentation/
+
+a tensorflow version for DSRG (Weakly-Supervised Semantic Segmentation Network with Deep Seeded Region Growing)
+https://github.com/xtudbxk/DSRG-tensorflow
+
+### U-net 抠图
+https://github.com/eti-p-doray/unet-gan-matting
+
 Unsupervised Image Segmentation by Backpropagation
 https://github.com/kanezaki/pytorch-unsupervised-segmentation
 
@@ -148,8 +370,13 @@ FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentatio
 https://github.com/wuhuikai/FastFCN
 
 Semantic Segmentation for Line Drawing Vectorization Using Neural Networks
-
 https://github.com/byungsook/vectornet
+
+Bonnet: An Open-Source Training and Deployment Framework for Semantic Segmentation in Robotics.
+https://github.com/PRBonn/bonnet
+
+实时语义分割模型集锦
+https://github.com/xiaoyufenfei/Real-Time-Semantic-Segmentation
 
 Tensorflow implementation of "Semantic Instance Segmentation with a Discriminative Loss Function"
 https://github.com/hq-jiang/instance-segmentation-with-discriminative-loss-tensorflow
@@ -161,6 +388,70 @@ https://github.com/liyunsheng13/BDL
 
 Instance Segmentation by Deep Coloring
 https://github.com/kulikovv/DeepColoring
+
+A PyTorch Implementation of Fast-SCNN: Fast Semantic Segmentation Network
+https://github.com/Tramac/Fast-SCNN-pytorch
+
+reimpliment of DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation
+https://github.com/huaifeng1993/DFANet
+
+The code for Expectation-Maximization Attention Networks for Semantic Segmentation (ICCV'2019 Oral)
+https://github.com/XiaLiPKU/EMANet
+
+A PyTorch implementation of PointRend: Image Segmentation as Rendering
+https://github.com/zsef123/PointRend-PyTorch
+
+"Context-aware Image Matting for Simultaneous Foreground and Alpha Estimation"
+https://github.com/hqqxyy/Context-Aware-Matting
+
+### Few-shot Segmentation Propagation with Guided Networks
+https://github.com/shelhamer/revolver
+
+Depth-wise Asymmetric Bottleneck for Real-time Semantic Segmentation (BMVC2019)
+https://github.com/Reagan1311/DABNet
+
+Implementation of Pyramid Attention Networks for Semantic Segmentation.
+https://github.com/JaveyWang/Pyramid-Attention-Networks-pytorch
+
+Pytorch implementation of GCN architecture for semantic segmentation
+https://github.com/SConsul/Global_Convolutional_Network
+
+Learning Superpixels with Segmentation-Aware Affinity Loss
+https://github.com/wctu/SEAL
+
+High-resolution representation learning (HRNets) for Semantic Segmentation
+https://github.com/HRNet/HRNet-Semantic-Segmentation
+
+PyTorch implementation of PSPNet
+https://github.com/kazuto1011/pspnet-pytorch
+
+### Proposal, Tracking and Segmentation (PTS): A Cascaded Network for Video Object Segmentation
+https://github.com/sydney0zq/PTSNet
+
+### Fast, high accuracy video segmentation framework (CVPR 2019 oral) http://www.samvitjain.com/accel/
+https://github.com/SamvitJ/Accel
+
+### Mapillary Research: Seamless Scene Segmentation and In-Place Activated BatchNorm | PyTorch
+https://github.com/mapillary/seamseg/
+
+Pytorch Implementation -- All about Structure: Adapting Structural Information across Domains for Boosting Semantic Segmentation, CVPR 2019
+https://github.com/a514514772/DISE-Domain-Invariant-Structure-Extraction
+
+(TensorFlow 2.0)U-Net图像分割教程
+https://www.tensorflow.org/beta/tutorials/images/segmentation
+
+Grape detection, segmentation and tracking using deep neural networks and three-dimensional association
+https://github.com/thsant/wgisd
+
+2019语义分割指南
+https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fheartbeat.fritz.ai%2Fa-2019-guide-to-semantic-segmentation-ca8242f5a7fc
+
+Gated-SCNN: Gated Shape CNNs for Semantic Segmentation
+https://github.com/nv-tlabs/GSCNN
+https://arxiv.org/abs/1907.05740
+
+### SegNet人体解析
+https://github.com/foamliu/Look-Into-Person
 
 ### U-Net implementation in PyTorch for FLAIR abnormality segmentation in brain MRI 
 https://github.com/mateuszbuda/brain-segmentation-pytorch
