@@ -21,3 +21,9 @@ https://github.com/zijundeng/R3Net
 
 MGA: Motion Guided Attention for Video Salient Object Detection, ICCV 2019
 https://github.com/lhaof/Motion-Guided-Attention
+
+Towards High-Resolution Salient Object Detection
+https://github.com/yi94code/HRSOD
+
+Codes for the AAAI 2020 paper "F3Net: Fusion, Feedback and Focus for Salient Object Detection" 
+https://github.com/weijun88/F3Net

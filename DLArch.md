@@ -103,6 +103,21 @@ https://github.com/Microsoft/nni/releases
 Implementation of the paper: "Learning Semantic-Specific Graph Representation for Multi-Label Image Recognition" (ICCV 2019)
 https://github.com/HCPLab-SYSU/SSGRL
 
+面向计算机视觉的卷积网络及其实现大列表
+https://github.com/osmr/imgclsmob
+
+Concise, Modular, Human-friendly PyTorch implementation of EfficientNet with Pre-trained Weights.
+https://github.com/ansleliu/EfficientNet.PyTorch
+
+(ImageNet pretrained models) The official pytorch implemention of the TPAMI paper "Res2Net: A New Multi-scale Backbone Architecture"
+https://github.com/Res2Net/Res2Net-PretrainedModels
+
+和逻辑推理相关的神经网络模型 ，和认知的双系统很相关《Deep Reasoning Networks: Thinking Fast and Slow》
+https://www.aminer.cn/pub/5d04e900da56295d08dd2ba8/deep-reasoning-networks-thinking-fast-and-slow
+
+集成关系到神经网络《An Explicitly Relational Neural Network Architecture》
+https://www.aminer.cn/pub/5cf48a3eda56291d582a0d77/an-explicitly-relational-neural-network-architecture
+
 Efficient Transformers for research, PyTorch and Tensorflow using Locality Sensitive Hashing
 https://github.com/cerebroai/reformers
 

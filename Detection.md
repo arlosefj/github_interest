@@ -28,8 +28,23 @@ https://github.com/luuuyi/RefineDet.PyTorch
 【开源目标检测工具包(PyTorch)】’mmdetection - Open MMLab Detection Toolbox' by Multimedia Laboratory, 
 https://github.com/open-mmlab/mmdetection
 
+Spatially Invariant Unsupervised Object Detection with Convolutional Neural Networks.
+https://github.com/e2crawfo/auto_yolo
+
+### 完整的目标检测项目。结构简洁明了，中文注释。适宜新手入门、目标检测任务参考，甚至直接基于本项目实现目标检测任务。
+https://github.com/yatengLG/SSD-Pytorch
+
+### 一个以 Pytorch 深度学习库实现的 retinanet 目标检测模型。项目拥有清晰的结构、完善的注释以及详细的使用说明。适用于有些许深度学习基础的初学者进行学习或在实际的目标检测项目中使用
+https://github.com/yatengLG/Retinanet-Pytorch
+
 Official Tensorflow implementation of drl-RPN: Deep Reinforcement Learning of Region Proposal Networks (CVPR 2018 paper)
 https://github.com/aleksispi/drl-rpn-tf
+
+OpenCV 'dnn' with NVIDIA GPUs: 1549% faster YOLO, SSD, and Mask R-CNN | PyImageSearch
+https://www.pyimagesearch.com/2020/02/10/opencv-dnn-with-nvidia-gpus-1549-faster-yolo-ssd-and-mask-r-cnn/
+
+'CenterNet - An easy to understand and better performance version of CenterNet'
+https://github.com/FateScript/CenterNet-better
 
 Enriched Feature Guided Refinement Network for Detection，ICCV2019.
 https://github.com/Ranchentx/EFGRNet

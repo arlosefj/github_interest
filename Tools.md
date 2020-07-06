@@ -162,11 +162,38 @@ https://github.com/kekingcn/kkFileView
 无需编写代码、利用GitHub搭建全免费个人博客
 https://www.fast.ai/2020/01/16/fast_template/
 
+TensorDash：深度学习远程监控App，可远程监控深度学习模型指标，在模型训练完成或崩溃时发出通知
+https://github.com/CleanPegasus/TensorDash
+
+一个将局域网中的应用映射到公网访问的端口映射软件，支持转发基于 TCP 协议的报文。内网穿透工具，包含 Web 后台管理系统。
+https://github.com/wisdom-projects/holer
+
+一款基于 Node.js 的免费开源、便捷美观的 API 调试工具。
+https://github.com/liyasthomas/postwoman
+
 微软开源可视化数据探索工具SandDance
 https://github.com/Microsoft/SandDance
 
+PDFQuery：快速友好的PDF文件数据抽取库
+https://github.com/jcushman/pdfquery
+
+一款基于 JavaScript 实现的开源在线文档工具。支持：多端编辑查看、权限管理、文档导出、Markdown 语法等，功能虽不多但已足够用了。推荐自建自用、小团队内部使用
+https://github.com/star7th/showdoc
+
+### 【eureka：记录日常灵感文字的命令行小工具】
+https://github.com/simeg/eureka
+
 OneDev：超简单的一体化DevOps平台
 https://github.com/theonedev/onedev
+
+收集了各类应用的想法，并按照易学程度把应用进行划分
+https://github.com/florinpop17/app-ideas
+
+### 最好的 Git 动画教程
+https://learngitbranching.js.org
+
+fastpages：可和Jupyter Notebooks顺畅接轨的免费博客平台
+https://fastpages.fast.ai/fastpages/jupyter/2020/02/21/introducing-fastpages.html
 
 ### 将带有Markdown注释的Python代码转换为配有说明和插图的文档(可代替Jupyter notebooks的另一种代码分发方式)
 https://github.com/danijar/handout
@@ -174,7 +201,7 @@ https://github.com/danijar/handout
 ### 推荐一款能将 Markdown 文档转成高大上 PPT 的开源工具，支持图表、流程图、数学符号、自定义主题配色以及样式等等。
 https://github.com/ksky521/nodeppt
 
-### Oppia：可协同创建在线交互教程的开源学习工具
+###- Oppia：可协同创建在线交互教程的开源学习工具
 https://github.com/oppia/oppia
 
 Sampler：shell命令的执行、可视化和提醒工具

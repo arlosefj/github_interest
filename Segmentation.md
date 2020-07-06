@@ -170,6 +170,9 @@ https://blog.tensorflow.org/2019/11/updated-bodypix-2.html   https://storage.goo
 【语义分割训练/部署框架】'Bonnetal! - Bonnet and then some! Deep Learning Framework for various Image Recognition Tasks' 
 https://github.com/PRBonn/bonnetal
 
+A new codebase of Scene Graph Generation based on maskrcnn-benchmark. A Pytorch implementation of the CVPR 2020 Oral paper "Unbiased Scene Graph Generation from Biased Training"
+https://github.com/KaihuaTang/scene-graph-benchmark.pytorch
+
 ### 【Alpha Matting抠图算法库(Python)】
 https://github.com/pymatting/pymatting
 
@@ -181,6 +184,9 @@ https://www.arxiv-vanity.com/papers/2001.04074/
 
 《Learning a Spatio-Temporal Embedding for Video Instance Segmentation》
 https://arxiv.org/abs/1912.08969
+
+### 基于detectron2的CenterMask2实时无锚点实例分割
+https://github.com/youngwanLEE/centermask2
 
 ### Deep Snake for Real-Time Instance Segmentation
 https://github.com/zju3dv/snake/ https://arxiv.org/abs/2001.01629
@@ -194,6 +200,10 @@ https://github.com/MrGiovanni/UNetPlusPlus
 ### 【YOLACT实时实例分割】《YOLACT: Real-Time Instance Segmentation [ICCV Trailer] - YouTube》
 https://github.com/dbolya/yolact 
 
+### Enforcing temporal consistency in real-time per-frame semantic video segmentation
+时域一致性
+https://github.com/irfanICMLL/ETC-Real-time-Per-frame-Semantic-video-segmentation
+
 【PyTorch轻量实时语义分割模型】'Efficient-Segmentation-Networks - Lightweight models for real-time semantic segmentationon PyTorch (include SQNet, LinkNet, SegNet, UNet, ENet, ERFNet, EDANet, ESPNet, ESPNetv2, LEDNet, ESNet, FSSNet, CGNet, DABNet, Fast-SCNN, ContextNet, FPENet, etc.)' 
 https://github.com/xiaoyufenfei/Efficient-Segmentation-Networks
 
@@ -202,6 +212,9 @@ https://github.com/LikeLy-Journey/SegmenTron
 
 道路图像(街景)快速语义分割
 https://github.com/lxtGH/Fast_Seg
+
+CARAFE: Content-Aware ReAssembly of FEatures
+https://github.com/XiaLiPKU/CARAFE
 
 ### CenterMask : Real-Time Anchor-Free Instance Segmentation
 https://github.com/youngwanLEE/CenterMask

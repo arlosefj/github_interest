@@ -83,6 +83,9 @@ https://github.com/phiresky/ripgrep-all
 OpenCV视频稳定工具包
 https://github.com/AdamSpannbauer/python_video_stab
 
+全球各地 8 千多个公开、可用的网络电视频道集合
+https://github.com/iptv-org/iptv
+
 Bridging Stereo Matching and Optical Flow via Spatiotemporal Correspondence, CVPR 2019
 https://github.com/lelimite4444/BridgeDepthFlow
 
@@ -91,6 +94,12 @@ https://github.com/Raveler/ffmpeg-cpp
 
 Video Generation from Single Semantic Label Map
 https://github.com/STVIR/seg2vid
+
+AutoFlip：智能视频重构的开源框架——更“聪明”自动跟踪画面主体的视频画面裁剪
+https://google.github.io/mediapipe/solutions/autoflip
+
+AdaCoF: Adaptive Collaboration of Flows for Video Frame Interpolation
+https://github.com/HyeongminLEE/AdaCoF-pytorch
 
 Quality Assessment of In-the-Wild Videos (ACM MM 2019)
 https://github.com/lidq92/VSFA

@@ -165,6 +165,12 @@ https://github.com/GordonRen/pose2pose
 Code for “Auto-Embedding Generative Adversarial Networks for High Resolution Image Synthesis”
 https://github.com/guoyongcs/AEGAN
 
+Cycle In Cycle Generative Adversarial Networks for Keypoint-Guided Image Generation
+https://github.com/Ha0Tang/C2GAN
+
+StyleGAN2 Distillation for Feed-forward Image Manipulation
+https://github.com/EvgenyKashin/stylegan2-distillation
+
 ### STGAN: A Unified Selective Transfer Network for Arbitrary Image Attribute Editing
 https://github.com/csmliu/STGAN
 
@@ -185,6 +191,28 @@ https://github.com/tamarott/SinGAN
 
 ### LostGANs: Image Synthesis From Reconfigurable Layout and Style
 https://github.com/WillSuen/LostGANs
+
+### 对抗训练浅谈：意义、方法和思考
+https://kexue.fm/archives/7234?sharesource=weibo
+
+### LocoGAN -- Locally Convolutional GAN
+https://github.com/gmum/LocoGAN Code will be available after 20th may.
+https://arxiv.org/abs/2002.07897
+
+StyleGAN2 - Colab Notebook containing code for training + visualization + projection
+https://github.com/parthsuresh/stylegan2-colab
+
+StyleGAN2 - Official TensorFlow Implementation with practical improvements
+https://github.com/valentinvieriu/stylegan2
+
+强行跨界“动作迁移”
+https://github.com/AliaksandrSiarohin/first-order-model
+
+Generating RGB photos from RAW image files with PyNET (PyTorch) 
+https://github.com/aiff22/PyNET-PyTorch
+
+Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs (arXiv 2020)
+https://github.com/sangwoomo/freezeD
 
 Official Implementation of "Style Generator Inversion for Image Enhancement and Animation".
 https://github.com/avivga/style-image-prior

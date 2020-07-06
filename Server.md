@@ -86,6 +86,12 @@ https://github.com/vicanso/diving
 基于 Docker 开箱即用统一预配置的 VS Code 开发环境
 https://github.com/cdr/sail
 
+用 Python 语言开发的开源容器集群管理平台。在离线网络环境下通过可视化 Web UI 在 VMware、Openstack 或者物理机上规划、部署和管理生产级别的 Kubernetes 集群。
+https://github.com/KubeOperator/KubeOperator
+
+Seafile：具有隐私保护和团队协作功能的开源云存储系统
+https://github.com/haiwen/seafile
+
 ### 受 Tensorflow Serving 启发，用来部署机器学习模型的gRPC服务框架
 https://github.com/Abhijit-2592/model-server
 
@@ -97,6 +103,9 @@ https://github.com/dapr/dapr
 
 ### 【Hydrosphere Serving：机器学习服务集群管理平台】
 https://github.com/Hydrospheredata/hydro-serving
+
+Updog：简单的(Python3)Web服务，支持HTTP/HTTPS上传、下载
+https://github.com/sc0tfree/updog
 
 【Diagrams：用Python代码绘制云系统架构(原型)，目前支持四个主要的提供者: AWS、Azure、GCP和Kubernetes】
 https://github.com/mingrammer/diagrams

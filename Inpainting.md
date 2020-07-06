@@ -35,6 +35,9 @@ https://github.com/hughplay/DFNet
 An Internal Learning Approach to Video Inpainting
 https://arxiv.org/abs/1909.07957
 
+Coherent Semantic Attention for image inpainting(ICCV 2019)
+https://github.com/KumapowerLIU/CSA-inpainting
+
 Official Pytorch implementation of Copy-and-Paste Networks for Deep Video Inpainting (ICCV 2019)
 https://github.com/shleecs/Copy-and-Paste-Networks-for-Deep-Video-Inpainting
 
@@ -49,6 +52,9 @@ https://github.com/Zheng222/DMFN
 
 ### 《LaFIn: Generative Landmark Guided Face Inpainting》
 https://github.com/YaN9-Y/lafin
+
+【DeepFill生成式图像补全】’Generative Image Inpainting - DeepFill v1/v2 with Contextual Attention and Gated Convolution, CVPR 2018, and ICCV 2019 Oral'
+https://github.com/JiahuiYu/generative_inpainting
 
 修复
 https://github.com/akmtn/pytorch-siggraph2017-inpainting

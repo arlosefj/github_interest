@@ -139,6 +139,18 @@ https://pan.baidu.com/s/1uPids6uxa_47amZwQoTS5g
 【自监督学习与计算机视觉】《Self-supervised learning and computer vision · fast.ai》
 https://www.fast.ai//2020/01/13/self_supervised/
 
+Image网 自监督学习实验
+https://datasciencecastnet.home.blog/2020/02/22/self-supervised-learning-with-image%e7%bd%91/
+
+Reference implementation of a two-level RCN model on MNIST classification. See the Science article "A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs" 
+https://github.com/vicariousinc/science_rcn
+
+MONAI：医学图像AI工具包
+https://github.com/Project-MONAI/MONAI
+
+基于 WebGL 的全景查看库
+https://github.com/pchen66/panolens.js
+
 【Taichi：高性能图形学编程语言】
 https://github.com/taichi-dev/taichi
 
@@ -413,8 +425,34 @@ https://github.com/worldveil/photomosaic
 JPEG压缩感知：直接利用DCT域特征的高效神经网络图片识别
 https://eng.uber.com/neural-networks-jpeg/
 
+Unpaired Image Enhancement Featuring Reinforcement-Learning-Controlled Image Editing Software
+https://github.com/satoshi-kosugi/Unpaired-Image-Enhancement
+
 Collaging on Internal Representations: An Intuitive Approach for Semantic Transfiguration
 https://github.com/quolc/neural-collage
+
+Replacing Mobile Camera ISP with a Single Deep Learning Model
+RAW to RGB 图像数据集(22G)
+http://people.ee.ethz.ch/~ihnatova/pynet.html
+
+### An implementation of paper "Heavy Rain Image Restoration: Integrating Physics Model and Conditional Adversarial Learning" (CVPR19)
+模拟生成雨景图片，CGAN恢复
+https://github.com/liruoteng/HeavyRainRemoval
+
+### Attention-guided CNN for image denoising(Neural Networks,2020)
+https://github.com/hellloxiaotian/ADNet
+
+Variational Denoising Network: Toward Blind Noise Modeling and Removal (NeurIPS, 2019) (Pytorch)
+https://github.com/zsyOAOA/VDNet
+
+Single-Underwater-Image-Enhancement-and-Color-Restoration
+https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration
+
+### Self-Supervised Linear Motion Deblurring
+https://github.com/ethliup/SelfDeblur
+
+【图片匹配挑战2020】’Image Matching Benchmark - Public release of the Image Matching Benchmark'
+https://github.com/vcg-uvic/image-matching-benchmark
 
 深度学习(图像)数据增广库
 https://github.com/MIPT-Oulu/solt

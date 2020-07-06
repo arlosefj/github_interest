@@ -7,6 +7,31 @@ https://github.com/imadelh/ML-web-app
 Keras)简单图片搜索
 https://github.com/matsui528/sis
 
+霸榜 GitHub：200 行代码让人瞬间消失
+https://mp.weixin.qq.com/s/-QQvvPkBDR5C0JPjzJ73vg
+
+一款优秀入门级 AI 项目以及教程，内容涵盖：人脸、视频、文字的检测和识别。他不仅包含最基本的人脸检测、识别（图片、视频）、轮廓标识、头像合成（给人戴帽子），还有表情识别（生气、厌恶、恐惧等）、视频对象提取、图片修复（可用于水印去除）、图片自动上色等等。推荐这个开源项目不是因为它的内容强大，而是它的教程写的实在太好了，真 · 入门级。手把手教你如何使用这个项目，做出上述功能来。在每篇功能文章的教程里，不仅仅写了每个功能的技术实现方案，还有具体重点关键代码的注释和解释以及具体实现，让你非常轻松的能够看懂、学习和使用。
+https://github.com/vipstone/faceai
+
+用MediaPipe/TensorFlow.js实现人脸/手势跟踪(facemesh&handpose)
+https://blog.tensorflow.org/2020/03/face-and-hand-tracking-in-browser-with-mediapipe-and-tensorflowjs.html?linkId=83996111
+
+基于TensorFlow.js在浏览器里实现复杂背景上的实时人像去除
+### 200 行代码让人瞬间消失
+https://github.com/jasonmayes/Real-Time-Person-Removal
+
+### 图片的t-SNE聚类可视化(Python/Keras/TensorFlow)
+https://github.com/prabodhhere/tsne-grid
+
+### Frame Attention Networks for Facial Expression Recognition in Videos
+https://github.com/Open-Debin/Emotion-FAN
+
+### '轻量级cpu版实时口罩检测' 
+https://github.com/sbdcv/sbd_mask
+
+FaceMaskDetection - 开源人脸口罩检测模型和数据 Detect faces and determine whether people are wearing mask.' 
+https://github.com/AIZOOTech/FaceMaskDetection
+
 ### 'OpenVino For SmartCity' 
 https://github.com/incluit/OpenVino-For-SmartCity
 

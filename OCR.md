@@ -255,8 +255,20 @@ https://juejin.im/post/5ce21f99e51d4510686adf85
 ### 基于文本行/线段的文档图像去变形
 https://github.com/xellows1305/Document-Image-Dewarping
 
+【OpenCV表格识别】’OTR - Optical table recognition - recognize tables in scan images using OpenCV' by Uli Köhler
+https://github.com/ulikoehler/OTR
+
+用unet实现对文档表格的自动检测，表格重建'
+https://github.com/chineseocr/table-ocr
+
+A PyTorch implementation of "ABCNet: Real-time Scene Text Spotting with Adaptive Bezier-Curve Network" (CVPR 2020 oral)
+https://github.com/Yuliang-Liu/bezier_curve_text_spotting
+
 用TensorFlow实现手写文字识别
 https://github.com/githubharald/SimpleHTR
+
+### 用Python实现“X题库”：扫描搜索高中习题答案
+https://github.com/NPS-Cisco-2019/Backend-Fullstack
 
 ### Shape Robust Text Detection with Progressive Scale Expansion Network
 https://github.com/WenmuZhou/PSENet.pytorch

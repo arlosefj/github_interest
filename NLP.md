@@ -57,6 +57,10 @@ https://github.com/graykode/xlnet-Pytorch
 OpenCLaP：多领域开源中文预训练语言模型仓库
 https://github.com/thunlp/OpenCLaP
 
+### TinyBERT(fp16)在海思麒麟810，A76单核处理器上，一次推理只需十几毫秒。
+https://github.com/huawei-noah/bolt
+https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TinyBERT
+
 DocSearch：免费文档搜索引擎
 https://github.com/algolia/docsearch
 

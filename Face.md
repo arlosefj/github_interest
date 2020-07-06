@@ -96,6 +96,12 @@ https://github.com/TencentYoutuResearch/FaceDetection-DSFD
 SeetaFace2：C++ 开发的人脸识别引擎
 https://github.com/seetafaceengine/SeetaFace2
 
+RetinaFace: Single-stage Dense Face Localisation in the Wild.
+https://github.com/lbin/Retinaface_Mobilenet_Pytorch
+
+Modiface如何用TensorFlow.js实现浏览器里的实时AR虚拟试妆
+https://blog.tensorflow.org/2020/02/how-modiface-utilized-tensorflowjs-in-ar-makeup-in-browser.html
+
 【带有关键点检测的超轻量级人脸检测器】’Face-Detector-1MB-with-landmark - 1M人脸检测模型(含关键点)' 
 https://github.com/biubug6/Face-Detector-1MB-with-landmark
 
@@ -104,6 +110,9 @@ https://github.com/nizhib/pytorch-insightface
 
 ### '基于mtcnn人脸检测+onet人脸跟踪（光流跟踪）'
 https://github.com/xiangdeyizhang/FaceTrack_ncnn_HyperFT
+
+上手快速、简单易用的人脸识别库。该库使用 dlib 顶尖的深度学习人脸识别技术构建，在户外脸部检测数据库基准（Labeled Faces in the Wild benchmark）上的准确率高达 99.38%。同时提供了一个简单的面部识别命令行工具，允许您对来自命令行的图像文件夹进行面部识别。完整的开发文档和应用案例，并且兼容树莓派系统
+https://github.com/ageitgey/face_recognition
 
 Real-world attack on MTCNN face detection system
 https://github.com/edosedgar/mtcnnattack
@@ -340,9 +349,20 @@ https://github.com/markson14/Face-Recognition-Cpp
 【人脸识别手册(分类文献集)
 https://github.com/jiankangdeng/handbook
 
+CPU推理速度100FPS的PyTorch人脸特征点定位
+https://github.com/cunjian/pytorch_face_landmark
+
 'Face Reconstruction and Dense Alignment'
 https://github.com/Star-Clouds/FRDA
 
 【BlazeFace人脸检测】’BlazeFace in Python - The BlazeFace face detector model implemented in PyTorch'
 https://github.com/hollance/BlazeFace-PyTorch
 
+### 基于摄像头的注视跟踪
+https://github.com/antoinelame/GazeTracking
+
+【ESRGAN人脸超分辨率】’Face-Super-Resolution - Face super resolution based on ESRGAN'
+https://github.com/ewrfcas/Face-Super-Resolution
+
+DSP-FWA: Dual Spatial Pyramid for Exposing Face Warp Artifacts in DeepFake Videos
+https://github.com/danmohaha/DSP-FWA

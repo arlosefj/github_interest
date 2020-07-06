@@ -22,6 +22,22 @@ https://github.com/gbaydin/hypergradient-descent
 An intriguing failing of convolutional neural networks and the CoordConv solution
 https://github.com/Wizaron/coord-conv-pytorch
 
+PyTorch深度学习微课程
+https://github.com/Atcold/pytorch-Deep-Learning
+https://atcold.github.io/pytorch-Deep-Learning/
+
+【Pytorch教程资料(Jupyter Notebooks)】’Pytorch_Tutorial - A set of jupyter notebooks on pytorch functions with examples' 
+https://github.com/Tessellate-Imaging/Pytorch_Tutorial
+
+PyTorch深度学习学习与实践(Notebooks合集)
+https://github.com/dair-ai/pytorch_notebooks
+
+【从PyTorch到PyTorch Lightning】《From PyTorch to PyTorch Lightning — A gentle introduction》
+https://towardsdatascience.com/from-pytorch-to-pytorch-lightning-a-gentle-introduction-b371b7caaf09
+
+fastai新书《Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD》草稿，fastai/PyTorch深度学习实战
+https://github.com/fastai/fastbook
+
 An implementation of DropBlock in PyTorch. DropBlock is a replacement for dropout which zero-es entire spatial blocks instead of single pixels. For more information, check the paper: DropBlock: A regularization method for convolutional networks
 https://github.com/Randl/DropBlock-pytorch
 
@@ -47,8 +63,17 @@ https://github.com/alecrubin/pytorch-serverless/
 YOLOv3的最小化PyTorch实现
 https://github.com/eriklindernoren/PyTorch-YOLOv3
 
+一个包含基础教程、提高参考资料、有趣实践项目的 PyTorch 教程
+https://github.com/Eurus-Holmes/LIS-YNP/
+
 PyTorch神经网络辅助训练高级库ignite
 https://github.com/pytorch/ignite
+
+PyTorch深度学习微课程
+https://github.com/Atcold/pytorch-Deep-Learning
+
+### Torchmeta：PyTorch元学习库
+https://github.com/tristandeleu/pytorch-meta
 
 Efficient semantic image segmentation with superpixel pooling
 https://github.com/bermanmaxim/superpixPool

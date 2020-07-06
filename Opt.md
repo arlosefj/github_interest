@@ -134,6 +134,16 @@ https://github.com/automl/Auto-PyTorch
 Tensorized Embedding Layers for Efficient Model Compression
 https://github.com/KhrulkovV/tt-pytorch
 
+### 基于pytorch实现模型压缩
+https://github.com/666DZY666/model-compression
+
+DeepSpeed：微软的深度学习优化库，让分布式训练更简单、更高效、更有效
+https://github.com/microsoft/DeepSpeed
+https://github.com/microsoft/DeepSpeedExamples
+
+Adlik：深度学习模型端到端优化框架，其模型编译器支持剪枝、量化和结构压缩等多种优化技术，可以方便地用于使用 TensorFlow、 Keras、 PyTorch 等开发的模型，服务平台提供基于部署环境的具有优化运行时的深度学习模型
+https://github.com/Adlik/Adlik
+
 Code for paper "Learning to Reweight Examples for Robust Deep Learning"
 https://github.com/uber-research/learning-to-reweight-examples
 

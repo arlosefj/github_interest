@@ -70,6 +70,9 @@ https://github.com/dluvizon/deephar
 A tensorlfow implementation about arxiv paper "Single-Stage Multi-Person Pose Machines" (SPM)
 https://github.com/murdockhou/Single-Stage-Multi-person-Pose-Machines
 
+Tensorflow 2.0实现的实时多人姿态估计
+https://github.com/michalfaber/tensorflow_Realtime_Multi-Person_Pose_Estimation
+
 Code release for "Real-Time Object Pose Estimation with Pose Interpreter Networks"
 https://github.com/jimmyyhwu/pose-interpreter-networks
 
@@ -78,6 +81,9 @@ https://github.com/Johnqczhang/densepose_installation
 
 【AlphaPose 的高性能 PyTorch 实现】'Amanbhandula - AlphaPose Implementation in Pytorch along with the pre-trained wights' 
 https://github.com/Amanbhandula/AlphaPose
+
+人体行为识别相关资源大列表
+https://github.com/Feifannaner/awesome-human-action-recognition
 
 This is an official Pytorch implementation of "Cross View Fusion for 3D Human Pose Estimation, ICCV 2019".
 https://github.com/microsoft/multiview-human-pose-estimation-pytorch

@@ -10,6 +10,12 @@ https://github.com/photoprism/photoprism
 goAdmin：Go语言编写的数据可视化与管理平台构建框架
 https://github.com/chenhg5/go-admin
 
+用 Go 在 7 天时间内实现 Web 框架、分布式缓存等应用的实战教程
+https://github.com/geektutu/7days-golang
+
+看例子学Go中文版
+https://books.studygolang.com/gobyexample/
+
 【Go语言训练营编程实例、习题及测验】
 https://github.com/inancgumus/learngo
 

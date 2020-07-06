@@ -76,6 +76,9 @@ https://github.com/Zheng222/PPON
 Fast, Accurate and Lightweight Super-Resolution models
 https://github.com/xiaomi-automl/FALSR
 
+《Zooming Slow-Mo: Fast and Accurate One-Stage Space-Time Video Super-Resolution》
+https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020
+
 Official Implementation for Kernel Modeling Super-Resolution on Real Low-Resolution Images
 https://github.com/IVRL/Kernel-Modeling-Super-Resolution
 

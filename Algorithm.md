@@ -10,8 +10,17 @@ https://github.com/luliyucoordinate/Leetcode
 免费书“动手解决算法问题”
 https://github.com/liyin2015/Algorithms-and-Coding-Interviews
 
+《剑指Offer》题目汇总&常考题总结(Python实现)
+https://github.com/shenweichen/coding_interviews
+
+### 解 LeetCode 题目集合。号称“手撕 LeetCode 题目”，讲究思路指南，解题思路描述清晰
+https://github.com/labuladong/fucking-algorithm https://labuladong.gitbook.io/algo/
+
 ### 提供的动画效果能让你更好的理解与吸收算法知识。
 https://mp.weixin.qq.com/s/fIRW0z-AMwFwsvC8hvYnYg
+
+'Coding总结 - 面试高频算法题总结' 
+https://github.com/Making-It/Code
 
 【旅行商问题解决算法可视化】’Traveling Salesman Problem - Visualization of algorithms for solving the traveling salesman problem'
 https://github.com/jhackshaw/tspvis

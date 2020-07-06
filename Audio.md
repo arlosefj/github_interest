@@ -13,6 +13,12 @@ https://github.com/freewym/espresso
 PyTorch音频处理工具/数据集
 https://github.com/audeering/audtorch
 
+基于卷积网络的基音检测
+https://0xfe.blogspot.com/2020/02/pitch-detection-with-convolutional.html?m=1
+
+Implementation of "FastSpeech: Fast, Robust and Controllable Text to Speech"
+https://github.com/Deepest-Project/FastSpeech
+
 '基于Kaldi的aidatatang_200zh的训练之葵花宝典' 
 https://github.com/datatang-ailab/aidatatang_200zh/blob/master/README.zh.md
 
@@ -141,6 +147,10 @@ https://github.com/MTG/WGANSing
 
 【用涂鸦“唱歌”：将图像合成为声音】
 https://github.com/jeonghopark/SketchSynth-Simple
+
+Feature extractor for DL speech processing.
+https://github.com/bepierre/SpeechVGG
+
 
 【面向语音识别的中文/英文发音辞典】’
 https://github.com/speech-io/BigCiDian

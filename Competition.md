@@ -65,11 +65,17 @@ https://www.bilibili.com/video/av66097664/
 '中国法研杯司法人工智能挑战赛之相似案例匹配第一名解决方案' 
 https://github.com/GuidoPaul/CAIL2019
 
+Kaggle新赛：抽象与推理挑战，“解决以前从未见过的推理任务”
+https://www.kaggle.com/c/abstraction-and-reasoning-challenge
+
 Kaggle 颅内出血检测比赛解决方案
 https://github.com/darraghdog/rsna
 
 Kaggle比赛优胜方案汇总
 http://kagglesolutions.com/
+
+【kaggle入门】《Getting started with kaggle》
+https://medium.com/wids-mysore/getting-started-with-kaggle-de4d3a9d34cf
 
 Kaggle比赛泰坦尼克手把手入门
 https://weibo.com/tv/v/I9sVGdysJ?fid=1034:4422561287632493

@@ -16,6 +16,9 @@ https://github.com/maxkferg/metal-defect-detection
 A Benchmark for Anomaly Segmentation
 https://github.com/hendrycks/anomaly-seg
 
+AI与小数据：制造业罕见缺陷的自动检测策略
+https://www.industryweek.com/technology-and-iiot/digital-tools/article/21122846/making-ai-work-with-small-data
+
 Code for the CVPR'19 paper "Learning Regularity in Skeleton Trajectories for Anomaly Detection in Videos"
 https://github.com/RomeroBarata/skeleton_based_anomaly_detection
 

@@ -257,14 +257,29 @@ https://github.com/facebookincubator/memory-analyzer
 用Jupyter Notebooks创建交互式网页
 https://github.com/SamLau95/nbinteract
 
-探索式Python编程环境nbdev：让Jupyter Notebooks“面面俱到”——构建在 Jupyter Notebook 之上，将 IDE编辑器开发的优点带入Notebooks系统，可以在Notebooks中开发而不影响整个Python项目生命周期
-https://www.fast.ai/2019/12/02/nbdev/ https://github.com/fastai/nbdev_template
-
 Heartrate：一个牛逼的工具，Python执行实时可视化
 https://mp.weixin.qq.com/s/qyNHV18RGCdgYr6wiNgOGg
 
 Python 绘图还在用 Matplotlib？发现一款手绘可视化神器！
 https://mp.weixin.qq.com/s/L8Wo7fRNEPbgGu6A6rNPMw
+
+### 一个 Python 自动化操作的库
+https://github.com/tebelorg/RPA-Python
+
+Python 程序内存占用分析工具
+https://github.com/pythonprofilers/memory_profiler
+
+Python 语言编写的植物大战僵尸。学习如何使用 Python 编写小游戏的极佳例子
+https://github.com/marblexu/PythonPlantsVsZombies
+
+### Python 的词云生成工具
+https://github.com/amueller/word_cloud
+
+Python 实现的精简绿色版按键精灵。记录用户的鼠标、键盘操作，自动执行之前记录的操作，可设定执行的次数。
+https://github.com/taojy123/KeymouseGo
+
+Python 有趣、实用的代码示例集合。包含：Python 基础、小技巧、坑、文件操作、机器学习、绘图等
+https://github.com/jackzhenguo/python-small-examples
 
 【用来创建、编译Latex文件的Python库】’PyLaTeX - A Python library for creating LaTeX files'
 https://github.com/JelteF/PyLaTeX

@@ -48,6 +48,9 @@ https://github.com/fabianschenk/RESLAM
 通用视觉SLAM框架OpenVSLAM
 https://github.com/xdspacelab/openvslam
 
+University-1652: A Multi-view Multi-source Benchmark for Drone-based Geo-localization 🚁 annotates 1652 buildings in 72 universities around the world.
+https://github.com/layumi/University1652-Baseline
+
 SE(2)-Constrained Localization and Mapping by Fusing Odometry and Vision (IEEE Transactions on Cybernetics 2019) 
 https://github.com/izhengfan/se2clam
 

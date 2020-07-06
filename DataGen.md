@@ -20,6 +20,9 @@ https://github.com/albumentations-team/albumentations
 Pytorch implementation of the image transformer for unconditional image generation
 https://github.com/sahajgarg/image_transformer
 
+为训练机器学习模型生成多样化合成医学图像数据
+https://arxiv.org/abs/1911.08716 https://ai.googleblog.com/2020/02/generating-diverse-synthetic-medical.html
+
 Unsupervised Data Augmentation experiments in PyTorch
 https://github.com/vfdev-5/UDA-pytorch
 
@@ -95,8 +98,17 @@ https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascienc
 用实际可扩展的能量模型生成训练数据集
 https://towardsdatascience.com/generating-training-datasets-using-energy-based-models-that-actually-scale-4e1f83bb9e00
 
+Official implementation of 'FMix: Enhancing Mixed Sampled Data Augmentation'
+https://github.com/ecs-vlc/FMix
+
+### Detecting the Unexpected via Image Resynthesis
+https://github.com/cvlab-epfl/detecting-the-unexpected
+
 AutoML数据增广
 https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fblog.insightdatascience.com%2Fautoml-for-data-augmentation-e87cf692c366
+
+【数据增广方法大列表】’Popular Projects - This is a list of awesome methods about data augmentation.' 
+https://github.com/CrazyVertigo/awesome-data-augmentation
 
 用贝叶斯优化发现最适合数据集的图像增广策略
 https://github.com/barisozmen/deepaugment

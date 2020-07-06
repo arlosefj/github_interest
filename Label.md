@@ -25,6 +25,9 @@ https://www.remove.bg/
 手把手教你十分钟搞定人物检测(使用Supervise.ly)
 https://mp.weixin.qq.com/s/Q56xdUaRLEMBUq8wiUrkyA
 
+UltimateLabeling：集成最新检测/跟踪算法的多用途视频标注工具
+https://github.com/alexandre01/UltimateLabeling
+
 图像标记(标注)工具VIA
 https://gitlab.com/vgg/via/
 
@@ -51,6 +54,9 @@ https://github.com/weitechen/anafora
 
 【doccano：基于网页的开源协同多语言文本标注工具】
 https://github.com/doccano/doccano
+
+点云/图像3D边界框标注工具
+https://github.com/walzimmer/3d-bat
 
 ### Code for CVPR 2019 paper Label Propagation for Deep Semi-supervised Learning
 https://github.com/ahmetius/LP-DeepSSL

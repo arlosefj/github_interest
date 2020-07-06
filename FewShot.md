@@ -46,6 +46,9 @@ https://github.com/wuzhiye7/Induction-Network-on-FewRel
 Diversity Transfer Network for Few-Shot Learning
 https://github.com/Yuxin-CV/DTN
 
+S2M2 Charting the Right Manifold: Manifold Mixup for Few-shot Learning
+https://github.com/nupurkmr9/S2M2_fewshot
+
 Cross Attention Network for Few-shot Classification
 https://github.com/blue-blue272/fewshot-CAN
 

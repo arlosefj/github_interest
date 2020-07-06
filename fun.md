@@ -16,6 +16,9 @@ https://github.com/nayuki/QR-Code-generator
 An implementation of paper from NIPS2017 'Towards the Automatic Anime Characters Creation with Generative Adversarial Networks' using pytorch.
 https://github.com/VincentXWD/CreateGirlsMoe
 
+【Microsoft MakeCode：微软的计算教育实践项目，为不同水平的学习者提供有趣的项目、即时结果、块编辑器和文本编辑器，让所有学生了解计算机科学的实际应用】“Microsoft MakeCode”
+https://github.com/Microsoft/pxt
+
 PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain. 🔥 图像翻译，条件GAN，AI绘画 https://arxiv.org/abs/1903.10146
 https://github.com/youyuge34/PI-REC
 https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ==&mid=2457914983&idx=1&sn=7d2624a39864d915ec7531b6c07c7b22&chksm=8cb6ab8dbbc1229b1550fa6a9ac1903f21f3372b92909f4b63cd2f2ea5f8e8e62b911e6d6823&token=1156490392&lang=zh_CN#rd
@@ -136,3 +139,6 @@ https://github.com/NVlabs/few-shot-vid2vid
 
 总结报告自动生成+手写机 
 www.diyifanwen.com，www.xiangdang.net，www.ypppt.com
+
+2020年程序员副业赚钱指南
+https://medium.com/better-programming/side-gigs-that-will-make-you-money-as-a-programmer-in-2020-9124760f3c8

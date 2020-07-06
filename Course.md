@@ -22,6 +22,9 @@ https://www.bilibili.com/video/av65718644/
 'fun-with-graphics - 图形学相关的高校课程、书籍、教程、文章、博客、资源、开源项目。'
 https://github.com/FancyVin/fun-with-graphics
 
+《面向云、移动&边缘的实用深度学习》随书代码
+https://github.com/PracticalDL/Practical-Deep-Learning-Book
+
 李宏毅机器学习2019(国语)
 https://www.bilibili.com/video/av46561029/
 
@@ -43,8 +46,14 @@ https://github.com/davidrosenberg/mlcourse
 台大李宏毅(国语)线性代数课程
 https://www.bilibili.com/video/av31780632/
 
+深度多任务学习与元学习
+https://www.bilibili.com/video/av91772677/ https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5
+
 Deep Learning Summer School + Tensorflow + OpenCV cascade training + YOLO + COCO + CycleGAN + AWS EC2 Setup + AWS IoT Project + AWS SageMaker + AWS API Gateway + Raspberry Pi3 Ubuntu Core + Brain Waves Reconstruction
 https://github.com/RubensZimbres/Repo-2018
+
+Kaggle Learn数据科学系列交互微课，现已提供13个单项课程，从Python编程到机器学习可解释性、自然语言处理
+https://www.kaggle.com/learn/overview
 
 STAT479: Machine Learning (Fall 2018)
 https://github.com/rasbt/stat479-machine-learning-fs18
@@ -54,3 +63,15 @@ https://github.com/lexfridman/mit-deep-learning
 
 深度学习教程整理
 https://github.com/zeusees/HyperDL-Tutorial
+
+斯坦福2017季CS231n深度视觉识别课程视频
+https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
+
+MIT课程：深度学习导论(2020)
+http://introtodeeplearning.com/
+
+伯克利课程：深度强化学习(2019)
+https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A
+
+人工智能课程列表：斯坦福、MIT、UC Berkeley等顶校的开放式深度学习和强化学习课程
+https://github.com/Machine-Learning-Tokyo/AI_Curriculum

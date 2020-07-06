@@ -25,8 +25,15 @@ https://github.com/tensorflow/model-optimization
 (TensorFlow)机器学习交互示例集
 https://research.google.com/seedbank/
 
+Self-training with Noisy Student improves ImageNet classification
+https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet
+
+
 Tensorflow公平性评价、可视化工具集】
 https://github.com/tensorflow/fairness-indicators
+
+TinyML——在Arduino和超低功耗微控制器上用TensorFlow实现机器学习
+https://tinymlbook.com/wp-content/uploads/2020/01/tflite_micro_preview.pdf
 
 Simple Tensorflow implementation of "On The Variance Of The Adaptive Learning Rate And Beyond"
 https://github.com/taki0112/RAdam-Tensorflow

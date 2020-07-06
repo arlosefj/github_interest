@@ -69,6 +69,8 @@ https://github.com/open-mmlab/mmaction
 视频分析/多模态学习论文、代码、数据集大列表
 https://github.com/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis
 
+VideoGraph: Recognizing Minutes-Long Human Activities in Videos, ICCV 2019 Workshop
+https://github.com/noureldien/videograph
 
 STCN: Stochastic Temporal Convolutional Networks
 https://github.com/emreaksan/stcn

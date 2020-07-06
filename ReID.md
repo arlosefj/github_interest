@@ -34,8 +34,14 @@ https://github.com/NEU-Gou/awesome-reid-dataset
 [ICLR-2020] Mutual Mean-Teaching: Pseudo Label Refinery for Unsupervised Domain Adaptation on Person Re-identification.
 https://github.com/yxgeee/MMT
 
+CVPR2019 Joint Discriminative and Generative Learning for Person Re-identification
+https://github.com/NVlabs/DG-Net
+
 The source code for the ICLR-2020 submission Mutual Mean-Teaching: Pseudo Label Refinery for Unsupervised Domain Adaptation on Person Re-identification.
 https://github.com/Pre-release/MMT
+
+CVPR20] Weakly supervised discriminative learning with state information for person identification
+https://github.com/KovenYu/state-information
 
 [ICCV2019] RGB-Infrared Cross-Modality Person Re-Identification via Joint Pixel and Feature Alignment
 https://github.com/wangguanan/AlignGAN

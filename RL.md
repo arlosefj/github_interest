@@ -49,6 +49,9 @@ https://github.com/deepmind/trfl/
 ### 【看神经网络自学“打炮”】’Self Taught Neural Network - Watch a Neural Network learns to shoot a target' 
 https://github.com/victorqribeiro/bangBangML
 
+PRL：新开源强化学习框架
+https://github.com/opium-sh/prl
+
 【smarties：轻量可扩展的强化学习框架】
 https://github.com/cselab/smarties
 

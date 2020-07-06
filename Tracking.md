@@ -26,6 +26,9 @@ https://github.com/huang-xx/STGAT
 Out-of-the-box code and models for CMU's object detection and tracking system for surveillance videos. Tensorflow based.
 https://github.com/JunweiLiang/Object_Detection_Tracking
 
+MAST: A Memory-Augmented Self-supervised Tracker
+https://github.com/zlai0/MAST
+
 ###【如何做图：可视化例子集】’VisualTracking-Toolkit - Powerful visualization tool (still under development)' 
 https://github.com/foolwood/VisualTracking-Toolkit
 

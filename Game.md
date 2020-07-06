@@ -41,6 +41,9 @@ https://github.com/pytorch/ELF
 OpenAI Gym推箱子游戏环境
 https://github.com/mpSchrader/gym-sokoban
 
+游戏《UniverCity》开源代码：建设、管理自己的大学
+https://github.com/Thinkofname/UniverCity
+
 
 SCRIPT-8：开发、运行复古小游戏的JS引擎
 https://github.com/script-8/script-8.github.io

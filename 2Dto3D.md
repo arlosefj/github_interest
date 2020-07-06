@@ -10,6 +10,12 @@ https://github.com/HKBU-HPML/FADNet
 code for Mesh R-CNN, an academic publication, presented at ICCV 2019
 https://github.com/facebookresearch/meshrcnn
 
+【用卷积网络将2D照片转换成3D】《Powered by AI: Turning any 2D photo into 3D using convolutional neural nets》
+https://ai.facebook.com/blog/powered-by-ai-turning-any-2d-photo-into-3d-using-convolutional-neural-nets/
+
+A Pytorch implementation of Pyramid Stereo Matching Network
+https://github.com/KinglittleQ/PSMNet
+
 A PyTorch Library for Accelerating 3D Deep Learning Research
 https://github.com/NVIDIAGameWorks/kaolin
 
@@ -21,6 +27,9 @@ https://github.com/Ninebell/GaneratedHandsForReal_TIME
 
 Hierarchical Deep Stereo Matching on High Resolution Images, CVPR 2019. 
 https://github.com/gengshan-y/high-res-stereo
+
+【PIFu：单图片3D着装人体数字化】《PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization》 
+https://github.com/shunsukesaito/PIFu
 
 Learning View Priors for Single-view 3D Reconstruction
 https://github.com/hiroharu-kato/view_prior_learning

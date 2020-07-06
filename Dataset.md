@@ -116,6 +116,9 @@ https://www.datasetlist.com/
 http://tacodataset.org/
 https://github.com/pedropro/TACO
 
+JRMOT: A Real-Time 3D Multi-Object Tracker and a New Large-Scale Dataset
+https://arxiv.org/abs/2002.08397
+
 'Toolkit for ApolloScape Dataset - Api for visualize sample data, evaluation of different tasks' by ApolloScapeAuto
 https://github.com/ApolloScapeAuto/dataset-api
 
@@ -208,6 +211,15 @@ https://github.com/Tencent/tencent-ml-images
 
 实体识别数据集集锦
 https://github.com/juand-r/entity-recognition-datasets
+
+Open Images V6最新发布：以局部化叙事为特色
+https://ai.googleblog.com/2020/02/open-images-v6-now-featuring-localized.html
+
+史密森尼(美国博物馆)开放280万张高分辨率2D/3D图像数据：“我们无法想象人们将如何使用这些藏品，我们准备好大吃一惊了。
+https://www.si.edu/openaccess
+
+机器学习十大免费车辆图像/视频数据集
+https://lionbridge.ai/datasets/250000-cars-top-10-free-vehicle-image-and-video-datasets-for-machine-learning/
 
 医疗图像数据集大列表
 https://github.com/sfikas/medical-imaging-datasets
