@@ -27,6 +27,9 @@ https://towardsdatascience.com/graduating-in-gans-going-from-understanding-gener
 (PyTorch)50行代码实现对抗生成网络(GAN)
 https://github.com/devnag/pytorch-generative-adversarial-networks
 
+Metrics and methods for robustness evaluation of neural networks with generative models
+https://github.com/igor-buzhinsky/latent-space-nn-evaluation
+
 ### SPIRAL：用强化对抗学习19笔画张明星脸
 https://github.com/deepmind/spiral
 

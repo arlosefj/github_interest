@@ -10,6 +10,9 @@ https://github.com/HKBU-HPML/FADNet
 code for Mesh R-CNN, an academic publication, presented at ICCV 2019
 https://github.com/facebookresearch/meshrcnn
 
+单目图像深度估计的Tensorflow C++实现
+https://github.com/yan99033/monodepth-cpp
+
 【用卷积网络将2D照片转换成3D】《Powered by AI: Turning any 2D photo into 3D using convolutional neural nets》
 https://ai.facebook.com/blog/powered-by-ai-turning-any-2d-photo-into-3d-using-convolutional-neural-nets/
 

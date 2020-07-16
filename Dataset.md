@@ -20,6 +20,9 @@ https://github.com/lmurmann/multi_illumination
 A*3D: An Autonomous Driving Dataset in Challeging Environments
 https://github.com/I2RDL2/ASTAR-3D
 
+PANDA: A Gigapixel-level Human-centric Video Dataset
+http://www.panda-dataset.com/
+
 PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.
 https://github.com/facebookresearch/SlowFast
 

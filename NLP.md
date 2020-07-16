@@ -4,6 +4,8 @@ https://github.com/hankcs/HanLP
 基于BERT的中文序列标注
 https://github.com/zhpmatrix/bert-sequence-tagging
 
+'CLUECorpus2020 - Large-scale Pre-training Corpus for Chinese 100G 中文预训练语料'
+https://github.com/CLUEbenchmark/CLUECorpus2020
 
 TensorFlow code and pre-trained models for BERT
 https://github.com/google-research/bert

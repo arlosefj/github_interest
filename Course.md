@@ -13,6 +13,24 @@ https://www.youtube.com/watch?v=ikJi4bEgrNI
 很好的计算机视觉视频课程 课程：计算机视觉远古探秘”
 https://www.bilibili.com/video/av43498478/
 
+(Yann Lecun)纽约大学《深度学习(PyTorch)》课程(2020)
+https://www.bilibili.com/read/cv5054336
+
+台大《应用深度学习》国语课程(2020) 
+https://www.bilibili.com/read/cv5065910
+
+李宏毅《深度学习人类语言处理》国语 (2020)
+https://www.bilibili.com/read/cv5071092
+
+哥伦比亚大学《应用机器学习》2020 更新
+https://www.bilibili.com/read/cv5024250
+
+李宏毅机器学习2020(国语) 更新 
+https://www.bilibili.com/read/cv5024627
+
+《Python深度学习进阶》
+https://github.com/ivan-vasilev/advanced-deep-learning-with-python
+
 Kaggle出品的小型数据科学系列课程
 https://github.com/Kaggle/learntools https://www.kaggle.com/learn/overview
 

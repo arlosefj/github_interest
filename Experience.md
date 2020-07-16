@@ -6,6 +6,9 @@ Kaggle PLAsTiCC天文分类比赛第四名方案
 https://github.com/aerdem4/kaggle-plasticc
 https://www.kaggle.com/c/PLAsTiCC-2018/discussion/75011
 
+【图像分类技巧集】《Bag of Tricks for Image Classification》
+https://docs.google.com/presentation/d/1TcHW6aH0QrcLG_SazEjGx5RCsNjF2SQ9gzIR4RKOsRU/edit#slide=id.p
+
 有关语义分割的奇技淫巧有哪些
 https://www.zhihu.com/question/272988870
 https://github.com/liaopeiyuan/ml-arsenal-public

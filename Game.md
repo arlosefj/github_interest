@@ -22,6 +22,12 @@ https://github.com/farzaa/DeepLeague
 基于 React 的经典坦克大战
 ​https://github.com/shinima/battle-city
 
+DungeonRush：一款开源小游戏 C
+https://github.com/Rapiz1/DungeonRush
+
+开源德州扑克机器人
+https://github.com/fedden/poker_ai
+
 用深度网络打FIFA 2018
 https://github.com/ChintanTrivedi/DeepGamingAI_FIFA
 

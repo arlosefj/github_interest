@@ -22,6 +22,9 @@ https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks
 Leela Zero围棋程序界面
 https://github.com/featurecat/lizzie
 
+Catalyst(PyTorch深度学习/强化学习研究框架)相关资源大列表
+https://github.com/catalyst-team/awesome-catalyst-list
+
 OpenAI发布的深度强化学习教学资源集(教程、代码、习题、文档等)
 https://github.com/openai/spinningup
 

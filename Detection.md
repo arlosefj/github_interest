@@ -16,6 +16,10 @@ https://github.com/lzx1413/PytorchSSD
 * Single Shot Tracker
 https://github.com/shijieS/SST
 
+基于MediaPipe的手机端实时3D物体检测
+https://ai.googleblog.com/2020/03/real-time-3d-object-detection-on-mobile.html
+https://arxiv.org/abs/2003.03522
+
 【5大目标检测挑战与解决方案】《5 Significant Object Detection Challenges and Solutions》
 https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2F5-significant-object-detection-challenges-and-solutions-924cb09de9dd
 

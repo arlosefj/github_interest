@@ -14,11 +14,17 @@ https://github.com/eriklindernoren/ML-From-Scratch
 大规模高效机器学习训练的调度
 https://www.bilibili.com/video/av70121787/
 
+CompressionVAE：快速，易于使用的深度学习降维工具，t-SNE和UMAP的有力竞争者
+https://github.com/maxfrenzel/CompressionVAE
+
 如何管理机器学习产品
 https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fhow-to-manage-machine-learning-products-part-1-386e7011258a
 
 ### CausalNex：(Python)贝叶斯网络因果推理工具包
 https://github.com/quantumblacklabs/causalnex
+
+ModelDB：用于跟踪、版本控制和审计机器学习模型的端到端系统
+https://github.com/VertaAI/modeldb
 
 
 《百面机器学习算法工程师带你去面试》（附PDF下载链接）

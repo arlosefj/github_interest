@@ -8,6 +8,9 @@ https://blog.stratospark.com/generating-synthetic-data-image-segmentation-unity-
 ### SynthText3D: Synthesizing Scene Text Images from 3D Virtual Worlds
 https://github.com/MhLiao/SynthText3D 1907.06007
 
+### Deep Image Spatial Transformation for Person Image Generation
+https://github.com/RenYurui/Global-Flow-Local-Attention
+
 Deep Embedded Clustering with Data Augmentation (DEC-DA). Performance on MNIST (acc=0.985, nmi=0.960).
 https://github.com/XifengGuo/DEC-DA
 
@@ -19,6 +22,9 @@ https://github.com/albumentations-team/albumentations
 
 Pytorch implementation of the image transformer for unconditional image generation
 https://github.com/sahajgarg/image_transformer
+
+GarmentGAN: Photo-realistic Adversarial Fashion Transfer
+https://www.arxiv-vanity.com/papers/2003.01894/
 
 为训练机器学习模型生成多样化合成医学图像数据
 https://arxiv.org/abs/1911.08716 https://ai.googleblog.com/2020/02/generating-diverse-synthetic-medical.html

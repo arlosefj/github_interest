@@ -21,3 +21,6 @@ https://mp.weixin.qq.com/s/EB0GUJ082yjB3g3ljhynwg
 
 数据科学基础：傅里叶变换原理与应用
 https://medium.com/swlh/fourier-transformation-for-a-data-scientist-1f3731115097
+
+数学宝石
+https://thinkzone.wlonk.com/MathGems/MathGems.pdf

@@ -13,6 +13,12 @@ https://github.com/freewym/espresso
 PyTorch音频处理工具/数据集
 https://github.com/audeering/audtorch
 
+AI音源分离：Facebook AI的Demucs项目帮机器像人一样听音乐
+https://github.com/facebookresearch/demucs
+
+Youka：基于spleeter音源分离的卡拉OK生成工具
+https://github.com/youkaclub/youka-desktop
+
 基于卷积网络的基音检测
 https://0xfe.blogspot.com/2020/02/pitch-detection-with-convolutional.html?m=1
 

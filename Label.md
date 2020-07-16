@@ -7,6 +7,13 @@ https://github.com/virajmavani/semi-auto-image-annotation-tool
 基于web的视频图像标记工具
 https://github.com/opencv/cvat
 
+### 通用数据(标注)工具：用简单的网络界面/桌面应用协作标注图像、文本、文档等数据
+https://github.com/UniversalDataTool/universal-data-tool
+https://universaldatatool.com/
+
+在线数据标注工作流管理工具
+https://datasaur.ai/
+
 极弱光环境标记图像数据集
 https://github.com/cs-chan/Exclusively-Dark-Image-Dataset
 
