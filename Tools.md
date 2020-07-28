@@ -31,6 +31,16 @@ https://github.com/amoffat/sh
 分布式微博爬虫，支持快速抓取和稳定抓取两种运行模式
 https://github.com/ResolveWang/WeiboSpider
 
+Backstage：用于构建开发者门户的开放平台
+https://github.com/spotify/backstage
+
+excalidraw.com：免费好用的UI原型设计工具，可实时协作
+https://github.com/excalidraw/excalidraw
+https://excalidraw.com/
+
+非常适合 IT 团队的开源在线 API 文档、技术文档工具：ShowDoc
+https://www.showdoc.cc/help?page_id=1385767280275683 https://github.com/star7th/showdoc
+
 基于搜狗微信搜索的微信公众号爬虫库
 https://github.com/Chyroc/WechatSogou
 

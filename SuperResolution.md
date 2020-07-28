@@ -31,6 +31,9 @@ https://github.com/icpm/super-resolution
 Official implementation of Meta-SR: A Magnification-Arbitrary Network for Super-Resolution(CVPR2019)(PyTorch)
 https://github.com/XuecaiHu/Meta-SR-Pytorch
 
+Meta-Transfer Learning for Zero-Shot Super-Resolution (Accepted for CVPR 2020)
+https://github.com/JWSoh/MZSR
+
 Residual Dense Network for Image Super-Resolution
 https://github.com/yulunzhang/RDN
 

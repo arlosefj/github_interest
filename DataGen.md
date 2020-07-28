@@ -11,6 +11,9 @@ https://github.com/MhLiao/SynthText3D 1907.06007
 ### Deep Image Spatial Transformation for Person Image Generation
 https://github.com/RenYurui/Global-Flow-Local-Attention
 
+### 《Image Generation from Freehand Scene Sketches》
+https://www.arxiv-vanity.com/papers/2003.02683/
+
 Deep Embedded Clustering with Data Augmentation (DEC-DA). Performance on MNIST (acc=0.985, nmi=0.960).
 https://github.com/XifengGuo/DEC-DA
 

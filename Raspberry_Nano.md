@@ -60,3 +60,9 @@ https://towardsdatascience.com/portable-computer-vision-tensorflow-2-0-on-a-rasp
 
 笑脸自拍器：树莓派上构建基于TensorFlow Lite的PhotoBooth Lite
 https://blog.tensorflow.org/2020/01/photobooth-lite-on-raspberry-pi-with-tensorflow-lite.html
+
+【Arduino上的语音识别与控制】'Artemis Says - A "Simon" clone on the Sparkfun RedBoard Artemis ATP using AI and voice commands' 
+https://github.com/dwaq/ArtemisSays
+
+OpenCV build script for NVIDIA Jetson Nano
+https://github.com/mdegans/nano_build_opencv

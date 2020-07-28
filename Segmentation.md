@@ -606,3 +606,9 @@ https://github.com/JackieZhangdx/WeakSupervisedSegmentationList
 
 DeepLabv3plus Semantic Segmentation in Pytorch - deeplabv3+ supporting ResNet(79.155%) and Xception(79.945%)
 https://github.com/YudeWang/deeplabv3plus-pytorch
+
+### SOLOv2: Dynamic, Faster and Stronger
+https://github.com/aim-uofa/AdelaiDet/
+
+2020图像分割纵览
+https://neptune.ai/blog/image-segmentation-in-2020

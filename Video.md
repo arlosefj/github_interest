@@ -144,3 +144,5 @@ http://ff.ftqq.com/
 Hysia 视频上线平台：基于智能多模态学习的视频、产品和广告分析系统，可用于构建产品推荐、视频检索等产品’Hysia Video to Online Platform [V1.0] - An intelligent multimodal-learning based system for video, product and ads analysis. Based on the system, you can build a lot of downstream applications such as product recommendation, video retrieval, etc.' by Cloud Application and Platform Lab
 https://github.com/cap-ntu/Video-to-Online-Platform
 
+在Docker上轻松构建和部署安全的视频会议解决方案
+https://github.com/jitsi/docker-jitsi-meet

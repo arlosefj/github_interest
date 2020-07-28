@@ -16,6 +16,15 @@ https://github.com/lzx1413/PytorchSSD
 * Single Shot Tracker
 https://github.com/shijieS/SST
 
+小目标检测论文/相关资源大列表
+https://github.com/kuanhungchen/awesome-tiny-object-detection
+
+【CenterNet目标检测】’CenterNet Pro Max - Experiments based on CenterNet (more backbones, TensorRT deployment and mask head)' 
+https://github.com/jinfagang/CenterNet_Pro_Max
+
+Imbalance Problems in Object Detection: A Review
+https://github.com/kemaloksuz/ObjectDetectionImbalance
+
 基于MediaPipe的手机端实时3D物体检测
 https://ai.googleblog.com/2020/03/real-time-3d-object-detection-on-mobile.html
 https://arxiv.org/abs/2003.03522

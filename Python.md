@@ -522,3 +522,6 @@ https://towardsdatascience.com/animations-with-matplotlib-d96375c5442c
 ### Python交互式教学课程制作框架
 https://github.com/ines/course-starter-python
 使用教程：https://ines.github.io/course-starter-python/
+
+用 Python 写安卓 APP
+https://mp.weixin.qq.com/s/cAEz3F3oTpqDnoO5ONX3iA

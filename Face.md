@@ -10,6 +10,15 @@ https://github.com/chaofengc/Face-Sketch-Wild
 FaceBoxes: A CPU Real-time Face Detector with High Accuracy, IJCB, 2017
 https://github.com/sfzhang15/FaceBoxes
 
+### 'nniefacelib：海思35xx系列芯片上运行的人脸算法库'
+https://github.com/hanson-young/nniefacelib
+
+DBFace：人脸检测实时快速单级检测器
+https://github.com/dlunion/DBFace
+
+【deepface：轻量人脸分析框架】’deepface - Lightweight Facial Analysis Framework for Python Including Face Recognition and Demography (Age, Gender, Emotion and Race)' 
+https://github.com/serengil/deepface
+
 Landmark-guided face to face synthesis using GANs 
 https://github.com/ESanchezLozano/GANnotation
 

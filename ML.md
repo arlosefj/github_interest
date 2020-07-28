@@ -23,6 +23,21 @@ https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascienc
 ### CausalNex：(Python)贝叶斯网络因果推理工具包
 https://github.com/quantumblacklabs/causalnex
 
+《The elements of statistical learning》中文翻译、代码实现及习题解答
+https://github.com/szcf-weiya/ESL-CN
+
+机器学习最优化课程笔记
+https://mathematical-tours.github.io/book-sources/optim-ml/OptimML.pdf
+
+### 用Ruby on Rails开发的类似Kaggle的机器学习竞赛平台
+https://github.com/AillisInc/ml_competition_platform
+
+【深入了解XGBoost】《XGBoost: A Deep Dive into Boosting》
+https://medium.com/sfu-cspmp/xgboost-a-deep-dive-into-boosting-f06c9c41349
+
+【搭建增量推荐系统】《Building an Incremental Recommender System》
+https://towardsdatascience.com/building-an-incremental-recommender-system-8836e30afaef
+
 ModelDB：用于跟踪、版本控制和审计机器学习模型的端到端系统
 https://github.com/VertaAI/modeldb
 

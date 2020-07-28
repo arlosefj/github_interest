@@ -13,6 +13,9 @@ https://github.com/mila-udem/babyai
 PaddlePaddle强化学习框架
 https://github.com/PaddlePaddle/PARL
 
+【Catalyst深度学习/强化学习框架实例入门】《Beyond fashion: Deep Learning with Catalyst》
+https://evilmartians.com/chronicles/beyond-fashion-deep-learning-with-catalyst
+
 Random Network Distillation(PyTorch)
 https://github.com/jcwleo/random-network-distillation-pytorch
 

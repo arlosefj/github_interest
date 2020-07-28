@@ -24,3 +24,6 @@ https://medium.com/swlh/fourier-transformation-for-a-data-scientist-1f3731115097
 
 数学宝石
 https://thinkzone.wlonk.com/MathGems/MathGems.pdf
+
+可探索的物理：代数物理交互可视化解析与在线仿真
+https://github.com/landgreen/physics

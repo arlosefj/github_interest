@@ -26,6 +26,19 @@ PyTorch深度学习微课程
 https://github.com/Atcold/pytorch-Deep-Learning
 https://atcold.github.io/pytorch-Deep-Learning/
 
+FastAI2&PyTorch自监督教程
+https://amarsaini.github.io/Epoching-Blog/jupyter/2020/03/23/Self-Supervision-with-FastAI.html
+
+
+NVIDIA GPU上的Pytorch JIT提前编译(AOT)
+https://github.com/NVIDIA/TRTorch
+
+【基于PyTorch的概率时序预测框架】'PyTorchTS - PyTorch based Probabilistic Time Series forecasting framework based on GluonTS backend' 
+https://github.com/zalandoresearch/pytorch-ts
+
+PyTorch实现的对抗攻击与工具
+https://github.com/Harry24k/adversarial-attacks-pytorch
+
 【Pytorch教程资料(Jupyter Notebooks)】’Pytorch_Tutorial - A set of jupyter notebooks on pytorch functions with examples' 
 https://github.com/Tessellate-Imaging/Pytorch_Tutorial
 

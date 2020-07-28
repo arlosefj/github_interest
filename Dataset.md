@@ -8,6 +8,12 @@ https://hyper.ai/datasets
 WoodScape: A multi-task, multi-camera fisheye dataset for autonomous driving
 https://github.com/valeoai/WoodScape
 
+Tabler Icons：免费高质量SVG图标集
+https://github.com/tabler/tabler-icons
+
+口罩遮挡人脸数据集（Real-World Masked Face Dataset，RMFD）
+https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset
+
 【缺失大量行人、骑车人标注的无人驾驶数据集可能是个大问题】
 https://blog.roboflow.ai/self-driving-car-dataset-missing-pedestrians/
 

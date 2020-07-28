@@ -142,3 +142,6 @@ www.diyifanwen.com，www.xiangdang.net，www.ypppt.com
 
 2020年程序员副业赚钱指南
 https://medium.com/better-programming/side-gigs-that-will-make-you-money-as-a-programmer-in-2020-9124760f3c8
+
+【如何把长颈鹿变成鸟】《How to change a giraffe into a bird》by Janelle Shane
+https://aiweirdness.com/post/613123668121419776/how-to-change-a-giraffe-into-a-bird

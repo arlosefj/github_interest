@@ -10,6 +10,22 @@ https://github.com/simoninithomas/Deep_reinforcement_learning_Course
 【异常检测】《Anomaly Detection - YouTube》by 李宏毅
 https://www.youtube.com/watch?v=ikJi4bEgrNI
 
+陈蕴侬《应用深度学习》国语(2020)
+https://www.csie.ntu.edu.tw/~miulab/s108-adl/
+https://www.youtube.com/playlist?list=PLOAQYZPRn2V4iTh0XRB_-EHNktK_ai7kl
+
+UCAS-Course - 中国科学院大学研一课程教材课件共享项目
+https://github.com/lilujunai/UCAS-Course
+
+李宏毅《深度学习人类语言处理》国语 (2020)
+https://www.bilibili.com/read/cv5223280
+
+纽约大学《深度学习(PyTorch)》课程(2020)
+https://www.bilibili.com/read/cv5162276
+
+(Yann Lecun)纽约大学《深度学习(PyTorch)》课程(2020) 
+https://www.bilibili.com/read/cv5054336 https://atcold.github.io/pytorch-Deep-Learning/en/week04/04-1/
+
 很好的计算机视觉视频课程 课程：计算机视觉远古探秘”
 https://www.bilibili.com/video/av43498478/
 

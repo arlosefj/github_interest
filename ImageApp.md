@@ -553,6 +553,9 @@ https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers
 黄图鉴别(不可描述图片检测)
 https://github.com/rockyzhengwu/nsfw
 
+Monk：OpenCV/深度学习开源GUI工具
+https://github.com/Tessellate-Imaging/monk_v1
+
 图像配准：从SIFT到深度学习
 https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fblog.sicara.com%2Fimage-registration-sift-deep-learning-3c794d794b7a
 
@@ -561,6 +564,12 @@ https://github.com/DimitarPetrov/stegify
 
 医学影像交互工具包
 https://github.com/MITK/MITK
+
+### OS2D: One-Stage One-Shot Object Detection by Matching Anchor Features
+https://github.com/aosokin/os2d
+
+Synthesizing human-like sketches from natural images using a conditional convolutional decoder
+https://github.com/kampelmuehler/synthesizing_human_like_sketches
 
 TideFinger——指纹识别小工具，汲取整合了多个web指纹库，结合了多种指纹检测方法，让指纹检测更快捷、准确
 https://github.com/TideSec/TideFinger

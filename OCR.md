@@ -19,6 +19,15 @@ https://github.com/MhLiao/DB
 CharNet: Convolutional Character Networks
 https://github.com/MalongTech/research-charnet
 
+### 端到端多语言OCR文字识别方案
+https://github.com/JaidedAI/EasyOCR
+
+### Mobile-LPR - 面向移动端的准商业级车牌识别库……支持多种车牌检测算法，支持车牌识别和车牌颜色识别
+https://github.com/xiangweizeng/mobile-lpr
+
+【Transformer场景文字识别】’Transformer-OCR - Scene Text Recognition via Transformer'
+https://github.com/fengxinjie/Transformer-OCR
+
 pytorch implementation of R2CNN, Rotational Faster RCNN for orientated object detection
 https://github.com/Xiangyu-CAS/R2CNN.pytorch
 
@@ -33,6 +42,9 @@ https://github.com/Bartzi/kiss
 
 Pytorch implementation for "Decoupled attention network for text recognition".
 https://github.com/Wang-Tianwei/Decoupled-attention-network
+
+### 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M - 基于chineseocr 与psenet 实现中文自然场景文字检测及识别
+https://github.com/ouyanghuiyu/chineseocr_lite
 
 ### A reimplementation of Character Region Awareness for Text Detection (CRAFT) with training code
 https://github.com/brooklyn1900/CRAFT_pytorch

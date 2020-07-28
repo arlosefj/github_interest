@@ -256,8 +256,14 @@ https://github.com/DAI-Lab/SteganoGAN
 《CPGAN: Full-Spectrum Content-Parsing Generative Adversarial Networks for Text-to-Image Synthesis》
 https://github.com/dongdongdong666/CPGAN
 
+《Creating High Resolution Images with a Latent Adversarial Generator》D Berthelot, P Milanfar, I Goodfellow [Google Research] (2020)
+https://github.com/google-research/lag
+
 DM-GAN: Dynamic Memory Generative Adversarial Networks for Text-to-Image Synthesis
 https://github.com/MinfengZhu/DM-GAN
+
+### Semi-Supervised StyleGAN for Disentanglement Learning
+https://github.com/NVlabs/High-res-disentanglement-datasets
 
 ### pytorch implementation of "Mask-Guided Portrait Editing with Conditional GANs"
 https://github.com/cientgu/Mask_Guided_Portrait_Editing

@@ -13,6 +13,21 @@ https://mp.weixin.qq.com/s/-QQvvPkBDR5C0JPjzJ73vg
 一款优秀入门级 AI 项目以及教程，内容涵盖：人脸、视频、文字的检测和识别。他不仅包含最基本的人脸检测、识别（图片、视频）、轮廓标识、头像合成（给人戴帽子），还有表情识别（生气、厌恶、恐惧等）、视频对象提取、图片修复（可用于水印去除）、图片自动上色等等。推荐这个开源项目不是因为它的内容强大，而是它的教程写的实在太好了，真 · 入门级。手把手教你如何使用这个项目，做出上述功能来。在每篇功能文章的教程里，不仅仅写了每个功能的技术实现方案，还有具体重点关键代码的注释和解释以及具体实现，让你非常轻松的能够看懂、学习和使用。
 https://github.com/vipstone/faceai
 
+【机器人操作视觉迁移学习】《Visual Transfer Learning for Robotic Manipulation | Google AI Blog》
+https://ai.googleblog.com/2020/03/visual-transfer-learning-for-robotic.html
+
+### 【Agender：性别、年龄实时估计】’Agender Project - Real-time estimation of gender and age'
+https://github.com/diovisgood/agender
+
+让蒙娜丽莎“返老还童”：StyleGAN2人脸修改器
+https://github.com/tg-bomze/StyleGAN2-Face-Modificator
+
+基于First Order模型的人脸动态模型，让Doom小子变清晰/活起来(Remini/StyleGan2)
+https://github.com/tg-bomze/Face-Image-Motion-Model https://papers.nips.cc/paper/8935-first-order-motion-model-for-image-animation
+
+基于Opencv的口罩佩戴识别系统
+https://blog.csdn.net/cj151525/article/details/104984897
+
 用MediaPipe/TensorFlow.js实现人脸/手势跟踪(facemesh&handpose)
 https://blog.tensorflow.org/2020/03/face-and-hand-tracking-in-browser-with-mediapipe-and-tensorflowjs.html?linkId=83996111
 

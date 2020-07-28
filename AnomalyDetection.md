@@ -7,6 +7,9 @@ https://github.com/yzhao062/pyod
 新书：Python深度学习异常检测(Keras/PyTorch)
 https://www.amazon.com/Beginning-Anomaly-Detection-Python-Based-Learning/dp/1484251768
 
+【Keras/TensorFlow异常检测】《Anomaly detection with Keras, TensorFlow, and Deep Learning | PyImageSearch》
+https://www.pyimagesearch.com/2020/03/02/anomaly-detection-with-keras-tensorflow-and-deep-learning/
+
 深度学习缺陷检测
 https://github.com/sundyCoder/DEye
 
