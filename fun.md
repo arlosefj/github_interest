@@ -145,3 +145,15 @@ https://medium.com/better-programming/side-gigs-that-will-make-you-money-as-a-pr
 
 【如何把长颈鹿变成鸟】《How to change a giraffe into a bird》by Janelle Shane
 https://aiweirdness.com/post/613123668121419776/how-to-change-a-giraffe-into-a-bird
+
+AnimeGAN：用GAN实现的图片动漫化
+https://github.com/TachibanaYoshino/AnimeGAN https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ==&mid=310435176&idx=1&sn=9d3f5916ae5126c4e3233b26595e02cb&chksm=0cb6b8823bc13194bb38ce5eabe344e59a6881f1ae6a4ac0aa183874ec71c2586b73ce3c0f96#rd
+
+程序员如何优雅地挣零花钱
+http://r.ftqq.com/howto-make-more-money/ch00.html
+
+将你的自拍转成二次元！照片动漫脸生成器！
+https://waifu.lofiu.com/index.zh.html
+
+人像卡通化 (Photo to Cartoon)探索
+https://github.com/minivision-ai/photo2cartoon

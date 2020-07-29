@@ -281,3 +281,13 @@ https://github.com/dontLoveBugs/DORN_pytorch
 
 The release code and dataset of CNN-MonoFusion for ismar2018
 https://github.com/NetEaseAI-CVLab/CNN-MonoFusion
+
+不用3D建模，通过静态图片进行训练，用(非卷积)深度网络表示场景的5D连续体表示，再通过ray marching进行渲染。  paper:《NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis》
+https://github.com/yenchenlin/nerf-pytorch
+https://github.com/krrish94/nerf-pytorch
+
+老照片也能玩3D：上下文感知三维图像分层深度修复技术
+https://github.com/vt-vl-lab/3d-photo-inpainting
+
+把Instagram上的图片全部3D化处理的Chrome插件
+https://github.com/cyrildiagne/instagram-3d-photo

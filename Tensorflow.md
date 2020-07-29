@@ -22,6 +22,12 @@ https://github.com/adityac94/Grad_CAM_plus_plus
 TensorFlow模型优化工具集
 https://github.com/tensorflow/model-optimization
 
+TensorFlow 2模型花园：最先进预训练模型/示例代码库
+https://github.com/tensorflow/models
+
+30 天吃掉那只 TensorFlow 2.0 
+https://lyhue1991.github.io/eat_tensorflow2_in_30_days/ https://github.com/lyhue1991/eat_tensorflow2_in_30_days
+
 (TensorFlow)机器学习交互示例集
 https://research.google.com/seedbank/
 

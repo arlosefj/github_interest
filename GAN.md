@@ -474,3 +474,30 @@ https://github.com/nikitaa30/Manga-GAN
 
 Semi-supervised Image Attribute Editing using Generative Adversarial Networks
 https://arxiv.org/abs/1907.01841
+
+【改进单幅图像GANs训练技术】《Improved Techniques for Training Single-Image GANs》
+https://github.com/tohinz/ConSinGAN
+
+【用GAN生成表格数据】《GANs for tabular data》
+https://github.com/Diyago/GAN-for-tabular-data
+
+### 【ADGAN可控人体图像合成】《Controllable Person Image Synthesis with Attribute-Decomposed GAN》
+https://github.com/menyifang/ADGAN
+
+### Mimicry：轻量级PyTorch库，旨在实现可复现的GAN研究
+https://github.com/kwotsin/mimicry
+
+### In-Domain GAN Inversion for Real Image Editing
+https://github.com/genforce/idinvert
+
+可解释GAN控制发现(GANSpace)：在激活空间进行主成分分析，来发现GAN的可解释控制，如视角变化、老化、光照和一天内的时间等
+https://github.com/harskish/ganspace
+
+Structural-analogy from a Single Image Pair
+https://github.com/rmokady/structural-analogy/
+
+BachGAN: High-Resolution Image Synthesis from Salient Object Layout
+https://github.com/Cold-Winter/BachGAN
+
+计算机视觉中的GANs——有条件图像/目标生成
+https://theaisummer.com/gan-computer-vision/ https://theaisummer.com/gan-computer-vision-object-generation/

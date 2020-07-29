@@ -14,6 +14,9 @@ https://universaldatatool.com/
 在线数据标注工作流管理工具
 https://datasaur.ai/
 
+机器学习研究标注工具列表
+https://www.simonwenkel.com/2019/07/19/list-of-annotation-tools-for-machine-learning-research.html
+
 极弱光环境标记图像数据集
 https://github.com/cs-chan/Exclusively-Dark-Image-Dataset
 
@@ -25,6 +28,9 @@ http://www.cs.columbia.edu/~vondrick/vatic/
 
 Web界面的图像分割/目标检测标记工具
 https://github.com/jsbroks/coco-annotator
+
+文本/视觉处理工具集，包括文本标注、数据增广、数据集处理、转换器等
+https://github.com/ming71/toolbox
 
 在线深度学习自动抠图服务
 https://www.remove.bg/

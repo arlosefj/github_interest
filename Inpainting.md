@@ -28,6 +28,8 @@ https://github.com/DmitryUlyanov/deep-image-prior
 https://github.com/deeppomf/DeepCreamPy
 https://arxiv.org/abs/1804.07723
 
+Attentive Normalization for Conditional Image Generation
+https://www.arxiv-vanity.com/papers/2004.03828/
 
 Deep Fusion Network for Image completion
 https://github.com/hughplay/DFNet

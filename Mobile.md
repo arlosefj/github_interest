@@ -22,6 +22,9 @@ https://github.com/LeoMobileDeveloper/ios-developer-tools
 Gitter for GitHub - 可能是目前颜值最高的GitHub小程序客户端
 https://github.com/huangjianke/Gitter
 
+TensorFlow Lite Core ML：苹果移动设备上的深度网络快速推理
+https://blog.tensorflow.org/2020/04/tensorflow-lite-core-ml-delegate-faster-inference-iphones-ipads.html
+
 A PyTorch implementation of Pelee: A Real-Time Object Detection System on Mobile Devices 
 https://github.com/yxlijun/Pelee.Pytorch
 

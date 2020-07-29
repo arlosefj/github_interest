@@ -35,6 +35,24 @@ https://blog.tensorflow.org/2020/03/face-and-hand-tracking-in-browser-with-media
 ### 200 行代码让人瞬间消失
 https://github.com/jasonmayes/Real-Time-Person-Removal
 
+### 【实时表情检测实战(Python)】《Building a Real Time Emotion Detection with Python》
+https://github.com/Dhanush45/Realtime-emotion-detectionusing-python
+
+【世界就是一块大绿幕：来看看最先进的视频背景抠图】《Background Matting: The World is Your Green Screen》
+https://github.com/senguptaumd/Background-Matting https://gist.github.com/andreyryabtsev/243aa3eefa6e06891dda7b1583d1d08f
+
+用OpenCV实现人脸自动马赛克
+https://www.pyimagesearch.com/2020/04/06/blur-and-anonymize-faces-with-opencv-and-python/
+
+【runx：深度学习实验管理工具】’runx - An experiment management tool' 
+https://github.com/NVIDIA/runx
+
+【Linux下的摄像头背景伪造】’Linux-Fake-Background-Webcam - Faking your webcam background under GNU/Linux.'
+https://github.com/fangfufu/Linux-Fake-Background-Webcam
+
+在线会议玩变身！Zoom/Skype虚拟化身
+https://github.com/alievk/avatarify
+
 ### 图片的t-SNE聚类可视化(Python/Keras/TensorFlow)
 https://github.com/prabodhhere/tsne-grid
 

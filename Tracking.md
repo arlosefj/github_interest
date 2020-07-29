@@ -152,3 +152,12 @@ https://github.com/kimyoon-young/centerNet-deep-sort
 
 Tensorflow implementation of "Self-Supervised Tracking via Video Colorization"
 https://github.com/hirokiyokoyama/tracking_via_colorizing
+
+### 【YOLO & RCNN目标检测和多目标跟踪】'YOLO & RCNN Object Detection and Multi-Object Tracking' 
+https://github.com/yehengchen/Object-Detection-and-Tracking
+
+《Tracking Objects as Points》
+https://github.com/xingyizhou/CenterTrack
+
+### 【PyTorch多目标跟踪库】’A Library of Multi-Object Tracking in Python and Pytorch' 
+https://github.com/nightmaredimple/libmot

@@ -591,3 +591,30 @@ https://towardsdatascience.com/finding-similar-images-using-deep-learning-and-lo
 
 ### 图像处理数据集列表
 https://github.com/Ir1d/image-processing-datasets
+
+【照片/图片自动着色】’DeOldify - Colorise Anime/Manga Sketches with DeOldify' 
+https://github.com/Dakini/AnimeColorDeOldify
+
+AiThermometer：用热成像仪自动测量人体温度
+https://github.com/IIT-PAVIS/AI-Thermometer
+
+RANSAC-Flow: generic two-stage image alignment
+https://github.com/XiSHEN0220/RANSAC-Flow
+
+拍照隔着玻璃窗？铁丝网？试试一键穿透——"障碍穿透视觉学习" 
+https://colab.research.google.com/drive/1iOKknc0dePekUH2TEh28EhcRPCS1mgwz
+
+Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline
+https://github.com/alex04072000/SingleHDR
+
+Self-Supervised Viewpoint Learning From Image Collections
+https://github.com/NVlabs/SSV
+
+SESAME: Semantic Editing of Scenes by Adding, Manipulating or Erasing Objects
+https://www.arxiv-vanity.com/papers/2004.04977/
+
+### Skeleton Tracing：二值图像骨架提取新算法
+https://github.com/LingDong-/skeleton-tracing
+
+SIFT简洁明了的Python实现
+https://github.com/rmislam/PythonSIFT

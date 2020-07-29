@@ -32,6 +32,9 @@ https://github.com/antvis/G6
 纯JavaScript图像处理库
 https://github.com/oliver-moran/jimp
 
+基于内容识别的截图js库
+https://github.com/jwagner/smartcrop.js
+
 一个开源的前端课程，教新手从零到一学前端
 https://github.com/lefex/FE/
 

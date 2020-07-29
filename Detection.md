@@ -423,3 +423,15 @@ https://github.com/TuSimple/simpledet
 
 BoxCars Fine-Grained Recognition of Vehicles
 https://github.com/JakubSochor/BoxCars
+
+### Weakly Supervised Dataset Collection for Robust Person Detection
+https://github.com/cvpaperchallenge/FashionCultureDataBase_DLoader
+
+Faster RCNN model in Pytorch version, pretrained on the Visual Genome with ResNet 101
+https://github.com/shilrley6/Faster-R-CNN-with-model-pretrained-on-Visual-Genome
+
+【Detecto：PyTorch目标检测库】
+https://github.com/alankbi/detecto
+
+《YOLOv4: Optimal Speed and Accuracy of Object Detection》
+https://github.com/AlexeyAB/darknet

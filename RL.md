@@ -25,6 +25,18 @@ https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks
 Leela Zero围棋程序界面
 https://github.com/featurecat/lizzie
 
+【用强化学习玩飞翔小鸟】’FlapAI-Bird - An AI program that plays Flappy Bird using reinforcement learning.'
+https://github.com/taivu1998/FlapAI-Bird
+
+【用Deep Q-learning玩俄罗斯方块】’[PYTORCH] Deep Q-learning for playing Tetris - Deep Q-learning for playing tetris game' 
+https://github.com/uvipen/Tetris-deep-Q-learning-pytorch
+
+【Tianshou (天授)：优雅、灵活、超快的PyTorch深度强化学习平台】
+https://github.com/thu-ml/tianshou
+
+AlphaZero算法的简单、快速实现
+https://github.com/jonathan-laurent/AlphaZero.jl
+
 Catalyst(PyTorch深度学习/强化学习研究框架)相关资源大列表
 https://github.com/catalyst-team/awesome-catalyst-list
 

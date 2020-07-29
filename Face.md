@@ -13,6 +13,9 @@ https://github.com/sfzhang15/FaceBoxes
 ### 'nniefacelib：海思35xx系列芯片上运行的人脸算法库'
 https://github.com/hanson-young/nniefacelib
 
+【深度学习人脸静默活体算法】'HyperFAS - 静默活体检测 silent face anti-spoofing attack detection'
+https://github.com/zeusees/HyperFAS
+
 DBFace：人脸检测实时快速单级检测器
 https://github.com/dlunion/DBFace
 
@@ -375,3 +378,6 @@ https://github.com/ewrfcas/Face-Super-Resolution
 
 DSP-FWA: Dual Spatial Pyramid for Exposing Face Warp Artifacts in DeepFake Videos
 https://github.com/danmohaha/DSP-FWA
+
+### SeetaFace开放版人脸识别引擎，包含人脸识别、活体检测、属性识别、质量评估模块
+https://github.com/seetafaceengine/SeetaFace6

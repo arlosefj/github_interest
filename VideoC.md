@@ -30,6 +30,9 @@ https://github.com/wzmsltw/BSN-boundary-sensitive-network
 Unofficial example code for using a pre-trained Distilled 3D Network (D3D) for video classification.
 https://github.com/princeton-vl/d3dhelper
 
+X-Temporal：开源视频分类/理解代码包
+https://github.com/Sense-X/X-Temporal
+
 PyTorch implementation of "SlowFast Networks for Video Recognition".
 https://github.com/r1ch88/SlowFastNetworks
 

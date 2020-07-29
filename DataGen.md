@@ -14,8 +14,17 @@ https://github.com/RenYurui/Global-Flow-Local-Attention
 ### 《Image Generation from Freehand Scene Sketches》
 https://www.arxiv-vanity.com/papers/2003.02683/
 
+### Multimodal Image Synthesis with Conditional Implicit Maximum Likelihood Estimation
+https://github.com/niopeng/SRIM-pytorch
+
+### Semantically Multi-modal Image Synthesis
+https://github.com/Seanseattle/SMIS
+
 Deep Embedded Clustering with Data Augmentation (DEC-DA). Performance on MNIST (acc=0.985, nmi=0.960).
 https://github.com/XifengGuo/DEC-DA
+
+【随机分形树】’Random Fractal - Random fractal or the secret behind my tree'
+https://github.com/victorqribeiro/randomFractal
 
 NAACL 2019: Submodular optimization-based diverse paraphrasing and its effectiveness in data augmentation
 https://github.com/malllabiisc/DiPS

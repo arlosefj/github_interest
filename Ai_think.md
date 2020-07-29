@@ -9,3 +9,13 @@ François Chollet：一种描述智能的方法，是“从片面描述中理解
 
 “古今之成大事业、大学问者，必经过三种之境界：‘昨夜西风凋碧树，独上高楼，望尽天涯路’。此第一境也。‘衣带渐宽终不悔，为伊消得人憔悴。’此第二境也。‘众里寻他千百度，蓦然回首，那人却在灯火阑珊处’。此第三境也。” - 王国维《人间词话》 ​​​​
 想做大事，首先要跳出纷繁的世界，经历孤独的思考，看到真正想要的东西——跳出纷扰，找到目标；苦苦求索，反复摹想，付出一切也绝不后悔，不会为短期得失斤斤计较，也不会为最终无果而悔恨——孜孜不倦，无悔追寻；最好的结果，是在历经寻找、历经思考以后的顿悟。
+
+【数据之惑：One-Shot & Zero-Shot Learning】《The Data Problem II: One-Shot and Zero-Shot Learning | Synthesis AI》
+https://synthesis.ai/2020/03/30/the-data-problem-ii-one-shot-and-zero-shot-learning/
+
+【数据之惑：未标注数据有用吗？】《The Data Problem IV: Can Unlabeled Data Help? | Synthesis AI》
+https://synthesis.ai/2020/04/14/the-data-problem-iv-can-unlabeled-data-help/
+
+
+François Chollet：哲学经常受到科技界人士的嘲笑。但我很喜欢。我所做过最有价值的事，都和“哲学”大有渊源。 哲学强大、可行、实用，又与众不同。哲学的真正目的，不是得出具体的理论(理论反映的，往往时所处时代的局限) ，或教给你有用的“生活技巧”。 哲学不是科学，也不是工程。 哲学的目的，是为你提供思考的基石。读哲学的价值，不在于你能记住什么概念或理论，而在于它们对你未来思维方式的拓展。就像学编程的价值，不在于你能写出什么样的小程序，而在于对你思维方式的刷新。
+

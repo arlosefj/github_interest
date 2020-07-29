@@ -146,3 +146,18 @@ https://github.com/cap-ntu/Video-to-Online-Platform
 
 在Docker上轻松构建和部署安全的视频会议解决方案
 https://github.com/jitsi/docker-jitsi-meet
+
+【开源在线协同工作室】'matrix - the online open-source workplace inspired in sococo.com for distributed teams to have the experience of work together each day, side-by-side' 
+https://github.com/ResultadosDigitais/matrix
+
+基于通道注意力的视频插帧(CAIN)
+https://myungsub.github.io/CAIN/
+
+与 WebRTC 兼容的视频路由器/SFU，可构建高度可扩展的视频会议基础设施(每台服务器最多可容纳数百个会议)
+https://github.com/jitsi/jitsi-videobridge
+
+### 【命令行的视频快速编辑工具】
+https://github.com/wkentaro/video-cli
+
+基于WebRTC的点对点去中心视频聊天应用
+https://github.com/ianramzy/decentralized-video-chat

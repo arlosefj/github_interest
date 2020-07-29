@@ -13,6 +13,12 @@ https://github.com/necla-ml/SNLI-VE
 Mapping Images to Scene Graphs with Permutation-Invariant Structured Prediction
 https://github.com/shikorab/SceneGraph
 
+### 【视觉/语言预训练模型最新进展】'Recent Advances in Vision and Language PreTrained Models (VL-PTMs)'
+https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers
+
+Aligning Visual Regions and Textual Concepts for Semantic-Grounded Image Representations
+https://github.com/fenglinliu98/MIA
+
 Tensorflow implementation of "A Structured Self-Attentive Sentence Embedding"
 https://github.com/flrngel/Self-Attentive-tensorflow
 

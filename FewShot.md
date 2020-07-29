@@ -18,6 +18,13 @@ https://github.com/nvlabs/FUNIT/
 【Keras/Tensorflow 2实现的少样本学习算法】’keras-fsl - Some State-of-the-Art few shot learning algorithms in tensorflow 2'
 https://github.com/few-shot-learning/Keras-FewShotLearning
 
+【单样本(One-shot)学习】《One-shot learning》
+https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fheartbeat.fritz.ai%2Fone-shot-learning-part-1-2-definitions-and-fundamental-techniques-1df944e5836a
+https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fheartbeat.fritz.ai%2Fone-shot-learning-part-2-2-facial-recognition-using-a-siamese-network-5aee53196255
+
+《少样本学习 by Massimiliano Patacchiola》
+https://www.bilibili.com/video/BV1jC4y1W7uX/
+
 ### The code of "Revisiting Local Descriptor based Image-to-Class Measure for Few-shot Learning", CVPR 2019.
 https://github.com/WenbinLee/DN4
 

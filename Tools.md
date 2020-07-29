@@ -31,6 +31,21 @@ https://github.com/amoffat/sh
 分布式微博爬虫，支持快速抓取和稳定抓取两种运行模式
 https://github.com/ResolveWang/WeiboSpider
 
+【(Python)无外部依赖的pdf解析器】’pdf4py - A PDF parser written in Python 3 with no external dependencies.' 
+https://github.com/Halolegend94/pdf4py
+
+比较实用的文件传输工具：qrcp。在使用这个工具时，只需用命令行为指定传输文件生成一个二维码，然后打开手机扫码，即可通过 WiFi 快速将文件从电脑传至手机上。
+https://github.com/claudiodangelis/qrcp
+
+Web Scraper。这是一款免费的 Google Chrome 插件，其愿景在于让数据爬取变成一件简易便捷的事情，目前已有超过 25 万人用了他们家的解决方案。
+https://www.webscraper.io/ https://www.webscraper.io/tutorials
+
+### 超级实用的搜索引擎：Semantic Scholar ！！！该网站由微软创始人之一 Pual Allen 于 2015 年参与建立，其目的在于打造一款专业的学术搜索引擎，让研究人员可以更为快速、精准的检索专业学术论文，力争在学术论文检索领域做到比 Google 更加智能。
+https://www.semanticscholar.org/
+
+一个通过代码生成云端架构图的项目，生成的图还挺好看的。
+https://github.com/mingrammer/diagrams
+
 Backstage：用于构建开发者门户的开放平台
 https://github.com/spotify/backstage
 

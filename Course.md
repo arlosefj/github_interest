@@ -10,6 +10,9 @@ https://github.com/simoninithomas/Deep_reinforcement_learning_Course
 【异常检测】《Anomaly Detection - YouTube》by 李宏毅
 https://www.youtube.com/watch?v=ikJi4bEgrNI
 
+B 站上一些比较优质的 AI 及 Python 学习资源
+https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ==&mid=310435692&idx=1&sn=7df8bd08174e92bfc503e953acfbedb7&chksm=0cb6ba863bc13390f701c82091dd79e4b4643e3211d91a70c41761f504f7b9b81399b22de297#rd
+
 陈蕴侬《应用深度学习》国语(2020)
 https://www.csie.ntu.edu.tw/~miulab/s108-adl/
 https://www.youtube.com/playlist?list=PLOAQYZPRn2V4iTh0XRB_-EHNktK_ai7kl

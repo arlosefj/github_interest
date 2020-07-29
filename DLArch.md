@@ -10,6 +10,9 @@ https://github.com/lixincn2015/Partial-Order-Pruning
 DeepSwarm神经网络架构搜索框架
 https://github.com/Pattio/DeepSwarm
 
+【MegEngine预训练模型库】’MegEngine Model Hub - 基于旷视研究院领先的深度学习算法，提供满足多业务场景的预训练模型' 
+https://github.com/MegEngine/Hub
+
 A Gluon implementation of Mnasnet
 https://github.com/chinakook/Mnasnet.MXNet
 
@@ -25,6 +28,9 @@ https://github.com/xiaolai-sqlai/mobilenetv3
 
 Caffe Implementation of MobileNets V3
 https://github.com/jixing0415/caffe-mobilenet-v3
+
+【图解GNN】《An Illustrated Guide to Graph Neural Networks》
+https://medium.com/dair-ai/an-illustrated-guide-to-graph-neural-networks-d5564a551783
 
 Mobile Computer Vision @ Facebook - Mobile vision models and code
 https://github.com/facebookresearch/mobile-vision

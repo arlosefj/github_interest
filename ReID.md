@@ -147,3 +147,9 @@ https://github.com/zhunzhong07/ECN
 
 Pytorch code for our CVPR'19 (oral) work: Unsupervised person re-identification by soft multilabel learning
 https://github.com/KovenYu/MAR
+
+### 【FastReID：实现最先进重识别算法的研究平台(PyTorch)】’FastReID - [WIP] SOTA ReID Methods and Toolbox' 
+https://github.com/JDAI-CV/fast-reid
+
+'The 1st Place Submission to AICity Challenge 2020 re-id track (Baidu-UTS submission)' 
+https://github.com/layumi/AICIty-reID-2020

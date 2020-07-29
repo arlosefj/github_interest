@@ -7,6 +7,9 @@ https://github.com/algorithm-visualizer/algorithm-visualizer
 C/C++ /Python/Go/JS/Java多语言LeetCode解题参考
 https://github.com/luliyucoordinate/Leetcode
 
+究竟什么是时间复杂度，怎么求时间复杂度
+https://mp.weixin.qq.com/s/1Zx0SK2vFfF3W3WC1cf0pg
+
 免费书“动手解决算法问题”
 https://github.com/liyin2015/Algorithms-and-Coding-Interviews
 
@@ -18,6 +21,9 @@ https://github.com/labuladong/fucking-algorithm https://labuladong.gitbook.io/al
 
 ### 提供的动画效果能让你更好的理解与吸收算法知识。
 https://mp.weixin.qq.com/s/fIRW0z-AMwFwsvC8hvYnYg
+
+### 一位开发者将其在 2013-2018 年期间的信息学竞赛课件在 GitHub 上开源
+https://github.com/huzecong/oi-slides
 
 'Coding总结 - 面试高频算法题总结' 
 https://github.com/Making-It/Code

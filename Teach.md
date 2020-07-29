@@ -21,3 +21,41 @@ https://medium.com/modern-nlp/10-great-ml-practices-for-python-developers-b089ee
 
 【深度学习的数学】《Deep Learning's mathematics》
 https://medium.com/@ismail.mebsout.pro/deep-learnings-mathematics-f52b3c4d2576
+
+
+【写给大家看的机器学习白话介绍】《Machine Learning for Everyone :: In simple words. With real-world examples. Yes, again :: vas3k.com》
+https://vas3k.com/blog/machine_learning/
+
+最新版本的OpenCV + OpenVINO的开发配置与演示运行
+https://mp.weixin.qq.com/s/3KUjpfm_bZLMceOJu8Ne5g
+
+【CNN架构复现实战：AlexNet、VGG、GoogLeNet、MobileNet、ResNet(Notebook/Video)】
+https://github.com/Machine-Learning-Tokyo/CNN-Architectures/tree/master/Implementations https://www.bilibili.com/video/BV1aa4y1x7vj
+
+编程其实是：
+- 1% 写代码
+- 40% 调试代码
+- 15% 喝咖啡休息一下
+- 30% Google搜索错误提示
+- 9% 跟同事一起盯着屏幕
+- 5% 试着从Stack Overflow复制/粘贴解决方案...
+
+麻省理工学院正式免费开放一个 AI 学习网站：aik12-MIT
+https://aieducation.mit.edu/
+
+机器学习代码完整性自查清单
+https://medium.com/paperswithcode/ml-code-completeness-checklist-e9127b168501
+
+神经网络视觉探秘：InceptionV1前5层“漫游”
+https://distill.pub/2020/circuits/early-vision/
+
+动手学深度学习
+https://zh.d2l.ai/chapter_introduction/deep-learning-intro.html
+
+https://study.163.com/course/courseLearn.htm?courseId=1209581854#/learn/video?lessonId=1279974666&courseId=1209581854
+
+【用TensorRT加速深度学习推断】《Speeding Up Deep Learning Inference Using TensorRT | NVIDIA Developer Blog》
+https://developer.nvidia.com/blog/speeding-up-deep-learning-inference-using-tensorrt/
+
+【为写出能更快运行的代码，科学家编程人员必须了解的硬件(CPU&内存)知识(Jupyter Notebook)】
+https://github.com/jakobnissen/hardware_introduction

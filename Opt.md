@@ -29,6 +29,9 @@ https://github.com/Eric-mingjie/rethinking-network-pruning
 提供了6种网络剪枝方法，使用pytorch
 https://github.com/alexfjw/prunnable-layers-pytorch
 
+### (综述)面向移动设备/边缘计算的新型神经网络架构
+https://machinethink.net/blog/mobile-architectures/
+
 Pruning AI networks without impacting performance
 https://github.com/DNNToolBox/Net-Trim-v1
 

@@ -32,3 +32,12 @@ https://venturebeat.com/2019/12/17/yann-lecun-ar-glasses-will-be-the-killer-app-
 
 AR 中遮挡物的实时深度图生成
 https://weibo.com/tv/v/IioNMBIWv?fid=1034:4443852216452933   https://ai.facebook.com/blog/using-ai-to-create-real-time-depth-maps-for-occlusions-in-ar/
+
+Rocketbox：微软开源的虚拟角色库，共包含115个可免费使用的高清虚拟角色
+https://github.com/microsoft/Microsoft-Rocketbox
+
+iGibson：斯坦福发布的面向机器人学习的大规模虚拟交互环境
+https://github.com/StanfordVL/iGibson
+
+Keep It Real: a Window to Real Reality in Virtual Reality
+https://github.com/doerlbh/V2R

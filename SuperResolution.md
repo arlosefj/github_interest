@@ -40,6 +40,9 @@ https://github.com/yulunzhang/RDN
 多帧超分辨率(MFSR)网络HighRes-net
 https://github.com/ElementAI/HighRes-net
 
+Lossless Image Compression through Super-Resolution
+https://github.com/caoscott/SReC
+
 超分辨率相关资源大列表
 https://github.com/ptkin/Awesome-Super-Resolution
 

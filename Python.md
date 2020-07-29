@@ -525,3 +525,27 @@ https://github.com/ines/course-starter-python
 
 用 Python 写安卓 APP
 https://mp.weixin.qq.com/s/cAEz3F3oTpqDnoO5ONX3iA
+
+【将Jupyter Notebooks保存为PDF】
+https://github.com/betatim/notebook-as-pdf
+
+【九个简单步骤让你的Python代码看起来更棒】《Nine simple steps for better-looking python code》
+https://towardsdatascience.com/nine-simple-steps-for-better-looking-python-code-87e5d9d3b1cf
+
+国外大神制作的超棒 Pandas 可视化教程
+https://mp.weixin.qq.com/s/c3VxABQaeU2C8fG1Mul18g
+
+### latexify_py：用Python生成LaTeX数学公式(基于规则)
+https://github.com/odashi/latexify_py
+
+### 【Python编程教程(notebooks交互书)】’An Introduction to Python and Programming - An introduction to Python and programming for wanna-be data scientists'
+https://github.com/webartifex/intro-to-python
+
+来闯关吗？一个有趣的 Python 解谜网站
+https://mp.weixin.qq.com/s/502LYB9tNVkX0hz7qVf7eQ
+
+《记一次 Python Web 接口优化，性能提升25倍！
+https://mp.weixin.qq.com/s/uYJdlVIbgXAdg42zivZgkw
+
+【matplotlib绘图实例教程】
+https://colab.research.google.com/github/ageron/handson-ml2/blob/master/tools_matplotlib.ipynb

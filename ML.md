@@ -14,11 +14,36 @@ https://github.com/eriklindernoren/ML-From-Scratch
 大规模高效机器学习训练的调度
 https://www.bilibili.com/video/av70121787/
 
+【变分自编码器手把手教程】《Variational Autoencoders (VAEs) for Dummies - Step By Step Tutorial》
+https://towardsdatascience.com/variational-autoencoders-vaes-for-dummies-step-by-step-tutorial-69e6d1c9d8e9
+
+【Quantumforest：可微决策树模型库，兼有树和神经网络的优点。 在大型数据集上的实验表明比深度网络和最好的 GBDT 库具有更高的准确性】
+https://github.com/closest-git/QuantumForest
+
+SimCLR：推进自监督/半监督学习
+https://github.com/google-research/simclr
+
 CompressionVAE：快速，易于使用的深度学习降维工具，t-SNE和UMAP的有力竞争者
 https://github.com/maxfrenzel/CompressionVAE
 
+【模仿学习算法集】
+https://github.com/Kaixhin/imitation-learning
+
+
+面向机器学习的数学学习建议
+https://blog.ycombinator.com/learning-math-for-machine-learning/ 处理不同的问题需要不同层次的(数学)直觉。要构建产品，同行和学习小组会激励你共同学习。在研究领域，广泛扎实的数学基础可以为你提供推动该领域前进的有力工具。一般来说，数学(尤其是论文里的)可能令人生畏，但“卡住”恐怕也是学习过程最重要的组成部分之一。
+
+【Scikit-Learn每日技巧】
+https://github.com/justmarkham/scikit-learn-tips
+
+周志华：Boosting学习理论的探索 —— 一个跨越30年的故事
+https://mp.weixin.qq.com/s/Jnh7yIOmzbTvWk77zh2-lA
+
 如何管理机器学习产品
 https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fhow-to-manage-machine-learning-products-part-1-386e7011258a
+
+### FixMatch半监督学习图解
+https://amitness.com/2020/03/fixmatch-semi-supervised/
 
 ### CausalNex：(Python)贝叶斯网络因果推理工具包
 https://github.com/quantumblacklabs/causalnex

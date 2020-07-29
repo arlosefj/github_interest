@@ -457,3 +457,9 @@ https://github.com/cs-chan/Total-Text-Dataset
 
 'CHINESE-OCR - [python3.6] 运用tf实现自然场景文字检测,keras/pytorch实现ctpn+crnn+ctc实现不定长场景文字OCR识别' by xiaofeng 
 https://github.com/xiaofengShi/CHINESE-OCR
+
+OCR_DataSet - 收集并整理有关OCR的数据集并统一标注格式
+https://github.com/WenmuZhou/OCR_DataSet
+
+nhyai: AI智能审查，支持色情识别、暴恐识别、语言识别、敏感文字检测和视频检测等功能，以及各种OCR识别能力
+https://github.com/shuishang/nhyai

@@ -22,6 +22,9 @@ https://github.com/cbsudux/awesome-human-pose-estimation
 Code for our CVPR 2018 paper: "Synthesizing Images of Humans in Unseen Poses"
 https://github.com/balakg/posewarp-cvpr2018
 
+Minimal Hand：以超过100帧/秒的速度从单色摄像机捕捉手部动作的最小化解决方案
+https://github.com/CalciferZh/minimal-hand
+
 PoseFlow: Efficient Online Pose Tracking (BMVC'18) http://mvig.org/research/alphapose.html
 https://github.com/YuliangXiu/PoseFlow
 

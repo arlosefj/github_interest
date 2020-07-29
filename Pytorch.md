@@ -29,6 +29,20 @@ https://atcold.github.io/pytorch-Deep-Learning/
 FastAI2&PyTorch自监督教程
 https://amarsaini.github.io/Epoching-Blog/jupyter/2020/03/23/Self-Supervision-with-FastAI.html
 
+Skeltorch：PyTorch项目原型轻量框架
+https://github.com/davidalvarezdlt/skeltorch
+
+高效PyTorch：PyTorch教程与最佳实践集锦
+https://github.com/vahidk/EffectivePyTorch
+
+Classy Vision：基于PyTorch的端到端图像/视频分类框架
+https://github.com/facebookresearch/ClassyVision https://classyvision.ai/
+
+RaySGD：让分布式Pytorch更简单、更高效
+https://github.com/ray-project/ray/tree/master/python/ray/util/sgd/torch
+
+“Torch实战教程”
+https://www.bilibili.com/video/BV1Qk4y197FR/
 
 NVIDIA GPU上的Pytorch JIT提前编译(AOT)
 https://github.com/NVIDIA/TRTorch
@@ -380,3 +394,15 @@ https://github.com/ShusenTang/Dive-into-DL-PyTorch
 
 一个包含基础教程、提高参考资料、有趣实践项目的 PyTorch 教程
 https://github.com/Eurus-Holmes/LIS-YNP
+
+### 【半监督深度学习训练和实现小Tricks】'Tricks of Semi-supervised Deep Leanring --Pytorch - PseudoLabel 2013, VAT, PI model, Tempens, MeanTeacher, ICT, MixMatch, FixMatch'
+https://github.com/iBelieveCJM/Tricks-of-Semi-supervisedDeepLeanring-Pytorch
+
+【PyProf ：PyTorch模块GPU性能分析工具】’PyProf - A GPU performance profiling tool for PyTorch models'
+https://github.com/NVIDIA/PyProf
+
+TorchServe：最新发布的开源PyTorch模型服务器
+https://github.com/pytorch/serve
+
+【AutoTorch超参优化工具集】
+https://github.com/StacyYang/AutoTorch

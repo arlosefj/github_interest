@@ -17,6 +17,18 @@ https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset
 【缺失大量行人、骑车人标注的无人驾驶数据集可能是个大问题】
 https://blog.roboflow.ai/self-driving-car-dataset-missing-pedestrians/
 
+Holopix50k: A Large-Scale In-the-wild Stereo Image Dataset
+https://github.com/leiainc/holopix50k
+
+【创建自定义COCO目标检测数据集】'How to create custom COCO data set for object detection' 
+https://github.com/Tony607/voc2coco
+
+Google Landmarks Dataset v2 -- A Large-Scale Benchmark for Instance-Level Recognition and Retrieval
+https://github.com/cvdfoundation/google-landmark
+
+MIT、DeepMind等联合发布CLEVRER数据集，推动视频理解的因果逻辑推理
+http://clevrer.csail.mit.edu/ https://arxiv.org/abs/1910.01442
+
 PyTorch implementation of MMT on TVCaption dataset - TVR: A Large-Scale Dataset for Video-Subtitle Moment Retrieval
 https://github.com/jayleicn/TVCaption
 

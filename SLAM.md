@@ -12,6 +12,9 @@ DynaSLAM is a SLAM system robust in dynamic environments for monocular, stereo a
 ### Real-time SLAM system with deep features
 https://github.com/jiexiong2016/GCNv2_SLAM
 
+DeepFactors - Real-Time Probabilistic Dense Monocular SLAM Using Compact Code Representation
+https://github.com/jczarnowski/DeepFactors
+
 Code for "Deep Generative Models for LiDAR Data"
 https://github.com/pclucas14/lidar_generation
 

@@ -610,5 +610,23 @@ https://github.com/YudeWang/deeplabv3plus-pytorch
 ### SOLOv2: Dynamic, Faster and Stronger
 https://github.com/aim-uofa/AdelaiDet/
 
+SOLOv2的非官方PyTorch实现
+https://github.com/Epiphqny/SOLOv2
+
 2020图像分割纵览
 https://neptune.ai/blog/image-segmentation-in-2020
+
+Foodly 开发的配菜机器人：通过深度图像识别挑选便当配菜完成拼盘，可准确识别每块炸肉边界
+https://developers-jp.googleblog.com/2020/04/tensorflow-foodly.html
+
+Boosting Semantic Human Matting with Coarse Annotations
+https://www.arxiv-vanity.com/papers/2004.04955/
+
+### 图像分割技巧集锦：来自39场Kaggle比赛的技巧和窍门
+https://neptune.ai/blog/image-segmentation-tips-and-tricks-from-kaggle-competitions
+
+### Unsupervised Intra-domain Adaptation for Semantic Segmentation through Self-Supervision
+https://github.com/feipan664/IntraDA
+
+Footprints and Free Space from a Single Color Image
+https://github.com/nianticlabs/footprints

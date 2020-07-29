@@ -27,3 +27,9 @@ https://thinkzone.wlonk.com/MathGems/MathGems.pdf
 
 可探索的物理：代数物理交互可视化解析与在线仿真
 https://github.com/landgreen/physics
+
+通过将数学表达式重组为一种语言，用神经网络符号推理求解复杂数学方程
+https://github.com/facebookresearch/SymbolicMathematics
+
+【免费书稿《概率地编程：数据科学世界入门》】’Programming Probabilistically: An introduction to the world of data science' 
+https://github.com/EricSchles/datascience_book
