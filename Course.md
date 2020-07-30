@@ -112,3 +112,12 @@ https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A
 
 人工智能课程列表：斯坦福、MIT、UC Berkeley等顶校的开放式深度学习和强化学习课程
 https://github.com/Machine-Learning-Tokyo/AI_Curriculum
+
+【机器学习/AI视频课程大列表】’Awesome free machine learning and AI courses with video lectures.' 
+https://github.com/luspr/awesome-ml-courses
+
+机器学习/NLP/深度学习/强化学习课程(分类)超级大列表
+https://github.com/kmario23/deep-learning-drizzle
+
+『可解释的机器学习-来自李宏毅老师深度学习机器学习课程
+https://www.bilibili.com/video/BV1Rg4y1q7QA

@@ -161,3 +161,9 @@ https://github.com/wkentaro/video-cli
 
 基于WebRTC的点对点去中心视频聊天应用
 https://github.com/ianramzy/decentralized-video-chat
+
+### 【实用FFmpeg应用示例集】“useful FFmpeg commands for archivist” 
+https://github.com/amiaopensource/ffmprovisr
+
+【开源点对点视频通话方案】’Peer Calls v4 - Group peer to peer video calls for everyone written in Go and TypeScript' 
+https://github.com/peer-calls/peer-calls

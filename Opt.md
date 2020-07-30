@@ -29,6 +29,12 @@ https://github.com/Eric-mingjie/rethinking-network-pruning
 提供了6种网络剪枝方法，使用pytorch
 https://github.com/alexfjw/prunnable-layers-pytorch
 
+【用TensorRT网络定义API实现流行的深度学习网络】
+https://github.com/wang-xinyu/tensorrtx
+
+【量化噪声训练极限模型压缩】
+https://github.com/pytorch/fairseq/tree/master/examples/quant_noise
+
 ### (综述)面向移动设备/边缘计算的新型神经网络架构
 https://machinethink.net/blog/mobile-architectures/
 
@@ -212,3 +218,12 @@ https://github.com/alphadl/darts.pytorch1.1 https://github.com/quark0/darts
 
 神经网络架构搜索相关资源大列表
 https://github.com/D-X-Y/awesome-NAS
+
+【模型性能工具库，为训练好的神经网络模型提供高级量化和压缩技术】
+https://github.com/quic/aimet
+
+【用PyTorch&AutoTorch实现的RegNet神经网络架构搜索】
+https://github.com/zhanghang1989/RegNet-Search-PyTorch
+
+【神经网络的修剪】《Neural Network Pruning》
+https://nathanhubens.github.io/posts/deep%20learning/2020/05/22/pruning.html

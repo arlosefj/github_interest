@@ -31,9 +31,15 @@ https://blog.csdn.net/cj151525/article/details/104984897
 用MediaPipe/TensorFlow.js实现人脸/手势跟踪(facemesh&handpose)
 https://blog.tensorflow.org/2020/03/face-and-hand-tracking-in-browser-with-mediapipe-and-tensorflowjs.html?linkId=83996111
 
+【基于Flask + Gunicorn + Nginx的机器学习模型部署模板(Docker)】
+https://github.com/ivanpanshin/flask_gunicorn_nginx_docker
+
 基于TensorFlow.js在浏览器里实现复杂背景上的实时人像去除
 ### 200 行代码让人瞬间消失
 https://github.com/jasonmayes/Real-Time-Person-Removal
+
+### dl_inference：通用深度学习推理服务，可在生产环境中快速上线由TensorFlow、PyTorch框架训练出的深度学习模型
+https://github.com/wuba/dl_inference
 
 ### 【实时表情检测实战(Python)】《Building a Real Time Emotion Detection with Python》
 https://github.com/Dhanush45/Realtime-emotion-detectionusing-python
@@ -46,6 +52,12 @@ https://www.pyimagesearch.com/2020/04/06/blur-and-anonymize-faces-with-opencv-an
 
 【runx：深度学习实验管理工具】’runx - An experiment management tool' 
 https://github.com/NVIDIA/runx
+
+【RGB摄像头“社交距离”检测】’Social-Distancing - Code for estimating social distances from RGB cameras.' 
+https://github.com/IIT-PAVIS/Social-Distancing
+
+【WebXR + TensorFlow.js 实现的拍照创建全息Demo】
+https://nosy-b.github.io/holography/
 
 【Linux下的摄像头背景伪造】’Linux-Fake-Background-Webcam - Faking your webcam background under GNU/Linux.'
 https://github.com/fangfufu/Linux-Fake-Background-Webcam
@@ -417,3 +429,30 @@ https://pan.baidu.com/s/1ou6xUBgxsMSMO494rYBmpw https://medium.com/@ivanfokeev/m
 
 【2020年AI将走向何方：Soumith Chintala, Celeste Kidd, Jeff Dean, Anima Anandkumar, Dario Gil 观点】
 https://venturebeat.com/2020/01/02/top-minds-in-machine-learning-predict-where-ai-is-going-in-2020/
+
+用OpenCV、Keras/TensorFlow实现口罩检测
+https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/
+
+### Pose Animator。该项目可识别出人类的表情变化与肢体动作，并将其映射到 2D 矢量图型上，让它跟着你的节拍动起来
+https://github.com/yemount/pose-animator/
+
+用自动年龄预测+军装检测识别童子兵图片
+https://www.pyimagesearch.com/2020/05/11/an-ethical-application-of-computer-vision-and-deep-learning-identifying-child-soldiers-through-automatic-age-and-military-fatigue-detection/
+
+用于投篮分析的网页&API
+https://github.com/chonyy/AI-basketball-analysis
+
+### 【带医用口罩的人脸识别】'Broutonlab face recognition with medical masks' 
+https://github.com/broutonlab/face-id-with-medical-masks
+
+【用PyTorch Lightning实现口罩检测器】《How I built a Face Mask Detector for COVID-19 using PyTorch Lightning》
+https://towardsdatascience.com/how-i-built-a-face-mask-detector-for-covid-19-using-pytorch-lightning-67eb3752fd61
+
+### 【无人驾驶车道/路线检测】’Self driving car lane and path detection' 
+https://github.com/littlemountainman/modeld
+
+【3D车道检测合成数据集】
+https://github.com/yuliangguo/3D_Lane_Synthetic_Dataset https://arxiv.org/abs/2003.10656
+
+OpenCV实现的实时“阿凡达”特效(First Order Motion Model)
+https://github.com/anandpawara/Real_Time_Image_Animation

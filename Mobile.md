@@ -28,6 +28,9 @@ https://blog.tensorflow.org/2020/04/tensorflow-lite-core-ml-delegate-faster-infe
 A PyTorch implementation of Pelee: A Real-Time Object Detection System on Mobile Devices 
 https://github.com/yxlijun/Pelee.Pytorch
 
+用Core ML完全在移动端训练卷积神经网络
+https://github.com/JacopoMangiavacchi/MNIST-CoreML-Training
+
 ### Real-time semantic image segmentation on mobile devices
 https://github.com/sercant/mobile-segmentation
 

@@ -75,3 +75,6 @@ https://github.com/yangxuntu/SGAE
 
 A PyTorch implementation of the Transformer model from "Attention Is All You Need".
 https://github.com/phohenecker/pytorch-transformer
+
+【MMF：基于PyTorch的视觉/语言研究模块化框架，可方便进行VQA、图像描述、视觉对话、仇恨检测和其他视觉/语言任务的研究】
+https://github.com/facebookresearch/mmf

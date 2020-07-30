@@ -5,6 +5,9 @@ https://github.com/zhang-can/ECO-pytorch
 https://github.com/msmsajjadi/frvsr
 https://ei.is.tuebingen.mpg.de/~msajjadi
 
+用AI分析足球视频，AI在体育这块的应用还有很大的前景
+https://www.bilibili.com/video/BV1A64y1M78H/
+
 R-C3D: Region Convolutional 3D Network for Temporal Activity Detection
 https://github.com/VisionLearningGroup/R-C3D
 

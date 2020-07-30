@@ -59,3 +59,58 @@ https://developer.nvidia.com/blog/speeding-up-deep-learning-inference-using-tens
 
 【为写出能更快运行的代码，科学家编程人员必须了解的硬件(CPU&内存)知识(Jupyter Notebook)】
 https://github.com/jakobnissen/hardware_introduction
+
+François Chollet：回顾自己的学生时代，有件事让我震惊，那就是从来没学过元思维(meta)。 学校教给我们定理和公式，却从没教给你可以用来解决问题的通用过程和技巧，或者，关于如何更好地学习。我们只能靠自己，去弄清楚这部分是怎么回事。 我们的确是这样做的，但过程混乱、举步维艰。 往往通过重复试错，获得第一手经验，效率极低。 元思维(meta)，本质上，是一门科学，是可以被教授的。当然，真正重要的，是学习“如何学习”和“如何解决问题”(甚至是更专业的“如何证明定理”)。 相比之下，学习的内容——具体的知识片段——没那么重要。 我已经忘了学过的所有定理，只有元思维能力者还在。
+
+教电脑玩游戏：教小盆友用Scratch玩转机器学习(有中文)
+https://machinelearningforkids.co.uk/?lang=zh-cn#!/worksheets
+
+预训练CNN卷积网络可视化浏览器
+https://poloclub.github.io/cnn-explainer/
+
+### 【交互式机器学习实验集锦】’Interactive Machine Learning Experiments - models training + models demo' 
+https://github.com/trekhleb/machine-learning-experiments
+
+### 【机器学习/深度学习/数学交互式工具集锦】“Interactive Tools for ML, DL and Math” 
+https://github.com/Machine-Learning-Tokyo/Interactive_Tools
+
+我认为CS学位可以更好，如果能教他们:
+* 如何为开源做贡献
+* 了解相关术语，如 敏捷，Scrum，测试驱动开发 等等
+* 如何与团队合作
+* 现代开发语言
+* 软件开发框架
+* 如何准备面试
+
+【神经网络的数学】《Mathematics of Neural Networks》
+https://www.dropbox.com/s/ec3y4khbk38e29i/NeuralNetworksEN.pdf?dl=0
+
+Naval：写出来是为了更好地学，而不是为了教。 ​​​​
+
+【线性回归基础与应用：用线性回归预测波士顿房价】《Predicting Boston House prices using Linear Regression》
+https://towardsdatascience.com/predicting-boston-house-prices-using-linear-regression-3c6107c662e5
+
+Git 常用命令参考手册：该 repo 汇总了一些比较常用的 Git 命令，以便于大家查阅使用
+https://github.com/xjh22222228/git-manual
+
+“事必躬亲”新解：作个算法(Be the Algorithm)——要优化算法，须亲自体验算法所做的、以及所面对的点滴细节 
+
+Addy Osmani：把你学到的写下来，这会有助于你加深理解。有时候，只有当你试着解释给别人听，才能看清自己的知识盲点。即使没人读你写的东西，也没关系。你已经因为这样做收获了很多。 ​​​​
+
+【写论文画机器学习框图不再纠结：ML Visuals——开源方式组织的标准化机器学习框图要素/模板库】
+https://github.com/dair-ai/ml-visuals
+
+收集了共 86 个可供开发者练习参考的项目创意，其中初级项目 34 个、中级 32 个、高级 20 个，每个项目均附有较为详细的项目参考文档。
+https://github.com/florinpop17/app-ideas
+
+【PyTorch模型类激活图浏览器】’Torchcam: class activation explorer - Class activation maps for your PyTorch models (CAM, Grad-CAM, Grad-CAM++, Smooth Grad-CAM++, Score-CAM)' 
+https://github.com/frgfm/torch-cam
+
+【深度卷积网络通俗介绍(PyTorch)】《A Layman’s Guide to Deep Convolutional Neural Networks》
+https://towardsdatascience.com/a-laymans-guide-to-deep-convolutional-neural-networks-7e937628605f
+
+Catalin Pit：如何学习新的编程技能？
+1、看一个教程，跟着老师构建应用。
+2、在尽量少的帮助下，重建这些应用。
+3、复习学到的概念。
+4、用学到的概念创建新应用。 ​​​​

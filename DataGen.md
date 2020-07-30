@@ -20,6 +20,37 @@ https://github.com/niopeng/SRIM-pytorch
 ### Semantically Multi-modal Image Synthesis
 https://github.com/Seanseattle/SMIS
 
+【深度学习Meme生成器】《Meme Generator (MemeGen) Using Deep Learning》
+https://medium.com/towards-artificial-intelligence/meme-generator-memegen-using-deep-learning-d133e6fc363f
+
+### 【数据增广自动化：实践、理论与新方向】《Automating Data Augmentation: Practice, Theory and New Direction》
+https://ai.stanford.edu/blog/data-augmentation/
+
+【神经网络纹理自动扩展/生成工具】
+https://github.com/photogeniq/texturize
+
+Conditional Image Generation and Manipulation for User-Specified Content
+https://www.arxiv-vanity.com/papers/2005.04909/
+
+【面向机器人的合成数据：仿真对机器人有用吗？】《Synthetic Data for Robots, Part I: Are Simulations Good For Robotics? | Synthesis AI》
+https://synthesis.ai/2020/05/19/synthetic-data-for-robots-part-i-are-simulations-good-for-robotics/
+
+【合成数据：早期做法】
+https://synthesis.ai/2020/04/23/synthetic-data-the-early-days-part-i/
+https://synthesis.ai/2020/05/05/synthetic-data-the-early-days-part-ii/
+
+【DataGene：用于检测和比较真实数据集和合成数据集之间的数据集相似性】
+https://github.com/firmai/datagene
+
+Unsupervised Real-world Low-light Image Enhancement with Decoupled Networks
+https://www.arxiv-vanity.com/papers/2005.02818/
+
+《Cross-domain Correspondence Learning for Exemplar-based Image Translation》
+https://www.arxiv-vanity.com/papers/2004.05571/
+
+Joint Bilateral Learning for Real-time Universal Photorealistic Style Transfer
+https://arxiv.org/abs/2004.10955
+
 Deep Embedded Clustering with Data Augmentation (DEC-DA). Performance on MNIST (acc=0.985, nmi=0.960).
 https://github.com/XifengGuo/DEC-DA
 

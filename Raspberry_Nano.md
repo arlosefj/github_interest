@@ -66,3 +66,9 @@ https://github.com/dwaq/ArtemisSays
 
 OpenCV build script for NVIDIA Jetson Nano
 https://github.com/mdegans/nano_build_opencv
+
+'Machine Learning Containers for Jetson and JetPack 4.4' 
+https://github.com/dusty-nv/jetson-containers
+
+### 'TensorRT-YOLOv4   ’
+https://github.com/CaoWGG/TensorRT-YOLOv4

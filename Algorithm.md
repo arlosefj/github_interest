@@ -25,6 +25,12 @@ https://mp.weixin.qq.com/s/fIRW0z-AMwFwsvC8hvYnYg
 ### 一位开发者将其在 2013-2018 年期间的信息学竞赛课件在 GitHub 上开源
 https://github.com/huzecong/oi-slides
 
+该仓库收集汇总了一些与算法竞赛、数据结构有关的课件、论文、书籍、网站、习题
+https://github.com/Xunzhuo/OI_Sharing
+
+一个关于Dirichlet Process和Chinese Restaurant Process简洁明了的介绍
+http://blog.datumbox.com/the-dirichlet-process-the-chinese-restaurant-process-and-other-representations/
+
 'Coding总结 - 面试高频算法题总结' 
 https://github.com/Making-It/Code
 

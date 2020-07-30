@@ -170,3 +170,12 @@ https://github.com/haiker2011/awesome-nlp-sentiment-analysis
 
 GPT2-Chinese - 中文的GPT2模型训练代码，基于Pytorch-Transformers，可以写诗，写新闻，写小说，或是训练通用语言模型等'
 https://github.com/Morizeyao/GPT2-Chinese
+
+【全栈Transformer库(训练、推理与服务)】’Full Stack Transformer - Pytorch library for end-to-end transformer models training, inference and serving'
+https://github.com/alexeykarnachev/full_stack_transformer
+
+【手把手：BERT入门到实战】《Bert: Step by step by Hugging face》
+https://medium.com/swlh/bert-step-by-step-b7ff47fcfbe
+
+'JioNLP - 简便中文NLP工具包' 
+https://github.com/dongrixinyu/JioNLP

@@ -549,3 +549,15 @@ https://mp.weixin.qq.com/s/uYJdlVIbgXAdg42zivZgkw
 
 【matplotlib绘图实例教程】
 https://colab.research.google.com/github/ageron/handson-ml2/blob/master/tools_matplotlib.ipynb
+
+用matplotlib制作动画柱状赛跑图
+https://github.com/dexplo/bar_chart_race
+
+【Python代码逐行性能分析器】
+https://github.com/pyutils/line_profiler
+
+德国的一名开发者 Patrick 近日在 Reddit 上公布了自己的网站：Python Engineer。里面汇总了他所制作的 Python 和机器学习相关的视频教程、学习资源、开源项目与技术文章。
+https://www.python-engineer.com/
+
+一款比较实用的 Python GUI 开源工具：PyDebloatX，可用于卸载 Windows 10 默认应用程序。
+https://github.com/Teraskull/PyDebloatX

@@ -492,3 +492,63 @@ https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf
 
 免费书：《因果推理原理：基础与学习算法》
 https://pan.baidu.com/s/1RzvyuVnMjSfRHKRKmNd0Yg
+
+【机器学习优质资源分类导航】“Topics · Made With ML” 
+https://madewithml.com/topics/
+
+【PyCaret：大幅简化代码的Python开源机器学习库，仅需少量代码，成倍提高实验效率】
+https://github.com/pycaret/pycaret
+
+'fitlog - 在深度学习训练中用于辅助用户记录日志和管理代码的工具'
+https://github.com/fastnlp/fitlog
+
+【损失条件训练多损失函数优化】《Optimizing Multiple Loss Functions with Loss-Conditional Training | Google AI Blog》
+https://ai.googleblog.com/2020/04/optimizing-multiple-loss-functions-with.html
+
+### MIT组织的这个机器学习讲座系列里的视频质量非常高
+https://mifods.mit.edu/
+
+【梯度流优化】《Effortless optimization through gradient flows》
+https://francisbach.com/gradient-flows/
+
+【直观解析ROC曲线】《Mechanics of the ROC Curve》
+https://towardsdatascience.com/mechanics-of-the-roc-curve-83b10ce3887f
+
+### 【机器学习代码完整性自查清单】《ML Code Completeness Checklist》
+https://github.com/paperswithcode/releasing-research-code
+
+Made With ML！该平台上提供了大量与机器学习相关的文章、教程、工具、开源项目等资源
+https://madewithml.com/
+
+【如何防止机器学习模型过拟合】《How to Prevent Overfitting in Machine Learning Models》
+https://medium.com/@sadmanks/how-to-prevent-overfitting-in-machine-learning-models-803f23bd9b8
+
+【端到端多标签分类】《End-to-End Multi-label Classification》
+https://medium.com/@matrixB/end-to-end-multi-label-classification-971dd09daf65
+
+【数据科学/机器学习该怎么学】《How to learn Data Science, Machine Learning and Artificial Intelligence》
+https://towardsdatascience.com/how-to-learn-data-science-machine-learning-aea34452dee7
+
+'Python for “Deep Learning”，《深度学习》(花书) 数学推导、原理剖析与源码级别代码实现' 
+https://github.com/MingchaoZhu/DeepLearning
+
+现代机器学习最重要的论文之一，发表快一年了——彩票假说(Lottery Ticket Hypothesis)改变了我们思考机器学习模型训练的方式
+https://medium.com/@jrodthoughts/one-of-the-most-important-papers-in-modern-machine-learning-was-published-almost-a-year-ago-e46c46255e78
+
+【《构建机器学习赋能的应用程序》随书代码】
+https://github.com/hundredblocks/ml-powered-applications
+
+北京大学的一名学生手写实现了李航老师《统计学习方法》书中的全部算法。
+https://github.com/Dod-o/Statistical-Learning-Method_Code
+
+一行命令搞定深度学习环境配置
+https://github.com/ufoym/deepo
+
+实例简析：过拟合与交叉验证
+https://towardsdatascience.com/an-example-of-overfitting-and-how-to-avoid-it-f6739e67f394
+
+den-SNE/densMAP密度保持数据可视化工具
+https://github.com/hhcho/densvis
+
+【微软推出Bonsai项目：面向工业系统的AI开发平台】
+https://blogs.microsoft.com/ai-for-business/build-bonsai-public-preview/

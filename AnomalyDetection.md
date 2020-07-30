@@ -62,3 +62,9 @@ https://github.com/yzhao062/Pyod
 
 【改进机器学习模型分布外异常检测】
 https://ai.googleblog.com/2019/12/improving-out-of-distribution-detection.html
+
+【表面缺陷检测文献集】’surface-defect-detection'
+https://github.com/Eatzhy/surface-defect-detection
+
+### 【深度主动学习道路缺陷检测】《Road defect detection using deep active learning》
+https://medium.com/pytorch/road-defect-detection-using-deep-active-learning-98d94fe854d

@@ -406,3 +406,24 @@ https://github.com/pytorch/serve
 
 【AutoTorch超参优化工具集】
 https://github.com/StacyYang/AutoTorch
+
+【PyTorch大模型支持】’PyTorch Large Model Support - Large Model Support in PyTorch'
+https://github.com/IBM/pytorch-large-model-support
+
+【PyTorch高性能数据加载/增广包】
+https://github.com/PhoenixDL/rising
+
+【PyTorch Zoo：PyTorch模块/程序集】
+https://github.com/bkkaggle/pytorch_zoo
+
+### 【PyTorch提速技巧集锦】’Some tricks of pytorch... 
+https://github.com/lartpang/PyTorchTricks
+
+【TorchSketch：基于PyTorch的自由手绘草图深度学习库】
+https://github.com/PengBoXiangShang/torchsketch
+
+ESTorch is an Evolution Strategy Library built around PyTorch.
+https://github.com/goktug97/estorch
+
+rectorch：PyTorch实现的最先进推荐算法
+https://github.com/makgyver/rectorch

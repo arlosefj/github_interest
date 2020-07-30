@@ -71,3 +71,9 @@ https://github.com/JiaxiongQ/DeepLiDAR
 
 DeepFactors: Real-Time Probabilistic Dense Monocular SLAM
 https://github.com/jczarnowski/DeepFactors https://www.arxiv-vanity.com/papers/2001.05049/
+
+【神经网络SLAM文献大列表】’Awesome-NN-SLAM - SLAM algorithms and systems based on Neural Networks.'
+https://github.com/UltronAI/awesome-nn-slam
+
+pySLAM v2 - pySLAM contains a monocular Visual Odometry (VO) pipeline in Python. It supports many modern local features based on Deep Learning.
+https://github.com/luigifreda/pyslam

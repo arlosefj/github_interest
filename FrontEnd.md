@@ -46,3 +46,6 @@ https://github.com/dli/paint
 
 公众号文章的排版真是让人头大，还好有这个微信公众号排版编辑器。便捷地把 Markdown 内容转换成微信特定的 HTML 内容，然后粘贴到公众号的编辑后台就完活了。虽然不是特别美观，但是节省了很多时间
 https://github.com/lyricat/wechat-format https://lab.lyric.im/wxformat/
+
+OpenCV directly in the browser (WebAssembly and webworker)
+https://aralroca.com/blog/opencv-in-the-web

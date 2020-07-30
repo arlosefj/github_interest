@@ -217,3 +217,21 @@ https://github.com/thu-spmi/CAT
 
 【音乐波形域音源分离】’Music Source Separation in the Waveform Domain - source separation in the waveform domain for music' 
 https://github.com/facebookresearch/demucs
+
+【Python实时音频频谱分析器】’Realtime_PyAudio_FFT - Realtime audio analysis in Python, using PyAudio and Numpy to extract and visualize FFT features from streaming audio.' 
+https://github.com/tr1pzz/Realtime_PyAudio_FFT
+
+Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis
+https://github.com/NVIDIA/flowtron 
+
+【文本语音合成(TTS)文献集】
+https://github.com/erogol/TTS-papers
+
+【CPU高性能实时文本语音合成系统】
+https://ai.facebook.com/blog/a-highly-efficient-real-time-text-to-speech-system-deployed-on-cpus/
+
+【TensorFlow 2 实现的文本语音合成】
+https://github.com/as-ideas/TransformerTTS
+
+【语音增强/语音分离/音源分离相关资源大列表】
+https://github.com/Wenzhe-Liu/awesome-speech-enhancement

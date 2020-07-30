@@ -37,6 +37,9 @@ https://github.com/thu-ml/tianshou
 AlphaZero算法的简单、快速实现
 https://github.com/jonathan-laurent/AlphaZero.jl
 
+### 【笨办法学《强化学习》(实现&习题等)】’understanding rl - self-studying the Sutton & Barto the hard way' 
+https://github.com/mtrazzi/rl-book-challenge
+
 Catalyst(PyTorch深度学习/强化学习研究框架)相关资源大列表
 https://github.com/catalyst-team/awesome-catalyst-list
 
@@ -105,3 +108,12 @@ https://github.com/datamllab/rlcard
 
 一个深度强化学习项目，研究如何让机器用画笔画画。也可体验制作自己的绘画或根据一张图片生成一整个绘画过程
 https://github.com/hzwer/ICCV2019-LearningToPaint
+
+深度强化学习基础——理论与Python实战
+https://github.com/kengz/SLM-Lab
+
+【《强化学习导论(第二版)》的Python实现】
+https://github.com/JaeDukSeo/reinforcement-learning-an-introduction
+
+【BigTransfer (BiT)：最先进的计算机视觉强化学习】《BigTransfer (BiT): State-of-the-art transfer learning for computer vision》
+https://blog.tensorflow.org/2020/05/bigtransfer-bit-state-of-art-transfer-learning-computer-vision.html

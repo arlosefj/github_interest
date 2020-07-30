@@ -61,3 +61,7 @@ https://arxiv.org/abs/1907.04595
 
 为什么机器学习模型在产品化过程中会退化？
 https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fwhy-machine-learning-models-degrade-in-production-d0f2108e9214
+
+
+### 【深度学习模型高效训练黑客指南】《A Hacker's Guide to Efficiently Train Deep Learning Models》
+https://medium.com/datadriveninvestor/a-hackers-guide-to-efficiently-train-deep-learning-models-b2cccbd1bc0a

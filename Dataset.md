@@ -20,6 +20,21 @@ https://blog.roboflow.ai/self-driving-car-dataset-missing-pedestrians/
 Holopix50k: A Large-Scale In-the-wild Stereo Image Dataset
 https://github.com/leiainc/holopix50k
 
+【微软最新开放研究工具/数据集锦】
+https://www.microsoft.com/en-us/research/blog/research-collection-tools-and-data-to-advance-the-state-of-the-art/
+
+Manga109：面向多媒体应用的漫画标注数据集，包括109本日本漫画，对文字框、话语文字、人脸和人身进行了标注《Building a Manga Dataset "Manga109" with Annotations for Multimedia Applications》(2020)
+https://www.arxiv-vanity.com/papers/2005.04425/
+
+### Mapillary街景级序列数据集：超过160万张图片，横跨六大洲30个主要城市，所有图像标注了序列信息、GPS地理定位及罗盘角信息
+https://www.mapillary.com/dataset/places
+
+【Yoga-82：(瑜伽🧘‍♀️)人体姿态细粒度分类数据集】
+https://arxiv.org/abs/2004.10362
+
+《The AVA-Kinetics Localized Human Actions Video Dataset》
+https://www.arxiv-vanity.com/papers/2005.00214/
+
 【创建自定义COCO目标检测数据集】'How to create custom COCO data set for object detection' 
 https://github.com/Tony607/voc2coco
 

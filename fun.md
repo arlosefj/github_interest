@@ -157,3 +157,6 @@ https://waifu.lofiu.com/index.zh.html
 
 人像卡通化 (Photo to Cartoon)探索
 https://github.com/minivision-ai/photo2cartoon
+
+【目光/注视估计/检测相关工作大列表】’Awesome Work on Gaze Estimation' 
+https://github.com/cvlab-uob/Awesome-Gaze-Estimation

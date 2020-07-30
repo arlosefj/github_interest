@@ -31,9 +31,17 @@ https://lyhue1991.github.io/eat_tensorflow2_in_30_days/ https://github.com/lyhue
 (TensorFlow)机器学习交互示例集
 https://research.google.com/seedbank/
 
+【Keras调试技巧(官方)】《Keras Debugging Tips》
+https://keras.io/examples/keras_recipes/debugging_tips/
+
+《Fine-tuning ResNet with Keras, TensorFlow, and Deep Learning | PyImageSearch》
+https://www.pyimagesearch.com/2020/04/27/fine-tuning-resnet-with-keras-tensorflow-and-deep-learning/
+
 Self-training with Noisy Student improves ImageNet classification
 https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet
 
+Keras(官方)开发者指南&示例集锦
+https://github.com/keras-team/keras-io https://keras.io/guides/ https://keras.io/examples/
 
 Tensorflow公平性评价、可视化工具集】
 https://github.com/tensorflow/fairness-indicators

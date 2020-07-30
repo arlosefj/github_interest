@@ -435,3 +435,21 @@ https://github.com/alankbi/detecto
 
 《YOLOv4: Optimal Speed and Accuracy of Object Detection》
 https://github.com/AlexeyAB/darknet
+
+【YOLOv4的PyTorch最小化实现】’Pytorch-YOLOv4 - Minimal PyTorch implementation of YOLOv4' 
+https://github.com/Tianxiaomo/pytorch-YOLOv4
+
+### 目标检测简介：Yolov3, MobileNetv3 & EfficientDet
+https://github.com/imadelh/Object-Detection_MobileNetv3-EfficientDet-YOLO
+
+### 基于记忆增强的全局-局部整合网络（MEGA），只增加非常小的计算开销，就能让视频物体检测器的性能up
+https://weibo.com/ttarticle/p/show?id=2309404508895014945128 https://github.com/Scalsol/mega.pytorch​​​​ https://arxiv.org/abs/2003.12063
+
+【MantisShrimp：面向应用的目标检测框架】
+https://github.com/lgvaz/mantisshrimp
+
+《Poly-YOLO: higher speed, more precise detection and instance segmentation for YOLOv3》
+https://gitlab.com/irafm-ai/poly-yolo
+
+End-to-End Object Detection with Transformers
+https://github.com/facebookresearch/detr

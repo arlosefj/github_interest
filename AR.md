@@ -41,3 +41,15 @@ https://github.com/StanfordVL/iGibson
 
 Keep It Real: a Window to Real Reality in Virtual Reality
 https://github.com/doerlbh/V2R
+
+### 【AR人脸涂鸦(Tensorflow.js/FaceMesh/Three.js)】
+https://github.com/cyrildiagne/ar-facedoodle https://cyrildiagne.github.io/ar-facedoodle/
+
+【可见即可拷：#AR#版拷贝粘贴】'AR Cut & Paste - Cut and paste your surroundings using AR' 
+https://github.com/cyrildiagne/ar-cutpaste
+
+AR Copy Paste - Text Proto
+https://github.com/cyrildiagne/ar-cptext
+
+【AR.js：轻量网页增强现实库】’AR.js - Augmented Reality on the Web - Image tracking, Location Based AR, Marker tracking. All on the Web.' 
+https://github.com/AR-js-org/AR.js

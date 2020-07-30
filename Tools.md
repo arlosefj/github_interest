@@ -371,3 +371,12 @@ https://github.com/phodal/techlead
 
 移动设备想要访问位于局域网中的某个特定设备上搭建的服务，需要通过代理服务器来实现，针对不同操作系统搭建代理服务器有不同的软件，如果系统是 OS X 的话，可以使用 Charles，对于 Windows，可以使用大名鼎鼎的 Fiddler ，可视化软件的使用这里不详述，本文重点讲述在 Unix/Linux 上使用 Squid 来搭建代理服务器。
 https://blogread.cn/it/article/8018?f=wb_blogread
+
+YApi 是 api 管理平台，免费开源，可以自己部署到内网
+https://github.com/YMFE/yapi
+
+【图标设计师着色好帮手：基于结构/颜色条件的图标对抗着色】
+https://github.com/jxcodetw/Adversarial-Colorization-Of-Icons-Based-On-Structure-And-Color-Conditions
+
+'spiderman - 基于scrapy-redis的通用分布式爬虫框架' 
+https://github.com/TurboWay/spiderman

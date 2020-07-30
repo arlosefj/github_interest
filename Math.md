@@ -33,3 +33,6 @@ https://github.com/facebookresearch/SymbolicMathematics
 
 【免费书稿《概率地编程：数据科学世界入门》】’Programming Probabilistically: An introduction to the world of data science' 
 https://github.com/EricSchles/datascience_book
+
+【Manim数学动画制作教程】’Elteoremadebeethoven - Animation course with Manim' 
+https://github.com/Elteoremadebeethoven/AnimationsWithManim

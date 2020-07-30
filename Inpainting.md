@@ -10,6 +10,11 @@ https://arxiv.org/abs/1804.07723
 A modified reimplemented in pytorch of inpainting model in Free-Form Image Inpainting with Gated Convolution [http://jiahuiyu.com/deepfill2/]
 https://github.com/avalonstrel/GatedConvolution_pytorch
 
+Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting
+https://www.arxiv-vanity.com/papers/2005.09704/
+
+High-Resolution Image Inpainting with Iterative Confidence Feedback and Guided Upsampling
+https://zengxianyu.github.io/iic/
 
 EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning
 https://github.com/knazeri/edge-connect

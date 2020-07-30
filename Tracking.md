@@ -161,3 +161,12 @@ https://github.com/xingyizhou/CenterTrack
 
 ### 【PyTorch多目标跟踪库】’A Library of Multi-Object Tracking in Python and Pytorch' 
 https://github.com/nightmaredimple/libmot
+
+OpenTPOD：无痛对象检测开放工具包，非专家可以用它来创建定制的深度神经网络对象检测器
+https://github.com/cmusatyalab/OpenTPOD
+
+### Deep SORT and YOLO v4 for people tracking and detection with Tensorflow backend
+https://github.com/LeonLok/Deep-SORT-YOLOv4
+
+《TAO: A Large-Scale Benchmark for Tracking Any Object》
+https://www.arxiv-vanity.com/papers/2005.10356/

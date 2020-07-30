@@ -160,3 +160,9 @@ https://github.com/eambutu/snail-pytorch
 
 Translate images to unseen domains in the test time with few example images. https://nvlabs.github.io/FUNIT/
 https://github.com/NVlabs/FUNIT
+
+【少样本学习文献列表】’Few-Shot Papers - This repository contains few-shot learning (FSL) papers mentioned in our FSL survey.'
+https://github.com/tata1661/FewShotPapers
+
+【Meta-Dataset：面向少样本学习的数据集】《Announcing Meta-Dataset: A Dataset of Datasets for Few-Shot Learning | Google AI Blog》
+https://ai.googleblog.com/2020/05/announcing-meta-dataset-dataset-of.html

@@ -618,3 +618,30 @@ https://github.com/LingDong-/skeleton-tracing
 
 SIFT简洁明了的Python实现
 https://github.com/rmislam/PythonSIFT
+
+PyTorch图像检索工具箱 PyRetri
+https://github.com/PyRetri/PyRetri
+
+'ScreenPoint - Project an image centroid to another image using OpenCV'
+https://github.com/cyrildiagne/screenpoint
+
+一文讲解图像插值算法原理！附Python实现！
+https://mp.weixin.qq.com/s/EFJEhFAVXRmfrDysVAGeQw
+
+Visual Perception Model for Rapid and Adaptive Low-light Image Enhancement
+https://github.com/MDLW/Low-Light-Image-Enhancement https://www.arxiv-vanity.com/papers/2005.07343/
+
+【线稿自动着色】’Automatic Line Art Colorization - Automatic line art colorization using various types of hint or without hint' 
+https://github.com/SerialLain3170/Colorization
+
+Attention-based network for low-light image enhancement
+https://www.arxiv-vanity.com/papers/2005.09829/
+
+【Facebook将最新CV技术用于提供购物新体验】《Powered by AI: Advancing product understanding and building new shopping experiences》
+https://ai.facebook.com/blog/powered-by-ai-advancing-product-understanding-and-building-new-shopping-experiences
+
+*《Instance-aware Image Colorization》
+https://github.com/ericsujw/InstColorization
+
+《Efficient Pig Counting in Crowds with Keypoints Tracking and Spatial-aware Temporal Response Filtering》
+https://www.arxiv-vanity.com/papers/2005.13131/

@@ -501,3 +501,31 @@ https://github.com/Cold-Winter/BachGAN
 
 计算机视觉中的GANs——有条件图像/目标生成
 https://theaisummer.com/gan-computer-vision/ https://theaisummer.com/gan-computer-vision-object-generation/
+
+### 【StarGAN v2官方实现 & 动物脸数据集】’StarGAN v2 - Official PyTorch Implementation (CVPR 2020)' 
+https://github.com/clovaai/stargan-v2
+
+### 文本转手写的转化工具
+https://github.com/saurabhdaware/text-to-handwriting https://saurabhdaware.github.io/text-to-handwriting/
+
+Generating Sequences With Recurrent Neural Networks
+https://github.com/sjvasquez/handwriting-synthesis https://seanvasquez.com/handwriting-generation/ https://arxiv.org/abs/1308.0850
+
+
+### 【GAN训练过程可视化】’Visualization of GAN training process' 
+https://github.com/EvgenyKashin/gan-vis
+
+【用DCGAN生成手写数字图像(Keras)】《How to Generate Images of Handwritten Digits using DCGAN》
+https://morioh.com/p/28fd0b611e09
+
+### 【StyleGAN演示网页】’stylegan-web - A web porting for NVlabs' StyleGAN.'
+https://github.com/k-l-lambda/stylegan-web
+
+生成式对抗网络（GAN, Generative Adversarial Networks ）是一种深度学习模型，是近年来复杂分布上无监督学习最具前景的方法之一。模型通过框架中（至少）两个模块：生成模型（Generative Model）和判别模型（Discriminative Model）的互相博弈学习产生相当好的输出。原始 GAN 理论中，并不要求 G 和 D 都是神经网络，只需要是能拟合相应生成和判别的函数即可。但实用中一般均使用深度神经网络作为 G 和 D 。一个优秀的GAN应用需要有良好的训练方法，否则可能由于神经网络模型的自由性而导致输出不理想。
+https://www.aminer.cn/search/pub?q=Generative%20Adversarial%20Networks
+
+### 《CIAGAN: Conditional Identity Anonymization Generative Adversarial Networks》
+https://github.com/dvl-tum/ciagan
+
+### 【预训练StyleGAN模型合集】’Awesome Pretrained StyleGAN - A collection of pre-trained StyleGAN models to download'
+https://github.com/justinpinkney/awesome-pretrained-stylegan

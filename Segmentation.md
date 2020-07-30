@@ -630,3 +630,24 @@ https://github.com/feipan664/IntraDA
 
 Footprints and Free Space from a Single Color Image
 https://github.com/nianticlabs/footprints
+
+Correlating Edge, Pose with Parsing
+https://github.com/ziwei-zh/CorrPM
+
+### U^2-Net显著目标检测/背景抠图
+https://github.com/NathanUA/U-2-Net
+
+Improving Semantic Segmentation via Self-Training
+https://www.arxiv-vanity.com/papers/2004.14960/
+
+【图像标签单级语义分割】’Single-Stage Semantic Segmentation from Image Labels (CVPR 2020)' 
+https://github.com/visinf/1-stage-wseg
+
+【图像分割2020最新进展】《Image segmentation in 2020》
+https://towardsdatascience.com/image-segmentation-in-2020-756b77fa88fc
+
+【PixelLib：图像语义分割/实例分割库】’PixelLib - a library for performing segmentation of images'
+https://github.com/ayoolaolafenwa/PixelLib https://medium.com/@olafenwaayoola/image-segmentation-with-six-lines-0f-code-acb870a462e8
+
+【EfficientPS：高性能全景分割】《EfficientPS: Efficient Panoptic Segmentation》
+https://github.com/DeepSceneSeg/EfficientPS

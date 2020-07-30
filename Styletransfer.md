@@ -87,3 +87,9 @@ https://github.com/jamriska/ebsynth
 
 对抗鲁棒分类器神经网络画风迁移
 https://reiinakano.com/2019/06/21/robust-neural-style-transfer.html
+
+【用vanilla SGD代替L-BFGS重写的Keras神经网络画风迁移】
+https://colab.research.google.com/drive/1H-lNMxVF9NPME6oZVphFRoi7yglJMZxP
+
+Anime4KCPP：动漫类图像超分辨率Anime4K算法的C++高效实现
+https://github.com/TianZerL/Anime4KCPP

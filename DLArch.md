@@ -16,6 +16,9 @@ https://github.com/MegEngine/Hub
 A Gluon implementation of Mnasnet
 https://github.com/chinakook/Mnasnet.MXNet
 
+浅谈GNN：能力与局限
+https://www.aminer.cn/research_report/5ea26452ab6e30e67b2c865f?download=false
+
 A Gluon implement of MobileNetV3
 https://github.com/AmigoCDT/MXNet-MobileNetV3
 

@@ -463,3 +463,21 @@ https://github.com/WenmuZhou/OCR_DataSet
 
 nhyai: AI智能审查，支持色情识别、暴恐识别、语言识别、敏感文字检测和视频检测等功能，以及各种OCR识别能力
 https://github.com/shuishang/nhyai
+
+'PaddleOCR - 基于飞桨的OCR工具库，包含总模型仅8.6M的超轻量级中文OCR，单模型支持中英文数字组合识别、竖排文本识别、长文本识别。同时支持多种文本检测、文本识别的训练算法' 
+https://github.com/PaddlePaddle/PaddleOCR
+
+### PytorchOCR - 基于Pytorch的OCR工具库，支持常用的文字检测和识别算法
+https://github.com/WenmuZhou/PytorchOCR
+
+【OCR/文字检测/字体识别数据生成工具】
+https://github.com/BboyHanat/TextGenerator
+
+【TextShot：截屏直接拷贝图片中的文字内容】
+https://github.com/ianzhao05/textshot
+
+【在截屏图片里用OCR发现敏感信息的检测工具】
+https://github.com/utkusen/shotlooter
+
+【Tesseract OCR文本定位与检测】
+https://www.pyimagesearch.com/2020/05/25/tesseract-ocr-text-localization-and-detection/

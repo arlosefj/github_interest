@@ -370,8 +370,14 @@ https://github.com/Star-Clouds/FRDA
 【BlazeFace人脸检测】’BlazeFace in Python - The BlazeFace face detector model implemented in PyTorch'
 https://github.com/hollance/BlazeFace-PyTorch
 
+darknet_face_with_landmark - 加入关键点的darknet训练框架，用yolov3实现了轻量级人脸检测'
+https://github.com/ouyanghuiyu/darknet_face_with_landmark
+
 ### 基于摄像头的注视跟踪
 https://github.com/antoinelame/GazeTracking
+
+### WWWW(是谁-在哪-和谁)：基于人脸识别的图像数据收集和图分析
+https://github.com/lorenzoromani1983/wwww
 
 【ESRGAN人脸超分辨率】’Face-Super-Resolution - Face super resolution based on ESRGAN'
 https://github.com/ewrfcas/Face-Super-Resolution
@@ -381,3 +387,15 @@ https://github.com/danmohaha/DSP-FWA
 
 ### SeetaFace开放版人脸识别引擎，包含人脸识别、活体检测、属性识别、质量评估模块
 https://github.com/seetafaceengine/SeetaFace6
+
+### 【面向边缘设备的轻量人脸检测模块】’Center face - Lightweight-face-detection-CenterNet' 
+https://github.com/nvlong21/Lightweight-face-detection-CenterNet
+
+【JavaScript/WebGL人脸跟踪/表情合成库】’JavaScript/WebGL library to detect and reproduce facial expressions.'
+https://github.com/jeeliz/jeelizWeboji
+
+### DeepFaceLab: A simple, flexible and extensible face swapping framework
+https://github.com/iperov/DeepFaceLab/
+
+'RetinaFace (RetinaFace: Single-stage Dense Face Localisation in the Wild, published in 2019) implemented (ResNet50, MobileNetV2 trained on single GPU) in Tensorflow 2.0+' 
+https://github.com/peteryuX/retinaface-tf2

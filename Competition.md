@@ -16,6 +16,9 @@ https://github.com/Smilexuhc/Data-Competition-TopSolution
 Kaggle座头鲸识别比赛入门包(w/ FastAi )
 https://github.com/radekosmulski/whale
 
+室内房间布局估计和室外街景平面检测
+https://holistic-3d.github.io/eccv20/challenge.html
+
 非均衡数据集分类(Colab)：Kaggle信用卡欺诈数据集实例
 https://colab.research.google.com/drive/1xL2jSdY-MGlN60gGuSH_L30P7kxxwUfM
 
@@ -28,6 +31,12 @@ https://towardsdatascience.com/how-to-begin-competing-on-kaggle-bd9b5f32dbbc
 Kaggle比赛常胜将军Owen Zhang的技巧分享《Tips for data science competitions》，非常实用
 https://www.slideshare.net/OwenZhang2/tips-for-data-science-competitions
 https://www.youtube.com/watch?v=LgLcfZjNF44
+
+Kaggle新赛：用图像分析识别麦穗
+https://www.kaggle.com/c/global-wheat-Detection
+
+【2020 AI城市挑战赛优胜团队代码】
+https://github.com/NVIDIAAICITYCHALLENGE/2020AICITY_Code_From_Top_Teams
 
 ### Kaggle新赛：钢铁缺陷检测
 https://www.kaggle.com/c/severstal-steel-defect-detection
