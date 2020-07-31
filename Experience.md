@@ -65,3 +65,6 @@ https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascienc
 
 ### 【深度学习模型高效训练黑客指南】《A Hacker's Guide to Efficiently Train Deep Learning Models》
 https://medium.com/datadriveninvestor/a-hackers-guide-to-efficiently-train-deep-learning-models-b2cccbd1bc0a
+
+【如何扩展深度网络的能力】《How to trick deep learning algorithms into doing new things | TechTalks》
+https://bdtechtalks.com/2020/07/20/black-box-adversarial-reprogramming/

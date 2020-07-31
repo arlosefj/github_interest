@@ -49,3 +49,15 @@ https://github.com/lyricat/wechat-format https://lab.lyric.im/wxformat/
 
 OpenCV directly in the browser (WebAssembly and webworker)
 https://aralroca.com/blog/opencv-in-the-web
+
+vue-admin-beautiful：同时支持电脑，手机，平板的前端开发框架
+https://github.com/chuzhixin/vue-admin-beautiful
+
+【tractjs：浏览器里的ONNX/TensorFlow推理库(JS)】
+https://github.com/bminixhofer/tractjs
+
+【用ONNX.js在浏览器里运行PyTorch模型(示例)】
+https://github.com/elliotwaite/pytorch-to-javascript-with-onnx-js
+
+用 TensorFlow.js实现浏览器里的RefineNet实时实例语义分割
+https://github.com/hugozanini/realtime-semantic-segmentation

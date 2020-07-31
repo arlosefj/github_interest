@@ -68,3 +68,18 @@ https://github.com/Eatzhy/surface-defect-detection
 
 ### 【深度主动学习道路缺陷检测】《Road defect detection using deep active learning》
 https://medium.com/pytorch/road-defect-detection-using-deep-active-learning-98d94fe854d
+
+Rethinking Assumptions in Deep Anomaly Detection
+https://github.com/lukasruff/Classification-AD
+
+【PyAnomaly：PyTorch异常检测工具包】
+https://github.com/YuhaoCheng/PyAnomaly
+
+【PyODDS：端到端异常检测包】’PyODDS - An End-to-end Outlier Detection System' 
+https://github.com/datamllab/PyODDS
+
+### '天池广东工业智能大赛布匹瑕疵检测第二名方案' 
+https://github.com/cizhenshi/TianchiGuangdong2019_2th
+
+OD-test: A Less Biased Evaluation of Out-of-Distribution (Outlier) Detectors (PyTorch)
+https://github.com/ashafaei/OD-test

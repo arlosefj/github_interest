@@ -170,3 +170,42 @@ https://github.com/LeonLok/Deep-SORT-YOLOv4
 
 《TAO: A Large-Scale Benchmark for Tracking Any Object》
 https://www.arxiv-vanity.com/papers/2005.10356/
+
+### 'SiamTrackers - The PyTorch version of Siamese ，SiamFC，SiamRPN，DaSiamRPN，UpdateNet，SiamDW，SiamRPN++, SiamMask，and SiamFC++' 
+https://github.com/HonglinChu/SiamTrackers
+
+长期视觉追踪资源集合】’Long-term Visual Tracking' 
+https://github.com/wangdongdut/Long-term-Visual-Tracking
+
+### 【MCMOT：单阶段实时多类别多目标跟踪】
+https://github.com/CaptainEven/MCMOT
+
+Online-Visual-Tracking-SOTA - ‘the state-of-the-art performance for the short-term tracking task
+https://github.com/wangdongdut/Online-Visual-Tracking-SOTA
+
+Simultaneous object detection and tracking using center points.
+https://github.com/xingyizhou/CenterTrack
+
+Siam R-CNN two-stage re-detector for visual object tracking
+https://github.com/VisualComputingInstitute/SiamR-CNN
+
+A simple baseline for one-shot multi-object tracking
+https://github.com/ifzhang/FairMOT
+
+SiamCAR: Siamese Fully Convolutional Classification and Regression for Visual Tracking (CVPR 2020, Oral)
+https://github.com/ohhhyeahhh/SiamCAR
+
+Unofficial PyTorch implementation of "Learning a Neural Solver for Multiple Object Tracking"
+https://github.com/selflein/GraphNN-Multi-Object-Tracking
+
+Siamese Box Adaptive Network for Visual Tracking
+https://github.com/hqucv/siamban
+
+Official implementation of paper: TubeTK: Adopting Tubes to Track Multi-Object in a One-Step Training Model (CVPR 2020 oral)
+https://github.com/BoPang1996/TubeTK
+
+The official implementation of FCOT using PyTorch.
+https://github.com/MCG-NJU/FCOT
+
+Learning a Neural Solver for Multiple Object Tracking
+https://github.com/dvl-tum/mot_neural_solver

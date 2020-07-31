@@ -53,3 +53,9 @@ https://github.com/cyrildiagne/ar-cptext
 
 【AR.js：轻量网页增强现实库】’AR.js - Augmented Reality on the Web - Image tracking, Location Based AR, Marker tracking. All on the Web.' 
 https://github.com/AR-js-org/AR.js
+
+Simple demo of WebXR and Deep Learning using Tensorflow to create holograms on-the-fly.
+https://github.com/nosy-b/holography
+
+Snap的AR形象创建工具Lens Studio 3.0集成SnapML可方便调用机器学习模型，实现画风迁移、目标检测、地面分割等
+https://lensstudio.snapchat.com/news/introducing-lens-studio-3-0/

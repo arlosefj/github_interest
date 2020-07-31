@@ -235,3 +235,84 @@ https://github.com/as-ideas/TransformerTTS
 
 【语音增强/语音分离/音源分离相关资源大列表】
 https://github.com/Wenzhe-Liu/awesome-speech-enhancement
+
+【AudioMass：全功能网页版音频/波形编辑工具
+https://github.com/pkalogiros/AudioMass
+
+【CTC端到端语音识别&语料库】’CTC-based Automatic Speech Recogniton - CTC end -to-end ASR for timit and 863 corpus.' 
+https://github.com/Diamondfan/CTC_pytorch
+
+【TensorflowTTS：Tensorflow 2实现的最先进实时语音合成】
+https://github.com/dathudeptrai/TensorflowTTS
+
+【audio：面向语音行为检测、二值化、说话人识别、自动语音识别、情感识别等任务的音频标注工具】
+https://github.com/midas-research/audino
+
+【深度学习语音端点检测】
+https://github.com/filippogiruzzi/voice_activity_detection
+
+【用Kaldi快速训练语音识别系统】
+https://github.com/JRMeyer/easy-kaldi
+
+从一首歌的mp3中分离得到人声、谱子、各种乐器等，转化成符号表示
+https://github.com/deezer/spleeter
+
+'aukit - 语音处理工具箱，包含语音降噪、音频格式转换、特征频谱生成等模块'
+https://github.com/KuangDD/aukit
+
+【Keras示例：说话人识别】《Speaker Recognition》
+https://keras.io/examples/audio/speaker_recognition_using_cnn/
+
+基于RNN-Transducer的在线语音识别系统
+https://github.com/theblackcat102/Online-Speech-Recognition
+
+### 'TacotronV2 + WaveRNN - tacotronV2 + wavernn 实现中文语音合成(Tensorflow + pytorch)'
+https://github.com/lturing/tacotronv2_wavernn_chinese
+
+【miniaudio：C语言单文件音频回放/采集库】
+https://github.com/dr-soft/miniaudio https://github.com/irmen/pyminiaudio
+
+【TiramisuASR：用Tensorflow 2实现的语音识别引擎】
+https://github.com/usimarit/TiramisuASR
+
+A PyTorch implementation of dual-path RNNs (DPRNNs) based speech separation described in "Dual-path RNN: efficient long sequence modeling for time-domain single-channel speech separation".
+https://github.com/ShiZiqiang/dual-path-RNNs-DPRNNs-based-speech-separation
+
+Zero-Shot Multi-Speaker Text-To-Speech with State-of-the-art Neural Speaker Embeddings
+https://github.com/nii-yamagishilab/multi-speaker-tacotron
+
+Code repo for ICME 2020 paper "Style-Conditioned Music Generation". VAE model that allows style-conditioned music generation.
+https://github.com/daQuincy/DeepMusicvStyle
+
+streaming attention networks for end-to-end automatic speech recognition
+https://github.com/HaoranMiao/streaming-attention
+
+[InterSpeech 2020] "AutoSpeech: Neural Architecture Search for Speaker Recognition" 
+https://github.com/TAMU-VITA/AutoSpeech
+
+Pytorch implementation of sparse_image_warp and an example of GoogleBrain's SpecAugment is given: A Simple Data Augmentation Method for Automatic Speech Recognition
+https://github.com/bobchennan/sparse_image_warp_pytorch
+
+A Generative Flow for Text-to-Speech via Monotonic Alignment Search
+https://github.com/jaywalnut310/glow-tts
+
+DeCoAR (self-supervised contextual representations for speech recognition)
+https://github.com/awslabs/speech-representations
+
+A pytorch implementation of the EATS: End-to-End Adversarial Text-to-Speech
+https://github.com/yanggeng1995/EATS
+
+Companion repository for the paper "A Comparison of Metric Learning Loss Functions for End-to-End Speaker Verification"
+https://github.com/juanmc2005/SpeakerEmbeddingLossComparison
+
+Melody extraction using joint detection and classification network
+https://github.com/keums/melodyExtraction_JDC
+
+Implementation of the AlignTTS
+https://github.com/Deepest-Project/AlignTTS
+
+An implementation of Microsoft's "FastSpeech 2: Fast and High-Quality End-to-End Text to Speech"
+https://github.com/ming024/FastSpeech2
+
+It's an naive implementation of Multi-band MelGAN: Faster Waveform Generation for High-Quality Text-to-Speech.
+https://github.com/AppleHolic/multiband_melgan

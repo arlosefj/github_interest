@@ -350,3 +350,51 @@ https://github.com/daerduoCarey/partnet_dataset
 
 Info and sample codes for "NTU RGB+D Action Recognition Dataset"
 https://github.com/shahroudy/NTURGB-D
+
+### 【无人机检测/跟踪图像/视频数据集】
+https://github.com/VisDrone/VisDrone-Dataset
+
+「Bald Classification Dataset」的秃头分类数据集，里面包含了 20 多万张图像，共 1.3 G
+https://www.kaggle.com/ashishjangra27/bald-classification-200k-images-celeba/version/1
+
+【DocBank：文档布局分析基准数据集】
+https://github.com/doc-analysis/DocBank
+
+【MSeg：多域语义分割复合数据集】《MSeg: A Composite Dataset for Multi-domain Semantic Segmentation》
+https://github.com/mseg-dataset
+
+RarePlanes：面向飞机检测的真实+合成的卫星遥感图像数据集
+https://github.com/aireveries/RarePlanes
+
+【MetFaces Dataset：艺术作品人脸数据集】
+https://github.com/NVlabs/metfaces-dataset
+
+【3D人/场景互动数据集】
+https://github.com/ZheC/GTA-IM-Dataset
+
+【整体大规模视频理解数据集】“Holistic Video Understanding Dataset” 
+https://github.com/holistic-video-understanding/HVU-Dataset
+
+VGG-Sound视听多模态数据集：从YouTube视频中提取的带有音频的小短片
+https://github.com/hche11/VGGSound
+
+zhvoice: Chinese voice corpus. 中文语音语料，语音更加清晰自然，包含8个开源数据集，3200个说话人，900小时语音，1300万字。
+https://github.com/KuangDD/zhvoice
+
+【DriveSeg：动态驾驶场景分割数据集】
+https://agelab.mit.edu/driveseg
+
+清理版MS-Celeb-1M人脸库
+https://github.com/EB-Dodo/C-MS-Celeb
+
+(CVonline)视觉/图像数据集大列表
+http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm
+
+VoxConverse视听说话人分散数据集：从YouTube视频中提取的，由超过50小时的多说话人语音片段组成(说话人分散(Speaker diarisation)指根据说话人身份将输入音/视频流分段的过程
+http://www.robots.ox.ac.uk/~vgg/data/voxconverse/
+
+DanbooRegion: An Illustration Region Dataset (ECCV 2020)
+https://github.com/lllyasviel/DanbooRegion
+
+FineGym: A Hierarchical Video Dataset for Fine-grained Action Understanding
+https://github.com/SDOlivia/FineGym

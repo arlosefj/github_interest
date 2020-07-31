@@ -36,3 +36,6 @@ https://pan.baidu.com/s/1P9EuDv69sfcUvZka7xg49A
 
 深度学习主动学习概览
 https://jacobgil.github.io/deeplearning/activelearning
+
+【Continuum：简洁的持续学习库
+https://github.com/Continvvm/continuum

@@ -16,6 +16,27 @@ https://github.com/Smilexuhc/Data-Competition-TopSolution
 Kaggle座头鲸识别比赛入门包(w/ FastAi )
 https://github.com/radekosmulski/whale
 
+【Kaggle新赛：Google地标识别挑战2020】
+https://www.kaggle.com/c/landmark-recognition-2020/overview
+
+【Kaggle Deepfake检测比赛第二名方案】
+https://github.com/cuihaoleo/kaggle-dfdc
+
+Kaggle Deepfake检测比赛第三名方案
+https://github.com/NTech-Lab/deepfake-detection-challenge
+
+【Kaggle换脸检测比赛第五名方案】
+https://github.com/jphdotam/DFDC
+
+【Deepfake检测挑战总结】
+https://ai.facebook.com/blog/deepfake-detection-challenge-results-an-open-initiative-to-advance-ai/
+
+【Waymo开放数据集挑战2D检测与追踪比赛第三名方案】’Baseline for 2D Object Detection and Tracking: Cascade R-CNN X152 and SORT - 3rd place solution of Waymo open dataset challenge 2D tracking track' 
+https://github.com/xuyuan/waymo_2d_tracking
+
+### 【国内有奖金的视觉比赛(大列表)】
+https://github.com/greathope/CV_Competitions
+
 室内房间布局估计和室外街景平面检测
 https://holistic-3d.github.io/eccv20/challenge.html
 

@@ -222,3 +222,24 @@ https://lonelygo.gitbook.io/shift-ai-models-to-real-world-products/
 
 算法工程师面试题整理'
 https://github.com/PPshrimpGo/AIinterview
+
+'算法模板 - 刷题的套路模板'
+https://github.com/greyireland/algorithm-pattern
+
+《经典动态规划：戳气球问题》
+https://mp.weixin.qq.com/s/WkjVO1jlBJpghM6Usseg7A
+
+【演示各种图求解算法优缺点的交互可视化器】
+https://github.com/Walker-TW/Algorithm-Visualizer
+
+'和小浩学算法 - 包括：三十万字图解算法题典、100 张编程类超清晰思维导图、100 篇大厂面经汇总等’
+https://github.com/geekxh/hello-algorithm
+
+关于哈希表，你该了解这些
+https://mp.weixin.qq.com/s/P-tP7jPz8EwWEk1nFwyBTw
+
+'LeetcodeTop：汇总互联网公司技术岗考察leetcode题目的热度，帮同学们更加有针对性地准备面试' 
+https://github.com/afatcoder/LeetcodeTop
+
+'算法理论基础知识应知应会(面试题汇总)’
+https://github.com/sladesha/Reflection_Summary

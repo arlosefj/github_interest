@@ -13,6 +13,9 @@ https://github.com/Pattio/DeepSwarm
 【MegEngine预训练模型库】’MegEngine Model Hub - 基于旷视研究院领先的深度学习算法，提供满足多业务场景的预训练模型' 
 https://github.com/MegEngine/Hub
 
+ptgnn：微软开源的PyTorch图神经网络库
+https://github.com/microsoft/ptgnn
+
 A Gluon implementation of Mnasnet
 https://github.com/chinakook/Mnasnet.MXNet
 
@@ -24,6 +27,9 @@ https://github.com/AmigoCDT/MXNet-MobileNetV3
 
 Simple Self Attention Layer (SimpleSelfAttention)
 https://github.com/sdoria/SimpleSelfAttention
+
+【Graph U-Nets的PyTorch实现】
+https://github.com/HongyangGao/Graph-U-Nets
 
 MobileNetV3, PyTorch, pretrained model, on ImageNet 1K, detailed training processing.
 https://github.com/PengBoXiangShang/MobileNetV3_PyTorch
@@ -325,3 +331,45 @@ https://github.com/thunlp/GNNPapers
 
 A PyTorch implementation of "Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks" (KDD 2019).
 https://github.com/benedekrozemberczki/ClusterGCN
+
+高分辨率网络(HRNet)：视觉识别通用神经网络架构
+https://www.microsoft.com/en-us/research/blog/high-resolution-network-a-universal-neural-architecture-for-visual-recognition/
+
+【nlpgnn：图神经网络自然语言处理工具箱
+https://github.com/kyzhouhzau/NLPGNN
+
+【DeepSNAP：图深度学习辅助库，用于连接图处理库和深度学习框架】
+https://github.com/snap-stanford/deepsnap
+
+'GNN_Review - GNN综述阅读报告，涵盖多篇GNN方面的论文' 
+https://github.com/LYuhang/GNN_Review
+
+OpenNE-Pytorch：开源网络嵌入工具包
+https://mp.weixin.qq.com/s/61FTg6WZOmyPgRNVjLYfxg https://github.com/thunlp/OpenNE/tree/pytorch
+
+AAAI 2020. Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting
+https://github.com/Davidham3/STSGCN
+
+ "Improved Residual Networks for Image and Video Recognition" 
+ https://github.com/iduta/iresnet
+
+ Associating Multi-Scale Receptive Fields for Fine-grained Recognition
+ https://github.com/FouriYe/CNL-ICIP2020
+
+ Official repository for the "Big Transfer (BiT): General Visual Representation Learning" paper.
+ https://github.com/google-research/big_transfer
+
+ Reference implementation for Blueprint Separable Convolutions (CVPR 2020)
+ https://github.com/zeiss-microscopy/BSConv
+
+ Neural Architecture Transfer (Arxiv'20), PyTorch Implementation
+ https://github.com/human-analysis/neural-architecture-transfer
+
+ The code for Robust Line Segments Matching via Graph Convolution Networks
+ https://github.com/mameng1/GraphLineMatching
+
+ Code for paper "Learning Semantically Enhanced Feature for Fine-grained Image Classification"
+ https://github.com/cswluo/SEF
+
+ Dynamic Group Convolution for Accelerating Convolutional Neural Networks (ECCV 2020)
+ https://github.com/zhuogege1943/dgc

@@ -445,6 +445,9 @@ https://github.com/chonyy/AI-basketball-analysis
 ### 【带医用口罩的人脸识别】'Broutonlab face recognition with medical masks' 
 https://github.com/broutonlab/face-id-with-medical-masks
 
+【OpenCV/Tensorflow/Keras口罩检测】
+https://github.com/chandrikadeb7/Face-Mask-Detection
+
 【用PyTorch Lightning实现口罩检测器】《How I built a Face Mask Detector for COVID-19 using PyTorch Lightning》
 https://towardsdatascience.com/how-i-built-a-face-mask-detector-for-covid-19-using-pytorch-lightning-67eb3752fd61
 
@@ -456,3 +459,72 @@ https://github.com/yuliangguo/3D_Lane_Synthetic_Dataset https://arxiv.org/abs/20
 
 OpenCV实现的实时“阿凡达”特效(First Order Motion Model)
 https://github.com/anandpawara/Real_Time_Image_Animation
+
+### 【一行代码实现数据集可视化】
+https://github.com/AutoViML/AutoViz https://towardsdatascience.com/autoviz-a-new-tool-for-automated-visualization-ec9c1744a6ad
+
+【Auto Painter的web demo代码】
+https://github.com/irfanICMLL/Auto_painter_demo
+
+【用脸玩的贪吃蛇】
+https://github.com/paruby/snake-face
+
+### 【AlphaVideo：PyTorch视频理解工具箱(多目标追踪/行为识别)】
+https://github.com/Alpha-Video/AlphaVideo
+
+【迁移学习动物类密集姿态估计】
+https://github.com/facebookresearch/detectron2 https://research.fb.com/publications/transferring-dense-pose-to-proximal-animal-classes/ 
+
+### ThreeDPoseTracker：让现实照进二次元
+https://qiita.com/yukihiko_a/items/43d09db5628334789fab https://github.com/digital-standard/ThreeDPoseTracker
+
+【TengineKit：免费手机端人脸212特征点实时标定】' TengineKit - Free RealTime Face Landmarks 212 Points For Mobile' 
+https://github.com/OAID/TengineKit
+
+'静默活体检测 (Silent-Face-Anti-Spoofing)' 
+https://github.com/minivision-ai/Silent-Face-Anti-Spoofing
+
+【(OpenCV/Numpy)用手势控制赛车游戏】’ChoudharyChanchal - using openCV and Numpy libraries of Python to control a racing game with the steering wheel'
+https://github.com/ChoudharyChanchal/game_control
+
+### 微软的 AI Lab 项目 AI Lab helps our large fast-growing community of developers get started on AI. You can experience, learn and code the latest and greatest innovations from Microsoft AI here. AI Lab currently houses eight projects that showcase the latest in custom vision, attnGAN, Visual Studio tools for AI, Cognitive Search, Machine Reading Comprehension and more. Each lab gives you access to the experimentation playground, source code on GitHub, a crisp developer-friendly video, and insights into the underlying developer/ organizational challenge and solution.
+1. 微软数学：基于 OCR 技术从学生笔记中快速提取数学方程式，并提供解题步骤与相识问题
+2. 明星脸匹配：基于深度神经网络（DNN）模型和必应图库自动完成明星脸的相似度匹配
+3. Sketch2Code：可将白板上的手写图形快速转化为可运行的 HTML 代码，帮助设计、开发人员提升与客户间的协作效率
+https://github.com/microsoft/ailab
+
+### 【摄像头实时数独求解器】“Solves sudoku in a real time webcam feed” 
+https://github.com/Adityaojas/sudoku-solver
+
+【在Google街景里“漫步”】“Virtual walks in Google Street View” 
+https://github.com/Moving-AI/virtual-walk
+
+【计算机视觉预训练模型集合(Tensorflow/Keras/PyTorch/Caffe/MXNet)】
+https://github.com/balavenkatesh3322/CV-pretrained-model
+
+【做手势控制游戏(OpenCV)】’Gesture Gaming using OpenCV' 
+https://github.com/gnana1997/Gesture-Gaming-using-OpenCV
+
+### Lane Detection in Low-light Conditions Using an Efficient Data Enhancement : Light Conditions Style Transfer (IV 2020)
+https://github.com/Chenzhaowei13/Light-Condition-Style-Transfer
+
+key points estimation and point instance segmentation approach for lane detection
+https://github.com/koyeongmin/PINet
+
+Ultra Fast Structure-aware Deep Lane Detection (ECCV 2020)
+https://github.com/cfzd/Ultra-Fast-Lane-Detection
+
+### IJCAI-2020 Real-World Automatic Makeup via Identity Preservation Makeup Net
+https://github.com/huangzhikun1995/IPM-Net
+
+BeautyGAN: Instance-level Facial Makeup Transfer with Deep Generative Adversarial Network
+https://github.com/Honlan/BeautyGAN
+
+Talking With Hands 16.2M: A Large-Scale Dataset of Synchronized Body-Finger Motion and Audio for Conversational Motion Analysis and Synthesis .
+https://github.com/facebookresearch/TalkingWithHands32M
+
+### Semi-supervised learning for object detection
+https://github.com/google-research/ssl_detection
+
+### Official implementation for "CP-VTON+: Clothing Shape and Texture Preserving Image-Based Virtual Try-On" from CVPRW 2020.
+https://github.com/minar09/cp-vton-plus

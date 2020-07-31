@@ -114,3 +114,29 @@ Catalin Pit：如何学习新的编程技能？
 2、在尽量少的帮助下，重建这些应用。
 3、复习学到的概念。
 4、用学到的概念创建新应用。 ​​​​
+
+【神经网络结构设计/可视化工具大列表】
+https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network
+
+【用小例子深入浅出机器学习/数学基本概念】
+https://github.com/ovysotska/in_simple_english
+
+【计算机视觉最佳实践、代码示例和相关文档】
+https://github.com/microsoft/computervision-recipes
+
+你真的懂softmax吗？
+https://ogunlao.github.io/2020/04/26/you_dont_really_know_softmax.html
+
+Catalin Pit：项目 比 教程 强得多；做 比 看 强得多；主动学习 比 被动学习 强得多。 ​​​​
+
+ConvNetJS 是一个 Javascript 的神经网络实现，自带基于浏览器的 demo
+https://github.com/karpathy/convnetjs
+
+【手把手从头实现神经网络(w/数学原理)】
+https://medium.com/towards-artificial-intelligence/building-neural-networks-from-scratch-with-python-code-and-math-in-detail-i-536fae5d7bbf
+
+【迁移学习让深度学习“零门槛”】《Everyone can use deep learning now》
+https://towardsdatascience.com/everyone-can-use-deep-learning-now-8d683f92bce7
+
+### 【Visual Machine Learning：机器学习交互可视化Demo集锦】
+https://github.com/dsgiitr/VisualML

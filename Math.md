@@ -36,3 +36,9 @@ https://github.com/EricSchles/datascience_book
 
 【Manim数学动画制作教程】’Elteoremadebeethoven - Animation course with Manim' 
 https://github.com/Elteoremadebeethoven/AnimationsWithManim
+
+'manim中文教程,' 
+https://github.com/cai-hust/manim-tutorial-CN
+
+【1800页33章数学方法精要笔记——深入数学建模， 机器学习和深度学习的数学基础】
+https://github.com/yangyutu/EssentialMath

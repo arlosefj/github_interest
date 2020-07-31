@@ -43,3 +43,21 @@ https://github.com/familyld/DeepCF
 
 ### Differentiable Mask-Matching Network for Video Object Segmentation (ICCV 2019)
 https://github.com/ZENGXH/DMM_Net
+
+【(Keras)相似图像搜索度量学习】
+https://keras.io/examples/vision/metric_learning/
+
+RPM-Net: Robust Point Matching using Learned Features (CVPR2020)
+https://github.com/yewzijian/RPMNet
+
+SuperGlue: Learning Feature Matching with Graph Neural Networks (CVPR 2020, Oral)
+https://github.com/magicleap/SuperGluePretrainedNetwork
+
+Official MXNet implementation of "Embedding Expansion: Augmentation in Embedding Space for Deep Metric Learning" (CVPR 2020)
+https://github.com/clovaai/embedding-expansion
+
+Neural Similarity Learning
+https://github.com/wy1iu/NSL
+
+Unofficial PyTorch implementation of "FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence"
+https://github.com/valencebond/FixMatch_pytorch

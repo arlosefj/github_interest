@@ -239,3 +239,33 @@ https://github.com/mks0601/TF-SimpleHumanPose
 
 OpenPose's Unity Plugin for Unity users 
 https://github.com/CMU-Perceptual-Computing-Lab/openpose_unity_plugin
+
+【PyTorch实现的ShelfNet人体姿态估计】
+https://github.com/fmahoudeau/ShelfNet-Human-Pose-Estimation
+
+《Making DensePose fast and light》
+https://github.com/zetyquickly/DensePoseFnL
+
+Learning Delicate Local Representations for Multi-Person Pose Estimation
+https://github.com/caiyuanhao1998/RSN
+
+This is an official implementation of our CVPR 2020 paper "HigherHRNet: Scale-Aware Representation Learning for Bottom-Up Human Pose Estimation"
+https://github.com/HRNet/HigherHRNet-Human-Pose-Estimation
+
+Source code of CVPR 2020 paper, "HOPE-Net: A Graph-based Model for Hand-Object Pose Estimation"
+https://github.com/bardiadoosti/HOPE
+
+Epipolar Transformers (CVPR 2020)
+https://github.com/yihui-he/epipolar-transformers
+
+An end-to-end library for editing and rendering motion of 3D characters with deep learning [SIGGRAPH 2020]
+https://github.com/DeepMotionEditing/deep-motion-editing
+
+This is an official pytorch implementation of “Bottom-Up Human Pose Estimation by Ranking Heatmap-Guided Adaptive Keypoint Estimates” (https://arxiv.org/abs/2006.15480).
+https://github.com/HRNet/HRNet-Bottom-Up-Pose-Estimation
+
+This is the official repo for ECCV2020 paper "Whole-Body Human Pose Estimation in the Wild". 
+https://github.com/jin-s13/COCO-WholeBody
+
+The Devil is in the Details: Delving into Unbiased Data Processing for Human Pose Estimation
+https://github.com/HuangJunJie2017/UDP-Pose

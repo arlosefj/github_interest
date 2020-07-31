@@ -167,3 +167,54 @@ https://github.com/amiaopensource/ffmprovisr
 
 【开源点对点视频通话方案】’Peer Calls v4 - Group peer to peer video calls for everyone written in Go and TypeScript' 
 https://github.com/peer-calls/peer-calls
+
+【video-loops：光流法自动生成无缝循环小动画】
+https://github.com/luluxxxxx/video-loops
+
+### 【Decord：面向深度学习的视频高效加载器】
+https://github.com/dmlc/decord
+
+S3D MIL-NCE 文本视频检索实例
+https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/text_to_video_retrieval_with_s3d_milnce.ipynb
+
+《Latent Video Transformer》
+https://github.com/rakhimovv/lvt
+
+RepNet：视频重复次数计数
+https://openaccess.thecvf.com/content_CVPR_2020/papers/Dwibedi_Counting_Out_Time_Class_Agnostic_Video_Repetition_Counting_in_the_CVPR_2020_paper.pdf https://www.bilibili.com/video/BV1qA411i74v?p=42
+
+【Gifcurry：用Haskell写的开源视频编辑GIF生成器】’Gifcurry - open-source, Haskell-built video editor for GIF makers' 
+https://github.com/lettier/gifcurry https://lettier.github.io/gifcurry/
+
+用 ffmpeg 加速视频 （2 倍）
+ffmpeg -i KETU_1594888661.zip.mp4 -filter_complex "[0:v]setpts=0.5*PTS[v];[0:a]atempo=2.0[a]" -map "[v]" -map "[a]" output.mp4
+
+【用深度学习/PyTorch (-lightning)做视频预测】
+https://towardsdatascience.com/video-prediction-using-convlstm-with-pytorch-lightning-27b195fd21a2
+
+### 【Quick Cut：轻量、强大、好用的视频处理软件，功能包括压缩视频、转码视频、倒放视频、合并片段、根据字幕裁切片段、自动配字幕、自动剪辑……】
+https://github.com/HaujetZhao/QuickCut
+
+BIN (Blurry Video Frame Interpolation)
+https://github.com/laomao0/BIN
+
+This is a reference implementation of the softmax splatting operator, which has been proposed in Softmax Splatting for Video Frame Interpolation
+https://github.com/sniklaus/softmax-splatting
+
+Source code for AAAI 2020 paper "Channel Attention Is All You Need for Video Frame Interpolation"
+https://github.com/myungsub/CAIN
+
+The repository is an official implementation of our CVPR2020 paper : Cascaded Deep Video Deblurring Using Temporal Sharpness Prior
+https://github.com/csbhr/CDVD-TSP
+
+A state-of-the-art Video Frame Interpolation Method using feature flows blending. （CVPR 2020)
+https://github.com/CM-BF/FeatureFlow
+
+[CVPR2020] "Detecting Attended Visual Targets in Video"
+https://github.com/ejcgt/attention-target-detection
+
+Tensorflow 2 implementation of Super Slo Mo paper
+https://github.com/Riccorl/Super-SloMo-tf2
+
+### FastDVDnet: A Very Fast Deep Video Denoising algorithm
+https://github.com/m-tassano/fastdvdnet

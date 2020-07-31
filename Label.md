@@ -41,6 +41,9 @@ https://mp.weixin.qq.com/s/Q56xdUaRLEMBUq8wiUrkyA
 UltimateLabeling：集成最新检测/跟踪算法的多用途视频标注工具
 https://github.com/alexandre01/UltimateLabeling
 
+### 【在Jupyter notebook里快速进行数据标注】
+https://github.com/dennisbakhuis/pigeonXT
+
 图像标记(标注)工具VIA
 https://gitlab.com/vgg/via/
 
@@ -167,3 +170,9 @@ https://github.com/mingx9527/Data_Label_Tools
 图像标记(标注)工具VIA
 新版本支持图像、音频和视频的手工标注。VIA在浏览器中运行，无需安装配置。
 https://gitlab.com/vgg/via/
+
+【标注工具推荐：面向视觉的 Make Sense 和面向文本的 Doccano 和 INCEpTION】
+https://machinelearningtokyo.com/2020/06/04/annotation-tools-for-computer-vision-and-nlp/
+
+【NLP标注平台综述】
+https://github.com/alvations/annotate-questionnaire

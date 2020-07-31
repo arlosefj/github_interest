@@ -651,3 +651,183 @@ https://github.com/ayoolaolafenwa/PixelLib https://medium.com/@olafenwaayoola/im
 
 【EfficientPS：高性能全景分割】《EfficientPS: Efficient Panoptic Segmentation》
 https://github.com/DeepSceneSeg/EfficientPS
+
+【Google Coral人体分割模块】
+https://github.com/google-coral/project-bodypix
+
+【参考图像分割文献/资源列表】
+https://github.com/MarkMoHR/Awesome-Referring-Image-Segmentation
+
+### 【PointRend：用经典渲染技术实现最先进的图像分割】
+https://github.com/facebookresearch/detectron2/tree/master/projects/PointRend
+
+【多尺度Attention语义分割】
+https://developer.nvidia.com/blog/using-multi-scale-attention-for-semantic-segmentation/
+
+### 【视频对象跟踪和分割工具包】
+https://github.com/researchmm/TracKit
+
+'DeepLabv3Plus-Pytorch - DeepLabV3 and DeepLabV3+ with MobileNetv2 and ResNet backbones for Pytorch.'
+https://github.com/VainF/DeepLabV3Plus-Pytorch
+
+### Video Object Segmentation with Episodic Graph Memory Networks
+https://github.com/carrierlxk/GraphMemVOS https://www.arxiv-vanity.com/papers/2007.07020/
+
+### 《SegFix: Model-Agnostic Boundary Refinement for Segmentation》
+https://github.com/openseg-group/openseg.pytorch
+
+《基于深度学习的图像分割在高德的实践》
+https://yqh.aliyun.com/detail/15920?utm_content=g_1000154176
+
+【计图语义分割模型库】'segmentation-jittor - jittor segmentation lib' 
+https://github.com/Jittor/segmentation-jittor
+
+【用Keras实现深度学习中的一些语义分割模型】
+https://github.com/BBuf/Keras-Semantic-Segmentation
+
+《Unsupervised Learning of Image Segmentation Based on Differentiable Feature Clustering》
+https://github.com/kanezaki/pytorch-unsupervised-segmentation-tip/
+
+### Collaborative Video Object Segmentation by Foreground-Background Integration》
+https://github.com/z-x-yang/CFBI https://www.arxiv-vanity.com/papers/2003.08333/
+
+### 《SipMask: Spatial Information Preservation for Fast Image and Video Instance Segmentation》
+https://github.com/JialeCao001/SipMask
+
+### 【用Dash, scikit-image, scikit-learn实现交互式可训练的图像分割】
+https://github.com/plotly/dash-sample-apps/tree/master/apps/dash-image-segmentation
+
+Attention-Guided Hierarchical Structure Aggregation for Image Matting
+https://github.com/wukaoliu/CVPR2020-HAttMatting
+
+### On the Texture Bias for Few-Shot CNN Segmentation
+https://github.com/rezazad68/fewshot-segmentation
+
+HANet is an add-on module for urban-scene segmentation to exploit the structural priors existing in urban-scene
+https://github.com/shachoi/HANet
+
+code for CVPR 2020 paper: Learning Video Object Segmentation from Unlabeled Videos
+https://github.com/carrierlxk/MuG
+
+Learning Dynamic Routing for Semantic Segmentation
+https://github.com/yanwei-li/DynamicRouting
+
+YOLACT: Real-time Instance Segmentation on the FCOS detector (without bbox cropping), achives 35.2mAP on coco val
+https://github.com/Epiphqny/Yolact_fcos
+
+Unofficial implementation for SOLO instance segmentation
+https://github.com/Liusifei/SOLO_beta
+
+[CVPR‘20] SpixelFCN: Superpixel Segmentation with Fully Convolutional Network
+https://github.com/fuy34/superpixel_fcn
+
+Official repository for the paper F, B, Alpha Matting.
+https://github.com/MarcoForte/FBA_Matting
+
+Conditional Convolutions for Instance Segmentation, achives 37.1mAP on coco val
+https://github.com/Epiphqny/CondInst
+
+BUDA: Boundless Unsupervised Domain Adaptation in Semantic Segmentation
+https://github.com/valeoai/BUDA
+
+Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation, CVPR 2020 (Oral)
+https://github.com/YudeWang/SEAM
+
+Learning to Segment the Tail
+https://github.com/JoyHuYY1412/LST_LVIS
+
+Code accompanying the paper Learning Fast and Robust Target Models for Video Object Segmentation
+https://github.com/andr345/frtm-vos
+
+a transductive approach for video object segmentation
+https://github.com/microsoft/transductive-vos.pytorch
+
+D3S - Discriminative Single Shot Segmentation Tracker 
+https://github.com/alanlukezic/d3s
+
+An Official Repo of CVPR '20 "MSeg: A Composite Dataset for Multi-Domain Segmentation"
+https://github.com/mseg-dataset/mseg-api
+
+Complete-IoU (CIoU) Loss and Cluster-NMS for Object Detection and Instance Segmentation (YOLACT)
+https://github.com/Zzh-tju/CIoU
+
+[CVPR2020] CascadePSP: Toward Class-Agnostic and Very High-Resolution Segmentation via Global and Local Refinement
+https://github.com/hkchengrex/CascadePSP
+
+Semi-supevised Semantic Segmentation with High- and Low-level Consistency
+https://github.com/sud0301/semisup-semseg
+
+Temporally Distributed Networks for Fast Video Semantic Segmentation
+https://github.com/feinanshan/TDNet
+
+Super-BPD: Super Boundary-to-Pixel Direction for Fast Image Segmentation (CVPR 2020)
+https://github.com/JianqiangWan/Super-BPD
+
+A Late Fusion CNN for Digital Matting
+https://github.com/yunkezhang/FusionMatting
+
+Coarse to Fine Vertebrae Localization and Segmentation with SpatialConfiguration-Net and U-Net
+https://github.com/christianpayer/MedicalDataAugmentationTool-VerSe
+
+Fast Soft Color Segmentation
+https://github.com/pfnet-research/FSCS
+
+An Official Repo of CVPR '20 "MSeg: A Composite Dataset for Multi-Domain Segmentation"
+https://github.com/mseg-dataset/mseg-semantic
+
+This is Pytorch re-implementation of our CVPR 2020 paper "Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation"
+https://github.com/bowenc0221/panoptic-deeplab
+
+This code is an official implementation of "D2Det: Towards High Quality Object Detection and Instance Segmentation (CVPR2020)" 
+https://github.com/JialeCao001/D2Det
+
+Official pytorch implementation for "Video Panoptic Segmentation" (CVPR 2020 Oral)
+https://github.com/mcahny/vps
+
+Learning Saliency Propagation for Semi-supervised Instance Segmentation
+https://github.com/ucbdrive/ShapeProp
+
+Instance Shadow Detection (CVPR 2020)
+https://github.com/stevewongv/InstanceShadowDetection
+
+### Modeling the Background for Incremental Learning in Semantic Segmentation
+https://github.com/fcdl94/MiB
+
+Official re-implementation of the Calibrated Adversarial Refinement model described in the paper "Calibrated Adversarial Refinement for Multimodal Semantic Segmentation"
+https://github.com/EliasKassapis/CARMSS
+
+### Getting to 99% Accuracy in Interactive Segmentation and Interactive Training and Architecture for Deep Object Selection
+https://github.com/MarcoForte/DeepInteractiveSegmentation
+
+SOLO and SOLOv2 for instance segmentation.
+https://github.com/WXinlong/SOLO
+
+Unofficial tensorflow implementation of real-time scene image segmentation model "BiSeNet V2: Bilateral Network with Guided Aggregation for Real-time Semantic Segmentation"
+https://github.com/MaybeShewill-CV/bisenetv2-tensorflow
+
+Real-Time Panoptic Segmentation from Dense Detections
+https://github.com/TRI-ML/realtime_panoptic
+
+PointTrack(ECCV2020 ORAL): Segment as Points for Efficient Online Multi-Object Tracking and Segmentation
+https://github.com/detectRecog/PointTrack
+
+Semi-Supervised Semantic Image Segmentation With Self-Correcting Networks. Mostafa S. Ibrahim, Arash Vahdat, Mani Ranjbar, William G. Macready. IEEE Computer Vision and Pattern Recognition 2020
+https://github.com/mostafa-saad/segment-correction-net
+
+Differential Treatment for Stuff and Things: A Simple Unsupervised Domain Adaptation Method for Semantic Segmentation
+https://github.com/SHI-Labs/Unsupervised-Domain-Adaptation-with-Differential-Treatment
+
+Official repository for Hierarchical Opacity Propagation for Image Matting
+https://github.com/Yaoyi-Li/HOP-Matting
+
+This is the pytorch implementation of the CVPR2020 paper "Memory aggregation networks for efficient interactive video object segmentation".
+https://github.com/lightas/CVPR2020_MANet
+
+SipMask: Spatial Information Preservation for Fast Image and Video Instance Segmentation (ECCV2020)
+https://github.com/JialeCao001/SipMask
+
+Semi-supervised semantic segmentation needs strong, varied perturbations
+https://github.com/Britefury/cutmix-semisup-seg
+
+Learning Integral Objects with Intra-Class Discriminator for Weakly-Supervised Semantic Segmentation
+https://github.com/js-fan/ICD

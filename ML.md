@@ -552,3 +552,124 @@ https://github.com/hhcho/densvis
 
 【微软推出Bonsai项目：面向工业系统的AI开发平台】
 https://blogs.microsoft.com/ai-for-business/build-bonsai-public-preview/
+
+【应用机器学习线性代数Python实战入门】《Introduction to Linear Algebra for Applied Machine Learning with Python》
+https://pabloinsente.github.io/intro-linear-algebra
+
+【星形聚类算法】
+https://github.com/josephius/star-clustering
+
+【机器学习“飞行手册”】’Flight Rules for Machine Learning - A guide for astronauts (now, people doing machine learning) about what to do when things go wrong.'
+https://github.com/bkkaggle/machine-learning-flight-rules
+
+【Reverb：面向机器学习研究设计的高效易用的数据存储和传输系统】
+https://github.com/deepmind/reverb
+
+【机器学习的”七宗罪”：影响机器学习可信度的七个常见错误】《The Seven Sins of Machine Learning - Towards Data Science》
+https://towardsdatascience.com/the-seven-sins-of-machine-learning-54dbf63fd71d
+
+【视觉/语言任务预处理方法分析】《Analyzing pretraining approaches for vision and language tasks》
+https://github.com/facebookresearch/mmf/tree/master/projects/pretrain_vl_right
+
+【2020机器学习工程师技术路线图】
+https://github.com/chris-chris/ml-engineer-roadmap
+
+【Submarine：云原生机器学习平台】
+https://github.com/apache/submarine
+
+【LabML：PyTorch机器学习实验组织更新库】
+https://github.com/lab-ml/labml
+
+【机器学习算法实例入门】
+https://medium.com/towards-artificial-intelligence/machine-learning-algorithms-for-beginners-with-python-code-examples-ml-19c6afd60daa
+
+【统计检验实践指南】
+https://github.com/marnikitta/stattests https://medium.com/@vktech/practitioners-guide-to-statistical-tests-ed2d580ef04f
+
+【用于包装、部署模型的机器学习工具包】'BentoML - an open-source platform for high-performance machine learning model serving' 
+https://github.com/bentoml/BentoML
+
+【优秀期刊推荐：机器学习基础与趋势】《Foundations and Trends® in Machine Learning》
+https://www.nowpublishers.com/MAL
+
+NeoML：端到端机器学习框架，用于构建、训练和部署机器学习模型，支持超过100种层类型的神经网络和20+种传统机器学习算法，支持CPU/GPU
+https://github.com/neoml-lib/neoml
+
+浅谈为什么L2正则化有效
+https://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650414054&idx=5&sn=97d6a4e780dd1b3a67fdbdc94d8e821a&v_p=82&WBAPIAnalysisOriUICodes=10000001&launchid=10000365--x&wm=3333_2001&aid=01AqqH81ztmhYksgMY-LlLzIKVJrvyH6eOULNkkN2WGVj-VUM.&from=10A6093010
+
+A Tutorial on VAEs: From Bayes' Rule to Lossless Compression
+https://github.com/ronaldiscool/VAETutorial
+
+【用PyCaret和Streamlit构建和部署机器学习网页应用】《Build and deploy machine learning web app using PyCaret and Streamlit》
+https://towardsdatascience.com/build-and-deploy-machine-learning-web-app-using-pycaret-and-streamlit-28883a569104
+
+ELM Python实现链接
+https://towardsdatascience.com/build-an-extreme-learning-machine-in-python-91d1e8958599 https://github.com/dclambert/Python-ELM
+
+从数据中学习》这本书是一本浅显易懂的机器学习理论知识的入门教材。对于机器学习感兴趣的工程师和希望在理论知识上更进一步的数据科学家可以通过本书来快速了解机器学习的核心思想，也就是“学习理论”（Learning Theory）的重要结论。本书的三位作者都来自学术界。全书书写通畅，公式和理论推导也很基础，适合自学的初学者
+http://column.hongliangjie.com/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0,%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0,%E6%95%99%E6%9D%90/2020/06/25/learning-from-data/
+
+基于sklearn的便捷机器学习库fastML使用指南
+https://towardsdatascience.com/the-fastml-guide-9ada1bb761cf
+
+【AI方向好用的科研工具列表】
+https://github.com/bighuang624/AI-research-tools
+
+【Lightwood：基于Pytorch的机器学习模块化框架】
+https://github.com/mindsdb/lightwood
+
+【SVM数学原理解析】《Supporting the Math Behind Supporting Vector Machines!》
+https://medium.com/@dakshtrehan/supporting-the-math-behind-supporting-vector-machines-d46e94b23b9d
+
+【通过Kaggle入门NumPy&Panda】
+https://medium.com/@mistrynirav123/getting-started-with-numpy-and-panda-using-kaggle-e2b4cc74147f
+
+快速找到最新AI技术的模型/代码/API
+https://www.catalyzex.com/
+
+【ForestFlow：策略驱动机器学习模型服务器
+https://github.com/ForestFlow/ForestFlow
+
+Papers With Code的机器学习分类方法库
+https://paperswithcode.com/methods
+
+【CML：机器学习项目持续集成与交付(CI/CD)库】
+https://github.com/iterative/cml
+
+收集了各种语言实现的机器学习开源工具
+https://github.com/josephmisiti/awesome-machine-learning
+
+【(Keras)EfficientNet微调图像分类】《Image classification via fine-tuning with EfficientNet》
+https://keras.io/examples/vision/image_classification_efficientnet_fine_tuning/
+
+比较实用的机器学习项目汇总清单：Awesome production machine learning。
+https://github.com/EthicalML/awesome-production-machine-learning
+
+【机器学习数据集加载器】'Machine learning dataset loaders
+https://github.com/explosion/ml-datasets
+
+《高级机器学习》所有课件和参考文献
+https://www.aminer.cn/aml
+
+【基于对比聚类的高性能自监督图像分类】
+https://github.com/facebookresearch/swav
+
+【长尾识别相关文献/代码大列表】
+https://github.com/zwzhang121/Awesome-of-Long-Tailed-Recognition
+
+【《机器学习设计模式》随书代码】
+https://github.com/GoogleCloudPlatform/ml-design-patterns
+
+‘《机器学习理论导引》（宝箱书）的证明、案例、概念补充与参考文献讲解' 
+https://github.com/datawhalechina/key-book
+
+Maximum Likelihood Estimation(MLE) 极大似然估计
+https://mp.weixin.qq.com/s/5KU58YMVjb0uJbETGhialw
+
+
+Code for Paper ''Dual Student: Breaking the Limits of the Teacher in Semi-Supervised Learning'' (ICCV 2019)
+https://github.com/ZHKKKe/DualStudent
+
+This repository provides the code for replicating the experiments in the paper "Building One-Shot Semi-supervised (BOSS) Learning up to Fully Supervised Performance"
+https://github.com/lnsmith54/BOSS

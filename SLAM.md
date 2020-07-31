@@ -77,3 +77,18 @@ https://github.com/UltronAI/awesome-nn-slam
 
 pySLAM v2 - pySLAM contains a monocular Visual Odometry (VO) pipeline in Python. It supports many modern local features based on Deep Learning.
 https://github.com/luigifreda/pyslam
+
+【ORB-SLAM3：视觉、视觉惯性和多地图高精度开源SLAM系统】
+https://github.com/UZ-SLAMLab/ORB_SLAM3
+
+Pytorch code for ICLR-20 Paper "Learning to Explore using Active Neural SLAM"
+https://github.com/devendrachaplot/Neural-SLAM
+
+VDO-SLAM: A Visual Dynamic Object-aware SLAM System
+https://github.com/halajun/VDO_SLAM
+
+ORB-SLAM2 map saving and loading for closed circuit localization
+https://github.com/TUMFTM/orbslam-map-saving-extension
+
+This repository is the official implementation of Beyond the Nav-Graph: Vision-and-Language Navigation in Continuous Environments.
+https://github.com/jacobkrantz/VLN-CE

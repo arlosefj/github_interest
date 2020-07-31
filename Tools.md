@@ -380,3 +380,121 @@ https://github.com/jxcodetw/Adversarial-Colorization-Of-Icons-Based-On-Structure
 
 'spiderman - 基于scrapy-redis的通用分布式爬虫框架' 
 https://github.com/TurboWay/spiderman
+
+'GitHub520 - 😘让你“爱”上 GitHub，解决访问时图裂、加载慢的问题' 
+https://github.com/521xueweihan/GitHub520
+
+CopyTranslator。 你只需将文本复制到剪贴板，即可快速查看翻译结果，享受所见即所得的快感。在对翻译结果的处理上，还会帮你解决多余的断句和换行所带来的乱码问题，使其更符合阅读习惯。
+https://github.com/CopyTranslator/CopyTranslator/
+
+【SAD!："现代"版sed工具，批量文件编辑、查找/替换】
+https://github.com/ms-jpq/sad
+
+Python 爬虫，可用于爬取用户公开的微博数据
+https://github.com/dataabc/weiboSpider
+
+国家地理信息公共服务平台
+这是由国家基础地理信息中心建设的、一手的、原汁原味的地理信息综合服务平台，我们平时常用的地图网页、地图APP等商用地图，有不少都是基于这个平台的接口进行二次开发，再呈现给用户的。
+https://www.tianditu.gov.cn/
+
+【arxiv2kindle：将arxiv论文重编译为适合Kindle阅读的版本】
+https://github.com/dmitriy-serdyuk/arxiv2kindle
+
+几个比较实用的命令行界面工具。
+    fish shell：易于使用，对初学者友好的 Shell；
+    starship：好用的命令行提示工具，无需设置；
+    z：快速跳转到文件系统；
+    fzf：通用模糊搜索；
+    fd：类似 find，但更好用；
+    ripgrep：类似 grep，但更好用；
+    htop 和 glances：系统监控工具；
+    virtualenv 和 virtualfish：Python 虚拟环境管理；
+    pyenv, nodenv 和 rbenv：管理不同版本的 Python，Node 和 Ruby；
+    pipx：在隔离的环境中安装 Python 软件包；
+    ctop 和 lazydocker：Docker 监控工具；
+    homebrew：macOS 软件包管理器；
+    asciinema：记录终端会话；
+    colordiff 和 diff-so-fancy：类似 diff，但配色丰富；
+    tree：用于显示文件夹的内容；
+    bat：类似 cat，但更好用；
+    httpie：类似 curl，但更好用；
+    tldr：简化版 "man pages"；
+    exa：类似 ls，但更好用；
+    litecli 和 pgcli：类似 sqlite3、psql，但更好用；
+    mas：App Store 的命令行界面工具；
+    ncdu：磁盘使用率分析器。
+
+### 【Foam：基于VS Code和GitHub的个人知识管理/分享系统】
+https://github.com/foambubble/foam/
+
+【HonKit：从GitHub/Git和Markdown编译成书】
+https://github.com/honkit/honkit
+
+【AutoNormalize：Python数据集自动标准化库】
+https://github.com/FeatureLabs/autonormalize
+
+【Super Productivity：跨平台效率工具，用于待办清单管理、时间跟踪、个人Jira任务管理等】
+https://github.com/johannesjo/super-productivity
+
+【命令行磁盘空间浏览工具】
+https://github.com/imsnif/diskonaut
+
+【Synfig Studio：免费开源跨平台2D动画软件】
+https://github.com/synfig/synfig
+
+通过 ffmpeg 去除音频中的静音部分
+https://ffmpeg.org/ffmpeg-filters.html#silenceremove https://stackoverflow.com/questions/25697596/using-ffmpeg-with-silencedetect-to-remove-audio-silence/29411973#29411973
+
+超级实用的在线视频处理工具：unscreen。其最大亮点，就是能帮你快速移除视频背景！
+https://www.unscreen.com/ https://www.remove.bg/zh
+
+'MrDoc觅道文档 - 基于Python开发的在线文档系统，适合作为个人和小型团队的文档、笔记、知识管理工具' 
+https://github.com/zmister2016/MrDoc
+
+aseprite 像素动画编辑器
+https://github.com/aseprite/aseprite
+
+【知识管理相关资源大列表】
+https://github.com/brettkromkamp/awesome-knowledge-management
+
+### 可以根据关键字搜索电影和电视剧片段的搜索引擎
+https://getyarn.io/ https://youglish.com/
+
+比较实用的 Linux 系统监控与优化工具：Stacer。其主要核心功能如下：
+- 功能丰富，易于使用；
+- 管理启动应用程序；
+- 清理日志系统和清空回收站；
+- 搜索任意文件；
+- 监控和管理当前运行服务；
+- 监视和终止正在运行的进程；
+- 软件包卸载；
+- 资源监控管理；
+- 管理（添加 / 删除）APT 存储库。
+https://github.com/oguzhaninan/Stacer/
+
+【Fess：强大且易于部署的企业级搜索服务器】
+https://github.com/codelibs/fess
+
+### 【Dendron：“伴你成长”的个人知识管理工具】
+https://github.com/dendronhq/dendron
+
+【Kaleido：网页可视化图形快速导出为静态图像】
+https://github.com/plotly/Kaleido
+
+Octoman 这款微博备份工具。
+https://blog.liuguofeng.com/p/5670 https://github.com/misswell/octoman-weibo-backup
+
+【repo2docker GitHub Action：从GitHub仓库创建支持Jupyter的Docker镜像】
+https://github.com/jupyterhub/repo2docker-action
+
+小鹿快传 - 在线P2P文件传输工具，使用WebSocket + WebRTC技术
+https://github.com/fanchangyong/deershare
+
+正则表达式可视化工具
+https://blog.robertelder.org/regular-expression-visualizer/
+
+数据可视化工具 - Flourish，发现动画效果做的还挺不错
+https://flourish.studio/examples/
+
+NPS - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。
+https://github.com/ehang-io/nps

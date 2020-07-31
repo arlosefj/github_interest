@@ -162,3 +162,30 @@ https://github.com/xudejing/video-clip-order-prediction
 
 ### Real-time Hand Gesture Recognition with PyTorch on EgoGesture, NvGesture and Jester https://arxiv.org/abs/1901.10323
 https://github.com/ahmetgunduz/Real-time-GesRec
+
+【MMAction2：下一代行为理解工具箱和基准】
+https://github.com/open-mmlab/mmaction2
+
+Temporal Pyramid Network for Action Recognition
+https://github.com/decisionforce/TPN
+
+Code repository for the paper: 'Something-Else: Compositional Action Recognition with Spatial-Temporal Interaction Networks'
+https://github.com/joaanna/something_else
+
+Zero-shot video classification by end-to-end training of 3D convolutional neural networks
+https://github.com/bbrattoli/ZeroShotVideoClassification
+
+Spatio-Temporal Action Localization System
+https://github.com/MVIG-SJTU/AlphAction
+
+Gate-Shift Networks for Video Action Recognition - CVPR 2020
+https://github.com/swathikirans/GSM
+
+Learn to cycle: Time-consistent feature discovery for action recognition
+https://github.com/alexandrosstergiou/Squeeze-and-Recursion-Temporal-Gates
+
+### We present a new action tubelet detection framework, termed as MovingCenter Detector (MOC-detector), by treating an action instance as a trajectory of moving points.
+https://github.com/MCG-NJU/MOC-Detector
+
+Repository for PREDICT & CLUSTER: Unsupervised Skeleton Based Action Recognition
+https://github.com/shlizee/Predict-Cluster

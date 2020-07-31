@@ -183,3 +183,27 @@ https://github.com/google-research/uda
 
 This is a PyTorch implementation of Generating Diverse High-Fidelity Images with VQ-VAE-2, including their PixelCNN and self-attention priors.
 https://github.com/unixpickle/vq-vae-2
+
+《Recapture as You Want》
+https://www.arxiv-vanity.com/papers/2006.01435/
+
+Rethinking the Truly Unsupervised Image-to-Image Translation
+https://github.com/clovaai/tunit
+
+Open Compound Domain Adaptation
+https://github.com/zhmiao/OpenCompoundDomainAdaptation-OCDA
+
+Rethinking Semi-Supervised Learning in VAEs
+https://github.com/thwjoy/revae-demo
+
+Generating Person Images with Appearance-aware Pose Stylizer
+https://github.com/siyuhuang/PoseStylizer
+
+The source code for paper "Deep Image Spatial Transformation for Person Image Generation"
+https://github.com/RenYurui/Global-Flow-Local-Attention
+
+On Feature Normalization and Data Augmentation.
+https://github.com/Boyiliee/MoEx
+
+Semantically Multi-modal Image Synthesis
+https://github.com/Seanseattle/SMIS

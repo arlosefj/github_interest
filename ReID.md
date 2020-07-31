@@ -153,3 +153,54 @@ https://github.com/JDAI-CV/fast-reid
 
 'The 1st Place Submission to AICity Challenge 2020 re-id track (Baidu-UTS submission)' 
 https://github.com/layumi/AICIty-reID-2020
+
+’(浙江大学)《深度学习与行人重识别》课程课件'
+https://github.com/michuanhaohao/ReID_tutorial_slides https://www.bilibili.com/video/BV1Pg4y1q7sN/
+
+Relation-Aware Global Attention (RGA)
+https://github.com/microsoft/Relation-Aware-Global-Attention-Networks
+
+Multi-Domain Learning and Identity Mining for Vehicle Re-Identification
+https://github.com/heshuting555/AICITY2020_DMT_VehicleReID
+
+This is a pytorch implementation of the CVPR2020 paper: Transferable, Controllable, and Inconspicuous Adversarial Attacks on Person Re-identification With Deep Mis-Ranking
+https://github.com/whj363636/Adversarial-attack-on-Person-ReID-With-Deep-Mis-Ranking
+
+a solid and strong baseline of pedestrian attribute recognition
+https://github.com/valencebond/Strong_Baseline_of_Pedestrian_Attribute_Recognition
+
+PyTorch code for CVPR'2020 paper “Pose-guided Visible Part Matching for Occluded Person ReID”
+https://github.com/hh23333/PVPM
+
+Person Re-identification in the 3D Space
+https://github.com/layumi/person-reid-3d
+
+Self-paced Contrastive Learning with Hybrid Memory for Domain Adaptive Object Re-ID
+https://github.com/yxgeee/SpCL
+
+This repository contains Datasets and Code for our paper Beyond Scalar Neuron: Adopting Vector-Neuron Capsules for Long-Term Person Re-Identification and Celebrities-ReID: A Benchmark for Clothes Variation in Long-Term Person Re-Identification.
+https://github.com/Huang-3/Celeb-reID
+
+Norm-Aware Embedding for Efficient Person Search (CVPR'20)
+https://github.com/DeanChan/NAE4PS
+
+Hierarchical Online Instance Matching for Person Search (AAAI'20)
+https://github.com/DeanChan/HOIM-PyTorch
+
+[CVPR2020] High-Order Information Matters: Learning Relation and Topology for Occluded Person Re-Identification
+https://github.com/wangguanan/HOReID
+
+Open-source toolbox for unsupervised or domain adaptive object re-ID.
+https://github.com/open-mmlab/OpenUnReID
+
+"Multiple Expert Brainstorming for Domain Adaptive Person Re-identification", ECCV 2020
+https://github.com/YunpengZhai/MEB-Net
+
+Pytorch implementation of "Appearance-Preserving 3D Convolution for Video-based Person Re-identification"
+https://github.com/guxinqian/AP3D
+
+Surpassing Real-World Source Training Data: Random 3D Characters for Generalizable Person Re-Identification
+https://github.com/VideoObjectSearch/RandPerson
+
+### PyTorch实现的人员搜索
+https://github.com/DeepAlchemist/deep-person-search

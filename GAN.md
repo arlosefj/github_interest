@@ -529,3 +529,165 @@ https://github.com/dvl-tum/ciagan
 
 ### 【预训练StyleGAN模型合集】’Awesome Pretrained StyleGAN - A collection of pre-trained StyleGAN models to download'
 https://github.com/justinpinkney/awesome-pretrained-stylegan
+
+【TensorFlow 2.x实现的StyleGAN2】’StyleGAN2-TensorFlow-2.x - Unofficial implementation of StyleGAN2 using TensorFlow 2.x.' 
+https://github.com/rosasalberto/StyleGAN2-TensorFlow-2.x
+
+### 【StyleGAN2模型训练实战】’Practical aspects of StyleGAN2 training - I have trained StyleGAN2 from scratch with a dataset of female portraits at 1024px resolution.' 
+https://github.com/l4rz/practical-aspects-of-stylegan2-training
+
+【GAN模型库】’Jittor-GAN - Our GAN model zoo supports 27 kinds of GAN' 
+https://github.com/Jittor/gan-jittor
+
+### 《GAN — StyleGAN & StyleGAN2》
+https://medium.com/@jonathan_hui/gan-stylegan-stylegan2-479bdf256299
+
+Big GANs Are Watching You: Towards Unsupervised Object Segmentation with Off-the-Shelf Generative Models
+https://github.com/anvoynov/BigGANsAreWatching
+
+用StyleGAN2合成高分辨率图像
+https://news.developer.nvidia.com/synthesizing-high-resolution-images-with-stylegan2/
+
+Differentiable Augmentation for Data-Efficient GAN Training
+https://github.com/mit-han-lab/data-efficient-gans
+
+Contrastive Generative Adversarial Networks
+https://github.com/POSTECH-CVLab/PyTorch-StudioGAN
+
+Hierarchical Patch VAE-GAN: Generating Diverse Videos from a Single Sample
+https://github.com/shirgur/hp-vae-gan
+
+生成對抗模式 GAN 的介紹
+https://www.slideshare.net/yenlung/gan-90396897
+
+【当StyleGAN2遇上切尔诺夫脸(Chernoff Face)】
+https://www.ihatethefuture.com/2020/06/deep-chernoff-faces.html
+
+【GANs训练：从理论到实践】《Training GANs - From Theory to Practice | Off the convex path》
+http://www.offconvex.org/2020/07/06/GAN-min-max/
+
+### Closed-Form Factorization of Latent Semantics in GANs
+https://github.com/genforce/sefa
+
+《XingGAN for Person Image Generation》
+https://github.com/Ha0Tang/XingGAN https://www.arxiv-vanity.com/papers/2007.09278/
+
+【讨论：GANs有哪些好Tricks？】《[D] Best GAN Tricks : MachineLearning》
+https://www.reddit.com/r/MachineLearning/comments/i085a8/d_best_gan_tricks/
+
+Detecting and Simulating Artifacts in GAN Fake Images
+https://github.com/ColumbiaDVMM/AutoGAN
+
+Pytorch implementation for ManiGAN: Text-Guided Image Manipulation.
+https://github.com/mrlibw/ManiGAN
+
+A Tensorflow implementation of AnimeGAN for fast photo animation ! This is the Open source of the paper <AnimeGAN: a novel lightweight GAN for photo animation>, which uses the GAN framwork to transform real-world photos into anime images.
+https://github.com/TachibanaYoshino/AnimeGAN
+
+Code for "Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose"
+https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose
+
+Official PyTorch implementation of "Improved Techniques for Training Single-Image GANs"
+https://github.com/tohinz/ConSinGAN
+
+Edge Guided GANs with Semantic Preserving for Semantic Image Synthesis
+https://github.com/Ha0Tang/EdgeGAN
+
+Image Processing Using Multi-Code GAN Prior
+https://github.com/genforce/mganprior
+
+### BachGAN: High-Resolution Image Synthesis from Salient Object Layout
+https://github.com/Cold-Winter/BachGAN
+
+ECCV'20 paper `In-Domain GAN Inversion for Real Image Editing` code
+https://github.com/genforce/idinvert
+
+GANSpace: Discovering Interpretable GAN Controls
+https://github.com/harskish/ganspace
+
+CVPR 2020] Local Class-Specific and Global Image-Level Generative Adversarial Networks for Semantic-Guided Scene Generation
+https://github.com/Ha0Tang/LGGAN
+
+This repository contains code to replicate results from the ICASSP 2020 paper "StarGAN for Emotional Speech Conversion: Validated by Data Augmentation of End-to-End Emotion Recognition".
+https://github.com/glam-imperial/EmotionalConversionStarGAN
+
+Creating High Resolution Images with a Latent Adversarial Generator
+https://github.com/google-research/lag
+
+PyTorch implementations for our TPAMI paper "Line Drawings for Face Portraits from Photos using Global and Local Structure based GANs".
+https://github.com/yiranran/APDrawingGAN2
+
+A pytroch implementation of the FB-MelGAN
+https://github.com/yanggeng1995/FB-MelGAN
+
+Codebase for "Time-series Generative Adversarial Networks (TimeGAN)"
+https://github.com/jsyoon0823/TimeGAN
+
+MTSS-GAN: Multivariate Time Series Simulation Generative Adversarial Networks
+https://github.com/firmai/mtss-gan
+
+Authors official implementation of "Big GANs Are Watching You" 
+https://github.com/anvoynov/BigGANsAreWatching
+
+Analyzing and Improving the Image Quality of StyleGAN
+https://github.com/huangzh13/StyleGAN2.pytorch
+
+StarGAN v2 — Official TensorFlow Implementation
+https://github.com/clovaai/stargan-v2-tensorflow
+
+MatchGAN: A Self-supervised Semi-supervised Conditional Generative Adversarial Network
+https://github.com/justin941208/MatchGAN
+
+Semantic Pyramid for Image Generation PyTorch
+https://github.com/ChristophReich1996/Semantic_Pyramid_for_Image_Generation
+
+Diverse Image Generation via Self-Conditioned GANs
+https://github.com/stevliu/self-conditioned-gan
+
+Data-Efficient GANs with DiffAugment
+https://github.com/mit-han-lab/data-efficient-gans
+
+The official implementation of "Train Sparsely, Generate Densely: Memory-efficient Unsupervised Training of High-resolution Temporal GAN"
+https://github.com/pfnet-research/tgan2
+
+This is a pytorch implementation of the paper "On Leveraging Pretrained GANs for Limited-Data Generation".
+https://github.com/MiaoyunZhao/GANTransferLimitedData
+
+Non-official + minimal reimplementation of HoloGAN by Nguyen-Phuoc, et al: https://arxiv.org/abs/1904.01326
+https://github.com/christopher-beckham/hologan-pytorch
+
+Attentive Normalization for Conditional Image Generation
+https://github.com/shepnerd/AttenNorm
+
+Code for the paper "Guided Image Generation with Conditional Invertible Neural Networks" (2019)
+https://github.com/VLL-HD/conditional_invertible_neural_networks
+
+Official PyTorch implementation of the paper: "Deep Single Image Manipulation".
+https://github.com/eliahuhorwitz/DeepSIM
+
+PA-GAN Tensorflow, PA-GAN: Progressive Attention Generative Adversarial Network for Facial Attribute Editing
+https://github.com/LynnHo/PA-GAN-Tensorflow
+
+[CVPR 2020] Code for paper "AdversarialNAS: Adversarial Neural Architecture Search for GANs".
+https://github.com/chengaopro/AdversarialNAS
+
+Convert keywords into painting
+https://github.com/azmiozgen/text2painting
+
+MineGAN: effective knowledge transfer from GANs to target domains with few images
+https://github.com/yaxingwang/MineGAN
+
+Implementation of Swapping Autoencoder for Deep Image Manipulation (https://arxiv.org/abs/2007.00653) in PyTorch
+https://github.com/rosinality/swapping-autoencoder-pytorch
+
+In-Domain GAN Inversion for Real Image Editing
+https://github.com/genforce/idinvert_pytorch
+
+TSIT: A Simple and Versatile Framework for Image-to-Image Translation
+https://github.com/EndlessSora/TSIT
+
+Rewriting a Deep Generative Model, ECCV 2020 (oral). Edits the weights of a deep generative network by rewriting associative memory directly, without training data.
+https://github.com/davidbau/rewriting
+
+PyTorch Implementation of CUT, Contrastive Learning for Unpaired Image-to-Image Translation, ECCV 2020
+https://github.com/taesungp/contrastive-unpaired-translation

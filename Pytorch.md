@@ -427,3 +427,76 @@ https://github.com/goktug97/estorch
 
 rectorch：PyTorch实现的最先进推荐算法
 https://github.com/makgyver/rectorch
+
+【用Catalyst加速PyTorch深度学习研究】
+https://medium.com/pytorch/catalyst-101-accelerated-pytorch-bd766a556d92
+
+### 【PyTorch计算机视觉】
+https://github.com/tinkerhub-org/ComputerVision-with-PyTorch-Learning-Program
+
+【《动手深度学习》(英文版) 官方增加实例PyTorch实现】
+https://d2l.ai/
+
+【PyTorch机器学习：张量操作入门】
+https://medium.com/swlh/machine-learning-pytorch-590b09409236
+
+【PyTorch实战教程(Jupyter Notebook)】
+https://github.com/curiousily/Getting-Things-Done-with-Pytorch
+
+The Incredible PyTorch（不可思议的 PyTorch）。里面收集了许多与 PyTorch 相关的教程、项目、论文、书籍、视频等资源
+https://github.com/ritchieng/the-incredible-pytorch
+
+【高性能PyTorch—消除I/O和CPU瓶颈】
+https://towardsdatascience.com/efficient-pytorch-part-1-fe40ed5db76c
+
+【深度学习时序预测】’DeepSeries - Seq2Seq, Bert, Transformer, WaveNet for time series prediction.'
+https://github.com/EvilPsyCHo/Deep-Time-Series-Prediction
+
+【PyTorch实现的FastSurferCNN】
+https://github.com/Deep-MI/FastSurfer
+
+### 【(Pytorch)用MNIST和Fashion MNIST训练Image GPT】
+https://github.com/teddykoker/image-gpt
+
+【支持分布式学习的PyTorch深度学习项目模板】’Deep Learning Project Template for PyTorch' 
+https://github.com/ryul99/pytorch-project-template
+
+【PyTorch深度学习：从零到GAN (freeCodeCamp.org)】
+https://jovian.ml/forum/c/course-discussions/pytorch-zero-to-gans/18
+
+【用LibTorch构建C++应用示例】
+https://github.com/BIGBALLON/PyTorch-CPP
+
+【PyTorch实战练习素材】
+https://github.com/pytorch/examples/ https://github.com/yunjey/pytorch-tutorial
+
+### 【David的PyTorch代码技巧指南：通过五个colab notebooks快速、直观、简要地介绍pytorch代码】
+https://github.com/davidbau/how-to-read-pytorch
+
+【新手老手都能用的计算机视觉PyTorch解决方案库】
+https://github.com/microsoft/computervision-recipes
+
+Intel官方PyTorch扩展版，提供CPU上更好的体验和性能
+https://github.com/intel/intel-extension-for-pytorch
+
+【PyTorch数据集读取器，用于直接读取POSIX tar文档】
+https://github.com/tmbdev/webdataset
+
+### 【PyTorch图像分类技巧集】’carrier of tricks for image classification tutorials using pytorch' 
+https://github.com/hoya012/carrier-of-tricks-for-classification-pytorch
+
+【PyTorch入门(Notebook/Slides)】’Notebook / Slides for ACDL2020 in Siena, Italy'
+https://github.com/t-vi/acdl2020
+
+
+【Torch-Pruning：PyTorch结构化神经网络修剪工具包】
+https://github.com/VainF/Torch-Pruning
+
+【万字综述，核心开发者全面解读 PyTorch 内部机制】
+https://mp.weixin.qq.com/s/N1RuJwCfGmbV2kW5zh7XHQ
+
+【PFRL：基于PyTorch的深度强化学习库】
+https://github.com/pfnet/pfrl
+
+### Score-CAM: Score-Weighted Visual Explanations for Convolutional Neural Networks
+https://github.com/haofanwang/Score-CAM

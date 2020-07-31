@@ -227,3 +227,18 @@ https://github.com/zhanghang1989/RegNet-Search-PyTorch
 
 【神经网络的修剪】《Neural Network Pruning》
 https://nathanhubens.github.io/posts/deep%20learning/2020/05/22/pruning.html
+
+【深度学习超参管理器
+https://github.com/megvii-research/hpman
+
+【模型优化基础】《Model Optimization 101》
+https://docs.google.com/presentation/d/1tCbwcls4c_Imx0tC3kOW3yINSIbcHuKgcHimCAT3B0Q/edit#slide=id.p
+
+【PyTorch神经网络压缩框架】
+https://github.com/openvinotoolkit/nncf_pytorch
+
+QTool：神经网络量化工具箱
+https://github.com/blueardour/model-quantization
+
+Group Sparsity: The Hinge Between Filter Pruning and Decomposition for Network Compression. CVPR2020.
+https://github.com/ofsoundof/group_sparsity

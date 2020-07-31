@@ -93,3 +93,6 @@ https://github.com/siddontang/go-mysql
 
 为互联网IT人打造的中文版awesome-go
 https://github.com/hackstoic/golang-open-source-projects
+
+一个用 Go 编写的类 Minecraft 游戏。还支持多用户，项目首页下方有服务器端搭建说明
+https://github.com/icexin/gocraft

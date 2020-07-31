@@ -117,3 +117,76 @@ https://www.arxiv-vanity.com/papers/2001.02129/
 
 《Simultaneous Enhancement and Super-Resolution of Underwater Imagery for Improved Visual Perception》
 https://github.com/xahidbuffon/Deep-SESR
+
+Waifu2x-Extension-GUI：基于Waifu2x, SRMD, Anime4K的图片/Gif动画/视频超分辨率放大工具
+https://github.com/AaronFeng753/Waifu2x-Extension-GUI
+
+【用机器学习和智能实时算法实现动画分辨率提升】
+https://medium.com/crunchyroll/scaling-up-anime-with-machine-learning-and-smart-real-time-algorithms-2fb706ec56c0
+
+Image Super-Resolution with Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining
+https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention
+
+【深度学习超分辨率工具/模型集】
+https://github.com/idearibosome/srzoo
+
+Super-resolution Variational Auto-Encoders
+https://github.com/ioangatop/srVAE
+
+【图像/视频超分辨率最新进展】
+https://github.com/HymEric/latest-development-of-ISR-VSR
+
+【单图片超分辨率Keras实现库(EDSR, SRGAN, SRFeat, RCAN, ESRGAN, ERCA)】
+https://github.com/hieubkset/Keras-Image-Super-Resolution
+
+Encoder-Decoder Residual Network for Real Super-Resolution
+https://github.com/yyknight/NTIRE2019_EDRN
+
+Deep Unfolding Network for Image Super-Resolution (CVPR, 2020)
+https://github.com/cszn/USRNet
+
+Rethinking Data Augmentation for Image Super-resolution (CVPR 2020)
+https://github.com/clovaai/cutblur
+
+Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution
+https://github.com/guoyongcs/DRN
+
+TDAN: Temporally-Deformable Alignment Network for Video Super-Resolution, CVPR 2020
+https://github.com/YapengTian/TDAN-VSR-CVPR-2020
+
+Pytorch implementation of Deep Face Super-Resolution with Iterative Collaboration between Attentive Recovery and Landmark Estimation (CVPR 2020)
+https://github.com/Maclory/Deep-Iterative-Collaboration
+
+PyTorch Implementation of "Lossless Image Compression through Super-Resolution"
+https://github.com/caoscott/SReC
+
+Deep Adaptive Inference Networks for Single Image Super-Resolution
+https://github.com/csmliu/AdaDSR
+
+Pytorch implementation of Structure-Preserving Super Resolution with Gradient Guidance (CVPR 2020)
+https://github.com/Maclory/SPSR
+
+Stochastic Frequency Masking to Improve Super-Resolution and Denoising Networks
+https://github.com/sfm-sr-denoising/sfm
+
+HNAS: Hierarchical Neural Architecture Search for Single Image Super-Resolution
+https://github.com/guoyongcs/HNAS-SR
+
+PyTorch code for our paper "Image Super-Resolution with Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining" 
+https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention
+
+
+Official PyTorch implementation of the paper Learning Texture Transformer Network for Image Super-Resolution accepted in CVPR 2020.
+https://github.com/researchmm/TTSR
+
+[ICCVW 2019] PyTorch implementation of DSGAN and ESRGAN-FS from the paper "Frequency Separation for Real-World Super-Resolution". This code was the winning solution of the AIM challenge on Real-World Super-Resolution at ICCV 2019
+https://github.com/ManuelFritsche/real-world-sr
+
+Correction Filter for Single Image Super-Resolution: Robustifying Off-the-Shelf Deep Super-Resolvers
+https://github.com/shadyabh/Correction-Filter
+
+(ECCV 2020) Stochastic Frequency Masking to Improve Super-Resolution and Denoising Networks
+https://github.com/majedelhelou/SFM
+
+An official implementation of "Learning with Privileged Information for Efficient Image Super-Resolution" (ECCV2020) in PyTorch.
+https://github.com/cvlab-yonsei/PISR

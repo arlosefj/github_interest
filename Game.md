@@ -102,3 +102,12 @@ https://github.com/marblexu/PythonPlantsVsZombies
 
 Viry3D：C++ 跨平台 3D 游戏引擎】'Viry3D - Cross platform 2D and 3D game engine in C++.'
 https://github.com/stackos/Viry3D
+
+【Soldat：开源2D多人动作游戏】
+https://github.com/Soldat/soldat
+
+【MedNES：C++写的跨平台NES模拟器】
+https://github.com/wpmed92/MedNES
+
+【24a2：最小化的便捷游戏开发框架】
+https://github.com/jamesroutley/24a2

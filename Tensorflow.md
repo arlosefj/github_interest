@@ -108,3 +108,15 @@ https://github.com/AmazaspShumik/mtlearn
 
 (TensorFlow)深度网络可视化技术教程
 https://github.com/1202kbs/Understanding-NN
+
+【用TensorFlow model server产品化部署机器学习模型】《Deploying models to production with TensorFlow model server》
+https://towardsdatascience.com/deploying-models-to-production-with-tensorflow-model-server-225a81859031
+
+【TensorFlow Lite移植到Unity实例】
+https://github.com/asus4/tf-lite-unity-sample
+
+【用TensorFlow Object Detection (TFOD) API快速训练自定义目标检测】
+https://colab.research.google.com/github/sayakpaul/TF-2.0-Hacks/blob/master/Training_a_pets_detector_model_within_minutes_with_TFOD_API.ipynb
+
+CppFlow：无需Bazel/TensorFlow用C++运行TensorFlow模型
+https://github.com/serizba/cppflow

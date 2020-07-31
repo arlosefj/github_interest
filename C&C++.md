@@ -33,3 +33,6 @@ https://mp.weixin.qq.com/s/D9OxgkXpEyvzg4wqMeYoPA
 
 【为你的开源代码选择合适的开源许可证】
 https://github.com/github/choosealicense.com
+
+Sogou C++ Workflow：搜狗公司的后端C++编程标准，一套企业级的程序引擎
+https://github.com/sogou/workflow

@@ -166,3 +166,54 @@ https://github.com/tata1661/FewShotPapers
 
 【Meta-Dataset：面向少样本学习的数据集】《Announcing Meta-Dataset: A Dataset of Datasets for Few-Shot Learning | Google AI Blog》
 https://ai.googleblog.com/2020/05/announcing-meta-dataset-dataset-of.html
+
+《Few-Shot learning with Reptile》
+https://keras.io/examples/vision/reptile/
+
+《Wandering Within a World: Online Contextualized Few-Shot Learning》
+https://github.com/renmengye/oc-fewshot-public https://www.arxiv-vanity.com/papers/2007.04546/
+
+《Few-Shot Object Detection and Viewpoint Estimation for Objects in the Wild》
+http://imagine.enpc.fr/~xiaoy/FSDetView/
+
+ A New Meta-Baseline for Few-Shot Learning.
+ https://github.com/cyvius96/few-shot-meta-baseline
+
+ Implementations of few-shot object detection benchmarks
+ https://github.com/ucbdrive/few-shot-object-detection
+
+ PyTorch implementation of "An Ensemble of Epoch-wise Empirical Bayes for Few-shot Learning"
+ https://github.com/yaoyao-liu/E3BM
+
+A pytorch implementation of "Domain-Adaptive Few-Shot Learning"
+https://github.com/dingmyu/DAPN
+
+Code for the paper "Selecting Relevant Features from a Universal Representation for Few-shot Classification"
+https://github.com/dvornikita/SUR
+
+PyTorch implementation of “Negative Margin Matters: Understanding Margin in Few-shot Classification”
+https://github.com/bl0/negative-margin.few-shot
+
+(CVPR2020) Revisiting Pose-Normalization for Fine-Grained Few-Shot Recognition
+https://github.com/Tsingularity/PoseNorm_Fewshot
+
+This repository contains the official implementation of DPGN: Distribution Propagation Graph Network for Few-shot Learning.
+https://github.com/megvii-research/dpgn
+
+This repository contains the code for our paper "Instance Credibility Inference for Few-Shot Learning" in CVPR, 2020.
+https://github.com/Yikai-Wang/ICI-FSL
+
+Few-Shot Object Detection with Attention-RPN and Multi-Relation Detector
+https://github.com/fanq15/FSOD-code
+
+Transductive Few-shot Learning with Meta-Learned Confidence
+https://github.com/seongmin-kye/MCT_DFMN
+
+Context-Transformer: Tackling Object Confusion for Few-Shot Detection, AAAI 2020
+https://github.com/Ze-Yang/Context-Transformer
+
+A Universal Representation Transformer Layer for Few-Shot Image Classification
+https://github.com/liulu112601/URT
+
+(ECCV 2020) PyTorch implementation of paper "Few-Shot Object Detection and Viewpoint Estimation for Objects in the Wild"
+https://github.com/YoungXIAO13/FewShotDetection

@@ -179,3 +179,30 @@ https://medium.com/swlh/bert-step-by-step-b7ff47fcfbe
 
 'JioNLP - 简便中文NLP工具包' 
 https://github.com/dongrixinyu/JioNLP
+
+'Chinese sentence similarity - 中文问题句子相似度计算比赛及方案汇总' 
+https://github.com/ShuaichiLi/Chinese-sentence-similarity-task
+
+'PyTorch Transformers Tutorials - tutorials to fine tune transformers for diff NLP tasks' 
+https://github.com/abhimishra91/transformers-tutorials
+
+Wechaty：开源的个人号微信机器人接口，支持多种微信接入方案，只需6行代码即可搭建简单微信聊天机器人
+https://github.com/wechaty/wechaty
+
+【ChineseSemanticKB：面向中文处理的12类、百万规模的语义常用词典】
+https://github.com/liuhuanyong/ChineseSemanticKB
+
+'注意力机制、Transformer和预训练语言模型论文与相关资源集合' 
+https://github.com/ZhengZixiang/ATPapers
+
+【面向信息检索的知识图谱综述】
+https://nowpublishers.com/article/Details/INR-063
+
+【Otto：智能聊天应用，旨在帮助有抱负的机器学习工程师用最少的领域知识从有想法到最终实现，该应用也是Facebook AI挑战赛优胜项目】
+https://github.com/KartikChugh/Otto
+
+【GPT-3的“涂鸦式”解析】《The GPT-3 Architecture, on a Napkin》
+http://dugas.ch/artificial_curiosity/GPT_architecture.html
+
+'Modify Chinese text, modified on LaserTagger Model. 文本复述，基于lasertagger做中文文本数据增强。
+https://github.com/tongchangD/text_data_enhancement_with_LaserTagger

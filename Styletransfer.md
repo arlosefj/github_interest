@@ -93,3 +93,18 @@ https://colab.research.google.com/drive/1H-lNMxVF9NPME6oZVphFRoi7yglJMZxP
 
 Anime4KCPP：动漫类图像超分辨率Anime4K算法的C++高效实现
 https://github.com/TianZerL/Anime4KCPP
+
+机器学习艺术Colabs集锦
+https://github.com/dvschultz/ml-art-colabs
+
+Optical Flow Distillation: Towards Efficient and Stable Video Style Transfer
+https://www.arxiv-vanity.com/papers/2007.05146/
+
+Deep Preset: Blending and Retouching Photos with Color Style Transfer
+https://github.com/minhmanho/deep_preset
+
+《Deformable Style Transfer》
+https://github.com/sunniesuhyoung/DST
+
+《Style is a Distribution of Features》
+https://github.com/aigagror/wasserstein-style-transfer

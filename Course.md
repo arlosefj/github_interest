@@ -121,3 +121,15 @@ https://github.com/kmario23/deep-learning-drizzle
 
 『可解释的机器学习-来自李宏毅老师深度学习机器学习课程
 https://www.bilibili.com/video/BV1Rg4y1q7QA
+
+【斯坦福 CS520《知识图谱》课程(2020)】
+https://web.stanford.edu/class/cs520/
+
+【慕尼黑理工大学《计算机视觉深度学习进阶》课程(2020)】
+https://www.bilibili.com/video/bv1a54y1B7NB
+
+机器学习暑期学校2020(Youtube在线免费)
+https://www.bilibili.com/video/BV1eC4y187Ki/
+
+【斯坦福课程：计算机技术面试问题解决技巧(2017)】
+https://web.stanford.edu/class/cs9/

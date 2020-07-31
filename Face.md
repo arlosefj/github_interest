@@ -367,11 +367,17 @@ https://github.com/cunjian/pytorch_face_landmark
 'Face Reconstruction and Dense Alignment'
 https://github.com/Star-Clouds/FRDA
 
+《Deep Generation of Face Images from Sketches》
+https://www.arxiv-vanity.com/papers/2006.01047/
+
 【BlazeFace人脸检测】’BlazeFace in Python - The BlazeFace face detector model implemented in PyTorch'
 https://github.com/hollance/BlazeFace-PyTorch
 
 darknet_face_with_landmark - 加入关键点的darknet训练框架，用yolov3实现了轻量级人脸检测'
 https://github.com/ouyanghuiyu/darknet_face_with_landmark
+
+yolo-face-with-landmark - 用PyTorch实现的基于yolov3的轻量级人脸检测（包含关键点）
+https://github.com/ouyanghuiyu/yolo-face-with-landmark
 
 ### 基于摄像头的注视跟踪
 https://github.com/antoinelame/GazeTracking
@@ -399,3 +405,66 @@ https://github.com/iperov/DeepFaceLab/
 
 'RetinaFace (RetinaFace: Single-stage Dense Face Localisation in the Wild, published in 2019) implemented (ResNet50, MobileNetV2 trained on single GPU) in Tensorflow 2.0+' 
 https://github.com/peteryuX/retinaface-tf2
+
+矛与盾：合成脸/换脸检测技术
+https://medium.com/@jonathan_hui/detect-ai-generated-images-deepfakes-part-1-b518ed5075f4
+
+DeepFaceLab 开发者通过这款软件，可任意替换视频中的人脸、头像，以及进行口型匹配。
+https://github.com/iperov/DeepFaceLab
+
+(Kaggle)DeepFake换脸检测优胜方案
+https://github.com/selimsef/dfdc_deepfake_challenge
+
+【cavaface.pytorch：PyTorch人脸识别训练框架】
+https://github.com/cavalleria/cavaface.pytorch
+
+迪斯尼：高分辨率神经网络视效人脸交换算法——图像/视频全自动“换脸”
+http://studios.disneyresearch.com/2020/06/29/high-resolution-neural-face-swapping-for-visual-effects/
+
+【用TensorFlow.js+Plot.js构建基于人脸特征点实时标定的3D人脸网格】
+https://github.com/risenW/Tensorflowjs_Projects/tree/master/face-mesh
+
+【用Pytorch Lightning重新实现的Retinaface】
+https://github.com/ternaus/retinaface
+
+face_landmark_1000 - 1000点的人脸关键点检测
+https://github.com/Single430/FaceLandmark1000
+
+【MTCNN：支持多平台的实时人脸检测和头部姿态估计】
+https://github.com/imistyrain/MTCNN
+
+State of the Art Face Detection in Pytorch with DSFD and RetinaFace
+https://github.com/hukkelas/DSFD-Pytorch-Inference
+
+Code for Rotate-and-Render: Unsupervised Photorealistic Face Rotation from Single-View Images (CVPR 2020)
+https://github.com/Hangz-nju-cuhk/Rotate-and-Render
+
+CurricularFace: Adaptive Curriculum Learning Loss for Deep Face Recognition
+https://github.com/HuangYG123/CurricularFace
+
+Official implementation for paper High Resolution Face Age Editing
+https://github.com/InterDigitalInc/HRFAE
+
+Unofficial implementation of paper 'Face X-ray for More General Face Forgery Detection'.
+https://github.com/neverUseThisName/Face-X-Ray
+
+3FabRec: Fast Few-shot Face alignment by Reconstruction - PyTorch implementation
+https://github.com/browatbn2/3FabRec
+
+HiFaceGAN: Face Renovation via Collaborative Suppression and Replenishment
+https://github.com/Lotayou/Face-Renovation
+
+Base on retinaface and centerface modefied. frame work depend on pytorch.
+https://github.com/maoweinuaa/Cartoonface-detection
+
+[2020-CVPR]Data Uncertainty Learning in Face Recognition
+https://github.com/Ontheway361/dul-pytorch
+
+### DeepFaceDrawing: Deep Generation of Face Images from Sketches
+https://github.com/IGLICT/DeepFaceDrawing-Jittor
+
+### FairFace: Face Attribute Dataset for Balanced Race, Gender, and Age
+https://github.com/dchen236/FairFace
+
+PyTorch implementation of Additive Angular Margin Loss for Deep Face Recognition.
+https://github.com/foamliu/InsightFace-PyTorch

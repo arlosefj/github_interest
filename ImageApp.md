@@ -645,3 +645,112 @@ https://github.com/ericsujw/InstColorization
 
 《Efficient Pig Counting in Crowds with Keypoints Tracking and Spatial-aware Temporal Response Filtering》
 https://www.arxiv-vanity.com/papers/2005.13131/
+
+一位来自得克萨斯州的软件艺术家 Everest Pipkin 在 GitHub 上开源了一款工具：Image Scrubber。该工具可快速移除图像中的元数据（EXIF 数据）识别信息，实现局部关键位置的打码操作，以保障图像发布者的隐私安全。
+https://github.com/everestpipkin/image-scrubber
+
+【涂鸦应用相关文献大列表】’Awesome-Sketch-Based-Applications - 📚 A collection of sketch based application papers.' 
+https://github.com/MarkMoHR/Awesome-Sketch-Based-Applications
+
+Foreground-aware Semantic Representations for Image Harmonization
+https://github.com/saic-vul/image_harmonization
+
+【遗传算法辅助画画】’Genetic Drawing - A genetic algorithm toy project for drawing' 
+https://github.com/anopara/genetic-drawing
+
+【非深度学习方法天空检测器】“Sky-Area-Detector - sky area detection without deep neural networks” 
+https://github.com/MaybeShewill-CV/sky-detector
+
+【曲线检测器】《Curve Detectors | Distill》
+https://distill.pub/2020/circuits/curve-detectors/
+
+单幅图片HDR重建  paper:《Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline》
+https://github.com/alex04072000/SingleHDR
+
+pulse。可借助 AI 手段让一些模糊图像顿时变得清晰起来，即使图片被打上马赛克，也能生成（不是还原）高清无码图。
+https://github.com/adamian98/pulse
+
+'CV_interviews_Q-A - CV算法岗知识点及面试问答汇总，主要分为计算机视觉、机器学习、图像处理和 C++基础四大块' 
+https://github.com/GYee/CV_interviews_Q-A
+
+【(图片/视频)除雾文献/数据集/代码列表】
+https://github.com/cxtalk/DehazeZoo
+
+EyeLoop：开源Python眼动追踪器，专为消费级硬件上的动态闭环实验定制
+https://github.com/simonarvin/eyeloop
+
+基于opencv+UIAutomator 的公主连结农场脚本，使用opencv图像识别进行按钮分析
+https://github.com/SimonShi1994/Princess-connection-farm
+
+《用 Python 写一个 JPEG 解码器》
+https://yasoob.me/posts/understanding-and-writing-jpeg-decoder-in-python/
+
+【用Python代码理解和解码JPEG图像】
+https://yasoob.me/posts/understanding-and-writing-jpeg-decoder-in-python/
+
+DeepCreamPy 是一个借助深度神经网络去掉二次元图片中的马赛克的工具。
+https://github.com/deeppomf/DeepCreamPy
+
+【sherloq：开源数字图像取证工具集】’sherloq - An open-source digital image forensic toolset'
+https://github.com/GuidoBartoli/sherloq
+
+【(PyTorch)基于DeViSe视觉语义潜入的反向图像检索实战】
+https://medium.com/@vijayabhaskar96/fun-project-devise-on-pytorch-83eb09694d41
+
+【基于OpenCV的机读答题卡识别】
+https://github.com/Muhammad-Yunus/OpenCV-LJK-Checker
+
+Generative Hierarchical Features from Synthesizing Images
+https://github.com/genforce/ghfeat
+
+【GG-AESY：图片加密信息隐写工具】
+https://github.com/jfmaes/GG-AESY
+
+[CVPR 2020] Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline
+https://github.com/alex04072000/SingleHDR
+
+Perceptual Optimization of Image Quality Assessment (IQA) Models
+https://github.com/dingkeyan93/IQA-optimization
+
+[CVPR 2020] Instance-aware Image Colorization
+https://github.com/ericsujw/InstColorization
+
+This is the repository containing codes for our CVPR, 2020 paper titled "Learning Individual Speaking Styles for Accurate Lip to Speech Synthesis"
+https://github.com/Rudrabha/Lip2Wav
+
+Syn2Real Transfer Learning for Image Deraining using Gaussian Processes
+https://github.com/rajeevyasarla/Syn2Real
+
+AdaLAM is a fully handcrafted realtime outlier filter integrating several best practices into a single efficient and effective framework. It detects inliers by searching for significant local affine patterns in image correspondences.
+https://github.com/cavalli1234/AdaLAM
+
+Code and information for face image quality assessment with SER-FIQ
+https://github.com/pterhoer/FaceImageQuality
+
+Implementation of paper which uses a swish-gated residual U-net to color line-art anime drawings
+https://github.com/pradeeplam/Anime-Sketch-Coloring-with-Swish-Gated-Residual-UNet
+
+### CVPR2020 A Model-driven Deep Neural Network for Single Image Rain Removal
+https://github.com/hongwang01/RCDNet
+
+This repository implements Deferred Neural Rendering: Image Synthesis using Neural Textures .
+https://github.com/SSRSGJYD/NeuralTexture
+
+### Generalized Product Quantization Network For Semi-supervised Image Retrieval - CVPR 2020
+https://github.com/youngkyunJang/GPQ
+
+Don't Hit Me! Glass Detection in Real-world Scenes
+https://github.com/Mhaiyang/CVPR2020_GDNet
+
+LISRD - Local Invariance Selection at Runtime for Descriptors
+https://github.com/rpautrat/LISRD
+
+official implementation of the spatial-temporal attention neural network (STANet) for remote sensing image change detection
+https://github.com/justchenhao/STANet
+
+PyTorch code for "SOLAR: Second-Order Loss and Attention for Image Retrieval". In ECCV 2020
+https://github.com/tonyngjichun/SOLAR
+
+Unpaired Learning of Deep Image Denoising
+https://github.com/XHWXD/DBSN
+

@@ -291,3 +291,60 @@ https://github.com/vt-vl-lab/3d-photo-inpainting
 
 把Instagram上的图片全部3D化处理的Chrome插件
 https://github.com/cyrildiagne/instagram-3d-photo
+
+单目360˚深度估计  paper:《BiFuse: Monocular 360˚ Depth Estimation via Bi-Projection Fusion》
+https://github.com/Yeh-yu-hsuan/BiFuse
+
+【深度估计论文/代码汇总】
+https://github.com/sxfduter/monocular-depth-estimation
+
+'PatchMatchStereo双目立体匹配算法完整实现' 
+https://github.com/ethan-li-coding/PatchMatchStereo
+
+Code to extract stereo frame pairs from 3D videos, as used in "Ranftl et. al., Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-shot Cross-dataset Transfer, arXiv:1907.01341"
+https://github.com/lasinger/3DVideos2Stereo
+
+DDAD - Dense Depth for Autonomous Driving
+https://github.com/TRI-ML/DDAD
+
+Towards Better Generalization: Joint Depth-Pose Learning without PoseNet
+https://github.com/B1ueber2y/TrianFlow
+
+TRI-ML Monocular Depth Estimation Repository
+https://github.com/TRI-ML/packnet-sfm
+
+SynSin: End-to-end View Synthesis from a Single Image
+https://github.com/facebookresearch/synsin
+
+Task-Aware Monocular Depth Estimation for 3D Object Detection, AAAI2020
+https://github.com/WXinlong/ForeSeE
+
+Learning a Neural 3D Texture Space from 2D Exemplars
+https://github.com/henzler/neuraltexture
+
+Code for the CVPR paper "CAM-Convs: Camera-Aware Multi-Scale Convolutions for Single-View Depth"
+https://github.com/jmfacil/camconvs
+
+Towards Good Practice for CNN Based Monocular Depth Estimation
+https://github.com/zenithfang/supervised_dispnet
+
+解决无监督单目深度估计算法在复杂室内场景难训练的问题
+https://jwbian.net/unsupervised-indoor-depth-cn
+
+Predicting Sharp and Accurate Occlusion Boundaries in Monocular Depth Estimation Using Displacement Fields
+https://github.com/dulucas/Displacement_Field
+
+[CVPR 2020] Normal Assisted Stereo Depth Estimation
+https://github.com/udaykusupati/Normal-Assisted-Stereo
+
+Deformable Kernel Network for Joint Image Filtering
+https://github.com/jun0kim/DKN
+
+Distilled semantics for comprehensive scene understanding from videos
+https://github.com/CVLAB-Unibo/omeganet
+
+Monocular depth estimation from a single image
+https://github.com/minghanz/DepthC3D
+
+[ECCV'20] Patch-match and Plane-regularization for Unsupervised Indoor Depth Estimation
+https://github.com/svip-lab/Indoor-SfMLearner

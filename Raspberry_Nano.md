@@ -72,3 +72,24 @@ https://github.com/dusty-nv/jetson-containers
 
 ### 'TensorRT-YOLOv4   ’
 https://github.com/CaoWGG/TensorRT-YOLOv4
+
+【Mycodo：树莓派环境感知与控制系统】’Mycodo - An environmental monitoring and regulation system' 
+https://github.com/kizniche/Mycodo
+
+【torch2trt：简单的PyTorch -> TensorRT转换器】
+https://github.com/NVIDIA-AI-IOT/torch2trt
+
+【树莓派上的联邦学习】’Federated Learning with Raspberry PI (PySyft)' 
+https://github.com/shashigharti/federated-learning-on-raspberry-pi
+
+### 'MobileNetV2-YoloV3-Nano: 0.5BFlops 3MB HUAWEI P40: 6ms/img, YoloFace-500k:0.1Bflops500KB'
+https://github.com/dog-qiuqiu/MobileNetv2-YOLOV3
+
+### TensorRT-7 Network Lib - 包括常用目标检测、关键点检测、人脸检测、OCR等 可训练自己数据(Attention/PseNet/Yolov5/Yolov3/RetinaNet/FCOS/Keypoints Detecton)
+https://github.com/Syencil/tensorRT
+
+Faster than FAST: GPU-Accelerated Frontend for High-Speed VIO
+https://github.com/uzh-rpg/vilib
+
+Deep Learning Nodes for ROS/ROS2 - Deep learning inference nodes for ROS with support for NVIDIA Jetson TX1/TX2/Xavier and TensorRT
+https://github.com/dusty-nv/ros_deep_learning

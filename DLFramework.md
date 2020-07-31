@@ -89,3 +89,9 @@ https://github.com/keras-team/keras-tuner
 
 studio.ml：用来简化、加快模型构建过程的模型管理框架
 https://github.com/studioml/studio
+
+【Eisen：深度学习开发框架，模型训练、验证、测试和部署开源软件包】
+https://github.com/eisen-ai
+
+【Unity Barracuda：Unity轻量跨平台神经网络推理库】
+https://github.com/Unity-Technologies/barracuda-release

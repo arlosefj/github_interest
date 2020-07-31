@@ -561,3 +561,39 @@ https://www.python-engineer.com/
 
 一款比较实用的 Python GUI 开源工具：PyDebloatX，可用于卸载 Windows 10 默认应用程序。
 https://github.com/Teraskull/PyDebloatX
+
+【交互式Python教程，教工程师用NumPy读/写数学公式】
+https://github.com/vthommeret/mathtocode
+
+【Python之路：“60秒一个”的Python入门练习例子集】
+https://github.com/jackzhenguo/python-small-examples
+
+Practical Python Programming
+https://github.com/dabeaz-course/practical-python
+
+【《Effective Python：编写高质量Python代码的59个有效方法》示例代码】
+https://github.com/SigmaQuan/Better-Python-59-Ways
+
+【IPyPlot：Jupyter Notebooks高效图片绘制包】
+https://github.com/karolzak/ipyplot
+
+【guietta：Python简单图形界面开发工具】
+https://github.com/alfiopuglisi/guietta
+
+Cloudia：Python词云生成库
+https://github.com/vaaaaanquish/cloudia
+
+【Matplotlib官方速查表】’Cheatsheets - Official Matplotlib cheat sheets' 
+https://github.com/matplotlib/cheatsheets
+
+【Automagica：Python自动化库】
+https://github.com/automagica/automagica
+
+【基于PyTorch的开源电影分析工具箱，包括基本视频处理、语义视频特征提取、电影信息爬虫等】
+https://github.com/movienet/movienet-tools
+
+【Inquest：Python日志工具，将日志添加到正在运行的Python程序，无需重启程序、重新部署或修改代码】
+https://github.com/yiblet/inquest
+
+基于matplotlib+networkx的多层网络图绘制模板代码
+https://github.com/jkbren/matplotlib-multilayer-network

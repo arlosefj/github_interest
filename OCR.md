@@ -470,6 +470,9 @@ https://github.com/PaddlePaddle/PaddleOCR
 ### PytorchOCR - 基于Pytorch的OCR工具库，支持常用的文字检测和识别算法
 https://github.com/WenmuZhou/PytorchOCR
 
+【Vedastr：PyTorch场景文字识别工具箱】
+https://github.com/Media-Smart/vedastr
+
 【OCR/文字检测/字体识别数据生成工具】
 https://github.com/BboyHanat/TextGenerator
 
@@ -481,3 +484,60 @@ https://github.com/utkusen/shotlooter
 
 【Tesseract OCR文本定位与检测】
 https://www.pyimagesearch.com/2020/05/25/tesseract-ocr-text-localization-and-detection/
+
+'TrWebOCR-开源的离线OCR'
+https://github.com/alisen39/TrWebOCR
+
+【从模板化文档(表单/发票/收据等)提取结构化数据】
+https://ai.googleblog.com/2020/06/extracting-structured-data-from.html https://research.google/pubs/pub49122/
+
+【基于Transformer的场景文字识别(PyTorch)】
+https://github.com/opconty/Transformer_STR
+
+### '增值税发票识别 - 使用flask微服务架构，识别type：增值税电子普通发票，增值税普通发票，增值税专用发票；识别字段为：发票代码、发票号码、开票日期、校验码、税后金额等' 
+https://github.com/guanshuicheng/invoice
+
+'《深度实践OCR：基于深度学习的文字识别》 随书代码'
+https://github.com/ocrbook/ocrinaction
+
+【文档/图像表格检测数据集】’table-detection-dataset - dataset for table detection in documents and images'
+https://github.com/sgrpanchal31/table-detection-dataset
+
+【支持40+种语言的OCR模块】’Easy OCR - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai.'
+https://github.com/JaidedAI/EasyOCR
+
+【Keras验证码识别】《OCR model for reading Captchas》
+https://keras.io/examples/vision/captcha_ocr/
+
+【TableRecognition：从图像还原表格并以word形式保存/crnn单字坐标提取（解决文字跨表格单元格识别）】
+https://github.com/Rid7/Table-OCR
+
+Deep relational reasoning graph network for arbitrary shape text detection; Accepted by CVPR 2020 (Oral).
+https://github.com/GXYM/DRRG
+
+Synthetic Scene Text from 3D Engines
+https://github.com/Jyouhou/UnrealText
+
+Code for generating the CurvedSynth dataset used in our paper: Alchemy: Techniques for Rectification Based Irregular Scene Text Recognition 
+https://github.com/PkuDavidGuan/CurvedSynthText
+
+STEFANN: Scene Text Editor using Font Adaptive Neural Network @ The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.
+https://github.com/prasunroy/stefann
+
+This repository contains the code and implementation details of the CascadeTabNet paper "CascadeTabNet: An approach for end to end table detection and structure recognition from image-based documents"
+https://github.com/DevashishPrasad/CascadeTabNet
+
+An implement of "R-Net: A Relationship Network for Efficient and Accurate Scene Text Detection”
+https://github.com/wangyuxin87/R-Net
+
+Unofficial PyTorch implementation of Towards Accurate Scene Text Recognition with Semantic Reasoning Networks
+https://github.com/chenjun2hao/SRN.pytorch
+
+### CLEval: Character-Level Evaluation for Text Detection and Recognition Tasks
+https://github.com/clovaai/CLEval
+
+### Pytorch implements SA-Text: Simple but Accurate Detector for Text of Arbitrary Shapes
+https://github.com/saicoco/SA-Text
+
+MASTER: Multi-Aspect Non-local Network for Scene Text Recognition
+https://github.com/jiangxiluning/MASTER-TF https://arxiv.org/abs/1910.02562

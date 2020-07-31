@@ -21,3 +21,6 @@ https://github.com/optimass/Maximally_Interfered_Retrieval
 
 ### Code for the paper "Incremental Learning Techniques for Semantic Segmentation", Michieli U. and Zanuttigh P., ICCVW, 2019
 https://github.com/LTTM/IL-SemSegm
+
+Codebase for "Online Fast Adaptation and Knowledge Accumulation: a New Approach to Continual Learning"
+https://github.com/ElementAI/osaka

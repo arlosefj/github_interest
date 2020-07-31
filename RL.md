@@ -117,3 +117,57 @@ https://github.com/JaeDukSeo/reinforcement-learning-an-introduction
 
 【BigTransfer (BiT)：最先进的计算机视觉强化学习】《BigTransfer (BiT): State-of-the-art transfer learning for computer vision》
 https://blog.tensorflow.org/2020/05/bigtransfer-bit-state-of-art-transfer-learning-computer-vision.html
+
+【强化学习算法体系】’RL Taxonomy - Loose taxonomy of reinforcement learning algorithms'
+https://github.com/bennylp/RL-Taxonomy
+
+《Predicting Goal-directed Human Attention Using Inverse Reinforcement Learning》
+https://github.com/cvlab-stonybrook/Scanpath_Prediction
+
+【强化学习文献调研】’rl-paper-study - Reinforcement Learning paper review study'
+https://github.com/utilForever/rl-paper-study
+
+【强化学习研究相关资源与实现】
+https://github.com/RL-Research-Cohiba/Reinforcement_Learning
+
+【Coursera强化学习专项课程(University of Alberta)】
+https://www.coursera.org/specializations/reinforcement-learning
+
+【Kaggle新课：游戏AI入门与强化学习教程】
+https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning
+
+【TorchRL：强化学习算法的PyTorch实现】’TorchRL - Pytorch Implementation of Reinforcement Learning Algorithms ( Soft Actor Critic(SAC)/ DDPG / TD3 /DQN / A2C/ PPO / TRPO)' 
+https://github.com/RchalYang/torchrl
+
+【DL_RL_Zoo：PyTorch深度强化学习算法库】’An lightweight, stable, efficient DRL PyTorch implement(DDPG, TD3, PPO, SAC, InterAC, InterSAC and DQN)’
+https://github.com/Yonv1943/DL_RL_Zoo
+
+【megastep：在单GPU上构建百万FPS强化学习环境】
+https://github.com/andyljones/megastep
+
+【用近似策略优化(PPO)玩超级马里奥(PyTorch)】
+https://github.com/uvipen/Super-mario-bros-PPO-pytorch
+
+'FQF, IQN and QR-DQN in PyTorch' 
+https://github.com/ku2482/fqf-iqn-qrdqn.pytorch
+
+"VariBAD: A very good method for Bayes-Adaptive Deep RL via Meta-Learning" 
+https://github.com/lmzintgraf/varibad
+
+Network Randomization: A Simple Technique for Generalization in Deep Reinforcement Learning / ICLR 2020
+https://github.com/pokaxpoka/netrand
+
+Real-World Reinforcement Learning (RWRL) Challenge Framework
+https://github.com/google-research/realworldrl_suite
+
+This is a framework for the research on multi-agent reinforcement learning and the implementation of the experiments in the paper titled by ''Shapley Q-value: A Local Reward Approach to Solve Global Reward Games''.
+https://github.com/hsvgbkhgbv/SQDDPG
+
+Repository for Iterated Relearning: The Impact of Non-stationarity on Generalisation in Deep Reinforcement Learning
+https://github.com/maximilianigl/rl-iter
+
+【强化学习实现集】’Basic RL Algorithms Implementations - RL implementations'
+https://github.com/Denys88/rl_games
+
+An algorithm that generalizes the paradigm of self-play reinforcement learning and search to imperfect-information games.
+https://github.com/facebookresearch/rebel

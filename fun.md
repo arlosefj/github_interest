@@ -160,3 +160,12 @@ https://github.com/minivision-ai/photo2cartoon
 
 【目光/注视估计/检测相关工作大列表】’Awesome Work on Gaze Estimation' 
 https://github.com/cvlab-uob/Awesome-Gaze-Estimation
+
+【人人都是“神笔马良”：对任意涂鸦自动推断骨架并生成运动动画】
+https://doodle-rig.glitch.me/
+
+通过程序生成中国山水画
+https://github.com/LingDong-/shan-shui-inf
+
+Modeling Artistic Workflows for Image Generation and Editing
+https://github.com/hytseng0509/ArtEditing

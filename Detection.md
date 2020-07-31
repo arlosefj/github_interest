@@ -453,3 +453,123 @@ https://gitlab.com/irafm-ai/poly-yolo
 
 End-to-End Object Detection with Transformers
 https://github.com/facebookresearch/detr
+
+【Transformers端到端目标检测DETR用户界面(100% Python)】
+https://github.com/plotly/dash-detr
+
+《DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution》
+https://github.com/joe-siyuan-qiao/DetectoRS
+
+【YOLOv4研究综述】
+https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fheartbeat.fritz.ai%2Fintroduction-to-yolov4-research-review-5b6b4bd5f255
+
+《YOLOv5 is Here: State-of-the-Art Object Detection at 140 FPS》
+https://blog.roboflow.ai/yolov5-is-here/ https://blog.roboflow.ai/how-to-train-yolov5-on-a-custom-dataset/ https://colab.research.google.com/drive/1gDZ2xcTOgR39tGGs-EZ6i3RTs16wmzZQ#scrollTo=GD9gUQpaBxNa
+
+【DETR(Transformer目标检测)的Colab非官方实现
+https://github.com/lessw2020/training-detr
+
+AdelaiDet：开源多实例级检测应用工具箱
+https://github.com/aim-uofa/AdelaiDet
+
+### 【利用时序上下文进行目标检测】《Leveraging Temporal Context for Object Detection | Google AI Blog》
+https://arxiv.org/abs/1912.03538 https://ai.googleblog.com/2020/06/leveraging-temporal-context-for-object.html https://www.bilibili.com/video/BV1qA411i74v?p=47
+
+【基于yolov3的旋转目标检测】’Rotated-Yolov3 - Arbitrary oriented object detection implemented with yolov3 (attached with some tricks).' 
+https://github.com/ming71/rotate-yolov3
+
+【漫画内容审查条检测器】’Detecting censors with deep learning and computer vision - master' 
+https://github.com/natethegreate/hent-AI
+
+### hloc：模块化6-DoF视觉定位工具箱，CVPR 2020室内/户外定位挑战优胜方案(Hierarchical Localization + SuperGlue)
+https://github.com/cvg/Hierarchical-Localization
+
+Yet-Another-YOLOv4-Pytorch - YOLOv4 Pytorch implementation with all freebies and specials.
+https://github.com/VCasecnikovs/Yet-Another-YOLOv4-Pytorch
+
+【YOLOv4的㕛一个PyTorch实现】
+https://github.com/WongKinYiu/PyTorch_YOLOv4
+
+建筑立面图像上的门窗检测
+http://jcst.ict.ac.cn/EN/10.1007/s11390-020-0253-4 https://github.com/lck1201/win_det_heatmaps
+
+Cascaded Human-Object Interaction Recognition
+https://github.com/tfzhou/C-HOI
+
+### This is the official pytorch implementation for paper: BiDet: An Efficient Binarized Object Detector, which is accepted by CVPR2020.
+https://github.com/ZiweiWangTHU/BiDet
+
+[Pedestron] Pedestrian Detection: The Elephant In The Room. On ArXiv 2020
+https://github.com/hasanirtiza/Pedestron
+
+The implementation of paper "Gliding vertex on the horizontal bounding box for multi-oriented object detection".
+https://github.com/MingtaoFu/gliding_vertex
+
+Camouflaged Object Detection, CVPR 2020 (Oral)
+https://github.com/DengPingFan/SINet
+
+### Memory Enhanced Global-Local Aggregation for Video Object Detection, CVPR2020
+https://github.com/Scalsol/mega.pytorch
+
+Source codes of "CentripetalNet: Pursuing High-quality Keypoint Pairs for Object Detection"
+https://github.com/KiveeDong/CentripetalNet
+
+Scale Match for Tiny Person Detection(WACV2020), Official link of the dataset
+https://github.com/ucas-vg/TinyBenchmark
+
+The pytorch re-implement of the official efficientdet with SOTA performance in real time and pretrained weights.
+https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch
+
+Implementation of our CVPR2020 paper Hit-Detector: Hierarchical Trinity Architecture Search for Object Detection
+https://github.com/ggjy/HitDet.pytorch
+
+"Detection in Crowded Scenes: One Proposal, Multiple Predictions",
+https://github.com/Purkialo/CrowdDet
+
+Scale-equalizing Pyramid Convolution for object detection
+https://github.com/jshilong/SEPC
+
+IterDet: Iterative Scheme for Object Detection in Crowded Environments
+https://github.com/saic-vul/iterdet
+
+### End-to-End Object Detection with Transformers
+https://github.com/facebookresearch/detr
+
+DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution
+https://github.com/joe-siyuan-qiao/DetectoRS
+
+Implementation of 'Learning a Unified Sample Weighting Network for Object Detection' [CVPR 2020]
+https://github.com/caiqi/sample-weighting-network
+
+CVPR 2020 oral paper: Overcoming Classifier Imbalance for Long-tail Object Detection with Balanced Group Softmax.
+https://github.com/FishYuLi/BalancedGroupSoftmax
+
+Bounding box augmentations for Pytorch
+https://github.com/harpalsahota/bbaug
+
+The official PyTorch implementation of paper Exploring Categorical Regularization for Domain Adaptive Object Detection (CR-DA-DET)
+https://github.com/Megvii-Nanjing/CR-DA-DET
+
+code repository of “Rethinking the Route Towards Weakly Supervised Object Localization” in CVPR 2020
+https://github.com/tzzcl/PSOL
+
+AugFPN: Improving Multi-scale Feature Learning for Object Detection(CVPR 2020)
+https://github.com/Gus-Guo/AugFPN
+
+HoughNet: Integrating near and long-range evidence for bottom-up object detection
+https://github.com/nerminsamet/houghnet
+
+### {MMDetection}: Open MMLab Detection Toolbox and Benchmark
+https://github.com/dereyly/mmdet_sota
+
+R3Det: Refined Single-Stage Detector with Feature Refinement for Rotating Object
+https://github.com/SJTU-Thinklab-Det/r3det-on-mmdetection
+
+This project provides an implementation for "BorderDet: Border Feature for Dense Object Detection" (ECCV2020 Oral) on PyTorch.
+https://github.com/Megvii-BaseDetection/BorderDet
+
+Pillar-based Object Detection for Autonomous Driving
+https://github.com/WangYueFt/pillar-od
+
+PIoU Loss: Towards Accurate Oriented Object Detection in Complex Environments,
+https://github.com/clobotics/piou

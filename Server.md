@@ -157,3 +157,12 @@ https://github.com/phodal/migration
 
 用docker可简单部署的虚拟浏览器
 https://github.com/nurdism/neko
+
+Kubernetes IDE：Lens。
+https://github.com/lensapp/lens
+
+'Kuboard - 基于 Kubernetes 的微服务管理界面'
+https://github.com/eip-work/kuboard-press
+
+【Ward：简单易用的服务器监控工具】
+https://github.com/B-Software/Ward

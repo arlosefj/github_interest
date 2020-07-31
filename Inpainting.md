@@ -88,3 +88,27 @@ https://arxiv.org/abs/1905.09010
 
 QD-IMD: Quick Draw Irregular Mask Dataset
 https://github.com/karfly/qd-imd
+
+【图像GPT：用于像素生成/补全的图像无监督Transformer模型】
+https://github.com/openai/image-gpt
+
+《Learning Joint Spatial-Temporal Transformations for Video Inpainting》
+https://github.com/researchmm/STTN https://arxiv.org/abs/2007.10247
+
+Region Normalization for Image Inpainting, accepted by AAAI-2020
+https://github.com/geekyutao/RN
+
+The PyTorch implementation of ICCV 2019 oral paper: free-form inpainting (deepfillv2), especially Gated Conv
+https://github.com/zhaoyuzhi/deepfillv2
+
+### Image Inpainting Project based on CVPR 2020 Oral Paper on HiFill
+https://github.com/Atlas200dk/sample-imageinpainting-HiFill
+
+Source code of AAAI 2020 paper 'Learning to Incorporate Structure Knowledge for Image Inpainting'
+https://github.com/YoungGod/sturcture-inpainting
+
+Pytorch re-implementation of Paper: Image Inpainting with Learnable Bidirectional Attention Maps (ICCV 2019)
+https://github.com/Vious/LBAM_Pytorch
+
+The source code for CVPR 2020 accepted paper "Recurrent Feature Reasoning for Image Inpainting"
+https://github.com/jingyuanli001/RFR-Inpainting

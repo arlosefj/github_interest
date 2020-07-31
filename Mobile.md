@@ -28,6 +28,15 @@ https://blog.tensorflow.org/2020/04/tensorflow-lite-core-ml-delegate-faster-infe
 A PyTorch implementation of Pelee: A Real-Time Object Detection System on Mobile Devices 
 https://github.com/yxlijun/Pelee.Pytorch
 
+【在iOS应用中运行Python代码】’PyBridge-iOS - Reuse Python code in native iOS applications' 
+https://github.com/joaoventura/pybridge-ios
+
+Google MediaPipe更新设备端实时手势跟踪
+https://github.com/google/mediapipe/blob/master/mediapipe/docs/hand_tracking_mobile_gpu.md https://google.github.io/mediapipe/solutions/hands
+
+### 'YOLOv5 in PyTorch > ONNX > CoreML > iOS' 
+https://github.com/ultralytics/yolov5
+
 用Core ML完全在移动端训练卷积神经网络
 https://github.com/JacopoMangiavacchi/MNIST-CoreML-Training
 
@@ -123,3 +132,12 @@ https://github.com/HolmesShuan/CNN-Inference-Engine-Quick-View
 
 iOS机器学习挑战项目大列表
 https://github.com/motlabs/awesome-ml-demos-with-ios
+
+【手机端神经网络前向计算框架NCCNN相关资源大列表】’Awesome-NCNN - 😎A Collection Awesome NCNN-based Projects' 
+https://github.com/zchrissirhcz/awesome-ncnn
+
+### 【YOLOv5安卓平台基于NCNN框架的C++实现】
+https://github.com/sunnyden/YOLOV5_NCNN_Android
+
+OpenCV for Android环境搭建 
+https://zhuanlan.zhihu.com/p/86853697?utm_source=weibo&utm_medium=social&utm_oi=853246989066977280&utm_content=snapshot
