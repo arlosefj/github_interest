@@ -207,3 +207,6 @@ https://github.com/Boyiliee/MoEx
 
 Semantically Multi-modal Image Synthesis
 https://github.com/Seanseattle/SMIS
+
+【用合成数据改进机器学习大规模非平衡数据集】《Improving massively imbalanced datasets in machine learning with synthetic data》
+https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fimproving-massively-imbalanced-datasets-in-machine-learning-with-synthetic-data-7dd3d856bbdf

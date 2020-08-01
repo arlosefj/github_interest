@@ -140,3 +140,6 @@ https://towardsdatascience.com/everyone-can-use-deep-learning-now-8d683f92bce7
 
 ### 【Visual Machine Learning：机器学习交互可视化Demo集锦】
 https://github.com/dsgiitr/VisualML
+
+### 有没有一些图像处理新手可以练习的项目
+https://www.zhihu.com/question/269921460
