@@ -36,3 +36,13 @@ https://github.com/github/choosealicense.com
 
 Sogou C++ Workflow：搜狗公司的后端C++编程标准，一套企业级的程序引擎
 https://github.com/sogou/workflow
+
+【C++优化技巧集】’CPP Optimizations Diary - Tips and tricks about common otimizations in C++' 
+https://github.com/facontidavide/CPP_Optimizations_Diary
+
+### 【C语言交互式编程环境】'C-Toy - Interactive C coding environment' 
+https://github.com/anael-seghezzi/CToy
+
+
+【subprocess：C++跨平台子进程库】
+https://github.com/benman64/subprocess
