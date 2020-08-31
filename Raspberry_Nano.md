@@ -93,3 +93,7 @@ https://github.com/uzh-rpg/vilib
 
 Deep Learning Nodes for ROS/ROS2 - Deep learning inference nodes for ROS with support for NVIDIA Jetson TX1/TX2/Xavier and TensorRT
 https://github.com/dusty-nv/ros_deep_learning
+
+### 轻量的用于推理pytorch模型的框架
+https://github.com/msnh2012/Msnhnet https://blog.csdn.net/MSNH2012/article/details/107216704
+

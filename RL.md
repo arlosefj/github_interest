@@ -171,3 +171,6 @@ https://github.com/Denys88/rl_games
 
 An algorithm that generalizes the paradigm of self-play reinforcement learning and search to imperfect-information games.
 https://github.com/facebookresearch/rebel
+
+### 基于图像的游戏AI自动化框架
+https://github.com/Tencent/GameAISDK
