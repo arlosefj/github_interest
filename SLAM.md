@@ -92,3 +92,6 @@ https://github.com/TUMFTM/orbslam-map-saving-extension
 
 This repository is the official implementation of Beyond the Nav-Graph: Vision-and-Language Navigation in Continuous Environments.
 https://github.com/jacobkrantz/VLN-CE
+
+DXSLAM is a visual SLAM system based on deep CNN feature extraction. 
+https://github.com/ivipsourcecode/dxslam

@@ -573,3 +573,27 @@ https://github.com/WangYueFt/pillar-od
 
 PIoU Loss: Towards Accurate Oriented Object Detection in Complex Environments,
 https://github.com/clobotics/piou
+
+Reducing Label Noise in Anchor-Free Object Detection
+https://github.com/nerminsamet/ppdet
+
+YOLO3D: End-to-end real-time 3D Oriented Object Bounding Box Detection from LiDAR Point Cloud (ECCV 2018)
+https://github.com/maudzung/YOLO3D-YOLOv4-PyTorch
+
+Oriented Object Detection in Aerial Images with Box Boundary-Aware Vectors
+https://github.com/yijingru/BBAVectors-Oriented-Object-Detection
+
+From Open Set to Closed Set: Supervised Spatial Divide-and-Conquer for Object Counting
+https://github.com/xhp-hust-2018-2011/SS-DCNet
+
+CenterNet (Objects as Points) implementation in Keras and Tensorflow
+https://github.com/xuannianz/keras-CenterNet
+
+LabelEnc: A New Intermediate Supervision Method for Object Detection
+https://github.com/megvii-model/LabelEnc
+
+### PP-YOLO: An Effective and Efficient Implementation of Object Detecto
+https://github.com/PaddlePaddle/PaddleDetection
+
+Kinematic 3D Object Detection in Monocular Video
+https://github.com/garrickbrazil/kinematic3d

@@ -190,3 +190,18 @@ https://github.com/majedelhelou/SFM
 
 An official implementation of "Learning with Privileged Information for Efficient Image Super-Resolution" (ECCV2020) in PyTorch.
 https://github.com/cvlab-yonsei/PISR
+
+Natural and Realistic Single Image Super-Resolution with Explicit Natural Manifold Discrimination (CVPR, 2019)
+https://github.com/JWSoh/NatSR
+
+CASSP 2020 - ESRGAN+ : Further Improving Enhanced Super-Resolution Generative Adversarial Network - Pytorch implementation
+https://github.com/ncarraz/ESRGANplus
+
+Repository for "A Stereo Attention Module for Stereo Image Super-Resolution ",
+https://github.com/XinyiYing/SAM
+
+Upscale an image by a factor of 4, while generating photo-realistic details.
+https://github.com/IBM/MAX-Image-Resolution-Enhancer
+
+TDAN: Temporally-Deformable Alignment Network for Video Super-Resolution, CVPR 2020
+https://github.com/YapengTian/TDAN-VSR-CVPR-2020

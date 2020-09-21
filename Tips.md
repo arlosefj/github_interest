@@ -51,3 +51,6 @@ Buckminster Fuller：对于新想法，你有十分钟左右的时间开始行�
 
 François Chollet：永远对自己的解决方案和以往工作保持怀疑——一切进步，都源于这样一种信念：还有你没想到的更好方法。 
 
+matplotlib技巧：要调整图片分辨率，与其用 plt.figure(figsize=(8, 8)) ，再挨个调字体大小，不如直接用： plt.figure(dpi = 300)
+
+### https://www.mit.edu/~amidi/teaching/data-science-tools/

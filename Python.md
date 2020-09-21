@@ -597,3 +597,6 @@ https://github.com/yiblet/inquest
 
 基于matplotlib+networkx的多层网络图绘制模板代码
 https://github.com/jkbren/matplotlib-multilayer-network
+
+### 用Python开发的游戏列表
+https://github.com/CharlesPikachu/Games

@@ -673,3 +673,12 @@ https://github.com/ZHKKKe/DualStudent
 
 This repository provides the code for replicating the experiments in the paper "Building One-Shot Semi-supervised (BOSS) Learning up to Fully Supervised Performance"
 https://github.com/lnsmith54/BOSS
+
+scikit-opt - Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Optimization Algorithm,Immune Algorithm, Artificial Fish Swarm Algorithm, Differential Evolution and TSP(Traveling salesman) 遗传、粒子群、模拟退火、蚁群算法等
+https://github.com/guofei9987/scikit-opt
+
+Toolkit for building machine learning models that generalize to unseen domains and are robust to privacy and other attacks.
+https://github.com/microsoft/robustdg
+
+Learning Visual Context by Comparison. In The European Conference on Computer Vision (ECCV), August 2020
+https://github.com/mk-minchul/attend-and-compare

@@ -398,3 +398,6 @@ https://github.com/lllyasviel/DanbooRegion
 
 FineGym: A Hierarchical Video Dataset for Fine-grained Action Understanding
 https://github.com/SDOlivia/FineGym
+
+Code for the CVPR 2020 paper "OASIS: A Large-Scale Dataset for Single Image 3D in the Wild"
+https://github.com/princeton-vl/oasis

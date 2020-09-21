@@ -242,3 +242,6 @@ https://github.com/blueardour/model-quantization
 
 Group Sparsity: The Hinge Between Filter Pruning and Decomposition for Network Compression. CVPR2020.
 https://github.com/ofsoundof/group_sparsity
+
+Lossless CNN Channel Pruning via Gradient Resetting and Convolutional Re-parameterization
+https://github.com/DingXiaoH/ResRep

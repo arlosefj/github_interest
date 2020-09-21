@@ -528,3 +528,38 @@ https://github.com/google-research/ssl_detection
 
 ### Official implementation for "CP-VTON+: Clothing Shape and Texture Preserving Image-Based Virtual Try-On" from CVPRW 2020.
 https://github.com/minar09/cp-vton-plus
+
+最新的卡通风效果
+https://github.com/SystemErrorWang/White-box-Cartoonization
+
+新版动画滤镜，看首页上的样品照片还挺不错的 TachibanaYoshino / AnimeGANv2
+https://github.com/TachibanaYoshino/AnimeGANv2
+
+Few-shot Knowledge Transfer for Fine-grained Cartoon Face Generation
+https://github.com/minivision-ai/photo2cartoon
+
+GPU-Jupyter：使用方便的Jupyter+GPU的Docker镜像
+https://github.com/iot-salzburg/gpu-jupyter
+
+Visual Chirality (CVPR2020 Best Paper Nominee)
+https://github.com/linzhiqiu/digital_chirality
+
+NVIDIA针对自家GPU优化的云推断解决方案，通过HTTP/REST或GRPC端点提供推理服务，也可以作为带API的共享库使用，支持各种深度学习框架
+https://github.com/triton-inference-server/server
+
+### FlexInfer：灵活的Python前端(C++/CUDA)推理SDK 
+https://github.com/Media-Smart/flexinfer
+volksdep is an open-source toolbox for deploying and accelerating PyTorch, Onnx and Tensorflow models with TensorRT.
+https://github.com/Media-Smart/volksdep
+
+### PyTorch open-source toolbox for image-based localization (place recognition), including the implementation of our ECCV-2020 spotlight paper
+https://github.com/yxgeee/OpenIBL
+
+### 手把手：用OpenCV解数独
+https://www.pyimagesearch.com/2020/08/10/opencv-sudoku-solver-and-ocr/
+
+### SwapNet：用PyTorch复现的虚拟试衣，提供Docker支持
+https://github.com/andrewjong/SwapNet
+
+### 开放城市AI 挑战：面向灾难修复的建筑物分割 优胜方案
+https://github.com/drivendataorg/open-cities-ai-challenge

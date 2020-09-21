@@ -143,3 +143,25 @@ https://github.com/dsgiitr/VisualML
 
 ### 有没有一些图像处理新手可以练习的项目
 https://www.zhihu.com/question/269921460
+
+### 国内一位 AI 工程师沙韬伟在 GitHub 上开放了一套算法理论基础知识。
+https://github.com/sladesha/Reflection_Summary
+
+类似 Jupyter Notebook 的交互式笔记本：Starboard。
+https://github.com/gzuidhof/starboard-notebook https://starboard.gg/
+通过它，你可以在网页上直接写出可交互、可运行的代码笔记，内置浏览器，零配置，简单易用。并支持应用到个人博客、技术教程、数据可视化、Web Demo 示例、API 文档、机器学习演示、技术报告等多种使用场景上。
+
+XGrad-CAM implementation in Pytorch
+https://github.com/Fu0511/XGrad-CAM
+
+Best Practices, code samples, and documentation for Computer Vision.
+https://github.com/microsoft/computervision-recipes
+
+One day workshop for machine learning with scikit-learn
+https://github.com/amueller/sklearn-one-day
+
+Jupyter Book：用Jupyter Notebooks制作交互式出版质量的文档
+https://github.com/executablebooks/jupyter-book https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fblog.jupyter.org%2Fannouncing-the-new-jupyter-book-cbf7aa8bc72e
+
+前馈神经网络训练可视化演示
+https://github.com/juniorrojas/ff-net

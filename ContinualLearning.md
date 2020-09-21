@@ -39,3 +39,6 @@ https://jacobgil.github.io/deeplearning/activelearning
 
 【Continuum：简洁的持续学习库
 https://github.com/Continvvm/continuum
+
+### An unofficial pytorch implementation of "Large Scale Incremental Learning"
+https://github.com/sairin1202/BIC

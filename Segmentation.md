@@ -831,3 +831,27 @@ https://github.com/Britefury/cutmix-semisup-seg
 
 Learning Integral Objects with Intra-Class Discriminator for Weakly-Supervised Semantic Segmentation
 https://github.com/js-fan/ICD
+
+### SemTorch：PyTorch深度学习图像分割库
+https://github.com/WaterKnight1998/SemTorch
+
+### Instance Segmentation based on CenterNet and CondInst
+https://github.com/CaoWGG/CenterNet-CondInst
+
+Forest R-CNN: Large-Vocabulary Long-Tailed Object Detection and Instance Segmentation (ACM MM 2020)
+https://github.com/JialianW/Forest_RCNN
+
+### Prototype Mixture Models for Few-shot Semantic Segmentation
+https://github.com/Yang-Bob/PMMs
+
+### PFENet: Prior Guided Feature Enrichment Network for Few-shot Segmentation (TPAMI)
+https://github.com/Jia-Research-Lab/PFENet
+
+### Prototype Mixture Models for Few-shot Semantic Segmentation
+https://github.com/Yang-Bob/PMMs
+
+Code for our ACMMM2020 paper "Context-aware Feature Generation for Zero-shot Semantic Segmentation".
+https://github.com/bcmi/CaGNet-Zero-Shot-Semantic-Segmentation
+
+Fourier Domain Adaptation for Semantic Segmentation
+https://github.com/YanchaoYang/FDA

@@ -108,3 +108,6 @@ https://github.com/cshizhe/hgr_v2t
 
 The repository of ECCV 2020 paper `Active Visual Information Gathering for Vision-Language Navigation
 https://github.com/HanqingWangAI/Active_VLN
+
+Code for the CVPR 2020 oral paper: Weakly Supervised Visual Semantic Parsing
+https://github.com/alirezazareian/vspnet https://arxiv.org/abs/2001.02359

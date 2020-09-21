@@ -204,3 +204,15 @@ https://github.com/VideoObjectSearch/RandPerson
 
 ### PyTorch实现的人员搜索
 https://github.com/DeepAlchemist/deep-person-search
+
+Interpretable and Generalizable Person Re-Identification with Query-Adaptive Convolution and Temporal Lifting
+https://github.com/ShengcaiLiao/QAConv
+
+The official code for ECCV2020 "Rethinking the Distribution Gap of Person Re-identification with Camera-based Batch Normalization"
+https://github.com/automan000/Camera-based-Person-ReID
+
+车辆重识别相关文献列表
+https://github.com/bismex/Awesome-vehicle-re-identification
+
+A simple and effective feature alignment method with proposed anchor loss for person re-identification
+https://github.com/qychen13/ClusterAlignReID

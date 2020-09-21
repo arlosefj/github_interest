@@ -108,3 +108,6 @@ https://github.com/sunniesuhyoung/DST
 
 《Style is a Distribution of Features》
 https://github.com/aigagror/wasserstein-style-transfer
+
+[ECCV 2020] Domain-Specific Mappings for Generative Adversarial Style Transfer
+https://github.com/acht7111020/DSMAP

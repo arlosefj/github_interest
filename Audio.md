@@ -316,3 +316,18 @@ https://github.com/ming024/FastSpeech2
 
 It's an naive implementation of Multi-band MelGAN: Faster Waveform Generation for High-Quality Text-to-Speech.
 https://github.com/AppleHolic/multiband_melgan
+
+PyTorch Implementation of FastSpeech 2 : Fast and High-Quality End-to-End Text to Speech
+https://github.com/rishikksh20/FastSpeech2
+
+GELP: GAN-Excited Linear Prediction
+https://github.com/ljuvela/GELP
+
+### CASR-DEMO(中文自动语音识别演示系统） - 基于Flask Web的中文自动语音识别演示系统,包含语音识别、语音合成、声纹识别之说话人识别
+https://github.com/lihanghang/CASR-DEMO
+
+Unofficial PyTorch implementation of Multi-Band MelGAN paper
+https://github.com/rishikksh20/melgan
+
+### 中文语音识别 - Chinese speech recognition
+https://github.com/chenmingxiang110/Chinese-automatic-speech-recognition

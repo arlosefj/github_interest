@@ -754,3 +754,27 @@ https://github.com/tonyngjichun/SOLAR
 Unpaired Learning of Deep Image Denoising
 https://github.com/XHWXD/DBSN
 
+
+Pytorch code for "Spatial-Adaptive Network for Single Image Denoising"
+https://github.com/JimmyChame/SADNet
+
+Code for paper "Deep Hough Transform for Semantic Line Detection" (ECCV2020)
+https://github.com/Hanqer/deep-hough-transform
+
+Code for the CVPR 2020 paper "A Multi-task Mean Teacher for Semi-supervised Shadow Detection"
+https://github.com/eraserNut/MTMT
+
+Tensorflow Implementation of DexiNed for Edge Detection
+https://github.com/xavysp/DexiNed
+
+### A tool for removing background from photos with neural networks
+https://github.com/OPHoperHPO/image-background-remove-tool
+
+Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement
+https://github.com/Li-Chongyi/Zero-DCE
+
+Fast underwater image enhancement for Improved Visual Perception.
+https://github.com/xahidbuffon/funie-gan
+
+Repository for Real-World Blur Dataset for Learning and Benchmarking Deblurring Algorithms
+https://github.com/rimchang/RealBlur

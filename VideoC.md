@@ -189,3 +189,12 @@ https://github.com/MCG-NJU/MOC-Detector
 
 Repository for PREDICT & CLUSTER: Unsupervised Skeleton Based Action Recognition
 https://github.com/shlizee/Predict-Cluster
+
+### The code for our paper 《Self-Supervised Temporal-Discriminative Representation Learning for Video Action Recognition》
+https://github.com/FingerRec/Self-Supervised-Temporal-Discriminative-Representation-Learning-for-Video-Action-Recognition
+
+The Pytorch code of the TEA module (Temporal Excitation and Aggregation for Action Recognition)
+https://github.com/Phoenix1327/tea-action-recognition
+
+Official repo for ECCV 2020 paper - RubiksNet: Learnable 3D-Shift for Efficient Video Action Recognition
+https://github.com/StanfordVL/RubiksNet

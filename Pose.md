@@ -269,3 +269,9 @@ https://github.com/jin-s13/COCO-WholeBody
 
 The Devil is in the Details: Delving into Unbiased Data Processing for Human Pose Estimation
 https://github.com/HuangJunJie2017/UDP-Pose
+
+Official PyTorch implementation of "InterHand2.6M: A Dataset and Baseline for 3D Interacting Hand Pose Estimation from a Single RGB Image", ECCV 2020
+https://github.com/facebookresearch/InterHand2.6M
+
+The implementation for "Skeleton-Based Action Recognition with Shift Graph Convolutional Network"
+https://github.com/kchengiva/Shift-GCN

@@ -500,3 +500,9 @@ https://github.com/pfnet/pfrl
 
 ### Score-CAM: Score-Weighted Visual Explanations for Convolutional Neural Networks
 https://github.com/haofanwang/Score-CAM
+
+### Msnhnet：受darknet启发的轻量PyTorch推理框架
+https://github.com/msnh2012/Msnhnet
+
+MiniTorch：面向深度学习实现教学的Torch API复现库
+https://minitorch.github.io/

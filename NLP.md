@@ -206,3 +206,6 @@ http://dugas.ch/artificial_curiosity/GPT_architecture.html
 
 'Modify Chinese text, modified on LaserTagger Model. 文本复述，基于lasertagger做中文文本数据增强。
 https://github.com/tongchangD/text_data_enhancement_with_LaserTagger
+
+### Project Insight：NLP即服务，streamlit + FastApi + transformers 打造的NLP API服务，Docker方式提供
+https://github.com/abhimishra91/insight

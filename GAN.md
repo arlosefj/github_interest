@@ -691,3 +691,24 @@ https://github.com/davidbau/rewriting
 
 PyTorch Implementation of CUT, Contrastive Learning for Unpaired Image-to-Image Translation, ECCV 2020
 https://github.com/taesungp/contrastive-unpaired-translation
+
+Code for the paper "Controlling Style and Semantics in Weakly-Supervised Image Generation"
+https://github.com/dariopavllo/style-semantics
+
+### StyleFlow: Attribute-conditioned Exploration of StyleGAN-generated Images using Conditional Continuous Normalizing Flows 
+https://github.com/RameenAbdal/StyleFlow
+
+### MichiGAN: Multi-Input-Conditioned Hair Image Generation for Portrait Editing
+https://github.com/tzt101/MichiGAN
+
+### Bipartite Graph Reasoning GANs for Person Image Generation
+https://github.com/Ha0Tang/BiGraphGAN
+
+Dual In-painting Model for Unsupervised Gaze Correction and Animation in the Wild
+https://github.com/zhangqianhui/GazeAnimation
+
+DF-GAN: Deep Fusion Generative Adversarial Networks for Text-to-Image Synthesis
+https://github.com/tobran/DF-GAN
+
+### StyleGAN2 Distillation for Feed-forward Image Manipulation
+https://github.com/Gie-ok-Hie-ut/pytorch-stylegan2-distillation

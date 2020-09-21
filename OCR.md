@@ -541,3 +541,33 @@ https://github.com/saicoco/SA-Text
 
 MASTER: Multi-Aspect Non-local Network for Scene Text Recognition
 https://github.com/jiangxiluning/MASTER-TF https://arxiv.org/abs/1910.02562
+
+AutoSTR: Efficient Backbone Search for Scene Text Recognition.
+https://github.com/AutoML-4Paradigm/AutoSTR
+
+### OCR-Corrector - 利用语言模型，纠正OCR识别错误
+https://github.com/tiantian91091317/OCR-Corrector
+
+"TextRay: Contour-based Geometric Modeling for Arbitrary-shaped Scene Text Detection"
+https://github.com/LianaWang/TextRay
+
+Packaged, Pytorch-based, easy to use, cross-platform version of the CRAFT text detector
+https://github.com/fcakyon/craft-text-detector
+
+### layout-parser：基于深度学习的文档布局分析器
+https://github.com/Layout-Parser/layout-parser
+
+A PyTorch implementation of "ContourNet: Taking a Further Step toward Accurate Arbitrary-shaped Scene Text Detection"
+https://github.com/wangyuxin87/ContourNet
+
+Scanning Single Shot Detector for Math in Document Images
+https://github.com/MaliParag/ScanSSD https://arxiv.org/pdf/2003.08005.pdf
+
+Data and implementation of ECCV2020 paper 'Adaptive Text Recognition through Visual Matching'
+https://github.com/Chuhanxx/FontAdaptor
+
+This is the implementation of the paper "SEED: Semantics Enhanced Encoder-Decoder Framework for Scene Text Recognition" 
+https://github.com/Pay20Y/SEED
+
+The code of "Mask TextSpotter v3: Segmentation Proposal Network for Robust Scene Text Spotting"
+https://github.com/MhLiao/MaskTextSpotterV3

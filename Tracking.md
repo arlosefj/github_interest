@@ -209,3 +209,12 @@ https://github.com/MCG-NJU/FCOT
 
 Learning a Neural Solver for Multiple Object Tracking
 https://github.com/dvl-tum/mot_neural_solver
+
+Comparision：基于基准任务的目标跟踪算法比较
+https://github.com/JudasDie/Comparison
+
+### Official implementation in PyTorch of Chained-Tracker as described in Chained-Tracker: Chaining Paired Attentive Regression Results for End-to-End Joint Multiple-Object Detection and Tracking.
+https://github.com/pjl1995/CTracker
+
+Deep Motion Modeling Network
+https://github.com/shijieS/DMMN

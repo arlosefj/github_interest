@@ -54,3 +54,9 @@ https://github.com/lartpang/MINet
 
 Classifier-agnostic saliency map extraction
 https://github.com/kondiz/casme
+
+RGB-D Salient Object Detection: A Survey
+https://github.com/taozh2017/RGBD-SODsurvey
+
+Deep Connected Attention Networks
+https://github.com/13952522076/DCANet

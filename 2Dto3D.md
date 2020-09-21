@@ -348,3 +348,15 @@ https://github.com/minghanz/DepthC3D
 
 [ECCV'20] Patch-match and Plane-regularization for Unsupervised Indoor Depth Estimation
 https://github.com/svip-lab/Indoor-SfMLearner
+
+### Structure-Guided Ranking Loss for Single Image Depth Prediction
+https://github.com/KexianHust/Structure-Guided-Ranking-Loss
+
+### We estimate dense, flicker-free, geometrically consistent depth from monocular video, for example hand-held cell phone video.
+https://github.com/facebookresearch/consistent_depth
+
+语义视图合成——根据语义标记图生成逼真图像，支持新视角的渲染。核心思想是，首先建立可见表面，再推断三维场景表示，最终建立完整的三维场景模型。
+https://hhsinping.github.io/svs/link/paper.pdf https://hhsinping.github.io/svs/index.html
+
+[ECCV 2020] Single image depth prediction allows us to rectify planar surfaces in images and extract view-invariant local features for better feature matching
+https://github.com/nianticlabs/rectified-features

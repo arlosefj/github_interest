@@ -468,3 +468,9 @@ https://github.com/dchen236/FairFace
 
 PyTorch implementation of Additive Angular Margin Loss for Deep Face Recognition.
 https://github.com/foamliu/InsightFace-PyTorch
+
+EHANet: An effective hierarchical aggregation network for face parsing
+https://github.com/JACKYLUO1991/FaceParsing
+
+腾讯优图高精度双分支人脸检测器
+https://github.com/Tencent/FaceDetection-DSFD

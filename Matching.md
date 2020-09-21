@@ -61,3 +61,6 @@ https://github.com/wy1iu/NSL
 
 Unofficial PyTorch implementation of "FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence"
 https://github.com/valencebond/FixMatch_pytorch
+
+### PyTorch实现的相似图片搜索
+https://github.com/oke-aditya/image_similarity

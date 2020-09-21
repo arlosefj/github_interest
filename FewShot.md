@@ -217,3 +217,18 @@ https://github.com/liulu112601/URT
 
 (ECCV 2020) PyTorch implementation of paper "Few-Shot Object Detection and Viewpoint Estimation for Objects in the Wild"
 https://github.com/YoungXIAO13/FewShotDetection
+
+Official repository for Few-Shot Class-Incremental Learning (FSCIL)
+https://github.com/xyutao/fscil
+
+(ECCV 2020) PyTorch implementation of paper "Few-Shot Object Detection and Viewpoint Estimation for Objects in the Wild"
+https://github.com/YoungXIAO13/FewShotViewpoint
+
+### FewX：基于Detectron2用于数据受限实例级识别任务的开源工具箱，包括少样本目标检测、少样本实例分割、部分监督实例分割等任务
+https://github.com/fanq15/FewX
+
+Code for paper "DeepEMD: Few-Shot Image Classification with Differentiable Earth Mover's Distance and Structured Classifiers", CVPR2020
+https://github.com/icoz69/DeepEMD
+
+(CVPR2020) Revisiting Pose-Normalization for Fine-Grained Few-Shot Recognition
+https://github.com/Tsingularity/PoseNorm_Fewshot

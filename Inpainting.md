@@ -112,3 +112,6 @@ https://github.com/Vious/LBAM_Pytorch
 
 The source code for CVPR 2020 accepted paper "Recurrent Feature Reasoning for Image Inpainting"
 https://github.com/jingyuanli001/RFR-Inpainting
+
+### An Internal Learning Approach to Video Inpainting
+https://github.com/Haotianz94/IL_video_inpainting
