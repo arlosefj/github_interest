@@ -59,9 +59,6 @@ https://github.com/IIT-PAVIS/Social-Distancing
 【WebXR + TensorFlow.js 实现的拍照创建全息Demo】
 https://nosy-b.github.io/holography/
 
-【Linux下的摄像头背景伪造】’Linux-Fake-Background-Webcam - Faking your webcam background under GNU/Linux.'
-https://github.com/fangfufu/Linux-Fake-Background-Webcam
-
 在线会议玩变身！Zoom/Skype虚拟化身
 https://github.com/alievk/avatarify
 
@@ -203,9 +200,6 @@ https://mp.weixin.qq.com/s/46P-M2wHx4277EhQAhBGEA
 
 为工程师设计的机器学习课程和教学项目
 https://github.com/lukas/ml-class
-
-### 真人自拍生成二次元头像
-https://mp.weixin.qq.com/s/Qr4PlxjiQPPoxRDskeDIUw https://github.com/znxlwm/UGATIT-pytorch
 
 Keras深度学习实践：交通标志分类
 https://www.pyimagesearch.com/2019/11/04/traffic-sign-classification-with-keras-and-deep-learning/
@@ -433,9 +427,6 @@ https://venturebeat.com/2020/01/02/top-minds-in-machine-learning-predict-where-a
 用OpenCV、Keras/TensorFlow实现口罩检测
 https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/
 
-### Pose Animator。该项目可识别出人类的表情变化与肢体动作，并将其映射到 2D 矢量图型上，让它跟着你的节拍动起来
-https://github.com/yemount/pose-animator/
-
 用自动年龄预测+军装检测识别童子兵图片
 https://www.pyimagesearch.com/2020/05/11/an-ethical-application-of-computer-vision-and-deep-learning-identifying-child-soldiers-through-automatic-age-and-military-fatigue-detection/
 
@@ -466,9 +457,6 @@ https://github.com/AutoViML/AutoViz https://towardsdatascience.com/autoviz-a-new
 【Auto Painter的web demo代码】
 https://github.com/irfanICMLL/Auto_painter_demo
 
-【用脸玩的贪吃蛇】
-https://github.com/paruby/snake-face
-
 ### 【AlphaVideo：PyTorch视频理解工具箱(多目标追踪/行为识别)】
 https://github.com/Alpha-Video/AlphaVideo
 
@@ -483,9 +471,6 @@ https://github.com/OAID/TengineKit
 
 '静默活体检测 (Silent-Face-Anti-Spoofing)' 
 https://github.com/minivision-ai/Silent-Face-Anti-Spoofing
-
-【(OpenCV/Numpy)用手势控制赛车游戏】’ChoudharyChanchal - using openCV and Numpy libraries of Python to control a racing game with the steering wheel'
-https://github.com/ChoudharyChanchal/game_control
 
 ### 微软的 AI Lab 项目 AI Lab helps our large fast-growing community of developers get started on AI. You can experience, learn and code the latest and greatest innovations from Microsoft AI here. AI Lab currently houses eight projects that showcase the latest in custom vision, attnGAN, Visual Studio tools for AI, Cognitive Search, Machine Reading Comprehension and more. Each lab gives you access to the experimentation playground, source code on GitHub, a crisp developer-friendly video, and insights into the underlying developer/ organizational challenge and solution.
 1. 微软数学：基于 OCR 技术从学生笔记中快速提取数学方程式，并提供解题步骤与相识问题
@@ -502,9 +487,6 @@ https://github.com/Moving-AI/virtual-walk
 【计算机视觉预训练模型集合(Tensorflow/Keras/PyTorch/Caffe/MXNet)】
 https://github.com/balavenkatesh3322/CV-pretrained-model
 
-【做手势控制游戏(OpenCV)】’Gesture Gaming using OpenCV' 
-https://github.com/gnana1997/Gesture-Gaming-using-OpenCV
-
 ### Lane Detection in Low-light Conditions Using an Efficient Data Enhancement : Light Conditions Style Transfer (IV 2020)
 https://github.com/Chenzhaowei13/Light-Condition-Style-Transfer
 
@@ -517,9 +499,6 @@ https://github.com/cfzd/Ultra-Fast-Lane-Detection
 ### IJCAI-2020 Real-World Automatic Makeup via Identity Preservation Makeup Net
 https://github.com/huangzhikun1995/IPM-Net
 
-BeautyGAN: Instance-level Facial Makeup Transfer with Deep Generative Adversarial Network
-https://github.com/Honlan/BeautyGAN
-
 Talking With Hands 16.2M: A Large-Scale Dataset of Synchronized Body-Finger Motion and Audio for Conversational Motion Analysis and Synthesis .
 https://github.com/facebookresearch/TalkingWithHands32M
 
@@ -528,15 +507,6 @@ https://github.com/google-research/ssl_detection
 
 ### Official implementation for "CP-VTON+: Clothing Shape and Texture Preserving Image-Based Virtual Try-On" from CVPRW 2020.
 https://github.com/minar09/cp-vton-plus
-
-最新的卡通风效果
-https://github.com/SystemErrorWang/White-box-Cartoonization
-
-新版动画滤镜，看首页上的样品照片还挺不错的 TachibanaYoshino / AnimeGANv2
-https://github.com/TachibanaYoshino/AnimeGANv2
-
-Few-shot Knowledge Transfer for Fine-grained Cartoon Face Generation
-https://github.com/minivision-ai/photo2cartoon
 
 GPU-Jupyter：使用方便的Jupyter+GPU的Docker镜像
 https://github.com/iot-salzburg/gpu-jupyter
@@ -557,9 +527,6 @@ https://github.com/yxgeee/OpenIBL
 
 ### 手把手：用OpenCV解数独
 https://www.pyimagesearch.com/2020/08/10/opencv-sudoku-solver-and-ocr/
-
-### SwapNet：用PyTorch复现的虚拟试衣，提供Docker支持
-https://github.com/andrewjong/SwapNet
 
 ### 开放城市AI 挑战：面向灾难修复的建筑物分割 优胜方案
 https://github.com/drivendataorg/open-cities-ai-challenge
