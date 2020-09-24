@@ -23,9 +23,6 @@ PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain. �
 https://github.com/youyuge34/PI-REC
 https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ==&mid=2457914983&idx=1&sn=7d2624a39864d915ec7531b6c07c7b22&chksm=8cb6ab8dbbc1229b1550fa6a9ac1903f21f3372b92909f4b63cd2f2ea5f8e8e62b911e6d6823&token=1156490392&lang=zh_CN#rd
 
-跟神经网络玩“石头、剪子、布”
-https://github.com/victorqribeiro/jokenpo
-
 ### Bridging deep learning and logical reasoning using a differentiable satisfiability solver.
 https://github.com/locuslab/SATNet
 
@@ -107,9 +104,6 @@ https://data-flair.training/blogs/computer-vision-project-ideas/
 【用Jupyter Notebooks写博客】
 https://www.fast.ai/2020/01/20/nb2md/
 
-### 【(Python)做动作，打游戏】
-https://github.com/pateldigant/gesture-gaming-python
-
 AI新功能之自动剪视频
 http://www.faculty.idc.ac.il/arik/site/writeVideo.asp 怎样用文字创作视频呢？第一步，用户以文本的形式提供输入。Write-A-Video会挑选出句子中的关键词。第二步，Write-A-Video会利用关键词，把素材库里与之相匹配的候选片段挑出来。第三步，就是将这些镜头组合在一起，完成视频的剪辑。
 
@@ -131,9 +125,6 @@ https://github.com/anmspro/Traffic-Signal-Violation-Detection-System
 AI技术可以一键把静态二次元妹子图转换成VTuber
 https://pkhungurn.github.io/talking-head-anime/
 
-### 【唇色/发色编辑器】
-https://github.com/zllrunning/face-makeup.PyTorch
-
 Pytorch实现的少样本视频-视频转换，可实现多种 示范-合成 任务
 https://github.com/NVlabs/few-shot-vid2vid
 
@@ -154,9 +145,6 @@ http://r.ftqq.com/howto-make-more-money/ch00.html
 
 将你的自拍转成二次元！照片动漫脸生成器！
 https://waifu.lofiu.com/index.zh.html
-
-人像卡通化 (Photo to Cartoon)探索
-https://github.com/minivision-ai/photo2cartoon
 
 【目光/注视估计/检测相关工作大列表】’Awesome Work on Gaze Estimation' 
 https://github.com/cvlab-uob/Awesome-Gaze-Estimation

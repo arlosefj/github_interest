@@ -23,11 +23,14 @@ https://github.com/SystemErrorWang/White-box-Cartoonization
 新版动画滤镜，看首页上的样品照片还挺不错的 TachibanaYoshino / AnimeGANv2
 https://github.com/TachibanaYoshino/AnimeGANv2
 
-Few-shot Knowledge Transfer for Fine-grained Cartoon Face Generation
+人像卡通化 (Photo to Cartoon)探索 Few-shot Knowledge Transfer for Fine-grained Cartoon Face Generation
 https://github.com/minivision-ai/photo2cartoon
 
 SwapNet：用PyTorch复现的虚拟试衣，提供Docker支持
 https://github.com/andrewjong/SwapNet
+
+【唇色/发色编辑器】
+https://github.com/zllrunning/face-makeup.PyTorch
 
 ## 动作交互
 
@@ -43,5 +46,8 @@ https://github.com/ChoudharyChanchal/game_control
 【做手势控制游戏(OpenCV)】’Gesture Gaming using OpenCV' 
 https://github.com/gnana1997/Gesture-Gaming-using-OpenCV
 
+跟神经网络玩“石头、剪子、布”
+https://github.com/victorqribeiro/jokenpo
 
-
+【(Python)做动作，打游戏】
+https://github.com/pateldigant/gesture-gaming-python
