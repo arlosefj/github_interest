@@ -165,3 +165,6 @@ https://github.com/executablebooks/jupyter-book https://medium.com/m/global-iden
 
 前馈神经网络训练可视化演示
 https://github.com/juniorrojas/ff-net
+
+Kaggle金牌得主的机器学习教程（泰坦尼克）
+https://www.kesci.com/home/project/5f69d02471c700003078961b

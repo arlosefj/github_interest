@@ -530,3 +530,6 @@ https://www.pyimagesearch.com/2020/08/10/opencv-sudoku-solver-and-ocr/
 
 ### 开放城市AI 挑战：面向灾难修复的建筑物分割 优胜方案
 https://github.com/drivendataorg/open-cities-ai-challenge
+
+### Gradient Descent Visualization：五种梯度下降方法的交互可视化
+https://github.com/lilipads/gradient_descent_viz (已在macOS下安装成功，效果不错，可以演示 Work/Deeplearning目录)

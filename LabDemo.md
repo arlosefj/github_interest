@@ -51,3 +51,7 @@ https://github.com/victorqribeiro/jokenpo
 
 【(Python)做动作，打游戏】
 https://github.com/pateldigant/gesture-gaming-python
+
+
+https://github.com/techwithtim/Snake-Game + usrevent
+https://github.com/yas-sim/human-pose-estimation-2d-demo
