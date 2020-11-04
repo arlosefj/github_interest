@@ -202,7 +202,7 @@ https://github.com/guxinqian/AP3D
 Surpassing Real-World Source Training Data: Random 3D Characters for Generalizable Person Re-Identification
 https://github.com/VideoObjectSearch/RandPerson
 
-### PyTorch实现的人员搜索
+PyTorch实现的人员搜索
 https://github.com/DeepAlchemist/deep-person-search
 
 Interpretable and Generalizable Person Re-Identification with Query-Adaptive Convolution and Temporal Lifting

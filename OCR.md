@@ -571,3 +571,6 @@ https://github.com/Pay20Y/SEED
 
 The code of "Mask TextSpotter v3: Segmentation Proposal Network for Robust Scene Text Spotting"
 https://github.com/MhLiao/MaskTextSpotterV3
+
+### 弯曲文字矫正
+https://cloud.tencent.com/developer/article/1484463
