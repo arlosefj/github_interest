@@ -574,3 +574,9 @@ https://github.com/MhLiao/MaskTextSpotterV3
 
 ### 弯曲文字矫正
 https://cloud.tencent.com/developer/article/1484463
+
+### table structure recognition
+https://github.com/tommyMessi/tableImageParser_tx
+
+### OCR Document image deformation correction.复现阿里OCR皱巴巴文档图像形变矫正
+https://github.com/tommyMessi/waveCorrection

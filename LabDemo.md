@@ -55,3 +55,8 @@ https://github.com/pateldigant/gesture-gaming-python
 
 https://github.com/techwithtim/Snake-Game + usrevent
 https://github.com/yas-sim/human-pose-estimation-2d-demo
+
+## 其他
+
+Nano发送rtsp流
+
