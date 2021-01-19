@@ -198,3 +198,6 @@ https://github.com/Phoenix1327/tea-action-recognition
 
 Official repo for ECCV 2020 paper - RubiksNet: Learnable 3D-Shift for Efficient Video Action Recognition
 https://github.com/StanfordVL/RubiksNet
+
+基于PyTorch的电影/视频研究工具集
+https://github.com/movienet/movienet-tools

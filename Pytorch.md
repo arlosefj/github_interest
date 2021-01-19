@@ -506,3 +506,21 @@ https://github.com/msnh2012/Msnhnet
 
 MiniTorch：面向深度学习实现教学的Torch API复现库
 https://minitorch.github.io/
+
+PyTorch 教程代码
+https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html https://github.com/yunjey/pytorch-tutorial
+
+GitHub 上一本开源的 PyTorch 书籍：《20 天内吃掉那只 PyTorch》
+https://github.com/lyhue1991/eat_pytorch_in_20_days
+
+WebDataset：面向大数据集、多文件、多GPU的高效PyTorch I/O库
+https://pytorch.org/blog/efficient-pytorch-io-library-for-large-datasets-many-files-many-gpus/
+
+【PyTorch自动混合精度教程】
+https://github.com/hoya012/automatic-mixed-precision-tutorials-pytorch
+
+PyTorchTS：PyTorch概率时间序列预测框架
+https://github.com/zalandoresearch/pytorch-ts
+
+【PyTorch模型压缩】
+https://github.com/j-marple-dev/model_compression

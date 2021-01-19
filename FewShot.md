@@ -232,3 +232,6 @@ https://github.com/icoz69/DeepEMD
 
 (CVPR2020) Revisiting Pose-Normalization for Fine-Grained Few-Shot Recognition
 https://github.com/Tsingularity/PoseNorm_Fewshot
+
+Generalizing from a Few Examples: A Survey on Few-Shot Learning
+https://arxiv.org/abs/1904.05046

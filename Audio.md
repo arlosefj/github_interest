@@ -331,3 +331,15 @@ https://github.com/rishikksh20/melgan
 
 ### 中文语音识别 - Chinese speech recognition
 https://github.com/chenmingxiang110/Chinese-automatic-speech-recognition
+
+### MASR 中文语音识别：端到端深度神经网络中文普通话语音识别项目
+https://github.com/nobody132/masr
+
+Plover：开源跨平台速记引擎，每分钟可录入200+单词
+http://www.openstenoproject.org/plover/
+
+【“Python机器学习声源分离”源码】
+https://github.com/masahitotogami/python_source_separation
+
+【可移植的C语言声学指纹库】
+https://github.com/JorenSix/Olaf

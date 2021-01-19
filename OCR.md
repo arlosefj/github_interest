@@ -580,3 +580,6 @@ https://github.com/tommyMessi/tableImageParser_tx
 
 ### OCR Document image deformation correction.复现阿里OCR皱巴巴文档图像形变矫正
 https://github.com/tommyMessi/waveCorrection
+
+场景文字检测/识别/合成文献资源列表
+https://github.com/yflv-yanxia/scene_text

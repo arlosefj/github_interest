@@ -60,3 +60,6 @@ https://github.com/fkie-cad/awesome-embedded-and-iot-security
 
 面向ARM设备的非官方PyTorch/torchvision编译版
 https://github.com/nmilosev/pytorch-arm-builds
+
+### OpenBot: 用安卓智能手机DIY低成本开源机器人(小车)
+https://github.com/intel-isl/OpenBot

@@ -499,4 +499,11 @@ https://flourish.studio/examples/
 NPS - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。
 https://github.com/ehang-io/nps
 
+InfoSpider - 集众多数据源于一身的爬虫工具箱，旨在安全快捷的帮助用户拿回自己的数据
+https://github.com/kangvcar/InfoSpider
 
+### VS Code 代码调试神器：vscode-debug-visualizer。这款插件用在代码调试时能以图的可视化方式快速展示数据结构，帮你理清数据结构与代码思路，告别枯燥的调试。
+https://github.com/hediet/vscode-debug-visualizer
+
+为开发人员/程序员、系统管理员和其他人编写的Git魔法书
+http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/

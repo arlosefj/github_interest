@@ -37,6 +37,7 @@ https://www.bilibili.com/read/cv5054336
 
 台大《应用深度学习》国语课程(2020) 
 https://www.bilibili.com/read/cv5065910
+https://www.bilibili.com/video/av837613990/
 
 李宏毅《深度学习人类语言处理》国语 (2020)
 https://www.bilibili.com/read/cv5071092
@@ -133,3 +134,9 @@ https://www.bilibili.com/video/BV1eC4y187Ki/
 
 【斯坦福课程：计算机技术面试问题解决技巧(2017)】
 https://web.stanford.edu/class/cs9/
+
+深度学习计算机视觉
+https://www.bilibili.com/video/BV1dv411v7Ly
+
+'BiliBili公开课目录' 
+https://github.com/elder-frog/OpenCourseCatalog

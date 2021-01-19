@@ -600,3 +600,12 @@ https://github.com/jkbren/matplotlib-multilayer-network
 
 ### 用Python开发的游戏列表
 https://github.com/CharlesPikachu/Games
+
+Python 黑魔法手册
+https://github.com/iswbm/magic-python
+
+DearPyGui：GPU加速的Python图形界面开发库
+https://github.com/hoffstadt/DearPyGui
+
+jupyterlab-interactive-dashboard-editor：JupyterLab交互式面板编辑器
+https://github.com/jupytercalpoly/jupyterlab-interactive-dashboard-editor

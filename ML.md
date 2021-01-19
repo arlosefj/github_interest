@@ -682,3 +682,9 @@ https://github.com/microsoft/robustdg
 
 Learning Visual Context by Comparison. In The European Conference on Computer Vision (ECCV), August 2020
 https://github.com/mk-minchul/attend-and-compare
+
+数据科学/机器学习面试题集锦
+https://github.com/rbhatia46/Data-Science-Interview-Resources
+
+含噪标签深度学习文献/资源列表
+https://github.com/gorkemalgan/deep_learning_with_noisy_labels_literature

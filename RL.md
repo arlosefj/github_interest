@@ -174,3 +174,6 @@ https://github.com/facebookresearch/rebel
 
 ### 基于图像的游戏AI自动化框架
 https://github.com/Tencent/GameAISDK
+
+GenRL：PyTorch强化学习库，重在可复现性、易用性和基准性
+https://github.com/SforAiDl/genrl

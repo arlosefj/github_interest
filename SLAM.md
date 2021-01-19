@@ -95,3 +95,6 @@ https://github.com/jacobkrantz/VLN-CE
 
 DXSLAM is a visual SLAM system based on deep CNN feature extraction. 
 https://github.com/ivipsourcecode/dxslam
+
+### 【MAGE-SLAM：C++写的轻量化单目SLAM】
+https://github.com/microsoft/mageslam

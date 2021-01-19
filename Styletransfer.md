@@ -111,3 +111,6 @@ https://github.com/aigagror/wasserstein-style-transfer
 
 [ECCV 2020] Domain-Specific Mappings for Generative Adversarial Style Transfer
 https://github.com/acht7111020/DSMAP
+
+【(Colabs)图片/视频画风迁移】
+https://github.com/tg-bomze/Style-Transfer-Collection

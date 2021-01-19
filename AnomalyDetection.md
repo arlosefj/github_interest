@@ -83,3 +83,9 @@ https://github.com/cizhenshi/TianchiGuangdong2019_2th
 
 OD-test: A Less Biased Evaluation of Out-of-Distribution (Outlier) Detectors (PyTorch)
 https://github.com/ashafaei/OD-test
+
+视频异常检测论文/代码集
+https://github.com/fjchange/awesome-video-anomaly-detection
+
+### luminaire：时序数据异常检测包
+https://github.com/zillow/luminaire

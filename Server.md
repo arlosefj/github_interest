@@ -166,3 +166,6 @@ https://github.com/eip-work/kuboard-press
 
 【Ward：简单易用的服务器监控工具】
 https://github.com/B-Software/Ward
+
+slurm_gpustat：简单的SLURM集群GPU使用情况命令行查看工具
+https://github.com/albanie/slurm_gpustat

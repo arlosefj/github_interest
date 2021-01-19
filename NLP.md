@@ -209,3 +209,24 @@ https://github.com/tongchangD/text_data_enhancement_with_LaserTagger
 
 ### Project Insight：NLP即服务，streamlit + FastApi + transformers 打造的NLP API服务，Docker方式提供
 https://github.com/abhimishra91/insight
+
+Chinese-XLNet - Pre-Trained Chinese XLNet（中文XLNet预训练模型）,基于CMU/谷歌官方的XLNe
+https://github.com/ymcui/Chinese-XLNet
+
+onnxt5：T5的ONNX实现版，可以以极快的速度进行文本摘要、翻译、情感分析、文本生成等等
+https://github.com/abelriboulot/onnxt5
+
+minGPT：300行PyTorch代码训练OpenAI GPT(微型实现)，小巧、整洁、易于理解
+https://github.com/karpathy/minGPT
+
+基于pytorch的中文语言模型预训练'
+https://github.com/zhusleep/pytorch_chinese_lm_pretrain
+
+### Pre-trained Little BERTs 
+https://github.com/sfzhou5678/PretrainedLittleBERTs
+
+【PyTorch实现的GPT-2】
+https://github.com/affjljoo3581/GPT2
+
+基于轻量级的albert实现albert+BiLstm+CRF
+https://github.com/MarsRoger/albert_ner

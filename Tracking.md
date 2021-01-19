@@ -218,3 +218,6 @@ https://github.com/pjl1995/CTracker
 
 Deep Motion Modeling Network
 https://github.com/shijieS/DMMN
+
+多目标追踪论文/代码集
+https://github.com/nightmaredimple/Multi-object-Tracking-paper-code-list

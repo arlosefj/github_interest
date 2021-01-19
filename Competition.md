@@ -193,3 +193,9 @@ https://github.com/PavelOstyakov/pipeline
 
 FashionAI 天池竞赛 - Top5 技术方案简汇
 https://www.aiuai.cn/aifarm881.html
+
+【Kaggle麦穗检测比赛第11名方案】
+https://github.com/amirassov/kaggle-global-wheat-detection
+
+TransferDet：CVPPP 2020小麦检测挑战第三名方案
+https://github.com/liaopeiyuan/TransferDet

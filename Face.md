@@ -474,3 +474,6 @@ https://github.com/JACKYLUO1991/FaceParsing
 
 腾讯优图高精度双分支人脸检测器
 https://github.com/Tencent/FaceDetection-DSFD
+
+FFHQ-Aging Dataset：为基准年龄变换算法和许多其他可能的视觉任务而设计的年龄人脸数据集
+https://github.com/royorel/FFHQ-Aging-Dataset

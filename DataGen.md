@@ -210,3 +210,12 @@ https://github.com/Seanseattle/SMIS
 
 ### 【用合成数据改进机器学习大规模非平衡数据集】《Improving massively imbalanced datasets in machine learning with synthetic data》
 https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fimproving-massively-imbalanced-datasets-in-machine-learning-with-synthetic-data-7dd3d856bbdf
+
+### 全濑体是根据濑户字体为参考样本，通过AI深度学习，将这个手写字体，用电脑生成到跟思源字体一样的字数 还有手写体
+https://www.cjkfonts.io/ 
+
+### 【多人姿态数据集生成代码】
+https://github.com/DavHoffmann/Multi-humanDataGeneration
+
+Anime-to-Real Clothing: Cosplay Costume Generation via Image-to-Image Translation
+https://github.com/tan5o/anime2clothing

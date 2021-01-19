@@ -95,3 +95,6 @@ https://github.com/eisen-ai
 
 【Unity Barracuda：Unity轻量跨平台神经网络推理库】
 https://github.com/Unity-Technologies/barracuda-release
+
+Horovod：TensorFlow/Keras/PyTorch/MXNet深度学习分布式训练框架
+https://github.com/horovod/horovod

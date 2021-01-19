@@ -176,3 +176,6 @@ https://machinelearningtokyo.com/2020/06/04/annotation-tools-for-computer-vision
 
 【NLP标注平台综述】
 https://github.com/alvations/annotate-questionnaire
+
+### CasiaLabeler: CASIA标注工具 - 轻量的标注软件，支持win10、ubuntu18和mac10.13+平台。主要适用于目标检测和实例分割等场景。可用于Faster RCNN, Mask RCNN, Yolo系列, SSD系列, Centernet系列等
+https://github.com/msnh2012/CasiaLabeler

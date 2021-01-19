@@ -401,3 +401,36 @@ https://github.com/SDOlivia/FineGym
 
 Code for the CVPR 2020 paper "OASIS: A Large-Scale Dataset for Single Image 3D in the Wild"
 https://github.com/princeton-vl/oasis
+
+The Unsplash Dataset：Unsplash网站(免费)图片数据集，包括200万+图片及其关键字、查询词等
+https://github.com/unsplash/datasets
+
+VoxConverse说话人分散数据集，由YouTube视频中提取的超过50小时的多说话人语音片段组成
+https://github.com/joonson/voxconverse
+
+谷歌开源 TFRecorder，几行代码即可高效创建数据集
+https://www.oschina.net/news/117843/google-opensources-tfrecorder
+
+### Halpe Full-Body Human Keypoints and HOI-Det dataset：Halpe人体全身关键点和人-目标交互检测数据集
+https://github.com/Fang-Haoshu/Halpe-FullBody
+
+### MovieNet：电影理解综合数据集，1100部电影，60K预告片，1.1M标注框
+http://movienet.site/
+
+Poetry - 非常全的古诗词数据，收录了从先秦到现代的共计85万余首古诗词
+https://github.com/Werneror/Poetry
+
+汉字拆字 - 汉字拆字库，可以将汉字拆解成偏旁部首，在机器学习中作为汉字的字形特征
+https://github.com/howl-anderson/hanzi_chaizi
+
+'开源中文数据集分类索引' 
+https://github.com/luge-ai/luge-ai
+
+StanfordExtra：12k标记狗图片实例，带2D关键点和分割
+https://github.com/benjiebob/StanfordExtra
+
+NBA2K数据集，从NBA2K19游戏引擎采集的RGB 图像、三角网格、纹理贴图、三维人体姿态和相机投影矩阵
+https://github.com/luyangzhu/NBA2K-dataset
+
+Fashionpedia API：Fashionpedia时尚数据集的Python API
+https://github.com/KMnP/fashionpedia-api

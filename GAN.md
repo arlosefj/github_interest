@@ -712,3 +712,9 @@ https://github.com/tobran/DF-GAN
 
 ### StyleGAN2 Distillation for Feed-forward Image Manipulation
 https://github.com/Gie-ok-Hie-ut/pytorch-stylegan2-distillation
+
+Multimodal Image-to-Image Translation via a Single Generative Adversarial Network
+https://arxiv.org/abs/2008.01681
+
+CA-GAN: Weakly Supervised Color Aware GAN for Controllable Makeup Transfer
+https://arxiv.org/abs/2008.10298v1

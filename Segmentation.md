@@ -855,3 +855,6 @@ https://github.com/bcmi/CaGNet-Zero-Shot-Semantic-Segmentation
 
 Fourier Domain Adaptation for Semantic Segmentation
 https://github.com/YanchaoYang/FDA
+
+视频实例分割文献/代码/数据集大列表
+https://github.com/jiawen9611/Awesome-Video-Instance-Segmentation

@@ -382,3 +382,6 @@ https://github.com/Davidham3/STSGCN
 
  code for paper "Graph Structure of Neural Networks"
  https://github.com/facebookresearch/graph2nn
+
+ GNN-algorithms - 图神经网络相关算法详述及实现
+https://github.com/wangyouze/GNN-algorithms

@@ -111,3 +111,6 @@ https://github.com/HanqingWangAI/Active_VLN
 
 Code for the CVPR 2020 oral paper: Weakly Supervised Visual Semantic Parsing
 https://github.com/alirezazareian/vspnet https://arxiv.org/abs/2001.02359
+
+Learning Visual Representations with Caption Annotations
+https://arxiv.org/abs/2008.01392

@@ -205,3 +205,6 @@ https://github.com/IBM/MAX-Image-Resolution-Enhancer
 
 TDAN: Temporally-Deformable Alignment Network for Video Super-Resolution, CVPR 2020
 https://github.com/YapengTian/TDAN-VSR-CVPR-2020
+
+立体视觉超分辨率算法/数据集大列表
+https://github.com/YingqianWang/Awesome-Stereo-Image-SR

@@ -360,3 +360,9 @@ https://hhsinping.github.io/svs/link/paper.pdf https://hhsinping.github.io/svs/i
 
 [ECCV 2020] Single image depth prediction allows us to rectify planar surfaces in images and extract view-invariant local features for better feature matching
 https://github.com/nianticlabs/rectified-features
+
+Learning Stereo from Single Images
+https://github.com/nianticlabs/stereo-from-mono/
+
+Generative View Synthesis: From Single-view Semantics to Novel-view Images
+https://arxiv.org/abs/2008.09106

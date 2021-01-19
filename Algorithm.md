@@ -243,3 +243,12 @@ https://github.com/afatcoder/LeetcodeTop
 
 '算法理论基础知识应知应会(面试题汇总)’
 https://github.com/sladesha/Reflection_Summary
+
+国内一位开发者在 GitHub 上搞了个 LeetCode 题解项目，目前已收录 900 多道题，并附有中英文版本的题解过程介绍。
+https://github.com/grandyang/leetcode
+
+LeetCode题目分类与面试问题整理 - LeetCode刷题记录
+https://github.com/yuanguangxin/LeetCode
+
+算法模板，教你最科学最快速的刷题 
+https://github.com/greyireland/algorithm-pattern
