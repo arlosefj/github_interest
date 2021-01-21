@@ -169,3 +169,12 @@ https://github.com/B-Software/Ward
 
 slurm_gpustat：简单的SLURM集群GPU使用情况命令行查看工具
 https://github.com/albanie/slurm_gpustat
+
+Linux server远程管理课程资料
+https://github.com/snori74/linuxupskillchallenge
+
+### GPU Manager：Kubernetes 集群Nvidia GPU设备管理器
+https://github.com/tkestack/gpu-manager
+
+### Onepanelio：生产级Kubernetes原生全栈视觉AI平台
+https://github.com/onepanelio/core

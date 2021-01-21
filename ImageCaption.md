@@ -114,3 +114,7 @@ https://github.com/alirezazareian/vspnet https://arxiv.org/abs/2001.02359
 
 Learning Visual Representations with Caption Annotations
 https://arxiv.org/abs/2008.01392
+
+
+Towards Unique and Informative Captioning of Images
+https://github.com/princetonvisualai/SPICE-U

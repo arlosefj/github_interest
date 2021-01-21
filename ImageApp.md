@@ -778,3 +778,15 @@ https://github.com/xahidbuffon/funie-gan
 
 Repository for Real-World Blur Dataset for Learning and Benchmarking Deblurring Algorithms
 https://github.com/rimchang/RealBlur
+
+LineNormalizer：基于深度学习的漫画线稿线宽归一化
+https://github.com/hepesu/LineNormalizer
+
+新书稿：《计算机视觉：算法与应用(第二版)》
+http://szeliski.org/Book/
+
+图像/视频去噪文献代码列表
+https://github.com/oneTaken/Awesome-Denoise
+
+涂鸦(草图)相关研究/文献列表
+https://github.com/qyzdao/Sketch-Based-Deep-Learning

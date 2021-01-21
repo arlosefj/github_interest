@@ -343,3 +343,9 @@ https://github.com/masahitotogami/python_source_separation
 
 【可移植的C语言声学指纹库】
 https://github.com/JorenSix/Olaf
+
+SpeedySpeech：师生网络高质量实时语音合成系统
+https://github.com/janvainer/speedyspeech
+
+音频/语音预训练模型集
+https://github.com/balavenkatesh3322/audio-pretrained-model

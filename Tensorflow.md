@@ -123,3 +123,6 @@ https://github.com/serizba/cppflow
 
 Keras(官方)例子集
 https://keras.io/examples/
+
+GPU accelerated deep learning inference applications using TensorflowLite GPUDelegate / TensorRT
+https://github.com/terryky/tflite_gles_app

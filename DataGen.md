@@ -219,3 +219,6 @@ https://github.com/DavHoffmann/Multi-humanDataGeneration
 
 Anime-to-Real Clothing: Cosplay Costume Generation via Image-to-Image Translation
 https://github.com/tan5o/anime2clothing
+
+### MaskTheFace：给人脸数据集“戴口罩”😷
+https://github.com/aqeelanwar/MaskTheFace

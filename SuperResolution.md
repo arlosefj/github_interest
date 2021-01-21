@@ -208,3 +208,6 @@ https://github.com/YapengTian/TDAN-VSR-CVPR-2020
 
 立体视觉超分辨率算法/数据集大列表
 https://github.com/YingqianWang/Awesome-Stereo-Image-SR
+
+Keras实例教程：高效子像素CNN图像超分辨率
+https://keras.io/examples/vision/super_resolution_sub_pixel/

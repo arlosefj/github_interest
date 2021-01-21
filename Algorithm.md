@@ -252,3 +252,6 @@ https://github.com/yuanguangxin/LeetCode
 
 算法模板，教你最科学最快速的刷题 
 https://github.com/greyireland/algorithm-pattern
+
+各家公司的leetcode高频题目列表
+https://github.com/MysteryVaibhav/leetcode_company_wise_questions

@@ -718,3 +718,15 @@ https://arxiv.org/abs/2008.01681
 
 CA-GAN: Weakly Supervised Color Aware GAN for Controllable Makeup Transfer
 https://arxiv.org/abs/2008.10298v1
+
+StyleFlow: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows
+https://arxiv.org/abs/2008.02401
+
+Attribute-guided image generation from layout
+https://arxiv.org/abs/2008.11932
+
+vanilla GAN, cGAN, DCGAN等GAN的PyTorch实现
+https://github.com/gordicaleksa/pytorch-gans
+
+Generative models with kernel distance in data space
+https://github.com/gmum/lcw-generator https://arxiv.org/abs/2009.07327

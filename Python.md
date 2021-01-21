@@ -609,3 +609,15 @@ https://github.com/hoffstadt/DearPyGui
 
 jupyterlab-interactive-dashboard-editor：JupyterLab交互式面板编辑器
 https://github.com/jupytercalpoly/jupyterlab-interactive-dashboard-editor
+
+### handcalcs：将Python代码写的算式快速转换成Latex公式
+https://github.com/connorferster/handcalcs
+
+新手必看，17 个常见的 Python 运行时错误
+https://mp.weixin.qq.com/s/DV7fS_79isxbROB4hU8A5Q
+
+### Python的Markdown解析器
+https://github.com/executablebooks/markdown-it-py
+
+Text2Code，可在 Jupyter 上快速将文本描述转化为 Python 代码
+https://github.com/deepklarity/jupyter-text2code

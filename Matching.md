@@ -64,3 +64,6 @@ https://github.com/valencebond/FixMatch_pytorch
 
 ### PyTorch实现的相似图片搜索
 https://github.com/oke-aditya/image_similarity
+
+基于 C++ 和 Python 语言实现的快速地图匹配框架：Fast Map Matching
+https://github.com/cyang-kth/fmm

@@ -177,3 +177,9 @@ https://github.com/Tencent/GameAISDK
 
 GenRL：PyTorch强化学习库，重在可复现性、易用性和基准性
 https://github.com/SforAiDl/genrl
+
+machin：PyTorch强化学习库
+https://github.com/iffiX/machin
+
+基于MiniGrid的轻量多智能体gridworld Gym强化学习环境
+https://github.com/ArnaudFickinger/gym-multigrid

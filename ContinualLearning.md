@@ -42,3 +42,6 @@ https://github.com/Continvvm/continuum
 
 ### An unofficial pytorch implementation of "Large Scale Incremental Learning"
 https://github.com/sairin1202/BIC
+
+《Lifelong Object Detection》
+https://arxiv.org/abs/2009.01129

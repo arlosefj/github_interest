@@ -54,3 +54,6 @@ https://github.com/traduora/traduora
 
 Deep Encoder, Shallow Decoder: Reevaluating the Speed-Quality Tradeoff in Machine Translation
 https://github.com/jungokasai/deep-shallow
+
+NiuTrans.NMT：基于Transformer的轻量快速神经网络机器翻译系统
+https://github.com/NiuTrans/NiuTrans.NMT

@@ -688,3 +688,39 @@ https://github.com/rbhatia46/Data-Science-Interview-Resources
 
 含噪标签深度学习文献/资源列表
 https://github.com/gorkemalgan/deep_learning_with_noisy_labels_literature
+
+Allie：面向音频、文本、图像、视频、CSV文件的机器学习框架(50+特征提取器和15+模型训练器)
+https://github.com/jim-schwoebel/allie
+
+机器学习项目优化器选用指南
+https://www.whattolabel.com/post/which-optimizer-should-i-use-for-my-machine-learning-project
+
+《模式识别与机器学习(PRML)》笔记、代码、notebooks
+https://github.com/gerdm/prml
+
+分享一本免费阅读的凸优化算法书籍《Algorithms for Convex Optimization》
+https://github.com/convex-optimization/convex-optimization.github.io
+
+Apache Submarine：云原生机器学习平台，允许数据科学家创建端到端机器学习工作流
+https://github.com/apache/submarine
+
+《C++机器学习实战》随书代码
+https://github.com/PacktPublishing/Hands-On-Machine-Learning-with-CPP
+
+机器学习项目自查清单
+https://github.com/sjosund/ml-project-checklist
+
+免费书稿：《机器学习工程》
+http://www.mlebook.com/wiki/doku.php?fbclid=IwAR1VwwV25Mgj93UiWbclzvsBEVHJ1D0uB8BflN7YEL9ktNZG-Y2-upRH9RA
+
+### 再谈类别不平衡问题：调节权重与魔改Loss的综合分析
+https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247511421&idx=1&sn=cea6f1845c44c85a29e1ce5f2051e216&chksm=96ea72fda19dfbeb16eeecb1ce1f5f8c5d861237978cd3fd16f9f4dbb267da52cd3d31c07319&token=369894591&lang=zh_CN#rd
+
+ExplainX：面向数据科学家和机器学习工程师的快速、可扩展和端到端可解释AI框架
+https://github.com/explainX/explainx
+
+数据科学家需要了解的四种超参调试技术
+https://medium.com/swlh/4-hyper-parameter-tuning-techniques-924cb188d199
+
+数据科学相关的面试题。该面试题主要分为两部分：知识理论（如线性回归、神经网络、决策树、文字分类等）与技术应用（如 SQL、Python、算法等）内容。
+https://github.com/alexeygrigorev/data-science-interviews

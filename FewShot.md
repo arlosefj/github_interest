@@ -235,3 +235,7 @@ https://github.com/Tsingularity/PoseNorm_Fewshot
 
 Generalizing from a Few Examples: A Survey on Few-Shot Learning
 https://arxiv.org/abs/1904.05046
+
+An Overview of Deep Learning Architectures in Few-Shot Learning Domain
+https://github.com/shruti-jadon/Hands-on-One-Shot-Learning
+

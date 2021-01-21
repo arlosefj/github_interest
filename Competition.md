@@ -199,3 +199,6 @@ https://github.com/amirassov/kaggle-global-wheat-detection
 
 TransferDet：CVPPP 2020小麦检测挑战第三名方案
 https://github.com/liaopeiyuan/TransferDet
+
+机器学习/深度学习报告、Kaggler优胜模型、深度学习最佳实践大列表
+https://github.com/wandb/awesome-dl-projects

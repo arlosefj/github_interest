@@ -275,3 +275,9 @@ https://github.com/facebookresearch/InterHand2.6M
 
 The implementation for "Skeleton-Based Action Recognition with Shift Graph Convolutional Network"
 https://github.com/kchengiva/Shift-GCN
+
+MediaPipe BlazePose手机端实时人体姿态追踪
+https://ai.googleblog.com/2020/08/on-device-real-time-body-pose-tracking.html
+
+【3D人体姿态检测文献集】’3d-human-pose-estimation - Important papers about 3D human pose estimation.' 
+https://github.com/trumDog/3d-human-pose-estimation

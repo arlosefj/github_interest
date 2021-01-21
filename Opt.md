@@ -245,3 +245,6 @@ https://github.com/ofsoundof/group_sparsity
 
 Lossless CNN Channel Pruning via Gradient Resetting and Convolutional Re-parameterization
 https://github.com/DingXiaoH/ResRep
+
+走马观花AutoML - 知乎
+https://zhuanlan.zhihu.com/p/212512984

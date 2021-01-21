@@ -524,3 +524,19 @@ https://github.com/zalandoresearch/pytorch-ts
 
 【PyTorch模型压缩】
 https://github.com/j-marple-dev/model_compression
+
+开源的电子书籍：《Getting Things Done with Pytorch》。开发者可从该书中学到有关 PyTorch、神经网络、图像分类、人脸检测、情感分析等基础知识。从书中提供的具体示例，还能进一步了解项目从原型开发到模型部署，最后正式上线生产环境的整个流程。
+https://github.com/curiousily/Getting-Things-Done-with-Pytorch
+
+
+PyTorch性能调优指南(混合精度计算机视觉加速)
+https://www.bilibili.com/video/BV1g64y1F72n/
+
+torchkit：PyTorch科研小工具/样板
+https://github.com/kevinzakka/torchkit
+
+PyTorch Lightning Bolts：新的PyTorch Lightning深度学习研究和生产工具箱，流行模型的PyTorch Lightning实现集合，所有模型经过良好测试和优化，可以在多GPU/TPU上提速运行
+https://medium.com/pytorch/pytorch-lightning-bolts-from-boosted-regression-on-tpus-to-pre-trained-gans-5cebdb1f99fe
+
+PyTorch最佳实践
+http://lernapparat.de/pytorch-best-practices/

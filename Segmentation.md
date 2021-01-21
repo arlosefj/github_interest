@@ -858,3 +858,21 @@ https://github.com/YanchaoYang/FDA
 
 视频实例分割文献/代码/数据集大列表
 https://github.com/jiawen9611/Awesome-Video-Instance-Segmentation
+
+PyTorch实现的MobileNetV3实时语义分割
+https://github.com/ekzhang/fastseg
+
+【卫星图像城市道路提取】'City-scale Road Extraction from Satellite Imagery - Road network extraction from satellite imagery, with speed and travel time estimates'
+https://github.com/avanetten/cresi
+
+【AniSeg：漫画人物分割】
+https://github.com/jerryli27/AniSeg
+
+Keras实现的多种语义分割损失函数
+https://github.com/shruti-jadon/Semantic-Segmentation-Loss-Functions
+
+半监督视频目标分割(VOS)文献/实现列表
+https://github.com/cheng321284/VOS-Paper-List
+
+High-Resolution Deep Image Matting
+https://arxiv.org/abs/2009.06613

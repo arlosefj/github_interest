@@ -597,3 +597,12 @@ https://github.com/PaddlePaddle/PaddleDetection
 
 Kinematic 3D Object Detection in Monocular Video
 https://github.com/garrickbrazil/kinematic3d
+
+TIDE：目标检测错误识别通用工具箱
+https://github.com/dbolya/tide
+
+【目标检测的新方法】《New Approaches to Object Detection》
+https://towardsdatascience.com/new-approaches-to-object-detection-f5cbc925e00e
+
+无锚目标检测文献/代码列表
+https://github.com/XinZhangNLPR/awesome-anchor-free-object-detection

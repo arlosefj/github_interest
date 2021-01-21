@@ -89,3 +89,6 @@ https://github.com/fjchange/awesome-video-anomaly-detection
 
 ### luminaire：时序数据异常检测包
 https://github.com/zillow/luminaire
+
+Deep learning for time series forecasting：PyTorch深度学习时序预测、分类和异常检测库
+https://github.com/AIStream-Peelout/flow-forecast

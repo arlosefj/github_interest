@@ -65,3 +65,9 @@ François Chollet：关于机器学习，首先要记住，性能是用数据集
 ![](https://arloseimg.oss-cn-hangzhou.aliyuncs.com/20200508115035.png)
 
 ![](https://arloseimg.oss-cn-hangzhou.aliyuncs.com/20200508172532.png)
+
+学生提了2000个问题后，刘云浩教授又写万字回复
+https://weibo.com/ttarticle/p/show?id=2309404537496498471101
+
+深度学习未来发展的三种学习范式：混合学习、成分学习和简化学习
+https://towardsdatascience.com/the-future-of-deep-learning-can-be-broken-down-into-these-3-learning-paradigms-e7970dec5502

@@ -63,3 +63,6 @@ https://github.com/nmilosev/pytorch-arm-builds
 
 ### OpenBot: 用安卓智能手机DIY低成本开源机器人(小车)
 https://github.com/intel-isl/OpenBot
+
+pibooth：用树莓派+OpenCV自制“智能”自拍亭
+https://github.com/pibooth/pibooth

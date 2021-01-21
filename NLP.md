@@ -230,3 +230,6 @@ https://github.com/affjljoo3581/GPT2
 
 基于轻量级的albert实现albert+BiLstm+CRF
 https://github.com/MarsRoger/albert_ner
+
+用Hugging Face+ONNX Runtime实现更快更小的量化NLP
+https://medium.com/microsoftazure/faster-and-smaller-quantized-nlp-with-hugging-face-and-onnx-runtime-ec5525473bb7

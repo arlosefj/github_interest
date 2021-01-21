@@ -221,3 +221,6 @@ https://github.com/shijieS/DMMN
 
 多目标追踪论文/代码集
 https://github.com/nightmaredimple/Multi-object-Tracking-paper-code-list
+
+norfair：Python轻量实时2D目标追踪库
+https://github.com/tryolabs/norfair

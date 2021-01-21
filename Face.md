@@ -477,3 +477,9 @@ https://github.com/Tencent/FaceDetection-DSFD
 
 FFHQ-Aging Dataset：为基准年龄变换算法和许多其他可能的视觉任务而设计的年龄人脸数据集
 https://github.com/royorel/FFHQ-Aging-Dataset
+
+LaPa-Dataset：大规模特征点引导人脸解析数据集(LaPa)，由22,000多张人脸图像组成，在表情、姿势和遮挡方面有着丰富的变化，每张LaPa 图像都提供了11类像素级标签图和106点特征点
+https://github.com/JDAI-CV/lapa-dataset
+
+集成Unity的CPU鲁棒实时人脸跟踪库
+https://github.com/emilianavt/OpenSeeFace

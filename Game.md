@@ -111,3 +111,9 @@ https://github.com/wpmed92/MedNES
 
 【24a2：最小化的便捷游戏开发框架】
 https://github.com/jamesroutley/24a2
+
+PCt.js：JS桌面游戏引擎，带有可视化编辑器，让学习编程变得有趣，让游戏开发变得容易
+https://github.com/ct-js/ct-js
+
+### GameAISDK - AI SDK平台 - 基于游戏图像来开发游戏AI的开源工具包
+https://github.com/Tencent/GameAISDK

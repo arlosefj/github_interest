@@ -179,3 +179,12 @@ https://github.com/alvations/annotate-questionnaire
 
 ### CasiaLabeler: CASIA标注工具 - 轻量的标注软件，支持win10、ubuntu18和mac10.13+平台。主要适用于目标检测和实例分割等场景。可用于Faster RCNN, Mask RCNN, Yolo系列, SSD系列, Centernet系列等
 https://github.com/msnh2012/CasiaLabeler
+
+###【数据标注公司列表】《Data Annotation - learn latest trends and research》
+https://data-annotation.com/list-of-data-annotation-companies/
+
+无标注数据是鸡肋还是宝藏？阿里工程师这样用它
+https://developer.aliyun.com/article/714554
+
+Land cover mapping project：微软的卫星图像自动标记项目
+https://github.com/microsoft/landcover

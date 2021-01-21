@@ -218,3 +218,11 @@ https://github.com/Riccorl/Super-SloMo-tf2
 
 ### FastDVDnet: A Very Fast Deep Video Denoising algorithm
 https://github.com/m-tassano/fastdvdnet
+
+Talk：免费的web群组视频会议， 基于WebRTC
+https://github.com/vasanthv/talk
+
+视频编辑新利器——“人物速度控制器”：在视频里只对特定人物动作实现快进、慢放甚至删除，而不影响画面上的其他人物，可实现多种特殊动态效果
+https://arxiv.org/abs/2009.07833
+https://weibo.com/tv/show/1034:4550424447877128?from=old_pc_videoshow
+

@@ -68,3 +68,9 @@ https://medium.com/datadriveninvestor/a-hackers-guide-to-efficiently-train-deep-
 
 【如何扩展深度网络的能力】《How to trick deep learning algorithms into doing new things | TechTalks》
 https://bdtechtalks.com/2020/07/20/black-box-adversarial-reprogramming/
+
+Black Magic in Deep Learning: How Human Skill Impacts Network Training
+https://arxiv.org/abs/2008.05981
+
+数据科学失败案例集锦
+https://github.com/xLaszlo/datascience-fails

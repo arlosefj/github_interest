@@ -434,3 +434,24 @@ https://github.com/luyangzhu/NBA2K-dataset
 
 Fashionpedia API：Fashionpedia时尚数据集的Python API
 https://github.com/KMnP/fashionpedia-api
+
+OpenTraj：人员轨迹预测数据集基准集
+https://github.com/crowdbotp/OpenTraj
+
+SpaceNet 7多时相城市发展挑战：数据集发布
+https://medium.com/the-downlinq/the-spacenet-7-multi-temporal-urban-development-challenge-dataset-release-9e6e5f65c8d5
+
+【LogoDet-3K: 用于Logo检测的大规模图像数据集】
+https://github.com/Wangjing1551/LogoDet-3K-Dataset
+
+语料库
+https://github.com/wainshine
+
+### FiftyOne: 开源数据集工具，可以快速搜索、排序、过滤、可视化、分析和改进数据集
+https://github.com/voxel51/fiftyone
+
+A benchmark of UCAS-AOD dataset.
+https://github.com/ming71/UCAS-AOD-benchmark
+
+场景文字图像超分辨率数据集
+https://github.com/JasonBoy1/TextZoom

@@ -12,3 +12,6 @@ https://medium.com/swlh/40-tips-that-will-change-your-coding-skills-forever-bf9d
 
 专为国人开发者打造的 Cheat Sheet — 操作系统、数据库、编程语言、框架和开发工具等速查'
 https://github.com/polaris1119/awesome-cheatsheets-cn
+
+libcu++: NVIDIA的C++标准库
+https://github.com/NVIDIA/libcudacxx

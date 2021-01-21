@@ -507,3 +507,6 @@ https://github.com/hediet/vscode-debug-visualizer
 
 为开发人员/程序员、系统管理员和其他人编写的Git魔法书
 http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/
+
+命令行文件传输工具
+https://github.com/schollz/croc

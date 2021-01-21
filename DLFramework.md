@@ -98,3 +98,6 @@ https://github.com/Unity-Technologies/barracuda-release
 
 Horovod：TensorFlow/Keras/PyTorch/MXNet深度学习分布式训练框架
 https://github.com/horovod/horovod
+
+DLPerf：深度学习框架性能分析工具包
+https://github.com/Oneflow-Inc/DLPerf

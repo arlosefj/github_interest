@@ -583,3 +583,15 @@ https://github.com/tommyMessi/waveCorrection
 
 场景文字检测/识别/合成文献资源列表
 https://github.com/yflv-yanxia/scene_text
+
+captcha_trainer_pytorch - 基于MobileNetV2/EfficientNet-b0/... + LSTM + CTC的不定长图像识别训练pytorch框架
+https://github.com/sml2h3/captcha_trainer_pytorch
+
+Im2Latex：用Deep CNN Encoder + LSTM Decoder由公式图片生成Latex源码的PyTorch实现
+https://github.com/luopeixiang/im2latex
+
+BERT model correct error character with mask feature - 基于bert进行中文文本纠错'
+https://github.com/tongchangD/bert_for_corrector
+
+TDA-ReCTS文本检测消歧验证集
+https://github.com/whai362/TDA-ReCTS
