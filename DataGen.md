@@ -222,3 +222,6 @@ https://github.com/tan5o/anime2clothing
 
 ### MaskTheFace：给人脸数据集“戴口罩”😷
 https://github.com/aqeelanwar/MaskTheFace
+
+Few-shot Font Generation with Localized Style Representations and Factorization
+https://github.com/clovaai/lffont

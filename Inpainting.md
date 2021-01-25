@@ -115,3 +115,6 @@ https://github.com/jingyuanli001/RFR-Inpainting
 
 ### An Internal Learning Approach to Video Inpainting
 https://github.com/Haotianz94/IL_video_inpainting
+
+Texture Memory-Augmented Deep Patch-Based Image Inpainting
+https://github.com/open-mmlab/mmediting

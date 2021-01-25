@@ -233,3 +233,15 @@ https://github.com/MarsRoger/albert_ner
 
 用Hugging Face+ONNX Runtime实现更快更小的量化NLP
 https://medium.com/microsoftazure/faster-and-smaller-quantized-nlp-with-hugging-face-and-onnx-runtime-ec5525473bb7
+
+EasyTransfer：NLP迁移学习库
+https://github.com/alibaba/EasyTransfer
+
+从Word Embedding到Bert模型—自然语言处理中的预训练技术发展史
+https://zhuanlan.zhihu.com/p/49271699
+
+EssayKiller - 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
+https://github.com/EssayKillerBrain/EssayKiller_V2
+
+keras-nlp：工业级Keras自然语言处理工作流
+https://github.com/keras-team/keras-nlp

@@ -366,3 +366,6 @@ https://github.com/nianticlabs/stereo-from-mono/
 
 Generative View Synthesis: From Single-view Semantics to Novel-view Images
 https://arxiv.org/abs/2008.09106
+
+Facebook面向具身AI研究的灵活、高性能3D模拟平台AI Habitat最新更新：支持交互式对象、真实物理建模、改进的渲染、从虚拟环境到物理环境的无缝转换，以及更灵活的用户界面和浏览器内运行模拟的支持
+https://github.com/facebookresearch/habitat-lab

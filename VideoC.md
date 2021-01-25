@@ -201,3 +201,6 @@ https://github.com/StanfordVL/RubiksNet
 
 基于PyTorch的电影/视频研究工具集
 https://github.com/movienet/movienet-tools
+
+Kubric：数据生成管道，用于创建带有丰富标注的半真实合成多目标视频，如实例分割掩码、深度图和光流等
+https://github.com/google-research/kubric

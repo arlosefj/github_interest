@@ -455,3 +455,9 @@ https://github.com/ming71/UCAS-AOD-benchmark
 
 场景文字图像超分辨率数据集
 https://github.com/JasonBoy1/TextZoom
+
+### 图像数据集探索性数据分析工具
+https://github.com/Soongja/basic-image-eda
+
+### COCO-dataset-explorer：用来浏览和可视化COCO数据集的Streamlit工具
+https://github.com/i008/COCO-dataset-explorer

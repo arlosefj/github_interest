@@ -790,3 +790,6 @@ https://github.com/oneTaken/Awesome-Denoise
 
 涂鸦(草图)相关研究/文献列表
 https://github.com/qyzdao/Sketch-Based-Deep-Learning
+
+视频/图片去雨🌧️相关文献大列表
+https://github.com/hongwang01/Video-and-Single-Image-Deraining

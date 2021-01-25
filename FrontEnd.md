@@ -61,3 +61,6 @@ https://github.com/elliotwaite/pytorch-to-javascript-with-onnx-js
 
 用 TensorFlow.js实现浏览器里的RefineNet实时实例语义分割
 https://github.com/hugozanini/realtime-semantic-segmentation
+
+HTML4Vision：面向计算机视觉研究的简单HTML可视化工具
+https://github.com/mtli/HTML4Vision

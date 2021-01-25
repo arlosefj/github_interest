@@ -483,3 +483,6 @@ https://github.com/JDAI-CV/lapa-dataset
 
 集成Unity的CPU鲁棒实时人脸跟踪库
 https://github.com/emilianavt/OpenSeeFace
+
+### FacePose_pytorch：准确好用的人脸姿势检测
+https://github.com/WIKI2020/FacePose_pytorch

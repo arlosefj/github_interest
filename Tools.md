@@ -510,3 +510,13 @@ http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/
 
 命令行文件传输工具
 https://github.com/schollz/croc
+
+GitHub 上开源的一款在线流程图绘制工具：Wireflow
+https://github.com/vanila-io/wireflow
+wireflow.co
+
+Math » Image：用来将LaTeX数学公式转换成SVG图片的VSCode扩展】’Math » Image - 📐 Render LaTeX math equations in any Markdown file!' 
+https://github.com/TeamMeow/vscode-math-to-image
+
+CodeRoad：VSCode的交互教程扩展，可制作出用VSCode进行学习的交互式教程
+https://github.com/coderoad/coderoad-vscode

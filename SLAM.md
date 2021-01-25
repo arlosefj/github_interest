@@ -98,3 +98,6 @@ https://github.com/ivipsourcecode/dxslam
 
 ### 【MAGE-SLAM：C++写的轻量化单目SLAM】
 https://github.com/microsoft/mageslam
+
+单目/立体摄像机语义视觉Slam项目
+https://github.com/yiakwy/SEMANTIC_VISUAL_SUPPORTED_ODEMETRY

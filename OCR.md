@@ -595,3 +595,9 @@ https://github.com/tongchangD/bert_for_corrector
 
 TDA-ReCTS文本检测消歧验证集
 https://github.com/whai362/TDA-ReCTS
+
+### Papermerge：开源扫描文档管理器，自带OCR、元信息管理等功能
+https://github.com/ciur/papermerge
+
+中国首份OCR白皮书出炉，基于深度学习的OCR已成主流
+https://mp.weixin.qq.com/s/xXDprbC94h-2a1JxIJB--g

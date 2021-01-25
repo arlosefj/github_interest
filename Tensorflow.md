@@ -126,3 +126,6 @@ https://keras.io/examples/
 
 GPU accelerated deep learning inference applications using TensorflowLite GPUDelegate / TensorRT
 https://github.com/terryky/tflite_gles_app
+
+### 面向科研人员的Keras入门
+https://keras.io/getting_started/intro_to_keras_for_researchers/

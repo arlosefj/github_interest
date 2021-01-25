@@ -97,3 +97,5 @@ https://github.com/dusty-nv/ros_deep_learning
 ### 轻量的用于推理pytorch模型的框架
 https://github.com/msnh2012/Msnhnet https://blog.csdn.net/MSNH2012/article/details/107216704
 
+### Neuralet：用于边缘TPU、Jetson Nano等的边缘深度学习模型平台，在边缘设备上启动和评价各种深度学习模型
+https://github.com/neuralet/neuralet

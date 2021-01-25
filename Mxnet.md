@@ -21,3 +21,6 @@ https://github.com/awslabs/autogluon
 
 Single Path One-Shot NAS MXNet implementation with full training and searching pipeline. Support both Block and Channel Selection. Searched models better than the original paper are provided.
 https://github.com/CanyonWind/Single-Path-One-Shot-NAS-MXNet
+
+MXNet目标检测模型库
+https://github.com/kohillyang/mx-detection

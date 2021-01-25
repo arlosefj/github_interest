@@ -724,3 +724,30 @@ https://medium.com/swlh/4-hyper-parameter-tuning-techniques-924cb188d199
 
 数据科学相关的面试题。该面试题主要分为两部分：知识理论（如线性回归、神经网络、决策树、文字分类等）与技术应用（如 SQL、Python、算法等）内容。
 https://github.com/alexeygrigorev/data-science-interviews
+
+机器学习运维(MLOps)工具大列表
+https://github.com/kelvins/awesome-mlops
+
+### 利用numpy实现的一些周志华《机器学习》（西瓜书）一书及 斯坦福cs229课程中的算法
+https://github.com/fengyang95/tiny_ml
+
+《机器学习数学原理》笔记与习题参考
+https://github.com/ilmoi/MML-Book
+
+### 用Streamlit部署端到端机器学习模型
+https://medium.com/@apurva.sharma866/deploy-your-first-end-to-end-ml-model-using-streamlit-51cc486e84d7
+
+免费在线书《从头开始机器学习》：重在数学基础和(不依赖各种库的)代码实现
+https://dafriedman97.github.io/mlbook/content/introduction.html
+
+【为何及如何使用交叉熵】《Why and How to use Cross Entropy - The fundamental reasons for minimizing binary cross entropy (log loss) with probabilistic classification models》
+https://towardsdatascience.com/why-and-how-to-use-cross-entropy-4e983cbdd873
+
+机器学习高等数学基础(凸/非凸优化、信息论、概率图模型等)资源列表
+https://towardsdatascience.com/learning-advanced-mathematics-behind-machine-learning-7582e0b3be1a
+
+igel：无需编写代码即可训练测试和使用模型的机器学习工具，支持所有最先进机器学习模型，支持并行模型构造
+https://github.com/nidhaloff/igel
+
+KDD 2020教程：如何校准神经网络分类器——从分类模型中获得准确概率
+https://github.com/nplan-io/kdd2020-calibration

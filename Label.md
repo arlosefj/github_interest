@@ -188,3 +188,12 @@ https://developer.aliyun.com/article/714554
 
 Land cover mapping project：微软的卫星图像自动标记项目
 https://github.com/microsoft/landcover
+
+SuperAnnotate Desktop：快速图像/视频标注软件，可适应各种标注任务: 从目标检测、实例和语义分割、关键点标注、立方体注释到视频跟踪
+https://github.com/opencv-ai/superannotate#download-and-installation-guide
+
+快速图像视频标注软件：SuperAnnotate Desktop
+https://mp.weixin.qq.com/s/AEnQ6xjhaluAGE_-vlreQA
+
+bbox-visualizer：几种不同的标注框显示样式
+https://github.com/shoumikchow/bbox-visualizer

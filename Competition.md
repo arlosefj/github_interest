@@ -202,3 +202,9 @@ https://github.com/liaopeiyuan/TransferDet
 
 机器学习/深度学习报告、Kaggler优胜模型、深度学习最佳实践大列表
 https://github.com/wandb/awesome-dl-projects
+
+Kaggle鸟鸣识别比赛第一名方案
+https://github.com/ryanwongsa/kaggle-birdsong-recognition
+
+MoA比赛：Keras + KerasTuner 最佳实践
+https://www.kaggle.com/fchollet/moa-keras-kerastuner-best-practices/

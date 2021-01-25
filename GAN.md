@@ -730,3 +730,6 @@ https://github.com/gordicaleksa/pytorch-gans
 
 Generative models with kernel distance in data space
 https://github.com/gmum/lcw-generator https://arxiv.org/abs/2009.07327
+
+几种GANs的PyTorch实现(DCGAN、WGAN、WGAN-GP、SN-GAN)
+https://github.com/w86763777/pytorch-gan-collections

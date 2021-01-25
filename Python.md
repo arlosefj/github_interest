@@ -621,3 +621,9 @@ https://github.com/executablebooks/markdown-it-py
 
 Text2Code，可在 Jupyter 上快速将文本描述转化为 Python 代码
 https://github.com/deepklarity/jupyter-text2code
+
+### VSCode Debug Visualizer：在VSCode里可视化数据结构
+https://addyosmani.com/blog/visualize-data-structures-vscode/
+
+Colab高级使用技巧集锦
+https://amitness.com/2020/06/google-colaboratory-tips/

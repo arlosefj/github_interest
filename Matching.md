@@ -67,3 +67,6 @@ https://github.com/oke-aditya/image_similarity
 
 基于 C++ 和 Python 语言实现的快速地图匹配框架：Fast Map Matching
 https://github.com/cyang-kth/fmm
+
+Image-to-Image-Search：Elastic Search + Tensorflow开发的相似图片搜索引擎
+https://github.com/sethuiyer/Image-to-Image-search

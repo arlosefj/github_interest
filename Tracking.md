@@ -224,3 +224,6 @@ https://github.com/nightmaredimple/Multi-object-Tracking-paper-code-list
 
 norfair：Python轻量实时2D目标追踪库
 https://github.com/tryolabs/norfair
+
+### AcurusTrack：用于精确多目标跟踪的Python数据关联组件
+https://github.com/AIHunters/AcurusTrack

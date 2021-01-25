@@ -72,3 +72,8 @@ https://mitcommlab.mit.edu/broad/commkit/journal-article-discussion/
 11. 一般来讲一分钟一张幻灯片，在不得已情况下，可以多做一些幻灯片，打破这个常规。但是听众在一定时间内摄取信息的能力是恒定的，因此，可以增加幻灯片但不要增加内容量。
 '''
 
+### 提高文献搜索和排除的效率
+综述神器Covidence网站
+
+顶会最佳论文列表(自2013年起)：AAAI/IJCAI/NeurIPS/ICML/ICLR/WWW/KDD/SIGIR/CIKM/ICDM/WSDM/CVPR/ICCV/ACL/EMNLP
+https://github.com/familyld/Awesome-Best-Papers

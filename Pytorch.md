@@ -540,3 +540,18 @@ https://medium.com/pytorch/pytorch-lightning-bolts-from-boosted-regression-on-tp
 
 PyTorch最佳实践
 http://lernapparat.de/pytorch-best-practices/
+
+Pytorch Forecasting：PyTorch时序预测库
+https://github.com/jdb78/pytorch-forecasting
+
+### PyTorch C++ Samples：PyTorch C++深度学习实例集
+https://github.com/koba-jon/pytorch_cpp
+
+pytorchTutorial：PyTorch教程资料
+https://github.com/python-engineer/pytorchTutorial
+
+### Vision Transformer的PyTorch实现 
+https://github.com/lucidrains/vit-pytorch https://openreview.net/forum?id=YicbFdNTTy
+
+【TorchExpo：PyTorch移动部署模型与扩展集合】'TorchExpo - Collection of models and extensions for mobile deployment in PyTorch' 
+https://torchexpo.rtfd.io/

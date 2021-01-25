@@ -226,3 +226,5 @@ https://github.com/vasanthv/talk
 https://arxiv.org/abs/2009.07833
 https://weibo.com/tv/show/1034:4550424447877128?from=old_pc_videoshow
 
+Denseflow：视频光流/帧提取，支持多种光流算法，包括 Nvidia 硬件光流
+https://github.com/open-mmlab/denseflow

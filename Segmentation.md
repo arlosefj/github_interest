@@ -876,3 +876,9 @@ https://github.com/cheng321284/VOS-Paper-List
 
 High-Resolution Deep Image Matting
 https://arxiv.org/abs/2009.06613
+
+SemTorch：PyTorch深度学习图像分割库
+https://github.com/WaterKnight1998/SemTorch
+
+ECCV 2020实例级识别Workshop上Google成果介绍，包括新的DELG模型，新资源以及开源库，以及两个挑战的地标识别和检索任务
+https://ai.googleblog.com/2020/09/advancing-instance-level-recognition.html

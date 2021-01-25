@@ -178,3 +178,12 @@ https://github.com/tkestack/gpu-manager
 
 ### Onepanelio：生产级Kubernetes原生全栈视觉AI平台
 https://github.com/onepanelio/core
+
+用Kubeflow自动化构建机器学习Pipeline
+https://towardsdatascience.com/machine-learning-pipelines-with-kubeflow-4c59ad05522
+
+dokai：面向机器学习/深度学习及视频处理项目的Docker镜像集锦
+https://github.com/osai-ai/dokai
+
+pypyr automation task runner：自动化任务运行器，通过将命令、不同语言写的脚本和应用组合到一个pipeline进程来自动化任何事
+https://github.com/pypyr/pypyr

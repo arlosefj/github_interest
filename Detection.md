@@ -606,3 +606,6 @@ https://towardsdatascience.com/new-approaches-to-object-detection-f5cbc925e00e
 
 无锚目标检测文献/代码列表
 https://github.com/XinZhangNLPR/awesome-anchor-free-object-detection
+
+### 【行人检测综述】’PedSurvey - From Handcrafted to Deep Features for Pedestrian Detection: A Survey'
+https://github.com/JialeCao001/PedSurvey

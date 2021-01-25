@@ -533,3 +533,7 @@ https://github.com/drivendataorg/open-cities-ai-challenge
 
 ### Gradient Descent Visualization：五种梯度下降方法的交互可视化
 https://github.com/lilipads/gradient_descent_viz (已在macOS下安装成功，效果不错，可以演示 Work/Deeplearning目录)
+
+### 【视频会议实时自动手语检测】《Developing Real-Time, Automatic Sign Language Detection for Video Conferencing | Google AI Blog》
+https://ai.googleblog.com/2020/10/developing-real-time-automatic-sign.html
+https://research.google/pubs/pub49425/
