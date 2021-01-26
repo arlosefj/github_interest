@@ -140,3 +140,15 @@ https://www.bilibili.com/video/BV1dv411v7Ly
 
 'BiliBili公开课目录' 
 https://github.com/elder-frog/OpenCourseCatalog
+
+宾夕法尼亚大学《图神经网络》课程(2020)
+https://www.bilibili.com/video/bv1L5411j7kb
+
+由Yann LeCun主讲的纽约大学《深度学习》(2020)课程
+https://www.bilibili.com/video/BV197411M7gG/
+https://atcold.github.io/pytorch-Deep-Learning/zh/
+https://github.com/atcold/pytorch-Deep-Learning/
+
+### 《因果推理导论》课程(2020)及教材
+https://www.bilibili.com/video/BV1nZ4y1K78i/
+https://www.bradyneal.com/causal-inference-course

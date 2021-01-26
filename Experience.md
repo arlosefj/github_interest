@@ -74,3 +74,6 @@ https://arxiv.org/abs/2008.05981
 
 数据科学失败案例集锦
 https://github.com/xLaszlo/datascience-fails
+
+算法工程师必备的几种调参技艺
+https://medium.com/swlh/4-hyper-parameter-tuning-techniques-924cb188d199

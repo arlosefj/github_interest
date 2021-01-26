@@ -281,3 +281,6 @@ https://ai.googleblog.com/2020/08/on-device-real-time-body-pose-tracking.html
 
 【3D人体姿态检测文献集】’3d-human-pose-estimation - Important papers about 3D human pose estimation.' 
 https://github.com/trumDog/3d-human-pose-estimation
+
+单目3D人体姿态和形状估计文献列表
+https://github.com/zju3dv/Monocular_3D_human

@@ -208,3 +208,17 @@ https://github.com/ryanwongsa/kaggle-birdsong-recognition
 
 MoA比赛：Keras + KerasTuner 最佳实践
 https://www.kaggle.com/fchollet/moa-keras-kerastuner-best-practices/
+
+RTC2020_EfficientSR：超分辨率图像性能挑战赛优胜方案
+https://github.com/zdyshine/RTC2020_EfficientSR
+
+Kaggle PANDA前列腺癌分级评估比赛第一名方案
+https://github.com/kentaroy47/Kaggle-PANDA-1st-place-solution
+
+Zindi小麦作物生长阶段预测比赛第一名方案
+https://github.com/ybabakhin/zindi_wheat_growth
+
+Kaggle地标识别2020比赛优胜方案
+https://github.com/psinger/kaggle-landmark-recognition-2020-1st-place
+https://arxiv.org/abs/2010.01650
+

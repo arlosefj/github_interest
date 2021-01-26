@@ -751,3 +751,29 @@ https://github.com/nidhaloff/igel
 
 KDD 2020教程：如何校准神经网络分类器——从分类模型中获得准确概率
 https://github.com/nplan-io/kdd2020-calibration
+
+【生产环境可复现机器学习的12个要素】《12 Factors of reproducible Machine Learning in production》
+https://blog.maiot.io/12-factors-of-ml-in-production/
+
+神经网络可以训练其他网络吗？——知识蒸馏介绍
+https://towardsdatascience.com/can-a-neural-network-train-other-networks-cf371be516c6
+
+### Machine-Learning-Basic-Codes -《Machine Learning 格物志》: 通过 sklearn 标准机器学习库以及自己编写的类两种方式，实现了基本的机器学习算法
+https://github.com/Skylark0924/Machine-Learning-is-ALL-You-Need
+
+EM算法存在的意义是什么？ - 知乎
+https://blog.csdn.net/v_july_v/article/details/81708386
+https://www.zhihu.com/question/40797593
+
+### Human Learning：与Scikit-Learn兼容的基于规则的智能系统接口
+https://github.com/koaning/human-learn
+
+手把手开发、调试、部署图片分类器
+https://medium.com/@butchland/build-and-run-your-own-image-classifier-using-colab-binder-github-and-google-drive-part-1-bd1aebc626e
+https://medium.com/@butchland/build-and-run-your-own-image-classifier-using-colab-binder-github-and-google-drive-part-2-d08c32fd1925
+
+什么是平移同变性(translation equivariance)，为什么卷积有平移同变性？
+https://medium.com/@chriswolfvision/what-is-translation-equivariance-and-why-do-we-use-convolutions-to-get-it-6f18139d4c59
+
+Kaggle深度学习入门课程
+https://www.kaggle.com/learn/intro-to-deep-learning

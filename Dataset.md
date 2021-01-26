@@ -461,3 +461,12 @@ https://github.com/Soongja/basic-image-eda
 
 ### COCO-dataset-explorer：用来浏览和可视化COCO数据集的Streamlit工具
 https://github.com/i008/COCO-dataset-explorer
+
+【宜家家居装配数据集】’IKEA Assembly Dataset' 
+https://github.com/IkeaASM/IKEA_ASM_Dataset
+
+IDT：图像数据集快捷创建工具
+https://github.com/deliton/idt
+
+KITTI-360无人驾驶数据集，包含320k图像和100k激光扫描数据
+https://github.com/autonomousvision/kitti360Scripts

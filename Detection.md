@@ -609,3 +609,6 @@ https://github.com/XinZhangNLPR/awesome-anchor-free-object-detection
 
 ### 【行人检测综述】’PedSurvey - From Handcrafted to Deep Features for Pedestrian Detection: A Survey'
 https://github.com/JialeCao001/PedSurvey
+
+3D目标检测相关算法文献集，包括基于RGB图像、立体视觉、点云、融合四种方式
+https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-3D-object-detection

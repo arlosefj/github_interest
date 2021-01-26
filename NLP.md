@@ -245,3 +245,19 @@ https://github.com/EssayKillerBrain/EssayKiller_V2
 
 keras-nlp：工业级Keras自然语言处理工作流
 https://github.com/keras-team/keras-nlp
+
+
+面向法律领域的一系列BERT模型，旨在推进法律相关NLP研究、计算法律和法律技术应用
+https://huggingface.co/nlpaueb
+
+基于 GPT2.0 的初代创作型人工智能框架：EssayKiller_V2
+- 基于 EAST、CRNN、Bert 和 GPT-2 语言模型的高考作文生成 AI；
+- 支持 bert tokenizer，当前版本基于 clue chinese vocab；
+- 17 亿参数多模块异构深度神经网络，超 2 亿条预训练数据；
+- 线上点击即用的文本生成效果 demo：17 亿参数作文杀手；
+- 端到端生成，从试卷识别到答题卡输出一条龙服务。
+https://github.com/EssayKillerBrain/EssayKiller_V2
+
+
+中文文本生成（NLG）之文本摘要（text summarization）工具包
+https://github.com/yongzhuo/nlg-yongzhuo

@@ -59,3 +59,6 @@ https://github.com/nosy-b/holography
 
 Snap的AR形象创建工具Lens Studio 3.0集成SnapML可方便调用机器学习模型，实现画风迁移、目标检测、地面分割等
 https://lensstudio.snapchat.com/news/introducing-lens-studio-3-0/
+
+ARCore-ARKit Technology - ARCore/ARKit学习资料
+https://github.com/hiSirius/Indoor-navigation-techology

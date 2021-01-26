@@ -520,3 +520,21 @@ https://github.com/TeamMeow/vscode-math-to-image
 
 CodeRoad：VSCode的交互教程扩展，可制作出用VSCode进行学习的交互式教程
 https://github.com/coderoad/coderoad-vscode
+
+Diagram Maker：图数据交互式编辑器
+https://github.com/awslabs/diagram-maker
+
+Cocreate：网页协同涂鸦工具
+https://github.com/edemaine/cocreate
+
+screego/server：面向开发者的多用户屏幕共享软件，低延迟/高分辨率/通过WebRTC进行安全传
+https://github.com/screego/server
+
+知乎近日上线了视频创作工具，可通过用户提供的文字材料，自动配以与内容相对应的图片和动图，形成视频。同时，该工具具备一键配音功能，可根据文字内容进行配音并自动校准。知乎方面介绍，工具匹配图片后，使用者可再围绕文字内容，对图片和动图进行细致调整。视频制作完毕后，工具直接将成品上传至知乎App。
+https://tech.sina.com.cn/i/2020-10-09/doc-iivhvpwz1063759.shtml?cref=cj
+
+动态影像应用：Astrofox，支持将音乐处理成可视化动态效果，并导出成视频
+https://github.com/astrofox-io/astrofox
+
+GitHub 上一个开源的数据可视化模板，直接传送数据即可进行数据展示
+https://github.com/TurboWay/big_screen

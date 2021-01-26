@@ -144,3 +144,6 @@ https://zhuanlan.zhihu.com/p/86853697?utm_source=weibo&utm_medium=social&utm_oi=
 
 ncnn在Android的一个测试，包含了人脸检测(face detection)，人脸属性(face attributes)，人脸识别(face recognition)。车辆检测(Vehicle detection)，车牌检测(plate detection)，车牌识别(plate recognition)；人头检测(head detection)的流程
 https://github.com/791136190/ncnn_android_face_vehicle/tree/master/app
+
+Anbox，可在 GNU / Linux 系统上轻松运行 Android 系统
+https://github.com/anbox/anbox

@@ -77,3 +77,12 @@ https://mitcommlab.mit.edu/broad/commkit/journal-article-discussion/
 
 顶会最佳论文列表(自2013年起)：AAAI/IJCAI/NeurIPS/ICML/ICLR/WWW/KDD/SIGIR/CIKM/ICDM/WSDM/CVPR/ICCV/ACL/EMNLP
 https://github.com/familyld/Awesome-Best-Papers
+
+如何写出有用的文献综述: 不仅仅是参考文献
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5889378/
+
+技术写作文档模板集
+https://github.com/thegooddocsproject/templates
+
+Langsmith Editor：论文写作AI辅助编辑器——协助经验不足、非母语的研究人员撰写英语论文，特别是在自然语言处理领域
+https://editor.langsmith.co.jp/

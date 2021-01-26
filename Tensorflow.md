@@ -129,3 +129,9 @@ https://github.com/terryky/tflite_gles_app
 
 ### 面向科研人员的Keras入门
 https://keras.io/getting_started/intro_to_keras_for_researchers/
+
+用tf.data减少深度学习模型训练时间
+https://towardsdatascience.com/how-to-reduce-training-time-for-a-deep-learning-model-using-tf-data-43e1989d2961
+
+### keras-cv：Keras工业级计算机视觉工作流
+https://github.com/keras-team/keras-cv

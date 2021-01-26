@@ -733,3 +733,9 @@ https://github.com/gmum/lcw-generator https://arxiv.org/abs/2009.07327
 
 几种GANs的PyTorch实现(DCGAN、WGAN、WGAN-GP、SN-GAN)
 https://github.com/w86763777/pytorch-gan-collections
+
+Imaginaire：NVIDIA的PyTorch GAN模型库，包括有监督图-图转换、无监督图-图转换、视频-视频转换等
+https://github.com/NVlabs/imaginaire
+
+Augmented Cyclic Consistency Regularization for Unpaired Image-to-Image Translation
+https://arxiv.org/abs/2003.00187

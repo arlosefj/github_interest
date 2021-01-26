@@ -228,3 +228,9 @@ https://weibo.com/tv/show/1034:4550424447877128?from=old_pc_videoshow
 
 Denseflow：视频光流/帧提取，支持多种光流算法，包括 Nvidia 硬件光流
 https://github.com/open-mmlab/denseflow
+
+RealLive - 跨平台的网络媒体聚合应用，支持直播视频，高清电视和广播电台的在线观看或收听
+https://github.com/parzulpan/real-live
+
+Nvidia发布Maxine人工智能视频会议服务，只传输关键点数据，用GAN进行画面重建，可将带宽减少到H.264标准要求的十分之一，还提供注视矫正、超分辨率、去噪、人脸重打光等功能
+https://venturebeat.com/2020/10/05/nvidia-unveils-maxine-a-managed-cloud-ai-videoconferencing-service/

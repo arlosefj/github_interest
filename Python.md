@@ -627,3 +627,6 @@ https://addyosmani.com/blog/visualize-data-structures-vscode/
 
 Colab高级使用技巧集锦
 https://amitness.com/2020/06/google-colaboratory-tips/
+
+如何将Jupyter Notebook转成生产用脚本
+https://github.com/G-Hung/model-productization_article

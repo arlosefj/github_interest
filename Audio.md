@@ -349,3 +349,9 @@ https://github.com/janvainer/speedyspeech
 
 音频/语音预训练模型集
 https://github.com/balavenkatesh3322/audio-pretrained-model
+
+Piano transcription：钢琴曲MIDI文件转写工具
+https://arxiv.org/abs/2010.01815 https://github.com/bytedance/piano_transcription
+
+CorentinJ/Real-Time-Voice-Cloning 
+https://github.com/KuangDD/zhrtvc

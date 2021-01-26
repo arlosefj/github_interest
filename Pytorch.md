@@ -555,3 +555,9 @@ https://github.com/lucidrains/vit-pytorch https://openreview.net/forum?id=YicbFd
 
 【TorchExpo：PyTorch移动部署模型与扩展集合】'TorchExpo - Collection of models and extensions for mobile deployment in PyTorch' 
 https://torchexpo.rtfd.io/
+
+### Tensor Sensor：张量传感器——为Numpy/PyTorch矩阵代数表达式生成更有用、更直观的异常消息
+https://github.com/parrt/tensor-sensor
+
+### tormentor：Pytorch图像数据增广包
+https://github.com/anguelos/tormentor

@@ -793,3 +793,6 @@ https://github.com/qyzdao/Sketch-Based-Deep-Learning
 
 视频/图片去雨🌧️相关文献大列表
 https://github.com/hongwang01/Video-and-Single-Image-Deraining
+
+cv::ximgproc::FastLineDetectors是opencv-contrib中用于检测直线的模块，该方法能在较短时间内获得精度较高的直线检测结果，且不需要调节参数。该函数是LineSegmentDetector因版权问题从opencv中移除后最易用的直线检测小能手
+https://livezingy.com/fastlinedetectors-opencv-contrib/
