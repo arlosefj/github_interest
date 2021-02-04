@@ -63,3 +63,6 @@ https://github.com/13952522076/DCANet
 
 A Deeper Look at Salient Object Detection: Bi-stream Network with a Small Training Dataset
 https://github.com/wuzhenyubuaa/TSNet
+
+MobileSal: Extremely Efficient RGB-D Salient Object Detection
+https://arxiv.org/abs/2012.13095

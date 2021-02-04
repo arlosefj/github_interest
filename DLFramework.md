@@ -101,3 +101,12 @@ https://github.com/horovod/horovod
 
 DLPerf：深度学习框架性能分析工具包
 https://github.com/Oneflow-Inc/DLPerf
+
+AutoKernel - 简单易用，低门槛的自动算子优化工具，提高深度学习算法部署效率'
+https://github.com/OAID/AutoKernel
+
+### TensorRT Models Deploy from ONNX
+https://github.com/linghu8812/tensorrt_inference
+
+Libonnx：轻量、可移植的纯C99 ONNX推理引擎，用于支持硬件加速的嵌入式设备
+https://github.com/xboot/libonnx

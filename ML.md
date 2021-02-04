@@ -777,3 +777,154 @@ https://medium.com/@chriswolfvision/what-is-translation-equivariance-and-why-do-
 
 Kaggle深度学习入门课程
 https://www.kaggle.com/learn/intro-to-deep-learning
+
+轻量但功能强大的工具包：NNI（神经网络智能），可帮助用户自动进行特征工程，神经网络架构搜索，超参调优以及模型压缩。
+https://github.com/microsoft/nni/
+
+Aim：机器学习实验记录管理工具
+https://github.com/aimhubio/aim
+
+数据科学/机器学习面试准备资料集锦
+https://github.com/khanhnamle1994/cracking-the-data-science-interview
+
+微软“机器学习模型创建”课程
+https://github.com/MicrosoftDocs/ml-basics
+
+超棒的Fast.ai深度学习实战课程学习笔记”更新至L12 Note(完结)
+https://jimypbr.github.io/tag/fastai
+
+深度学习数学原理路线图
+https://towardsdatascience.com/the-roadmap-of-mathematics-for-deep-learning-357b3db8569b
+
+机器学习项目最佳实践模板
+https://github.com/datarootsio/ml-skeleton-py
+
+Marabou：深度神经网络验证框架
+https://github.com/NeuralNetworkVerification/Marabou
+
+Exemplary Natural Images Explain CNN Activations Better than Feature Visualizations
+https://arxiv.org/abs/2010.12606
+
+吴恩达：人工智能——从概念证明到产品化部署
+https://crossminds.ai/video/5f9a11f026cd723d6a05efa4
+
+### 机器学习的数据清理最佳实践
+https://alto-palo.com/blogs/data-cleaning-for-machine-learning-best-practices/
+
+机器学习白板推导系列课程笔记
+https://github.com/2019ChenGong/Machine-Learning-Notes
+
+机器学习&深度学习网站资源汇总
+https://github.com/howie6879/mlhub123
+
+Do Wide and Deep Networks Learn the Same Things? Uncovering How Neural Network Representations Vary with Width and Depth
+https://arxiv.org/abs/2010.15327
+
+自学机器学习工程师的 “十诫”
+https://towardsdatascience.com/the-10-commandments-of-self-taught-machine-learning-engineers-9e810971ed34
+
+Replicate：机器学习版本控制
+https://github.com/replicate/replicate
+
+HMS ML Demo：基于华为机器学习服务(ML Kit)开发的示例APP
+https://github.com/HMS-Core/hms-ml-demo/blob/master/README_ZH.md
+
+RecBole (伯乐)：用Python/PyTorch开发的推荐算法库
+https://github.com/RUCAIBox/RecBole
+
+Human-AI Co-Learning：人-AI协作相关文献列额表
+https://github.com/janetyc/literature-human-ai-collaboration
+
+李宏毅老师2020深度学习课后作业范例和作业说明
+https://github.com/Iallen520/lhy_DL_Hw
+
+GitHub 上最近比较的一个 AI 技术进阶路线图，由德国一家软件公司 AMAI GmbH 发起，里面包含了 AI 技术领域的相关知识点，每个知识点均附有详细文档
+https://github.com/AMAI-GmbH/AI-Expert-Roadmap
+
+### SHAP：用Python解释机器学习模型
+https://towardsdatascience.com/shap-how-to-interpret-machine-learning-models-with-python-2323f5af4be9
+
+机器学习中的特征工程总结！
+https://mp.weixin.qq.com/s/hkfrtpe51gjFTdxlDSDprw
+
+【出色机器学习项目指南】’Guide to Awesome Machine Learning Projects - A guide to building awesome machine learning projects
+https://github.com/dair-ai/awesome-ML-projects-guide
+
+streamlit速查
+https://github.com/daniellewisDL/streamlit-cheat-sheet
+
+Deep-learning-in-cloud：云端深度学习服务供应商大列表
+https://github.com/zszazi/Deep-learning-in-cloud
+
+数据挖掘类比赛常用模型 - Basic data mining model, including feature importance display
+https://github.com/QLMX/data_mining_models
+
+SparrowRecSys：深度学习电影推荐系统
+https://github.com/wzhe06/SparrowRecSys
+
+《用Python实现深度学习框架》源码
+https://github.com/zackchen/MatrixSlow
+
+为什么90%的机器学习模型都没产品化
+https://towardsdatascience.com/why-90-percent-of-all-machine-learning-models-never-make-it-into-production-ce7e250d5a4a
+
+AI-Surveys - AI相关领域综述集锦’ 
+https://github.com/KaiyuanGao/AI-Surveys
+
+### (Google)机器学习全面入门(96页)
+https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview
+
+开源的机器学习速查表清单，里面包含许多关于机器学习的经典方程式和图表，其目的在于帮助开发人员快速回顾关于机器学习的知识和思想，或用于面试复习。
+https://github.com/soulmachine/machine-learning-cheat-sheet
+
+machinable：用于机器学习研究的模块化配置系统
+https://github.com/machinable-org/machinable
+
+【长尾识别/非平衡学习文献列表】
+https://github.com/xialeiliu/Awesome-LongTailed-Recognition
+
+explainerdashboard：“黑盒”机器学习模型解释分析面板
+https://github.com/oegedijk/explainerdashboard
+
+### klib：方便易用的Python数据清洗/分析/预处理库
+https://github.com/akanz1/klib
+
+stream-learn：用Scikit-Learn估计器处理流数据学习所需的一组工具
+https://github.com/w4k2/stream-learn
+
+机器学习中的对偶
+http://mblondel.org/teaching/duality-2020.pdf
+https://github.com/mblondel/teaching/tree/main/duality-2020
+
+High-Dimensional Data Analysis with Low-Dimensional Models: Principles, Computation, and Applications
+http://people.eecs.berkeley.edu/~yima/
+https://book-wright-ma.github.io/Book-WM-20210128.pdf
+
+evidently：生成在开发，验证，或生产监控期间分析机器学习模型的交互式报告
+https://github.com/evidentlyai/evidently
+
+超越梯度下降
+https://github.com/mblondel/teaching/tree/main/beyond-gd-2020
+
+#### 关于“抽象和推理”的教程，来阐述在深度学习蓬勃发展的今天如何来看到模型的泛化能力。
+https://nips.cc/Conferences/2020/Schedule?showEvent=16644
+在这个教程里，Francois和Melanie分别列举了不少目前深度学习模型在一些看似表现很好的任务中， 因为数据的一些非常微小的变化，而产生模型表现大幅度下降的例子。同时，他们也给出了如何解决这类问题的方向，那就是把深度模型所擅长的“模式识别”和“抽象推理”结合起来。
+Francois Chollet目前在Google工作，著有“Deep Learning with Python”这本畅销书，也是深度学习框架Keras的作者。Melanie Mitchell是波特兰州立大学的教授，著有多本人工智能的书籍。
+
+Python Pandas、Keras、Flask、Docker、Heroku端到端机器学习项目实战
+https://towardsdatascience.com/an-end-to-end-machine-learning-project-with-python-pandas-keras-flask-docker-and-heroku-c987018c42c7
+
+机器学习会议和学校笔记集锦
+https://github.com/visual-ml-notes/visual-machine-learning-notes
+
+ML Tracking：机器学习实验跟踪开源方案列表
+https://github.com/srush/awesome-ml-tracking
+
+Hover：能直观、有效进行监督的机器教学库，可方便对数据进行标记
+https://github.com/phurwicz/hover
+
+超参优化框架Optuna的实时面板
+https://github.com/optuna/optuna-dashboard
+
+ZenML：可扩展的开源MLOps框架
+https://github.com/maiot-io/zenml

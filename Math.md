@@ -42,3 +42,6 @@ https://github.com/cai-hust/manim-tutorial-CN
 
 【1800页33章数学方法精要笔记——深入数学建模， 机器学习和深度学习的数学基础】
 https://github.com/yangyutu/EssentialMath
+
+免费书：《同构——编程中的数学》(含中文版)
+https://github.com/liuxinyu95/unplugged

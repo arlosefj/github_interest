@@ -15,3 +15,15 @@ https://www.aminer.cn/pub/5ee8986891e011e66831c2a6/learning-causal-models-online
 
 【《统计学中的因果推断》随书代码】’Causal Inference In Statistics' 
 https://github.com/DataForScience/Causality
+
+因果相关文献列表
+https://github.com/fulifeng/Causal_Reading_Group
+
+因果推理相关资源大列表(书/课程/视频/工具)
+https://github.com/imirzadeh/awesome-causal-inference
+
+causal-curve：Python因果推理库
+https://github.com/ronikobrosly/causal-curve
+
+因果推理与自然语言处理交叉文献资源列表
+https://github.com/causaltext/causal-text-papers

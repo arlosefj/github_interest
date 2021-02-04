@@ -796,3 +796,39 @@ https://github.com/hongwang01/Video-and-Single-Image-Deraining
 
 cv::ximgproc::FastLineDetectors是opencv-contrib中用于检测直线的模块，该方法能在较短时间内获得精度较高的直线检测结果，且不需要调节参数。该函数是LineSegmentDetector因版权问题从opencv中移除后最易用的直线检测小能手
 https://livezingy.com/fastlinedetectors-opencv-contrib/
+
+视觉语义嵌入/文本-图像检索文献列表
+https://github.com/hardyqr/Visual-Semantic-Embeddings-an-incomplete-list
+
+机器学习与艺术：创意案例集
+https://mlart.co/
+
+### rembg 是 GitHub 上一款可用于快速移除背景图片的开源工具，安装配置后可在服务器、命令行中对图片进行批量处理
+https://github.com/danielgatis/rembg
+
+SORT：简单开源光线追踪器
+https://github.com/JiayinCao/SORT
+
+Creative Sketch Generation (DoodlerGAN)：创造性涂鸦生成
+https://github.com/facebookresearch/DoodlerGAN
+
+Awesome-CVPR2020-Low-Level-Vision：汇总了下CVPR 2020图像重建(Image Reconstruction)/底层视觉(Low-Level Vision)相关的一些论文，包括超分辨率，图像恢复，去雨，去雾，去模糊，去噪等方向
+https://github.com/Kobaayyy/Awesome-CVPR2020-Low-Level-Vision
+
+Caer - 面向高性能AI研究的轻量计算机视觉库，支持GPU，可替代OpenCV
+https://github.com/jasmcaus/caer
+
+### image-quality：开源图像质量评价库
+https://github.com/ocampor/image-quality
+
+PyTorch图像质量评价包
+https://github.com/francois-rozet/piqa
+
+CVPODS：面向多种计算机视觉任务的多功能代码库：分类，分割，检测，自监督学习，关键点和3D 等
+https://github.com/Megvii-BaseDetection/cvpods
+
+pre-Trained Image Processing Transformer
+https://arxiv.org/abs/2012.00364
+
+MIRNet-TFJS：TensorFlow JS实现的用于低照度图片增强的MIRNet模型
+https://github.com/Rishit-dagli/MIRNet-TFJS

@@ -187,3 +187,30 @@ https://github.com/osai-ai/dokai
 
 pypyr automation task runner：自动化任务运行器，通过将命令、不同语言写的脚本和应用组合到一个pipeline进程来自动化任何事
 https://github.com/pypyr/pypyr
+
+AIOps 手册：AIOps 论文、演讲、开源库的汇总手册
+https://github.com/chenryn/aiops-handbook
+
+python, golang, devops 基础知识、 系统设计、后端开发路线图
+https://github.com/DasyDong/interview
+
+基于FastAPI/Transformers/PyTorch部署BERT情感分析API
+https://github.com/curiousily/Deploy-BERT-for-Sentiment-Analysis-with-FastAPI
+
+### 基于FastAPI的产品级机器学习模型服务API框架
+https://github.com/eightBEC/fastapi-ml-skeleton
+
+如何将机器学习模型投入生产环境当中？
+https://stackoverflow.blog/2020/10/12/how-to-put-machine-learning-models-into-production/
+
+kafka-manager - 一站式Apache Kafka集群指标监控与运维管控平台
+https://github.com/didi/Logi-KafkaManager
+
+### FastAPI课程资料
+https://github.com/talkpython/modern-apis-with-fastapi
+
+Enssh：方便管理多服务器的ssh工具
+https://github.com/mattisonchao/enssh
+
+### SuperEdge：Kubernetes原生的边缘容器方案，它将Kubernetes强大的容器管理能力扩展到边缘计算场景中，针对边缘计算场景中常见的技术挑战提供了解决方案
+https://github.com/superedge/superedge

@@ -216,3 +216,7 @@ https://github.com/bismex/Awesome-vehicle-re-identification
 
 A simple and effective feature alignment method with proposed anchor loss for person re-identification
 https://github.com/qychen13/ClusterAlignReID
+
+
+跨模态人物再识别文献列表
+https://github.com/bismex/Awesome-cross-modality-person-re-identification

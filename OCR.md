@@ -601,3 +601,14 @@ https://github.com/ciur/papermerge
 
 中国首份OCR白皮书出炉，基于深度学习的OCR已成主流
 https://mp.weixin.qq.com/s/xXDprbC94h-2a1JxIJB--g
+
+pytorchOCR - 基于pytorch的ocr算法库，包括 psenet, pan, dbnet, sast , crnn
+https://github.com/BADBADBADBOY/pytorchOCR
+
+### NeuSpell：神经网络拼写纠正工具包
+https://github.com/neuspell/neuspell
+
+OCR Post Correction for Endangered Language Text
+https://github.com/neulab/ocr-post-correction
+https://www.aclweb.org/anthology/2020.emnlp-main.478/
+

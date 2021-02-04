@@ -77,3 +77,9 @@ https://github.com/xLaszlo/datascience-fails
 
 算法工程师必备的几种调参技艺
 https://medium.com/swlh/4-hyper-parameter-tuning-techniques-924cb188d199
+
+Source-Code-Notebook - 关于一些经典论文源码的逐行中文笔记(推荐系统/图神经网络/计算机视觉/自然语言处理/跨模态)’
+https://github.com/nakaizura/Source-Code-Notebook
+
+### 有没有什么可以节省大量时间的 Deep Learning 效率神器？
+https://www.zhihu.com/question/384519338

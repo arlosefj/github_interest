@@ -538,3 +538,77 @@ https://github.com/astrofox-io/astrofox
 
 GitHub 上一个开源的数据可视化模板，直接传送数据即可进行数据展示
 https://github.com/TurboWay/big_screen
+
+fastdoc：将Jupyter notebooks转换成适合出版的asciidoc文件，可进一步用asciidoctor生成HTML, DocBook, epub, mobi等格式电子书
+https://github.com/fastai/fastdoc
+
+Wizard - 开源的文档管理工具，支持Markdown/Swagger/Table类型的文档
+https://github.com/mylxsw/wizard
+
+Google/Bing图片爬虫
+https://github.com/ultralytics/google-images-download
+
+imgcat：在终端显示彩色图片
+https://github.com/trashhalo/imgcat
+
+Ocrall是可以的!这个系统很牛，加密的PDF会自动解密，有水印的会自动去掉水印，图片版PDF会自动识别转换为Word，还原率高达99%，文字版的不用说了，还原率近100%。这个系统还能把cnki上下载的CAJ文件转成PDF和Word
+
+比较实用的开源项目：vega-lite，它提供了一种交互式图形语法，让用户仅需通过几行简单的 JSON 配置，便能生成各种可视化交互数据图。
+https://github.com/vega/vega-lite
+
+code-video-generator：用Manim自动创建Python代码走读视频
+https://github.com/sleuth-io/code-video-generator
+
+OBS-captions-plugin：用Google Speech Recognition实现的OBS自动字幕扩展，可自动保存为SRT字幕文件
+https://github.com/ratwithacompiler/OBS-captions-plugin
+
+Notebooker 是一个可快速将 Jupyter Notebook 内容转换为 Web 报告的开发工具，其转化结果存储在 MongoDB 中，支持在 Web 界面上直接查询。
+https://github.com/man-group/notebooker
+
+### MockMechanics is a program that allows the creation of complex and interactive mechanisms using only simple building blocks and a graphical and intuitive form of programming.
+https://mockmechanics.com/
+
+GitHub 一款基于 .Net Core 编写的跨平台的 B 站（哔哩哔哩）任务工具，通过 GitHub Actions 实现每日线上自动运行任务。
+https://github.com/RayWangQvQ/BiliBiliTool
+### 学习github actions
+
+Upptime：完全基于GitHub Actions and Issues实现的服务器存活状态监视器
+https://github.com/upptime/upptime
+
+智能 Web 爬虫脚本 其主要作用，是能快速且智能获取指定网站上的数据，这些数据可以是网页文本、url 地址或者其它 HTML 元素。
+https://github.com/alirezamika/autoscraper
+
+### GitHub 上一款 Markdown 笔记应用：思源笔记，拥有块级引用和双向链接的网状特色，支持 Windows、Mac 和 Linux，可在浏览器上直接使用，支持移动端适配。
+此外，它还拥有实时渲染、全局搜索、全局关系图、数学公式与流程图支持、拖拽分屏、多主题定制等功能。
+https://github.com/siyuan-note/siyuan
+
+qrtunnel：利用二维码从远程桌面拷贝文件到本地
+https://github.com/coolwill/qr-tunnel
+
+基于 Java 编写的物联网开源平台：ThingsBoard 。
+可用于数据收集、处理、可视化与设备管理等应用场景。
+https://github.com/thingsboard/thingsboard
+
+overleaf-textarea：Overleaf的tex拼写检查/纠正插件
+https://github.com/robindijkhof/overleaf-textarea
+
+### 开源的 Git 学习指南：Git 飞行规则，其理念来自于 NASA 给宇航员的指南，主要用于指导问题出现后的应对之法。
+指南里面记录了某个事情发生的原因，以及怎样进行流程化处理。本质上，它们是特定场景的标准处理流程。
+https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md
+
+image_to_c：用于将二进制图像文件转换为C源码的小工具，输出是一个无符号字符数组
+https://github.com/bitbank2/image_to_c
+
+Rath：新一代可视化分析工具，提供自动化的数据探索分析能力与自动可视化设计能力
+https://github.com/Kanaries/Rath
+
+本地多个 WiFi 设备间快速传输文件 Snapdrop 这款开源工具。
+该工具灵感来自 Apple 的 Airdrop，基于 WebRTC、WebSockets、PWA 等技术搭建，可在本地设备无缝传输各类文件，倘若你对数据比较敏感，也可使用 Docker 自行搭建。
+Demo：snapdrop.net
+https://github.com/RobinLinus/snapdrop
+
+TechStack：个人技术栈展示小工具
+https://github.com/erangeles/techstack
+
+Steganography tool：写的图片信息隐写工具
+https://github.com/djhworld/stegtool

@@ -118,3 +118,15 @@ https://github.com/Haotianz94/IL_video_inpainting
 
 Texture Memory-Augmented Deep Patch-Based Image Inpainting
 https://github.com/open-mmlab/mmediting
+
+Image Inpainting with Learnable Feature Imputation
+https://github.com/hukkelas/DeepPrivacy
+
+PatchMatch for inpainting：C++实现的PatchMatch图像补全
+https://github.com/ZQPei/patchmatch_inpainting
+
+Image Inpainting with Contextual Reconstruction Loss
+https://github.com/zengxianyu/crfill
+
+Depix：从打码截屏图片中恢复密码字符
+https://github.com/beurtschipper/Depix

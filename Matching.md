@@ -70,3 +70,12 @@ https://github.com/cyang-kth/fmm
 
 Image-to-Image-Search：Elastic Search + Tensorflow开发的相似图片搜索引擎
 https://github.com/sethuiyer/Image-to-Image-search
+
+trace.moe：动画场景搜索网站
+https://github.com/soruly/trace.moe
+
+ODIFF：超快的图片逐像素比较工具
+https://github.com/dmtrKovalenko/odiff
+
+【图像匹配基准】’Image Matching Benchmark - Public release of the Image Matching Benchmark: image-matching-challenge.github.io' 
+https://github.com/ubc-vision/image-matching-benchmark

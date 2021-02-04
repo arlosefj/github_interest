@@ -117,3 +117,16 @@ https://github.com/ct-js/ct-js
 
 NasNas：直观友好的C++ 2D游戏框架
 https://github.com/Madour/NasNas
+
+用Python自己写个国际象棋AI
+https://medium.com/dscvitpune/lets-create-a-chess-ai-8542a12afef
+
+GBEmu：基于WebAssembly的Gameboy模拟器
+https://github.com/BlueBlazin/gbemu
+
+使用 C++ 编写的《金庸群侠传》复刻版：kys-cpp。
+该项目是一个以 SDL2 为基础实现的 2D 游戏框架，相当于提供了一个使用该框架制作 DOS 游戏《金庸群侠传》移植版的范例。
+https://github.com/scarsty/kys-cpp
+
+GymGo：基于OpenAI's Gym API的围棋仿真环境
+https://github.com/aigagror/GymGo

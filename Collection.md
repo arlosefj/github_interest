@@ -31,5 +31,13 @@ https://github.com/jaywcjlove/handbook
 '404 Not Found的知识库：计算机理论基础、计算机技术基础、底层研究、安全技术、安全研究、人工智能、企业安全建设、安全发展、职业规划、综合素质、国内外优秀技术人' 
 https://github.com/404notf0und/Always-Learning#%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD
 
+里面收集了与 DeepMind 研究相关的论文、开源环境、数据集及源代码
+https://github.com/deepmind/deepmind-research
+
+Papers with Code全面拓展到物理、数学、计算机科学、统计学和天文学等领域
+https://portal.paperswithcode.com/
+
+gopup，里面采集了互联网上，不同行业的各项公开数据源，以便开发者更好的进行学术研究。
+https://github.com/justinzm/gopup
 
 ![](https://arloseimg.oss-cn-hangzhou.aliyuncs.com/20200729104951.png)

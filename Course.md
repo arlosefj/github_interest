@@ -152,3 +152,18 @@ https://github.com/atcold/pytorch-Deep-Learning/
 ### 《因果推理导论》课程(2020)及教材
 https://www.bilibili.com/video/BV1nZ4y1K78i/
 https://www.bradyneal.com/causal-inference-course
+
+计算机视觉相关免费高质量课程视频大列表
+https://github.com/kuzand/Computer-Vision-Video-Lectures
+
+DeepMind Educational Resources：DeepMind教育性资源集
+https://github.com/deepmind/educational
+
+哈佛免费课程《数据科学：机器学习》——通过构建一个电影推荐系统，学习流行的机器学习算法、主成分分析等
+https://online-learning.harvard.edu/course/data-science-machine-learning
+
+### MIT的软件使用课
+https://www.bilibili.com/video/BV1aE41157q6
+
+赫尔辛基大学《人工智能伦理》免费在线课程
+https://ethics-of-ai.mooc.fi/

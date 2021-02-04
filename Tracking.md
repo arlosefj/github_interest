@@ -227,3 +227,13 @@ https://github.com/tryolabs/norfair
 
 ### AcurusTrack：用于精确多目标跟踪的Python数据关联组件
 https://github.com/AIHunters/AcurusTrack
+
+YOLOv4, DeepSort, TensorFlow实现的目标追踪
+https://github.com/theAIGuysCode/yolov4-deepsort
+
+基于MediaPipe用TensorFlow.js实现虹膜跟踪
+https://blog.tensorflow.org/2020/11/iris-landmark-tracking-in-browser-with-MediaPipe-and-TensorFlowJS.html
+
+
+### 基于YOLOV4的人车检测追踪
+https://github.com/CaptainEven/YOLOV4_MCMOT

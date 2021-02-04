@@ -369,3 +369,18 @@ https://arxiv.org/abs/2008.09106
 
 Facebook面向具身AI研究的灵活、高性能3D模拟平台AI Habitat最新更新：支持交互式对象、真实物理建模、改进的渲染、从虚拟环境到物理环境的无缝转换，以及更灵活的用户界面和浏览器内运行模拟的支持
 https://github.com/facebookresearch/habitat-lab
+
+Unsupervised Monocular Depth Learning in Dynamic Scenes
+https://github.com/google-research/google-research/tree/master/depth_and_motion_learning
+
+AD-Census - AD-Census立体匹配算法，算法效率高、效果出色，适合硬件加速，Intel RealSense D400 Stereo模块算法
+https://github.com/ethan-li-coding/AD-Census
+
+Learning to Predict the 3D Layout of a Scene
+https://arxiv.org/abs/2011.09977
+
+另一个用手机拍摄视频生成自由视角3D视频的工作 paper:《Deformable Neural Radiance Fields》
+https://nerfies.github.io/
+
+HR-Depth: High Resolution Self-Supervised Monocular Depth Estimation
+https://arxiv.org/abs/2012.07356

@@ -99,3 +99,12 @@ https://github.com/msnh2012/Msnhnet https://blog.csdn.net/MSNH2012/article/detai
 
 ### Neuralet：用于边缘TPU、Jetson Nano等的边缘深度学习模型平台，在边缘设备上启动和评价各种深度学习模型
 https://github.com/neuralet/neuralet
+
+### piipcam：用树莓派DIY IP摄像头
+https://github.com/sepfy/piipcam
+
+volute：用 树莓派+Node.js 制作的语音助手
+https://github.com/webfansplz/volute
+
+Raspberry Pi Webcam：用树莓派搭建USB OTG网络摄像头
+https://github.com/geerlingguy/pi-webcam

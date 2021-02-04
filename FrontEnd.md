@@ -64,3 +64,15 @@ https://github.com/hugozanini/realtime-semantic-segmentation
 
 HTML4Vision：面向计算机视觉研究的简单HTML可视化工具
 https://github.com/mtli/HTML4Vision
+
+
+react-d3-graph 这个开源工具不错，可帮助前端开发者轻松使用 React 和 d3 快速创建可交互和可配置的图形，提升开发效率。https://github.com/danielcaldas/react-d3-graph
+
+微软的web开发免费入门课程，为期12周、24节课，内容包括 JavaScript、 CSS 和 HTML 的基础知识
+https://github.com/microsoft/Web-Dev-For-Beginners
+
+为web项目添加头部、手部姿态跟踪功能的JavaScript库
+https://github.com/MIDIBlocks/handsfree
+
+H2O Wave，一套可用于构建实时 Web 项目与仪表面板的工具，采用 Python 编写，拥有低延迟、优雅美观、实时分析等亮点
+https://github.com/h2oai/wave

@@ -739,3 +739,36 @@ https://github.com/NVlabs/imaginaire
 
 Augmented Cyclic Consistency Regularization for Unpaired Image-to-Image Translation
 https://arxiv.org/abs/2003.00187
+
+One Model to Reconstruct Them All: A Novel Way to Use the Stochastic Noise in StyleGAN
+https://github.com/Bartzi/one-model-to-reconstruct-them-all
+
+S2cGAN: Semi-Supervised Training of Conditional GANs with Fewer Labels
+https://arxiv.org/abs/2010.12622
+
+Teaching a GAN What Not to Learn
+https://arxiv.org/abs/2010.15639
+
+End-to-End Chinese Landscape Painting Creation Using Generative Adversarial Networks
+https://github.com/alicex2020/Chinese-Landscape-Painting-Dataset
+
+PaddleGAN：飞桨生成对抗网络开发套件，为开发者提供经典及前沿的生成对抗网络高性能实现，并支撑开发者快速构建、训练及部署生成对抗网络，以供学术、娱乐及产业应用
+https://github.com/PaddlePaddle/PaddleGAN
+
+HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms
+https://github.com/mahmoudnafifi/HistoGAN
+
+Mask-Guided Discovery of Semantic Manifolds in Generative Models
+https://github.com/bmolab/masked-gan-manifold
+
+Navigating the GAN Parameter Space for Semantic Image Editing
+https://github.com/yandex-research/navigan
+
+Anime BigGAN Toy：BigGAN动漫图片生成
+https://github.com/HighCWu/anime_biggan_toy
+
+Lipschitz Regularized CycleGAN for Improving Semantic Robustness in Unpaired Image-to-image Translation
+https://arxiv.org/abs/2012.04932
+
+gan-mosaics：基于Stylegan2-Ada的马赛克图案生成
+https://github.com/zaidalyafeai/gan-mosaics

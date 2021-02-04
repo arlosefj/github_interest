@@ -147,3 +147,6 @@ https://github.com/791136190/ncnn_android_face_vehicle/tree/master/app
 
 Anbox，可在 GNU / Linux 系统上轻松运行 Android 系统
 https://github.com/anbox/anbox
+
+MetalCamera：Mac/iOS上支持GPU的图像/视频处理
+https://github.com/jsharp83/MetalCamera

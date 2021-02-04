@@ -157,3 +157,35 @@ https://github.com/LingDong-/shan-shui-inf
 
 Modeling Artistic Workflows for Image Generation and Editing
 https://github.com/hytseng0509/ArtEditing
+
+ncnnRay++: A CMake / WASM integration of rayib UI and the Tencent ncnn C++ AI platform.
+https://github.com/QuantScientist/ncnnRay
+
+### 澄清大(数学)概念的小项目，解答一些“简单/明显/愚蠢”的小问题
+https://github.com/ovysotska/in_simple_english
+
+Google 几名工程师最近整了个特别有意思的 AI 玩具：Chimera Painter，可根据你提供的涂鸦轮廓、指定的涂鸦身体部位，快速为你生成一种新生物。
+https://ai.googleblog.com/2020/11/using-gans-to-create-fantastical.html
+https://storage.googleapis.com/chimera-painter/index.html
+
+【用摄像头实时解数独】’Sudoku-Solver-AI - I made a real time Sudoku solver using the camera'
+https://github.com/1nfinityLoop/Sudoku-Solver-AI
+
+U^2-Net 的一种有趣应用，可借助 AI 技术为人物肖像生成手绘风格的画像。
+https://github.com/NathanUA/U-2-Net
+https://www.pythonf.cn/read/141098
+
+完全用数学打造漂亮3D女孩动画像 
+https://www.bilibili.com/video/BV1Rf4y1Y7jU/ https://www.shadertoy.com/view/WsSBzh
+
+Rhubarb Lip Sync：2D动画唇动合成，根据语音自动生成动画人物口型
+https://github.com/DanielSWolf/rhubarb-lip-sync
+
+用摄像头做动作控制涂鸦角色
+https://scroobly.com/
+
+anichart.js：轻松地制作数据可视化动画视频
+https://github.com/Jannchie/anichart.js
+
+### 可基于光流边缘引导的视频补全算法，对视频物品进行自动抠除、补全。
+https://github.com/vt-vl-lab/FGVC

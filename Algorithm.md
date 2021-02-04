@@ -262,3 +262,27 @@ https://github.com/Py-Contributors/AlgorithmsAndDataStructure
 
 用Python3用优雅的方式实现《剑指Offer》中的题目
 https://github.com/darkTianTian/sword-for-offer
+
+中/难LeetCode问题参考解法
+https://github.com/noisefilter19/LeetCode_Algorithms
+
+UC Berkeley CS170《高效算法与棘手问题》(2020) 课程
+https://cs170.org/
+
+开源的技术面试清单速查表
+https://github.com/TSiege/Tech-Interview-Cheat-Sheet
+
+高频面试题 - 根据超过 1500 篇真实面经整理的腾讯，阿里，字节跳动，Shopee，美团，滴滴高频面试题
+https://github.com/resumejob/interview-questions
+
+### 多种在机器人领域中常用到的路径规划算法，其中也包括基于搜索与采样的方法。为了便于理解，作者还特意为每种算法的动态运行动画。
+https://github.com/zhm-real/PathPlanning
+
+LeetCode 101：和你一起你轻松刷题（C++）
+https://github.com/changgyhub/leetcode_101
+
+LeetCode难题代码和算法要点分析(C++/Python)
+https://github.com/wisdompeak/LeetCode
+
+编程面试(算法与数据结构)问题与编程实现集
+https://github.com/xianzhez/Coding-Interview-101

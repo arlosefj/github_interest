@@ -183,3 +183,22 @@ https://github.com/iffiX/machin
 
 基于MiniGrid的轻量多智能体gridworld Gym强化学习环境
 https://github.com/ArnaudFickinger/gym-multigrid
+
+李宏毅深度强化学习笔记(LeeDeepRL-Notes)
+https://datawhalechina.github.io/leedeeprl-notes/
+
+DeepRL-TensorFlow2：TensorFlow2实现的多种深度强化学习算法
+https://github.com/marload/DeepRL-TensorFlow2
+
+DeepMind Lab2D：智能体AI研究2D模拟环境
+https://github.com/deepmind/lab2d
+
+深度强化学习算法的27个实例项目
+https://github.com/Rafael1s/Deep-Reinforcement-Learning-Algorithms
+
+离线强化学习：从算法设计到实际应用
+https://nips.cc/Conferences/2020/Schedule?showEvent=16641
+https://colab.research.google.com/drive/1oJOYlAIOl9d1JjlutPY66KmfPkwPCgEE?usp=sharing
+
+David Silver的强化学习课程
+https://www.bilibili.com/video/BV1Vp411d7vj/

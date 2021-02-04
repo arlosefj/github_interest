@@ -101,3 +101,12 @@ https://github.com/microsoft/mageslam
 
 单目/立体摄像机语义视觉Slam项目
 https://github.com/yiakwy/SEMANTIC_VISUAL_SUPPORTED_ODEMETRY
+
+ORB-SLAM2 超详细注释 - Detailed comments for ORB-SLAM2 with trouble-shooting, key formula derivation, and diagrammatic drawing
+https://github.com/electech6/ORB_SLAM2_detailed_comments
+
+gradslam：PyTorch可微稠密SLAM库
+https://github.com/gradslam/gradslam
+
+SC-LIO-SAM：a real-time lidar-inertial SLAM package
+https://github.com/gisbi-kim/SC-LIO-SAM

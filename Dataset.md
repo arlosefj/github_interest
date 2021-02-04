@@ -470,3 +470,48 @@ https://github.com/deliton/idt
 
 KITTI-360无人驾驶数据集，包含320k图像和100k激光扫描数据
 https://github.com/autonomousvision/kitti360Scripts
+
+CurveLanes Dataset：车道检测基准数据集，包含150,000个车道图像，用于困难场景如车道检测中的曲线和多车道等
+https://github.com/xbjxh/CurveLanes
+
+### 地标检测模型集&Demo
+https://tfhub.dev/google/collections/landmarks/1
+
+MedMNIST：医学图像分类数据集
+https://github.com/MedMNIST/MedMNIST
+
+COCO minitrain：小型COCO训练数据集
+https://github.com/giddyyupp/coco-minitrain
+
+### Hub：用PyTorch和TensorFlow方便快捷访问和管理数据集
+https://github.com/activeloopai/Hub
+
+Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding
+https://arxiv.org/abs/2011.02523
+
+fire-detect-yolov4 - fire-smoke-detection-dataset and fire-detection-yolov4-5 (with xml annotations)，火灾-烟雾 yolov4 yolov5检测数据集
+https://github.com/gengyanlei/fire-detect-yolov4
+
+开源的点状云图数据集：
+PointCloudDatasets，每个形状包含均匀采样的 2048 个点。
+https://github.com/AnTao97/PointCloudDatasets
+
+Objectron Dataset：以对象为中心的短视频剪辑数据集，每个视频剪辑带有 AR 会话元数据，包括摄像机姿态和稀疏点云，包含为每个对象手动标记的3D包围框，整个数据集包含15K标记视频剪辑和超过4M 从各地搜集的多样性图像标记样本
+https://ai.googleblog.com/2020/11/announcing-objectron-dataset.html
+
+PubTabNet：大规模表格图像识别数据集，包含568k+表格数据图像，用对应的HTML进行标记
+https://github.com/ibm-aur-nlp/PubTabNet
+
+TJU-DHD：面向目标检测和行人检测的高分辨率数据集
+https://github.com/tjubiit/TJU-DHD
+
+HouseExpo：大规模2D室内布局数据集
+https://github.com/TeaganLi/HouseExpo
+
+The MTA Dataset：大型多目标多摄像机跟踪数据集，包含2800+个人身份，6个摄像头，每摄像头100+分钟的视频长度(一天一夜)
+
+Toronto-3D: 面向城市道路语义分割的大规模移动激光雷达数据集
+https://github.com/WeikaiTan/Toronto-3D
+
+The Hypersim Dataset：Apple首次发布公开数据集——面向室内场景整体理解的真实感合成数据集，74K高分辨率HDR计算机生成的逼真室内场景图像，1.9TB像素级标记
+https://github.com/apple/ml-hypersim

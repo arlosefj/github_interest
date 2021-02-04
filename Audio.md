@@ -355,3 +355,42 @@ https://arxiv.org/abs/2010.01815 https://github.com/bytedance/piano_transcriptio
 
 CorentinJ/Real-Time-Voice-Cloning 
 https://github.com/KuangDD/zhrtvc
+
+工业级语音识别文献集(Streaming ASR / Non-autoregressive ASR / WFST based ASR ...)
+https://github.com/xingchensong/speech-recognition-papers
+
+pyttsx3：Python离线语音合成库
+https://github.com/nateshmbhat/pyttsx3
+
+TensorflowASR：Tensorflow2实现的最先进语音识别
+https://github.com/Z-yq/TensorflowASR
+
+Cornell鸟鸣识别比赛第二名方案
+https://github.com/vlomme/Birdcall-Identification-competition
+
+micmon：从原始音频流分割创建音频数据集并训练声音检测模型的Python库
+https://github.com/BlackLight/micmon
+
+### LibreASR：开箱即用的流语音识别系统(基于PyTorch&fastai )
+https://github.com/iceychris/LibreASR
+
+Voicenet：语音和音频的综合Python处理库
+https://github.com/Robofied/Voicenet
+
+musicpy：音乐编程语言，用简洁的语法通过乐理逻辑写出优美音乐
+https://github.com/Rainbow-Dreamer/musicpy
+
+SOVA ASR：基于Wav2Letter架构的快速语音识别API
+https://github.com/sovaai/sova-asr
+
+### ZhTTS：CPU上的开源端到端实时中文语音合成系统
+https://github.com/Jackiexiao/zhtts
+
+SeeWav: 音频波形可视化包
+https://github.com/adefossez/seewav
+
+神经网络语音分离必读文献列表
+https://github.com/JusperLee/Speech-Separation-Paper-Tutorial
+
+PIKA: 基于Pytorch和(Py)Kaldi的轻量语音处理工具包
+https://github.com/tencent-ailab/pika

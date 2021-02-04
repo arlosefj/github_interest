@@ -882,3 +882,39 @@ https://github.com/WaterKnight1998/SemTorch
 
 ECCV 2020实例级识别Workshop上Google成果介绍，包括新的DELG模型，新资源以及开源库，以及两个挑战的地标识别和检索任务
 https://ai.googleblog.com/2020/09/advancing-instance-level-recognition.html
+
+### PyTorch语义分割实例教程
+https://github.com/hoya012/semantic-segmentation-tutorial-pytorch
+
+Deep Image Compositing
+https://arxiv.org/abs/2011.02146
+
+Is a Green Screen Really Necessary for Real-Time Human Matting
+https://github.com/ZHKKKe/MODNet
+
+BoxInst: High-Performance Instance Segmentation with Box Annotations
+https://github.com/aim-uofa/AdelaiDet/
+
+### Make One-Shot Video Object Segmentation Efficient Again
+https://github.com/dvl-tum/e-osvos
+
+ViP-DeepLab: Learning Visual Perception with Depth-aware Video Panoptic Segmentation
+https://github.com/joe-siyuan-qiao/ViP-DeepLab
+
+Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation
+https://arxiv.org/abs/2012.07177
+
+基于CondInst的动画角色实例分割
+https://github.com/zymk9/Yet-Another-Anime-Segmenter
+
+Real-Time High-Resolution Background Matting
+https://arxiv.org/abs/2012.07810
+
+### YolactEdge: 边缘设备上的实时实例分割，在Jetson AGX Xavier上运行最高可达30.8 FPS
+https://github.com/haotian-liu/yolact_edge
+
+HyperSeg: Patch-wise Hypernetwork for Real-time Semantic Segmentation
+https://arxiv.org/abs/2012.11582
+
+Meticulous Object Segmentation
+https://github.com/Chenglin-Yang/MOS_Meticulous-Object-Segmentation

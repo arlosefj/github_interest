@@ -561,3 +561,42 @@ https://github.com/parrt/tensor-sensor
 
 ### tormentor：Pytorch图像数据增广包
 https://github.com/anguelos/tormentor
+
+Torchserve Dashboard - Management Dashboard for Torchserve
+https://github.com/cceyda/torchserve-dashboard
+
+改变Pytorch调试方式的3个小技巧
+https://medium.com/@adrian.waelchli/3-simple-tricks-that-will-change-the-way-you-debug-pytorch-5c940aa68b03
+
+DarkTorch：用PyTorch C++前端和NVIDIA GPU实现的低延迟深度学习推理服务器
+https://github.com/QuantScientist/DarkTorch
+
+pytorch 图像分类竞赛框架
+https://github.com/spytensor/pytorch_img_classification_for_competition
+
+实战教程：用PyTorch实现Transformer
+https://github.com/gordicaleksa/pytorch-original-transformer
+
+Pytorch贝叶斯神经网络库
+https://github.com/Harry24k/bayesian-neural-network-pytorch
+
+TyXe: PyTorch贝叶斯神经网络库
+https://github.com/karalets/TyXe
+
+【基于PyTorch Lightning项目大列表】
+https://pytorchlightning.ai/community#projects
+
+torchdistill: 知识提炼模块化配置驱动框架
+https://github.com/yoshitomo-matsubara/torchdistill
+
+Super Selfish：PyTorch图像自监督学习统一框架，包括基于图块、预测式、生成式、对比式等各类14种算法
+https://github.com/MECLabTUDA/Super_Selfish
+
+Ensemble-Pytorch：PyTorch集成学习库
+https://github.com/xuyxu/Ensemble-Pytorch
+
+用PyTorch JIT优化模型
+https://lernapparat.de/jit-optimization-intro/
+
+PyCave：用PyTorch实现的支持GPU加速的传统机器学习模型
+https://github.com/borchero/pycave

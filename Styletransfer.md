@@ -114,3 +114,12 @@ https://github.com/acht7111020/DSMAP
 
 【(Colabs)图片/视频画风迁移】
 https://github.com/tg-bomze/Style-Transfer-Collection
+
+风格化神经绘画——生动逼真、画风可控的图像-绘画艺术转换
+https://github.com/jiupinjia/stylized-neural-painting
+
+SHAD3S：草图暗面&阴影模型
+https://github.com/DelTA-Lab-IITK/shad3s
+
+ArtLine：基于深度学习的线条艺术肖像创作项目
+https://github.com/vijishmadhavan/ArtLine

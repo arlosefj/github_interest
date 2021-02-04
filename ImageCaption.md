@@ -118,3 +118,22 @@ https://arxiv.org/abs/2008.01392
 
 Towards Unique and Informative Captioning of Images
 https://github.com/princetonvisualai/SPICE-U
+
+计算机如何做到“看图说话”？在没有对应的训练数据的情况下，模型能否准确描述测试图像中新出现的各种类别的物体？微软 Azure 认知服务团队和微软研究院的研究员提出了全新解决方案视觉词表预训练 (Visual Vocabulary Pre-training)。该方法在 nocaps 挑战中取得了新的 SOTA，并首次超越人类表现
+https://weibo.com/ttarticle/p/show?id=2309404559989682602061
+
+一个视频的文本摘要生成项目，输入一段视频，通过深度学习网络和人工智能程序识别视频主要表达的意思
+https://github.com/CaptainEven/VideoCaption
+
+An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale
+https://github.com/google-research/vision_transformer
+
+### CapWAP: Captioning with a Purpose
+https://arxiv.org/abs/2011.04264
+https://github.com/google-research/language/tree/master/language/capwap
+
+Transformer视觉表示学习文献资源列表
+https://github.com/alohays/awesome-visual-representation-learning-with-transformers
+
+Online Bag-of-Visual-Words Generation for Unsupervised Representation Learning
+https://github.com/valeoai/obow

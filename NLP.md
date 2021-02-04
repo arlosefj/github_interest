@@ -261,3 +261,39 @@ https://github.com/EssayKillerBrain/EssayKiller_V2
 
 中文文本生成（NLG）之文本摘要（text summarization）工具包
 https://github.com/yongzhuo/nlg-yongzhuo
+
+一篇英文的很好解释word2vec、ELMO、Transformer、BERT之间联系和区别的文章
+http://jalammar.github.io/illustrated-bert/
+
+面向深度学习研究人员的自然语言处理实例教程(TensorFlow/Pytorch)
+https://github.com/graykode/nlp-tutorial
+
+自然语言处理、知识图谱相关语料大列表
+https://github.com/SimmerChan/corpus
+
+知识图谱问答相关文献资源列表
+https://github.com/BshoterJ/awesome-kgqa
+
+NLP顶会论文研读与复现
+https://github.com/km1994/nlp_paper_study
+
+deeplearning.ai自然语言处理专项课程笔记
+https://github.com/alisher-ai/machine-learning-notes/tree/master/coursera-nlp-specialization
+
+GuwenBERT: 古文预训练语言模型 a Pre-trained Language Model for Classical Chinese (Literary Chinese)'
+https://github.com/Ethan-yt/guwenbert
+
+知识图谱教程/论文列表
+https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers
+
+Legal Text Analytics：法律文本分析相关资源、方法与工具列表
+https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics
+
+TransformerSummarization - 基于Transformer的生成式文本摘要'
+https://github.com/HorieYuan/TransformerTextSummarization
+
+知识图谱：概念与技术
+https://github.com/tywee/knowledge-graph
+
+基于RNN, Transformer, Bert, GPT2的生成式聊天机器人(对话系统)
+https://github.com/demi6od/ChatBot

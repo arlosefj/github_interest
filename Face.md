@@ -486,3 +486,22 @@ https://github.com/emilianavt/OpenSeeFace
 
 ### FacePose_pytorch：准确好用的人脸姿势检测
 https://github.com/WIKI2020/FacePose_pytorch
+
+### VTuber_Unity：用Unity+深度学习自己做VTuber
+https://github.com/kwea123/VTuber_Unity
+
+10种轻量级人脸检测算法的比拼，其中还包含人脸关键点检测与对齐，人脸识别
+https://github.com/hpc203/10kinds-light-face-detector-align-recognition
+
+PULSE，可以让很模糊的人变清晰的脸（当然非真实还原）
+github.com/adamian98/pulse ​​​
+对应的论文：arxiv.org/pdf/2003.03808.pdf ​​​​
+
+MAAD-Face: 具有大量高质量属性标记的人脸数据库
+https://github.com/pterhoer/MAAD-Face
+
+img2pose: Face Alignment and Detection via 6DoF, Face Pose Estimation
+https://github.com/vitoralbiero/img2pose
+
+### 26M Flops Facial Landmark Detection：PyTorch实现的高性能人脸标特征点检测
+https://github.com/ainrichman/Peppa-Facial-Landmark-PyTorch

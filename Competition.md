@@ -222,3 +222,29 @@ Kaggle地标识别2020比赛优胜方案
 https://github.com/psinger/kaggle-landmark-recognition-2020-1st-place
 https://arxiv.org/abs/2010.01650
 
+2020第二届Google地标识别比赛第二名方案
+https://github.com/bestfitting/instance_level_recognition
+
+xView2建筑灾害损失评估比赛第一名方案
+https://github.com/DIUx-xView/xView2_first_place
+
+Google地标识别2020比赛第三名方案
+https://github.com/haqishen/Google-Landmark-Recognition-2020-3rd-Place-Solution
+
+中国科学技术大学第七届信息安全大赛的官方与非官方题解
+https://github.com/USTC-Hackergame/hackergame2020-writeups
+
+Kaggle大数据集高效访问教程
+https://www.kaggle.com/rohanrao/tutorial-on-reading-large-datasets
+
+(Kaggle) Lyft自主车辆运动预测比赛第4名方案
+https://github.com/pfnet-research/kaggle-lyft-motion-prediction-4th-place-solution
+
+Kaggle Google Research Football Competition足球比赛第8名方案
+https://github.com/seungeunrho/football-paris
+
+Kaggle Lyft无人驾驶运动预测比赛第三名方案
+https://github.com/asanakoy/kaggle-lyft-motion-prediction-av
+
+Chinese-DeepNER-Pytorch - 天池中药说明书实体识别挑战冠军方案
+https://github.com/z814081807/DeepNER

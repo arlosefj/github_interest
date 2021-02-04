@@ -630,3 +630,27 @@ https://amitness.com/2020/06/google-colaboratory-tips/
 
 如何将Jupyter Notebook转成生产用脚本
 https://github.com/G-Hung/model-productization_article
+
+十个有助于提高数据科学研究效率的Python技巧
+https://towardsdatascience.com/10-underrated-python-skills-dfdff5741fdf
+
+ipygany，支持在 Jupyter Notebook 中展示 3D 科学可视化。
+https://github.com/QuantStack/ipygany
+
+### 全面Python编程速查
+https://github.com/gto76/python-cheatsheet
+
+Python专家会怎么做？
+https://github.com/austin-taylor/code-vault/blob/master/python_expert_notebook.ipynb
+
+just-pandas-things：让生活更轻松的pandas使用知识
+https://github.com/chiphuyen/just-pandas-things
+
+### 可应用于 Jupyter 的可交互式画布，通过对接浏览器的 Canvas API，便可使用 Python 绘制简单的文本、线条、多边形、弧线等图形。
+https://github.com/martinRenou/ipycanvas
+
+Python实现的同步压缩、小波变换和时频分析
+https://github.com/OverLordGoldDragon/ssqueezepy
+
+### 图解NumPy：NumPy可视化指南
+https://medium.com/better-programming/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d

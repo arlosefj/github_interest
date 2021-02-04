@@ -234,3 +234,21 @@ https://github.com/parzulpan/real-live
 
 Nvidia发布Maxine人工智能视频会议服务，只传输关键点数据，用GAN进行画面重建，可将带宽减少到H.264标准要求的十分之一，还提供注视矫正、超分辨率、去噪、人脸重打光等功能
 https://venturebeat.com/2020/10/05/nvidia-unveils-maxine-a-managed-cloud-ai-videoconferencing-service/
+
+MobileFFmpeg：Android, iOS, tvOS版FFmpeg
+https://github.com/tanersener/mobile-ffmpeg
+
+vdx 这款命令行工具提供了视频裁剪、大小调整、音频剥离、速度调整、帧频更改、音量调节、文件格式转化等快捷操作命令，让整个过程看起来更加直观与清晰。
+https://github.com/yuanqing/vdx
+
+FFCreator - 基于node.js的高速短视频加工库 A fast short video processing library based on node.js - 只需添加几张图片或视频片段再加一段背景音乐，就可以快速生成一个很酷的视频短片’
+https://github.com/tnfe/FFCreator
+
+DUT: Learning Video Stabilization by Simply Watching Unstable Videos
+https://github.com/Annbless/DUTCode
+
+Boltstream：自建直播视频流网站+后端
+https://github.com/benwilber/boltstream
+
+owncast 是一个可以自己搭建的流播放平台，有 web 播放界面并支持聊天
+https://github.com/owncast/owncast

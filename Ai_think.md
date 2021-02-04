@@ -71,3 +71,17 @@ https://weibo.com/ttarticle/p/show?id=2309404537496498471101
 
 深度学习未来发展的三种学习范式：混合学习、成分学习和简化学习
 https://towardsdatascience.com/the-future-of-deep-learning-can-be-broken-down-into-these-3-learning-paradigms-e7970dec5502
+
+【无监督表示学习】Exploring Simple Siamese Representation Learning
+本文是何恺明关于无监督表示学习的一篇新工作，非常值得一读。本文主要针对应用非常普遍的孪生网络（Siamese Network）进行分析，以目前非常火的对比学习为例，孪生网络使用一个相同的网络处理同一个输入的两个不同表示，通过拉近两个positive pair的表示，拉远两个negative pair之间的表示，从而学习到输入中的不变性，从而更好的学习到输入的表示。而本文通过实验分析得出在孪生网络中发挥最重要作用的就是孪生网络的结构，其他一些方法的作用并没有那么大。除此之外，作者还提出了一种“stop-gradient”的算法，该算法主要对模型的loss反馈时，通过梯度终止的机制，使得只更新其中一个encoder，实现了对孪生网络中的崩溃解（collapsing）很好的避免。而且这种简单的结构能够在ImageNet和下游任务取得非常好的效果。为了证明这种算法的有效性，作者进行了大量的实验，充分证明该算法的优越性。而且作者还深入讨论了文中提出的算法到底在优化模型的哪些地方。方法简单，效果有效，值得认真读一下的大作
+http://www.paperweekly.site/papers/4652
+
+乔姆斯基：深度学习的未来
+https://towardsdatascience.com/noam-chomsky-on-the-future-of-deep-learning-2beb37815a3e
+
+陶大程院士等最新《深度学习理论进展》综述论文，41页pdf255篇文献阐述六大方面进展
+https://mp.weixin.qq.com/s/_Rw_iv6UuXyrsBvTYkIwbA?v_p=86&WBAPIAnalysisOriUICodes=10000001&launchid=10000365--x&wm=3333_2001&aid=01AqqH81ztmhYksgMY-LlLzIKVJrvyH6eOULNkkN2WGVj-VUM.&from=10AC393010
+
+在失败中学习，MIT新研究显示，机器可以像婴儿一样学会理解人类目标 
+人的认知中有一个叫做错误探测。不停探测所有可能，然后抛弃错误的。，留下有用的。。
+https://www.aminer.cn/research_report/5fe8067ce8a87f775ad223bf?download=false

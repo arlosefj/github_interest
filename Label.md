@@ -197,3 +197,9 @@ https://mp.weixin.qq.com/s/AEnQ6xjhaluAGE_-vlreQA
 
 bbox-visualizer：几种不同的标注框显示样式
 https://github.com/shoumikchow/bbox-visualizer
+
+myvision：基于计算机视觉的机器学习训练数据生成工具(在线图像标注工具)
+https://github.com/OvidijusParsiunas/myvision
+
+AutoAnnotationTool：【旨在减少语义分割标注时间的标注工具，支持矩形和多边形标注
+https://github.com/andywang0607/AutoAnnotationTool

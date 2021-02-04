@@ -18,3 +18,6 @@ http://www.ccamc.co/chinese_historical_map/index.php
 http://data.cma.cn/
 
 ![](https://arloseimg.oss-cn-hangzhou.aliyuncs.com/20200731090440.png)
+
+文本可视化图库
+https://textvis.lnu.se/

@@ -92,3 +92,9 @@ https://github.com/zillow/luminaire
 
 Deep learning for time series forecasting：PyTorch深度学习时序预测、分类和异常检测库
 https://github.com/AIStream-Peelout/flow-forecast
+
+### Anomaly Detection：深度学习端到端半监督图像异常检测与分割框架
+https://github.com/AdneneBoumessouer/MVTec-Anomaly-Detection
+
+表面缺陷研究相关数据集与文献列表
+https://github.com/Charmve/Surface-Defect-Detection

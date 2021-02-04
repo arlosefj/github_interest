@@ -66,3 +66,6 @@ https://github.com/intel-isl/OpenBot
 
 pibooth：用树莓派+OpenCV自制“智能”自拍亭
 https://github.com/pibooth/pibooth
+
+如何在ARM开发板上从源码编译安装OpenCV和OpenCV contrib
+https://mp.weixin.qq.com/s?__biz=MjM5NTE3NjY5MA==&mid=2247485240&idx=1&sn=6025fa13cf2b88a356e55c3fdc2b75f1&chksm=a6fdcea5918a47b3d132281e9dfeb31e0f5a8f16f87ab3a5c4defebe4eea28689d13963d9aec&token=1226895782&lang=zh_CN#rd

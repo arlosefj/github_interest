@@ -284,3 +284,9 @@ https://github.com/trumDog/3d-human-pose-estimation
 
 单目3D人体姿态和形状估计文献列表
 https://github.com/zju3dv/Monocular_3D_human
+
+Javascript人体关节模型库
+https://github.com/boytchev/mannequin.js
+
+3D人体姿态估计数据集/文献/代码字资源列表
+https://github.com/chingswy/HumanPoseMemo

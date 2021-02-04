@@ -60,3 +60,6 @@ https://github.com/NiuTrans/NiuTrans.NMT
 
 极高质量的科普文章《Visualizing A Neural Machine Translation Model》，文章将算法原理用通俗的动画来演示，非常靠谱。是某目前为止看到对深度学习算法最好的梳理和解读
 http://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
+
+Argos Translate：Python写的基于OpenNMT的开源离线机器翻译App
+https://github.com/argosopentech/argos-translate

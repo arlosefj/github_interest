@@ -248,3 +248,18 @@ https://github.com/DingXiaoH/ResRep
 
 走马观花AutoML - 知乎
 https://zhuanlan.zhihu.com/p/212512984
+
+模型量化论文/文档/代码列表
+https://github.com/htqin/awesome-model-quantization
+
+### Permute, Quantize, and Fine-tune: Efficient Compression of Neural Networks
+https://github.com/uber-research/permute-quantize-finetune 
+
+Memory Optimization for Deep Networks
+https://github.com/utsaslab/MONeT
+
+忒修斯之船启发下的知识蒸馏新思路
+https://weibo.com/ttarticle/p/show?id=2309404569773894664467#_0
+
+Intel® Low Precision Optimization Tool：Intel低精度优化工具
+https://github.com/intel/lpot

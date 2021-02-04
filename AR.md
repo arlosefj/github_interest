@@ -62,3 +62,6 @@ https://lensstudio.snapchat.com/news/introducing-lens-studio-3-0/
 
 ARCore-ARKit Technology - ARCore/ARKit学习资料
 https://github.com/hiSirius/Indoor-navigation-techology
+
+Objectron Dataset：以对象为中心的短视频剪辑数据集，包含AR会话元数据，包括摄像机姿态，稀疏点云和平面
+https://github.com/google-research-datasets/Objectron

@@ -24,3 +24,10 @@ https://github.com/pythonstock/stock
 
 股市异动侦测器：扫描股市上每支股票，得到最近5个月的历史成交量，当一支股票成交量在过去3天内超过平均值10个标准差时，会及时提醒你
 https://github.com/SamPom100/UnusualVolumeDetector
+
+微软在 GitHub 上开源的一个 AI 量化交易平台：Qlib，旨在寻求与挖掘 AI 技术在量化投资领域中的价值。
+里面包含数据处理、模型训练、回溯测试的完整 ML 管道，并且覆盖了量化投资的整个链条：Alpha 探索、风险建模、投资组合优化和交易执行等功能。
+https://github.com/microsoft/qlib
+
+用Tensorflow.js+ Kafka开发的股市预测系统
+https://github.com/victor369basu/Real-time-stock-market-prediction

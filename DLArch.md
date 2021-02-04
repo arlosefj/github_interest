@@ -385,3 +385,24 @@ https://github.com/Davidham3/STSGCN
 
  GNN-algorithms - 图神经网络相关算法详述及实现
 https://github.com/wangyouze/GNN-algorithms
+
+面向超深度神经网络训练的层内归一化技术
+https://theaisummer.com/normalization/
+
+### 用编程方式理解Transformers
+https://towardsdatascience.com/understanding-transformers-the-programming-way-f8ed22d112b2
+
+Performer：具有线性扩展注意力机制的Transformer架构
+https://ai.googleblog.com/2020/10/rethinking-attention-with-performers.html
+
+GraphGym：用于设计和评价图神经网络(GNN)的实验平台
+https://github.com/snap-stanford/GraphGym
+
+transformer的十七大变种优化
+https://mp.weixin.qq.com/s/k5XkAwcXkyi9ymFUIej_iw
+
+Transformers与图神经网络
+https://github.com/chaitjo/gated-graph-transformers
+
+### Transformer语言模型可视化解析
+https://jalammar.github.io/explaining-transformers/

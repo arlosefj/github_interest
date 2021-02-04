@@ -168,3 +168,7 @@ https://github.com/juniorrojas/ff-net
 
 Kaggle金牌得主的机器学习教程（泰坦尼克）
 https://www.kesci.com/home/project/5f69d02471c700003078961b
+
+【图像识别解释可视化简史】
+https://gradio.app/blog/interpretation-history
+https://github.com/gradio-app/history-of-interpretation/blob/master/History-of-Interpretation.ipynb

@@ -612,3 +612,39 @@ https://github.com/JialeCao001/PedSurvey
 
 3D目标检测相关算法文献集，包括基于RGB图像、立体视觉、点云、融合四种方式
 https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-3D-object-detection
+
+TensorFlow实现的yolov5/yolov4/yolov3/yolo_tiny
+https://github.com/avBuffer/Yolov5_tf
+
+### C++ implementation of CenterNet using TensorRT and CUDA
+https://github.com/JosephChenHub/CenterNet-TensorRT
+
+RelationNet++: Bridging Visual Representations for Object Detection via Transformer Decoder
+https://github.com/microsoft/RelationNet2
+
+YOLOv5-PyTorch：YOLOv5的PyTorch实现
+https://github.com/Okery/YOLOv5-PyTorch
+
+An Overview Of 3D Object Detection
+https://arxiv.org/abs/2010.15614
+
+YOLODet-PyTorch：端到端基于pytorch框架复现yolo最新算法的目标检测开发套件，旨在帮助开发者更快更好地完成检测模型的训练、精度速度优化到部署全流程
+https://github.com/wuzhihao7788/yolodet-pytorch
+
+Scaled-YOLOv4: Scaling Cross Stage Partial Network
+https://github.com/WongKinYiu/ScaledYOLOv4
+
+libtorch-yolov5：yolov5目标检测算法的LibTorch实现
+https://github.com/yasenh/libtorch-yolov5
+
+vedadet：PyTorch单阶段目标检测工具箱
+https://github.com/Media-Smart/vedadet
+
+UranusDet：Tensorflow旋转检测基准
+https://github.com/yangxue0827/RotationDetection
+
+### CenterX：基于detectron2和centernet的目标检测网络
+https://github.com/JDAI-CV/centerX
+
+### OneNet: Towards End-to-End One-Stage Object Detection
+https://github.com/PeizeSun/OneNet

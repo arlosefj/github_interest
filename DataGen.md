@@ -225,3 +225,51 @@ https://github.com/aqeelanwar/MaskTheFace
 
 Few-shot Font Generation with Localized Style Representations and Factorization
 https://github.com/clovaai/lffont
+
+深度学习虚拟试衣——挑战与机遇
+https://www.kdnuggets.com/2020/10/deep-learning-virtual-try-clothes.html
+
+虚拟试衣相关资源大列表
+https://github.com/minar09/awesome-virtual-try-on
+
+Castle in the Sky: Dynamic Sky Replacement and Harmonization in Videos
+https://github.com/jiupinjia/SkyAR
+
+### Synthetic Data：基于GAN的表格数据生成框架(Tensorflow 2.0)
+https://github.com/ydataai/ydata-synthetic
+
+Few-Shot Font Generation with Deep Metric Learning
+https://arxiv.org/abs/2011.02206
+
+DTGAN: Dual Attention Generative Adversarial Networks for Text-to-Image Generation
+https://arxiv.org/abs/2011.02709
+
+### pifuhd，由 Facebook 研究室开源，其主要作用，是能通过 AI 快速为人体生成 3D 建模，减少游戏、动画制作人员的工作量。
+https://github.com/facebookresearch/pifuhd
+
+### Stylized Neural Painting
+https://github.com/jiupinjia/stylized-neural-painting
+
+《Creative Sketch Generation》
+https://github.com/facebookresearch/DoodlerGAN
+
+Unpaired Image-to-Image Translation via Latent Energy Transport
+https://arxiv.org/abs/2012.00649
+
+RF-GAN: A Light and Reconfigurable Network for Unpaired Image-to-Image Translation
+https://openaccess.thecvf.com/content/ACCV2020/papers/Koksal_RF-GAN_A_Light_and_Reconfigurable_Network_for_Unpaired_Image-to-Image_Translation_ACCV_2020_paper.pdf
+
+pixelNeRF: Neural Radiance Fields from One or Few Images
+https://github.com/sxyu/pixel-nerf
+
+Pose-Guided Human Animation from a Single Image in the Wild
+https://arxiv.org/abs/2012.03796
+
+Full-Glow: Fully conditional Glow for more realistic image generation
+https://arxiv.org/abs/2012.05846
+
+Unadversarial Examples: Designing Objects for Robust Vision
+http://gradientscience.org/unadversarial/
+
+Multiavatar，一个开源的头像生成库，可为你生成 120 亿种不同风格的头像
+https://github.com/multiavatar/multiavatar-php

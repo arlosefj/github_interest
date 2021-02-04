@@ -18,3 +18,18 @@ https://github.com/NVIDIA/libcudacxx
 
 duf：Linux磁盘空间使用情况浏览工具
 https://github.com/muesli/duf
+
+可视化编程工具：Nodes。
+该工具支持快速创建实时 3D 图形、可交互的 Web 应用、自定义和共享工具参数、可视化数据分析、构建复杂应用等功能。
+https://github.com/nodes-io/nodes-io
+
+《编程之道》 (Tao of Programming, 1987) 最新中英双语版
+https://github.com/yikeke/tao-of-programming
+
+软件开发人员/工程师的“常青技能”列表
+https://github.com/romenrg/evergreen-skills-developers
+
+在 Hacker News 上看到一个比较有意思的网站：Nand Game。 通过玩游戏的方式，在页面搭建与非门模块，一步步带你从零打造一台简易版计算机。网站提供中、英、俄三种语言供用户选择。 地址：nandgame.com ​​​​
+
+common-regex - 常用正则表达式 - 收集一些在平时项目开发中经常用到的正则表达式
+https://github.com/cdoco/common-regex

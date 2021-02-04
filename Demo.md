@@ -537,3 +537,34 @@ https://github.com/lilipads/gradient_descent_viz (已在macOS下安装成功，�
 ### 【视频会议实时自动手语检测】《Developing Real-Time, Automatic Sign Language Detection for Video Conferencing | Google AI Blog》
 https://ai.googleblog.com/2020/10/developing-real-time-automatic-sign.html
 https://research.google/pubs/pub49425/
+
+### CPU上的实时视频推理网络 动作识别
+https://github.com/TwentyBN/sense
+
+### 用TensorDash远程监督机器学习模型训练过程
+https://towardsdatascience.com/a-must-have-tool-for-every-data-scientist-5e7c76f1916f
+
+【Python分层感知库】'(PAZ) Perception for Autonomous Systems - Hierarchical perception library in Python' 
+https://github.com/oarriaga/paz
+
+NARUTO-HandSignDetection：深度结印——忍术结印手势识别
+https://github.com/Kazuhito00/NARUTO-HandSignDetection
+
+基于 Python 和 FastAI 做了个 NSFW（不宜在工作场所打开）图像分类器，可对黄色暴力图像进行分类筛选
+https://github.com/ClarityCoders/RedditBot-FastAI
+
+最先进的神经网络火焰检测(基于Yolov5 PyTorch)
+https://github.com/robmarkcole/fire-detection-from-images
+
+DeepLab v3+OpenCV的视频会议虚拟背景实战
+https://towardsdatascience.com/virtual-background-for-video-conferencing-using-machine-learning-dfba17d90aa9
+
+adversarial.js：浏览器里演示神经网络对抗攻击
+https://github.com/kennysong/adversarial.js
+
+Bringing-Old-Photos-Back-to-Life，可借助 AI 对老照片快速进行修复。
+项目基于 PyTorch 实现，支持划痕检测、面部修饰、全局还原等操作。
+https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life
+
+### 用YOLO v4, Deep SORT, Flask实现的多摄像头实时交通和目标计数
+https://github.com/LeonLok/Multi-Camera-Live-Object-Tracking

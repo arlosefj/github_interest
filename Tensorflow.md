@@ -135,3 +135,15 @@ https://towardsdatascience.com/how-to-reduce-training-time-for-a-deep-learning-m
 
 ### keras-cv：Keras工业级计算机视觉工作流
 https://github.com/keras-team/keras-cv
+
+用Tensorflow目标检测API/Tensorflow 2训练自定义目标检测模型
+https://github.com/TannerGilbert/Tensorflow-Object-Detection-API-Train-Model
+
+Keras实例教程
+https://github.com/sujitpal/keras-tutorial-odsc2020
+
+TensorFlow 2目标检测预训练模型库(COCO 2017)
+https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.mdhttps://github.com/tensorflow/models/blob/master/research/object_detection/colab_tutorials/inference_tf2_colab.ipynb
+
+aXeleRate：基于Keras的边缘计算机视觉框架
+https://github.com/AIWintermuteAI/aXeleRate
