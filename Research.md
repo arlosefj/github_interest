@@ -86,3 +86,15 @@ https://github.com/thegooddocsproject/templates
 
 Langsmith Editor：论文写作AI辅助编辑器——协助经验不足、非母语的研究人员撰写英语论文，特别是在自然语言处理领域
 https://editor.langsmith.co.jp/
+
+科研论文如何想到不错的 idea？ - 知乎
+https://www.zhihu.com/question/300967426
+
+有哪些好的科研习惯？ - 知乎
+https://www.zhihu.com/question/394796969
+
+论文标题和摘要的撰写：简洁、精确、周密是关键
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6398294/
+
+撰写 SCI 论文时，有什么好用的软件或者技巧吗？ - 知乎
+https://www.zhihu.com/question/349350653

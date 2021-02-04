@@ -654,3 +654,20 @@ https://github.com/OverLordGoldDragon/ssqueezepy
 
 ### 图解NumPy：NumPy可视化指南
 https://medium.com/better-programming/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d
+
+Python3 爬虫实战 - 模拟登陆各大网站……’
+https://github.com/wkunzhi/Python3-Spider
+
+Spatial Maths for Python：Python空间数学工具箱，用于2D/3D空间位置表示的创建、操作和位置/方向转换
+https://github.com/petercorke/spatialmath-python
+
+Pyroscope：支持Python、Go、Ruby语言的代码性能分析管理平台
+https://github.com/pyroscope-io/pyroscope
+
+Pywedge：Notebook里的交互组件，包括图表、数据清理、基准模型运行、超参调试等
+https://github.com/taknev83/pywedge
+
+Ryven。
+该工具支持通过编辑节点来控制 Python 脚本，让开发者可以更为直观的感受脚本的执行过程与输出结果。
+借助这一脚本，可有效提升并优化 IoT、数据操作处理、可视化算法的开发流程。
+https://github.com/leon-thomm/Ryven

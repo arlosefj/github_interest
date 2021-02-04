@@ -76,3 +76,19 @@ https://github.com/MIDIBlocks/handsfree
 
 H2O Wave，一套可用于构建实时 Web 项目与仪表面板的工具，采用 Python 编写，拥有低延迟、优雅美观、实时分析等亮点
 https://github.com/h2oai/wave
+
+### Webworkers：Javascript/Typescript图像处理webworkers集锦
+https://github.com/w-okada/image-analyze-workers
+
+PyWebIO：用命令式交互函数来在浏览器上获取用户输入和进行输出，将浏览器变成了一个“富文本终端”，可以用于构建简单的Web应用或基于浏览器的GUI应用
+https://github.com/wang0618/PyWebIO
+
+《带你入门前端工程》，主要记录作者在近两年来，在前端工程师实践经验和学习心得方面的总结。
+书中大部分内容以理论知识 + 代码示例 + 图片进行讲解，部分章节会提供实践教程。
+https://github.com/woai3c/introduction-to-front-end-engineering
+
+RmlUi - The HTML/CSS User Interface Library Evolved：基于HTML/CSS的C++图形界面库
+https://github.com/mikke89/RmlUi
+
+Gaze-detection：JavaScript眼动追踪库
+https://github.com/charliegerard/gaze-detection

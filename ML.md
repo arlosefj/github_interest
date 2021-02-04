@@ -928,3 +928,63 @@ https://github.com/optuna/optuna-dashboard
 
 ZenML：可扩展的开源MLOps框架
 https://github.com/maiot-io/zenml
+
+MLOps工具全景图(更新版)
+https://huyenchip.com/2020/12/30/mlops-v2.html
+
+特征工程/特征选择详尽指南
+https://github.com/ashishpatel26/Amazing-Feature-Engineering
+
+One-Class Classification: A Survey
+https://arxiv.org/abs/2101.03064
+
+MPRG深度学习Notebooks集
+https://github.com/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook
+
+Stockroom：模型、数据、参数、实验的版本控制平台
+https://github.com/tensorwerk/stockroom
+
+Something Around Data Engineering：数据工程/机器学习工程相关知识集锦
+https://github.com/abhishek-ch/around-dataengineering
+
+机器学习法则：机器学习工程最佳实践(含中文版)
+https://developers.google.com/machine-learning/rules-of-ml/
+
+best-of-streamlit：基于streamlit构建的优秀开源项目集锦
+https://github.com/jrieke/best-of-streamlit
+
+FACET：人工可解释AI库
+https://github.com/BCG-Gamma/facet
+
+贝叶斯统计入门
+https://www.nature.com/articles/s43586-020-00001-2
+
+Lazy Predict：一行代码完成Scikit-Learn所有模型的训练与评价
+https://towardsdatascience.com/lazy-predict-fit-and-evaluate-all-the-models-from-scikit-learn-with-a-single-line-of-code-7fe510c7281
+
+LabML Neural Networks：带有分析笔记的深度学习论文复现集
+https://github.com/lab-ml/nn
+
+可解释AI/机器学习相关资源大列表
+https://github.com/wangyongjie-ntu/Awesome-explainable-AI
+
+新书：《搞定(几乎)所有机器学习问题》
+https://github.com/abhishekkrthakur/approachingalmost
+
+小盆友学机器学习又有新书了《Machine Learning for Kids: A Project-Based Introduction to Artificial Intelligence》
+https://dalelane.co.uk/blog/?p=4277
+
+### 如何快速理解机器学习论文——回答5个问题：函数近似器的输入是什么？输出是什么？用的什么损失以及做了哪些假设？能否泛化到未见样本？结论是否可证伪？
+https://blog.evjang.com/2021/01/understanding-ml.html
+
+### 2021机器学习生命周期纵览
+https://towardsdatascience.com/the-machine-learning-lifecycle-in-2021-473717c633bc
+
+旧金山大学机器学习导论课讲义/笔记
+https://github.com/parrt/msds621
+
+BudgetML: 用有限预算部署机器学习服务
+https://github.com/ebhy/budgetml
+
+### OpenFL：英特尔的联邦学习开放框架
+https://github.com/intel/openfl

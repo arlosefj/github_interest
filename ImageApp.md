@@ -832,3 +832,27 @@ https://arxiv.org/abs/2012.00364
 
 MIRNet-TFJS：TensorFlow JS实现的用于低照度图片增强的MIRNet模型
 https://github.com/Rishit-dagli/MIRNet-TFJS
+
+创造性机器学习艺术作品和项目集
+https://mlart.co/
+
+2020十大热门计算机视觉论文及其演示与代码
+https://github.com/louisfb01/Top-10-Computer-Vision-Papers-2020
+
+### Differentiable Morphing：无需参考点的可微图像渐变
+https://github.com/volotat/DiffMorph
+
+### 只有15MB的移动版最小化OpenCV库
+https://github.com/nihui/opencv-mobile
+
+Glasses：高质量计算机视觉深度学习库
+https://github.com/FrancescoSaverioZuppichini/glasses
+
+深度学习图像去噪
+https://medium.com/towards-artificial-intelligence/image-de-noising-using-deep-learning-1a8334c81f06
+
+Python卫星图像分析综合指南
+https://towardsdatascience.com/comprehensive-guide-to-satellite-imagery-analysis-using-python-1b4153bad2a
+
+用DeepFashion和Fastai实现深度服装分类
+https://towardsdatascience.com/clothes-classification-with-the-deepfashion-dataset-and-fast-ai-1e174cbf0cdc

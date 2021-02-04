@@ -612,3 +612,26 @@ OCR Post Correction for Endangered Language Text
 https://github.com/neulab/ocr-post-correction
 https://www.aclweb.org/anthology/2020.emnlp-main.478/
 
+OpenScan：安卓开源文档扫描App
+https://github.com/Ethereal-Developers-Inc/OpenScan
+
+### End-to-end-for-chinese-plate-recognition - 基于u-net，cv2以及cnn的中文车牌定位，矫正和端到端识别软件，其中unet和cv2用于车牌定位和矫正，cnn进行车牌识别，unet和cnn都是基于tensorflow的keras实现
+https://github.com/duanshengliu/End-to-end-for-chinese-plate-recognition
+
+#### Origami：用于老报纸的OCR处理的成套工具
+https://github.com/poke1024/origami
+
+Autocorrect：Python拼写校正包
+https://github.com/fsondej/autocorrect
+
+### PAWLS: PDF Annotation With Labels and Structure
+https://arxiv.org/abs/2101.10281 https://github.com/allenai/pawls
+
+VisualMRC: Machine Reading Comprehension on Document Images
+https://github.com/nttmdlab-nlp/VisualMRC
+
+基于Pytorch实现(复现)的场景文字识别工具箱
+https://github.com/chibohe/text_recognition_toolbox
+
+### 文档图像数据集PubLayNet上的MaskRCNN段落检测、表格检测、插图检测
+https://github.com/phamquiluan/PubLayNet

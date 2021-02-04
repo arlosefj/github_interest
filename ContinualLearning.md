@@ -45,3 +45,6 @@ https://github.com/sairin1202/BIC
 
 《Lifelong Object Detection》
 https://arxiv.org/abs/2009.01129
+
+Memory-Efficient Semi-Supervised Continual Learning: The World is its Own Replay Buffer
+https://arxiv.org/abs/2101.09536

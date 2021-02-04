@@ -648,3 +648,15 @@ https://github.com/JDAI-CV/centerX
 
 ### OneNet: Towards End-to-End One-Stage Object Detection
 https://github.com/PeizeSun/OneNet
+
+### Effective Deployment of CNNs for 3DoF Pose Estimation and Grasping in Industrial Settings
+https://github.com/m4nh/loop
+
+### Line Segment Detection Using Transformers without Edges
+https://www.arxiv-vanity.com/papers/2101.01909/
+
+Object Detection Made Simpler by Eliminating Heuristic NMS
+https://github.com/txdet/FCOSPss
+
+Training and fine-tuning YOLOv4 Tiny on custom object detection dataset for Taiwanese traffic'
+https://github.com/achen353/Taiwanese-Traffic-Object-Detection

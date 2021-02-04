@@ -237,3 +237,9 @@ https://blog.tensorflow.org/2020/11/iris-landmark-tracking-in-browser-with-Media
 
 ### 基于YOLOV4的人车检测追踪
 https://github.com/CaptainEven/YOLOV4_MCMOT
+
+mmtracking：OpenMMLab视觉感知统一框架，支持单目标跟踪、多目标跟踪、视频目标检测等
+https://github.com/open-mmlab/mmtracking
+
+TransTrack: Multiple-Object Tracking with Transformer
+https://arxiv.org/abs/2012.15460

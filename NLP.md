@@ -297,3 +297,40 @@ https://github.com/tywee/knowledge-graph
 
 基于RNN, Transformer, Bert, GPT2的生成式聊天机器人(对话系统)
 https://github.com/demi6od/ChatBot
+
+动手学自然语言处理
+https://towardsdatascience.com/learn-nlp-the-practical-way-b854ce1035c4
+
+NLP学习指南 - 快速入门NLP，掌握各个任务的SOTA模型
+https://github.com/leerumor/nlp_tutorial
+
+
+### 诗三百·人工智能在线诗歌写作平台开发教程 - 手把手教你搭建人工智能AI写诗平台，从模型搭建到前后端开发到SEO优化推广
+https://github.com/wangjiezju1988/aichpoem
+云服务器就可以访问本地物理机端口服务了。
+autossh -M 5686 -fCNR *:8888:localhost:11456 user@xxx.xxx.xxx.xxx
+其中，xxx.xxx.xxx.xxx 是云服务器的ip，user是用户账号， 8888是云服务器访问端口，可以自行设定，11456是本地GPU服务器flask监听的端口，这样就可以在云服务器上通过访问 127.0.0.1:8888既可以访问本地GPU服务器flask发布的11456服务
+
+OpenAI发布DALL·E：GPT-3的一个120亿参数的版本，可根据文本描述生成图像，用自然语言操纵视觉概念
+https://github.com/lucidrains/DALLE-pytorch
+
+按 Task 划分的自然语言处理，知识图谱相关语料
+https://github.com/SimmerChan/corpus
+
+TextBox (妙笔)：统一的、模块化、可扩展的文本生成框架，包括16种文本生成算法
+https://github.com/RUCAIBox/TextBox
+
+基于Unilm模型的夸夸式闲聊机器人项目
+https://github.com/liucongg/UnilmChatchitRobot
+
+高质量中文预训练模型集合
+https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models
+
+你的名字-用诗经, 楚辞, 唐诗,宋词起名字
+https://github.com/holynova/gushi_namer
+
+Pororo：深度学习多语言自然语言处理库
+https://github.com/kakaobrain/pororo
+
+基于HanLP的Elasticsearch中文分词器
+https://github.com/KennFalcon/elasticsearch-analysis-hanlp

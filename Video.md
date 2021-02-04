@@ -252,3 +252,6 @@ https://github.com/benwilber/boltstream
 
 owncast 是一个可以自己搭建的流播放平台，有 web 播放界面并支持聊天
 https://github.com/owncast/owncast
+
+subaligner：基于深度网络自动将字幕与视听内容同步
+https://github.com/baxtree/subaligner

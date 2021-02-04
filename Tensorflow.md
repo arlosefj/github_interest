@@ -147,3 +147,18 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
 
 aXeleRate：基于Keras的边缘计算机视觉框架
 https://github.com/AIWintermuteAI/aXeleRate
+
+Tensorflow Wheels
+https://github.com/davidenunes/tensorflow-wheels
+
+Keras教程：基于Transformer的推荐系统
+https://keras.io/examples/structured_data/movielens_recommendations_transformers/
+
+Keras实例：概率贝叶斯神经网络
+https://keras.io/examples/keras_recipes/bayesian_neural_networks/
+
+pyradox：基于Tensorflow 2的最新深度学习架构实现库
+https://github.com/Ritvik19/pyradox
+
+tflite2tensorflow - Generate saved_model, tfjs, tf-trt, EdgeTPU, CoreML, quantized tflite and .pb from .tflite
+https://github.com/PINTO0309/tflite2tensorflow

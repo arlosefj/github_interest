@@ -918,3 +918,27 @@ https://arxiv.org/abs/2012.11582
 
 Meticulous Object Segmentation
 https://github.com/Chenglin-Yang/MOS_Meticulous-Object-Segmentation
+
+RGBD semantic segmentation：RGBD语义分割文献/资源列表
+https://github.com/Yangzhangcst/RGBD-semantic-segmentation
+
+### Superpixel-based Refinement for Object Proposal Generation
+https://github.com/chwilms/superpixelRefinement
+
+Dynamic Graph Message Passing Networks (DGMN) in PyTorch 1.0
+https://github.com/lzrobots/dgmn
+
+Pytorch实现的2D/3D医学图像分割
+https://github.com/MontaEllis/Pytorch-Medical-Segmentation
+
+Segmenting Transparent Object in the Wild with Transformer
+https://arxiv.org/abs/2101.08461
+
+SSTVOS: Sparse Spatiotemporal Transformers for Video Object Segmentation
+https://arxiv.org/abs/2101.08833
+
+Exploring Cross-Image Pixel Contrast for Semantic Segmentation
+https://github.com/tfzhou/ContrastiveSeg
+
+Occluded Video Instance Segmentation
+https://arxiv.org/abs/2102.01558

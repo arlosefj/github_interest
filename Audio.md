@@ -394,3 +394,18 @@ https://github.com/JusperLee/Speech-Separation-Paper-Tutorial
 
 PIKA: 基于Pytorch和(Py)Kaldi的轻量语音处理工具包
 https://github.com/tencent-ailab/pika
+
+### ESP-Skainet：智能语音助手，支持唤醒词识别和命令词识别
+https://github.com/espressif/esp-skainet
+
+### TensorFlow Lite (TFLite)的TTS模型集
+https://github.com/tulasiram58827/TTS_TFLite
+
+Elpis (Accelerated Transcription)：开发中的语音识别模型创建工具
+https://github.com/CoEDL/elpis
+
+MusicNet：带标注的古典音乐数据集(330+)，标注了每个音符的精确时间，演奏每个音符的乐器，以及这些音符在乐曲韵律结构中的位置
+https://homes.cs.washington.edu/~thickstn/musicnet.html
+
+AI音乐生成
+https://alxmamaev.medium.com/generating-music-with-ai-or-transformers-go-brrrr-3a3ac5a04126

@@ -515,3 +515,22 @@ https://github.com/WeikaiTan/Toronto-3D
 
 The Hypersim Dataset：Apple首次发布公开数据集——面向室内场景整体理解的真实感合成数据集，74K高分辨率HDR计算机生成的逼真室内场景图像，1.9TB像素级标记
 https://github.com/apple/ml-hypersim
+
+OpenViDial：大规模多模态对话数据集
+https://github.com/ShannonAI/OpenViDial
+
+Fashionpedia Dataset：时尚百科数据集，包括48825张服饰图像，对服饰进行了详尽分割，对分割类别进行细粒度的标记
+https://github.com/cvdfoundation/fashionpedia
+
+OrigamiSet1.0: Two New Datasets for Origami Classification and Difficulty Estimation
+https://github.com/multimedia-berkeley/OriSet
+
+BDD100K：面向异构多任务学习的多样化驾驶数据集
+https://github.com/bdd100k/bdd100k
+
+Re-labeling ImageNet: from Single to Multi-Labels, from Global to Localized Labels
+https://arxiv.org/abs/2101.05022
+https://github.com/naver-ai/relabel_imagenet
+
+MaskedFace-Net：基于FFHQ数据集的正确/错误佩戴口罩人脸图像数据集
+https://www.sciencedirect.com/science/article/pii/S2352648320300362?via%3Dihub

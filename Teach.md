@@ -172,3 +172,9 @@ https://www.kesci.com/home/project/5f69d02471c700003078961b
 【图像识别解释可视化简史】
 https://gradio.app/blog/interpretation-history
 https://github.com/gradio-app/history-of-interpretation/blob/master/History-of-Interpretation.ipynb
+
+为什么机器学习算法很难优化(以及如何解决)
+https://engraved.ghost.io/why-machine-learning-algorithms-are-hard-to-tune/
+
+Animating the Optimization Trajectory of Neural Nets - Create animations for the optimization trajectory of neural nets
+https://github.com/logancyang/loss-landscape-anim

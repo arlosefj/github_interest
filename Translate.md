@@ -63,3 +63,12 @@ http://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-se
 
 Argos Translate：Python写的基于OpenNMT的开源离线机器翻译App
 https://github.com/argosopentech/argos-translate
+
+deep-translator：Python多语言机器翻译工具
+https://github.com/nidhaloff/deep-translator
+
+LibreTranslate：可完全本地化部署的开源机器翻译API服务，基于Argos Translate
+https://github.com/uav4geo/LibreTranslate
+
+EasyNMT - 易于使用的最先进神经网络机器翻译，支持100+种语言
+https://github.com/UKPLab/EasyNMT

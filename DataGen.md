@@ -273,3 +273,12 @@ http://gradientscience.org/unadversarial/
 
 Multiavatar，一个开源的头像生成库，可为你生成 120 亿种不同风格的头像
 https://github.com/multiavatar/multiavatar-php
+
+合成人视频生成文献列表
+https://github.com/yule-li/Human-Video-Generation
+
+ResizeMix: Mixing Data with Preserved Object Information and True Labels
+https://arxiv.org/abs/2012.11101
+
+像打游戏一样操纵视频生成 paper:《Playable Video Generation》
+https://github.com/willi-menapace/PlayableVideoGeneration

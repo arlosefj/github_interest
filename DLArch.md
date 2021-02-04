@@ -406,3 +406,6 @@ https://github.com/chaitjo/gated-graph-transformers
 
 ### Transformer语言模型可视化解析
 https://jalammar.github.io/explaining-transformers/
+
+The EfficientDet Architecture in PyTorch
+https://amaarora.github.io/2021/01/13/efficientdet-pytorch.html

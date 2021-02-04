@@ -612,3 +612,30 @@ https://github.com/erangeles/techstack
 
 Steganography tool：写的图片信息隐写工具
 https://github.com/djhworld/stegtool
+
+### LibrePhotos：本地化的相片管理服务器
+https://github.com/LibrePhotos/librephotos
+
+### 写论文画机器学习框图不再纠结：ML Visuals——开源方式组织的标准化机器学习框图要素/模板库
+https://github.com/dair-ai/ml-visuals
+
+GCPSketchnote：Google Cloud工程师可视化入门资料
+https://github.com/priyankavergadia/GCPSketchnote
+
+用Latex代码绘制精美神经网络结构图
+https://github.com/HarisIqbal88/PlotNeuralNet
+
+Markdown详尽指南
+https://github.com/mattcone/markdown-guide
+
+GitHub Runner：用Docker本地化运行GitHub Action
+https://github.com/tcardonne/docker-github-runner
+
+Deskreen：将任何带有网页浏览器的设备变成电脑的第二块屏幕
+https://github.com/pavlobu/deskreen
+
+Superset：商用级数据可视化和数据探索平台
+https://github.com/apache/superset
+
+通过交互式练习学Vim
+https://www.vim.so/

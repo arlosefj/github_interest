@@ -204,3 +204,9 @@ https://github.com/movienet/movienet-tools
 
 Kubric：数据生成管道，用于创建带有丰富标注的半真实合成多目标视频，如实例分割掩码、深度图和光流等
 https://github.com/google-research/kubric
+
+PaddleVideo：飞桨视频模型开发套件
+https://github.com/PaddlePaddle/PaddleVideo
+
+### Temporal-Relational CrossTransformers for Few-Shot Action Recognition
+https://github.com/tobyperrett/trx

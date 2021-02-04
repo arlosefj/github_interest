@@ -203,3 +203,9 @@ https://github.com/OvidijusParsiunas/myvision
 
 AutoAnnotationTool：【旨在减少语义分割标注时间的标注工具，支持矩形和多边形标注
 https://github.com/andywang0607/AutoAnnotationTool
+
+pawls：针对Semantic Scholar语料库中标注学术论文开发的标注采集工具
+https://github.com/allenai/pawls
+
+Label Studio：支持图片、音频、文本、时序及多模态的开源数据标注工具，v.0.9.0最新发布
+https://github.com/heartexlabs/label-studio

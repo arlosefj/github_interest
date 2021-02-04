@@ -202,3 +202,9 @@ https://colab.research.google.com/drive/1oJOYlAIOl9d1JjlutPY66KmfPkwPCgEE?usp=sh
 
 David Silver的强化学习课程
 https://www.bilibili.com/video/BV1Vp411d7vj/
+
+《强化学习：原理与Python实现》随书源码
+https://github.com/ZhiqingXiao/rl-book
+
+RL environment list：强化学习开放环境大列表
+https://github.com/clvrai/awesome-rl-envs

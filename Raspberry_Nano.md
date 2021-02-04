@@ -108,3 +108,6 @@ https://github.com/webfansplz/volute
 
 Raspberry Pi Webcam：用树莓派搭建USB OTG网络摄像头
 https://github.com/geerlingguy/pi-webcam
+
+TensorFlow Lite Micro：树莓派Pico微控制器可用的TensorFlow Lite
+https://github.com/raspberrypi/pico-tflmicro

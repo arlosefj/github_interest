@@ -110,3 +110,6 @@ https://github.com/linghu8812/tensorrt_inference
 
 Libonnx：轻量、可移植的纯C99 ONNX推理引擎，用于支持硬件加速的嵌入式设备
 https://github.com/xboot/libonnx
+
+ONE (On-device Neural Engine)：三星开源的设备端高性能神经网络推理框架
+https://github.com/Samsung/ONE

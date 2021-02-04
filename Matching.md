@@ -79,3 +79,6 @@ https://github.com/dmtrKovalenko/odiff
 
 【图像匹配基准】’Image Matching Benchmark - Public release of the Image Matching Benchmark: image-matching-challenge.github.io' 
 https://github.com/ubc-vision/image-matching-benchmark
+
+Deep Image Retrieval: A Survey
+https://arxiv.org/abs/2101.11282

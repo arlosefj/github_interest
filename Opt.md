@@ -263,3 +263,6 @@ https://weibo.com/ttarticle/p/show?id=2309404569773894664467#_0
 
 Intel® Low Precision Optimization Tool：Intel低精度优化工具
 https://github.com/intel/lpot
+
+### micronet：深度网络模型压缩与部署库
+https://github.com/666DZY666/micronet

@@ -290,3 +290,6 @@ https://github.com/boytchev/mannequin.js
 
 3D人体姿态估计数据集/文献/代码字资源列表
 https://github.com/chingswy/HumanPoseMemo
+
+EasyMocap：无标记人体动作捕捉开源工具箱
+https://github.com/zju3dv/EasyMocap

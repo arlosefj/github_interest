@@ -286,3 +286,16 @@ https://github.com/wisdompeak/LeetCode
 
 编程面试(算法与数据结构)问题与编程实现集
 https://github.com/xianzhez/Coding-Interview-101
+
+免费电子书：线性规划入门
+https://github.com/Operations-Research-Science/Ebook-Linear_Programming
+
+LeetCode 刷题攻略：配思维导图，100+经典算法题目刷题顺序、经典算法模板、共40w字的详细图解，以及难点视频题解
+https://github.com/youngyangyang04/leetcode-master
+
+可视化解释A*、Dijkstra、BFS寻路算法
+https://github.com/npretto/pathfinding
+https://github.com/raj457036/Path-Finding-Visualizer
+
+sorting_algo_visualizer：Python实现的排序算法动画可视化
+https://github.com/mportesi/sorting_algo_visualizer

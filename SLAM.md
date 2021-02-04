@@ -110,3 +110,6 @@ https://github.com/gradslam/gradslam
 
 SC-LIO-SAM：a real-time lidar-inertial SLAM package
 https://github.com/gisbi-kim/SC-LIO-SAM
+
+视觉SLAM开发者路线图
+https://github.com/changh95/visual-slam-roadmap

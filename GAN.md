@@ -772,3 +772,9 @@ https://arxiv.org/abs/2012.04932
 
 gan-mosaics：基于Stylegan2-Ada的马赛克图案生成
 https://github.com/zaidalyafeai/gan-mosaics
+
+### GAN-Control: Explicitly Controllable GANs
+https://arxiv.org/abs/2101.02477
+
+Bridging Unpaired Facial Photos And Sketches By Line-drawings
+https://arxiv.org/abs/2102.00635

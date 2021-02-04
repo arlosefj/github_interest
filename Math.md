@@ -45,3 +45,12 @@ https://github.com/yangyutu/EssentialMath
 
 免费书：《同构——编程中的数学》(含中文版)
 https://github.com/liuxinyu95/unplugged
+
+Python线性代数讲义(Notebooks)
+https://github.com/MacroAnalyst/Linear_Algebra_With_Python
+
+应用机器学习线性代数Python实战入门
+https://pabloinsente.github.io/intro-linear-algebra
+
+Math Inspector：Python科学计算可视化编程环境
+https://github.com/MathInspector/MathInspector

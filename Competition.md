@@ -248,3 +248,20 @@ https://github.com/asanakoy/kaggle-lyft-motion-prediction-av
 
 Chinese-DeepNER-Pytorch - 天池中药说明书实体识别挑战冠军方案
 https://github.com/z814081807/DeepNER
+
+Kaggle药物作用机制预测比赛第二名方案
+https://github.com/baosenguo/Kaggle-MoA-2nd-Place-Solution
+
+贝壳找房-房产行业聊天问答匹配比赛第一名方案
+https://github.com/xv44586/ccf_2020_qa_match
+
+ECCV-TAO-2020第一名方案
+https://github.com/feiaxyt/Winner_ECCV20_TAO
+
+SIIM-OSIC黑色素瘤分类第二名方案
+https://github.com/i-pan/kaggle-melanoma
+
+SIIM-ISIC黑素瘤分类第一名方案
+https://github.com/haqishen/SIIM-ISIC-Melanoma-Classification-1st-Place-Solution
+
+微软 Indoor Location Competition 2.0正式上线Kaggle！首次公开覆盖200+商场1000+楼层27K+真实路径的数据集

@@ -85,3 +85,12 @@ https://mp.weixin.qq.com/s/_Rw_iv6UuXyrsBvTYkIwbA?v_p=86&WBAPIAnalysisOriUICodes
 在失败中学习，MIT新研究显示，机器可以像婴儿一样学会理解人类目标 
 人的认知中有一个叫做错误探测。不停探测所有可能，然后抛弃错误的。，留下有用的。。
 https://www.aminer.cn/research_report/5fe8067ce8a87f775ad223bf?download=false
+
+深度学习的三个秘密：集成、知识蒸馏和自蒸馏
+https://www.microsoft.com/en-us/research/blog/three-mysteries-in-deep-learning-ensemble-knowledge-distillation-and-self-distillation/
+
+讨论：大多机器学习研究只是现有模型和数据集的排列组合？
+https://www.reddit.com/r/MachineLearning/comments/l2q3hh/research_most_ml_research_is_just_permutations/
+
+Sparsity in Deep Learning: Pruning and growth for efficient inference and training in neural networks
+https://arxiv.org/abs/2102.00554

@@ -600,3 +600,12 @@ https://lernapparat.de/jit-optimization-intro/
 
 PyCave：用PyTorch实现的支持GPU加速的传统机器学习模型
 https://github.com/borchero/pycave
+
+nnprof：PyTorch神经网络性能分析工具
+https://github.com/FateScript/nnprof
+
+PyTorch深度学习训练加速指南
+https://efficientdl.com/faster-deep-learning-in-pytorch-a-guide/
+
+VISSL：基于PyTorch的最先进图像自监督学习库
+https://github.com/facebookresearch/vissl

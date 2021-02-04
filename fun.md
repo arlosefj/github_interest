@@ -189,3 +189,45 @@ https://github.com/Jannchie/anichart.js
 
 ### 可基于光流边缘引导的视频补全算法，对视频物品进行自动抠除、补全。
 https://github.com/vt-vl-lab/FGVC
+
+3blue1brown可视化视频生成源码
+https://github.com/3b1b/videos
+
+OpenVtuber - 虚拟爱抖露(アイドル)共享计划, 基于单目RGB摄像头的人眼与人脸特征点检测算法在实时3D面部捕捉以及模型驱动领域的应用
+https://github.com/1996scarlet/OpenVtuber
+
+(PyTorch)用Resnet101+GPT搭建一个玩王者荣耀的AI
+https://github.com/FengQuanLi/ResnetGPT
+
+avatars4all：用摄像头在浏览器中实时创建虚拟化身
+https://github.com/eyaler/avatars4all
+
+视频中自动提取时尚穿搭
+https://blog.gofynd.com/ai-powered-fashion-in-video-2edb08166be4
+
+Mozart：乐谱识别系统
+https://github.com/aashrafh/Mozart
+
+杂货店货架图像识别
+https://github.com/sayakpaul/Grocery-Product-Detection
+
+Kalidoface：有摄像头就能玩的虚拟角色
+https://kalidoface.com/ https://weibo.com/tv/show/1034:4595886446280709?from=old_pc_videoshow
+
+Argos：视频监控的空-时模式检测，基于OpenCV & Tensorflow
+https://github.com/angadsingh/argos
+
+DeepMosaics：基于深度学习自动为图片/视频添加或消除马赛克
+https://github.com/HypoX64/DeepMosaics
+
+mebm：基于浏览器的无依赖视频编辑器
+https://github.com/bwasti/mebm
+
+Toon-Me：基于深度学习的肖像卡通化
+https://github.com/vijishmadhavan/Toon-Me
+
+Serving Agent：用于模型服务化的轻量的中间件，能提高GPU利用率从而加速线上推理
+https://github.com/HughWen/ServingAgent
+
+### SAHI: Slicing Aided Hyper Inference - A vision library for performing sliced inference on large images/small objects
+https://github.com/obss/sahi

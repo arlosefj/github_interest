@@ -27,3 +27,6 @@ https://github.com/ronikobrosly/causal-curve
 
 因果推理与自然语言处理交叉文献资源列表
 https://github.com/causaltext/causal-text-papers
+
+“理解”感知输入序列：用无监督程序合成解答智力测验问题，从很少量数据中产生可解释、人类可读的因果论
+https://github.com/RichardEvans/apperception

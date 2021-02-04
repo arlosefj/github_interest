@@ -40,4 +40,19 @@ https://portal.paperswithcode.com/
 gopup，里面采集了互联网上，不同行业的各项公开数据源，以便开发者更好的进行学术研究。
 https://github.com/justinzm/gopup
 
+对 GitHubDaily 2020 年微博所分享的项目进行复盘分类整理
+https://github.com/GitHubDaily/GitHubDaily
+
 ![](https://arloseimg.oss-cn-hangzhou.aliyuncs.com/20200729104951.png)
+
+500+附代码的AI/机器学习/深度学习/计算机视觉/NLP项目
+https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
+
+survey-computer-vision - 2020-2021年计算机视觉综述论文分方向整理
+https://github.com/extreme-assistant/survey-computer-vision
+
+Papers With Code整理的机器学习数据集大列表，包括相关任务、最佳模型及其对应文献代码、历史引用情况等信息，非常详尽实用
+https://www.paperswithcode.com/datasets
+
+数据科学路线图：从头开始入门数据科学的免费资源
+https://github.com/therealsreehari/Learn-Datascience-for-Free

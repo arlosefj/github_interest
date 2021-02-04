@@ -137,3 +137,66 @@ https://github.com/alohays/awesome-visual-representation-learning-with-transform
 
 Online Bag-of-Visual-Words Generation for Unsupervised Representation Learning
 https://github.com/valeoai/obow
+
+VinVL: Making Visual Representations Matter in Vision-Language Models
+https://arxiv.org/abs/2101.00529
+
+Cross-Document Language Modeling
+https://github.com/aviclu/CD-LM https://arxiv.org/abs/2101.00406
+
+Transformers in Vision: A Survey
+https://arxiv.org/abs/2101.01169
+
+视觉Transformer相关工作列表
+https://github.com/dk-liang/Awesome-Visual-Transformer
+
+实例教程：(PyTorch)从头实现Transformer
+https://colab.research.google.com/drive/1swXWW5sOLW8zSZBaQBYcGQkQ_Bje_bmI
+
+Cross-Modal Contrastive Learning for Text-to-Image Generation
+https://arxiv.org/abs/2101.04702
+
+Is Attention Better Than Matrix Decomposition? 
+https://openreview.net/forum?id=1FvkSpWosOl
+
+Pre-training without Natural Images
+https://arxiv.org/abs/2101.08515
+
+胸片为例的医学图像自动描述
+https://towardsdatascience.com/medical-image-captioning-on-chest-x-rays-a43561a6871d
+
+图：完全理解Transformer的注意力机制
+https://imgur.com/gallery/vuw15aL
+
+### 视频描述生成相关文献列表
+https://github.com/tgc1997/Awesome-Video-Captioning
+
+Keras实例：Vision Transformer图像分类
+https://keras.io/examples/vision/image_classification_with_vision_transformer/
+
+### CPTR: Full Transformer Network for Image Captioning
+https://arxiv.org/abs/2101.10804
+
+(Colab)基于CLIP的Unsplash图片语义搜索
+https://github.com/haltakov/natural-language-image-search
+
+Language-Mediated, Object-Centric Representation Learning
+https://arxiv.org/abs/2012.15814
+
+Vx2Text: End-to-End Learning of Video-Based Text Generation From Multimodal Inputs
+https://arxiv.org/abs/2101.12059
+
+Bottleneck Transformers for Visual Recognition
+https://arxiv.org/abs/2101.11605
+
+用TensorFlow Serving快速部署Transformers
+https://huggingface.co/blog/tf-serving
+
+Video Transformer Network
+https://arxiv.org/abs/2102.00719
+
+Decoupling the Role of Data, Attention, and Losses in Multimodal Transformers
+https://arxiv.org/abs/2102.00529
+
+(Colab)结合CLIP的文本-图像生成
+https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf

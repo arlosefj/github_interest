@@ -505,3 +505,18 @@ https://github.com/vitoralbiero/img2pose
 
 ### 26M Flops Facial Landmark Detection：PyTorch实现的高性能人脸标特征点检测
 https://github.com/ainrichman/Peppa-Facial-Landmark-PyTorch
+
+### face-mesh-generator：用Google's FaceMesh模型生成人脸网格
+https://github.com/yinguobing/face-mesh-generator
+
+Face recognition from camera with Dlib - Detect and recognize the faces from camera / 调用摄像头进行人脸识别，支持多张人脸同时识别
+https://github.com/coneypo/Dlib_face_recognition_from_camera
+
+FaceX-Zoo：PyTorch人脸识别工具箱
+https://github.com/JDAI-CV/FaceX-Zoo
+
+EmotionFerPlus：Unity表情识别
+https://github.com/keijiro/EmotionFerPlus
+
+“换脸”检测相关文献/笔记集
+https://github.com/592McAvoy/fake-face-detection

@@ -33,3 +33,5 @@ https://github.com/romenrg/evergreen-skills-developers
 
 common-regex - 常用正则表达式 - 收集一些在平时项目开发中经常用到的正则表达式
 https://github.com/cdoco/common-regex
+
+### Rust半小时实战入门

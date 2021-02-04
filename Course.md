@@ -167,3 +167,6 @@ https://www.bilibili.com/video/BV1aE41157q6
 
 赫尔辛基大学《人工智能伦理》免费在线课程
 https://ethics-of-ai.mooc.fi/
+
+全栈深度学习训练营(2021)
+https://www.bilibili.com/video/BV1BT4y1P7u6/

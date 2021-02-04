@@ -211,3 +211,13 @@ https://github.com/YingqianWang/Awesome-Stereo-Image-SR
 
 Keras实例教程：高效子像素CNN图像超分辨率
 https://keras.io/examples/vision/super_resolution_sub_pixel/
+
+
+SynthSR：超分辨率/图像合成联合框架
+https://github.com/BBillot/SynthSR
+
+SplitSR: An End-to-End Approach to Super-Resolution on Mobile Devices
+https://arxiv.org/abs/2101.07996
+
+Ojoy：基于UpscalerJS & TensorFlow.js完全在客户端实现运算的图片超分辨率应用
+https://ojoy.netlify.app/
