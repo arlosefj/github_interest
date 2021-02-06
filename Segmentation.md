@@ -942,3 +942,24 @@ https://github.com/tfzhou/ContrastiveSeg
 
 Occluded Video Instance Segmentation
 https://arxiv.org/abs/2102.01558
+
+Recurrent U-Net for Resource Constraint Segmentation
+https://github.com/kcyu2014/recurrent-unet
+
+Classes Matter: A Fine-grained Adversarial Approach to Cross-domain Semantic Segmentation
+https://github.com/JDAI-CV/FADA
+
+Data and code for ECCV2020 paper 'Segmenting Transparent Objects in the Wild'
+https://github.com/xieenze/Segment_Transparent_Objects
+
+Content-Consistent Matching for Domain Adaptive Semantic Segmentation
+https://github.com/Solacex/CCM
+
+Mining Cross-Image Semantics for Weakly Supervised Semantic Segmentation
+https://github.com/GuoleiSun/MCIS_wsss
+
+FDA: Fourier Domain Adaptation for Semantic Segmentation.
+https://github.com/YanchaoYang/FDA
+
+ViewAL: Active Learning with Viewpoint Entropy for Semantic Segmentation
+https://github.com/nihalsid/ViewAL

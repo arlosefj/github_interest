@@ -48,3 +48,9 @@ https://arxiv.org/abs/2009.01129
 
 Memory-Efficient Semi-Supervised Continual Learning: The World is its Own Replay Buffer
 https://arxiv.org/abs/2101.09536
+
+A continual learning survey: Defying forgetting in classification tasks
+https://github.com/Mattdl/CLsurvey
+
+Official Repository for our ECCV2020 paper: Imbalanced Continual Learning with Partitioning Reservoir Sampling
+https://github.com/cdjkim/PRS

@@ -212,7 +212,6 @@ https://github.com/YingqianWang/Awesome-Stereo-Image-SR
 Keras实例教程：高效子像素CNN图像超分辨率
 https://keras.io/examples/vision/super_resolution_sub_pixel/
 
-
 SynthSR：超分辨率/图像合成联合框架
 https://github.com/BBillot/SynthSR
 
@@ -221,3 +220,15 @@ https://arxiv.org/abs/2101.07996
 
 Ojoy：基于UpscalerJS & TensorFlow.js完全在客户端实现运算的图片超分辨率应用
 https://ojoy.netlify.app/
+
+Component Divide-and-Conquer for Real-World Image Super-Resolution(CDC)
+https://github.com/xiezw5/Component-Divide-and-Conquer-for-Real-World-Image-Super-Resolution
+
+Densely Residual Laplacian Network (DRLN) 
+https://github.com/saeed-anwar/DRLN
+
+Real-World Super-Resolution via Kernel Estimation and Noise Injection
+https://github.com/Tencent/Real-SR
+
+TDAN: Temporally-Deformable Alignment Network for Video Super-Resolution
+https://github.com/YapengTian/TDAN-VSR-CVPR-2020

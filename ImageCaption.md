@@ -200,3 +200,18 @@ https://arxiv.org/abs/2102.00529
 
 (Colab)结合CLIP的文本-图像生成
 https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf
+
+### Learning to Discretely Compose Reasoning Module Networks for Video Captioning
+https://github.com/tgc1997/RMN
+
+Comprehensive Image Captioning via Scene Graph Decomposition
+https://github.com/YiwuZhong/Sub-GC
+
+Look and Modify: Modification Networks for Image Captioning
+https://github.com/fawazsammani/look-and-modify
+
+Understanding the Difficulty of Training Transformers
+https://github.com/LiyuanLucasLiu/Transformer-Clinic
+
+Latent Normalizing Flows for Many-to-Many Cross Domain Mappings 
+https://github.com/visinf/lnfmm

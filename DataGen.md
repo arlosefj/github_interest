@@ -282,3 +282,9 @@ https://arxiv.org/abs/2012.11101
 
 像打游戏一样操纵视频生成 paper:《Playable Video Generation》
 https://github.com/willi-menapace/PlayableVideoGeneration
+
+### GridMask Data Augmentation
+https://github.com/Jia-Research-Lab/GridMask
+
+Semantic Image Manipulation Using Scene Graphs
+https://he-dhamo.github.io/SIMSG/#download

@@ -384,3 +384,18 @@ https://nerfies.github.io/
 
 HR-Depth: High Resolution Self-Supervised Monocular Depth Estimation
 https://arxiv.org/abs/2012.07356
+
+3D Bird Reconstruction: a Dataset, Model, and Shape Recovery from a Single View
+https://github.com/marcbadger/avian-mesh
+
+3D Scene Reconstruction from a Single Viewport
+https://github.com/DLR-RM/SingleViewReconstruction
+
+inference Code for DELTAS: Depth Estimation by Learning Triangulation And densification of Sparse point
+https://github.com/magicleap/DELTAS
+
+Pytorch implementation of the ECCV 2020 paper: AtlantaNet: Inferring the 3D Indoor Layout from a Single 360 Image beyond the Manhattan World Assumption
+https://github.com/crs4/AtlantaNet
+
+Improving Monocular Depth Estimation by Leveraging Structural Awareness and Complementary Datasets
+https://github.com/ansj11/SANet

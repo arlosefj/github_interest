@@ -239,3 +239,5 @@ https://arxiv.org/abs/1904.05046
 An Overview of Deep Learning Architectures in Few-Shot Learning Domain
 https://github.com/shruti-jadon/Hands-on-One-Shot-Learning
 
+Transductive Information Maximization for Few-Shot Learning
+https://github.com/mboudiaf/TIM

@@ -988,3 +988,6 @@ https://github.com/ebhy/budgetml
 
 ### OpenFL：英特尔的联邦学习开放框架
 https://github.com/intel/openfl
+
+"Towards Recognizing Unseen Categories in Unseen Domains"
+https://github.com/mancinimassimiliano/CuMix

@@ -217,6 +217,17 @@ https://github.com/bismex/Awesome-vehicle-re-identification
 A simple and effective feature alignment method with proposed anchor loss for person re-identification
 https://github.com/qychen13/ClusterAlignReID
 
-
 跨模态人物再识别文献列表
 https://github.com/bismex/Awesome-cross-modality-person-re-identification
+
+Do Not Disturb Me: Person Re-identification Under the Interference of Other Pedestrians
+https://github.com/X-BrainLab/PI-ReID
+
+Temporal Complementary Learning for Video Person Re-Identification
+https://github.com/blue-blue272/VideoReID-TCLNet
+
+PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification (ICCV 2019) - Official PyTorch Implementation
+https://github.com/NVlabs/PAMTRI
+
+A simple and effective feature alignment method with proposed anchor loss for person re-identification
+https://github.com/qychen13/ClusterAlignReID

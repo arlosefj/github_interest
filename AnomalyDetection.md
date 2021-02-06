@@ -98,3 +98,6 @@ https://github.com/AdneneBoumessouer/MVTec-Anomaly-Detection
 
 表面缺陷研究相关数据集与文献列表
 https://github.com/Charmve/Surface-Defect-Detection
+
+Learning Memory-guided Normality for Anomaly Detection
+https://github.com/cvlab-yonsei/MNAD

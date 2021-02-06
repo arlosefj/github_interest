@@ -409,3 +409,12 @@ https://homes.cs.washington.edu/~thickstn/musicnet.html
 
 AI音乐生成
 https://alxmamaev.medium.com/generating-music-with-ai-or-transformers-go-brrrr-3a3ac5a04126
+
+Real Time Speech Enhancement in the Waveform Domain (Interspeech 2020)We provide a PyTorch implementation of the paper Real Time Speech Enhancement in the Waveform Domain.
+https://github.com/facebookresearch/denoiser
+
+Implementation of MelNet in PyTorch to generate high-fidelity audio samples
+https://github.com/jgarciapueyo/MelNet-SpeechGeneration
+
+PPSpeech: Phrase based Parallel End-to-End TTS System
+https://github.com/rishikksh20/PPSpeech

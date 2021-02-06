@@ -210,3 +210,12 @@ https://github.com/PaddlePaddle/PaddleVideo
 
 ### Temporal-Relational CrossTransformers for Few-Shot Action Recognition
 https://github.com/tobyperrett/trx
+
+An Efficient PointLSTM for Point Clouds Based Gesture Recognition
+https://github.com/Blueprintf/pointlstm-gesture-recognition-pytorch
+
+Boundary-Aware Cascade Networks for Temporal Action Segmentation
+https://github.com/MCG-NJU/BCN
+
+Official repo for ECCV 2020 paper - RubiksNet: Learnable 3D-Shift for Efficient Video Action Recognition
+https://github.com/StanfordVL/RubiksNet

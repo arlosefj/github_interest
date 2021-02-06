@@ -660,3 +660,15 @@ https://github.com/txdet/FCOSPss
 
 Training and fine-tuning YOLOv4 Tiny on custom object detection dataset for Taiwanese traffic'
 https://github.com/achen353/Taiwanese-Traffic-Object-Detection
+
+### VarifocalNet: An IoU-aware Dense Object Detector
+https://github.com/hyz-xmaster/VarifocalNet
+
+Every Pixel Matters: Center-aware Feature Alignment for Domain Adaptive Object Detector
+https://github.com/chengchunhsu/EveryPixelMatters
+
+Kinematic 3D Object Detection in Monocular Video
+https://github.com/garrickbrazil/kinematic3d
+
+Official code of the paper "Align Deep Features for Oriented Object Detection"
+https://github.com/csuhan/s2anet

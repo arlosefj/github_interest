@@ -778,3 +778,6 @@ https://arxiv.org/abs/2101.02477
 
 Bridging Unpaired Facial Photos And Sketches By Line-drawings
 https://arxiv.org/abs/2102.00635
+
+Off-Policy Reinforcement Learning for Efficient and Effective GAN Architecture Search
+https://github.com/Yuantian013/E2GAN

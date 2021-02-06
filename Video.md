@@ -255,3 +255,9 @@ https://github.com/owncast/owncast
 
 subaligner：基于深度网络自动将字幕与视听内容同步
 https://github.com/baxtree/subaligner
+
+Space-Time-Aware Multi-Resolution Video Enhancement 
+https://github.com/alterzero/STARnet
+
+Video Stylization Using Few-Shot Patch-Based Training
+https://github.com/OndrejTexler/Few-Shot-Patch-Based-Training

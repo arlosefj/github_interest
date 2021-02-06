@@ -234,6 +234,8 @@ https://github.com/theAIGuysCode/yolov4-deepsort
 基于MediaPipe用TensorFlow.js实现虹膜跟踪
 https://blog.tensorflow.org/2020/11/iris-landmark-tracking-in-browser-with-MediaPipe-and-TensorFlowJS.html
 
+Bayesian Tracker (btrack)：贝叶斯多目标追踪库
+https://github.com/quantumjot/BayesianTracker
 
 ### 基于YOLOV4的人车检测追踪
 https://github.com/CaptainEven/YOLOV4_MCMOT
@@ -243,3 +245,6 @@ https://github.com/open-mmlab/mmtracking
 
 TransTrack: Multiple-Object Tracking with Transformer
 https://arxiv.org/abs/2012.15460
+
+Deep Motion Modeling Network
+https://github.com/shijieS/DMMN

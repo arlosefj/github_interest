@@ -304,6 +304,8 @@ https://towardsdatascience.com/learn-nlp-the-practical-way-b854ce1035c4
 NLP学习指南 - 快速入门NLP，掌握各个任务的SOTA模型
 https://github.com/leerumor/nlp_tutorial
 
+对ACL2020 FastBERT论文的复现，论文地址:https://arxiv.org/pdf/2004.02178.pdf
+https://github.com/BitVoyage/FastBERT
 
 ### 诗三百·人工智能在线诗歌写作平台开发教程 - 手把手教你搭建人工智能AI写诗平台，从模型搭建到前后端开发到SEO优化推广
 https://github.com/wangjiezju1988/aichpoem

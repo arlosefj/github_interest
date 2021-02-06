@@ -178,3 +178,6 @@ https://engraved.ghost.io/why-machine-learning-algorithms-are-hard-to-tune/
 
 Animating the Optimization Trajectory of Neural Nets - Create animations for the optimization trajectory of neural nets
 https://github.com/logancyang/loss-landscape-anim
+
+Minimal implementations/tutorials of deep learning papers with side-by-side notes; including transformers (original, xl, switch, feedback), optimizers(adam, radam, adabelief), gans(dcgan, cyclegan), reinforcement learning (ppo, dqn), capsnet, sketch-rnn, etc
+https://github.com/lab-ml/nn

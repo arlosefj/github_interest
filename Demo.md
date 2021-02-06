@@ -568,3 +568,9 @@ https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life
 
 ### 用YOLO v4, Deep SORT, Flask实现的多摄像头实时交通和目标计数
 https://github.com/LeonLok/Multi-Camera-Live-Object-Tracking
+
+Image Classification Training GUI - CPU/GPU for linux
+https://github.com/BMW-InnovationLab/BMW-Classification-Training-GUI
+
+Hand detection models trained on 100DOH (100 Days of Hands) dataset.
+https://github.com/ddshan/hand_detector.d2

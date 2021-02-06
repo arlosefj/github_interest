@@ -635,3 +635,6 @@ https://github.com/chibohe/text_recognition_toolbox
 
 ### 文档图像数据集PubLayNet上的MaskRCNN段落检测、表格检测、插图检测
 https://github.com/phamquiluan/PubLayNet
+
+On Recognizing Texts of Arbitrary Shapes with 2D Self-Attention
+https://github.com/clovaai/SATRN

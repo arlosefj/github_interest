@@ -66,3 +66,9 @@ https://github.com/wuzhenyubuaa/TSNet
 
 MobileSal: Extremely Efficient RGB-D Salient Object Detection
 https://arxiv.org/abs/2012.13095
+
+Codes for the CVPR2020 paper "Label Decoupling Framework for Salient Object Detection"
+https://github.com/weijun88/LDF
+
+###  Learning Where to Focus for Efficient Video Object Detection
+https://github.com/jiangzhengkai/LSTS

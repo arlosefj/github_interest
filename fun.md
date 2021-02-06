@@ -231,3 +231,6 @@ https://github.com/HughWen/ServingAgent
 
 ### SAHI: Slicing Aided Hyper Inference - A vision library for performing sliced inference on large images/small objects
 https://github.com/obss/sahi
+
+A deep neural network that directly reconstructs the motion of a 3D human skeleton from monocular video
+https://github.com/Shimingyi/MotioNet
