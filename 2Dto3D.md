@@ -399,3 +399,36 @@ https://github.com/crs4/AtlantaNet
 
 Improving Monocular Depth Estimation by Leveraging Structural Awareness and Complementary Datasets
 https://github.com/ansj11/SANet
+
+Self-supervised Single-view 3D Reconstruction
+https://github.com/NVlabs/UMR
+
+Non-Local Spatial Propagation Network for Depth Completion
+https://github.com/zzangjinsun/NLSPN_ECCV20
+
+[AAAI 2021] HR-Depth : High Resolution Self-Supervised Depth Estimation
+https://github.com/shawLyu/HR-Depth
+
+[ECCV 2020] Self-Supervised Monocular Depth Estimation: Solving the Dynamic Object Problem by Semantic Guidance
+https://github.com/ifnspaml/SGDepth
+
+Open source repository for the code accompanying the paper 'Non-Rigid Neural Radiance Fields Reconstruction and Novel View Synthesis of a Deforming Scene from Monocular Video'.
+https://github.com/facebookresearch/nonrigid_nerf
+
+Code for iccv2019 paper "A Neural Network for Detailed Human Depth Estimation from a Single Image"
+https://github.com/sfu-gruvi-3dv/deep_human
+
+This repository contains the code for the paper "Deep Mesh Reconstruction from Single RGB Images ".
+https://github.com/jnypan/TMNet
+
+Code for 3D Reconstruction of Novel Object Shapes from Single Images paper
+https://github.com/rehg-lab/3DShapeGen
+
+Learning Monocular Depth in Dynamic Scenes via Instance-Aware Projection Consistency (AAAI 2021)
+https://github.com/SeokjuLee/Insta-DM
+
+基于单张RGB图片的3D重建
+https://github.com/nihalsid/single-view-3d-reconstruction
+
+NeRF-w：用网上游客拍的各种照合成3D模型——把人们的记忆碎片融合在一起，创造完美视图——相比2020最初发表版本进一步提高了精度
+https://nerf-w.github.io/

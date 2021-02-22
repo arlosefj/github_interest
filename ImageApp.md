@@ -856,3 +856,63 @@ https://towardsdatascience.com/comprehensive-guide-to-satellite-imagery-analysis
 
 用DeepFashion和Fastai实现深度服装分类
 https://towardsdatascience.com/clothes-classification-with-the-deepfashion-dataset-and-fast-ai-1e174cbf0cdc
+
+Multi-Stage Progressive Image Restoration
+https://github.com/swz30/MPRNet
+
+SSCR: Iterative Language-Based Image Editing via Self-Supervised Counterfactual Reasoning
+https://github.com/tsujuifu/pytorch_sscr
+
+Multi-Scale Progressive Fusion Network for Single Image Deraining (MSPFN)
+https://github.com/kuijiang0802/MSPFN
+
+Domain Adaptation for Image Dehazing, CVPR2020
+https://github.com/HUSTSYJ/DA_dahazing
+
+Efficient Spatio-Temporal Recurrent Neural Network for Video Deblurring (ECCV2020 Spotlight)
+https://github.com/zzh-tech/ESTRNN
+
+The implementation of "Two-Stage Single Image Reflection Removal with Reflection-Aware Guidance".
+https://github.com/liyucs/RAGNet
+
+### Code for NeurIPS 2020 paper: Distribution Matching for Crowd Counting
+https://github.com/cvlab-stonybrook/DM-Count
+
+This repository shows the TensorFlow Lite and TensorRT model conversion and inference processes for the MIRNet model as proposed by Learning Enriched Features for Real Image Restoration and Enhancement. 
+https://github.com/sayakpaul/MIRNet-TFLite-TRT
+
+we propose EfficientDerain for high-efficiency single-image deraining
+https://github.com/tsingqguo/efficientderain
+
+Rain Rendering for Evaluating and Improving Robustness to Bad Weather (Tremblay et al., 2020) 
+https://github.com/cv-rits/rain-rendering
+
+Learning from Synthetic Shadows for Shadow Detection and Removal
+https://github.com/naoto0804/SynShadow
+
+Code for the ICPR 2020 paper: "CURL: Neural Curve Layers for Image Enhancement"
+https://github.com/sjmoran/CURL
+
+HardGAN: A Haze-Aware Representation Distillation GAN for Single Image Dehazing
+https://github.com/huangzilingcv/HardGAN
+
+Keras Implementation of the paper Deep HDR Imaging via A Non-Local Network - TIP 2020
+https://github.com/tuvovan/NHDRRNet
+
+Beyond Brightening Low-light Images
+https://github.com/zhangyhuaee/KinD_plus
+
+ImageStore：Google Photos的开源实现，用Docker部署
+https://github.com/gregordr/ImageStore
+
+图像质量评价算法列表
+https://github.com/weizhou-geek/Image-Quality-Assessment-Benchmark
+
+Deep Illuminator：基于深度学习的图片重打光增强工具
+https://github.com/chogovadze/Deep-Illuminator
+
+PyTorch code for the CVPR'20 paper "Learning Better Lossless Compression Using Lossy Compression"
+https://github.com/fab-jul/RC-PyTorch
+
+BEBLID: Boosted Efficient Binary Local Image Descriptor
+https://github.com/iago-suarez/BEBLID

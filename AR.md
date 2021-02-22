@@ -65,3 +65,6 @@ https://github.com/hiSirius/Indoor-navigation-techology
 
 Objectron Dataset：以对象为中心的短视频剪辑数据集，包含AR会话元数据，包括摄像机姿态，稀疏点云和平面
 https://github.com/google-research-datasets/Objectron
+
+### AR_100Days：百日AR实践挑战
+https://github.com/satoshi0212/AR_100Days

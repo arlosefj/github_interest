@@ -150,3 +150,6 @@ https://github.com/anbox/anbox
 
 MetalCamera：Mac/iOS上支持GPU的图像/视频处理
 https://github.com/jsharp83/MetalCamera
+
+IOS: Inter-Operator Scheduler for CNN Acceleration
+https://github.com/mit-han-lab/inter-operator-scheduler

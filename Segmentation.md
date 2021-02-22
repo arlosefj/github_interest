@@ -963,3 +963,123 @@ https://github.com/YanchaoYang/FDA
 
 ViewAL: Active Learning with Viewpoint Entropy for Semantic Segmentation
 https://github.com/nihalsid/ViewAL
+
+### Interactive Object Segmentation with Inside-Outside Guidance
+https://github.com/shiyinzhang/Inside-Outside-Guidance
+
+This repository contains the official implementation of the paper "STEm-Seg: Spatio-temporal Embeddings for Instance Segmentation in Videos"
+https://github.com/sabarim/STEm-Seg
+
+Reliability Does Matter: An End-to-End Weakly Supervised Semantic Segmentation Approach
+https://github.com/zbf1991/RRM
+
+Code for “Disentangled Non-local Neural Networks”
+https://github.com/yinmh17/DNL-Semantic-Segmentation
+
+SC-CAM: Weakly-Supervised Semantic Segmentation via Sub-category Exploration (CVPR 2020)
+https://github.com/Juliachang/SC-CAM
+
+Official code for "Object counting and instance segmentation with image-level supervision", in CVPR 2019 and TPAMI 2020
+https://github.com/GuoleiSun/CountSeg
+
+Official Implementation of Part-aware Prototype Network for Few-shot Semantic Segmentation 
+https://github.com/Xiangyi1996/PPNet-PyTorch
+
+Point-Set Anchors for Object Detection, Instance Segmentation and Pose Estimation
+https://github.com/FangyunWei/PointSetAnchor
+
+### D2Det using mmdetection v2.1, supporting Objects365 and LVIS
+https://github.com/JialeCao001/D2Det-mmdet2.1
+
+Offical code base for the ECCV oral paper "Synthesize then Compare: Detecting Failures and Anomalies for Semantic Segmentation"
+https://github.com/YingdaXia/SynthCP
+
+Code for ICASSP 2020 paper ‘UNet 3+: A full-scale connected unet for medical image segmentation’
+https://github.com/ZJUGiveLab/UNet-Version
+
+A simple consistency training framework for semi-supervised image semantic segmentation
+https://github.com/googleinterns/wss
+
+ACFNet: Attentional Class Feature Network for Semantic Segmentation.(ICCV2019)
+https://github.com/zrl4836/ACFNet
+
+Semi Supervised Learning for Medical Image Segmentation, a collection of literature reviews and code implementations.
+https://github.com/HiLab-git/SSL4MIS
+
+[ECCV'20] Self-supervision with Superpixels: Training Few-shot Medical Image Segmentation without Annotation (code&data-processing pipeline)
+https://github.com/cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation
+
+Intra-class Feature Variation Distillation for Semantic Segmentation
+https://github.com/YukangWang/IFVD
+
+Making a Case for 3D Convolutions for Object Segmentation in Videos
+https://github.com/sabarim/3DC-Seg
+
+ViP-DeepLab: Learning Visual Perception with Depth-aware Video Panoptic Segmentation
+https://github.com/joe-siyuan-qiao/ViP-DeepLab
+
+Real-Time High-Resolution Background Matting
+https://github.com/PeterL1n/BackgroundMattingV2
+
+A framework for Medical Image Segmentation with Convolutional Neural Networks and Deep Learning
+https://github.com/frankkramer-lab/MIScnn
+
+This repository includes the official project of Mask Guided (MG) Matting, presented in our paper: Mask Guided Matting via Progressive Refinement Network
+https://github.com/yucornetto/MGMatting
+
+An implementation of our work "Three Ways to Improve Semantic Segmentation with Self-Supervised Depth Estimation"
+https://github.com/lhoyer/improving_segmentation_with_selfsupervised_depth
+
+ESSNet - Embedding-based Scalable Segmentation Network
+https://github.com/shipra25jain/ESSNet
+
+Code for NeurIPS 2020 article "Contrastive learning of global and local features for medical image segmentation with limited annotations"
+https://github.com/krishnabits001/domain_specific_cl
+
+PyTorch implementation of Foveation for Segmentation of Ultra-High Resolution Images
+https://github.com/lxasqjc/Foveation-Segmentation
+
+Learning RGB-D Feature Embeddings for Unseen Object Instance Segmentation
+https://github.com/NVlabs/UnseenObjectClustering
+
+Code for the paper "Reinforced Active Learning for Image Segmentation"
+https://github.com/ArantxaCasanova/ralis
+
+Code for our method RePRI for Few-Shot Segmentation. Paper at http://arxiv.org/abs/2012.06166
+https://github.com/mboudiaf/RePRI-for-Few-Shot-Segmentation
+
+Semi-supervised Medical Image Segmentation through Dual-task Consistency
+https://github.com/HiLab-git/DTC
+
+Copy-paste augmentation for segmentation and detection tasks
+https://github.com/conradry/copy-paste-aug
+
+Hybrid Eloss for object segmentation in PyTorch
+https://github.com/GewelsJI/Hybrid-Eloss
+
+### DeepCrack: A Deep Hierarchical Feature Learning Architecture for Crack Segmentation, Neurocomputing.
+https://github.com/yhlleo/DeepCrack
+
+ESANet: Efficient RGB-D Semantic Segmentation for Indoor Scene Analysis
+https://github.com/TUI-NICR/ESANet
+
+This repository includes the official project of TransUNet, presented in our paper: TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation.
+https://github.com/Beckschen/TransUNet
+
+Official implementation of "Video Object Segmentation with Adaptive Feature Bank and Uncertain-Region Refinement", 
+https://github.com/xmlyqing00/AFB-URR
+
+### Reviving Iterative Training with Mask Guidance for Interactive Segmentation
+https://github.com/saic-vul/ritm_interactive_segmentation
+
+SwiftNet: Real-time Video Object Segmentation
+https://arxiv.org/abs/2102.04604 
+
+Unsupervised Semantic Segmentation by Contrasting Object Mask Proposals
+https://github.com/wvangansbeke/Unsupervised-Semantic-Segmentation
+
+DoubleU-Net for Semantic Image Segmentation in TensorFlow Keras
+https://github.com/DebeshJha/2020-CBMS-DoubleU-Net
+
+### Puzzle-CAM: Improved localization via matching partial and full features.
+https://github.com/OFRIN/PuzzleCAM

@@ -293,3 +293,57 @@ https://github.com/chingswy/HumanPoseMemo
 
 EasyMocap：无标记人体动作捕捉开源工具箱
 https://github.com/zju3dv/EasyMocap
+
+A third-party Tensorflow Implementation for paper "BlazePose: On-device Real-time Body Pose tracking".
+https://github.com/jiang-du/BlazePose-tensorflow
+
+A Graph Attention Spatio-temporal Convolutional Networks for 3D Human Pose Estimation in Video (GAST-Net)
+https://github.com/fabro66/GAST-Net-3DPoseEstimation
+
+### Spatial Temporal Transformer Network for Skeleton-Based Activity Recognition
+https://github.com/Chiaraplizz/ST-TR
+
+Multi-person Human Pose Estimation with HigherHRNet in Pytorch
+https://github.com/stefanopini/simple-HigherHRNet
+
+The implementation for "Decoupling GCN with DropGraph Module for Skeleton-Based Action Recognition" (ECCV2020).
+https://github.com/kchengiva/DecoupleGCN-DropGraph
+
+HHAR-net: Hierarchical Human Activity Recognition using Neural Networks
+https://github.com/mehrdadfazli/HHAR-Net
+
+[IJCV-2020] AdaFuse: Adaptive Multiview Fusion for Accurate Human Pose Estimation in the Wild
+https://github.com/zhezh/adafuse-3d-human-pose
+
+Multi-person 3D Pose Estimation in Crowded Scenes Based on Multi-View Geometry
+https://github.com/HeCraneChen/3D-Crowd-Pose-Estimation-Based-on-MVG
+
+### Deep Learning-Based Human Pose Estimation: A Survey
+https://github.com/zczcwh/DL-HPE
+
+This is the unofficial implementation of the paper "Monocular Real-time Hand Shape and Motion Capture using Multi-modal Data"
+https://github.com/lingtengqiu/Minimal-Hand
+
+ResGCN: an efficient baseline for skeleton-based human action recognition.
+https://github.com/yfsong0709/ResGCNv1
+
+NTU60-X: Towards Skeleton-based Recognition of Subtle Human Actions
+https://github.com/skelemoa/ntu-x
+
+Scalable single-person pose estimation
+https://github.com/daniegr/EfficientPose
+
+Code for aaai 2021 paper ''Exploiting Learnable Joint Groups for Hand Pose Estimation''
+https://github.com/moranli-aca/LearnableGroups-Hand
+
+TransPose: Towards Explainable Human Pose Estimation by Transformer
+https://github.com/yangsenius/TransPose
+
+This is the official implementation of EfficientPose. EfficientPose: An efficient, accurate and scalable end-to-end 6D multi object pose estimation approach
+https://github.com/ybkscht/EfficientPose
+
+The authors' implementation of the "Neural Head Reenactment with Latent Pose Descriptors" (CVPR 2020) paper.
+https://github.com/shrubb/latent-pose-reenactment
+
+RealHePoNet: Keras实现的单级ConvNet头部姿态估计
+https://github.com/rafabs97/headpose_final

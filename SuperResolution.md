@@ -232,3 +232,51 @@ https://github.com/Tencent/Real-SR
 
 TDAN: Temporally-Deformable Alignment Network for Video Super-Resolution
 https://github.com/YapengTian/TDAN-VSR-CVPR-2020
+
+ImageStackAlignator：Google手机端多帧超分辨率算法实现(C sharp)
+https://github.com/kunzmi/ImageStackAlignator
+
+VAE with RealNVP prior and Super-Resolution VAE in PyTorch. Code release for https://arxiv.org/abs/2006.05218
+https://github.com/ioangatop/srVAE
+
+Implementation of Google's Handheld Multi-Frame Super-Resolution algorithm (from Pixel 3 and Pixel 4 camera)
+https://github.com/kunzmi/ImageStackAlignator
+
+Efficient Image Super-Resolution Using Pixel Attention, in ECCV Workshop, 2020.
+https://github.com/zhaohengyuan1/PAN
+
+Training and Testing codes for our paper "Real-world Image Super-resolution via Domain-distance Aware Training"
+https://github.com/ShuhangGu/DASR
+
+Residual Feature Distillation Network for Lightweight Image Super-Resolution
+https://github.com/njulj/RFDN
+
+Recurrent Residual Network for Video Super-resolution (RRN)
+https://github.com/junpan19/RRN
+
+A PyTorch implementation of SRNTT[1], which is a novel Reference-based Super-Resolution method proposed in CVPR 2019.
+https://github.com/S-aiueo32/srntt-pytorch
+
+HyperRIM: Hyper-Resolution Implicit Model
+https://github.com/niopeng/HyperRIM
+
+DynaVSR: Dynamic Adaptive Blind VideoSuper-Resolution
+https://github.com/esw0116/DynaVSR
+
+Keras Implementation of the paper Residual Feature Distillation Network for Lightweight Image Super-Resolution
+https://github.com/tuvovan/RFDNet-ImageSuperResolution
+
+Coarse-to-Fine CNN for Image Super-Resolution (IEEE Transactions on Multimedia,2020)
+https://github.com/hellloxiaotian/CFSRCNN
+
+MuCAN: Multi-Correspondence Aggregation Network for Video Super-Resolution 
+https://github.com/Jia-Research-Lab/Simple-SR
+
+Explorable Super Resolution
+https://github.com/YuvalBahat/Explorable-Super-Resolution
+
+code for paper "Video Super-resolution with Temporal Group Attention"
+https://github.com/junpan19/VSR_TGA
+
+Official repository containing code and other material from the paper "Efficient Video Super-Resolution through Recurrent Latent Space Propagation"
+https://github.com/dariofuoli/RLSP

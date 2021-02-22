@@ -82,3 +82,45 @@ https://github.com/ubc-vision/image-matching-benchmark
 
 Deep Image Retrieval: A Survey
 https://arxiv.org/abs/2101.11282
+
+Same Energy：一个新的图片搜索引擎
+https://same.energy/
+
+[SuperGlue: Learning Feature Matching with Graph Neural Networks] This repo includes PyTorch code for training the SuperGlue matching network on top of SIFT keypoints and descriptors.
+https://github.com/HeatherJiaZG/SuperGlue-pytorch
+
+Minimal implementation of SimSiam (https://arxiv.org/abs/2011.10566) in TensorFlow 2.
+https://github.com/sayakpaul/SimSiam-TF
+
+Exploring Simple Siamese Representation Learning
+https://github.com/leaderj1001/SimSiam
+
+### FFD is a fast scale-invariant feature detector for computer vision tasks. This repo includes the code for keypoint detection from images. Given a pair of images, you can use this repo to extract matching features across the image pair.
+https://github.com/mogvision/FFD
+
+Learning and aggregating deep local descriptors for instance-level recognition
+https://github.com/gtolias/how
+
+PyTorch implementation of SimCLR: supports multi-GPU training and closely reproduces results
+https://github.com/AndrewAtanov/simclr-pytorch
+
+Parametric Instance Classification for Unsupervised Visual Feature Learning, NeurIPS 2020
+https://github.com/bl0/PIC
+
+A PyTorch re-implementation of the paper 'Exploring Simple Siamese Representation Learning'. Reproduced the 67.8% Top1 Acc on ImageNet.
+https://github.com/taoyang1122/pytorch-SimSiam
+
+A PyTorch implementation of CGD based on the paper "Combination of Multiple Global Descriptors for Image Retrieval"
+https://github.com/leftthomas/CGD
+
+### Implementation of Supervised Contrastive Learning with AMP, EMA, SWA, and many other tricks
+https://github.com/ivanpanshin/SupCon-Framework
+
+Telling the What while Pointing the Where: Fine-grained Mouse Trace and Language Supervision for Improved Image Retrieval
+https://arxiv.org/abs/2102.04980
+
+n Efficient Framework for Zero-Shot Sketch-Based Image Retrieval
+https://arxiv.org/abs/2102.04016
+
+The pytorch implementation for "SNUNet-CD: A Densely Connected Siamese Network for Change Detection of VHR Images"
+https://github.com/likyoo/Siam-NestedUNet

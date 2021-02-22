@@ -231,3 +231,33 @@ https://github.com/NVlabs/PAMTRI
 
 A simple and effective feature alignment method with proposed anchor loss for person re-identification
 https://github.com/qychen13/ClusterAlignReID
+
+Ordered or Orderless: A Revisit for Video based Person Re-Identification (T-PAMI 2020)
+https://github.com/ZhangLeUestc/VideoReid-TPAMI2020
+
+Implementation of Federated Learning to Person Re-identification (Code for ACMMM 2020 paper)
+https://github.com/cap-ntu/FedReID
+
+This repo gives the code for the paper "Xinchen Liu, Wu Liu, Jinkai Zheng, Chenggang Yan, Tao Mei: Beyond the Parts: Learning Multi-view Cross-part Correlation for Vehicle Re-identification. ACM MM 2020".
+https://github.com/lxc86739795/vehicle_reid_by_parsing
+
+GOM：New Metric for Re-identification. 👉GOM explicitly balances the effect of performing retrieval and verification into a single unified metric.
+https://github.com/YuanXinCherry/Person-reID-Evaluation
+
+SYSU-30k Dataset of "Weakly Supervised Person Re-ID: Differentiable Graphical Learning and A New Benchmark"
+https://github.com/wanggrun/SYSU-30k
+
+Black Re-ID: A Head-shoulder Descriptor for the Challenging Problem of Person Re-Identification 
+https://github.com/xbq1994/HAA
+
+Improve Person Re-Identification With Part Awareness Learning, TIP 2020
+https://github.com/huanghoujing/PAL-MGN
+
+This is the official implementation of article "Parsing-based viewaware embedding network for vehicle ReID"
+https://github.com/silverbulletmdc/PVEN
+
+TransReID: Transformer-based Object Re-Identification
+https://arxiv.org/abs/2102.04378
+
+Joint Disentangling and Adaptation for Cross-Domain Person Re-Identification.
+https://github.com/NVlabs/DG-Net-PP

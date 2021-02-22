@@ -162,3 +162,12 @@ https://github.com/Ritvik19/pyradox
 
 tflite2tensorflow - Generate saved_model, tfjs, tf-trt, EdgeTPU, CoreML, quantized tflite and .pb from .tflite
 https://github.com/PINTO0309/tflite2tensorflow
+
+ tflite：TFLite模型(*.tflite)解析库
+ https://github.com/jackwish/tflite
+
+ TensorFlow Recommenders：基于Keras用于构建推荐系统模型的TensorFlow库
+ https://www.tensorflow.org/recommenders
+
+ ### TensorFlow 2速成课程资料
+ https://github.com/dipanjanS/tensorflow2-crash-course

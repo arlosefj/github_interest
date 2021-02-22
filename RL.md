@@ -208,3 +208,15 @@ https://github.com/ZhiqingXiao/rl-book
 
 RL environment list：强化学习开放环境大列表
 https://github.com/clvrai/awesome-rl-envs
+
+基于视觉模型强化学习中的设计权衡评价
+https://github.com/google-research/world_models
+
+Pytorch/Tensorflow 2实现的深度强化学习集算法锦
+https://github.com/RITCHIEHuang/DeepRL_Algorithms
+
+Sequoia - 面向持续学习、强化学习和自监督学习研究的实验库
+https://github.com/lebrice/Sequoia
+
+MTEnv：强化学习多任务环境
+https://github.com/facebookresearch/mtenv

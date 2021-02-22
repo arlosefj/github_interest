@@ -418,3 +418,45 @@ https://github.com/jgarciapueyo/MelNet-SpeechGeneration
 
 PPSpeech: Phrase based Parallel End-to-End TTS System
 https://github.com/rishikksh20/PPSpeech
+
+Implementation of Phase-aware speech enhancement with deep complex U-Net
+https://github.com/mhlevgen/DCUNetTorchSound
+
+Tensorflow 2.0 implementation of the paper: A Fully Convolutional Neural Network for Speech Enhancement
+https://github.com/daitan-innovation/cnn-audio-denoiser
+
+### Voice Conversion by CycleGAN (语音克隆/语音转换): CycleGAN-VC2
+https://github.com/jackaduma/CycleGAN-VC2
+
+HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis
+https://github.com/jik876/hifi-gan
+
+Real-Time High-Fidelity Speech Synthesis without GPU
+https://github.com/BogiHsu/WG-WaveNet
+
+Official PyTorch implementation of Speaker Conditional WaveRNN
+https://github.com/dipjyoti92/SC-WaveRNN
+
+Pytorch implementation of "Efficienttts: an efficient and high-quality text-to-speech architecture"
+https://github.com/liusongxiang/efficient_tts
+
+HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis
+https://github.com/rishikksh20/HiFi-GAN
+
+An unofficial implementation of the paper "One-shot Voice Conversion by Separating Speaker and Content Representations with Instance Normalization".
+https://github.com/cyhuang-tw/AdaIN-VC
+
+TFGAN: Time and Frequency Domain Based Generative Adversarial Network for High-fidelity Speech Synthesis
+https://github.com/rishikksh20/TFGAN
+
+Efficient neural networks for analog audio effect modeling
+https://github.com/csteinmetz1/micro-tcn
+
+End-to-End Multi-Channel Transformer for Speech Recognition
+https://arxiv.org/abs/2102.03951
+
+Hugging Face的Transformers v4.3.0最新发布，hub模型库增加Facebook的Wav2Vec2自动语音识别模型
+https://huggingface.co/facebook/wav2vec2-base-960h
+
+LightSpeech: Lightweight and Fast Text to Speech with Neural Architecture Search
+https://arxiv.org/abs/2102.04040

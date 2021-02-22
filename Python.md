@@ -671,3 +671,21 @@ Ryven。
 该工具支持通过编辑节点来控制 Python 脚本，让开发者可以更为直观的感受脚本的执行过程与输出结果。
 借助这一脚本，可有效提升并优化 IoT、数据操作处理、可视化算法的开发流程。
 https://github.com/leon-thomm/Ryven
+
+pytransform3d：Python的3D转换库
+https://github.com/rock-learning/pytransform3d
+
+whiteboxgui：Jupyter环境下的WhiteboxTools交互界面
+https://github.com/giswqs/whiteboxgui
+
+带打分的Jupyter Notebook相关资源超级大列表
+https://github.com/ml-tooling/best-of-jupyter
+
+Cyberbrain: 让人耳目一新的Python调试工具，支持反向追踪变量更改、查看程序执行状态包括变量值、循环调试等
+https://github.com/laike9m/Cyberbrain
+
+pyperf：Python基准撰写/运行/分析工具包
+https://github.com/psf/pyperf
+
+IDOM：用于创建和控制交互式网页的Python库
+https://github.com/idom-team/idom

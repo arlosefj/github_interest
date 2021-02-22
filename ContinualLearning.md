@@ -54,3 +54,18 @@ https://github.com/Mattdl/CLsurvey
 
 Official Repository for our ECCV2020 paper: Imbalanced Continual Learning with Partitioning Reservoir Sampling
 https://github.com/cdjkim/PRS
+
+Official Code Repository for La-MAML: Look-Ahead Meta-Learning for Continual Learning"
+https://github.com/montrealrobotics/La-MAML
+
+Code for "Online Learned Continual Compression with Adaptive Quantization Modules"
+https://github.com/pclucas14/adaptive-quantization-modules
+
+Original PyTorch implementation of Uncertainty-guided Continual Learning with Bayesian Neural Networks, ICLR 2020
+https://github.com/SaynaEbrahimi/UCB
+
+Variational Auto-Regressive Gaussian Processes for Continual Learning
+https://github.com/uber-research/var-gp
+
+持续迁移学习基准
+https://github.com/facebookresearch/CTrLBenchmark

@@ -265,3 +265,9 @@ SIIM-ISIC黑素瘤分类第一名方案
 https://github.com/haqishen/SIIM-ISIC-Melanoma-Classification-1st-Place-Solution
 
 微软 Indoor Location Competition 2.0正式上线Kaggle！首次公开覆盖200+商场1000+楼层27K+真实路径的数据集
+
+### 记录和定期提供各大数据科学竞赛的赛事消息和原创baseline，思路分享以及博主的一些竞赛心得和学习资料等
+https://github.com/DLLXW/data-science-competition
+
+1st Place Solutions of 3D AI Challenge 2020(IJCAI-PRICAI 2020 Workshop) - Instance Segmentation Track
+https://github.com/zehuichen123/3DFuture_ins_seg

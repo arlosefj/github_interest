@@ -215,3 +215,180 @@ https://github.com/LiyuanLucasLiu/Transformer-Clinic
 
 Latent Normalizing Flows for Many-to-Many Cross Domain Mappings 
 https://github.com/visinf/lnfmm
+
+### 用编程方式理解Transformers
+https://towardsdatascience.com/understanding-transformers-the-programming-way-f8ed22d112b2
+
+transformer的十七大变种优化
+https://mp.weixin.qq.com/s/k5XkAwcXkyi9ymFUIej_iw
+
+Transformers与图神经网络
+https://github.com/chaitjo/gated-graph-transformers
+
+### Transformer语言模型可视化解析
+https://jalammar.github.io/explaining-transformers/
+
+Zelda Rose：Transformer模型训练器，支持分布式训练
+https://github.com/LoicGrobol/zeldarose
+
+Unifying Vision-and-Language Tasks via Text Generation
+https://github.com/j-min/VL-T5
+
+Source code for "Bi-modal Transformer for Dense Video Captioning"
+https://github.com/v-iashin/BMT
+
+Visual Relation Grounding in Videos
+https://github.com/doc-doc/vRGV
+
+MMT: Multi-modal Transformer for Video Retrieval
+https://github.com/gabeur/mmt
+
+Research code for EMNLP 2020 paper "HERO: Hierarchical Encoder for Video+Language Omni-representation Pre-training"
+https://github.com/linjieli222/HERO
+
+Zelda Rose：Transformer模型训练器，支持分布式训练
+https://github.com/LoicGrobol/zeldarose
+
+Implementation of Vision Transformer in PyTorch, a new model to achieve SOTA in vision classification with using transformer style encoders
+https://github.com/gupta-abhay/ViT
+
+Data Movement Is All You Need: A Case Study on Optimizing Transformers.
+https://github.com/spcl/substation
+
+### VisualCOMET: Reasoning about the Dynamic Context of a Still Image
+https://github.com/jamespark3922/visual-comet
+
+This is the official Pytorch implementation of Length-Adaptive Transformer. 
+https://github.com/clovaai/length-adaptive-transformer
+
+AR-Net: Adaptive Resolution Network for Efficient Video Understanding
+https://github.com/mengyuest/AR-Net
+
+Code base for WaveTransformer: A novel architecture for automated audio captioning
+https://github.com/haantran96/wavetransformer
+
+The official source code for the paper Consensus-Aware Visual-Semantic Embedding for Image-Text Matching (ECCV 2020)
+https://github.com/BruceW91/CVSE
+
+Research Code for NeurIPS 2020 Spotlight paper "Large-Scale Adversarial Training for Vision-and-Language Representation Learning": LXMERT adversarial training part
+https://github.com/zhegan27/LXMERT-AdvTrain
+
+COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning
+https://github.com/gingsi/coot-videotext
+
+A PyTorch implementation of the paper - "Synthesizer: Rethinking Self-Attention in Transformer Models"
+https://github.com/10-zin/Synthesizer
+
+iPerceive: Applying Common-Sense Reasoning to Multi-Modal Dense Video Captioning and Video Question Answering
+https://github.com/amanchadha/iPerceive
+
+Video Feature Extraction Code for EMNLP 2020 paper "HERO: Hierarchical Encoder for Video+Language Omni-representation Pre-training"
+https://github.com/linjieli222/HERO_Video_Feature_Extractor
+
+Big Bird: Transformers for Longer Sequences
+https://github.com/google-research/bigbird
+
+Code and data for the framework in "Multimodal Pretraining Unmasked: Unifying the Vision and Language BERTs", arXiv preprint arXiv:2011.15124.
+https://github.com/e-bug/volta
+
+Self-Supervised Learning by Cross-Modal Audio-Video Clustering
+https://github.com/HumamAlwassel/XDC
+
+Multi-Modal Reasoning Graph for Scene-Text Based Fine-Grained Image Classification and Retrieval
+https://github.com/AndresPMD/GCN_classification
+
+Implementation of RealFormer using pytorch
+https://github.com/cloneofsimo/RealFormer-pytorch
+
+Tensorflow implementation of the Vision Transformer (An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale)
+https://github.com/emla2805/vision-transformer
+
+(Pytorch) Visual Transformers: Token-based Image Representation and Processing for Computer Vision:
+https://github.com/tahmid0007/VisualTransformers
+
+Code and data for the project "Visually grounded continual learning of compositional semantics"
+https://github.com/INK-USC/VisCOLL
+
+### Connecting Vision and Language with Localized Narratives
+https://google.github.io/localized-narratives/ https://github.com/google/localized-narratives
+
+An implementation of Performer, a linear attention-based transformer, in Pytorch
+https://github.com/lucidrains/performer-pytorch
+
+DSNet: A Flexible Detect-to-Summarize Network for Video Summarization
+https://github.com/li-plus/DSNet
+
+Learning to ground explanations of affect for visual art.
+https://github.com/optas/artemis
+
+Keras Implementation of Vision Transformer (An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale)
+https://github.com/tuvovan/Vision_Transformer_Keras
+
+Implementation of "Multimodal Text Style Transfer for Outdoor Vision-and-Language Navigation"
+https://github.com/VegB/VLN-Transformer
+
+Code of paper: A Recurrent Vision-and-Language BERT for Navigation
+https://github.com/YicongHong/Recurrent-VLN-BERT
+
+Implementation of Bottleneck Transformer in Pytorch
+https://github.com/lucidrains/bottleneck-transformer-pytorch
+
+Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet
+https://github.com/yitu-opensource/T2T-ViT
+
+ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision
+https://arxiv.org/abs/2102.03334
+
+Learning Spatiotemporal Features via Video and Text Pair Discrimination
+https://github.com/MCG-NJU/CPD-Video
+
+The implementation of paper UniVL: A Unified Video and Language Pre-Training Model for Multimodal Understanding and Generation.
+https://github.com/microsoft/UniVL
+
+Implementation of Feedback Transformer in Pytorch
+https://github.com/lucidrains/feedback-transformer-pytorch
+
+code of the paper "Vision-Language Navigation with Multi-granularity Observation and Auxiliary Reasoning Tasks"
+https://github.com/ZhuFengdaaa/MG-AuxRN
+
+We rank the 1st in DSTC8 Audio-Visual Scene-Aware Dialog competition. This is the source code for our AAAI2020-DSTC8-AVSD paper "Bridging Text and Video: A Universal Multimodal Transformer for Video-Audio Scene-Aware Dialog".
+https://github.com/ictnlp/DSTC8-AVSD
+
+Implementation of TimeSformer, a pure attention-based solution for video classification
+https://github.com/lucidrains/TimeSformer-pytorch
+
+Tensorflow implementation of the Vision Transformer (An Image is Worth 16x16 Words: Transformer
+https://github.com/ashishpatel26/Vision-Transformer-Keras-Tensorflow-Pytorch-Examples
+
+基于CLIP用自然语言搜索Youtube视频
+https://github.com/haltakov/natural-language-youtube-search
+
+Less is More: ClipBERT for Video-and-Language Learning via Sparse Sampling
+https://github.com/jayleicn/ClipBERT
+
+Is Space-Time Attention All You Need for Video Understanding?
+https://arxiv.org/abs/2102.05095
+
+Training Vision Transformers for Image Retrieval
+https://arxiv.org/abs/2102.05644
+
+【自注意力分类图】“A Visual Self-Attention Taxonomy”
+https://paperswithcode.com/newsletter/4/
+
+Optimizing Inference Performance of Transformers on CPUs
+https://arxiv.org/abs/2102.06621
+
+Transformer计算机视觉应用研究列表
+https://github.com/DirtyHarryLYL/Transformer-in-Vision
+
+Transformers Interpret：Transformer模型解释工具
+https://github.com/cdpierse/transformers-interpret
+
+我们能否用自然语言模型描述图片视觉差异？最近本组的EACL 2021工作发现，必须从语义上理解单个图片，同时对多个图片进行对比，才可以很好地用文字描述视觉上的细微差别。L2C: Describing Visual Differences Needs Semantic Understanding of Individuals
+https://arxiv.org/abs/2102.01860
+
+Conceptual 12M: Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts
+https://arxiv.org/abs/2102.08981
+
+Transformer及其应用参考资料汇编
+https://elvissaravia.substack.com/p/learn-about-transformers-a-recipe

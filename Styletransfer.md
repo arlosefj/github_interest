@@ -123,3 +123,15 @@ https://github.com/DelTA-Lab-IITK/shad3s
 
 ArtLine：基于深度学习的线条艺术肖像创作项目
 https://github.com/vijishmadhavan/ArtLine
+
+Learning domain-agnostic visual representation for computational pathology using medically-irrelevant style transfer augmentation
+https://github.com/rikiyay/style-transfer-for-digital-pathology
+
+Framework for Neural Style Transfer (NST) built upon PyTorch
+https://github.com/pmeier/pystiche
+
+### An unofficial implementation of Joint Bilateral Learning for Real-time Universal hotorealistic Style Transfer
+https://github.com/mousecpn/Joint-Bilateral-Learning
+
+Improving Object Detection in Art Images Using Only Style Transfer
+https://arxiv.org/abs/2102.06529

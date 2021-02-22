@@ -672,3 +672,117 @@ https://github.com/garrickbrazil/kinematic3d
 
 Official code of the paper "Align Deep Features for Oriented Object Detection"
 https://github.com/csuhan/s2anet
+
+Official PyTorch implementation of Deformable Grid
+https://github.com/fidler-lab/defgrid-release
+
+Context-aware RCNN: a Baseline for Action Detection in Videos
+https://github.com/MCG-NJU/CRCNN-Action
+
+### FCOS: Fully Convolutional One-Stage Object Detection
+https://github.com/VectXmy/FCOS.Pytorch
+
+Localize to Classify and Classify to Localize: Mutual Guidance in Object Detection
+https://github.com/ZHANGHeng19931123/MutualGuide
+
+Differentiable IoU of rotated bounding boxes using Pytorch
+https://github.com/lilanxiao/Rotated_IoU
+
+Deformable-Attention-for-Deformable-DETR
+https://github.com/Windaway/Deformable-Attention-for-Deformable-DETR
+
+Deformable DETR: Deformable Transformers for End-to-End Object Detection.
+https://github.com/fundamentalvision/Deformable-DETR
+
+Detecting Hands and Recognizing Physical Contact in the Wild, NeurIPS 2020.
+https://github.com/cvlab-stonybrook/ContactHands
+
+Multi-scale Positive Sample Refinement for Few-shot Object Detection, ECCV2020
+https://github.com/jiaxi-wu/MPSR
+
+RSKDD-Net: Random Sample-based Keypoint Detector and Descriptor
+https://github.com/ispc-lab/RSKDD-Net
+
+Python Framework to calibrate confidence estimates of classifiers like Neural Networks
+https://github.com/fabiankueppers/calibration-framework
+
+### Hier R-CNN: Instance-level Human Parts Detection and A New Benchmark
+https://github.com/soeaver/Hier-R-CNN
+
+End-to-End Object Detection with Learnable Proposal
+https://github.com/PeizeSun/SparseR-CNN
+
+End-to-End Object Detection with Fully Convolutional Network
+https://github.com/Megvii-BaseDetection/DeFCN
+
+### OneNet: End-to-End One-Stage Object Detection
+https://github.com/PeizeSun/OneNet
+
+This is the implementation of "Scaled-YOLOv4: Scaling Cross Stage Partial Network" using PyTorch framwork.
+https://github.com/Eric3911/ScaledYOLOv4
+
+Pytorch implementation of "AutoAssign: Differentiable Label Assignment for Dense Object Detection"
+https://github.com/Megvii-BaseDetection/AutoAssign
+
+### This repo is an official implementation for "Fine-Grained Dynamic Head for Object Detection" (NeurIPS2020) on PyTorch framework.
+https://github.com/StevenGrove/DynamicHead
+
+CIA-SSD: Confident IoU-Aware Single Stage Object Detector From Point Cloud, AAAI 2021.
+https://github.com/Vegeta2020/CIA-SSD
+
+A Tensorflow implementation of the DETR object detection architecture.
+https://github.com/Leonardo-Blanger/detr_tensorflow
+
+Tensorflow implementation of DETR : Object Detection with Transformers
+https://github.com/Visual-Behavior/detr-tensorflow
+
+Official implementation of Learning Point-guided Localization for Detection in Remote Sensing Images
+https://github.com/yf19970118/OPLD-Pytorch
+
+Implementation of "Harmonizing Transferability and Discriminability for Adapting Object Detectors" (CVPR 2020)
+https://github.com/chaoqichen/HTCN
+
+One Metric to Measure them All: Localisation Recall Precision (LRP) for Evaluating Visual Detection Tasks
+https://github.com/kemaloksuz/LRP-Error
+
+SWA Object Detection
+https://github.com/hyz-xmaster/swa_object_detection
+
+Comprehensive Attention Self-Distillation for Weakly-Supervised Object Detection
+https://github.com/DeLightCMU/CASD
+
+### This is the implementation of YOLObile: Real-Time Object Detection on Mobile Devices via Compression-Compilation Co-Design
+https://github.com/nightsnack/YOLObile
+
+### Code for ACM MM 2020 paper "NOH-NMS: Improving Pedestrian Detection by Nearby Objects Hallucination"
+https://github.com/TencentYoutuResearch/PedestrianDetection-NohNMS
+
+Unofficial PyTorch implementation of the paper: "CenterNet3D: An Anchor free Object Detector for Autonomous Driving"
+https://github.com/maudzung/CenterNet3D-PyTorch
+
+### CFC-Net: A Critical Feature Capturing Network for Arbitrary-Oriented Object Detection in Remote Sensing Images
+https://github.com/ming71/CFC-Net
+
+Code for Estimating and Evaluating Predictive Uncertainty In Deep 2D Object Detection.
+https://github.com/asharakeh/probdet
+
+### key points estimation and point instance segmentation approach for lane detection
+https://github.com/koyeongmin/PINet_new
+
+### Robust and efficient post-processing for Video Object Detection
+https://github.com/AlbertoSabater/Robust-and-efficient-post-processing-for-video-object-detection
+
+#### Review on Object Detection Metrics: 14 object detection metrics including COCO's and PASCAL's metrics. Supporting different bounding box formats.
+https://github.com/rafaelpadilla/review_object_detection_metrics 
+
+Seach Losses of our paper 'Loss Function Discovery for Object Detection via Convergence-Simulation Driven Search', accepted by ICLR 2021.
+https://github.com/PerdonLiu/CSE-Autoloss
+
+#### 基于mmdetection 实现一些轻量级检测模型
+https://github.com/ouyanghuiyu/thundernet_mmdetection
+
+PyTorch code for ICLR 2021 paper Unbiased Teacher for Semi-Supervised Object Detection
+https://github.com/facebookresearch/unbiased-teacher
+
+Unbiased Teacher for Semi-Supervised Object Detection
+https://arxiv.org/abs/2102.09480

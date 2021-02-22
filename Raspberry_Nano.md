@@ -111,3 +111,9 @@ https://github.com/geerlingguy/pi-webcam
 
 TensorFlow Lite Micro：树莓派Pico微控制器可用的TensorFlow Lite
 https://github.com/raspberrypi/pico-tflmicro
+
+pico-mnist：树莓派Pico和TensorFlow Lite实现的简单手写数字识别
+https://github.com/iwatake2222/pico-mnist
+
+spokestack-python：为Python应用提供语音访问界面，可用于开发树莓派的语音控制应用
+https://github.com/spokestack/spokestack-python

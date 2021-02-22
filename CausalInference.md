@@ -30,3 +30,15 @@ https://github.com/causaltext/causal-text-papers
 
 “理解”感知输入序列：用无监督程序合成解答智力测验问题，从很少量数据中产生可解释、人类可读的因果论
 https://github.com/RichardEvans/apperception
+
+Official Repository for ECCV 2020 paper "AiR: Attention with Reasoning Capability"
+https://github.com/szzexpoi/AiR
+
+Implementation for NeurIPS oral paper: Causal Intervention for Weakly-Supervised Semantic Segmentation
+https://github.com/ZHANGDONG-NJUST/CONTA
+
+Tensorflow 2 implementation of Causal-BERT
+https://github.com/vveitch/causal-text-embeddings-tf2
+
+Pytorch implementation of "Adapting Text Embeddings for Causal Inference"
+https://github.com/rpryzant/causal-bert-pytorch

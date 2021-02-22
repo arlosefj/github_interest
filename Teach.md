@@ -181,3 +181,27 @@ https://github.com/logancyang/loss-landscape-anim
 
 Minimal implementations/tutorials of deep learning papers with side-by-side notes; including transformers (original, xl, switch, feedback), optimizers(adam, radam, adabelief), gans(dcgan, cyclegan), reinforcement learning (ppo, dqn), capsnet, sketch-rnn, etc
 https://github.com/lab-ml/nn
+
+【权重可视化】《Visualizing Weights | Distill》
+https://distill.pub/2020/circuits/visualizing-weights/
+
+A Survey on Understanding, Visualizations, and Explanation of Deep Neural Networks
+https://arxiv.org/abs/2102.01792
+
+用Unity 3D实现的CNN交互可视化
+https://github.com/stefsietz/nn-visualizer
+
+《从头学深度学习》随书代码
+https://github.com/SethHWeidman/DLFS_code
+
+visualkeras：Keras/TensorFlow网络架构可视化库
+https://github.com/paulgavrikov/visualkeras
+
+Hyperactive：超参优化和元学习工具箱，用于方便快速建立机器/深度学习模型原型
+https://github.com/SimonBlanke/Hyperactive
+
+OpenCV with Python in 4 Hours：OpenCV/Python四小时使用教程资料
+https://github.com/jasmcaus/opencv-course
+
+### YOLOV4-Tiny：You Only Look Once-Tiny目标检测模型在Pytorch当中的实现'
+https://github.com/bubbliiiing/yolov4-tiny-pytorch

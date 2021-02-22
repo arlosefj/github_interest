@@ -336,3 +336,24 @@ https://github.com/kakaobrain/pororo
 
 基于HanLP的Elasticsearch中文分词器
 https://github.com/KennFalcon/elasticsearch-analysis-hanlp
+
+PaddleNLP 2.0：PaddlePaddle自然语言处理模型库
+https://github.com/PaddlePaddle/PaddleNLP
+
+简洁易用版TinyBert：基于Bert进行知识蒸馏的预训练语言模型
+https://github.com/Lisennlp/TinyBert
+
+中文综述文章列表（自然语言处理&机器学习）
+https://github.com/NiuTrans/CNSurvey
+
+Research code for ACL 2020 paper: "Distilling Knowledge Learned in BERT for Text Generation".
+https://github.com/ChenRocks/Distill-BERT-Textgen
+
+All Word Embeddings from One Embedding
+https://github.com/takase/alone_seq2seq
+
+As good as new. How to successfully recycle English GPT-2 to make models for other languages
+https://github.com/wietsedv/gpt2-recycle
+
+AllenNLP入門
+https://github.com/kajyuuen/allennlp-book

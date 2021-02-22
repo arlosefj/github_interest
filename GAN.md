@@ -781,3 +781,87 @@ https://arxiv.org/abs/2102.00635
 
 Off-Policy Reinforcement Learning for Efficient and Effective GAN Architecture Search
 https://github.com/Yuantian013/E2GAN
+
+Designing an Encoder for StyleGAN Image Manipulation
+https://github.com/omertov/encoder4editing
+
+StyleGAN2 fork with scripts and convenience modifications for creative media synthesis
+https://github.com/aydao/stylegan2-surgery
+
+This is a pytorch implementation of the paper "On Leveraging Pretrained GANs for Limited-Data Generation".
+https://github.com/MiaoyunZhao/GANTransferLimitedData
+
+StyleGAN2 - Official TensorFlow Implementation with practical improvements
+https://github.com/justinpinkney/stylegan2
+
+Official Implementation for "Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation"
+https://github.com/eladrich/pixel2style2pixel
+
+code for our ECCV 2020 spotlight paper "Multimodal Shape Completion via Conditional Generative Adversarial Networks"
+https://github.com/ChrisWu1997/Multimodal-Shape-Completion
+
+StyleGAN2 with adaptive discriminator augmentation (ADA) - Official TensorFlow implementation
+https://github.com/NVlabs/stylegan2-ada
+
+StyleGAN2 with adaptive discriminator augmentation (ADA) - Official TensorFlow implementation
+https://github.com/RoyWheels/stylegan2-ada
+
+Official Implementation of the paper "A U-Net Based Discriminator for Generative Adversarial Networks" (CVPR 2020)
+https://github.com/boschresearch/unetgan
+
+Unsupervised image-to-image translation method via pre-trained StyleGAN2 network
+https://github.com/HideUnderBush/UI2I_via_StyleGAN2
+
+Code for the paper Generate High Resolution Images With Generative Variational Autoencoder
+https://github.com/abhinavsagar/gvae
+
+Code for our Paper "One Model to Reconstruct Them All: A Novel Way to Use the Stochastic Noise in StyleGAN"
+https://github.com/Bartzi/one-model-to-reconstruct-them-all
+
+Few-shot adaptation of GANs.
+https://github.com/e-271/few-shot-gan
+
+Towards a Better Global Loss Landscape of GANs https://arxiv.org/abs/2011.04926
+https://github.com/AilsaF/RS-GAN
+
+This is official PyTorch implementation of ECCV 2020 paper SemanticAdv: Generating Adversarial Examplesvia Attribute-conditioned Image Editing 
+https://github.com/AI-secure/SemanticAdv
+
+Implementation of π-GAN, for 3d-aware image synthesis, in Pytorch
+https://github.com/lucidrains/pi-GAN-pytorch
+
+Taming Transformers for High-Resolution Image Synthesis
+https://github.com/CompVis/taming-transformers
+
+### Pytorch implementation for TediGAN: Text-Guided Diverse Image Generation and Manipulation.
+https://github.com/weihaox/TediGAN
+
+Resolution Dependent GAN Interpolation for Controllable Image Synthesis Between Domains
+https://github.com/justinpinkney/toonify
+
+Official code repository for Instance Selection for GANs.
+https://github.com/uoguelph-mlrg/instance_selection_for_gans
+
+SCGAN: Saliency Map-guided Colorization with Generative Adversarial Network 
+https://github.com/zhaoyuzhi/Semantic-Colorization-GAN
+
+Describe What to Change: A Text-guided Unsupervised Image-to-Image Translation Approach, accepted to ACM International Conference on Multimedia(ACM MM), 2020
+https://github.com/yhlleo/DWC-GAN
+
+Code accompanying the NeurIPS 2020 submission "Teaching a GAN What Not to Learn."
+https://github.com/DarthSid95/RumiGANs
+
+StyleGAN2-ADA - Official PyTorch implementation
+https://github.com/NVlabs/stylegan2-ada-pytorch
+
+### CharacterGAN: Few-Shot Keypoint Character Animation and Reposing
+https://github.com/tohinz/CharacterGAN
+
+"TransGAN: Two Transformers Can Make One Strong GAN",
+https://github.com/VITA-Group/TransGAN
+
+SWAGAN: A Style-based Wavelet-driven Generative Model
+https://arxiv.org/abs/2102.06108
+
+Efficient Conditional GAN Transfer with Knowledge Propagation across Classes
+https://github.com/mshahbazi72/cGANTransfer

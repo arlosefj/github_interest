@@ -639,3 +639,36 @@ https://github.com/apache/superset
 
 通过交互式练习学Vim
 https://www.vim.so/
+
+PDFsam：用于PDF文件页面提取、分割、合并、混合和旋转的开源桌面应用
+https://github.com/torakiki/pdfsam
+
+在浏览器里打开pdf/azw3/epub/mobi等格式电子书
+https://www.loudreader.com/
+
+moving-letters  是一个文字特效网站，提供了几种很不错的效果
+https://github.com/tobiasahlin/moving-letters
+
+Git & Git Flow使用速查
+https://github.com/arslanbilal/git-cheat-sheet
+
+Principais comandos do Git：主要Git命令速查
+https://github.com/gabrieldejesus/git-commands
+
+dogehouse：开源语音聊天室
+https://github.com/benawad/dogehouse
+
+Datoviz: 基于Vulkan的GPU交互式科学数据可视化
+https://github.com/datoviz/datoviz
+
+用ProseMirror, React, Redux开发的交互式科学编辑器
+https://github.com/curvenote/editor
+
+Caiss - 跨平台/多语言的 相似向量/相似词/相似句 高性能检索引擎
+https://github.com/ChunelFeng/caiss
+
+lazyprofiler：CPU, GPU, RAM及GPU内存状态监视工具(Python)
+https://github.com/shankarpandala/lazyprofiler
+
+Perfect Freehand：(TypeScript)完美手写线条库
+https://github.com/steveruizok/perfect-freehand

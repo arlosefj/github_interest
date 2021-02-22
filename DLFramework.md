@@ -113,3 +113,9 @@ https://github.com/xboot/libonnx
 
 ONE (On-device Neural Engine)：三星开源的设备端高性能神经网络推理框架
 https://github.com/Samsung/ONE
+
+RTNeural：C++实现的轻量实时神经网络推理引擎
+https://github.com/jatinchowdhury18/RTNeural
+
+ivy：模板化深度学习框架，支持框架无关的函数、层和库
+https://github.com/ivy-dl/ivy

@@ -638,3 +638,27 @@ https://github.com/phamquiluan/PubLayNet
 
 On Recognizing Texts of Arbitrary Shapes with 2D Self-Attention
 https://github.com/clovaai/SATRN
+
+This is the official implementation of AE TextSpotter, which introduces linguistic information to eliminate the ambiguity in text detection.
+https://github.com/whai362/AE_TextSpotter
+
+RRPN++: Guidance Towards More Accurate Scene Text Detection
+https://github.com/mjq11302010044/RRPN_plusplus
+
+#### Official implementation of paper "TP-LSD: Tri-points based line segment detector" .
+https://github.com/Siyuada7/TP-LSD
+
+MASTER is a scene text recognition model which is based on self-attention mechanism.
+https://github.com/jiangxiluning/MASTER-TF
+
+This repository is the implementation of EraseNet, a neural network for end-to-end scene text removal.
+https://github.com/lcy0604/EraseNet
+
+Pytorch implementation of Training Generative Adversarial Networks by Solving Ordinary Differential Equations.
+https://github.com/nshepperd/ode-gan-pytorch
+
+##### The EPHOIE Dataset for the research of optical character recognition (OCR) and visual information extraction (VIE) in educational documents
+https://github.com/HCIILAB/EPHOIE
+
+### PyTorch Tabular：为表格数据构建深度学习模型的标准框架
+https://github.com/manujosephv/pytorch_tabular

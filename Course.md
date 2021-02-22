@@ -170,3 +170,9 @@ https://ethics-of-ai.mooc.fi/
 
 全栈深度学习训练营(2021)
 https://www.bilibili.com/video/BV1BT4y1P7u6/
+
+斯坦福“机器学习系统设计”课“数据工程”讲义
+https://stanford-cs329s.github.io/syllabus.html
+
+OpenUnivCourses：名校开放机器学习课程集锦
+https://github.com/kabartay/OpenUnivCourses

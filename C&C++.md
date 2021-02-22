@@ -46,3 +46,6 @@ https://github.com/anael-seghezzi/CToy
 
 【subprocess：C++跨平台子进程库】
 https://github.com/benman64/subprocess
+
+Stackoverflow上对C/C++问题的整理、总结和翻译
+https://github.com/EthsonLiu/stackoverflow-top-cpp/tree/master/question

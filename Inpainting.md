@@ -130,3 +130,12 @@ https://github.com/zengxianyu/crfill
 
 Depix：从打码截屏图片中恢复密码字符
 https://github.com/beurtschipper/Depix
+
+Deep Generative Inpainting Network (GIN) for Extreme Image Inpainting
+https://github.com/rlct1/gin
+
+Image Fine-grained Inpainting
+https://github.com/HannH/DMFN
+
+Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting
+https://github.com/duxingren14/Hifill-tensorflow

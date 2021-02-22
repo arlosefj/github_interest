@@ -72,3 +72,12 @@ https://mp.weixin.qq.com/s?__biz=MjM5NTE3NjY5MA==&mid=2247485240&idx=1&sn=6025fa
 
 NNtrainer：嵌入式设备上训练神经网络模型的软件框架
 https://github.com/nnstreamer/nntrainer
+
+Visual Imitation Made Easy
+https://github.com/sarahisyoung/Visual-Imitation-Made-Easy
+
+#### Mcunet: Tiny deep learning on iot devices
+https://github.com/mit-han-lab/tinyml
+
+### AI-on-the-edge-device：边缘设备AI应用实例——远程读表
+https://github.com/jomjol/AI-on-the-edge-device

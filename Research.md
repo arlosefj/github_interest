@@ -98,3 +98,6 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6398294/
 
 撰写 SCI 论文时，有什么好用的软件或者技巧吗？ - 知乎
 https://www.zhihu.com/question/349350653
+
+arXiv论文关联图谱
+https://medium.com/connectedpapers/connected-papers-partners-with-arxiv-8ce8122f6b4c

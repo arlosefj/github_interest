@@ -219,3 +219,27 @@ https://github.com/MCG-NJU/BCN
 
 Official repo for ECCV 2020 paper - RubiksNet: Learnable 3D-Shift for Efficient Video Action Recognition
 https://github.com/StanfordVL/RubiksNet
+
+This repository contains the code implementation used in the paper Temporally Coherent Embeddings for Self-Supervised Video Representation Learning (TCE).
+https://github.com/csiro-robotics/TCE
+
+MotionSqueeze: Neural Motion Feature Learning for Video Understanding
+https://github.com/arunos728/MotionSqueeze
+
+Pytorch implementation of [Late Temporal Modeling in 3D CNN Architectures with BERT for Action Recognition]
+https://github.com/artest08/LateTemporalModeling3DCNN
+
+This repository contains a PyTorch implementation for "X3D: Expanding Architectures for Efficient Video Recognition models"
+https://github.com/kkahatapitiya/X3D-Multigrid
+
+Efficient 3D Backbone Network for Temporal Modeling
+https://github.com/youngwanLEE/VoV3D
+
+MS-TCN++: Multi-Stage Temporal Convolutional Network for Action Segmentation (TPAMI 2020)
+https://github.com/sj-li/MS-TCN2
+
+Motion capture from internet videos
+https://github.com/zju3dv/EasyMocap
+
+A Closer Look at Temporal Sentence Grounding in Videos: Datasets and Metrics
+https://github.com/yytzsy/grounding_changing_distribution

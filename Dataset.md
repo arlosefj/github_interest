@@ -534,3 +534,15 @@ https://github.com/naver-ai/relabel_imagenet
 
 MaskedFace-Net：基于FFHQ数据集的正确/错误佩戴口罩人脸图像数据集
 https://www.sciencedirect.com/science/article/pii/S2352648320300362?via%3Dihub
+
+Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding
+https://github.com/apple/ml-hypersim
+
+SOREL-20M: A Large Scale Benchmark Dataset for Malicious PE Detection
+https://github.com/sophos-ai/SOREL-20M
+
+Source code and dataset for EMNLP 2020 paper "MAVEN: A Massive General Domain Event Detection Dataset".
+https://github.com/THU-KEG/MAVEN-dataset
+
+### 机器学习/深度学习数据集集锦
+https://sebastianraschka.com/blog/2021/ml-dl-datasets.html

@@ -234,3 +234,30 @@ https://github.com/obss/sahi
 
 A deep neural network that directly reconstructs the motion of a 3D human skeleton from monocular video
 https://github.com/Shimingyi/MotioNet
+
+用低耗电蓝牙信标、廉价ESP32探测器和机器学习定位你家猫🐱
+https://github.com/filipsPL/cat-localizer
+
+Motion Retargeting Video Subjects
+https://github.com/carolineec/EverybodyDanceNow
+
+Inferring Body Pose in Egocentric Video via First and Second Person Interactions
+https://github.com/facebookresearch/you2me
+
+### Official Pytorch implementation of the preprint paper "Castle in the Sky: Dynamic Sky Replacement and Harmonization in Videos", in arXiv:2010.11800.
+https://github.com/jiupinjia/SkyAR
+
+### SESAME: Semantic Editing of Scenes by Adding, Manipulating or Erasing Objects
+https://github.com/vglsd/OpenSESAME
+
+[ECCV 2020] "Deep Plastic Surgery: Robust and Controllable Image Editing with Human-Drawn Sketches"
+https://github.com/VITA-Group/DeepPS
+
+Code of the paper entitled "Keep your Eyes on the Lane: Real-time Attention-guided Lane Detection"
+https://github.com/lucastabelini/LaneATT
+
+Indoor Scene Layout Estimation from a Single Image
+https://github.com/leVirve/lsun-room
+
+### Face2webtoon：人脸Webtoon卡通画
+https://github.com/sangyun884/Face2Webtoon

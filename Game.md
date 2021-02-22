@@ -130,3 +130,9 @@ https://github.com/scarsty/kys-cpp
 
 GymGo：基于OpenAI's Gym API的围棋仿真环境
 https://github.com/aigagror/GymGo
+
+MonoGame：跨平台游戏引擎
+https://github.com/MonoGame/MonoGame
+
+Ouzel v0.40：C++跨平台2D游戏引擎
+https://github.com/elnormous/ouzel

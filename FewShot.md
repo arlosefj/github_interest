@@ -241,3 +241,36 @@ https://github.com/shruti-jadon/Hands-on-One-Shot-Learning
 
 Transductive Information Maximization for Few-Shot Learning
 https://github.com/mboudiaf/TIM
+
+Hyperbolic Visual Embedding Learning for Zero-Shot Recognition (CVPR 2020)
+https://github.com/ShaoTengLiu/Hyperbolic_ZSL
+
+Few-shot learning framework for opinion summarization published at EMNLP 2020.
+https://github.com/abrazinskas/FewSum
+
+Few-Shot Learning with Global Class Representations
+https://github.com/tiangeluo/fsl-global
+
+infinite mixture prototypes for few-shot learning
+https://github.com/k-r-allen/imp
+
+Improved Few-Shot Visual Classification
+https://github.com/peymanbateni/simple-cnaps
+
+[ICLR2021 Oral] Free Lunch for Few-Shot Learning: Distribution Calibration
+https://github.com/ShuoYang-1998/Few_Shot_Distribution_Calibration
+
+BriNet: Towards Bridging the Intra-class andInter-class Gaps in One-Shot Segmentation
+https://github.com/Wi-sc/BriNet
+
+A New Meta-Baseline for Few-Shot Learning
+https://github.com/yinboc/few-shot-meta-baseline
+
+PyTorch code for NeurIPSW 2020 paper (4th Workshop on Meta-Learning) "Few-Shot Unsupervised Continual Learning through Meta-Examples"
+https://github.com/alessiabertugli/FUSION
+
+Official codes for 'Multi-Domain Learning for Accurate and Few-Shot Color Constancy'
+https://github.com/msxiaojin/MDLCC
+
+PyTorch implementation for "Few-Shot Learning with Class Imbalance"
+https://github.com/mattochal/imbalanced_fsl_public

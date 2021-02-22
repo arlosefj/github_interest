@@ -72,3 +72,21 @@ https://github.com/weijun88/LDF
 
 ###  Learning Where to Focus for Efficient Video Object Detection
 https://github.com/jiangzhengkai/LSTS
+
+(ECCV 2020) Hierarchical Dynamic Filtering Network for RGB-D Salient Object Detection
+https://github.com/lartpang/HDFNet
+
+Unified Image and Video Saliency Modeling (ECCV 2020)
+https://github.com/rdroste/unisal
+
+Code of Stacked Cross Refinement Network for Edge-Aware Salient Object Detection (ICCV 2019)
+https://github.com/wuzhe71/SCRN
+
+Joint learning of saliency detection and weakly supervised semantic segmentation
+https://github.com/zengxianyu/jsws
+
+Contextual Encoder-Decoder Network for Visual Saliency Prediction [Neural Networks 2020]
+https://github.com/alexanderkroner/saliency
+
+code for CVPR 2020 paper "Interactive Two-Stream Decoder for Accurate and Fast Saliency Detection"
+https://github.com/moothes/ITSD-pytorch

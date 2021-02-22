@@ -94,3 +94,33 @@ https://www.reddit.com/r/MachineLearning/comments/l2q3hh/research_most_ml_resear
 
 Sparsity in Deep Learning: Pruning and growth for efficient inference and training in neural networks
 https://arxiv.org/abs/2102.00554
+
+This repo provides the scripts to test a learned AlexNet's feature representation performance at the five different convolutional levels -- in parallel.
+https://github.com/yukimasano/linear-probes
+
+Learning error bars for neural network predictions
+https://github.com/facebookresearch/SingleModelUncertainty
+
+Gradient Estimation with Stochastic Softmax Tricks
+https://github.com/choidami/sst
+
+An essential implementation of BYOL in PyTorch + PyTorch Lightning
+https://github.com/DonkeyShot21/essential-BYOL
+
+Rethinking soft labels for knowledge distillation: a bias-variance tradeoff perspective
+https://github.com/bellymonster/Weighted-Soft-Label-Distillation
+
+Learning to Initialize Neural Networks for Stable and Efficient Training
+https://github.com/zhuchen03/gradinit
+
+Code based on the ICLR 2021 paper Can a Fruit Fly Learn Word Embeddings?.
+https://github.com/bhoov/flyvec
+
+揭示机器学习中未知的未知
+https://ai.googleblog.com/2021/02/uncovering-unknown-unknowns-in-machine.html
+
+AI的需求层次
+https://medium.com/hackernoon/the-ai-hierarchy-of-needs-18f111fcc007
+
+HYDRA: Hypergradient Data Relevance Analysis for Interpreting Deep Neural Networks
+https://github.com/cyyever/aaai_2021_hydra

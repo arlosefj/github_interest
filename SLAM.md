@@ -113,3 +113,21 @@ https://github.com/gisbi-kim/SC-LIO-SAM
 
 视觉SLAM开发者路线图
 https://github.com/changh95/visual-slam-roadmap
+
+Multi-Sensor Fusion - Multi-Sensor Fusion (GNSS, IMU, Camera) 多源多传感器融合定位 GPS/INS组合导航 PPP/INS紧组合
+https://github.com/2013fangwentao/Multi_Sensor_Fusion
+
+PL-VINS: Real-Time Monocular Visual-Inertial SLAM with Point and Line Features
+https://github.com/cnqiangfu/PL-VINS
+
+Dual-SLAM: A framework for robust single camera navigation
+https://github.com/HuajianUP/Dual_SLAM
+
+A low-cost SLAM system based on camera and Livox lidar.
+https://github.com/ISEE-Technology/CamVox
+
+OV²SLAM is a Fully Online and Versatile Visual SLAM for Real-Time Applications
+https://github.com/ov2slam/ov2slam
+
+ROS-Mobile: An Android application for the Robot Operating System
+https://github.com/ROS-Mobile/ROS-Mobile-Android

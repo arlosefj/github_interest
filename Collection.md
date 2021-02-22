@@ -56,3 +56,9 @@ https://www.paperswithcode.com/datasets
 
 数据科学路线图：从头开始入门数据科学的免费资源
 https://github.com/therealsreehari/Learn-Datascience-for-Free
+
+Papers With Code的机器学习方法库，收录已过千，调研/跟踪的好资料
+https://paperswithcode.com/methods
+
+Papers with Libraries：Papers With Code推出的330+个机器学习模型/库探索工具，支持架构的可视化及模型结果对比
+https://paperswithcode.com/lib/timm

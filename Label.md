@@ -209,3 +209,9 @@ https://github.com/allenai/pawls
 
 Label Studio：支持图片、音频、文本、时序及多模态的开源数据标注工具，v.0.9.0最新发布
 https://github.com/heartexlabs/label-studio
+
+面向计算机视觉和NLP任务的开源标注工具列表
+https://github.com/Machine-Learning-Tokyo/Annotation_Tools
+
+annotorious：JavaScript图像标注库
+https://github.com/recogito/annotorious

@@ -248,3 +248,48 @@ https://arxiv.org/abs/2012.15460
 
 Deep Motion Modeling Network
 https://github.com/shijieS/DMMN
+
+sAP — Code for Towards Streaming Perception
+https://github.com/mtli/sAP
+
+Lifted Disjoint Paths with Application in Multiple Object Tracking
+https://github.com/AndreaHor/LifT_Solver
+
+[ECCV2020] Robust Tracking against Adversarial Attacks
+https://github.com/joshuajss/RTAA
+
+### Implementation of ‘Pose-Guided Tracking-by-Detection: Robust Multi-Person Pose Tracking’ [TMM 2020]
+https://github.com/JDAI-CV/PGPT
+
+Code for "Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction"
+https://github.com/Majiker/STAR
+
+LSOTB-TIR: A Large-Scale High-Diversity Thermal Infrared Object Tracking Benchmark (ACM MM2020)
+https://github.com/QiaoLiuHit/LSOTB-TIR
+
+This repository is the official code implementation of the paper GCNNMatch: Graph Convolutional Neural Networks for Multi-Object Tracking via Sinkhorn Normalization.
+https://github.com/IPapakis/GCNNMatch
+
+This repository is the official code implementation of the paper GCNNMatch: Graph Convolutional Neural Networks for Multi-Object Tracking via Sinkhorn Normalization.
+https://github.com/IPapakis/GCNNMatch
+
+HOTA (and other) evaluation metrics for Multi-Object Tracking (MOT).
+https://github.com/JonathonLuiten/HOTA-metrics
+
+Multiple-Object Tracking with Transformer
+https://github.com/PeizeSun/TransTrack
+
+Siamese Keypoint Prediction Network for Visual Object Tracking
+https://github.com/ZekuiQin/SiamKPN
+
+An exact and efficient min-cost flow algorithm for data-association in multi-object tracking
+https://github.com/yu-lab-vt/muSSP
+
+Quasi-Dense Similarity Learning for Multiple Object Tracking
+https://github.com/SysCV/qdtrack
+
+Joint detection and tracking model named DEFT, or ``Detection Embeddings for Tracking."
+https://github.com/MedChaabane/DEFT
+
+Official PyTorch implementation of "Joint Object Detection and Multi-Object Tracking with Graph Neural Networks"
+https://github.com/yongxinw/GSDT

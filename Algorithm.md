@@ -299,3 +299,9 @@ https://github.com/raj457036/Path-Finding-Visualizer
 
 sorting_algo_visualizer：Python实现的排序算法动画可视化
 https://github.com/mportesi/sorting_algo_visualizer
+
+string_grouper：超快的Python字符串匹配模块
+https://github.com/Bergvca/string_grouper
+
+leetcode-algorithm - 分类整理leetcode算法题解，用c++与python实现
+https://github.com/lxztju/leetcode-algorithm

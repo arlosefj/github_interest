@@ -991,3 +991,66 @@ https://github.com/intel/openfl
 
 "Towards Recognizing Unseen Categories in Unseen Domains"
 https://github.com/mancinimassimiliano/CuMix
+
+(AAAI 2021 Tutorial)元学习教程
+https://sites.google.com/mit.edu/aaai2021metalearningtutorial
+
+Source code for NeurIPS 2020 paper "Meta-Learning with Adaptive Hyperparameters"
+https://github.com/baiksung/ALFA
+
+Source code of ICLR2020 paper 'Towards Fast Adaptation of Neural Architectures with Meta Learning'
+https://github.com/dongzelian/T-NAS
+
+ECCV2020: Hard negative examples are hard, but useful 
+Arxiv link: https://arxiv.org/pdf/2007.12749.pdf https://github.com/littleredxh/HardNegative
+
+TracIn：一种估计训练数据影响的简单方法
+https://ai.googleblog.com/2021/02/tracin-simple-method-to-estimate.html
+
+机器学习面试指南
+https://github.com/alirezadir/machine-learning-interview-enlightener
+
+Implementation of Estimating Training Data Influence by Tracing Gradient Descent (NeurIPS 2020)
+https://github.com/frederick0329/TracIn
+
+[NeurIPS 2020] Coresets for Robust Training of Neural Networks against Noisy Labels
+https://github.com/snap-stanford/crust
+
+An implementation of Deep Forest
+https://github.com/LAMDA-NJU/Deep-Forest
+
+A Cryptographic Inference Service for Neural Networks
+https://github.com/mc2-project/delphi
+
+testing-ml：机器学习代码测试实例
+https://github.com/eugeneyan/testing-ml
+
+EvalML：Python的AutoML库，用来构建、优化和评价机器学习pipeline
+https://github.com/alteryx/evalml
+
+featurewiz：快速Python特征选择库
+https://github.com/AutoViML/featurewiz
+
+Alchemy：元强化学结构化任务分配
+https://github.com/deepmind/dm_alchemy
+
+CS329S机器学习系统部署教程资料
+https://github.com/mrdbourke/cs329s-ml-deployment-tutorial
+
+spotty：AWS/GCP实例深度网络训练简化工具
+https://github.com/spotty-cloud/spotty
+
+机器学习产品化(部署/监控/版本管理与扩展/保护)相关开源资源大列表
+https://github.com/EthicalML/awesome-production-machine-learning
+
+Hub：最快的方式来访问 & 管理 PyTorch/TensorFlow 的数据和建立可扩展性的数据工作流
+https://github.com/activeloopai/Hub
+
+xgbse: XGBoost Survival Embeddings - Improving XGBoost survival analysis with embeddings and debiased estimators'
+https://github.com/loft-br/xgboost-survival-embeddings
+
+“脏”分类数据机器学习包
+https://github.com/dirty-cat/dirty_cat
+
+Responsible-AI-Widgets：微软的负责任AI小部件
+https://github.com/microsoft/responsible-ai-widgets

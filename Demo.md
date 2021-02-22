@@ -574,3 +574,18 @@ https://github.com/BMW-InnovationLab/BMW-Classification-Training-GUI
 
 Hand detection models trained on 100DOH (100 Days of Hands) dataset.
 https://github.com/ddshan/hand_detector.d2
+
+Train robotic agents to learn pick and place with deep learning for vision-based manipulation in PyBullet. Transporter Nets, CoRL 2020.
+https://github.com/google-research/ravens
+
+### 机器学习并发模型部署(Flask + uWSGI)
+https://medium.com/roonyx/ml-model-deployment-option-with-concurrency-flask-uwsgi-4aeafea0d07e
+
+### Rembg Virtual Greenscreen Edition：视频虚拟绿幕抠图工具
+https://github.com/ecsplendid/rembg-greenscreen
+
+用CLIP/StyleGAN实现的基于文本的图片编辑
+https://github.com/orpatashnik/StyleCLIP
+
+QDServing - 机器学习模型分布式服务部署：grpc，flask；docke
+https://github.com/MachineLP/QDServing

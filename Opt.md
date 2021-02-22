@@ -266,3 +266,39 @@ https://github.com/intel/lpot
 
 ### micronet：深度网络模型压缩与部署库
 https://github.com/666DZY666/micronet
+
+Using ideas from product quantization for state-of-the-art neural network compression.
+https://github.com/uber-research/permute-quantize-finetune
+
+A GPU algorithm for sparse matrix-matrix multiplication
+https://github.com/oresths/tSparse
+
+Parallel Hyperparameter Optimization in Python
+https://github.com/ARM-software/mango
+
+source code of the paper: Robust Quantization: One Model to Rule Them All
+https://github.com/moranshkolnik/RobustQuantization
+
+Code and checkpoints of compressed networks for the paper titled "HYDRA: Pruning Adversarially Robust Neural Networks" (NeurIPS 2020)
+https://github.com/inspire-group/hydra
+
+GPU implementation of Xnor network on inference level.
+https://github.com/metcan/Binary-Convolutional-Neural-Network-Inference-on-GPU
+
+### Towards Optimal Structured CNN Pruning via Generative Adversarial Learning(GAL)
+https://github.com/ShaohuiLin/GAL
+
+TensorRT implementation of "RepVGG: Making VGG-style ConvNets Great Again"
+https://github.com/upczww/TensorRT-RepVGG
+
+Pushing the Limit of Post-Training Quantization by Block Reconstruction
+https://github.com/yhhhli/BRECQ
+
+Sparsify：易用的autoML神经网络稀疏化优化接口
+https://github.com/neuralmagic/sparsify
+
+### DeepSparse Engine：用稀疏化模型提供前所未有性能的CPU推理引擎
+https://github.com/neuralmagic/deepsparse
+
+神经网络量化/低位定点训练硬件友好算法设计相关资料集
+https://github.com/A-suozhang/awesome-quantization-and-fixed-point-training

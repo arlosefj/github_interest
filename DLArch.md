@@ -389,23 +389,140 @@ https://github.com/wangyouze/GNN-algorithms
 面向超深度神经网络训练的层内归一化技术
 https://theaisummer.com/normalization/
 
-### 用编程方式理解Transformers
-https://towardsdatascience.com/understanding-transformers-the-programming-way-f8ed22d112b2
-
 Performer：具有线性扩展注意力机制的Transformer架构
 https://ai.googleblog.com/2020/10/rethinking-attention-with-performers.html
 
 GraphGym：用于设计和评价图神经网络(GNN)的实验平台
 https://github.com/snap-stanford/GraphGym
 
-transformer的十七大变种优化
-https://mp.weixin.qq.com/s/k5XkAwcXkyi9ymFUIej_iw
-
-Transformers与图神经网络
-https://github.com/chaitjo/gated-graph-transformers
-
-### Transformer语言模型可视化解析
-https://jalammar.github.io/explaining-transformers/
-
 The EfficientDet Architecture in PyTorch
 https://amaarora.github.io/2021/01/13/efficientdet-pytorch.html
+
+MEAL V2: Boosting Vanilla ResNet-50 to 80%+ Top-1 Accuracy on ImageNet without Tricks
+https://github.com/szq0214/MEAL-V2
+
+Making Sense of CNNs: Interpreting Deep Representations & Their Invariances
+https://github.com/CompVis/invariances
+
+Asymmetric Loss For Multi-Label Classification
+https://github.com/Alibaba-MIIL/ASL
+
+Pytorch code for view-GCN [CVPR2020].
+https://github.com/weixmath/view-GCN
+
+### Implementation of LambdaNetworks, a new approach to image recognition that reaches SOTA with less compute
+https://github.com/lucidrains/lambda-networks
+
+Multi-level Wavelet Convolutional Neural Networks
+https://github.com/lpj-github-io/MWCNNv2
+
+Transferable Recognition-Aware Image Processing
+https://github.com/liuzhuang13/Transferable_RA
+
+This is a partial implementation of Generative Teaching Networks
+https://github.com/GoodAI/GTN
+
+A general framework for inferring CNNs efficiently. Reduce the inference latency of MobileNet-V3 by 1.3x on an iPhone XS Max without sacrificing accuracy.
+https://github.com/blackfeather-wang/GFNet-Pytorch
+
+CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances (NeurIPS 2020)
+https://github.com/alinlab/CSI
+
+Codebase for Learning Invariances in Neural Networks
+https://github.com/g-benton/learning-invariances
+
+### This repo contains the code for the paper Rethinking Bottleneck Structure for Efficient Mobile Network Design (ECCV 2020)
+https://github.com/yitu-opensource/MobileNeXt
+
+MONeT framework for reducing memory consumption of DNN training
+https://github.com/utsaslab/MONeT
+
+Primal-Dual Mesh Convolutional Neural Networks
+https://github.com/MIT-SPARK/PD-MeshNet
+
+### Original PyTorch implementation of "Gradient Boosting Neural Networks: GrowNet"
+https://github.com/sbadirli/GrowNet
+
+FeatGraph: A Flexible and Efficient Backend for Graph Neural Network Systems
+https://github.com/amazon-research/FeatGraph
+
+TensorFlow implementation of "ResNeSt: Split-Attention Networks"
+https://github.com/YeongHyeon/ResNeSt-TF2
+
+This repository provides the code for training with Correctness Ranking Loss presented in the paper "Confidence-Aware Learning for Deep Neural Networks" accepted to ICML2020.
+https://github.com/daintlab/confidence-aware-learning
+
+### [Paper] SplitNet: Divide and Co-training. Also, an image classification toolbox includes ResNet, Wide-ResNet, ResNeXt, ResNeSt, ResNeXSt, SENet, Shake-Shake, DenseNet, PyramidNet, and EfficientNet.
+https://github.com/mzhaoshuai/SplitNet-Divide-and-Co-training
+
+This is the code for the ICML'20 paper "Rethinking Bias-Variance Trade-off for Generalization of Neural Networks".
+https://github.com/yaodongyu/Rethink-BiasVariance-Tradeoff
+
+Official code release for paper "Improving Confidence Estimates for Unfamiliar Examples"
+https://github.com/lizhitwo/ConfidenceEstimates
+
+### This repository contains PyTorch evaluation code, training code and pretrained models for DeiT (Data-Efficient Image Transformers).
+https://github.com/facebookresearch/deit
+
+Learning from Failure: Training Debiased Classifier from Biased Classifier (NeurIPS 2020)
+https://github.com/alinlab/LfF
+
+Codes and datasets for AAAI-2021 paper "Learning to Pre-train Graph Neural Networks"
+https://github.com/rootlu/L2P-GNN
+
+### Simple Numpy implementation of the FAVOR+ attention mechanism introduce in Rethinking Attention with Performers 
+https://github.com/teddykoker/performer
+
+PyTorch and Torch implementation for our accepted CVPR 2020 paper (Oral): Controllable Orthogonalization in Training DNNs
+https://github.com/huangleiBuaa/ONI
+
+### This repo contains the code for the paper Rethinking Bottleneck Structure for Efficient Mobile Network Design
+https://github.com/zhoudaquan/rethinking_bottleneck_design
+
+PyTorch implementation of Lambda Network and pretrained Lambda-ResNet
+https://github.com/d-li14/lambda.pytorch
+
+AAAI'21: Data Augmentation for Graph Neural Networks
+https://github.com/zhao-tong/GAug
+
+[ICLR 2021] "Neural Architecture Search on ImageNet in Four GPU Hours: A Theoretically Inspired Perspective"
+https://github.com/VITA-Group/TENAS
+
+Implementation of Hang et al. 2020 "Hyperspectral Image Classification with Attention Aided CNNs" for tree species prediction
+https://github.com/weecology/DeepTreeAttention
+
+Semantic Segmentation PyTorch code for our paper: Pyramidal Convolution: Rethinking Convolutional Neural Networks for Visual Recognition
+https://github.com/iduta/pyconvsegnet
+
+Code for the paper "Contrastive Clustering"
+https://github.com/Yunfan-Li/Contrastive-Clustering
+
+This is an official implementation of our CVPR 2020 paper "Non-Local Neural Networks With Grouped Bilinear Attentional Transforms".
+https://github.com/BA-Transform/BAT-Image-Classification
+
+Implementation of Spectral Leakage and Rethinking the Kernel Size in CNNs in Pytorch
+https://github.com/EvgenyKashin/non-leaking-conv
+
+FcaNet: Frequency Channel Attention Networks
+https://github.com/cfzd/FcaNet
+
+Code for our ICASSP 2021 paper: SA-Net: Shuffle Attention for Deep Convolutional Neural Networks
+https://github.com/wofmanaf/SA-Net
+
+NFNets and Adaptive Gradient Clipping for SGD implemented in PyTorch
+https://github.com/vballoli/nfnets-pytorch
+
+This repository provides a minimal implementation of adaptive gradient clipping (AGC) (as proposed in High-Performance Large-Scale Image Recognition Without Normalization1) in TensorFlow 2. 
+https://github.com/sayakpaul/Adaptive-Gradient-Clipping
+
+图机器学习入门指南
+https://gordicaleksa.medium.com/how-to-get-started-with-graph-machine-learning-afa53f6f963a
+
+NitroML：面向机器学习和AutoML的模块化、可移植和可扩展的模型质量基准框架
+https://github.com/google/nitroml
+
+Model Search：大规模模型架构搜索AutoML算法框架
+https://github.com/google/model_search
+
+Pre-trained NFNets with 99% of the accuracy of the official paper "High-Performance Large-Scale Image Recognition Without Normalization".
+https://github.com/benjs/nfnets_pytorch

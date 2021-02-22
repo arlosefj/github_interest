@@ -261,3 +261,46 @@ https://github.com/alterzero/STARnet
 
 Video Stylization Using Few-Shot Patch-Based Training
 https://github.com/OndrejTexler/Few-Shot-Patch-Based-Training
+
+Winning solution of AIM2020 VTSR Challenge (video interpolation). EQVI-Enhanced Quadratic Video Interpolation.
+https://github.com/lyh-18/EQVI
+
+PyTorch Implementation of "Video Frame Interpolation via Residue Refinement"
+https://github.com/HopLee6/RRIN
+
+The implementation of FDCNN in paper - A Feature Difference Convolutional Neural Network-Based Change Detection Method
+https://github.com/MinZHANG-WHU/FDCNN
+
+Code for NeurIPS 2020 paper: Blind Video Temporal Consistency via Deep Video Prior
+https://github.com/ChenyangLEI/deep-video-prior
+
+Source code for CVPR 2020 paper "Scene-Adaptive Video Frame Interpolation via Meta-Learning"
+https://github.com/myungsub/meta-interpolation
+
+### RIFE: Real Time Video Frame Rate Enhancement
+https://github.com/hzwer/arXiv2020-RIFE
+
+Implementation of “Video Deblurring by Fitting to Test Data“:
+https://github.com/xrenaa/deblur-by-fitting
+
+Deep Learning for Vision-based Prediction
+https://github.com/aras62/vision-based-prediction
+
+Official implementation of Paper "Future Video Synthesis With Object Motion Prediction"
+https://github.com/YueWuHKUST/FutureVideoSynthesis
+
+视频帧插值(VFI)相关资源列表
+https://github.com/lyh-18/Video-Frame-Interpolation-Collections
+
+Neural Re-rendering for Full-frame Video Stabilization
+https://arxiv.org/abs/2102.06205 https://alex04072000.github.io/NeRViS/
+
+Squirrel Video Frame Interpolation - 效果更好的补帧软件，显存占用更小，是DAIN速度的10-25倍，包含抽帧处理，去除动漫卡顿感'
+https://github.com/YiWeiHuang-stack/Squirrel-RIFE
+
+真正的“防抖神器”——基于神经网络重渲染的整帧视频稳定 https://alex04072000.github.io/NeRViS/
+Neural Re-rendering for Full-frame Video Stabilization
+https://github.com/alex04072000/Nervis
+
+FFmpeg相关资源大列表
+https://github.com/transitive-bullshit/awesome-ffmpeg

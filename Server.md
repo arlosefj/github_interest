@@ -220,3 +220,9 @@ https://swissarmydevops.com/wp-content/uploads/2020/11/Docker_Cheat_Sheet-1.pdf
 
 ### whaler：docker镜像磁盘使用可视化分析工具
 https://github.com/treebeardtech/whaler
+
+### Nimble: Lightweight and Parallel GPU Task Scheduling for Deep Learning
+https://github.com/snuspl/nimble
+
+AntMan: Dynamic Scaling on GPU Clusters for Deep Learning
+https://github.com/alibaba/GPU-scheduler-for-deep-learning

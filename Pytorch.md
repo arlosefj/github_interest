@@ -609,3 +609,24 @@ https://efficientdl.com/faster-deep-learning-in-pytorch-a-guide/
 
 VISSL：基于PyTorch的最先进图像自监督学习库
 https://github.com/facebookresearch/vissl
+
+Pytorch Image Models (timm)：Ross Wightman创建的深度学习库，集合了SOTA计算机视觉模型、层、实用程序、优化器、调度器、数据加载器等
+https://github.com/fastai/timmdocs
+
+Lightning Flash：基于PyTorch Lightning的快速原型化、基线化和微调可扩展深度学习模型任务集合
+https://medium.com/pytorch/introducing-lightning-flash-the-fastest-way-to-get-started-with-deep-learning-202f196b3b98
+
+This is my implementation of the experiment in the paper of fixmatch. 
+https://github.com/CoinCheung/fixmatch-pytorch
+
+A PyTorch implementation of our proposed loss function from the paper "SimLoss: Class Similarities in Cross Entropy"
+https://github.com/konstantinkobs/SimLoss
+
+用ONNX/Torchscript加快BERT推理速度
+https://towardsdatascience.com/an-empirical-approach-to-speedup-your-bert-inference-with-onnx-torchscript-91da336b3a41
+
+Quickvision：易用的PyTorch计算机视觉库
+https://github.com/Quick-AI/quickvision
+
+storchastic：PyTorch随机深度学习库
+https://github.com/HEmile/storchastic

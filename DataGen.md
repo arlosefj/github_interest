@@ -288,3 +288,81 @@ https://github.com/Jia-Research-Lab/GridMask
 
 Semantic Image Manipulation Using Scene Graphs
 https://he-dhamo.github.io/SIMSG/#download
+
+Adversarial score matching and improved sampling for image generation
+https://github.com/AlexiaJM/AdversarialConsistentScoreMatching
+
+Probing Learning Algorithms with Synthetic Datasets
+https://github.com/ElementAI/synbols
+
+ForkGAN: Seeing into the rainy night. ECCV 2020 (oral). A task-agnostic image translation framework that can boost multiple vision tasks in adverse weather conditions, including localization, semantic segmentation and object detection.
+https://github.com/zhengziqiang/ForkGAN
+
+Implementation of Semantic Pyramid for Image Generation
+https://github.com/rosinality/semantic-pyramid-pytorch
+
+### ScrabbleGAN: Semi-Supervised Varying Length Handwritten Text Generation (CVPR20)
+https://github.com/amzn/convolutional-handwriting-gan
+
+This repository contains official code (in MATLAB) for exploring and visualizing HUMBI dataset introduced in the paper "HUMBI: A Large Multiview Dataset of Human Body Expressions"
+https://github.com/zhixuany/HUMBI
+
+This code repository presents the pytorch implementation of the paper “Structure-Aware Human-ActionGeneration”(ECCV 2020).
+https://github.com/PingYu-iris/SA-GCN
+
+House-GAN: Relational Generative Adversarial Networks for Graph-constrained House Layout Generation
+https://github.com/ennauata/housegan
+
+### Code for paper "SketchyCOCO: Image Generation from Freehand Scene Sketches"
+https://github.com/sysu-imsl/EdgeGAN
+
+The official implement of paper "Unsupervised Few-Shot Learning via Distribution Shift-based Augmentation"
+https://github.com/WonderSeven/ULDA
+
+The unofficial tensorflow implementation of Swapping Autoencoder for Deep Image Manipulation
+https://github.com/zhangqianhui/Swapping-Autoencoder-tf
+
+Official PyTorch implementation of 'RELATE: Physically Plausible Multi-Object SceneSynthesis Using Structured Latent Spaces'.
+https://github.com/hyenal/relate
+
+Learning Temporally Invariant and Localizable Features via Data Augmentation for Video Recognition (ECCVW 2020)
+https://github.com/taeoh-kim/temporal_data_augmentation
+
+[NeurIPS'20] GradAug: A New Regularization Method for Deep Neural Networks
+https://github.com/taoyang1122/GradAug
+
+A PyTorch implementation of CVPR2020 paper Adversarial examples improve image recognition
+https://github.com/tingxueronghua/pytorch-classification-advprop
+
+Exemplar VAE: Linking Generative Models, Nearest Neighbor Retrieval, and Data Augmentation
+https://github.com/sajadn/Exemplar-VAE
+
+Semantic Image Synthesis via Efficient Class-Adaptive Normalization
+https://github.com/tzt101/CLADE
+
+Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis
+https://github.com/gaborvecsei/SLE-GAN
+
+The pytorch implementation for the paper "Self-Supervised Sketch-to-Image Synthesis" in AAAI-2021
+https://github.com/odegeasslbc/Self-Supervised-Sketch-to-Image-Synthesis-PyTorch
+
+Code for "OnlineAugment: Online Data Augmentation with Less Domain Knowledge" (ECCV 2020)
+https://github.com/zhiqiangdon/online-augment
+
+Code for the ECCV2020 paper "Shape and Viewpoint without Keypoints".
+https://github.com/shubham-goel/ucmr
+
+Flow-based generative model for 3D point clouds.
+https://github.com/Regenerator/dpf-nets
+
+Official repository for the "Unadversarial Examples: Designing Objects for Robust Vision" paper
+https://github.com/microsoft/unadversarial
+
+Official implementation of the ICLR 2021 paper "You Only Need Adversarial Supervision for Semantic Image Synthesis"
+https://github.com/boschresearch/OASIS
+
+Full-Glow: Fully conditional Glow for more realistic image generation
+https://github.com/MoeinSorkhei/glow2
+
+Colorization Transformer
+https://github.com/google-research/google-research/tree/master/coltran

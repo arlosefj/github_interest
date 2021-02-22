@@ -101,3 +101,33 @@ https://github.com/Charmve/Surface-Defect-Detection
 
 Learning Memory-guided Normality for Anomaly Detection
 https://github.com/cvlab-yonsei/MNAD
+
+Official implementation of "Classification-Based Anomaly Detection for General Data" by Liron Bergman and Yedid Hoshen, ICLR 2020.
+https://github.com/lironber/GOAD
+
+Source code of the KDD19 paper "Deep anomaly detection with deviation networks", weakly/partially supervised anomaly detection, few-shot anomaly detection
+https://github.com/GuansongPang/deviation-network
+
+This is the official repository to the WACV 2021 paper "Same Same But DifferNet: Semi-Supervised Defect Detection with Normalizing Flows" by Marco Rudolph, Bastian Wandt and Bodo Rosenhahn.
+https://github.com/marco-rudolph/differnet
+
+### Patch SVDD for Image anomaly detection. Paper: https://arxiv.org/abs/2006.16067 (published in ACCV 2020).
+https://github.com/nuclearboy95/Anomaly-Detection-PatchSVDD-PyTorch
+
+Sub-Image Anomaly Detection with Deep Pyramid Correspondences (SPADE) in PyTorch
+https://github.com/byungjae89/SPADE-pytorch
+
+Repository for the paper "Rethinking Assumptions in Anomaly Detection"
+https://github.com/lukasruff/Classification-AD
+
+Automating Outlier Detection via Meta-Learning (Code, API, and Contribution Instructions)
+https://github.com/yzhao062/MetaOD
+
+This is an unofficial implementation of the paper “PaDiM: a Patch Distribution Modeling Framework for Anomaly Detection and Localization”.
+https://github.com/xiahaifeng1995/PaDiM-Anomaly-Detection-Localization-master
+
+Feature Space Singularity for Out-of-Distribution Detection.
+https://github.com/megvii-research/FSSD_OoD_Detection
+
+We propose a theoretically motivated method, Adversarial Training with informative Outlier Mining (ATOM), which improves the robustness of OOD detection to various types of adversarial OOD inputs and establishes state-of-the-art performance.
+https://github.com/jfc43/informative-outlier-mining

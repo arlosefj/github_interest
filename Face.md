@@ -520,3 +520,33 @@ https://github.com/keijiro/EmotionFerPlus
 
 “换脸”检测相关文献/笔记集
 https://github.com/592McAvoy/fake-face-detection
+
+Official repository of the paper "HiFaceGAN: Face Renovation via Collaborative Suppression and Replenishment".
+https://github.com/Lotayou/Face-Renovation
+
+### Explainable Face Recognition ECCV 2020 Paper code and dataset repository
+https://github.com/stresearch/xfr
+
+Face editing in Runway：Runway里实现的人脸编辑
+https://github.com/justinpinkney/pixel2style2pixel
+
+Multitask-Emotion-Recognition-with-Incomplete-Labels
+https://github.com/wtomin/Multitask-Emotion-Recognition-with-Incomplete-Labels
+
+### Unofficial PyTorch Implementation for FaceShifter
+https://github.com/mindslab-ai/faceshifter
+
+"Data-specific Adaptive Threshold for Face Recognition and Authentication,"
+https://github.com/ivclab/Online-Face-Recognition-and-Authentication
+
+Face Identity Disentanglement via Latent Space Mapping [SIGGRAPH ASIA 2020]
+https://github.com/YotamNitzan/ID-disentanglement
+
+Loss Function Search for Face Recognition
+https://github.com/tiandunx/loss_function_search
+
+BlazeFace TFLite Inference - Python scripts to detect faces in Python with the BlazeFace Tensorflow Lite models
+https://github.com/ibaiGorordo/BlazeFace-TFLite-Inference
+
+Face Anti-Spoofer：基于深度学习的人脸反欺骗
+https://github.com/trushkin-ilya/face-anti-spoofer
