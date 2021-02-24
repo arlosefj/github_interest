@@ -8,3 +8,5 @@
 
 ![大干一场](https://arloseimg.oss-cn-hangzhou.aliyuncs.com/20200921082608.png)
 
+查全率与查准率
+![](https://arloseimg.oss-cn-hangzhou.aliyuncs.com/20210224095702.png)

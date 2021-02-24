@@ -226,3 +226,6 @@ https://github.com/snuspl/nimble
 
 AntMan: Dynamic Scaling on GPU Clusters for Deep Learning
 https://github.com/alibaba/GPU-scheduler-for-deep-learning
+
+深入浅出 K8s'
+https://github.com/wx-chevalier/K8s-Series

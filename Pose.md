@@ -347,3 +347,6 @@ https://github.com/shrubb/latent-pose-reenactment
 
 RealHePoNet: Keras实现的单级ConvNet头部姿态估计
 https://github.com/rafabs97/headpose_final
+
+Mixture Dense Regression for Object Detection and Human Pose Estimation
+https://github.com/alivaramesh/MixtureDenseRegression

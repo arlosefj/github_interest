@@ -124,3 +124,6 @@ https://arxiv.org/abs/2102.04016
 
 The pytorch implementation for "SNUNet-CD: A Densely Connected Siamese Network for Change Detection of VHR Images"
 https://github.com/likyoo/Siam-NestedUNet
+
+Pytorch Implementation of Unifying Deep Local and Global Features for Image Search (DELG)
+https://github.com/feymanpriv/DELG

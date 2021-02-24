@@ -550,3 +550,6 @@ https://github.com/ibaiGorordo/BlazeFace-TFLite-Inference
 
 Face Anti-Spoofer：基于深度学习的人脸反欺骗
 https://github.com/trushkin-ilya/face-anti-spoofer
+
+### CompreFace：开源人脸识别系统
+https://github.com/exadel-inc/CompreFace

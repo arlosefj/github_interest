@@ -630,3 +630,6 @@ https://github.com/Quick-AI/quickvision
 
 storchastic：PyTorch随机深度学习库
 https://github.com/HEmile/storchastic
+
+Kindle - 无需代码的PyTorch简单模型构建包
+https://github.com/JeiKeiLim/kindle

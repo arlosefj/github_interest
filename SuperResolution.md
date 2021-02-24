@@ -280,3 +280,6 @@ https://github.com/junpan19/VSR_TGA
 
 Official repository containing code and other material from the paper "Efficient Video Super-Resolution through Recurrent Latent Space Propagation"
 https://github.com/dariofuoli/RLSP
+
+Learning Cascaded Convolutional Networks for Blind Single Image Super-Resolution
+https://github.com/lpj0/CBSR

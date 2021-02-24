@@ -1083,3 +1083,9 @@ https://github.com/DebeshJha/2020-CBMS-DoubleU-Net
 
 ### Puzzle-CAM: Improved localization via matching partial and full features.
 https://github.com/OFRIN/PuzzleCAM
+
+Pytorch Code for "Medical Transformer: Gated Axial-Attention for Medical Image Segmentation"
+https://github.com/jeya-maria-jose/Medical-Transformer
+
+[NeurIPS 2020] Disentangling Human Error from the Ground Truth in Segmentation of Medical Images
+https://github.com/moucheng2017/Learn_Noisy_Labels_Medical_Images

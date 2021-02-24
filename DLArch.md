@@ -526,3 +526,19 @@ https://github.com/google/model_search
 
 Pre-trained NFNets with 99% of the accuracy of the official paper "High-Performance Large-Scale Image Recognition Without Normalization".
 https://github.com/benjs/nfnets_pytorch
+
+### SCOUTER: Slot Attention-based Classifier for Explainable Image Recognition
+可解释性
+https://github.com/wbw520/scouter
+![](https://arloseimg.oss-cn-hangzhou.aliyuncs.com/20210224090954.png)
+
+GradInit: Learning to Initialize Neural Networks for Stable and Efficient Training
+https://arxiv.org/abs/2102.08098 https://github.com/zhuchen03/gradinit
+
+图神经网络理论基础
+https://www.bilibili.com/video/bv1iy4y1h7pT
+https://www.youtube.com/watch?v=uF53xsT7mjc 
+https://petar-v.com/talks/GNN-Wednesday.pdf
+
+### GNN_note - 图神经网络整理(相关论文和笔记)
+https://github.com/joeat1/GNN_note

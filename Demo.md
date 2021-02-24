@@ -589,3 +589,6 @@ https://github.com/orpatashnik/StyleCLIP
 
 QDServing - 机器学习模型分布式服务部署：grpc，flask；docke
 https://github.com/MachineLP/QDServing
+
+### CompreFace：开源人脸识别系统
+https://github.com/exadel-inc/CompreFace

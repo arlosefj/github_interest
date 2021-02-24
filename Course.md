@@ -176,3 +176,6 @@ https://stanford-cs329s.github.io/syllabus.html
 
 OpenUnivCourses：名校开放机器学习课程集锦
 https://github.com/kabartay/OpenUnivCourses
+
+麻省理工学院开源了2400门课程的录像和内容，涵盖了计算机科学、人工智能、算法等。
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/

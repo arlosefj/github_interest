@@ -220,3 +220,6 @@ https://github.com/lebrice/Sequoia
 
 MTEnv：强化学习多任务环境
 https://github.com/facebookresearch/mtenv
+
+### rlberry：面向研究和教育的易用强化学习Python库
+https://github.com/rlberry-py/rlberry

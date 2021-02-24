@@ -392,3 +392,9 @@ https://arxiv.org/abs/2102.08981
 
 Transformer及其应用参考资料汇编
 https://elvissaravia.substack.com/p/learn-about-transformers-a-recipe
+
+Inferring spatial relations from textual descriptions of images
+https://arxiv.org/abs/2102.00997 https://github.com/ixa-ehu/rec-coco
+
+The source code of ACL 2020 paper: "Cross-Modality Relevance for Reasoning on Language and Vision"
+https://arxiv.org/abs/2005.06035 https://github.com/HLR/Cross_Modality_Relevance

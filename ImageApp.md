@@ -916,3 +916,6 @@ https://github.com/fab-jul/RC-PyTorch
 
 BEBLID: Boosted Efficient Binary Local Image Descriptor
 https://github.com/iago-suarez/BEBLID
+
+pierogis：Python图像/动画处理框架
+https://github.com/pierogis/pierogis

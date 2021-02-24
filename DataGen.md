@@ -366,3 +366,12 @@ https://github.com/MoeinSorkhei/glow2
 
 Colorization Transformer
 https://github.com/google-research/google-research/tree/master/coltran
+
+Official implementation of the paper Image Generators with Conditionally-Independent Pixel Synthesis https://arxiv.org/abs/2011.13775
+https://github.com/saic-mdal/CIPS
+
+K-Hairstyle: A Large-scale Korean hairstyle dataset for virtual hair editing and hairstyle classification
+https://arxiv.org/abs/2102.06288
+
+SDMetrics：合成数据集质量/功效评价指标
+https://github.com/sdv-dev/SDMetrics

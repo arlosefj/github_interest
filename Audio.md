@@ -460,3 +460,6 @@ https://huggingface.co/facebook/wav2vec2-base-960h
 
 LightSpeech: Lightweight and Fast Text to Speech with Neural Architecture Search
 https://arxiv.org/abs/2102.04040
+
+End-to-end Audio-visual Speech Recognition with Conformers
+https://arxiv.org/abs/2102.06657
