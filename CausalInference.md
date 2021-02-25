@@ -42,3 +42,6 @@ https://github.com/vveitch/causal-text-embeddings-tf2
 
 Pytorch implementation of "Adapting Text Embeddings for Causal Inference"
 https://github.com/rpryzant/causal-bert-pytorch
+
+Towards Causal Representation Learning
+https://arxiv.org/abs/2102.11107

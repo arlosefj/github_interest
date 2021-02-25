@@ -106,7 +106,7 @@ https://github.com/cshizhe/asg2cap
 Fine-grained Video-Text Retrieval with Hierarchical Graph Reasoning
 https://github.com/cshizhe/hgr_v2t
 
-The repository of ECCV 2020 paper `Active Visual Information Gathering for Vision-Language Navigation
+The repository of ECCV 2020 paper Active Visual Information Gathering for Vision-Language Navigation
 https://github.com/HanqingWangAI/Active_VLN
 
 Code for the CVPR 2020 oral paper: Weakly Supervised Visual Semantic Parsing
@@ -398,3 +398,12 @@ https://arxiv.org/abs/2102.00997 https://github.com/ixa-ehu/rec-coco
 
 The source code of ACL 2020 paper: "Cross-Modality Relevance for Reasoning on Language and Vision"
 https://arxiv.org/abs/2005.06035 https://github.com/HLR/Cross_Modality_Relevance
+
+Text-to-Image Generation Grounded by Fine-Grained User Attention
+https://github.com/google-research/trecs_image_generation
+
+### Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions
+https://github.com/whai362/PVT
+
+Position Information in Transformers: An Overview
+https://arxiv.org/abs/2102.11090

@@ -919,3 +919,6 @@ https://github.com/iago-suarez/BEBLID
 
 pierogis：Python图像/动画处理框架
 https://github.com/pierogis/pierogis
+
+Awesome Low-light Enhancement：低光照图像增强相关文献资源列表
+https://github.com/Elin24/Awesome-Low-Light-Enhancement

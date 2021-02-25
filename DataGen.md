@@ -375,3 +375,6 @@ https://arxiv.org/abs/2102.06288
 
 SDMetrics：合成数据集质量/功效评价指标
 https://github.com/sdv-dev/SDMetrics
+
+Style and Pose Control for Image Synthesis of Humans from a Single Monocular View
+https://arxiv.org/abs/2102.11263
