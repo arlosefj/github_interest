@@ -2,7 +2,7 @@
 深度图像先验揭秘：图像恢复入门
 https://towardsdatascience.com/demystifying-deep-image-prior-7076e777e5ba
 
-# Image Inpainting for Irregular Holes Using Partial Convolutions
+### Image Inpainting for Irregular Holes Using Partial Convolutions
 https://github.com/MathiasGruber/PConv-Keras
 python3.6+keras+tf
 https://arxiv.org/abs/1804.07723
@@ -73,7 +73,7 @@ https://github.com/shepnerd/inpainting_gmcnn
 Tensorflow implementation of Semantic Image Inpainting with Deep Generative Models
 https://github.com/ChengBinJin/semantic-image-inpainting
 
-# video inpainting
+### video inpainting
 https://github.com/jajatikr/Video-Inpainting
 keras+tf
 
