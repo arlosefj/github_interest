@@ -786,3 +786,6 @@ https://github.com/facebookresearch/unbiased-teacher
 
 Unbiased Teacher for Semi-Supervised Object Detection
 https://arxiv.org/abs/2102.09480
+
+### QuarkDet lightweight object detection in PyTorch .Real-Time Object Detection on Mobile Devices.
+https://github.com/shaoshengsong/quarkdet
