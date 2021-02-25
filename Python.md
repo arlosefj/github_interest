@@ -692,3 +692,6 @@ https://github.com/idom-team/idom
 
 数据科学十大Jupyter Notebook扩展(2021版)
 https://towardsdatascience.com/10-useful-jupyter-notebook-extensions-for-a-data-scientist-bd4cb472c25e
+
+### python开发手机应用 kivy
+https://realpython.com/mobile-app-kivy-python/

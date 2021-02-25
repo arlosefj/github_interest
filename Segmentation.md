@@ -823,9 +823,6 @@ https://github.com/Yaoyi-Li/HOP-Matting
 This is the pytorch implementation of the CVPR2020 paper "Memory aggregation networks for efficient interactive video object segmentation".
 https://github.com/lightas/CVPR2020_MANet
 
-SipMask: Spatial Information Preservation for Fast Image and Video Instance Segmentation (ECCV2020)
-https://github.com/JialeCao001/SipMask
-
 Semi-supervised semantic segmentation needs strong, varied perturbations
 https://github.com/Britefury/cutmix-semisup-seg
 
