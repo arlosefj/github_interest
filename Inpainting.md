@@ -139,3 +139,6 @@ https://github.com/HannH/DMFN
 
 Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting
 https://github.com/duxingren14/Hifill-tensorflow
+
+Flow-edge Guided Video Completion
+https://github.com/vt-vl-lab/FGVC http://chengao.vision/FGVC/ https://colab.research.google.com/drive/1pb6FjWdwq_q445rG2NP0dubw7LKNUkqc?usp=sharing

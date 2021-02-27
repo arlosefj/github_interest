@@ -69,3 +69,6 @@ https://github.com/uber-research/var-gp
 
 持续迁移学习基准
 https://github.com/facebookresearch/CTrLBenchmark
+
+Mammoth - PyTorch可扩展(通用)持续学习框架 
+https://github.com/aimagelab/mammoth

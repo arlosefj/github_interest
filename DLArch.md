@@ -542,3 +542,16 @@ https://petar-v.com/talks/GNN-Wednesday.pdf
 
 ### GNN_note - 图神经网络整理(相关论文和笔记)
 https://github.com/joeat1/GNN_note
+
+A2S2K-ResNet: Attention-Based Adaptive Spectral-Spatial Kernel ResNet for Hyperspectral Image Classification
+https://github.com/suvojit-0x55aa/A2S2K-ResNet
+
+Relative Neural Architecture Search via Slow-Fast Learning
+https://github.com/EMI-Group/RelativeNAS
+
+图神经网络
+a gallery for benchmarking Graph Neural Networks (GNNs) with TensorFlow 2.x and PyTorch backend 
+https://github.com/EdisonLeeeee/GraphGallery
+
+神经网络架构搜索(NAS)相关论文列表 
+https://github.com/jackguagua/awesome-nas-papers

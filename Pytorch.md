@@ -633,3 +633,8 @@ https://github.com/HEmile/storchastic
 
 Kindle - 无需代码的PyTorch简单模型构建包
 https://github.com/JeiKeiLim/kindle
+
+PyTorch中的梯度累加
+https://www.cnblogs.com/lart/p/11628696.html
+可以不清零，变相达到扩大batchsize的效果，很好的trick
+

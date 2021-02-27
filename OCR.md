@@ -662,3 +662,15 @@ https://github.com/HCIILAB/EPHOIE
 
 ### PyTorch Tabular：为表格数据构建深度学习模型的标准框架
 https://github.com/manujosephv/pytorch_tabular
+
+用Tesseract, OpenCV实现文档、表单、小票的OCR识别
+https://www.pyimagesearch.com/2020/09/07/ocr-a-document-form-or-invoice-with-tesseract-opencv-and-python/
+
+### 【PyTorch实现的实时场景文字检测】’DBNet-lite-pytorch - A pytorch re-implementation of Real-time Scene Text Detection with Differentiable Binarization'
+https://github.com/BADBADBADBOY/DBnet-lite.pytorch
+
+A suite of batches and tools for OCR tasks
+https://github.com/poke1024/origami
+
+非英语语言的Tesseract OCR自动识别
+https://www.pyimagesearch.com/2020/08/03/tesseract-ocr-for-non-english-languages/

@@ -305,3 +305,9 @@ https://github.com/Bergvca/string_grouper
 
 leetcode-algorithm - 分类整理leetcode算法题解，用c++与python实现
 https://github.com/lxztju/leetcode-algorithm
+
+algorithm-pattern算法模板的Python3语言实现版本，刷题的套路模板 
+https://github.com/dashidhy/algorithm-pattern-python
+
+算法工程师技术路线图
+https://zhuanlan.zhihu.com/p/192633890

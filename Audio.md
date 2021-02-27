@@ -466,3 +466,18 @@ https://arxiv.org/abs/2102.06657
 
 ### TTS_TFLite
 https://github.com/tulasiram58827/TTS_TFLite
+
+Memory-efficient Speech Recognition on Smart Devices
+https://arxiv.org/abs/2102.11531
+
+自监督学习语音识别，wav2vec 2.0框架封装版
+https://github.com/mailong25/self-supervised-speech-recognition
+
+音频自动描述相关资源列表
+https://github.com/audio-captioning/audio-captioning-resources
+
+### PyTorch implementation of "Conformer: Convolution-augmented Transformer for Speech Recognition" (INTERSPEECH 2020)
+https://github.com/sooftware/conformer
+
+OpenASR：基于Pytorch的端到端语音识别系统 
+https://github.com/by2101/OpenASR

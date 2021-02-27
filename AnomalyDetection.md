@@ -131,3 +131,9 @@ https://github.com/megvii-research/FSSD_OoD_Detection
 
 We propose a theoretically motivated method, Adversarial Training with informative Outlier Mining (ATOM), which improves the robustness of OOD detection to various types of adversarial OOD inputs and establishes state-of-the-art performance.
 https://github.com/jfc43/informative-outlier-mining
+
+Unsupervised Brain Anomaly Detection and Segmentation with Transformers
+https://arxiv.org/abs/2102.11650
+
+### Anomaly Detection：深度学习端到端半监督图像异常检测与分割框架 
+https://github.com/AdneneBoumessouer/MVTec-Anomaly-Detection

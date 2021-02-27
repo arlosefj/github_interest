@@ -62,3 +62,6 @@ https://paperswithcode.com/methods
 
 Papers with Libraries：Papers With Code推出的330+个机器学习模型/库探索工具，支持架构的可视化及模型结果对比
 https://paperswithcode.com/lib/timm
+
+一批机器学习、NLP、计算机视觉及推荐系统相关的开发资源，并提供项目实现思路、产品方向、数据集等资料 
+https://github.com/NirantK/awesome-project-ideas

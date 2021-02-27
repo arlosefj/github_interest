@@ -789,3 +789,30 @@ https://arxiv.org/abs/2102.09480
 
 ### QuarkDet lightweight object detection in PyTorch .Real-Time Object Detection on Mobile Devices.
 https://github.com/shaoshengsong/quarkdet
+
+#### Object detection on multiple datasets with an automatically learned unified label space.
+https://github.com/xingyizhou/UniDet 
+
+### 2020.11 Sparse R-CNN: End-to-End Object Detection with Learnable Proposals 
+代码：https://github.com/PeizeSun/SparseR-CNN 论文： https://arxiv.org/abs/2011.12450  [[attachment:Sparse R-CNN_ End-to-End Object Detection with Learnable Proposals]] 模型： https://pan.baidu.com/s/1jH4Xy3JzjHVWyzFsKt7aBw 9cmn
+非anchor框和nms的目标检测技术，达到了比faster-rcnn更好的效果，速度也更快
+
+### 2020.11 OneNet: Towards End-to-End One-Stage Object Detectio
+知乎：https://zhuanlan.zhihu.com/p/336016003 代码：https://github.com/PeizeSun/OneNet 论文：https://arxiv.org/abs/2012.05780
+
+### 2020.5 centerX （centerNet） 
+code: https://github.com/CPFLAME/centerX/ 说明： https://zhuanlan.zhihu.com/p/323814368
+
+### yolov5rt - YOLOv5 Runtime Stack - Yet another yolov5, with its runtime stack for libtorch, onnx and specialized accelerators 
+
+yolo5实现
+https://github.com/zhiqwang/yolov5-rt-stack
+
+### NanoDet：超快轻量无锚目标检测，模型仅1.8mb，手机运行达到97FPS 
+https://github.com/RangiLyu/nanodet
+
+### 目标检测中的一些trick汇总
+https://zhuanlan.zhihu.com/p/137768226
+
+A Comparison of Deep Learning Object Detection Models for Satellite Imagery 
+https://arxiv.org/abs/2009.04857

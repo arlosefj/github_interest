@@ -1086,3 +1086,9 @@ https://github.com/jeya-maria-jose/Medical-Transformer
 
 [NeurIPS 2020] Disentangling Human Error from the Ground Truth in Segmentation of Medical Images
 https://github.com/moucheng2017/Learn_Noisy_Labels_Medical_Images
+
+弱监督分割相关文献资源列表 
+https://github.com/YimingCuiCuiCui/awesome-weakly-supervised-segmentation
+
+ECCV 2020 | OCRNet化解语义分割上下文信息缺失难题 
+https://weibo.com/ttarticle/p/show?id=2309404540050343067737

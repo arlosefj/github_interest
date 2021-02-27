@@ -127,3 +127,6 @@ https://github.com/likyoo/Siam-NestedUNet
 
 Pytorch Implementation of Unifying Deep Local and Global Features for Image Search (DELG)
 https://github.com/feymanpriv/DELG
+
+A Straightforward Framework For Video Retrieval Using CLIP
+https://github.com/Deferf/CLIP_Video_Representation https://arxiv.org/abs/2102.12443

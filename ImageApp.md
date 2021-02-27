@@ -922,3 +922,29 @@ https://github.com/pierogis/pierogis
 
 Awesome Low-light Enhancement：低光照图像增强相关文献资源列表
 https://github.com/Elin24/Awesome-Low-Light-Enhancement
+
+免费书：从零开始学计算机图形学
+https://gabrielgambetta.com/computer-graphics-from-scratch/
+
+Alto：DIY视觉识别小机器人
+https://github.com/googlecreativelab/alto
+
+Official PyTorch implementation of "Single Image HDR Reconstruction Using a CNN with Masked Features and Perceptual Loss" (SIGGRAPH 2020)
+https://github.com/marcelsan/Deep-HdrReconstruction
+
+彩色图像生成素描图像 
+2020.12 Sketch Generation with Drawing Process Guided by Vector Flow and Grayscale
+https://arxiv.org/abs/2012.09004 https://github.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale
+
+U^2-Net肖像画生成 
+https://github.com/NathanUA/U-2-Net
+
+将真实图像转换为日漫风格的画作 
+https://github.com/TachibanaYoshino/AnimeGAN
+
+简单照片卡通化serverless机器学习App的创建与部署实例 
+https://github.com/ahmedbesbes/cartoonify
+
+2012.5 Real-time Image Smoothing via Iterative Least Squares
+https://arxiv.org/abs/2003.07504 https://github.com/wliusjtu/Real-time-Image-Smoothing-via-Iterative-Least-Squares
+matlab代码，可借鉴思想作为评判生成图像好坏的依据

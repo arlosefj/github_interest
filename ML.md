@@ -1054,3 +1054,109 @@ https://github.com/dirty-cat/dirty_cat
 
 Responsible-AI-Widgets：微软的负责任AI小部件
 https://github.com/microsoft/responsible-ai-widgets
+
+Keepsake：Python机器学习版本控制库
+https://github.com/replicate/keepsake
+
+### ExplainX：面向数据科学家和机器学习工程师的快速、可扩展和端到端可解释AI框架  
+基于sklearn 可以试试！！！ https://github.com/explainX/explainx
+
+### create-ml-app：Python机器学习项目脚手架(模板)  
+https://github.com/shreyashankar/create-ml-app
+
+### 生产中机器学习维护实用指南  
+https://eugeneyan.com/writing/practical-guide-to-maintaining-machine-learning/
+
+### 机器学习应用App开发部署销售一条龙全程实战教程  
+https://towardsdatascience.com/develop-and-sell-a-machine-learning-app-from-start-to-end-tutorial-ed5b5a2b6b2b
+
+### 这个仓库包括了一系列精挑细选的超酷开源库，有助于配置、监控、扩展和保护生产环境 ML。  
+https://github.com/EthicalML/awesome-production-machine-learning
+
+### LabML App：在手机上远程跟踪机器学习模型训练情况  
+https://github.com/lab-ml/app
+
+### modelstore：用于将机器学习模型版本化、导出、保存到文件系统或云存储的Python库  
+https://github.com/operatorai/modelstore
+
+### A fast K Nearest Neighbor library for low-dimensional spaces 
+快速的低维空间K近邻库
+https://github.com/ethz-asl/libnabo
+
+### chefboost：支持常规算法的轻量决策树框架 
+https://github.com/serengil/chefboost
+chefboost - A Lightweight Decision Tree Framework supporting regular algorithms: ID3, C4,5, CART, CHAID and Regression Trees; some advanced techniques: Gradient Boosting (GBDT, GBRT, GBM), Random Forest and Adaboost w/categorical features support for Python
+
+### 凸优化涵盖了当前机器学习问题的最常用解法，斯坦福有个关于此的快速课程 
+https://github.com/cvxgrp/cvx_short_course/tree/master/python_intro
+
+### 【Kaggle数据清洗课程】《Learn Data Cleaning Tutorials | Kaggle》 
+https://www.kaggle.com/learn/data-cleaning
+
+
+### Hands-on data analysis - 动手学数据分析 
+https://github.com/datawhalechina/hands-on-data-analysis
+
+### Keras实例教程之EfficientNet微调图像分类 
+https://keras.io/examples/vision/image_classification_efficientnet_fine_tuning/
+
+
+### Self-supervised learning through the eyes of a child 
+https://github.com/eminorhan/baby-vision https://arxiv.org/abs/2007.16189
+
+
+### ML_Notes - 对目前主流的机器学习算法进行公式推导、问题分析以及代码实现（主要基于numpy） 
+https://github.com/zhulei227/ML_Notes
+
+### 机器学习可解释性概览 
+https://thegradient.pub/interpretability-in-ml-a-broad-overview/
+
+### 机器学习的数据清理最佳实践 
+https://alto-palo.com/blogs/data-cleaning-for-machine-learning-best-practices/
+
+### GitHub 上有个老哥为机器学习初学者绘制了一份学习路线图 
+https://github.com/mrdbourke/machine-learning-roadmap
+
+- 学习时遇到的问题；
+- 具体的学习过程；
+- 机器学习开发工具；
+- 机器学习数学；
+- 机器学习资源。
+
+### “动手深度学习”附录：深度学习的数学 
+https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html
+
+### 如何进行图像分割和目标检测的数据探索(“笨办法”学习心得) 
+https://neptune.ai/blog/data-exploration-for-image-segmentation-and-object-detection
+
+### 各种卷积网络的PyTorch实现 
+https://github.com/shanglianlm0525/PyTorch-Networks
+
+### 机器学习进展导引 
+https://github.com/eugeneyan/ml-surveys
+
+### 《机器学习之数学》 
+该书主要分为两大部分，一讲数学基础，二讲数学在机器学习算法中的应用。你能从该书中学到线性代数、微积分和概率论等数学基础知识。
+https://github.com/mml-book/mml-book.github.io
+
+### 从头开始搭建神经网络，涵盖微积分和矩阵代数基础，更深入理解机器学习算法 
+https://www.jigsawlabs.io/#neural_nets
+
+模型改进的实际过程往往是这样的：
+ * 基线：53％
+ * 逻辑回归：58％
+ * 深度学习：61％
+ * 修正数据：77％
+ * 超参优化之外好好“理解数据”绝对是值得的！
+
+bodywork-core - ML-Ops framework for running model-training workloads and deploying model-scoring services on Kubernetes 
+https://github.com/bodywork-ml/bodywork-core
+
+### MLOps教程：机器学习产品开发、部署与维护(机器学习运维用例指南) 
+https://github.com/madewithml/applied-ml-in-production https://www.bilibili.com/video/BV1YV411a798/
+
+Full Stack Deep Learning
+https://zhuanlan.zhihu.com/p/218468169
+
+### 机器学习模版
+https://github.com/jrieke/traingenerator

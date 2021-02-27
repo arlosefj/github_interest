@@ -546,3 +546,19 @@ https://github.com/THU-KEG/MAVEN-dataset
 
 ### 机器学习/深度学习数据集集锦
 https://sebastianraschka.com/blog/2021/ml-dl-datasets.html
+
+### Dataset Management Framework (Datumaro)：数据集管理框架，提供用于构建、转换和分析数据集的工具集
+intel出品，可以用于竞赛数据集管理
+https://github.com/openvinotoolkit/datumaro
+
+gopup - 数据接口：百度、谷歌、头条、微博指数,宏观数据，利率数据，货币汇率，千里马、独角兽公司，新闻联播文字稿，影视票房数据，高校名单，疫情数据… 
+https://github.com/justinzm/gopup
+
+clothing-dataset：包含20类5000多张图片的服饰数据集 
+https://github.com/alexeygrigorev/clothing-dataset
+
+### IDT：图像数据集快捷创建工具 
+https://github.com/deliton/idt
+
+### 计算机视觉数据集搜索引擎 
+https://datasets.bifrost.ai/

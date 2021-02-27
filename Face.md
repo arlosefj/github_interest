@@ -553,3 +553,10 @@ https://github.com/trushkin-ilya/face-anti-spoofer
 
 ### CompreFace：开源人脸识别系统
 https://github.com/exadel-inc/CompreFace
+
+### A PyTorch Toolbox for Face Recognition 
+https://github.com/JDAI-CV/FaceX-Zoo
+arxiv.org/pdf/2101.04407.pdf
+
+### 26M Flops Facial Landmark Detection：PyTorch实现的高性能人脸标特征点检测 
+https://github.com/ainrichman/Peppa-Facial-Landmark-PyTorch

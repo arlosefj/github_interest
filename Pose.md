@@ -350,3 +350,11 @@ https://github.com/rafabs97/headpose_final
 
 Mixture Dense Regression for Object Detection and Human Pose Estimation
 https://github.com/alivaramesh/MixtureDenseRegression
+
+
+动态人体姿势生成 
+https://arxiv.org/abs/2012.08976 https://github.com/wswdx/C2F-FWN
+2020.12 C2F-FWN: Coarse-to-Fine Flow Warping Network for Spatial-Temporal Consistent Motion Transfer
+
+人体姿态迁移文献/代码列表 
+https://github.com/Zhangjinso/Awesome-pose-transfer

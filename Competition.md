@@ -271,3 +271,6 @@ https://github.com/DLLXW/data-science-competition
 
 1st Place Solutions of 3D AI Challenge 2020(IJCAI-PRICAI 2020 Workshop) - Instance Segmentation Track
 https://github.com/zehuichen123/3DFuture_ins_seg
+
+MICCAI 2020 TN-SCUI挑战分割任务第一名方案 
+https://github.com/WAMAWAMA/TNSCUI2020-Seg-Rank1st

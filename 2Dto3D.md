@@ -432,3 +432,6 @@ https://github.com/nihalsid/single-view-3d-reconstruction
 
 NeRF-w：用网上游客拍的各种照合成3D模型——把人们的记忆碎片融合在一起，创造完美视图——相比2020最初发表版本进一步提高了精度
 https://nerf-w.github.io/
+
+Google Photos照片3D化展示背后的技术
+https://ai.googleblog.com/2021/02/the-technology-behind-cinematic-photos.html

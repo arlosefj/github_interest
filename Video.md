@@ -304,3 +304,16 @@ https://github.com/alex04072000/Nervis
 
 FFmpeg相关资源大列表
 https://github.com/transitive-bullshit/awesome-ffmpeg
+
+实时、快速的对高分辨率图像、视频进行自动背景抠图 
+https://github.com/PeterL1n/BackgroundMattingV2 https://arxiv.org/abs/2012.07810
+
+2019.4 CVPR Depth-Aware Video Frame Interpolation
+https://arxiv.org/abs/1904.00830 https://github.com/BurguerJohn/Dain-App https://github.com/baowenbo/DAIN
+
+开源的实时视频流 
+https://github.com/benwilber/boltstream
+
+vdx：基于FFmpeg的直观便捷命令行视频处理工具 
+https://github.com/yuanqing/vdx
+

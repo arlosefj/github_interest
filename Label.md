@@ -215,3 +215,7 @@ https://github.com/Machine-Learning-Tokyo/Annotation_Tools
 
 annotorious：JavaScript图像标注库
 https://github.com/recogito/annotorious
+
+MarkTool - 基于web的通用文本标注工具
+https://github.com/FXLP/MarkTool by 华东理工大学-自然语言处理与医疗大数据实验室
+支持大规模实体标注、关系标注、事件标注、文本分类、基于字典匹配和正则匹配的自动标注以及用于实现归一化的标准名标注，同时也支持文本的迭代标注和实体的嵌套标注

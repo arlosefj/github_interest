@@ -288,8 +288,22 @@ https://github.com/yu-lab-vt/muSSP
 Quasi-Dense Similarity Learning for Multiple Object Tracking
 https://github.com/SysCV/qdtrack
 
-Joint detection and tracking model named DEFT, or ``Detection Embeddings for Tracking."
+Joint detection and tracking model named DEFT, or  Detection Embeddings for Tracking
 https://github.com/MedChaabane/DEFT
 
 Official PyTorch implementation of "Joint Object Detection and Multi-Object Tracking with Graph Neural Networks"
 https://github.com/yongxinw/GSDT
+
+STEP: Segmenting and Tracking Every Pixel
+https://arxiv.org/abs/2102.11859
+
+Sports Video Analysis：运动视频分析 
+https://github.com/stephanj/basketballVideoAnalysis
+
+### End-to-End Video Instance Segmentation with Transformers 
+https://arxiv.org/abs/2011.14503
+[[End-to-End Video Instance Segmentation with Transformers.jpg]]
+
+Reference-Based Video Colorization with Spatiotemporal Correspondence 
+重点在于时空一致性
+https://arxiv.org/abs/2011.12528

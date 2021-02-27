@@ -274,3 +274,13 @@ https://github.com/msxiaojin/MDLCC
 
 PyTorch implementation for "Few-Shot Learning with Class Imbalance"
 https://github.com/mattochal/imbalanced_fsl_public
+
+[NeurIPS 2020] Released code for Interventional Few-Shot Learning
+https://github.com/yue-zhongqi/ifsl
+
+### PyTorch实现的元学习少样本学习算法 
+Implementations of many meta-learning algorithms to solve the few-shot learning problem in Pytorch
+https://github.com/cnguyen10/few_shot_meta_learning
+
+少样本图像生成文献资料列表 
+https://github.com/bcmi/Awesome-Few-Shot-Image-Generation

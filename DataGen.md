@@ -378,3 +378,6 @@ https://github.com/sdv-dev/SDMetrics
 
 Style and Pose Control for Image Synthesis of Humans from a Single Monocular View
 https://arxiv.org/abs/2102.11263
+
+### 用合成数据改进机器学习大规模非平衡数据集 
+https://towardsdatascience.com/improving-massively-imbalanced-datasets-in-machine-learning-with-synthetic-data-7dd3d856bbdf

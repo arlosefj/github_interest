@@ -223,3 +223,6 @@ https://github.com/facebookresearch/mtenv
 
 ### rlberry：面向研究和教育的易用强化学习Python库
 https://github.com/rlberry-py/rlberry
+
+ReBeL：用单一AI算法玩所有游戏的新尝试，可以玩国际象棋、围棋、扑克、掷骰子等 
+https://ai.facebook.com/blog/rebel-a-general-game-playing-ai-bot-that-excels-at-poker-and-more/

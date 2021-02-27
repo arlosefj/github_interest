@@ -865,3 +865,16 @@ https://arxiv.org/abs/2102.06108
 
 Efficient Conditional GAN Transfer with Knowledge Propagation across Classes
 https://github.com/mshahbazi72/cGANTransfer
+
+Image Completion via Inference in Deep Generative Models
+https://arxiv.org/abs/2102.12037
+
+2020.12 Improved StyleGAN Embedding: Where are the Good Latents? 
+https://arxiv.org/abs/2012.09036
+
+Attribute-Guided Adversarial Training for Robustness to Natural Perturbations
+https://arxiv.org/abs/2012.01806
+
+StrokeGAN: Reducing Mode Collapse in Chinese Font Generation via Stroke Encoding 
+https://arxiv.org/abs/2012.08687
+可用于手写文字生成

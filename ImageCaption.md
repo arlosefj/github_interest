@@ -407,3 +407,21 @@ https://github.com/whai362/PVT
 
 Position Information in Transformers: An Overview
 https://arxiv.org/abs/2102.11090
+
+Do Transformer Modifications Transfer Across Implementations and Applications?
+https://arxiv.org/abs/2102.11972
+
+### Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions
+https://github.com/whai362/PVT https://arxiv.org/abs/2102.12122
+
+Zero-Shot Text-to-Image Generation
+https://github.com/openai/DALL-E https://arxiv.org/abs/2102.12092
+
+Transformer 一篇就够了 - 记录了学习Transformer过程中的一些疑问和解答，并且实现Transformer的全过程
+https://github.com/BSlience/transformer-all-in-one
+
+大规模Transformer图像识别
+https://ai.googleblog.com/2020/12/transformers-for-image-recognition-at.html https://github.com/google-research/vision_transformer
+
+### FastFormers：CPU上的233倍速Transformer推理 
+https://medium.com/ai-in-plain-english/fastformers-233x-faster-transformers-inference-on-cpu-4c0b7a720e1

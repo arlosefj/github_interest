@@ -179,3 +179,14 @@ https://github.com/kabartay/OpenUnivCourses
 
 麻省理工学院开源了2400门课程的录像和内容，涵盖了计算机科学、人工智能、算法等。
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/
+
+### 杜伦大学10小时强化学习课程
+https://www.bilibili.com/video/BV1vN411X7qB/   https://www.youtube.com/playlist?list=PLMsTLcO6ettgmyLVrcPvFLYi2Rs-R4JOE
+
+### Dive-into-CV-PyTorch - 动手学CV-Pytorch版 
+做得不错，可以借鉴
+https://datawhalechina.github.io/dive-into-cv-pytorch/ https://github.com/datawhalechina/dive-into-cv-pytorch
+
+### 深度学习在图像处理中的应用教程 
+和上面类似，可以借鉴
+https://github.com/WZMIAOMIAO/deep-learning-for-image-processing

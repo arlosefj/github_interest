@@ -34,4 +34,39 @@ https://github.com/romenrg/evergreen-skills-developers
 common-regex - 常用正则表达式 - 收集一些在平时项目开发中经常用到的正则表达式
 https://github.com/cdoco/common-regex
 
-### Rust半小时实战入门
+打造杰出软件开发团队的12条指导建议
+https://github.com/taowen/12fallacy
+
+盘点几个比较实用的命令行界面工具 
+https://switowski.com/blog/favorite-cli-tools
+fish shell：易于使用，对初学者友好的 Shell；
+starship：好用的命令行提示工具，无需设置；
+z：快速跳转到文件系统；
+fzf：通用模糊搜索；
+fd：类似 find，但更好用；
+ripgrep：类似 grep，但更好用；
+htop 和 glances：系统监控工具；
+virtualenv 和 virtualfish：Python 虚拟环境管理；
+pyenv, nodenv 和 rbenv：管理不同版本的 Python，Node 和 Ruby；
+pipx：在隔离的环境中安装 Python 软件包；
+ctop 和 lazydocker：Docker 监控工具；
+homebrew：macOS 软件包管理器；
+asciinema：记录终端会话；
+colordiff 和 diff-so-fancy：类似 diff，但配色丰富；
+tree：用于显示文件夹的内容；
+bat：类似 cat，但更好用；
+httpie：类似 curl，但更好用；
+tldr：简化版 "man pages"；
+exa：类似 ls，但更好用；
+litecli 和 pgcli：类似 sqlite3、psql，但更好用；
+mas：App Store 的命令行界面工具；
+ncdu：磁盘使用率分析器。
+
+各种乱码的类型及其产生原因
+[[各种乱码的类型及其产生原因.jpg]]
+
+GWSL：在WSL中运行图形化Linux应用
+https://opticos.github.io/gwsl/ https://github.com/Opticos/GWSL-Source
+
+开源的 Linux 教程：Linux Up Skill Challenge
+https://github.com/snori74/linuxupskillchallenge

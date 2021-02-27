@@ -672,3 +672,16 @@ https://github.com/shankarpandala/lazyprofiler
 
 Perfect Freehand：(TypeScript)完美手写线条库
 https://github.com/steveruizok/perfect-freehand
+
+Spacedeck Open：开源网页版实时协同白板
+https://github.com/spacedeck/spacedeck-open
+
+CalcuLaTeX：LaTeX般完美显示数学表达式的标记语言计算器
+https://github.com/mkhan45/CalcuLaTeX
+
+### iDataV，收集了各个大厂，各种类型的大屏数据可视化案例。 
+https://github.com/yyhsong/iDataV
+[[iDataV.jpg]]
+
+### DetVisGUI：目标检测结果可视化GUI 
+https://github.com/Chien-Hung/DetVisGUI

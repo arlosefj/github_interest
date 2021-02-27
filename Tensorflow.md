@@ -171,3 +171,6 @@ https://github.com/PINTO0309/tflite2tensorflow
 
  ### TensorFlow 2速成课程资料
  https://github.com/dipanjanS/tensorflow2-crash-course
+
+ TensorFlow.js实践教程
+ https://codelabs.developers.google.com/codelabs/tensorflowjs-convert-python-savedmodel#0

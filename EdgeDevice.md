@@ -81,3 +81,6 @@ https://github.com/mit-han-lab/tinyml
 
 ### AI-on-the-edge-device：边缘设备AI应用实例——远程读表
 https://github.com/jomjol/AI-on-the-edge-device
+
+deepC：独立于供应商的深度学习库、编译器和推理框架，专为小型设备设计，包括μ控制器、物联网和边缘设备等 
+https://github.com/ai-techsystems/deepC

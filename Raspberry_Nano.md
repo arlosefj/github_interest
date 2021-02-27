@@ -117,3 +117,18 @@ https://github.com/iwatake2222/pico-mnist
 
 spokestack-python：为Python应用提供语音访问界面，可用于开发树莓派的语音控制应用
 https://github.com/spokestack/spokestack-python
+
+【树莓派3裸机编程教程】
+https://github.com/bztsrc/raspi3-tutorial
+
+增加swap
+https://github.com/JetsonHacksNano/installSwapfile
+
+The objective is to give you clear instruction on how to install packages in ARM platform, especially in Jetson family.
+https://github.com/jefflgaol/Install-Packages-Jetson-ARM-Family
+
+Jetson Nano目标检测手把手实战教程（pytorch训练、tensorrt推理，含完整代码和数据）
+https://blog.csdn.net/qianbin3200896/article/details/108949723
+
+DeepStream Human Pose Estimation：DeepStream人体姿态估计
+https://github.com/NVIDIA-AI-IOT/deepstream_pose_estimation

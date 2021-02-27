@@ -283,3 +283,6 @@ https://github.com/dariofuoli/RLSP
 
 Learning Cascaded Convolutional Networks for Blind Single Image Super-Resolution
 https://github.com/lpj0/CBSR
+
+2020.12 Learning Continuous Image Representation with Local Implicit Image Function 
+https://github.com/yinboc/liif  https://arxiv.org/abs/2012.09161
