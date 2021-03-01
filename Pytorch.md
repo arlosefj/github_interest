@@ -1,14 +1,10 @@
-PyTorch神经网络模型分析器(参数规模/FLOPs/MAdd/内存消耗)
-https://github.com/Swall0w/torchstat
+
 
 PyTorch implementation for Convolutional Networks with Adaptive Inference Graphs
 https://github.com/andreasveit/convnet-aig
 
 NVIDIA开源面向精简混合精度和分布式训练的Pytorch扩展
 https://github.com/nvidia/apex
-
-PyTorch指南：使用、思考、技巧与陷阱
-https://github.com/Kaixhin/grokking-pytorch
 
 PyTorch实现的CIFAR-10/CIFAR-100/MNIST/FashionMNIST图像分类
 https://github.com/hysts/pytorch_image_classification
@@ -90,8 +86,6 @@ https://github.com/alecrubin/pytorch-serverless/
 YOLOv3的最小化PyTorch实现
 https://github.com/eriklindernoren/PyTorch-YOLOv3
 
-一个包含基础教程、提高参考资料、有趣实践项目的 PyTorch 教程
-https://github.com/Eurus-Holmes/LIS-YNP/
 
 PyTorch神经网络辅助训练高级库ignite
 https://github.com/pytorch/ignite
@@ -126,8 +120,6 @@ https://github.com/TianhongDai/reinforcement-learning-algorithms
 DARTS: Differentiable Architecture Search（网络结构搜索）
 https://github.com/quark0/darts
 
-PyTorch CNN可视化工具
-https://github.com/FrancescoSaverioZuppichini/mirror
 
 Deformable ConvNets V2 in PyTorch
 https://github.com/chengdazhi/Deformable-Convolution-V2-PyTorch
@@ -135,8 +127,7 @@ https://github.com/chengdazhi/Deformable-Convolution-V2-PyTorch
 Implementation code of the paper: FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction, NeurIPS 2018
 https://github.com/kevin-ssy/FishNet
 
-用PyTorch从头实现经典机器模型(Dropout, Adam, RMSProp, basic neural nets…)
-https://github.com/anhquan0412/basic_model_scratch
+
 
 (PyTorch)机器学习实验管理工具
 https://github.com/MIC-DKFZ/trixi
@@ -260,9 +251,6 @@ https://github.com/mit-han-lab/torchprofile
 【PyTorch简化开发工具箱】
 https://github.com/PistonY/torch-toolbox
 
-【PyTorch教程：用TensorBoard实现模型、数据和训练过程可视化】
-https://pytorch.org/tutorials/intermediate/tensorboard_tutorial.html
-
 【dlib vs. PyTorch 简单性能评测】
 https://github.com/arrufat/dlib-pytorch-benchmark
 
@@ -280,9 +268,6 @@ https://github.com/NVlabs/tensorcom
 
 【PyTorch半监督学习工具包】
 https://github.com/moskomule/ssl-suite
-
-###【PyTorch小trick集锦】’pytorch_tricks - some tircks for PyTorch' 
-https://github.com/zxdefying/pytorch_tricks
 
 【PyTorch深度学习教程C++实现版】
 https://github.com/prabhuomkar/pytorch-cpp
@@ -316,9 +301,6 @@ https://github.com/Eurus-Holmes/LIS-YNP
 
 PyTorch快速教程
 https://github.com/omerbsezer/Fast-Pytorch
-
-PyTorch内存使用分析器
-https://github.com/Stonesjtu/pytorch_memlab
 
 Simple, extendable, easy to understand Glow implementation in PyTorch
 https://github.com/y0ast/Glow-PyTorch
@@ -356,9 +338,6 @@ https://github.com/NVIDIA/retinanet-examples
 Pytorch分类实验模板
 https://github.com/learning-luke/pytorch-experiments-template
 
-PyTorch深度学习实验监控面板
-https://github.com/jotaf98/overboard
-
 Danbooru2018数据集上的ResNet预训练模型(PyTorch)
 https://github.com/RF5/danbooru-pretrained
 
@@ -383,17 +362,11 @@ https://www.bilibili.com/video/av69000304/
 ### PyTorch + PySyft 加密训练实战(MNIST)
 https://blog.openmined.org/encrypted-training-on-mnist/
 
-PyTorch 应用技巧
-https://weibo.com/tv/v/I1ZEC6h6n?fid=1034:4404753053200068
-
 ### 一个包含计算机视觉、自然语言处理领域的诸多经典模型的聚合中心。这年头有很多 Hub，什么 GitHub、SciHub、xxxxHub 等等，但是最近图灵奖得主 Yann LeCun 强推的 PyTorch-Hub。无论是 ResNet、BERT、GPT、VGG、PGAN 还是 MobileNet 等经典模型，只需输入一行代码，都能实现一键调用！
 https://github.com/pytorch/hub
 
 ### 《动手学深度学习》（Dive into Deep Learning）原书中的 MXNet 代码实现改为 PyTorch 实现
 https://github.com/ShusenTang/Dive-into-DL-PyTorch
-
-一个包含基础教程、提高参考资料、有趣实践项目的 PyTorch 教程
-https://github.com/Eurus-Holmes/LIS-YNP
 
 ### 【半监督深度学习训练和实现小Tricks】'Tricks of Semi-supervised Deep Leanring --Pytorch - PseudoLabel 2013, VAT, PI model, Tempens, MeanTeacher, ICT, MixMatch, FixMatch'
 https://github.com/iBelieveCJM/Tricks-of-Semi-supervisedDeepLeanring-Pytorch
@@ -416,9 +389,6 @@ https://github.com/PhoenixDL/rising
 【PyTorch Zoo：PyTorch模块/程序集】
 https://github.com/bkkaggle/pytorch_zoo
 
-### 【PyTorch提速技巧集锦】’Some tricks of pytorch... 
-https://github.com/lartpang/PyTorchTricks
-
 【TorchSketch：基于PyTorch的自由手绘草图深度学习库】
 https://github.com/PengBoXiangShang/torchsketch
 
@@ -430,9 +400,6 @@ https://github.com/makgyver/rectorch
 
 【用Catalyst加速PyTorch深度学习研究】
 https://medium.com/pytorch/catalyst-101-accelerated-pytorch-bd766a556d92
-
-### 【PyTorch计算机视觉】
-https://github.com/tinkerhub-org/ComputerVision-with-PyTorch-Learning-Program
 
 【《动手深度学习》(英文版) 官方增加实例PyTorch实现】
 https://d2l.ai/
@@ -467,12 +434,6 @@ https://jovian.ml/forum/c/course-discussions/pytorch-zero-to-gans/18
 【用LibTorch构建C++应用示例】
 https://github.com/BIGBALLON/PyTorch-CPP
 
-【PyTorch实战练习素材】
-https://github.com/pytorch/examples/ https://github.com/yunjey/pytorch-tutorial
-
-### 【David的PyTorch代码技巧指南：通过五个colab notebooks快速、直观、简要地介绍pytorch代码】
-https://github.com/davidbau/how-to-read-pytorch
-
 【新手老手都能用的计算机视觉PyTorch解决方案库】
 https://github.com/microsoft/computervision-recipes
 
@@ -482,8 +443,7 @@ https://github.com/intel/intel-extension-for-pytorch
 【PyTorch数据集读取器，用于直接读取POSIX tar文档】
 https://github.com/tmbdev/webdataset
 
-### 【PyTorch图像分类技巧集】’carrier of tricks for image classification tutorials using pytorch' 
-https://github.com/hoya012/carrier-of-tricks-for-classification-pytorch
+
 
 【PyTorch入门(Notebook/Slides)】’Notebook / Slides for ACDL2020 in Siena, Italy'
 https://github.com/t-vi/acdl2020
@@ -538,9 +498,6 @@ https://github.com/kevinzakka/torchkit
 PyTorch Lightning Bolts：新的PyTorch Lightning深度学习研究和生产工具箱，流行模型的PyTorch Lightning实现集合，所有模型经过良好测试和优化，可以在多GPU/TPU上提速运行
 https://medium.com/pytorch/pytorch-lightning-bolts-from-boosted-regression-on-tpus-to-pre-trained-gans-5cebdb1f99fe
 
-PyTorch最佳实践
-http://lernapparat.de/pytorch-best-practices/
-
 Pytorch Forecasting：PyTorch时序预测库
 https://github.com/jdb78/pytorch-forecasting
 
@@ -565,14 +522,9 @@ https://github.com/anguelos/tormentor
 Torchserve Dashboard - Management Dashboard for Torchserve
 https://github.com/cceyda/torchserve-dashboard
 
-改变Pytorch调试方式的3个小技巧
-https://medium.com/@adrian.waelchli/3-simple-tricks-that-will-change-the-way-you-debug-pytorch-5c940aa68b03
-
 DarkTorch：用PyTorch C++前端和NVIDIA GPU实现的低延迟深度学习推理服务器
 https://github.com/QuantScientist/DarkTorch
 
-pytorch 图像分类竞赛框架
-https://github.com/spytensor/pytorch_img_classification_for_competition
 
 实战教程：用PyTorch实现Transformer
 https://github.com/gordicaleksa/pytorch-original-transformer
@@ -601,11 +553,6 @@ https://lernapparat.de/jit-optimization-intro/
 PyCave：用PyTorch实现的支持GPU加速的传统机器学习模型
 https://github.com/borchero/pycave
 
-nnprof：PyTorch神经网络性能分析工具
-https://github.com/FateScript/nnprof
-
-PyTorch深度学习训练加速指南
-https://efficientdl.com/faster-deep-learning-in-pytorch-a-guide/
 
 VISSL：基于PyTorch的最先进图像自监督学习库
 https://github.com/facebookresearch/vissl
@@ -637,4 +584,16 @@ https://github.com/JeiKeiLim/kindle
 PyTorch中的梯度累加
 https://www.cnblogs.com/lart/p/11628696.html
 可以不清零，变相达到扩大batchsize的效果，很好的trick
+
+PyTorch实现的图像代码、脚本、预训练模型集锦
+https://github.com/rwightman/pytorch-image-models
+
+PyTorch 学习资源整理汇总，含有学习教程、手册、视频教程和实战项目等资料
+https://github.com/INTERMT/Awesome-PyTorch-Chinese
+
+手把手：看例子理解PyTorch
+https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e
+
+PyTorch从入门到GANs
+https://medium.com/jovian-io/pytorch-basics-tensors-and-gradients-eb2f6e8a6eee
 

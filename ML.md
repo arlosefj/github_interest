@@ -418,9 +418,6 @@ https://www.arxiv-vanity.com/papers/2001.08248/
 【机器学习应用软件工程最佳实践大列表】
 https://github.com/SE-ML/awesome-seml
 
-【深度学习架构、模型和技巧集合(TensorFlow/PyTorch)】
-https://github.com/rasbt/deeplearning-models
-
 【神经网络数据服务器(AI数据搜索引擎)】
 https://arxiv.org/abs/2001.02799
 
@@ -601,9 +598,6 @@ https://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650414054&idx=5&sn=97d6a4
 A Tutorial on VAEs: From Bayes' Rule to Lossless Compression
 https://github.com/ronaldiscool/VAETutorial
 
-【用PyCaret和Streamlit构建和部署机器学习网页应用】《Build and deploy machine learning web app using PyCaret and Streamlit》
-https://towardsdatascience.com/build-and-deploy-machine-learning-web-app-using-pycaret-and-streamlit-28883a569104
-
 ELM Python实现链接
 https://towardsdatascience.com/build-an-extreme-learning-machine-in-python-91d1e8958599 https://github.com/dclambert/Python-ELM
 
@@ -734,9 +728,6 @@ https://github.com/fengyang95/tiny_ml
 《机器学习数学原理》笔记与习题参考
 https://github.com/ilmoi/MML-Book
 
-### 用Streamlit部署端到端机器学习模型
-https://medium.com/@apurva.sharma866/deploy-your-first-end-to-end-ml-model-using-streamlit-51cc486e84d7
-
 免费在线书《从头开始机器学习》：重在数学基础和(不依赖各种库的)代码实现
 https://dafriedman97.github.io/mlbook/content/introduction.html
 
@@ -850,9 +841,6 @@ https://mp.weixin.qq.com/s/hkfrtpe51gjFTdxlDSDprw
 【出色机器学习项目指南】’Guide to Awesome Machine Learning Projects - A guide to building awesome machine learning projects
 https://github.com/dair-ai/awesome-ML-projects-guide
 
-streamlit速查
-https://github.com/daniellewisDL/streamlit-cheat-sheet
-
 Deep-learning-in-cloud：云端深度学习服务供应商大列表
 https://github.com/zszazi/Deep-learning-in-cloud
 
@@ -949,9 +937,6 @@ https://github.com/abhishek-ch/around-dataengineering
 
 机器学习法则：机器学习工程最佳实践(含中文版)
 https://developers.google.com/machine-learning/rules-of-ml/
-
-best-of-streamlit：基于streamlit构建的优秀开源项目集锦
-https://github.com/jrieke/best-of-streamlit
 
 FACET：人工可解释AI库
 https://github.com/BCG-Gamma/facet
@@ -1126,9 +1111,6 @@ https://github.com/mrdbourke/machine-learning-roadmap
 ### “动手深度学习”附录：深度学习的数学 
 https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html
 
-### 如何进行图像分割和目标检测的数据探索(“笨办法”学习心得) 
-https://neptune.ai/blog/data-exploration-for-image-segmentation-and-object-detection
-
 ### 各种卷积网络的PyTorch实现 
 https://github.com/shanglianlm0525/PyTorch-Networks
 
@@ -1139,9 +1121,6 @@ https://github.com/eugeneyan/ml-surveys
 该书主要分为两大部分，一讲数学基础，二讲数学在机器学习算法中的应用。你能从该书中学到线性代数、微积分和概率论等数学基础知识。
 https://github.com/mml-book/mml-book.github.io
 
-### 从头开始搭建神经网络，涵盖微积分和矩阵代数基础，更深入理解机器学习算法 
-https://www.jigsawlabs.io/#neural_nets
-
 模型改进的实际过程往往是这样的：
  * 基线：53％
  * 逻辑回归：58％
@@ -1151,9 +1130,6 @@ https://www.jigsawlabs.io/#neural_nets
 
 bodywork-core - ML-Ops framework for running model-training workloads and deploying model-scoring services on Kubernetes 
 https://github.com/bodywork-ml/bodywork-core
-
-### MLOps教程：机器学习产品开发、部署与维护(机器学习运维用例指南) 
-https://github.com/madewithml/applied-ml-in-production https://www.bilibili.com/video/BV1YV411a798/
 
 Full Stack Deep Learning
 https://zhuanlan.zhihu.com/p/218468169

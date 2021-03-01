@@ -6,18 +6,9 @@ Kaggle PLAsTiCC天文分类比赛第四名方案
 https://github.com/aerdem4/kaggle-plasticc
 https://www.kaggle.com/c/PLAsTiCC-2018/discussion/75011
 
-【图像分类技巧集】《Bag of Tricks for Image Classification》
-https://docs.google.com/presentation/d/1TcHW6aH0QrcLG_SazEjGx5RCsNjF2SQ9gzIR4RKOsRU/edit#slide=id.p
-
 有关语义分割的奇技淫巧有哪些
 https://www.zhihu.com/question/272988870
 https://github.com/liaopeiyuan/ml-arsenal-public
-
-【模型训练日记】’Choochoo (ch2) - An open, hackable and free training diary.'
-https://github.com/andrewcooke/choochoo
-
-【Xavier Amatriain：构建实用深度学习系统得到的经验教训】
-https://www.youtube.com/watch?v=5ygO8FxNB8c
 
 参加Kaggle涂鸦识别比赛的十条经验教训
 https://towardsdatascience.com/10-lessons-learned-from-participating-to-google-ai-challenge-268b4aa87efa
@@ -27,19 +18,6 @@ https://github.com/FAQGURU/FAQGURU
 
 '船长黑板报 - 关于机器学习、计算机视觉和工程技术的总结和分享'
 https://github.com/Captain1986/CaptainBlackboard
-
-【构建实用深度学习系统得到的经验教训】
-https://www.slideshare.net/xamat/lessons-learned-from-building-practical-deep-learning-systems
-
-神经网络训练技巧：黑客视角
-https://blog.floydhub.com/training-neural-nets-a-hackers-perspective/
-
-
-超有用总结：AI实践者需要用到的10个深度学习方法
-https://bigquant.com/community/t/topic/125367?suanfazu&181210&L1
-
-深度学习参数怎么调优，这12个trick告诉你
-https://mp.weixin.qq.com/s?__biz=MzUxMDc1Mzc0MA==&mid=2247484976&idx=3&sn=bc710d433db36bcbfe7e728e9567b0cc&chksm=f97f6893ce08e185a6fe29d4b90b895c9b421c852e183499ec90b0392ed1c719d468a0ce9b23&scene=0&xtrack=1#rd
 
 GBDT 和 Random Forest 为什么在Kaggle等比赛中效果非常好
 https://bigquant.com/community/t/topic/259?suanfazu&181206&L3
@@ -62,10 +40,6 @@ https://arxiv.org/abs/1907.04595
 为什么机器学习模型在产品化过程中会退化？
 https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fwhy-machine-learning-models-degrade-in-production-d0f2108e9214
 
-
-### 【深度学习模型高效训练黑客指南】《A Hacker's Guide to Efficiently Train Deep Learning Models》
-https://medium.com/datadriveninvestor/a-hackers-guide-to-efficiently-train-deep-learning-models-b2cccbd1bc0a
-
 【如何扩展深度网络的能力】《How to trick deep learning algorithms into doing new things | TechTalks》
 https://bdtechtalks.com/2020/07/20/black-box-adversarial-reprogramming/
 
@@ -81,11 +55,8 @@ https://medium.com/swlh/4-hyper-parameter-tuning-techniques-924cb188d199
 Source-Code-Notebook - 关于一些经典论文源码的逐行中文笔记(推荐系统/图神经网络/计算机视觉/自然语言处理/跨模态)’
 https://github.com/nakaizura/Source-Code-Notebook
 
-### 有没有什么可以节省大量时间的 Deep Learning 效率神器？
-https://www.zhihu.com/question/384519338
 
 ![](https://flomo.oss-cn-shanghai.aliyuncs.com/file/2021-02-06/20750/20e90eddb33816a624572894fa660e5b.png)
-
 ![](https://flomo.oss-cn-shanghai.aliyuncs.com/file/2021-02-06/20750/fcf09268bce6adcd9c374e8e69c5f891.png)
 ![](https://flomo.oss-cn-shanghai.aliyuncs.com/file/2021-02-06/20750/61eedd6f389b927bd3de8eaf7f7f73d7.png)
 ![](https://flomo.oss-cn-shanghai.aliyuncs.com/file/2021-02-06/20750/4ba887ddf30c46e4bf9dc0791bb5f91c.png)
