@@ -29,9 +29,6 @@ https://vas3k.com/blog/machine_learning/
 最新版本的OpenCV + OpenVINO的开发配置与演示运行
 https://mp.weixin.qq.com/s/3KUjpfm_bZLMceOJu8Ne5g
 
-【CNN架构复现实战：AlexNet、VGG、GoogLeNet、MobileNet、ResNet(Notebook/Video)】
-https://github.com/Machine-Learning-Tokyo/CNN-Architectures/tree/master/Implementations https://www.bilibili.com/video/BV1aa4y1x7vj
-
 编程其实是：
 - 1% 写代码
 - 40% 调试代码
@@ -54,19 +51,10 @@ https://zh.d2l.ai/chapter_introduction/deep-learning-intro.html
 
 https://study.163.com/course/courseLearn.htm?courseId=1209581854#/learn/video?lessonId=1279974666&courseId=1209581854
 
-【用TensorRT加速深度学习推断】《Speeding Up Deep Learning Inference Using TensorRT | NVIDIA Developer Blog》
-https://developer.nvidia.com/blog/speeding-up-deep-learning-inference-using-tensorrt/
-
 【为写出能更快运行的代码，科学家编程人员必须了解的硬件(CPU&内存)知识(Jupyter Notebook)】
 https://github.com/jakobnissen/hardware_introduction
 
 François Chollet：回顾自己的学生时代，有件事让我震惊，那就是从来没学过元思维(meta)。 学校教给我们定理和公式，却从没教给你可以用来解决问题的通用过程和技巧，或者，关于如何更好地学习。我们只能靠自己，去弄清楚这部分是怎么回事。 我们的确是这样做的，但过程混乱、举步维艰。 往往通过重复试错，获得第一手经验，效率极低。 元思维(meta)，本质上，是一门科学，是可以被教授的。当然，真正重要的，是学习“如何学习”和“如何解决问题”(甚至是更专业的“如何证明定理”)。 相比之下，学习的内容——具体的知识片段——没那么重要。 我已经忘了学过的所有定理，只有元思维能力者还在。
-
-教电脑玩游戏：教小盆友用Scratch玩转机器学习(有中文)
-https://machinelearningforkids.co.uk/?lang=zh-cn#!/worksheets
-
-预训练CNN卷积网络可视化浏览器
-https://poloclub.github.io/cnn-explainer/
 
 ### 【交互式机器学习实验集锦】’Interactive Machine Learning Experiments - models training + models demo' 
 https://github.com/trekhleb/machine-learning-experiments
@@ -102,9 +90,6 @@ https://github.com/dair-ai/ml-visuals
 
 收集了共 86 个可供开发者练习参考的项目创意，其中初级项目 34 个、中级 32 个、高级 20 个，每个项目均附有较为详细的项目参考文档。
 https://github.com/florinpop17/app-ideas
-
-【PyTorch模型类激活图浏览器】’Torchcam: class activation explorer - Class activation maps for your PyTorch models (CAM, Grad-CAM, Grad-CAM++, Smooth Grad-CAM++, Score-CAM)' 
-https://github.com/frgfm/torch-cam
 
 【深度卷积网络通俗介绍(PyTorch)】《A Layman’s Guide to Deep Convolutional Neural Networks》
 https://towardsdatascience.com/a-laymans-guide-to-deep-convolutional-neural-networks-7e937628605f
@@ -163,15 +148,8 @@ https://github.com/amueller/sklearn-one-day
 Jupyter Book：用Jupyter Notebooks制作交互式出版质量的文档
 https://github.com/executablebooks/jupyter-book https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fblog.jupyter.org%2Fannouncing-the-new-jupyter-book-cbf7aa8bc72e
 
-前馈神经网络训练可视化演示
-https://github.com/juniorrojas/ff-net
-
 Kaggle金牌得主的机器学习教程（泰坦尼克）
 https://www.kesci.com/home/project/5f69d02471c700003078961b
-
-【图像识别解释可视化简史】
-https://gradio.app/blog/interpretation-history
-https://github.com/gradio-app/history-of-interpretation/blob/master/History-of-Interpretation.ipynb
 
 为什么机器学习算法很难优化(以及如何解决)
 https://engraved.ghost.io/why-machine-learning-algorithms-are-hard-to-tune/
@@ -181,9 +159,6 @@ https://github.com/logancyang/loss-landscape-anim
 
 Minimal implementations/tutorials of deep learning papers with side-by-side notes; including transformers (original, xl, switch, feedback), optimizers(adam, radam, adabelief), gans(dcgan, cyclegan), reinforcement learning (ppo, dqn), capsnet, sketch-rnn, etc
 https://github.com/lab-ml/nn
-
-【权重可视化】《Visualizing Weights | Distill》
-https://distill.pub/2020/circuits/visualizing-weights/
 
 A Survey on Understanding, Visualizations, and Explanation of Deep Neural Networks
 https://arxiv.org/abs/2102.01792
