@@ -360,3 +360,6 @@ https://github.com/kajyuuen/allennlp-book
 
 OpenAI发布DALL·E：GPT-3的一个120亿参数的版本，可根据文本描述生成图像，用自然语言操纵视觉概念
 https://openai.com/blog/dall-e/ https://github.com/openai/DALL-E
+
+Chatting with DialoGPT (Large-Scale Generative Pre-training for Conversational Response Generation)
+https://github.com/hyunwoongko/dialogpt-chat

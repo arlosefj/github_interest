@@ -136,3 +136,6 @@ https://github.com/MonoGame/MonoGame
 
 Ouzel v0.40：C++跨平台2D游戏引擎
 https://github.com/elnormous/ouzel
+
+“BASIC Computer Games”经典小游戏集合多语言更新版
+https://github.com/coding-horror/basic-computer-games

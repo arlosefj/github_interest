@@ -29,8 +29,6 @@ https://github.com/locuslab/SATNet
 ### A prototype of an apple-sorting manipulator (OpenCV+Arduino) 苹果分拣机械手的原型
 https://www.reddit.com/r/programming/comments/c6xxce/a_prototype_of_an_applesorting_manipulator/
 
-交互式涂鸦游戏
-https://cogtoolslab.org:8888/collab96/collab.html
 
 伪 3D 引擎，体积小，简单快速的创建伪 3D 模型。
 https://github.com/metafizzy/zdog

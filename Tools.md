@@ -685,3 +685,7 @@ https://github.com/yyhsong/iDataV
 
 ### DetVisGUI：目标检测结果可视化GUI 
 https://github.com/Chien-Hung/DetVisGUI
+
+### Paradoc：用Markdown撰写、发布网页的易用工具
+https://github.com/jordwalke/paradoc
+https://jordwalke.github.io/paradoc/README.html

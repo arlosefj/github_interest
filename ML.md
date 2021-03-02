@@ -1136,3 +1136,6 @@ https://zhuanlan.zhihu.com/p/218468169
 
 ### 机器学习模版
 https://github.com/jrieke/traingenerator
+
+十篇“必读”的机器学习博客文章
+https://elvissaravia.substack.com/p/10-must-read-ml-blog-posts

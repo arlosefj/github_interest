@@ -948,3 +948,6 @@ https://github.com/ahmedbesbes/cartoonify
 2012.5 Real-time Image Smoothing via Iterative Least Squares
 https://arxiv.org/abs/2003.07504 https://github.com/wliusjtu/Real-time-Image-Smoothing-via-Iterative-Least-Squares
 matlab代码，可借鉴思想作为评判生成图像好坏的依据
+
+Self2Self With Dropout: Learning Self-Supervised Denoising From Single Image
+https://github.com/scut-mingqinchen/self2self

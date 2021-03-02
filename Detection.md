@@ -816,3 +816,12 @@ https://zhuanlan.zhihu.com/p/137768226
 
 A Comparison of Deep Learning Object Detection Models for Satellite Imagery 
 https://arxiv.org/abs/2009.04857
+
+Voxel R-CNN: Towards High Performance Voxel-based 3D Object Detection
+https://github.com/djiajunustc/Voxel-R-CNN
+
+Localization Distillation for Object Detection
+https://github.com/HikariTJU/LD
+
+TinyYOLOv2Barracuda：基于Unity Barracuda神经网络推理库的TinyYOLOv2目标检测库
+https://github.com/keijiro/TinyYOLOv2Barracuda

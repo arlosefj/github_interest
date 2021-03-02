@@ -226,3 +226,9 @@ https://github.com/rlberry-py/rlberry
 
 ReBeL：用单一AI算法玩所有游戏的新尝试，可以玩国际象棋、围棋、扑克、掷骰子等 
 https://ai.facebook.com/blog/rebel-a-general-game-playing-ai-bot-that-excels-at-poker-and-more/
+
+离线强化学习算法大列表
+https://github.com/hanjuku-kaso/awesome-offline-rl
+
+MTRL：多任务强化学习算法库
+https://github.com/facebookresearch/mtrl

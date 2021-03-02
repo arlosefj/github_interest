@@ -425,3 +425,13 @@ https://ai.googleblog.com/2020/12/transformers-for-image-recognition-at.html htt
 
 ### FastFormers：CPU上的233倍速Transformer推理 
 https://medium.com/ai-in-plain-english/fastformers-233x-faster-transformers-inference-on-cpu-4c0b7a720e1
+
+Towards Accurate and Compact Architectures via Neural Architecture Transformer
+https://arxiv.org/abs/2102.10301
+
+Do We Really Need Explicit Position Encodings for Vision Transformers?
+https://arxiv.org/abs/2102.10882
+https://github.com/Meituan-AutoML/CPVT
+
+Transformer及其NLP应用的直观介绍
+https://theaisummer.com/transformer/

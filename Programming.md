@@ -70,3 +70,9 @@ https://opticos.github.io/gwsl/ https://github.com/Opticos/GWSL-Source
 
 开源的 Linux 教程：Linux Up Skill Challenge
 https://github.com/snori74/linuxupskillchallenge
+
+研究人员如何提高软件工程技能
+https://ljvmiranda921.github.io/notebook/2020/11/15/data-science-swe/
+
+Awesome CTO：CTO参考资源大列表
+https://github.com/kuchin/awesome-cto

@@ -443,7 +443,8 @@ https://github.com/intel/intel-extension-for-pytorch
 【PyTorch数据集读取器，用于直接读取POSIX tar文档】
 https://github.com/tmbdev/webdataset
 
-
+PyTorch计算机视觉自注意力模块包
+https://github.com/The-AI-Summer/self-attention-cv
 
 【PyTorch入门(Notebook/Slides)】’Notebook / Slides for ACDL2020 in Siena, Italy'
 https://github.com/t-vi/acdl2020

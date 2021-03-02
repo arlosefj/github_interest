@@ -65,3 +65,6 @@ https://paperswithcode.com/lib/timm
 
 一批机器学习、NLP、计算机视觉及推荐系统相关的开发资源，并提供项目实现思路、产品方向、数据集等资料 
 https://github.com/NirantK/awesome-project-ideas
+
+JetLinks IoT Platform 物联网基础平台 - 基于Java8,Spring Boot 2.x ,WebFlux,Netty,Vert.x,Reactor等开发, 的全响应式企业级物联网平台
+https://github.com/jetlinks/jetlinks-community

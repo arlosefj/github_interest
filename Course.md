@@ -190,3 +190,12 @@ https://datawhalechina.github.io/dive-into-cv-pytorch/ https://github.com/datawh
 ### 深度学习在图像处理中的应用教程 
 和上面类似，可以借鉴
 https://github.com/WZMIAOMIAO/deep-learning-for-image-processing
+
+机器学习核方法
+http://members.cbio.mines-paristech.fr/~jvert/svn/kernelcourse/slides/master2017/master2017.pdf
+http://members.cbio.mines-paristech.fr/~jvert/svn/kernelcourse/course/2021mva/index.html
+https://www.bilibili.com/video/BV14z4y1m72D/
+https://www.youtube.com/playlist?list=PLD93kGj6_EdrkNj27AZMecbRlQ1SMkp_o
+
+李宏毅《机器学习》国语课程(2021)
+https://www.bilibili.com/video/BV11K4y1S7AD/

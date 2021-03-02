@@ -592,3 +592,6 @@ https://github.com/MachineLP/QDServing
 
 ### CompreFace：开源人脸识别系统
 https://github.com/exadel-inc/CompreFace
+
+### 高效视觉模型
+https://paperswithcode.com/newsletter/5

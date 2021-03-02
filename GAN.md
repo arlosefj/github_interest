@@ -878,3 +878,21 @@ https://arxiv.org/abs/2012.01806
 StrokeGAN: Reducing Mode Collapse in Chinese Font Generation via Stroke Encoding 
 https://arxiv.org/abs/2012.08687
 可用于手写文字生成
+
+AniGAN: Style-Guided Generative Adversarial Networks for Unsupervised Anime Face Generation
+https://arxiv.org/abs/2102.12593
+![](https://wx1.sinaimg.cn/mw690/5396ee05gy1go1o5l3mhcj21300fedku.jpg)
+
+Do Generative Models Know Disentanglement? Contrastive Learning is All You Need
+https://arxiv.org/abs/2102.10543
+https://github.com/xrenaa/DisCo
+![](https://wx2.sinaimg.cn/mw690/5396ee05gy1go3z06mwruj212h0h1gs3.jpg)
+
+Delip Rao：生成式深度学习中，如果模型效果好，那它就是“产品(product)”，如果效果不好，那它就是“艺术(art)”。 ​​​​
+
+Pytorch implementation of the TIP paper, Towards Unsupervised Deep Image Enhancement with Generative Adversarial Network
+https://github.com/eezkni/UEGAN
+![](https://wx1.sinaimg.cn/mw690/5396ee05gy1go36xzo1mpj20w50dpn0f.jpg)
+
+### Monster Mash: New Sketch-Based Modeling and Animation Tool
+https://github.com/google/monster-mash

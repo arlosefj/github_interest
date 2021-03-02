@@ -205,3 +205,6 @@ https://github.com/jasmcaus/opencv-course
 
 ### YOLOV4-Tiny：You Only Look Once-Tiny目标检测模型在Pytorch当中的实现'
 https://github.com/bubbliiiing/yolov4-tiny-pytorch
+
+Lyra 2：无需代码的交互可视化创建工具
+http://vis.csail.mit.edu/pubs/lyra2 https://vega.github.io/lyra/

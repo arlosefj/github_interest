@@ -229,3 +229,6 @@ https://github.com/alibaba/GPU-scheduler-for-deep-learning
 
 深入浅出 K8s'
 https://github.com/wx-chevalier/K8s-Series
+
+Rhit：nginx日志浏览器
+https://github.com/Canop/rhit

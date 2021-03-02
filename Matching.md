@@ -130,3 +130,6 @@ https://github.com/feymanpriv/DELG
 
 A Straightforward Framework For Video Retrieval Using CLIP
 https://github.com/Deferf/CLIP_Video_Representation https://arxiv.org/abs/2102.12443
+
+MinkLoc3D: Point Cloud Based Large-Scale Place Recognition
+https://github.com/jac99/MinkLoc3D
