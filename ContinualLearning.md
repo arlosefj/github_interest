@@ -72,3 +72,6 @@ https://github.com/facebookresearch/CTrLBenchmark
 
 Mammoth - PyTorch可扩展(通用)持续学习框架 
 https://github.com/aimagelab/mammoth
+
+Avalanche: an End-to-End Library for Continual Learning
+https://github.com/ContinualAI/avalanche

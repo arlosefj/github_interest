@@ -284,3 +284,9 @@ https://github.com/cnguyen10/few_shot_meta_learning
 
 少样本图像生成文献资料列表 
 https://github.com/bcmi/Awesome-Few-Shot-Image-Generation
+
+Counterfactual Zero-Shot and Open-Set Visual Recognition
+https://github.com/yue-zhongqi/gcm-cf
+
+ZenNAS: A Zero-Shot NAS for High-Performance Deep Image Recognition
+https://github.com/idstcv/ZenNAS

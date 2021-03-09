@@ -598,3 +598,20 @@ https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-s
 PyTorch从入门到GANs
 https://medium.com/jovian-io/pytorch-basics-tensors-and-gradients-eb2f6e8a6eee
 
+flaxvision：从torchvision移植的神经网络模型集
+https://github.com/rolandgvc/flaxvision
+
+NN Template：使用PyTorch Lightning, Hydra, W&B, DVC的PyTorch项目高效开发模板
+https://github.com/lucmos/nn-template
+
+### Kineto - A CPU+GPU Profiling library that provides access to timeline traces and hardware performance counters.
+https://github.com/pytorch/kineto
+
+fastmoe：基于PyTorch的MoE模型训练系统
+https://github.com/laekov/fastmoe
+
+【PyTorch Lightning + Hydra模板】
+ github.com/hobogalaxy/lightning-hydra-template
+
+ 【accelerate：在各种设备上简单运行PyTorch训练脚本】
+ github.com/huggingface/accelerate

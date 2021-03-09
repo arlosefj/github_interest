@@ -560,3 +560,6 @@ arxiv.org/pdf/2101.04407.pdf
 
 ### 26M Flops Facial Landmark Detection：PyTorch实现的高性能人脸标特征点检测 
 https://github.com/ainrichman/Peppa-Facial-Landmark-PyTorch
+
+Pixel-in-Pixel Net: Towards Efficient Facial Landmark Detection in the Wild
+https://github.com/jhb86253817/PIPNet

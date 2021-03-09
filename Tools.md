@@ -689,3 +689,21 @@ https://github.com/Chien-Hung/DetVisGUI
 ### Paradoc：用Markdown撰写、发布网页的易用工具
 https://github.com/jordwalke/paradoc
 https://jordwalke.github.io/paradoc/README.html
+
+从文本创建流程图
+https://flowchart.fun/ https://github.com/tone-row/flowchart-fun
+
+ytfzf：搜索Youtube并用youtube-dl下载视频的shell脚本
+https://github.com/pystardust/ytfzf
+
+t-rec: Terminal Recorder：快捷的终端录像gif动画生成工具
+https://github.com/sassman/t-rec-rs
+
+PyGlossary：各种词典数据文件的转换/读写工具
+https://github.com/ilius/pyglossary
+
+【sq: 数据的“瑞士军刀”，提供对结构化数据源(如 SQL 数据库)或文档格式(如 CSV 或 Excel)的 jq 风格访问】
+https:// github.com/neilotoole/sq
+
+【vedo：基于VTK和Numpy的3D目标科学分析与可视化模块】
+github.com/marcomusy/vedo

@@ -435,3 +435,6 @@ https://nerf-w.github.io/
 
 Google Photos照片3D化展示背后的技术
 https://ai.googleblog.com/2021/02/the-technology-behind-cinematic-photos.html
+
+### 《Depth from Camera Motion and Object Detection》(CVPR 2021) 
+github.com/griffbr/ODMD 

@@ -55,4 +55,10 @@ https://pabloinsente.github.io/intro-linear-algebra
 Math Inspector：Python科学计算可视化编程环境
 https://github.com/MathInspector/MathInspector
 
-Amin Karbasi：强烈推荐给学计算机的学生(以及广大科研人员)这本《Mathematics++: Selected Topics Beyond the Basic Courses》，可以帮我们轻松理解测度论、拓扑学等，有很多直觉，非常容易理解。 ​​​​
+Amin Karbasi：强烈推荐给学计算机的学生(以及广大科研人员)这本《Mathematics++: Selected Topics Beyond the Basic Courses》，可以帮我们轻松理解测度论、拓扑学等，有很多直觉，非常容易理解。 
+
+斯坦福《线性代数导论/矩阵方法导论》课程(2020)
+https://www.bilibili.com/video/bv1dV411e7pi http://vmls-book.stanford.edu/
+
+ggdist: 分布和不确定性可视化
+https://github.com/mjskay/ggdist

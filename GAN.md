@@ -896,3 +896,19 @@ https://github.com/eezkni/UEGAN
 
 ### Monster Mash: New Sketch-Based Modeling and Animation Tool
 https://github.com/google/monster-mash
+
+### Generative Adversarial Transformers
+https://arxiv.org/abs/2103.01209
+https://github.com/dorarad/gansformer
+
+Training Generative Adversarial Networks in One Stage
+https://www.arxiv-vanity.com/papers/2103.00430/
+
+House-GAN++: Generative Adversarial Layout Refinement Networks
+https://www.arxiv-vanity.com/papers/2103.02574
+
+Ultra-Data-Efficient GAN Training: Drawing A Lottery Ticket First, Then Training It Toughly
+https://github.com/VITA-Group/Ultra-Data-Efficient-GAN-Training
+
+Anycost GANs for Interactive Image Synthesis and Editing
+github.com/mit-han-lab/anycost-gan

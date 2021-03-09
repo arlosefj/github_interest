@@ -555,3 +555,6 @@ https://github.com/EdisonLeeeee/GraphGallery
 
 神经网络架构搜索(NAS)相关论文列表 
 https://github.com/jackguagua/awesome-nas-papers
+
+Transformer in Transformer
+https://www.arxiv-vanity.com/papers/2103.00112/

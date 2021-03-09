@@ -133,3 +133,12 @@ https://github.com/Deferf/CLIP_Video_Representation https://arxiv.org/abs/2102.1
 
 MinkLoc3D: Point Cloud Based Large-Scale Place Recognition
 https://github.com/jac99/MinkLoc3D
+
+Keras实例：语义图像聚类
+https://keras.io/examples/vision/semantic_image_clustering/
+
+Image Similarity Measures：图片相似度测度的Python实现
+https://github.com/up42/image-similarity-measures
+
+《Extremely Dense Point Correspondences using a Learned Feature Descriptor》(CVPR 2020) 
+github.com/lppllppl920/DenseDescriptorLearning-Pytorch

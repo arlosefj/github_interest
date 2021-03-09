@@ -484,3 +484,9 @@ https://github.com/by2101/OpenASR
 
 实时音频频谱生成(网页版)
 https://borismus.github.io/spectrogram/
+
+【WavEncoder：PyTorch后端的原始音频编码库】
+https://github.com/shangeth/wavencoder
+
+【Picovoice：用于大规模语音产品构建的端到端平台】
+github.com/Picovoice/picovoice 

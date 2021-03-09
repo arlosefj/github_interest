@@ -595,3 +595,22 @@ https://github.com/exadel-inc/CompreFace
 
 ### 高效视觉模型
 https://paperswithcode.com/newsletter/5
+
+### 用TinyML实现边缘节点远程“抄水表”
+https://petewarden.com/2021/02/28/how-screen-scraping-and-tinyml-can-turn-any-dial-into-an-api/
+https://github.com/jomjol/AI-on-the-edge-device
+
+ultimateALPR-SDK：CPU/GPU/VPU/FPGA上最快的多平台深度学习车牌识别
+https://github.com/DoubangoTelecom/ultimateALPR-SDK
+
+### 表情更丰富的动画人脸合成
+https://github.com/pkhungurn/talking-head-anime-2-demo
+
+### InsightFace-REST：可用Docker方便部署的InsightFace人脸识别REST API
+github.com/SthPhoenix/InsightFace-REST 
+
+'DeepVision - CV算法快速验证框架项目' 
+github.com/peng-zhihui/DeepVision
+
+【Human Library：基于TensorFlow的JS 3D人脸检测、人体姿态、手和手指跟踪、虹膜跟踪及年龄和性别预测】
+github.com/vladmandic/human

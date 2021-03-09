@@ -1139,3 +1139,12 @@ https://github.com/jrieke/traingenerator
 
 十篇“必读”的机器学习博客文章
 https://elvissaravia.substack.com/p/10-must-read-ml-blog-posts
+
+主动学习文献资源列表
+https://github.com/yongjin-shin/awesome-active-learning
+
+机器学习面试指南：常用概念、最佳实践、定义和理论
+https://www.notion.so/Machine-Learning-Bites-7c1675ecb587451e9caf793c68972276
+
+自监督学习图解
+https://amitness.com/2020/02/illustrated-self-supervised-learning/

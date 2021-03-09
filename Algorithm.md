@@ -311,3 +311,6 @@ https://github.com/dashidhy/algorithm-pattern-python
 
 算法工程师技术路线图
 https://zhuanlan.zhihu.com/p/192633890
+
+'令狐冲的算法小抄'
+github.com/ninechapter-algorithm/linghu-algorithm-templete

@@ -199,3 +199,10 @@ https://www.youtube.com/playlist?list=PLD93kGj6_EdrkNj27AZMecbRlQ1SMkp_o
 
 李宏毅《机器学习》国语课程(2021)
 https://www.bilibili.com/video/BV11K4y1S7AD/
+
+经典机器学习课程《从数据中学习(机器学习与数据挖掘)》B站搬运追加中文字幕
+https://www.bilibili.com/video/BV13x411D7TU
+
+MIT《(Julia)计算思维导论》课程(2021)
+https://computationalthinking.mit.edu/Spring21/
+https://www.bilibili.com/video/BV1Jv411Y7zw

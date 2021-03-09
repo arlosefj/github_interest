@@ -232,3 +232,9 @@ https://github.com/hanjuku-kaso/awesome-offline-rl
 
 MTRL：多任务强化学习算法库
 https://github.com/facebookresearch/mtrl
+
+深度强化学习相关笔记和PPT
+https://github.com/wangshusen/DRL
+
+### PyTorch强化学习教程
+github.com/bentrevett/pytorch-rl 

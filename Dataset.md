@@ -562,3 +562,12 @@ https://github.com/deliton/idt
 
 ### 计算机视觉数据集搜索引擎 
 https://datasets.bifrost.ai/
+
+机器学习研究数据集列表
+https://www.wikiwand.com/en/List_of_datasets_for_machine-learning_research
+
+DoTA：无人驾驶异常检测数据集
+https://github.com/MoonBlvd/Detection-of-Traffic-Anomaly
+
+Placepedia：带有多方面标注的大规模位置图像数据集
+github.com/hahehi/placepedia 

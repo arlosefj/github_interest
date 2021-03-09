@@ -695,3 +695,6 @@ https://towardsdatascience.com/10-useful-jupyter-notebook-extensions-for-a-data-
 
 ### python开发手机应用 kivy
 https://realpython.com/mobile-app-kivy-python/
+
+ipympl：Jupyter的Matplotlib集成模块，支持Jupyter notebook和JupyterLab里的matplotlib交互特性
+https://github.com/matplotlib/ipympl

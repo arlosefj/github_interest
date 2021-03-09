@@ -435,3 +435,15 @@ https://github.com/Meituan-AutoML/CPVT
 
 Transformer及其NLP应用的直观介绍
 https://theaisummer.com/transformer/
+
+OmniNet: Omnidirectional Representations from Transformers
+https://www.arxiv-vanity.com/papers/2103.01075
+
+Duel-Level Collaborative Transformer for Image Captioning
+https://github.com/luo3300612/image-captioning-DLCT
+
+《Coordinate Attention for Efficient Mobile Network Design》(CVPR 2021) 
+github.com/Andrew-Qibin/CoordAttention
+
+Energy-Based Learning for Scene Graph Generation
+github.com/mods333/energy-based-scene-graph

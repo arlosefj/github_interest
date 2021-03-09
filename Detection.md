@@ -825,3 +825,15 @@ https://github.com/HikariTJU/LD
 
 TinyYOLOv2Barracuda：基于Unity Barracuda神经网络推理库的TinyYOLOv2目标检测库
 https://github.com/keijiro/TinyYOLOv2Barracuda
+
+Towards Open World Object Detection
+https://www.arxiv-vanity.com/papers/2103.02603 https://github.com/JosephKJ/OWOD
+
+### Data Augmentation for Object Detection via Differentiable Neural Rendering
+https://github.com/Guanghan/DANR
+
+Deep Interactive Thin Object Selection
+https://github.com/liewjunhao/thin-object-selection
+
+### 《UP-DETR: Unsupervised Pre-training for Object Detection with Transformers》(CVPR 2021) 
+github.com/dddzg/up-detr

@@ -363,3 +363,9 @@ https://openai.com/blog/dall-e/ https://github.com/openai/DALL-E
 
 Chatting with DialoGPT (Large-Scale Generative Pre-training for Conversational Response Generation)
 https://github.com/hyunwoongko/dialogpt-chat
+
+GPT-3应用项目大列表
+https://airtable.com/shrndwzEx01al2jHM/tblYMAiGeDLXe35jC
+
+GPT-3应用项目大列表
+https://airtable.com/shrndwzEx01al2jHM/tblYMAiGeDLXe35jC

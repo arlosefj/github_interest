@@ -951,3 +951,6 @@ matlab代码，可借鉴思想作为评判生成图像好坏的依据
 
 Self2Self With Dropout: Learning Self-Supervised Denoising From Single Image
 https://github.com/scut-mingqinchen/self2self
+
+Auto-exposure Fusion for Single-image Shadow Removal》(CVPR 2021) 
+https://github.com/tsingqguo/exposure-fusion-shadow-removal 

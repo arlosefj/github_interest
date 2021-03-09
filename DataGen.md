@@ -381,3 +381,12 @@ https://arxiv.org/abs/2102.11263
 
 ### 用合成数据改进机器学习大规模非平衡数据集 
 https://towardsdatascience.com/improving-massively-imbalanced-datasets-in-machine-learning-with-synthetic-data-7dd3d856bbdf
+
+Domain Generalization: A Survey
+https://www.arxiv-vanity.com/papers/2103.02503
+
+Official pytorch implementation of paper "Image-to-image Translation via Hierarchical Style Disentanglement" (CVPR 2021 Oral).
+https://github.com/imlixinyang/HiSD
+
+### 《GANwriting: Content-Conditioned Generation of Styled Handwritten Word Images》(ECCV 2020)
+github.com/omni-us/research-GANwriting

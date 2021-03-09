@@ -124,3 +124,6 @@ https://medium.com/hackernoon/the-ai-hierarchy-of-needs-18f111fcc007
 
 HYDRA: Hypergradient Data Relevance Analysis for Interpreting Deep Neural Networks
 https://github.com/cyyever/aaai_2021_hydra
+
+Perceiver: General Perception with Iterative Attention
+https://www.arxiv-vanity.com/papers/2103.03206

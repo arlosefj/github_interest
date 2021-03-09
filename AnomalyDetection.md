@@ -137,3 +137,6 @@ https://arxiv.org/abs/2102.11650
 
 ### Anomaly Detection：深度学习端到端半监督图像异常检测与分割框架 
 https://github.com/AdneneBoumessouer/MVTec-Anomaly-Detection
+
+PyTorch implementation of "Modeling the Distribution of Normal Data in Pre-Trained Deep Features for Anomaly Detection"
+https://github.com/byungjae89/MahalanobisAD-pytorch

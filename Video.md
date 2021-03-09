@@ -317,3 +317,11 @@ https://github.com/benwilber/boltstream
 vdx：基于FFmpeg的直观便捷命令行视频处理工具 
 https://github.com/yuanqing/vdx
 
+Where to look at the movies : Analyzing visual attention to understand movie editing
+https://www.arxiv-vanity.com/papers/2102.13378/
+
+### audio-video-dev-tutorial - 简单易懂的音视频开发教程' 
+https://github.com/CoderMJLee/audio-video-dev-tutorial 
+
+VideoLiterature：视频研究相关文献列表
+https://github.com/VideoForage/Video-Lit
