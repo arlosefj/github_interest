@@ -954,3 +954,9 @@ https://github.com/scut-mingqinchen/self2self
 
 Auto-exposure Fusion for Single-image Shadow Removal》(CVPR 2021) 
 https://github.com/tsingqguo/exposure-fusion-shadow-removal 
+
+JdeRobot Academy: 通过实践学习机器人和计算机视觉
+https://github.com/JdeRobot/RoboticsAcademy
+
+《DeFMO: Deblurring and Shape Recovery of Fast Moving Objects》(CVPR 2021) 
+https://github.com/rozumden/DeFMO 

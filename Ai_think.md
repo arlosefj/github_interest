@@ -127,3 +127,6 @@ https://github.com/cyyever/aaai_2021_hydra
 
 Perceiver: General Perception with Iterative Attention
 https://www.arxiv-vanity.com/papers/2103.03206
+
+### 《Involution: Inverting the Inherence of Convolution for Visual Recognition》(CVPR 2021) 
+https://github.com/d-li14/involution 

@@ -84,3 +84,6 @@ https://github.com/jomjol/AI-on-the-edge-device
 
 deepC：独立于供应商的深度学习库、编译器和推理框架，专为小型设备设计，包括μ控制器、物联网和边缘设备等 
 https://github.com/ai-techsystems/deepC
+
+用稀疏推理加速移动端和网页上的神经网络
+https://ai.googleblog.com/2021/03/accelerating-neural-networks-on-mobile.html

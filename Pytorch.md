@@ -615,3 +615,6 @@ https://github.com/laekov/fastmoe
 
  【accelerate：在各种设备上简单运行PyTorch训练脚本】
  github.com/huggingface/accelerate
+
+PyTorch基础教程——完整的机器学习工作流程指南，详细解释了诸如 Tensors，DataLoaders，Transforms 等概念
+https://pytorch.org/tutorials/beginner/basics/intro.html

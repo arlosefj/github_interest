@@ -307,3 +307,6 @@ https://arxiv.org/abs/2011.14503
 Reference-Based Video Colorization with Spatiotemporal Correspondence 
 重点在于时空一致性
 https://arxiv.org/abs/2011.12528
+
+多目标跟踪相关论文资源大列表
+https://github.com/luanshiyinyang/awesome-multiple-object-tracking/blob/master/README-zh.md

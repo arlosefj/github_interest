@@ -707,3 +707,6 @@ https:// github.com/neilotoole/sq
 
 【vedo：基于VTK和Numpy的3D目标科学分析与可视化模块】
 github.com/marcomusy/vedo
+
+### 【玩游戏学Git】“Oh My Git!”  
+https://ohmygit.org/

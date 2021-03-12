@@ -837,3 +837,12 @@ https://github.com/liewjunhao/thin-object-selection
 
 ### 《UP-DETR: Unsupervised Pre-training for Object Detection with Transformers》(CVPR 2021) 
 github.com/dddzg/up-detr
+
+End-to-End Human Object Interaction Detection with HOI Transformer
+https://github.com/bbepoch/HoiTransformer
+
+QPIC: Query-Based Pairwise Human-Object Interaction Detection with Image-Wide Contextual Information
+https://github.com/hitachi-rd-cv/qpic
+
+《Multiple Instance Active Learning for Object Detection》(CVPR 2021) 
+https://github.com/yuantn/MIAL 

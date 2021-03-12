@@ -912,3 +912,6 @@ https://github.com/VITA-Group/Ultra-Data-Efficient-GAN-Training
 
 Anycost GANs for Interactive Image Synthesis and Editing
 github.com/mit-han-lab/anycost-gan
+
+Repurposing GANs for One-shot Semantic Part Segmentation
+https://www.arxiv-vanity.com/papers/2103.04379

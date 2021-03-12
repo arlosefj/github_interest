@@ -45,3 +45,6 @@ https://github.com/rpryzant/causal-bert-pytorch
 
 Towards Causal Representation Learning
 https://arxiv.org/abs/2102.11107
+
+因果推理和机器(深度)学习“必读”论文资源列表
+https://github.com/jvpoulos/causal-ml

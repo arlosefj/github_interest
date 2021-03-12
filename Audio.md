@@ -490,3 +490,9 @@ https://github.com/shangeth/wavencoder
 
 【Picovoice：用于大规模语音产品构建的端到端平台】
 github.com/Picovoice/picovoice 
+
+audlib：以深度学习为重点的Python语音信号处理库
+https://github.com/raymondxyy/pyaudlib
+
+Auto-Editor：命令行视频/音频自动编辑工具，自动切除静默部分
+https://github.com/WyattBlue/auto-editor

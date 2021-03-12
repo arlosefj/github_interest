@@ -24,3 +24,6 @@ https://github.com/CanyonWind/Single-Path-One-Shot-NAS-MXNet
 
 MXNet目标检测模型库
 https://github.com/kohillyang/mx-detection
+
+Decord：深度学习视频高效加载器
+https://github.com/dmlc/decord 

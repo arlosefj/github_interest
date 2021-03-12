@@ -447,3 +447,12 @@ github.com/Andrew-Qibin/CoordAttention
 
 Energy-Based Learning for Scene Graph Generation
 github.com/mods333/energy-based-scene-graph
+
+长程Transformers论文解读
+https://huggingface.co/blog/long-range-transformers
+
+Improving Image Captioning Evaluation by Considering Inter References Variance(ACL 2020) 
+https://github.com/ck0123/improved-bertscore-for-image-captioning-evaluation
+
+《Attention is Not All You Need: Pure Attention Loses Rank Doubly Exponentially with Depth》
+https://github.com/twistedcubic/attention-rank-collapse 

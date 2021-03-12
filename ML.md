@@ -1148,3 +1148,24 @@ https://www.notion.so/Machine-Learning-Bites-7c1675ecb587451e9caf793c68972276
 
 自监督学习图解
 https://amitness.com/2020/02/illustrated-self-supervised-learning/
+
+深度学习相关资源大列表(书籍、教程、博客、播客等)
+https://github.com/theepiccode/Curated-Deep-Learning-Resources
+
+Adversarial Robustness Toolbox (ART)：Python机器学习安全库/对抗性鲁棒性工具箱
+https://github.com/Trusted-AI/adversarial-robustness-toolbox
+
+### sklearn-evaluation - Machine learning model evaluation made easy: plots, tables, HTML reports, experiment tracking and Jupyter notebook analysis.
+https://github.com/edublancas/sklearn-evaluation
+
+Quinine：特别面向机器学习项目的配置文件创建管理库
+https://github.com/krandiash/quinine
+
+### 面向产品的深度学习
+https://www.reddit.com/r/MachineLearning/comments/m0ew90/d_deep_learning_in_production/ 
+
+人工智能产品需求目录，目的是帮助数据科学团队收集建立机器学习模型及其产品时需要考虑的所有需求
+https://github.com/ttzt/catalog_of_requirements_for_ai_products
+
+《动手学深度学习》 第2版预览版，面向中文读者的能运行、可讨论的深度学习教科书，含 NumPy/MXNet、PyTorch 和 TensorFlow 实现
+https://github.com/d2l-ai/d2l-zh

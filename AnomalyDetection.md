@@ -140,3 +140,6 @@ https://github.com/AdneneBoumessouer/MVTec-Anomaly-Detection
 
 PyTorch implementation of "Modeling the Distribution of Normal Data in Pre-Trained Deep Features for Anomaly Detection"
 https://github.com/byungjae89/MahalanobisAD-pytorch
+
+Pixel-wise Anomaly Detection in Complex Driving Scenes
+https://www.arxiv-vanity.com/papers/2103.05445

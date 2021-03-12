@@ -390,3 +390,12 @@ https://github.com/imlixinyang/HiSD
 
 ### 《GANwriting: Content-Conditioned Generation of Styled Handwritten Word Images》(ECCV 2020)
 github.com/omni-us/research-GANwriting
+
+Generating Images with Sparse Representations
+https://www.arxiv-vanity.com/papers/2103.03841
+
+VectorAscent: 根据文本描述生成矢量图
+https://github.com/ajayjain/VectorAscent
+
+《Parser-Free Virtual Try-on via Distilling Appearance Flows》
+https://github.com/geyuying/PF-AFN

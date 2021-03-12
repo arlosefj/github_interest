@@ -259,3 +259,6 @@ https://github.com/leVirve/lsun-room
 
 ### Face2webtoon：人脸Webtoon卡通画
 https://github.com/sangyun884/Face2Webtoon
+
+### Crypko：用GAN让人人都变成动漫小画家
+https://crypko.ai/

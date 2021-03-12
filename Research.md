@@ -101,3 +101,6 @@ https://www.zhihu.com/question/349350653
 
 arXiv论文关联图谱
 https://medium.com/connectedpapers/connected-papers-partners-with-arxiv-8ce8122f6b4c
+
+学术论文搜索引擎，全文检索索引包含超过2500万的研究文章和其他保存在互联网档案馆里的学术文档
+https://github.com/internetarchive/fatcat-scholar

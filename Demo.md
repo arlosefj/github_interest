@@ -614,3 +614,9 @@ github.com/peng-zhihui/DeepVision
 
 【Human Library：基于TensorFlow的JS 3D人脸检测、人体姿态、手和手指跟踪、虹膜跟踪及年龄和性别预测】
 github.com/vladmandic/human
+
+MIVisionX：一套综合的计算机视觉和机器智能库、实用程序和应用工具包
+https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX
+
+### image2csv：从图片中提取表格数据，并保存为. csv文件
+https://github.com/artperrin/image2csv
