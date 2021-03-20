@@ -206,3 +206,7 @@ https://www.bilibili.com/video/BV13x411D7TU
 MIT《(Julia)计算思维导论》课程(2021)
 https://computationalthinking.mit.edu/Spring21/
 https://www.bilibili.com/video/BV1Jv411Y7zw
+
+伯克利CS 182《深度学习：深度神经网络设计、可视化与理解》课程(2021)
+https://cs182sp21.github.io/
+https://www.bilibili.com/video/BV1PK4y1U751

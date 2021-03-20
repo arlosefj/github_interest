@@ -369,3 +369,6 @@ https://airtable.com/shrndwzEx01al2jHM/tblYMAiGeDLXe35jC
 
 GPT-3应用项目大列表
 https://airtable.com/shrndwzEx01al2jHM/tblYMAiGeDLXe35jC
+
+甲言Jiayan - 甲言，专注于古代汉语(古汉语/古文/文言文/文言)处理的NLP工具包，支持文言词库构建、分词、词性标注、断句和标点
+github.com/jiaeyan/Jiayan

@@ -153,3 +153,6 @@ https://github.com/jsharp83/MetalCamera
 
 IOS: Inter-Operator Scheduler for CNN Acceleration
 https://github.com/mit-han-lab/inter-operator-scheduler
+
+### 安卓手机上的NanoDet目标检测演示项目
+github.com/nihui/ncnn-android-nanodet

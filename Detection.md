@@ -846,3 +846,6 @@ https://github.com/hitachi-rd-cv/qpic
 
 《Multiple Instance Active Learning for Object Detection》(CVPR 2021) 
 https://github.com/yuantn/MIAL 
+
+patially Consistent Representation Learning
+https://www.arxiv-vanity.com/papers/2103.06122

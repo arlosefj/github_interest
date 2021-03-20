@@ -238,3 +238,6 @@ https://github.com/wangshusen/DRL
 
 ### PyTorch强化学习教程
 github.com/bentrevett/pytorch-rl 
+
+Crafter：强化学习开放世界生存(开发)环境
+github.com/danijar/crafter 

@@ -78,3 +78,6 @@ Awesome CTO：CTO参考资源大列表
 https://github.com/kuchin/awesome-cto
 
 “最有效的调试工具仍然是深思熟虑，加上明智的输出语句” - Brian W. Kernighan,  Unix for Beginners (1979) ​​​​
+
+JAX入门教程
+https://jax.readthedocs.io/en/latest/jax-101/index.html

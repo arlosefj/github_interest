@@ -290,3 +290,6 @@ https://github.com/yue-zhongqi/gcm-cf
 
 ZenNAS: A Zero-Shot NAS for High-Performance Deep Image Recognition
 https://github.com/idstcv/ZenNAS
+
+FSCE: Few-Shot Object Detection via Contrastive Proposal Encoding
+https://www.arxiv-vanity.com/papers/2103.05950

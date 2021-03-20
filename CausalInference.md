@@ -48,3 +48,6 @@ https://arxiv.org/abs/2102.11107
 
 因果推理和机器(深度)学习“必读”论文资源列表
 https://github.com/jvpoulos/causal-ml
+
+行为背后的动力是什么？——智能体的因果机制
+https://medium.com/@deepmindsafetyresearch/what-mechanisms-drive-agent-behaviour-e7b8d9aee88

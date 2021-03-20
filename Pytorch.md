@@ -618,3 +618,9 @@ https://github.com/laekov/fastmoe
 
 PyTorch基础教程——完整的机器学习工作流程指南，详细解释了诸如 Tensors，DataLoaders，Transforms 等概念
 https://pytorch.org/tutorials/beginner/basics/intro.html
+
+Torchattacks：PyTorch对抗攻击库
+github.com/Harry24k/adversarial-attacks-pytorch
+
+Torch-metrics: model evaluation metrics for PyTorch：PyTorch模型评价指标库
+github.com/enochkan/torch-metrics

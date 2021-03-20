@@ -130,3 +130,12 @@ https://www.arxiv-vanity.com/papers/2103.03206
 
 ### 《Involution: Inverting the Inherence of Convolution for Visual Recognition》(CVPR 2021) 
 https://github.com/d-li14/involution 
+
+理解深度学习泛化的新视角
+https://ai.googleblog.com/2021/03/a-new-lens-on-understanding.html
+
+OpenAI最先进的机器视觉AI被手写纸条愚弄了——机器与人类智能的案例研究
+https://www.theverge.com/2021/3/8/22319173/openai-machine-vision-adversarial-typographic-attacka-clip-multimodal-neuron
+
+Involution: Inverting the Inherence of Convolution for Visual Recognition
+github.com/d-li14/involution

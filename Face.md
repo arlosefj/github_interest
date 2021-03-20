@@ -563,3 +563,6 @@ https://github.com/ainrichman/Peppa-Facial-Landmark-PyTorch
 
 Pixel-in-Pixel Net: Towards Efficient Facial Landmark Detection in the Wild
 https://github.com/jhb86253817/PIPNet
+
+WebFace260M：百万级人脸识别数据集，包括2.6亿人脸，400万ID
+https://www.face-benchmark.org/

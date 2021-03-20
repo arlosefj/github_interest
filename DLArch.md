@@ -558,3 +558,6 @@ https://github.com/jackguagua/awesome-nas-papers
 
 Transformer in Transformer
 https://www.arxiv-vanity.com/papers/2103.00112/
+
+Model Complexity of Deep Learning: A Survey
+https://www.arxiv-vanity.com/papers/2103.05127

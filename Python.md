@@ -698,3 +698,9 @@ https://realpython.com/mobile-app-kivy-python/
 
 ipympl：Jupyter的Matplotlib集成模块，支持Jupyter notebook和JupyterLab里的matplotlib交互特性
 https://github.com/matplotlib/ipympl
+
+cysimdjson：Python的超快JSON解析库
+github.com/TeskaLabs/cysimdjson
+
+nderstanding what happens as the computer runs each line of code. 
+http://pythontutor.com/

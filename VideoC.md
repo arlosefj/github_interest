@@ -243,3 +243,7 @@ https://github.com/zju3dv/EasyMocap
 
 A Closer Look at Temporal Sentence Grounding in Videos: Datasets and Metrics
 https://github.com/yytzsy/grounding_changing_distribution
+
+TimeSformer：视频理解新架构
+TimeSformer: A new architecture for video understanding
+https://ai.facebook.com/blog/timesformer-a-new-architecture-for-video-understanding

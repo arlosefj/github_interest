@@ -571,3 +571,12 @@ https://github.com/MoonBlvd/Detection-of-Traffic-Anomaly
 
 Placepedia：带有多方面标注的大规模位置图像数据集
 github.com/hahehi/placepedia 
+
+Contract Understanding Atticus Dataset(CUAD)：法律合同理解基准数据集，涉及数百份法律合同，13,000多个标注，由法律专家手工标注
+github.com/TheAtticusProject/cuad/ 
+
+包含130k张柯基图片的数据集，以及用这些数据训练的StyleGAN2-ADA
+github.com/seawee1/Did-Somebody-Say-Corgi
+
+### Conceptual 12M：包含约1200万图像文本对的数据集，用于视觉和语言预训练
+github.com/google-research-datasets/conceptual-12m 

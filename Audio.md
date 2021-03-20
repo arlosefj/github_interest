@@ -496,3 +496,12 @@ https://github.com/raymondxyy/pyaudlib
 
 Auto-Editor：命令行视频/音频自动编辑工具，自动切除静默部分
 https://github.com/WyattBlue/auto-editor
+
+The SpeechBrain Toolkit：PyTorch开源一体化语音工具包，可用来轻松开发最先进的语音系统，包括语音识别、讲话者识别、语音增强、多麦克风信号处理等
+github.com/speechbrain/speechbrain
+
+STT：用于训练和部署语音到文本模型的开源深度学习工具包
+github.com/coqui-ai/STT
+
+GigaSpeech：用于语音识别的大型现代数据集
+ github.com/SpeechColab/GigaSpeech

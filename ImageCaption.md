@@ -456,3 +456,6 @@ https://github.com/ck0123/improved-bertscore-for-image-captioning-evaluation
 
 《Attention is Not All You Need: Pure Attention Loses Rank Doubly Exponentially with Depth》
 https://github.com/twistedcubic/attention-rank-collapse 
+
+WenLan: Bridging Vision and Language by Large-Scale Multi-Modal Pre-Training
+https://www.arxiv-vanity.com/papers/2103.06561

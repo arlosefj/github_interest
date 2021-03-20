@@ -1169,3 +1169,12 @@ https://github.com/ttzt/catalog_of_requirements_for_ai_products
 
 《动手学深度学习》 第2版预览版，面向中文读者的能运行、可讨论的深度学习教科书，含 NumPy/MXNet、PyTorch 和 TensorFlow 实现
 https://github.com/d2l-ai/d2l-zh
+
+机器学习系统测试：代码、数据与模型
+https://madewithml.com/courses/applied-ml/testing/
+
+Toy Machine Learning Pipeline：基于MLOps工具的简单应用机器学习管线示例
+github.com/shreyashankar/toy-ml-pipeline
+
+Google机器学习术语表，不定期更新，值得收藏
+https://developers.google.com/machine-learning/glossary#u
