@@ -92,3 +92,6 @@ https://github.com/mikke89/RmlUi
 
 Gaze-detection：JavaScript眼动追踪库
 https://github.com/charliegerard/gaze-detection
+
+Charts.css：面向数据可视化的开源CSS框架
+github.com/ChartsCSS/charts.css

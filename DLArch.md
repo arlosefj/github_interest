@@ -561,3 +561,6 @@ https://www.arxiv-vanity.com/papers/2103.00112/
 
 Model Complexity of Deep Learning: A Survey
 https://www.arxiv-vanity.com/papers/2103.05127
+
+TransFG: A Transformer Architecture for Fine-grained Recognition
+https://www.arxiv-vanity.com/papers/2103.07976

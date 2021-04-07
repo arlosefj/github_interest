@@ -317,3 +317,12 @@ github.com/ninechapter-algorithm/linghu-algorithm-templete
 
 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 github.com/doocs/leetcode
+
+《巧妙的算法：受自然启发的编程方法》电子书与代码
+github.com/clever-algorithms/CleverAlgorithms
+
+algorithm-base - 专门为刚开始刷题的同学准备的算法基地，立志用动画将晦涩难懂的算法说的通俗易懂！
+github.com/chefyuan/algorithm-base 
+
+《algorithm-note》算法笔记中文版 - 包括数组，链表，树，图，递归，DP，有序表等相关数据结构与算法的讲解及代码实现。
+ithub.com/Dairongpeng/algorithm-note

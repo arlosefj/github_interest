@@ -915,3 +915,9 @@ github.com/mit-han-lab/anycost-gan
 
 Repurposing GANs for One-shot Semantic Part Segmentation
 https://www.arxiv-vanity.com/papers/2103.04379
+
+One-Shot GAN: Learning to Generate Samples from Single Images and Videos
+https://www.arxiv-vanity.com/papers/2103.13389
+
+### 《CoMoGAN: continuous model-guided image-to-image translation》(CVPR 2021) 
+github.com/cv-rits/CoMoGAN

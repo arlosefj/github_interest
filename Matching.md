@@ -142,3 +142,6 @@ https://github.com/up42/image-similarity-measures
 
 《Extremely Dense Point Correspondences using a Learned Feature Descriptor》(CVPR 2020) 
 github.com/lppllppl920/DenseDescriptorLearning-Pytorch
+
+Keras实例：基于三元组损失Siamese网络的图像相似性估计
+https://keras.io/examples/vision/siamese_network/

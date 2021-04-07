@@ -358,3 +358,6 @@ https://arxiv.org/abs/2012.08976 https://github.com/wswdx/C2F-FWN
 
 人体姿态迁移文献/代码列表 
 https://github.com/Zhangjinso/Awesome-pose-transfer
+
+### Stick Figure Recorder：通过摄像头生成火柴人动画的网页应用
+github.com/kenkawakenkenke/stickfigure-recorder

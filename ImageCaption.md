@@ -459,3 +459,28 @@ https://github.com/twistedcubic/attention-rank-collapse
 
 WenLan: Bridging Vision and Language by Large-Scale Multi-Modal Pre-Training
 https://www.arxiv-vanity.com/papers/2103.06561
+
+Perspectives and Prospects on Transformer Architecture for Cross-Modal Tasks with Language and Vision
+https://www.arxiv-vanity.com/papers/2103.04037
+
+基于OpenAI CLIP模型的Unsplash图片语义搜索
+github.com/haofanwang/natural-language-joint-query-search
+
+DeepViT: Towards Deeper Vision Transformer
+https://www.arxiv-vanity.com/papers/2103.11886
+
+《An Image is Worth 16x16 Words, What is a Video Worth?》
+https://www.arxiv-vanity.com/papers/2103.13915
+github.com/Alibaba-MIIL/STAM 
+
+Can Vision Transformers Learn without Natural Images?
+https://www.arxiv-vanity.com/papers/2103.13023
+
+Meta-DETR: Few-Shot Object Detection via Unified Image-Level Meta-Learning
+https://www.arxiv-vanity.com/papers/2103.11731
+
+《Dodrio: Exploring Transformer Models with Interactive Visualization》
+github.com/poloclub/dodrio
+
+《A Practical Survey on Faster and Lighter Transformers》
+https://www.arxiv-vanity.com/papers/2103.14636

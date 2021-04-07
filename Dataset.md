@@ -580,3 +580,12 @@ github.com/seawee1/Did-Somebody-Say-Corgi
 
 ### Conceptual 12M：包含约1200万图像文本对的数据集，用于视觉和语言预训练
 github.com/google-research-datasets/conceptual-12m 
+
+ADE20K Dataset：ADE20K场景语义理解数据集
+github.com/CSAILVision/ADE20K
+
+面向社会公益领域的统计/机器学习研究数据集列表
+github.com/shreyashankar/datasets-for-good 
+
+【Kinetics datasets：大规模、高质量的URL链接数据集，多达650,000段视频剪辑，涵盖400/600/700人类行为类】
+github.com/cvdfoundation/kinetics-dataset

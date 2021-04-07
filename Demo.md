@@ -620,3 +620,15 @@ https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX
 
 ### image2csv：从图片中提取表格数据，并保存为. csv文件
 https://github.com/artperrin/image2csv
+
+### DepthAI实验项目集
+github.com/luxonis/depthai-experiments
+
+FaceBlit：基于样例的实时人脸画风迁移 
+ondrejtexler.github.io/faceblit/
+
+【DetecTree：卫星图片树木检测】
+github.com/martibosch/detectree
+
+### Magic Crop：自动裁剪大头照的web应用
+github.com/poloclub/magic-crop

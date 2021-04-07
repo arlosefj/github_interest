@@ -310,3 +310,12 @@ https://arxiv.org/abs/2011.12528
 
 多目标跟踪相关论文资源大列表
 https://github.com/luanshiyinyang/awesome-multiple-object-tracking/blob/master/README-zh.md
+
+《Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking》
+https://www.arxiv-vanity.com/papers/2103.11681
+
+Human Trajectory Forecasting in Crowds: A Deep Learning Perspective
+github.com/vita-epfl/trajnetplusplusbaselines
+
+《Track to Detect and Segment: An Online Multi-Object Tracker》(CVPR 2021) 
+github.com/JialianW/TraDeS

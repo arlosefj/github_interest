@@ -241,3 +241,12 @@ github.com/bentrevett/pytorch-rl
 
 Crafter：强化学习开放世界生存(开发)环境
 github.com/danijar/crafter 
+
+强化学习调试技巧与策略
+https://andyljones.com/posts/rl-debugging.html
+
+Benchmarks for Deep Off-Policy Evaluation：离线强化学习基准
+github.com/google-research/deep_ope 
+
+### '一种新颖的强化学习斗地主ai解决方案[笑而不语]' 
+github.com/freefuiiismyname/ddz-ai

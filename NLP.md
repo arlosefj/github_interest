@@ -372,3 +372,12 @@ https://airtable.com/shrndwzEx01al2jHM/tblYMAiGeDLXe35jC
 
 甲言Jiayan - 甲言，专注于古代汉语(古汉语/古文/文言文/文言)处理的NLP工具包，支持文言词库构建、分词、词性标注、断句和标点
 github.com/jiaeyan/Jiayan
+
+Text Gen：文本生成库
+github.com/Emekaborisama/textgen 
+
+GPT-3应用集锦
+https://openai.com/blog/gpt-3-apps/
+
+magic-square-poems：发现唐诗中的 幻方(纵横图)
+github.com/LingDong-/magic-square-poems 

@@ -566,3 +566,12 @@ https://github.com/jhb86253817/PIPNet
 
 WebFace260M：百万级人脸识别数据集，包括2.6亿人脸，400万ID
 https://www.face-benchmark.org/
+
+Face-Robustness-Benchmark：人脸识别鲁棒性评价基准
+github.com/ShawnXYang/Face-Robustness-Benchmark
+
+### Polaris：人脸识别考勤系统
+github.com/ChibaniMohamed/Polaris 
+
+《MagFace: A Universal Representation for Face Recognition and Quality Assessment》(CVPR 2021) 
+github.com/IrvingMeng/MagFace

@@ -713,3 +713,9 @@ https://ohmygit.org/
 
 Dolt 这个项目真有想法啊，活活给数据库加上了版本管理，可以通过 sql 命令更新数据，通过 git 命令查询和回滚版本… 
 他们还弄了个 DoltHub 来共享数据库，多人一起维护一份公开数据 …  感觉场景很多啊，比如之前每天的疫情数据、全国各地的邮政编码汇总、当然还有一堆用来训练的数据集...
+
+Memo：基于VSCode支持双向链接的Markdown个人知识库
+github.com/svsool/vscode-memo 
+
+mkdocstrings：MkDocs文档自动生成
+github.com/mkdocstrings/mkdocstrings

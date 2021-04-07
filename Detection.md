@@ -849,3 +849,15 @@ https://github.com/yuantn/MIAL
 
 patially Consistent Representation Learning
 https://www.arxiv-vanity.com/papers/2103.06122
+
+icevision：端到端目标检测框架
+github.com/airctic/icevision
+
+'YOLOv5_NCNN - 🍅 Deploy NCNN on mobile phones. Support Android and iOS. 移动端NCNN部署，支持Android与iOS。
+github.com/cmdbug/YOLOv5_NCNN
+
+LLA: Loss-aware Label Assignment for Dense Pedestrian Detection
+github.com/Megvii-BaseDetection/LLA 
+
+Gen-LaneNet: a generalized and scalable approach for 3D lane detection》(ECCV 2020) 
+github.com/yuliangguo/Pytorch_Generalized_3D_Lane_Detection

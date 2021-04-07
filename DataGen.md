@@ -399,3 +399,9 @@ https://github.com/ajayjain/VectorAscent
 
 《Parser-Free Virtual Try-on via Distilling Appearance Flows》
 https://github.com/geyuying/PF-AFN
+
+《HumanGAN: A Generative Model of Humans Images》
+https://www.arxiv-vanity.com/papers/2103.06902
+
+《PISE: Person Image Synthesis and Editing with Decoupled GAN》(CVPR 2021) 
+github.com/Zhangjinso/PISE

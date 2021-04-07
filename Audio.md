@@ -504,4 +504,13 @@ STT：用于训练和部署语音到文本模型的开源深度学习工具包
 github.com/coqui-ai/STT
 
 GigaSpeech：用于语音识别的大型现代数据集
- github.com/SpeechColab/GigaSpeech
+github.com/SpeechColab/GigaSpeech
+
+Desed dataset：家庭环境声音事件检测数据集与工具
+github.com/turpaultn/DESED
+
+### 'MASR中文语音识别(pytorch版) - 中文语音识别系列，读者可以借助它快速训练属于自己的中文语音识别模型，或直接使用预训练模型测试效果。
+github.com/binzhouchn/masr 
+
+端到端语音处理工具集
+github.com/espnet/espnet ​​​ ​​​​

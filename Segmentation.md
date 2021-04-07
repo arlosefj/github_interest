@@ -1104,3 +1104,9 @@ https://arxiv.org/abs/2102.13645
 
  Medical Transformer: Gated Axial-Attention for Medical Image Segmentation
  github.com/jeya-maria-jose/Medical-Transformer
+
+ Weakly Supervised Instance Segmentation for Videos with Temporal Mask Consistency
+ https://www.arxiv-vanity.com/papers/2103.12886/
+
+ ### 《VisTR: End-to-End Video Instance Segmentation with Transformers》(CVPR 2021) 
+ github.com/Epiphqny/VisTR

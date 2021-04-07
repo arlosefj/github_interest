@@ -139,3 +139,12 @@ https://www.theverge.com/2021/3/8/22319173/openai-machine-vision-adversarial-typ
 
 Involution: Inverting the Inherence of Convolution for Visual Recognition
 github.com/d-li14/involution
+
+Is it Enough to Optimize CNN Architectures on ImageNet?
+https://www.arxiv-vanity.com/papers/2103.09108
+
+《Understanding Robustness of Transformers for Image Classification》
+https://www.arxiv-vanity.com/papers/2103.14586
+
+《Explainable Deep One-Class Classification》(ICLR 2021) 
+github.com/liznerski/fcdd

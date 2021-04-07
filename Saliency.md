@@ -90,3 +90,6 @@ https://github.com/alexanderkroner/saliency
 
 code for CVPR 2020 paper "Interactive Two-Stream Decoder for Accurate and Fast Saliency Detection"
 https://github.com/moothes/ITSD-pytorch
+
+《Efficient Visual Pretraining with Contrastive Detection》
+https://www.arxiv-vanity.com/papers/2103.10957

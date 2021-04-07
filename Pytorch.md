@@ -624,3 +624,18 @@ github.com/Harry24k/adversarial-attacks-pytorch
 
 Torch-metrics: model evaluation metrics for PyTorch：PyTorch模型评价指标库
 github.com/enochkan/torch-metrics
+
+深度学习项目模板：Pytorch Lightning, Hydra, Tensorboard深度学习项目模板最佳实践
+github.com/lkhphuc/lightning-hydra-template
+
+Torchsort：PyTorch快速可微排序库
+github.com/teddykoker/torchsort paper:《Fast differentiable sorting and ranking》
+
+Change Detection Repository：Python变化检测方法集
+github.com/I-Hope-Peace/ChangeDetectionRepository
+
+Padertorch：旨在简化用 PyTorch 编写的深度学习模型训练的工具集
+github.com/fgnt/padertorch
+
+PyTorch Profiler：新的性能分析工具
+https://pytorch.org/blog/introducing-pytorch-profiler-the-new-and-improved-performance-tool/

@@ -438,3 +438,6 @@ https://ai.googleblog.com/2021/02/the-technology-behind-cinematic-photos.html
 
 ### 《Depth from Camera Motion and Object Detection》(CVPR 2021) 
 github.com/griffbr/ODMD 
+
+《Transformers Solve the Limited Receptive Field for Monocular Depth Prediction》
+github.com/ygjwd12345/TransDepth

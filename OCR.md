@@ -678,3 +678,5 @@ https://www.pyimagesearch.com/2020/08/03/tesseract-ocr-for-non-english-languages
 ### 偶然发现 Google 有个项目 news.google.com/newspapers，扫描和 OCR 了两千多份报纸的历史版本。其中最早一张甚至是 1738 年的。
 这在研究历史事件的时候很有用。比如我很容易就找到了李鸿章在日本遇刺时的报道。 ​​​​
 
+### detectron2：用Detectron2做文档版面分析
+github.com/hpanwar08/detectron2

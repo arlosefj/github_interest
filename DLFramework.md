@@ -119,3 +119,6 @@ https://github.com/jatinchowdhury18/RTNeural
 
 ivy：模板化深度学习框架，支持框架无关的函数、层和库
 https://github.com/ivy-dl/ivy
+
+'deepx_core：腾讯开源的专注于张量计算/深度学习的基础库(C++)’ 
+github.com/Tencent/deepx_core 

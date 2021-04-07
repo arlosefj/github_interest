@@ -78,3 +78,6 @@ https://github.com/libeineu/Context-Aware
 
 We release a dataset based on Wikipedia sentences and the corresponding translations in 6 different languages along with the scores (scale 1 to 100) generated though human evaluations that represent the quality of the translations.Paper Title Unsupervised Quality Estimation for Neural Machine Translation
 https://github.com/facebookresearch/mlqe
+
+DL Translate：基于Huggingface transformers库和mBART-Large的深度学习机器翻译库
+github.com/xhlulu/dl-translate

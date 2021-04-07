@@ -1178,3 +1178,30 @@ github.com/shreyashankar/toy-ml-pipeline
 
 Google机器学习术语表，不定期更新，值得收藏
 https://developers.google.com/machine-learning/glossary#u
+
+Awesome MLOps：机器学习运维(MLOps)相关资料大列表
+github.com/visenger/awesome-mlops
+
+神经网络架构设计/可视化工具集
+github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network
+
+### 机器学习体系图
+github.com/trekhleb/homemade-machine-learning
+
+AI/机器学习入门详尽指南
+github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
+
+Backprop：让使用、微调和部署最先进的机器学习模型变得简单，包含众多开箱即用的预训练模型，涉及文本分类、问答、图像分类、文本向量化、图片向量化、摘要、情感检测、文本生成等
+github.com/backprop-ai/backprop
+
+300DaysOfData机器学习与深度学习之旅
+github.com/ThinamXx/300Days__MachineLearningDeepLearning
+
+《Minimum-Distortion Embedding》
+github.com/cvxgrp/pymde
+
+【ZCls：目标分类代码库】
+github.com/ZJCV/ZCls 
+
+deeplearning.ai深度学习课程习题作业参考答案
+github.com/HeroKillerEver/coursera-deep-learning 

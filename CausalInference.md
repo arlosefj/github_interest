@@ -51,3 +51,6 @@ https://github.com/jvpoulos/causal-ml
 
 行为背后的动力是什么？——智能体的因果机制
 https://medium.com/@deepmindsafetyresearch/what-mechanisms-drive-agent-behaviour-e7b8d9aee88
+
+计算机视觉因果关系相关文献列表
+github.com/Wangt-CN/Awesome-Causality-in-CV

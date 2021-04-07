@@ -261,3 +261,6 @@ https://arxiv.org/abs/2102.04378
 
 Joint Disentangling and Adaptation for Cross-Domain Person Re-Identification.
 https://github.com/NVlabs/DG-Net-PP
+
+《Camera-aware Proxies for Unsupervised Person Re-Identification》(AAAI 2021) 
+github.com/Terminator8758/CAP-master

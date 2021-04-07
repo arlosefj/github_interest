@@ -960,3 +960,9 @@ https://github.com/JdeRobot/RoboticsAcademy
 
 《DeFMO: Deblurring and Shape Recovery of Fast Moving Objects》(CVPR 2021) 
 https://github.com/rozumden/DeFMO 
+
+### opencv 速查
+![](https://arloseimg.oss-cn-hangzhou.aliyuncs.com/20210330150131.png)
+
+【MMEditing：图像/视频编辑工具箱】
+github.com/open-mmlab/mmediting

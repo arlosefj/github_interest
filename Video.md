@@ -325,3 +325,8 @@ https://github.com/CoderMJLee/audio-video-dev-tutorial
 
 VideoLiterature：视频研究相关文献列表
 https://github.com/VideoForage/Video-Lit
+
+ffmpeg 用户都知道 ffmpeg 是格式转换工具，ffplay 是播放器。但其实也有办法用 ffmpeg 来当播放器。在某个场景下，甚至只有 ffmpeg 可以播放，ffplay 反而不行。
+mplayer 可以用 -vo caca 参数指定用 caca 作为视频输出驱动将影像转为字符在控制台上播放。ffplay 无此功能，但 ffmpeg 却可以：
+ffmpeg -i badapple.mp4 -pix_fmt rgb24 -f caca /dev/stdout
+这时候 ffmpeg 其实还是以格式转换工具的角色在工作，只是把转换后的数据输出到了控制台上。

@@ -87,3 +87,9 @@ https://github.com/ai-techsystems/deepC
 
 用稀疏推理加速移动端和网页上的神经网络
 https://ai.googleblog.com/2021/03/accelerating-neural-networks-on-mobile.html
+
+Forward：腾讯开源的 GPU 高性能推理加速框架，可直接加载主流框架模型（Tensorflow / PyTorch / Keras）转换成 TensorRT 推理加速引擎
+github.com/Tencent/Forward
+
+tinyMLPerf Deep Learning Benchmarks for Embedded Devices：嵌入式设备tinyML深度学习基准
+github.com/mlcommons/tiny

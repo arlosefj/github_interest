@@ -232,3 +232,6 @@ https://github.com/wx-chevalier/K8s-Series
 
 Rhit：nginx日志浏览器
 https://github.com/Canop/rhit
+
+katana：用于部署机器学习应用的快捷易用API模板
+github.com/shaz13/katana
