@@ -707,3 +707,27 @@ http://pythontutor.com/
 
 timemachines：Python时序状态机
 github.com/microprediction/timemachines
+
+### Python 无服务框架，功能即服务（serverless）。你知道 serverless 是什么吗？不懂的老铁扣 1 🤝 我摊牌了我不懂这个玩意儿。直到我看到了 Zappa 这个项目，然后我的脑海里就几个字：甩手掌柜
+https://github.com/Miserlou/Zappa
+
+采集各种权威公开数据的 Python 库。
+https://github.com/justinzm/gopup
+
+通过简单的 Python 代码，生成复杂公式的工具。还记得写论文推算算法的时候，被一行行公式支配的恐惧吗？该库可以将 Python 写的公式，展示为 LaTeX 格式
+https://github.com/connorferster/handcalcs
+
+强大的数据可视化 Python 库。支持多种数据展示方式、接口简单、效果炫酷
+https://github.com/altair-viz/altair
+
+Python-Mini-Projects：Python迷你练手项目集锦
+github.com/Python-World/python-mini-projects
+
+drawdata：在Jupyter Notebook里手画数据集的Python应用，适合生成教学数据
+github.com/koaning/drawdata
+
+Data Profiler：旨在简化数据分析、监视和敏感数据检测的Python库
+github.com/capitalone/DataProfiler
+
+sheet2dict：将Excel文档数据转换成字典的Python包
+github.com/Pytlicek/sheet2dict

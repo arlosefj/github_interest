@@ -514,3 +514,21 @@ github.com/binzhouchn/masr
 
 端到端语音处理工具集
 github.com/espnet/espnet ​​​ ​​​​
+
+Spleeter语声分离Demo
+github.com/deezer/spleeter
+
+基于Tacotron 2 & Waveglow的多说话人情感文本语音合成(TTS)
+github.com/ide8/tacotron2
+
+《AutoVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss》(2019)
+github.com/cyhuang-tw/AutoVC
+
+教程(Colab)：从头开始语音识别
+github.com/speechbrain/speechbrain/ ​​​​
+
+Vosk-Browser：运行在浏览器里的语音识别库(基于WebAssembly)
+github.com/ccoreilly/vosk-browser  ccoreilly.github.io/vosk-browser/
+
+The SpeechBrain Toolkit：PyTorch开源一体化语音工具包，可用来轻松开发最先进的语音系统，包括语音识别、讲话者识别、语音增强、多麦克风信号处理等
+speechbrain.github.io/

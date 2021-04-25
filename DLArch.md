@@ -564,3 +564,24 @@ https://www.arxiv-vanity.com/papers/2103.05127
 
 TransFG: A Transformer Architecture for Fine-grained Recognition
 https://www.arxiv-vanity.com/papers/2103.07976
+
+《HW-NAS-Bench: Hardware-Aware Neural Architecture Search Benchmark》(ICLR 2021) 
+github.com/RICE-EIC/HW-NAS-Bench
+
+EfficientNetV2: Smaller Models and Faster Training
+https://www.arxiv-vanity.com/papers/2104.00298
+
+### 每个部署框架都有不同的特性，高效算法设计必须考虑目标平台的特性，才能取得最好的性能。微软亚洲研究员们通过神经网络行为分析，发现了7个改进神经网络设计的策略
+https://weibo.com/ttarticle/p/show?id=2309404623786484826193
+
+EfficientNetV2: Smaller Models and Faster Training
+github.com/d-li14/efficientnetv2.pytorch
+
+Truly shift-invariant convolutional neural networks
+github.com/achaman2/truly_shift_invariant_cnns
+
+### 《GOCor: Bringing Globally Optimized Correspondence Volumes into Your Neural Network》(NeurIPS 2020) 
+github.com/PruneTruong/GOCor
+
+《Lite-HRNet: A Lightweight High-Resolution Network》(CVPR 2021) 
+github.com/HRNet/Lite-HRNet

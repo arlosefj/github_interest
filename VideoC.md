@@ -250,3 +250,18 @@ https://ai.facebook.com/blog/timesformer-a-new-architecture-for-video-understand
 
 TimeSformer：视频理解新架构
 https://arxiv.org/abs/2102.05095
+
+### 《TDN: Temporal Difference Networks for Efficient Action Recognition》(CVPR 2021)
+github.com/MCG-NJU/TDN
+
+《Monocular Real-time Hand Shape and Motion Capture using Multi-modal Data》(2021) 
+github.com/MengHao666/Minimal-Hand-pytorch
+
+DeepLabCut: 用于执行多种任务的动物无标记姿态估计工具箱
+github.com/DeepLabCut/DeepLabCut 
+
+MVFNet: Multi-View Fusion Network for Efficient Video Recognition (AAAI 2021) 
+github.com/whwu95/MVFNet 
+
+《TransNet V2: Shot Boundary Detection Neural Network》(2020) 
+github.com/soCzech/TransNetV2

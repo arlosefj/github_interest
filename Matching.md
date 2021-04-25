@@ -145,3 +145,9 @@ github.com/lppllppl920/DenseDescriptorLearning-Pytorch
 
 Keras实例：基于三元组损失Siamese网络的图像相似性估计
 https://keras.io/examples/vision/siamese_network/
+
+Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval
+https://www.arxiv-vanity.com/papers/2104.00650
+
+《A Proposal-based Approach for Activity Image-to-Video Retrieval》(AAAI 2020) 
+github.com/bcmi/Cross-modal-retrieval

@@ -143,3 +143,12 @@ https://github.com/byungjae89/MahalanobisAD-pytorch
 
 Pixel-wise Anomaly Detection in Complex Driving Scenes
 https://www.arxiv-vanity.com/papers/2103.05445
+
+### 该项目整理了目前大量靠谱的表面缺陷检测数据集，还有最新的顶会论文以及作者的解读笔记。
+https://github.com/Charmve/Surface-Defect-Detection
+
+CutPaste: Self-Supervised Learning for Anomaly Detection and Localization
+https://www.arxiv-vanity.com/papers/2104.04015
+
+DeepLog：DeepLog异常检测模型的PyTorch实现
+github.com/wuyifan18/DeepLog

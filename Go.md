@@ -96,3 +96,9 @@ https://github.com/hackstoic/golang-open-source-projects
 
 一个用 Go 编写的类 Minecraft 游戏。还支持多用户，项目首页下方有服务器端搭建说明
 https://github.com/icexin/gocraft
+
+使用 Flutter 和 Go 开发的「制定计划 APP」。帮助用户记录和追踪自己的计划，辅助用户完成自己的目标。手机端用的是 Flutter 后端用 Go 实现，服务器和客户端通过 ProtoBuffer+grpc 进行通信。可作为学习 Flutter 和 Go 的实战项目
+https://github.com/DuanJiaNing/makeaplan_public
+
+gfast - 基于GF(Go Frame)的后台管理系统
+github.com/tiger1103/gfast

@@ -122,3 +122,9 @@ https://github.com/ivy-dl/ivy
 
 'deepx_core：腾讯开源的专注于张量计算/深度学习的基础库(C++)’ 
 github.com/Tencent/deepx_core 
+
+TinyMS：基于MindSpore AI框架开发，面向上层用户的一个高级API开发库
+github.com/tinyms-ai/tinyms
+
+Sabertooth：JAX+ Flax实现的的支持CPU/GPU/TPU的独立预训练包
+github.com/nikitakit/sabertooth

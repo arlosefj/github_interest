@@ -104,3 +104,9 @@ https://medium.com/connectedpapers/connected-papers-partners-with-arxiv-8ce8122f
 
 学术论文搜索引擎，全文检索索引包含超过2500万的研究文章和其他保存在互联网档案馆里的学术文档
 https://github.com/internetarchive/fatcat-scholar
+
+文献综述指南：如何从概念、理论和思想的角度思考
+http://mural.maynoothuniversity.ie/873/1/doing_a_review_of_literature.pdf
+
+LaTeX免费入门教程
+https://www.learnlatex.org/en/

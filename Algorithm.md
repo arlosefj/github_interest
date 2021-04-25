@@ -326,3 +326,12 @@ github.com/chefyuan/algorithm-base
 
 《algorithm-note》算法笔记中文版 - 包括数组，链表，树，图，递归，DP，有序表等相关数据结构与算法的讲解及代码实现。
 ithub.com/Dairongpeng/algorithm-note
+
+解 LeetCode 题目集合。号称“手撕 LeetCode 题目”
+https://github.com/labuladong/fucking-algorithm
+
+algovis：算法可视化项目集锦
+github.com/enjalot/algovis 
+
+Path Planning：C++路径规划算法实现集
+github.com/vss2sn/path_planning

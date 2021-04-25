@@ -93,3 +93,6 @@ https://github.com/moothes/ITSD-pytorch
 
 《Efficient Visual Pretraining with Contrastive Detection》
 https://www.arxiv-vanity.com/papers/2103.10957
+
+《U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection》(PR 2020) 
+github.com/dennisbappert/u-2-net-portrai

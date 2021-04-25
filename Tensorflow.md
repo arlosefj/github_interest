@@ -174,3 +174,9 @@ https://github.com/PINTO0309/tflite2tensorflow
 
  TensorFlow.js实践教程
  https://codelabs.developers.google.com/codelabs/tensorflowjs-convert-python-savedmodel#0
+
+ DLFlow：一套深度学习pipeline，结合了Spark的大规模特征处理能力和Tensorflow模型构建能力
+ github.com/didi/dlflow
+
+ Ludwig：基于TensorFlow，无需编写代码的深度学习模型训练和评价工具箱
+ github.com/ludwig-ai/ludwig

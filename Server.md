@@ -235,3 +235,9 @@ https://github.com/Canop/rhit
 
 katana：用于部署机器学习应用的快捷易用API模板
 github.com/shaz13/katana
+
+NVIDIA针对自家GPU优化的云推断解决方案，通过HTTP/REST或GRPC端点提供推理服务，也可以作为带API的共享库使用，支持各种深度学习框架
+github.com/triton-inference-server/server
+
+用GitHub做机器学习运维(MLOps)
+https://mlops.githubapp.com/

@@ -302,3 +302,9 @@ https://github.com/neuralmagic/deepsparse
 
 神经网络量化/低位定点训练硬件友好算法设计相关资料集
 https://github.com/A-suozhang/awesome-quantization-and-fixed-point-training
+
+“机器学习优化”课程资料
+github.com/rishabhk108/AdvancedOptML
+
+《 BNN - BN = ? Training Binary Neural Networks without Batch Normalization》(CVPRW 2021) 
+github.com/VITA-Group/BNN_NoBN

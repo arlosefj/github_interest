@@ -575,3 +575,12 @@ github.com/ChibaniMohamed/Polaris
 
 《MagFace: A Universal Representation for Face Recognition and Quality Assessment》(CVPR 2021) 
 github.com/IrvingMeng/MagFace
+
+### 通过 AI 技术保护个人照片隐私的开源项目。芝加哥大学 Sand Lab 团队发起的项目，通过 AI 技术对图片的像素进行一些微调，人眼很难看出修改前后的区别，但对于人脸识别系统来说微调前后是天壤之别的，从而达到保护你照片隐私的效果
+https://github.com/Shawn-Shan/fawkes
+
+Py-FEAT: Python面部表情分析工具箱，可方便地从图像和视频中检测面部表情(动作单元、情绪、人脸关键点) ，预处理和分析面部表情数据，可视化面部表情数据
+github.com/cosanlab/py-feat
+
+《ArcFace: Additive Angular Margin Loss for Deep Face Recognition》(CVPR 2019) 
+github.com/peteryuX/arcface-tf2 

@@ -75,3 +75,9 @@ https://github.com/aimagelab/mammoth
 
 Avalanche: an End-to-End Library for Continual Learning
 https://github.com/ContinualAI/avalanche
+
+《Lifelong Machine Learning With Deep Streaming Linear Discriminant Analysis》(CVPR 2020) 
+github.com/tyler-hayes/Deep_SLDA
+
+### Online Continual Learning：PyTorch实现的在线持续学习算法
+github.com/RaptorMai/online-continual-learning

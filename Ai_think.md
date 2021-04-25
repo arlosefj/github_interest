@@ -148,3 +148,9 @@ https://www.arxiv-vanity.com/papers/2103.14586
 
 《Explainable Deep One-Class Classification》(ICLR 2021) 
 github.com/liznerski/fcdd
+
+《A Fourier Perspective on Model Robustness in Computer Vision》(NeurIPS 2019) 
+github.com/gatheluck/FourierHeatmap
+
+Michael I. Jordan：现在的“AI技术”还未触及高层次的推理和思考，距离“智能”还很远，“尽管科学为人类做了许多美妙的事，但真正能最直接、最深刻地增加人类幸福感的，是工程学”
+https://spectrum.ieee.org/the-institute/ieee-member-news/stop-calling-everything-ai-machinelearning-pioneer-says

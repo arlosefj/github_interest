@@ -135,3 +135,24 @@ https://github.com/mousecpn/Joint-Bilateral-Learning
 
 Improving Object Detection in Art Images Using Only Style Transfer
 https://arxiv.org/abs/2102.06529
+
+《Towards Ultra-Resolution Neural Style Transfer via Thumbnail Instance Normalization》(2021) 
+github.com/czczup/URST
+
+Rethinking Style Transfer: From Pixels to Parameterized Brushstrokes
+https://www.arxiv-vanity.com/papers/2103.17185
+
+ArtFlow: Unbiased Image Style Transfer via Reversible Neural Flows (CVPR 2021) 
+github.com/pkuanjie/ArtFlow
+
+StyleSpace Analysis: Disentangled Controls for StyleGAN Image Generation (CVPR 2021) 
+github.com/betterze/StyleSpace 
+
+《ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement》(2021) 
+github.com/yuval-alaluf/restyle-encoder
+
+《Rethinking and Improving the Robustness of Image Style Transfer》(CVPR 2021)
+github.com/peiwang062/swag
+
+Style-Aware Normalized Loss for Improving Arbitrary Style Transfer
+https://www.arxiv-vanity.com/papers/2104.10064

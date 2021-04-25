@@ -966,3 +966,27 @@ https://github.com/rozumden/DeFMO
 
 【MMEditing：图像/视频编辑工具箱】
 github.com/open-mmlab/mmediting
+
+《Back to the Feature: Learning Robust Camera Localization from Pixels to Pose》(CVPR 2021) 
+github.com/cvg/pixloc
+
+《Uncertainty-aware blind image quality assessment in the laboratory and wild 》(2020) 
+github.com/zwx8981/UNIQUE
+
+Monster Mash：基于草图的3D随意建模与动画工具
+github.com/google/monster-mash
+
+xxYUV：C/C++写的高性能RGB<->YUV转换库
+github.com/metarutaiga/xxYUV
+
+《Deblurring using Analysis-Synthesis Networks Pair》(CVPR 2020) 
+github.com/adamkau/analysis-synthesis-deblurring
+
+《Single Image Reflection Removal Beyond Linearity》(CVPR 2019) 
+github.com/csqiangwen/Single-Image-Reflection-Removal-Beyond-Linearity
+
+《ForgeryNet: A Versatile Benchmark for Comprehensive Forgery Analysis》(CVPR 2021) 
+github.com/yinanhe/ForgeryNet 
+
+triangula：三角化图像生成器
+github.com/RH12503/triangula

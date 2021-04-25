@@ -293,3 +293,9 @@ https://github.com/idstcv/ZenNAS
 
 FSCE: Few-Shot Object Detection via Contrastive Proposal Encoding
 https://www.arxiv-vanity.com/papers/2103.05950
+
+Few-shot Image Generation via Cross-domain Correspondence
+https://www.arxiv-vanity.com/papers/2104.06820
+
+FSCE: Few-Shot Object Detection via Contrastive Proposal Encoding (CVPR 2021) 
+github.com/MegviiDetection/FSCE

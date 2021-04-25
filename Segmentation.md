@@ -1097,16 +1097,76 @@ Convolution-Free Medical Image Segmentation using Transformers
 https://arxiv.org/abs/2102.13645
 
 《MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers》(2020) 
- github.com/conradry/max-deeplab
+github.com/conradry/max-deeplab
 
- TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation
- github.com/Beckschen/TransUNet
+TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation
+github.com/Beckschen/TransUNet
 
- Medical Transformer: Gated Axial-Attention for Medical Image Segmentation
- github.com/jeya-maria-jose/Medical-Transformer
+Medical Transformer: Gated Axial-Attention for Medical Image Segmentation
+github.com/jeya-maria-jose/Medical-Transformer
 
- Weakly Supervised Instance Segmentation for Videos with Temporal Mask Consistency
- https://www.arxiv-vanity.com/papers/2103.12886/
+Weakly Supervised Instance Segmentation for Videos with Temporal Mask Consistency
+https://www.arxiv-vanity.com/papers/2103.12886/
 
- ### 《VisTR: End-to-End Video Instance Segmentation with Transformers》(CVPR 2021) 
- github.com/Epiphqny/VisTR
+### 《VisTR: End-to-End Video Instance Segmentation with Transformers》(CVPR 2021) 
+github.com/Epiphqny/VisTR
+
+《Modular Interactive Video Object Segmentation: Interaction-to-Mask, Propagation and Difference-Aware Fusion》(CVPR 2021) 
+github.com/hkchengrex/MiVOS
+
+《Prototypical Pseudo Label Denoising and Target Structure Learning for Domain Adaptive Semantic Segmentation》(CVPR 2021) 
+github.com/microsoft/ProDA 
+
+《SA-UNet: Spatial Attention U-Net for Retinal Vessel Segmentation》(2020) 
+github.com/clguo/SA-UNet 
+
+《Linear Attention Mechanism: An Efficient Attention for Semantic Segmentation》(2020) 
+github.com/lironui/Linear-Attention-Mechanism
+
+### Labels4Free: Unsupervised Segmentation using StyleGAN
+https://www.arxiv-vanity.com/papers/2103.14968
+
+CoreML语义分割实例
+github.com/tucan9389/SemanticSegmentation-CoreML
+
+图像分割损失函数集
+github.com/JunMa11/SegLoss
+
+Hierarchical Pyramid Representations for Semantic Segmentation
+https://www.arxiv-vanity.com/papers/2104.01792
+
+基于Gluoncv CV toolkit的语义分割推断API
+github.com/BMW-InnovationLab/BMW-Semantic-Segmentation-Inference-API-GPU-CPU
+
+ZeroCostDL4Mic：用深度学习让显微镜实验大众化(分割、目标检测、去噪、超分辨率和图像到图像变换)
+https://www.nature.com/articles/s41467-021-22518-0
+
+Deep Occlusion-Aware Instance Segmentation with Overlapping BiLayers (CVPR 2021) 
+github.com/lkeab/BCNet
+
+Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers (2020) 
+github.com/920232796/SETR-pytorch
+
+USD-Seg:Learning Universal Shape Dictionary for Realtime Instance Segmentation (2020)
+github.com/YoruCathy/USDSeg-FCOS
+
+A Comprehensive Analysis of Weakly-Supervised Semantic Segmentation in Different Image Domains
+github.com/lyndonchan/wsss-analysis 
+
+《Anti-Adversarially Manipulated Attributions for Weakly and Semi-Supervised Semantic Segmentation》(CVPR 2021) 
+github.com/jbeomlee93/AdvCAM 
+
+《Semi-supervised Semantic Segmentation with Directional Context-aware Consistency》(CVPR 2021) 
+github.com/Jia-Research-Lab/Context-Aware-Consistency
+
+《DropLoss for Long-Tail Instance Segmentation》(AAAI 2021) 
+github.com/timy90022/DropLoss
+
+《HyperSeg: Patch-wise Hypernetwork for Real-time Semantic Segmentation》(CVPR 2021) 
+github.com/YuvalNirkin/hyperseg 
+
+《MultiResUNet: Rethinking the U-Net architecture for multimodal biomedical image segmentation》(2020) 
+github.com/nibtehaz/MultiResUNet
+
+### SegmentationCpp：基于LibTorch的C++开源图像分割神经网络库
+github.com/AllentDan/SegmentationCpp

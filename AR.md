@@ -68,3 +68,9 @@ https://github.com/google-research-datasets/Objectron
 
 ### AR_100Days：百日AR实践挑战
 https://github.com/satoshi0212/AR_100Days
+
+### FaceMeshBarracuda：在Unity Barracuda神经网络推理库中运行的MediaPipe人脸关键点检测器
+github.com/keijiro/FaceMeshBarracuda
+
+IrisBarracuda：Unity Barracuda的MediaPipe虹膜关键点检测库
+github.com/keijiro/IrisBarracuda

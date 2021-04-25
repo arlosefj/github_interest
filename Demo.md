@@ -632,3 +632,21 @@ github.com/martibosch/detectree
 
 ### Magic Crop：自动裁剪大头照的web应用
 github.com/poloclub/magic-crop
+
+OpenVINO Inference API：基于OpenVINO的免代码目标检测API
+github.com/BMW-InnovationLab/BMW-IntelOpenVINO-Inference-API 
+
+SOLD2: Self-supervised Occlusion-aware Line Description and Detection
+github.com/cvg/SOLD2 
+
+Slideo: 用OpenCV实现的视频与PPT自动同步
+github.com/hediet/slideo
+
+### Cambricon CNStream：构建Cambricon机器学习管线的流框架
+github.com/Cambricon/CNStream
+
+ailia-models：高速推理引擎ailia SDK的预训练模型集
+github.com/axinc-ai/ailia-models
+
+Opyrator：将机器学习代码转化为具有网络API、交互式GUI等的微服务
+github.com/ml-tooling/opyrator

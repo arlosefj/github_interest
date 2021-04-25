@@ -589,3 +589,9 @@ github.com/shreyashankar/datasets-for-good
 
 【Kinetics datasets：大规模、高质量的URL链接数据集，多达650,000段视频剪辑，涵盖400/600/700人类行为类】
 github.com/cvdfoundation/kinetics-dataset
+
+### Real-World Masked Face Dataset，口罩人脸数据集
+https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset
+
+ffhq-features-dataset：Flickr-Faces-HQ (FFHQ)图像数据集性别、年龄和情绪扩展信息集
+github.com/DCGM/ffhq-features-dataset 

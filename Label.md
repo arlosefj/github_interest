@@ -222,3 +222,18 @@ https://github.com/FXLP/MarkTool by 华东理工大学-自然语言处理与医�
 
 Label Studio：支持图片、音频、文本、时序及多模态的开源数据标注工具，v.0.9.0最新发布
 https://labelstud.io/blog/release-100.html
+
+ProsoBeast Annotation Tool：语音语调交互可视化标注工具
+github.com/prosodylab/prosobeast-annotation-tool
+
+Curator：免编程、自监督学习和主动标记工具，用于从千兆级图像创建标记图像数据集
+github.com/spaceml-org/Self-Supervised-Learner 
+
+Trescope：全面的3D机器学习开发工具，致力于提高3D领域开发速度，帮研究人员和开发人员标记、调试、可视化各种3D数据
+github.com/alibaba/Trescope
+
+SegGroup.annotator：基于WebGL的分割级标记工具
+github.com/AnTao97/SegGroup.annotator
+
+LabelImage - 在线图像标注工具，可用于深度学习实例分割模型训练
+github.com/rachelcao277/LabelImage

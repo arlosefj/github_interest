@@ -142,3 +142,12 @@ https://github.com/duxingren14/Hifill-tensorflow
 
 Flow-edge Guided Video Completion
 https://github.com/vt-vl-lab/FGVC http://chengao.vision/FGVC/ https://colab.research.google.com/drive/1pb6FjWdwq_q445rG2NP0dubw7LKNUkqc?usp=sharing
+
+Aggregated Contextual Transformations for High-Resolution Image Inpainting
+github.com/researchmm/AOT-GAN-for-Inpainting
+
+Aggregated Contextual Transformations for High-Resolution Image Inpainting (2020) 
+github.com/researchmm/AOT-GAN-for-Inpainting
+
+《Progressive Temporal Feature Alignment Network for Video Inpainting》(CVPR 2021) 
+github.com/MaureenZOU/TSAM

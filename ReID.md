@@ -264,3 +264,12 @@ https://github.com/NVlabs/DG-Net-PP
 
 《Camera-aware Proxies for Unsupervised Person Re-Identification》(AAAI 2021) 
 github.com/Terminator8758/CAP-master
+
+Lifelong Person Re-Identification via Adaptive Knowledge Accumulation (CVPR 2021) 
+github.com/TPCD/LifelongReID
+
+Joint Noise-Tolerant Learning and Meta Camera Shift Adaptation for Unsupervised Person Re-Identification (CVPR 2021) 
+github.com/FlyingRoastDuck/MetaCam_DSCE
+
+《Cluster Contrast for Unsupervised Person Re-Identification》(2021)
+github.com/alibaba/cluster-contrast 

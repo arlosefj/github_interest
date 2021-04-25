@@ -484,3 +484,148 @@ github.com/poloclub/dodrio
 
 《A Practical Survey on Faster and Lighter Transformers》
 https://www.arxiv-vanity.com/papers/2103.14636
+
+### multimodal：面向VQA和图像描述研究的多模态数据集和视觉特征库，可直接用pip安装
+github.com/cdancette/multimodal
+
+《VinVL: Revisiting Visual Representations in Vision-Language Models》(ECCV 2021) 
+github.com/pzzhang/VinVL 
+
+### 《Scaling Local Self-Attention For Parameter Efficient Visual Backbones》(2021)
+github.com/lucidrains/halonet-pytorch
+
+《RoFormer: Transformer with Rotary Position Embeddings》(2021) 
+github.com/ZhuiyiTechnology/roformer
+
+《Swin Transformer: Hierarchical Vision Transformer using Shifted Windows》(2021) 
+github.com/microsoft/Swin-Transformer
+
+《Diverse Image Captioning with Context-Object Split Latent Spaces》(NeurIPS 2020) 
+github.com/visinf/cos-cvae 
+
+《Self-Attention Attribution: Interpreting Information Interactions Inside Transformer》(AAAI 2021)
+github.com/YRdddream/attattr
+
+### 《An Image is Worth 16x16 Words, What is a Video Worth?》(2021) 
+github.com/lucidrains/STAM-pytorch 
+
+CvT: Introducing Convolutions to Vision Transformers
+https://arxiv.org/abs/2103.15808
+
+ViViT: A Video Vision Transformer
+https://www.arxiv-vanity.com/papers/2103.15691
+
+Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers
+https://www.arxiv-vanity.com/papers/2103.16553
+
+Rethinking Spatial Dimensions of Vision Transformers
+github.com/naver-ai/pit 
+
+Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding
+https://www.arxiv-vanity.com/papers/2104.00298
+
+Going deeper with Image Transformers
+https://www.arxiv-vanity.com/papers/2103.17239
+
+视觉Transformer的大爆发
+https://paperswithcode.com/newsletter/7/
+
+On the Adversarial Robustness of Visual Transformers
+https://www.arxiv-vanity.com/papers/2103.15670
+
+Towards General Purpose Vision Systems
+https://www.arxiv-vanity.com/papers/2104.00743
+
+FasterTransformer：更快的FasterTransformer，包括Transformer相关优化、GPT、BERT等
+github.com/NVIDIA/FasterTransformer
+
+多种视觉Transformer的PyTorch实现
+github.com/rosinality/vision-transformers-pytorch
+
+Language-based Video Editing via Multi-Modal Multi-Level Transformer
+https://www.arxiv-vanity.com/papers/2104.01122
+
+LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference
+https://www.arxiv-vanity.com/papers/2104.01136
+
+屠榜各大 CV 任务，微软开源的 Swin Transformer 有多强？
+https://weibo.com/ttarticle/p/show?id=2309404626713857622141#related
+https://www.zhihu.com/question/437495132/answer/1800881612
+
+Swin Transformer: Hierarchical Vision Transformer using Shifted Windows (2021) 
+github.com/berniwal/swin-transformer-pytorch 
+
+《Swin Transformer: Hierarchical Vision Transformer using Shifted Windows》(2021)
+github.com/SwinTransformer/Swin-Transformer-Object-Detection
+
+Fourier Image Transformer
+github.com/juglab/FourierImageTransformer
+
+视觉-语言相关资源大列表
+github.com/sangminwoo/awesome-vision-and-language
+
+句子-视频段定位相关文献与基准列表
+github.com/Soldelli/Awesome-Temporal-Language-Grounding-in-Videos 
+
+SiT: Self-supervised vIsion Transformer
+github.com/Sara-Ahmed/SiT
+
+PyTorchVideo：Facebook面向视频理解研究的深度学习库
+github.com/facebookresearch/pytorchvideo 
+
+OpenAI DALLE复现
+github.com/kobiso/DALLE-reproduction
+
+LXMERT: Learning Cross-Modality Encoder Representations from Transformers
+github.com/yangxuntu/lxmertcatt
+
+TransFG: A Transformer Architecture for Fine-grained Recognition (2021) 
+github.com/TACJu/TransFG
+
+Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers(2021) 
+github.com/hila-chefer/Transformer-MM-Explainability
+
+UniMoCo: Unsupervised, Semi-Supervised and Full-Supervised Visual Representation Learning
+github.com/dddzg/unimoco
+
+ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases 
+github.com/facebookresearch/convit
+
+《DeepViT: Towards Deeper Vision Transformer》(2021) 
+github.com/zhoudaquan/dvit_repo
+
+《Visual Semantic Role Labeling for Video Understanding》(CVPR 2021)
+github.com/TheShadow29/VidSitu 
+
+《Blow the Dog Whistle: A Chinese Dataset for Cant Understanding with Common Sense and World Knowledge》(NAACL 2021) 
+github.com/JetRunner/dogwhistle
+
+《Location-Sensitive Visual Recognition with Cross-IOU Loss》(2021)
+github.com/Duankaiwen/LSNet 
+
+《CeiT : Convolutional enhanced image Transformer》(2021) 
+github.com/rishikksh20/CeiT-pytorch
+
+《Syntax-Aware Action Targeting for Video Captioning》(CVPR 2020) 
+github.com/SydCaption/SAAT
+
+VideoGPT: Video Generation using VQ-VAE and Transformers
+github.com/wilson1yan/VideoGPT
+
+RoFormer: Enhanced Transformer with Rotary Position Embedding
+https://www.arxiv-vanity.com/papers/2104.09864
+
+EET：针对Transformer-based大模型和长序列场景的高性能PyTorch推理插件
+github.com/NetEase-FuXi/EET
+
+Lightning Transfomers：基于Pytorch Lightning, Transformers, Hydra做高性能研究的集成界面，提供了灵活接口用于训练和微调最新Transformer模型
+github.com/PyTorchLightning/lightning-transformers
+
+NLP实操手册: 基于Transformer的深度学习架构的应用指南(综述)
+https://www.arxiv-vanity.com/papers/2104.10640
+
+MaX-DeepLab：面向端到端全景分割的双通路Transformer
+https://arxiv.org/abs/2012.00759
+
+Hierarchical Cross-Modal Agent for Robotics Vision-and-Language Navigation
+https://www.arxiv-vanity.com/papers/2104.10674

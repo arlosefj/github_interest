@@ -1205,3 +1205,48 @@ github.com/ZJCV/ZCls
 
 deeplearning.ai深度学习课程习题作业参考答案
 github.com/HeroKillerEver/coursera-deep-learning 
+
+一个简化机器学习开发的平台，支持跟踪实验、代码打包、部署模型等。它提供了一套轻量级的 API，可与目前主流机器学习 TensorFlow、PyTorch、XGBoost 等库轻松整合
+https://github.com/mlflow/mlflow
+
+#### 一个支持交互的展示卷积过程的可视化工具
+https://github.com/pwwang/cnn-convoluter
+
+Keras 官方出品基于 Keras 的 AutoML 系统。支持 CPU 和 GPU 训练，傻瓜式 API，3 行代码就能训练一个模型。目前支持的任务：图像分类、图像回归、文本分类、结构化数据分类等。将人从手工选择超参数中解放出来，快速开发原型
+https://github.com/keras-team/autokeras
+
+LEAP：Python通用遗传算法包
+github.com/AureumChaos/LEAP
+
+《Augmentation Strategies for Learning with Noisy Labels》(CVPR 2021) 
+github.com/KentoNishi/Augmentation-for-LNL
+
+Datasets For Recommender Systems：推荐系统数据集列表
+github.com/RUCAIBox/RecSysDatasets
+
+Google教程：机器学习中的数据准备和特征工程
+https://developers.google.com/machine-learning/data-prep/
+
+你仅需的3类机器学习工具
+towardsdatascience.com/the-only-3-ml-tools-you-need-1aa750778d33
+
+PaddleFL：PaddlePaddle联邦深度学习库
+github.com/PaddlePaddle/PaddleFL
+
+ELI5：帮助调试机器学习分类器并解释其预测的Python包
+github.com/eli5-org/eli5
+
+Refine Myself by Teaching Myself : Feature Refinement via Self-Knowledge Distillation 
+github.com/MingiJi/FRSKD
+
+Rethinking Self-supervised Learning: Small is Beautiful(2021) 
+github.com/CupidJay/Scaled-down-self-supervised-learning
+
+《Adversarial Robustness under Long-Tailed Distribution》(CVPR 2021) 
+github.com/wutong16/Adversarial_Long-Tail
+
+免费课程：Scikit-Learn机器学习实战
+https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/
+
+Cockpit：深度神经网络训练实用调试工具
+github.com/ahthie7u/cockpit 

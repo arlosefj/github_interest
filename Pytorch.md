@@ -639,3 +639,21 @@ github.com/fgnt/padertorch
 
 PyTorch Profiler：新的性能分析工具
 https://pytorch.org/blog/introducing-pytorch-profiler-the-new-and-improved-performance-tool/
+
+用PyTorch Lightning+DeepSpeed实现数十亿参数模型训练
+https://medium.com/pytorch-lightning/accessible-multi-billion-parameter-model-training-with-pytorch-lightning-deepspeed-c9333ac3bb59
+
+PyTorch Notebooks：PyTorch深度学习学习与实践Notebooks集合
+github.com/omarsar/pytorch_notebooks
+
+PyTorch实用基础教程
+https://www.bilibili.com/video/BV1Sy4y1b7ic/
+
+torchtyping - Runtime type annotations for the shape, dtype etc. of PyTorch Tensors.
+github.com/patrick-kidger/torchtyping
+
+友好的PyTorch入门工具书(中文)，Don't let me think是本书的最高追求
+github.com/lyhue1991/eat_pytorch_in_20_days
+
+pytest-pytorch - pytest plugin for a better developer experience when working with the PyTorch test suite
+github.com/Quansight/pytest-pytorch

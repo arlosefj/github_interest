@@ -132,3 +132,9 @@ https://blog.csdn.net/qianbin3200896/article/details/108949723
 
 DeepStream Human Pose Estimation：DeepStream人体姿态估计
 https://github.com/NVIDIA-AI-IOT/deepstream_pose_estimation
+
+基于树莓派的操作系统开发教程
+https://github.com/s-matyukevich/raspberry-pi-os
+
+RUHAcam：基于树莓派的3D打印DIY复古风相机
+github.com/penk/ruha.camera

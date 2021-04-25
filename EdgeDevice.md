@@ -93,3 +93,6 @@ github.com/Tencent/Forward
 
 tinyMLPerf Deep Learning Benchmarks for Embedded Devices：嵌入式设备tinyML深度学习基准
 github.com/mlcommons/tiny
+
+'TensorFlow Lite, Coral Edge TPU samples (Python/C++, Raspberry Pi/Windows/Linux).' 
+github.com/NobuoTsukamoto/edge_tpu

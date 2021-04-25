@@ -139,3 +139,9 @@ https://github.com/elnormous/ouzel
 
 “BASIC Computer Games”经典小游戏集合多语言更新版
 https://github.com/coding-horror/basic-computer-games
+
+基于 Qt5 开发的中国象棋网络对战平台，支持单机和网络对战
+https://github.com/xmuli/chinessChess
+
+真入门级的 Python 游戏集合库。都是简单的小游戏：贪吃蛇、迷宫、Pong、猜字等，运行方便、代码简单易懂。用游戏开启的你 Python 学习之旅，玩完再学源码，其乐无穷啊。
+https://github.com/grantjenks/free-python-games

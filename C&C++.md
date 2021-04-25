@@ -49,3 +49,6 @@ https://github.com/benman64/subprocess
 
 Stackoverflow上对C/C++问题的整理、总结和翻译
 https://github.com/EthsonLiu/stackoverflow-top-cpp/tree/master/question
+
+用 C 语言写玩具或项目的教程集合。教程分为游戏开发、操作系统、计算机网络等分类，其中包含图文、视频、代码等资料
+https://github.com/rby90/project-based-tutorials-in-c

@@ -861,3 +861,51 @@ github.com/Megvii-BaseDetection/LLA
 
 Gen-LaneNet: a generalized and scalable approach for 3D lane detection》(ECCV 2020) 
 github.com/yuliangguo/Pytorch_Generalized_3D_Lane_Detection
+
+《ReDet: A Rotation-equivariant Detector for Aerial Object Detection》(CVPR 2021) 
+github.com/csuhan/ReDet 
+
+《Beta R-CNN: Looking into Pedestrian Detection from Another Perspective》(NeurIPS 2020) 
+github.com/Guardian44x/Beta-R-CNN
+
+### 《Wsod2: Learning bottom-up and top-down objectness distillation for weakly-supervised object detection》(ICCV 2019) 
+github.com/researchmm/WSOD2
+
+《Anchor-Free Person Search》(CVPR 2021) 
+github.com/daodaofr/AlignPS
+
+### 《RESA: Recurrent Feature-Shift Aggregator for Lane Detection》(AAAI 2021)
+github.com/ZJULearning/resa 
+
+《OTA: Optimal Transport Assignment for Object Detection》(CVPR 2021)
+github.com/Megvii-BaseDetection/OTA 
+
+### 《FCOS: Fully Convolutional One-Stage Object Detection》(2019) 
+github.com/rosinality/fcos-pytorch
+
+USB: Universal-Scale Object Detection Benchmark
+github.com/shinya7y/UniverseNet
+
+Efficient DETR: Improving End-to-End Object Detector with Dense Prior
+https://www.arxiv-vanity.com/papers/2104.01318
+
+SI-Score: An image dataset for fine-grained analysis of robustness to object location, rotation and size
+github.com/google-research/si-score
+
+Robust and Accurate Object Detection via Adversarial Learning
+github.com/google/automl/blob/master/efficientdet/Det-AdvProp.md
+
+视觉小目标检测文献列表
+github.com/ispc-lab/SmallObjectDetectionList 
+
+### YOLOv4模型训练教程
+github.com/jkjung-avt/yolov4_crowdhuman
+
+yolov5_prune - yolov5剪枝，支持v2,v3,v4版本的yolov5
+github.com/ZJU-lishuang/yolov5_prune
+
+Dynamic Anchor Learning for Arbitrary-Oriented Object Detection
+github.com/ming71/DAL 
+
+Adaptive Class Suppression Loss for Long-Tail Object Detection (CVPR 2021) 
+github.com/CASIA-IVA-Lab/ACSL 

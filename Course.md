@@ -216,3 +216,9 @@ amfarahmand.github.io/IntroRL/
 
 机器学习/深度学习课程汇总
 https://elvissaravia.substack.com/p/machine-learning-and-deep-learning
+
+计算思维与推理思维：数据科学基础》随书代码
+github.com/data-8/textbook book
+
+免费课程：嵌入式机器学习导论
+www.coursera.org/learn/introduction-to-embedded-machine-learning

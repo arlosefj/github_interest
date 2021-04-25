@@ -31,3 +31,6 @@ https://github.com/microsoft/qlib
 
 用Tensorflow.js+ Kafka开发的股市预测系统
 https://github.com/victor369basu/Real-time-stock-market-prediction
+
+《Algorithmic Financial Trading with Deep Convolutional Neural Networks: Time Series to Image Conversion Approach》(2020) 
+github.com/nayash/stock_cnn_blog_pub

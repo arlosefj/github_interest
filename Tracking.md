@@ -319,3 +319,24 @@ github.com/vita-epfl/trajnetplusplusbaselines
 
 《Track to Detect and Segment: An Online Multi-Object Tracker》(CVPR 2021) 
 github.com/JialianW/TraDeS
+
+《Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking》(CVPR 2021) 
+github.com/594422814/TransformerTrack 
+
+《Robust Long-Term Object Tracking via Improved Discriminative Model Prediction》(ECCV 2020) 
+github.com/bismex/RLT-DIMP
+
+Blazepose tracking with DepthAI：DepthAI运动跟踪
+github.com/geaxgx/depthai_blazepose
+
+Learning Spatio-Temporal Transformer for Visual Tracking
+https://www.arxiv-vanity.com/papers/2103.17154
+
+单目标追踪文献列表
+github.com/wangxiao5791509/Single_Object_Tracking_Paper_List
+
+Learning Spatio-Temporal Transformer for Visual Tracking (2021) 
+github.com/researchmm/Stark
+
+《Learning optical flow from still images》(CVPR 2021) 
+github.com/mattpoggi/depthstillation

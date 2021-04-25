@@ -405,3 +405,9 @@ https://www.arxiv-vanity.com/papers/2103.06902
 
 《PISE: Person Image Synthesis and Editing with Decoupled GAN》(CVPR 2021) 
 github.com/Zhangjinso/PISE
+
+《Style Augmentation: Data Augmentation via Style Randomization》(CVPRW 2019) 
+github.com/philipjackson/style-augmentation
+
+场景图生成基准
+github.com/microsoft/scene_graph_benchmark 

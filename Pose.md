@@ -361,3 +361,24 @@ https://github.com/Zhangjinso/Awesome-pose-transfer
 
 ### Stick Figure Recorder：通过摄像头生成火柴人动画的网页应用
 github.com/kenkawakenkenke/stickfigure-recorder
+
+《Deep Dual Consecutive Network for Human Pose Estimation》(CVPR 2021) 
+github.com/Pose-Group/DCPose
+
+《Unsupervised Learning of Object Landmarks via Self-Training Correspondence》(NeurIPS 2020) 
+github.com/malldimi1/UnsupervisedLandmarks 
+
+imple Pose: Rethinking and Improving a Bottom-up Approach for Multi-Person Pose Estimation (AAAI 2020)
+github.com/hellojialee/Improved-Body-Parts 
+
+《Bottom-Up Human Pose Estimation Via Disentangled Keypoint Regression》(CVPR 2021)
+github.com/HRNet/DEKR
+
+《UniPose: Unified Human Pose Estimation in Single Images and Videos》(CVPR 2020) 
+github.com/bmartacho/UniPose
+
+### 《Pose Recognition with Cascade Transformers.》(2021)
+github.com/mlpc-ucsd/PRTR 
+
+《IntegralAction: Pose-driven Feature Integration for Robust Human Action Recognition in Videos》(2021) 
+github.com/mks0601/IntegralAction_RELEASE

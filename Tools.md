@@ -719,3 +719,47 @@ github.com/svsool/vscode-memo
 
 mkdocstrings：MkDocs文档自动生成
 github.com/mkdocstrings/mkdocstrings
+
+### rtty：能够通过 Web 登录 Linux 终端的开源项目。采用 C 语言实现，算上依赖库体积不到 100KB，可用于嵌入式 Linux 设备。拥有 Web 管理界面，用此项目可以方便地远程维护 Linux 设备
+https://github.com/zhaojh329/rtty
+
+给图片加盲水印的 Python 库。盲水印就是图片有水印但人眼看不出来，需要通过程序才能提取水印，相当于隐形“盖章”，可以用在数据泄露溯源、版权保护等场景。
+https://github.com/guofei9987/blind_watermark
+
+基于 Auto.js 的蚂蚁森林能量自动收获脚本。它是个“绿色环保”的项目，我能从中感受到满满的爱和想把它做好的决心！来看看作者开发 Ant-Forest 时解决了哪些难题：
+能量球识别无法使用控件信息（使用基于霍夫变换的图像识别）
+脚本执行逻辑易被打断（使用事件监听及扩展模块增强鲁棒性）
+每次只能运行一次（完善的复查及定时循环功能）
+不同设备分辨率及屏幕比例不同（使用等比缩放/定宽缩放等进行适配）
+https://github.com/SuperMonster003/Ant-Forest
+
+### 基于 Go 实现的免费内网穿透服务，即将本地服务暴露到公网。
+https://github.com/inlets/inlets
+
+采用 Go 语言编写的免费、跨平台的文件同步工具。它不需要安装，只需要下载对应系统的压缩包解压后就可以直接运行和使用。拥有命令行、Web 和桌面程序多种操作模式，同时支持内网和互联网的文件同步，可以用来搭建私有网盘。又一个代替付费网盘的选择，如果考虑到昂贵的宽费用。可以把 syncthing 做为局域网下手机、电视和电脑共享文件的开源解决方案
+https://github.com/syncthing/syncthing
+
+哔哩哔哩定时自动完成任务项目。该项目借助 GitHub Action 自动完成：每日任务、投币、直播签到等，还可以把运行结果推送到微信，是一个解决重复劳动的有趣项目。按照项目首页的教程，花点时间就能配置好，一劳永逸
+https://github.com/srcrs/BilibiliTask
+
+一款为苹果电脑提供 NTFS 读写支持的免费工具。有了它就可以很方便的在苹果电脑上读写，从 Windows 系统拷贝数据的 U 盘和移动硬盘等
+https://github.com/ntfstool/ntfstool
+https://github.com/ntfstool/ntfstool/blob/master/README-CN.md
+
+极客时间课程（目前仅支持图文、音频）下载到本地的 Python 脚本。需输入账号密码后，才能将指定极客时间专栏课程保存到本地，方便随时随地学习
+https://github.com/zhengxiaotian/geek_crawler
+
+一款支持划词翻译和截图翻译 Mac 端翻译软件。系统默认划词工具有些不支持的 PDF 文件，通过这个软件截图翻译功能，可以舒服的解决阅读这些文件时需要翻译的问题
+https://github.com/ripperhe/Bob
+
+nbterm：在终端用命令行浏览、编辑和执行Jupyter Notebooks
+github.com/davidbrochart/nbterm
+
+### Livebook：基于构建的交互式协作编程笔记本(Elixir)
+github.com/elixir-nx/livebook
+
+JimuReport - 积木报表 - 一款免费的数据可视化工具，报表与大屏设计
+github.com/zhangdaiscott/JimuReport 
+
+datatap-python：可视化数据管理平台
+github.com/zensors/datatap-python

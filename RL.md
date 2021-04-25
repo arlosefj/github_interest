@@ -250,3 +250,6 @@ github.com/google-research/deep_ope
 
 ### '一种新颖的强化学习斗地主ai解决方案[笑而不语]' 
 github.com/freefuiiismyname/ddz-ai
+
+用Deep Q-learning玩Chrome恐龙跳跳小游戏
+github.com/uvipen/Chrome-dino-deep-Q-learning-pytorch

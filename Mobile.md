@@ -156,3 +156,6 @@ https://github.com/mit-han-lab/inter-operator-scheduler
 
 ### 安卓手机上的NanoDet目标检测演示项目
 github.com/nihui/ncnn-android-nanodet
+
+高效学习神器 Anki 安卓客户端。Anki 是一个帮助学习的记忆卡片软件，卡片正面是问题背面是答案，然后根据记忆公式帮你复习和记牢
+https://github.com/ankidroid/Anki-Android

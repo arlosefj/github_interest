@@ -330,3 +330,21 @@ ffmpeg 用户都知道 ffmpeg 是格式转换工具，ffplay 是播放器。但�
 mplayer 可以用 -vo caca 参数指定用 caca 作为视频输出驱动将影像转为字符在控制台上播放。ffplay 无此功能，但 ffmpeg 却可以：
 ffmpeg -i badapple.mp4 -pix_fmt rgb24 -f caca /dev/stdout
 这时候 ffmpeg 其实还是以格式转换工具的角色在工作，只是把转换后的数据输出到了控制台上。
+
+### 视频去水印工具。原理很简单就是根据输入的视频的地址，返回原平台无水印的视频源地址。目前支持 15 个视频平台
+https://github.com/5ime/video_spider
+
+一款轻量、好用的开源视频处理工具。它是基于 PyQt5 开发的桌面工具，用于满足非专业用户的视频处理需求：压缩视频、转码视频、倒放视频、合并片段、根据字幕裁切片段、自动配字幕、自动剪辑等
+https://github.com/HaujetZhao/QuickCut
+
+一个基于 C++ 实现的多画面播放器。能播放文件源、网络源、设备捕获源，界面为多画面监控网格，可自由切换多画面风格，支持拖拽与合并。适合想要入门音视频、播放器开发的小伙伴们学习，该项目用到的技术栈：
+Qt 实现界面
+FFmpeg 获取帧、编解码、转码
+OpenCV 处理图片
+OpenGL 渲染视频帧
+https://github.com/ithewei/hplayer
+
+视频生成和视频表示学习相关文献列表
+github.com/matthewvowels1/Awesome-Video-Generation
+
+Removing the Background by Adding the Background: Towards Background Robust Self-supervised Video Representation Learning (CVPR 2021)  github.com/FingerRec/BE 

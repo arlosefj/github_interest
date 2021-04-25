@@ -441,3 +441,13 @@ github.com/griffbr/ODMD
 
 《Transformers Solve the Limited Receptive Field for Monocular Depth Prediction》
 github.com/ygjwd12345/TransDepth
+
+《NeX: Real-time View Synthesis with Neural Basis Expansion》(CVPR 2021) 
+github.com/nex-mpi/nex-code
+
+《Where am I looking at? Joint Location and Orientation Estimation by Cross-View Matching》(CVPR 2020)
+github.com/shiyujiao/
+cross_view_localization_DSM 
+
+《Attention-Aware Feature Aggregation for Real-time Stereo Matching on Edge Devices》(2020) 
+github.com/JiaRenChang/RealtimeStereo

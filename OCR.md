@@ -680,3 +680,22 @@ https://www.pyimagesearch.com/2020/08/03/tesseract-ocr-for-non-english-languages
 
 ### detectron2：用Detectron2做文档版面分析
 github.com/hpanwar08/detectron2
+
+支持多种语言的即用型的 Python OCR 库，包括中文、日文、韩文等
+https://github.com/JaidedAI/EasyOCR
+
+PaddleOCR2Pytorch：移植到PyTorch的PaddleOCR
+github.com/frotms/PaddleOCR2Pytorch 
+ncnn移植版：https:// github.com/FeiGeChuanShu/ncnn_paddleocr
+
+mmocr：OpenMMLab开源文本检测/识别工具箱
+github.com/open-mmlab/mmocr
+
+### LayoutParser: A Unified Toolkit for Deep Learning Based Document Image Analysis
+layout-parser.github.io/
+
+Deskew：扫描文档图像倾斜检测与校正库
+github.com/sbrunner/deskew 
+
+《MASTER: Multi-Aspect Non-local Network for Scene Text Recognition》(PR 2021) 
+github.com/wenwenyu/MASTER-pytorch

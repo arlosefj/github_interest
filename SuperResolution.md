@@ -286,3 +286,15 @@ https://github.com/lpj0/CBSR
 
 2020.12 Learning Continuous Image Representation with Local Implicit Image Function 
 https://github.com/yinboc/liif  https://arxiv.org/abs/2012.09161
+
+《Deep Generative Adversarial Residual Convolutional Networks for Real-World Super-Resolution》(2020) 
+github.com/RaoUmer/SRResCGAN
+
+《Exploring Sparsity in Image Super-Resolution for Efficient Inference》(CVPR 2021) 
+github.com/LongguangWang/SMSR
+
+《Investigating Loss Functions for  Extreme Super-Resolution》(CVPR 2020) 
+github.com/kingsj0405/ciplab-NTIRE-2020
+
+《Exploiting raw images for real-scene super-resolution》(PAMI 2021)
+github.com/xuxy09/RawSR 

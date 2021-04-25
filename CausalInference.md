@@ -54,3 +54,6 @@ https://medium.com/@deepmindsafetyresearch/what-mechanisms-drive-agent-behaviour
 
 计算机视觉因果关系相关文献列表
 github.com/Wangt-CN/Awesome-Causality-in-CV
+
+### 因果推断教程资料
+github.com/DataForScience/CausalInference

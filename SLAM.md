@@ -131,3 +131,9 @@ https://github.com/ov2slam/ov2slam
 
 ROS-Mobile: An Android application for the Robot Operating System
 https://github.com/ROS-Mobile/ROS-Mobile-Android
+
+VideoIMUCapture-Android：面向运动结构SLAM和结构的安卓平台应用，用于捕捉视频、IMU 数据和相机数据
+github.com/DavidGillsjo/VideoIMUCapture-Android
+
+A Fast and Robust Place Recognition Approach for Stereo Visual Odometry using LiDAR Descriptors
+github.com/IRVLab/so_dso_place_recognition

@@ -262,3 +262,61 @@ https://github.com/sangyun884/Face2Webtoon
 
 ### Crypko：用GAN让人人都变成动漫小画家
 https://crypko.ai/
+
+### 视频会议实时换脸工具。利用机器学习训练的模型，通过捕捉人脸动作并与图片相结合进行实时渲染的方式，达到实时换脸的效果。支持 OBS、Zoom、Skype、Teams、Slack 等直播和会议软件
+https://github.com/alievk/avatarify-python
+
+### 通过 Pytorch 实现绘制一个边界框，即可删除视频中要删除的对象。
+https://github.com/zllrunning/video-object-removal
+
+谁先眨眼谁就输了的游戏。使用 React + Flask + Dlib 技术实现的“眨眼就输了”在线游戏
+https://github.com/ByronHsu/Never-Blink
+
+AR 拷贝实物照片到 PS 软件的工具。它可以通过 iPhone 或者 Android 手机将真实物品从周围环境中抠出来，并粘贴到 Photoshop 中，未来还会支持其它软件
+https://github.com/cyrildiagne/ar-cutpaste
+
+### 一个微软开源的免费 Windows 操作系统的无视觉桌面访问阅读器。通过合成器语音或者盲文点字的反馈，方便盲人和低视力人群使用运行在 Windows 操作系统下运作的电脑。也能够让开发者了解微软的常见的辅助功能接口，如微软 Active Accessibility、Java Access Bridge、IAccessible2 和 UI automation。希望有更多的人了解无障碍
+https://github.com/nvaccess/nvda
+https://www.nvdacn.com/
+
+一个把单张静态照片转化成 3D 图片的项目。
+https://github.com/vt-vl-lab/3d-photo-inpainting
+
+### 一个封装了 7 种启发式算法的 Python 代码库。分别是：差分进化算法、遗传算法、粒子群算法、模拟退火算法、蚁群算法、鱼群算法、免疫优化算法
+https://github.com/guofei9987/scikit-opt
+
+### 将真实照片转换为卡通风格的开源项目
+https://github.com/minivision-ai/photo2cartoon
+
+《TTNet: Real-time temporal and spatial video analysis of table tennis》(CVPR 2020) 
+github.com/maudzung/TTNet-Real-time-Analysis-System-for-Table-Tennis-Pytorch
+
+LOHO: Latent Optimization of Hairstyles via Orthogonalization (CVPR 2021) 
+github.com/dukebw/LOHO 
+
+《TediGAN: Text-Guided Diverse Face Image Generation and Manipulation》(2020) 
+github.com/IIGROUP/TediGAN
+
+WOMBO：上传大头照和歌曲自动生成歌唱视频的App
+https://www.wombo.ai/
+
+### SimDeblur：PyTorch图片/视频去模糊框架
+ github.com/ljzycmd/SimDeblur
+
+ automaton：创意编程动画引擎
+github.com/FMS-Cat/automaton 
+
+如何用Python创建像3Blue1Brown一样的数学动画
+towardsdatascience.com/how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1
+
+BMW-Anonymization-Api：视频/图像匿名化API
+github.com/BMW-InnovationLab/BMW-Anonymization-API
+
+Voice Cloning App：开源语音克隆App
+github.com/BenAAndrew/Voice-Cloning-App
+
+Qbr：基于摄像头的3x3x3魔方解算器(Python/OpenCV)
+github.com/kkoomen/qbr
+
+程序员不知道写什么的时候，可以看看这个网站，Product Hunt 上最受欢迎的产品排行 
+https://pragli.com/leaderboard-for-product-hunt

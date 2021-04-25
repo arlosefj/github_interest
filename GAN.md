@@ -921,3 +921,43 @@ https://www.arxiv-vanity.com/papers/2103.13389
 
 ### 《CoMoGAN: continuous model-guided image-to-image translation》(CVPR 2021) 
 github.com/cv-rits/CoMoGAN
+
+《Training GANs with Stronger Augmentations via Contrastive Discriminator》(ICLR 2021) 
+github.com/jh-jeong/ContraD
+
+Few-shot Semantic Image Synthesis Using StyleGAN Prior
+https://www.arxiv-vanity.com/papers/2103.14877
+
+StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery
+github.com/orpatashnik/StyleCLIP
+
+AE自编码器/GAN生成对抗网络入门学习资源
+github.com/YixinChen-AI/CVAE-GAN-zoos-PyTorch-Beginner
+
+ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement
+https://www.arxiv-vanity.com/papers/2104.02699
+
+### MobileStyleGAN: A Lightweight Convolutional Neural Network for High-Fidelity Image Synthesis
+github.com/bes-dev/MobileStyleGAN.pytorch
+github.com/bes-dev/random_face
+
+mmgeneration：基于PyTorch和MMCV的强大生成模型工具包，尤其是最新的GAN
+github.com/open-mmlab/mmgeneration
+
+DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort
+https://www.arxiv-vanity.com/papers/2104.06490
+
+Adversarial Open Domain Adaption for Sketch-to-Photo Synthesis
+https://www.arxiv-vanity.com/papers/2104.05703
+
+Training Generative Adversarial Networks with Limited Data (NeurIPS 2020) 
+github.com/dvschultz/stylegan2-ada-pytorch
+
+《Swapping Autoencoder for Deep Image Manipulation》(NeurIPS 2020) 
+github.com/taesungp/swapping-autoencoder-pytorch
+
+《Few-shot Image Generation via Cross-domain Correspondence》(CVPR 2021) 
+github.com/utkarshojha/few-shot-gan-adaptation
+
+《Bayesian Image Reconstruction using Deep Generative Models》(2021) 
+github.com/razvanmarinescu/brgm

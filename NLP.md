@@ -381,3 +381,25 @@ https://openai.com/blog/gpt-3-apps/
 
 magic-square-poems：发现唐诗中的 幻方(纵横图)
 github.com/LingDong-/magic-square-poems 
+
+一个 Python 写的自然语言处理库。使用简单、功能强大，支持中文分词、词性标注、情感分析
+https://github.com/isnowfy/snownlp
+
+### 基于深度学习的对对联项目，你出上联它自动生成下联。
+https://github.com/wb14123/seq2seq-couplet
+https://ai.binwang.me/couplet/
+
+Hugging Face的Transformers模块集成GPT-3开源复现版GPT Neo
+https://huggingface.co/EleutherAI/gpt-neo-1.3B
+
+PlainTextWikipedia：将Wikipedia数据集转换成纯文本文件
+github.com/daveshap/PlainTextWikipedia
+
+TorchBlocks：基于PyTorch的自然语言处理工具包
+github.com/lonePatient/TorchBlocks
+
+SPACES - 端到端的长本文摘要模型（法研杯2020司法摘要赛道）
+github.com/bojone/SPACES
+
+基于知识图谱的医疗诊断知识问答系统
+github.com/wangle1218/KBQA-for-Diagnosis

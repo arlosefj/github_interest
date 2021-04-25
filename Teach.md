@@ -185,3 +185,6 @@ Lyra 2：无需代码的交互可视化创建工具
 http://vis.csail.mit.edu/pubs/lyra2 https://vega.github.io/lyra/
 
 François Chollet：对自驱型学生来说，Youtube教授是世界上最好的老师——在所有领域。
+
+Net2Vis：浏览器里的神经网络(结构)可视化器
+github.com/viscom-ulm/Net2Vis
