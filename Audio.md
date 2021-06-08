@@ -532,3 +532,42 @@ github.com/ccoreilly/vosk-browser  ccoreilly.github.io/vosk-browser/
 
 The SpeechBrain Toolkit：PyTorch开源一体化语音工具包，可用来轻松开发最先进的语音系统，包括语音识别、讲话者识别、语音增强、多麦克风信号处理等
 speechbrain.github.io/
+
+Speech Algorithms：语音算法集
+github.com/Ryuk17/SpeechAlgorithms
+
+torchsynth：面向音频机器学习研究的指出GPU的超快模块音频合成器，在GPU上合成音频的速度比实时(714mhz)快16200倍
+github.com/torchsynth/torchsynth
+
+MevonAI：语音情感识别
+github.com/SuyashMore/MevonAI-Speech-Emotion-Recognition
+
+### TensorVox：C++写的桌面神经网络语音合成应用
+github.com/ZDisket/TensorVox
+
+Music Demixing Challenge - Starter Kit：音乐音源分离挑战入门工具包
+github.com/AIcrowd/music-demixing-challenge-starter-kit
+
+LEAF：轻量嵌入式音频框架，用于音频合成和处理的C语言库
+github.com/spiricom/LEAF
+
+Word2Wave：基于WaveGAN和COALA的文本音频生成框架
+github.com/ilaria-manco/word2wave 
+
+基于深度学习的音-视语音增强和分离相关资源集
+github.com/danmic/av-se
+
+LAS_Mandarin_PyTorch：端到端的中文语音识别
+github.com/jackaduma/LAS_Mandarin_PyTorch
+
+基于PaddlePaddle实现的中文语音识别
+github.com/yeyupiaoling/PaddlePaddle-DeepSpeech
+
+PyTorch实现的DNN音源分离
+github.com/tky823/DNN-based_source_separation
+
+可在线演示(Colab)的企业级预训练多语言语音识别(STT)模型
+https://pytorch.org/hub/snakers4_silero-models_stt/
+
+openspeech：用PyTorch-Lightning和Hydra实现的的端到端语音识别开源工具包
+github.com/sooftware/openspeech

@@ -265,3 +265,24 @@ github.com/whwu95/MVFNet
 
 《TransNet V2: Shot Boundary Detection Neural Network》(2020) 
 github.com/soCzech/TransNetV2
+
+PyTorchVideo：深度学习视频理解库
+github.com/facebookresearch/pytorchvideo
+
+外科视频分析相关文献集
+github.com/Finspire13/Awesome-Surgical-Video-Analysis
+
+### Learning Representational Invariances for Data-Efficient Action Recognition
+github.com/vt-vl-lab/video-data-aug
+
+### 《Global2Local: Efficient Structure Search for Video Action Segmentation》(CVPR 2021) 
+github.com/ShangHua-Gao/G2L-search
+
+《Learning Salient Boundary Feature for Anchor-free Temporal Action Localization》(CVPR 2021) 
+github.com/TencentYoutuResearch/ActionDetection-AFSD
+
+《Vid2Doppler: Synthesizing Doppler Radar Data from Videos for Training Privacy-Preserving Activity Recognition》(2021) 
+github.com/FIGLAB/Vid2Doppler
+
+Keras实例：CNN-RNN架构实现视频分类
+https://keras.io/examples/vision/video_classification/

@@ -584,3 +584,30 @@ github.com/cosanlab/py-feat
 
 《ArcFace: Additive Angular Margin Loss for Deep Face Recognition》(CVPR 2019) 
 github.com/peteryuX/arcface-tf2 
+
+yolov5-face：在yolov5的基础上增加landmark预测分支，loss使用wingloss,使用yolov5s取得了相对于retinaface-r50更好的性能
+github.com/deepcam-cn/yolov5-face
+
+### FaceLib: 人脸检测&年龄、性别、表情和识别库
+github.com/sajjjadayobi/FaceLib
+
+FastFace: 轻量人脸检测框架
+https:// github.com/borhanMorphy/light-face-detection 
+
+WHENet: Real-time Fine-Grained Estimation for Wide Range Head Pose
+github.com/Ascend-Research/HeadPoseEstimation-WHENet
+
+dualFace:Two-Stage Drawing Guidance for Freehand Portrait Sketching
+github.com/shasph/dualFace 
+
+《DeepFaceEditing: Deep Face Generation and Editing with Disentangled Geometry and Appearance Control》(SIGGRAPH  2021) 
+github.com/IGLICT/DeepFaceEditing-Jittor
+
+《An Efficient Training Approach for Very Large Scale Face Recognition》(2021)
+github.com/anoymous-face/FFC
+
+《Disentangled Face Attribute Editing via Instance-Aware Latent Space Search》(2021)
+github.com/yxuhan/IALS
+
+### TFace：值得信赖的人脸识别研究平台，提供了一个高性能的分布式训练框架
+github.com/Tencent/TFace

@@ -320,3 +320,38 @@ github.com/kkoomen/qbr
 
 程序员不知道写什么的时候，可以看看这个网站，Product Hunt 上最受欢迎的产品排行 
 https://pragli.com/leaderboard-for-product-hunt
+
+### Disentangled Cycle Consistency for Highly-realistic Virtual Try-On (CVPR 2021) 
+github.com/ChongjianGE/DCTON
+![](https://arloseimg.oss-cn-hangzhou.aliyuncs.com/20210601135843.png)
+
+Skeleton Aware Multi-modal Sign Language Recognition》(CVPRW 2021) 
+github.com/jackyjsy/CVPR21Chal-SLR
+![](https://arloseimg.oss-cn-hangzhou.aliyuncs.com/20210601140307.png)
+
+Anime2Sketch：动画、插图的线稿抽取工具
+github.com/Mukosame/Anime2Sketch
+
+日常工作中我们需要用到时间序列预测，比如预测收入趋势、预测DAU等等，Facebook为此专门开源过一个工具prophet，支持自定义节假日、配置周期、选择拟合函数等，工具封装得很好。
+github.com/facebook/prophet
+
+Pintr：为图片生成线条艺术画
+github.com/javierbyte/pintr
+
+人人都能做动画：Adobe最新推出Character Animator(Beta)，通过人体检测和追踪制作角色动画
+https://pages.adobe.com/character/en/body-tracker
+
+BabyGAN：根据父母长相预测孩子长相(基于StyleGAN)
+github.com/tg-bomze/BabyGAN
+
+### Fully Convolutional Line Parsing》(2021) 
+github.com/Delay-Xili/F-Clip
+
+Semi-supervised Video Deraining with Dynamical Rain Generator
+github.com/zsyOAOA/S2VD
+
+《Focal Inverse Distance Transform Maps for Crowd Localization and Counting in Dense Crowd》(2021) 
+github.com/dk-liang/FIDTM 
+
+### 《M-LSD: Towards Light-weight and Real-time Line Segment Detection》(2021) 
+github.com/navervision/mlsd

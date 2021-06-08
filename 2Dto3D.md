@@ -451,3 +451,36 @@ cross_view_localization_DSM
 
 《Attention-Aware Feature Aggregation for Real-time Stereo Matching on Edge Devices》(2020) 
 github.com/JiaRenChang/RealtimeStereo
+
+AdelaiDepth：单目深度预测开源工具箱
+github.com/aim-uofa/AdelaiDepth
+
+Combining Events and Frames using Recurrent Asynchronous Multimodal Networks for Monocular Depth Prediction (2021) 
+github.com/uzh-rpg/rpg_ramnet
+
+The Temporal Opportunist: Self-Supervised Multi-Frame Monocular Depth (CVPR 2021) 
+github.com/nianticlabs/manydepth
+
+《Domain Adaptive Semantic Segmentation with Self-Supervised Depth Estimation》
+github.com/qinenergy/corda 
+
+《M4Depth: A motion-based approach for monocular depth estimation on video sequences》(2021) 
+github.com/michael-fonder/M4Depth
+
+《Video Depth Estimation by Fusing Flow-to-Depth Proposals》(2020)
+github.com/jiaxinxie97/Video-depth-estimation
+
+《Boosting Monocular Depth Estimation Models to High-Resolution via Content-Adaptive Multi-Resolution Merging》(CVPR 2021)
+github.com/compphoto/BoostingMonocularDepth
+
+Single Image Depth Estimation using Wavelet Decomposition
+https://www.arxiv-vanity.com/papers/2106.02022
+
+《S2R-DepthNet: Learning a Generalizable Depth-specific Structural Representation》(CVPR 2021) 
+github.com/microsoft/S2R-DepthNet
+
+《Single Image Depth Prediction with Wavelet Decomposition》(CVPR 2021) 
+github.com/nianticlabs/wavelet-monodepth 
+
+通过结合人类的视觉系统特点，微软亚洲研究院探究了网络进行单目深度估计的本质，并赋予了网络强大的深度估计泛化能力。
+https://weibo.com/ttarticle/p/show?id=2309404644426801873164

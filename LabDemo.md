@@ -5,8 +5,14 @@ https://github.com/fangfufu/Linux-Fake-Background-Webcam
 
 ## 检测相关
 
+ncnn-android-scrfd：安卓平台ncnn库应用人脸检测演示项目
+github.com/nihui/ncnn-android-scrfd
+
 '轻量级cpu版实时口罩检测' 
 https://github.com/sbdcv/sbd_mask
+
+LaneDet：PyTorch车道检测工具箱
+github.com/Turoad/lanedet
 
 
 ## 生成相关
@@ -56,7 +62,27 @@ https://github.com/pateldigant/gesture-gaming-python
 https://github.com/techwithtim/Snake-Game + usrevent
 https://github.com/yas-sim/human-pose-estimation-2d-demo
 
+sense：面向动作识别的神经网络推理引擎
+https:// github.com/TwentyBN/sense
+
+MoveNet：基于TensorFlow.js的下一代姿态检测库
+https://blog.tensorflow.org/2021/05/next-generation-pose-detection-with-movenet-and-tensorflowjs.html
+
+ncnn_nanodet_hand：安卓平台上的ncnn手部检测/手势检测
+github.com/FeiGeChuanShu/ncnn_nanodet_hand
+
+Shuwa Gesture Toolkit：手语/手势识别工具包
+github.com/google/shuwa
+
 ## 其他
 
 Nano发送rtsp流
 
+ABR Control：Python机械臂控制库
+github.com/abr/abr_control
+
+### Show Data: 基于浏览器的大规模图像数据集可视化工具
+github.com/silverbulletmdc/showdata 
+
+《Learning To Count Everything》(CVPR 2021) 
+github.com/cvlab-stonybrook/LearningToCountEverything

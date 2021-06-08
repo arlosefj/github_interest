@@ -348,3 +348,16 @@ https://github.com/ithewei/hplayer
 github.com/matthewvowels1/Awesome-Video-Generation
 
 Removing the Background by Adding the Background: Towards Background Robust Self-supervised Video Representation Learning (CVPR 2021)  github.com/FingerRec/BE 
+
+Agora Flat： Agora Flat 开源教室
+github.com/netless-io/flat-server
+github.com/netless-io/flat
+
+使用 ffmpeg 录制屏幕的说明文档（含音频）
+https://trac.ffmpeg.org/wiki/Capture/Capture/Desktop%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC
+
+pims: 用简单、一致的界面以多种格式加载视频和序列图像
+github.com/soft-matter/pims
+
+《Blind Video Temporal Consistency via Deep Video Prior》(NeurIPS 2020) 
+github.com/yzxing87/pytorch-deep-video-prior

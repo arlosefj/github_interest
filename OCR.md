@@ -332,7 +332,7 @@ https://github.com/YukangWang/TextField
 Convolutional Recurrent Neural Networks(CRNN) for Scene Text Recognition
 https://github.com/MaybeShewill-CV/CRNN_Tensorflow
 
-poster text detector demo
+### poster text detector demo
 https://github.com/Yuanhang8605/faster-than-ctpn-a-novel-poster-text-detector
 https://github.com/Yuanhang8605/pixel-anchor-link-and-text-detector-experience
 结合实际项目经验谈文本检测
@@ -699,3 +699,36 @@ github.com/sbrunner/deskew
 
 《MASTER: Multi-Aspect Non-local Network for Scene Text Recognition》(PR 2021) 
 github.com/wenwenyu/MASTER-pytorch
+
+Scene Text Retrieval via Joint Text Detection and Similarity Learning (CVPR 2021)
+github.com/lanfeng4659/STR-TDSL
+
+### DocTR: 基于深度学习的端到端文档文字识别(OCR)工具(TensorFlow2)
+github.com/mindee/doctr
+
+PyTorch Tabular: A Framework for Deep Learning with Tabular Data
+https://www.arxiv-vanity.com/papers/2104.13638
+github.com/manujosephv/pytorch_tabular
+
+TABBIE: Pretrained Representations of Tabular Data
+https://www.arxiv-vanity.com/papers/2105.02584
+
+TextOCR: Towards large-scale end-to-end reasoning for arbitrary-shaped scene text
+https://www.arxiv-vanity.com/papers/2105.05486
+
+macOCR：Mac下的屏幕文字识别(OCR)工具
+github.com/schappim/macOCR
+
+场景文字检测/识别相关文献/代码集
+github.com/Ykmoon/scene-text-detection-recognition
+
+### 微软亚洲研究院提出多语言通用文档理解预训练模型LayoutXLM Multimodal Pre-training for Multilingual Visually-rich Document Understanding
+论文链接：https://arxiv.org/abs/2104.08836
+代码/模型：https://aka.ms/layoutxlm
+数据集：https://github.com/doc-analysis/XFUN​​​​
+
+《Vision Transformer for Fast and Efficient Scene Text Recognition》(ICDAR 2021) 
+github.com/roatienza/deep-text-recognition-benchmark
+
+Paperless-ng：Paperless加强版纸质文档扫描识别电子化方案
+github.com/jonaswinkler/paperless-ng

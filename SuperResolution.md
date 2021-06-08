@@ -298,3 +298,21 @@ github.com/kingsj0405/ciplab-NTIRE-2020
 
 《Exploiting raw images for real-scene super-resolution》(PAMI 2021)
 github.com/xuxy09/RawSR 
+
+SRWarp: Generalized Image Super-Resolution under Arbitrary Transformation
+github.com/sanghyun-son/srwarp
+
+Temporal Modulation Network for Controllable Space-Time Video Super-Resolution (CVPR 2021) 
+github.com/CS-GangXu/TMNet
+
+《MASA-SR: Matching Acceleration and Spatial Adaptation for Reference-Based Image Super-Resolution》(CVPR 2021)
+github.com/Jia-Research-Lab/MASA-SR
+
+《Robust Reference-based Super-Resolution via C2-Matching》(CVPR 2021) 
+github.com/yumingj/C2-Matching
+
+《Unsupervised Degradation Representation Learning for Blind Super-Resolution》(CVPR 2021) 
+github.com/LongguangWang/DASR
+
+Fourier Space Losses for Efficient Perceptual Image Super-Resolution
+https://www.arxiv-vanity.com/papers/2106.00783

@@ -152,3 +152,12 @@ https://www.arxiv-vanity.com/papers/2104.04015
 
 DeepLog：DeepLog异常检测模型的PyTorch实现
 github.com/wuyifan18/DeepLog
+
+PySAD：Python流数据异常检测库
+github.com/selimfirat/pysad
+
+《Driver Anomaly Detection: A Dataset and Contrastive Learning Approach》(2020) 
+github.com/okankop/Driver-Anomaly-Detection
+
+《PySAD: A Streaming Anomaly Detection Framework in Python》(2020)
+github.com/selimfirat/pysad

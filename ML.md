@@ -1250,3 +1250,51 @@ https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/
 
 Cockpit：深度神经网络训练实用调试工具
 github.com/ahthie7u/cockpit 
+
+Adversarial Preprocessing: Understanding and Preventing Image-Scaling Attacks in Machine Learning
+github.com/EQuiw/2019-scalingattack
+
+MLReef：一站式机器学习ML-Ops平台，方便协作、复制和分享机器学习工作
+github.com/MLReef/mlreef 
+
+Apache Liminal：面向数据工程师和科学家的端到端平台，用于方便建立、训练和部署机器学习模型
+github.com/apache/incubator-liminal
+
+决策森林模型训练、服务和解释最先进算法集
+github.com/google/yggdrasil-decision-forests
+
+You Only Learn One Representation: Unified Network for Multiple Tasks
+github.com/WongKinYiu/yolor
+
+基于梯度下降的无监督线性分解
+https://nbviewer.jupyter.org/github/patrickmineault/xcorr-notebooks/blob/master/PCA_through_gradient_descent.ipynb
+
+### 高斯过程交互式可视化
+http://www.infinitecuriosity.org/vizgp/
+https://github.com/st--/interactive-gp-visualization/
+网页交互式分析例子
+
+Multi-imbalance：Python非均衡多分类工具箱
+github.com/damian-horna/multi-imbalance
+
+EfficientResearchWork：日常数据科学、深度学习高效工作环境配置指南
+github.com/ChrisWu1997/EfficientResearchWork
+
+Recommender System in PyTorch：PyTorch推荐系统多种Top-N算法实现
+github.com/yoongi0428/RecSys_PyTorch
+
+机器学习速查
+medium.com/dataflair/beat-the-heat-with-machine-learning-cheat-sheet-365c25bd1c3
+![](https://arloseimg.oss-cn-hangzhou.aliyuncs.com/20210608144043.png)
+
+微软在 GitHub 上开源了一份机器学习相关的资源列表。主要收集微软及其子公司在机器学习领域中常用的一些工具、模型、数据集等内容。
+github.com/microsoft/machine-learning-collection ​​​ ​​​​
+
+Keras实例：估计模型训练所需样本量
+https://keras.io/examples/keras_recipes/sample_size_estimate/
+
+《Delving Deep into Label Smoothing》(2020)
+github.com/ankandrew/online-label-smoothing-pt  
+
+《Delving into Deep Imbalanced Regression》(ICML 2021)
+github.com/YyzHarry/imbalanced-regression 

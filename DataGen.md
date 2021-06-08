@@ -411,3 +411,25 @@ github.com/philipjackson/style-augmentation
 
 场景图生成基准
 github.com/microsoft/scene_graph_benchmark 
+
+### High-Resolution Complex Scene Synthesis with Transformers
+https://www.arxiv-vanity.com/papers/2105.06458/
+![](https://arloseimg.oss-cn-hangzhou.aliyuncs.com/20210602095929.png)
+
+### 中国车牌(图像)生成
+github.com/zheng-yuwei/license-plate-generator 
+
+A Distributional Approach to Controlled Text Generation》(ICLR 2021) 
+github.com/naver/gdc
+
+### Skeleton-bridged Point Completion: From Global Inference to Local Adjustment (NeurIPS 2020) 
+github.com/yinyunie/depth_renderer
+
+《Stochastic Image-to-Video Synthesis using cINNs》(CVPR 2021) 
+github.com/CompVis/image2video-synthesis-using-cINNs
+
+《Diffusion Models Beat GANS on Image Synthesis》(2021) 
+github.com/openai/guided-diffusion
+
+《StylePeople: A Generative Model of Fullbody Human Avatars》(CVPR 2021)
+github.com/saic-vul/neural-textures

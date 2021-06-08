@@ -554,8 +554,6 @@ https://www.zhihu.com/question/437495132/answer/1800881612
 
 Swin Transformer: Hierarchical Vision Transformer using Shifted Windows (2021) 
 github.com/berniwal/swin-transformer-pytorch 
-
-《Swin Transformer: Hierarchical Vision Transformer using Shifted Windows》(2021)
 github.com/SwinTransformer/Swin-Transformer-Object-Detection
 
 Fourier Image Transformer
@@ -629,3 +627,122 @@ https://arxiv.org/abs/2012.00759
 
 Hierarchical Cross-Modal Agent for Robotics Vision-and-Language Navigation
 https://www.arxiv-vanity.com/papers/2104.10674
+
+《So-ViT: Mind Visual Tokens for Vision Transformer》(2021) 
+github.com/jiangtaoxie/So-ViT
+
+VideoGPT: Video Generation using VQ-VAE and Transformers (2021)
+github.com/wilson1yan/VideoGPT
+
+Learning the Best Pooling Strategy for Visual Semantic Embedding (CVPR 2021) 
+github.com/woodfrog/vse_infty
+
+Improving Vision-and-Language Navigation with Image-Text Pairs from the Web (ECCV 2020) 
+github.com/arjunmajum/vln-bert
+
+Zero-Shot Detection via Vision and Language Knowledge Distillation
+https://www.arxiv-vanity.com/papers/2104.13921
+
+面向视觉的Transformer
+iaml-it.github.io/posts/2021-04-28-transformers-in-vision/
+
+DINO与PAWS：训练速度提高10倍的自监督Transformer，无监督视觉分割、分类新水准
+https://ai.facebook.com/blog/dino-paws-computer-vision-with-self-supervised-transformers-and-10x-more-efficient-training/
+
+### 交叉描述：图像与文本的语义相似性
+https://www.aclweb.org/anthology/2021.eacl-main.249/
+https://ai.googleblog.com/2021/05/crisscrossed-captions-semantic.html
+
+OpenAI-CLIP：CLIP的简单PyTorch实现
+github.com/moein-shariatnia/OpenAI-CLIP
+
+Transformers、BERT、ELMo、GPT1论文笔记注释版
+github.com/shreyansh26/Annotated-ML-Papers
+
+Relative Positional Encoding for Transformers with Linear Complexity
+https://www.arxiv-vanity.com/papers/2105.08399/
+
+跨模态对比学习文本-图像生成
+https://arxiv.org/abs/2101.04702
+
+CogView: Mastering Text-to-Image Generation via Transformers
+github.com/THUDM/CogView
+
+Transformers-Tutorials：HuggingFace Transformers库实例教程集
+github.com/NielsRogge/Transformers-Tutorials
+
+train-CLIP：PyTorch Lightning实现的OpenAI's CLIP训练方案
+github.com/Zasder3/train-CLIP 
+
+ConViT：用软卷积归纳偏差改进视觉Transformer
+https://wandb.ai/wandb_fc/pytorch-image-models/reports/ConViT-Improving-Vision-Transformers-with-Soft-Convolutional-Inductive-Biases--Vmlldzo3MjIxMDk
+
+Less is More: Pay Less Attention in Vision Transformers
+https://www.arxiv-vanity.com/papers/2105.14217/
+
+Not All Images are Worth 16x16 Words: Dynamic Vision Transformers with Adaptive Sequence Length
+github.com/blackfeather-wang/Dynamic-Vision-Transformer
+
+Token Labeling: Training a 85.4% Top-1 Accuracy Vision Transformer with 56M Parameters on ImageNet
+github.com/zihangJiang/TokenLabeling
+
+《Twins: Revisiting the Design of Spatial Attention in Vision Transformers》
+github.com/Meituan-AutoML/Twins
+
+LightSeq: A High Performance Inference Library for Transformers
+github.com/bytedance/lightseq
+
+《X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers》(EMNLP 2020) 
+github.com/allenai/x-lxmert
+
+《ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision》(ICML 2021) 
+github.com/dandelin/vilt 
+
+《LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference》
+github.com/facebookresearch/LeViT
+
+《Neuro-Symbolic Representations for Video Captioning: A Case for Leveraging Inductive Biases for Vision and Language》(2020) 
+github.com/hassanhub/R3Transformer
+
+《Beyond Categorical Label Representations for Image Classification》(ICLR 2021) 
+github.com/BoyuanChen/label_representations 
+图像描述其实是图像分类的扩展，是否能吸取这篇论文中的想法，在标签表示方面创新？
+
+《Referring Image Segmentation via Cross-Modal Progressive Comprehension》(CVPR 2020) 
+github.com/spyflying/CMPC-Refseg
+
+《Seeing Out of tHe bOx: End-to-End Pre-training for Vision-Language Representation Learning》(CVPR 2021) 
+github.com/researchmm/soho
+
+《Vision Transformers are Robust Learners》(2021) 
+github.com/sayakpaul/robustness-vit
+
+《CvT: Introducing Convolutions to Vision Transformers》(2021) 
+github.com/microsoft/CvT
+
+《ResT: An Efficient Transformer for Visual Recognition》(2021) 
+github.com/wofmanaf/ResT
+
+《CrossViT : Cross-Attention Multi-Scale Vision Transformer for Image Classification》(2021) 
+github.com/rishikksh20/CrossViT-pytorch
+
+《Not All Images are Worth 16x16 Words: Dynamic Vision Transformers with Adaptive Sequence Length》(2021) 
+github.com/blackfeather-wang/Dynamic-Vision-Transformer
+
+《You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection》(2021) 
+github.com/hustvl/YOLOS
+
+《CvT: Introducing Convolutions to Vision Transformers》(2021) 
+github.com/leoxiaobin/CvT
+
+DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification
+github.com/raoyongming/DynamicViT
+
+An Attention Free Transformer
+https://www.arxiv-vanity.com/papers/2105.14103
+
+When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations
+https://www.arxiv-vanity.com/papers/2106.01548
+
+教程：如何创建和训练视觉Transformer
+https://theaisummer.com/hugging-face-vit/

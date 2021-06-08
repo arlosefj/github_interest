@@ -110,3 +110,24 @@ http://mural.maynoothuniversity.ie/873/1/doing_a_review_of_literature.pdf
 
 LaTeX免费入门教程
 https://www.learnlatex.org/en/
+
+实例讲解：如何回应论文的评审/修订建议
+https://www.overleaf.com/project/60839856ec8058f46183f757
+
+与最新文献保持同步的几种策略
+http://www.raulpacheco.org/2021/02/a-few-strategies-to-stay-on-top-of-the-literature-more-like-catching-up-with-the-literature/
+
+如何写论文摘要：六要素&从读者角度出发
+https://mitcommlab.mit.edu/eecs/commkit/abstract/
+
+如何进行文献综述
+http://www.raulpacheco.org/2017/04/how-to-undertake-a-literature-review/
+
+PaperWritingTips - Tips for paper writing and researches 科技论文写作经验记录和总结
+github.com/cooelf/PaperWritingTips
+
+如何写论文的讨论部分
+https://mitcommlab.mit.edu/be/commkit/journal-article-discussion/
+
+五步撰写出色的论文Introduction
+blogs.ubc.ca/khead/research/research-advice/formula

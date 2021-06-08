@@ -188,3 +188,54 @@ François Chollet：对自驱型学生来说，Youtube教授是世界上最好�
 
 Net2Vis：浏览器里的神经网络(结构)可视化器
 github.com/viscom-ulm/Net2Vis
+
+### Machine Learning Algorithms：用Python 3.x’从头实现机器学习算法
+github.com/Gautam-J/Machine-Learning
+
+SmallPebble：用Python/NumPy/CuPy从头写的最小化深度学习库
+github.com/sradc/SmallPebble
+
+对深度网络来说，“宽”和“深”学到的一样吗？
+https://ai.googleblog.com/2021/05/do-wide-and-deep-networks-learn-same.html
+
+深度学习几何基础
+towardsdatascience.com/geometric-foundations-of-deep-learning-94cdd45b451d
+
+把离散傅立叶变换看做神经网络
+https://sidsite.com/posts/fourier-nets/
+
+Keras实例：SimCLR对比预训练半监督图像分类
+https://keras.io/examples/vision/semisupervised_simclr/
+
+InteractML：Unity3D交互式机器学习可视化脚本框架
+github.com/Interactml/iml-unity
+
+### OpenVINO Notebooks：OpenVINO实验Notebook集锦
+github.com/openvinotoolkit/openvino_notebooks
+
+Santiago：机器学习工程师视角用到的数学比例：
+• 统计与概率：80%
+• 线性代数：19%
+• 微积分：1%
+可能对你安排数学基础学习有帮助。
+
+Kaggle的免费Pandas教程
+https://www.kaggle.com/learn/pandas
+
+Keras实例：基于迁移学习的关键点检测
+https://keras.io/examples/vision/keypoint_detection/
+
+3小时OpenCV教程示例项目集
+github.com/murtazahassan/Learn-OpenCV-in-3-hours 
+
+Know Your Data：帮助研究人员和产品团队理解数据集的工具，目的是提高数据质量，减少公平性和偏见问题
+github.com/PAIR-code/knowyourdata
+
+Deep Learning Visuals：深度学习图集，超过200幅可免费使用的深度学习架构/层示意图
+github.com/dvgodoy/dl-visuals
+
+VisualDL：飞桨可视化分析工具，以丰富的图表呈现训练参数变化趋势、模型结构、数据样本、高维数据分布等
+github.com/PaddlePaddle/VisualDL
+
+### Kaggle数据集中心
+https://www.kaggle.com/datasets

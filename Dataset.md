@@ -595,3 +595,21 @@ https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset
 
 ffhq-features-dataset：Flickr-Faces-HQ (FFHQ)图像数据集性别、年龄和情绪扩展信息集
 github.com/DCGM/ffhq-features-dataset 
+
+Awesome-Video-Datasets：视频数据集大列表
+github.com/xiaobai1217/Awesome-Video-Datasets
+
+DeformingThings4D：包含1972个动画序列的合成数据集，涵盖31种类人和动物物种
+github.com/rabbityl/DeformingThings4D
+
+VPCD：面向人物聚类的多模态电视节目和电影数据集
+https://www.robots.ox.ac.uk/~vgg/data/Video_Person_Clustering/
+
+China_House - 中国买房相关资料和项目整理
+github.com/beiliangshizi/China_House
+
+FLORES-101数据集：多对多机器翻译系统评估数据集，涵盖来自世界各地的101种语言
+https://github.com/facebookresearch/flores
+
+PIC：以人为中心的关系分割数据集
+http://picdataset.com/challenge/task/download/

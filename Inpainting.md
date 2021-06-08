@@ -151,3 +151,14 @@ github.com/researchmm/AOT-GAN-for-Inpainting
 
 《Progressive Temporal Feature Alignment Network for Video Inpainting》(CVPR 2021) 
 github.com/MaureenZOU/TSAM
+
+协同调制生成对抗网络，轻松帮你实现任意大区域图像填充
+https://arxiv.org/pdf/2103.10428
+GitHub：https://github.com/zsyzzsoft/co-mod-gan
+Demo：http://comodgan.ml/​​​​
+
+### Video-Auto-Wipe：视频擦除方面的一些探索——字幕擦除，图标擦除和动态遮挡物擦除
+github.com/a312863063/Video-Auto-Wipe
+
+Hyperrealistic Image Inpainting With Hypergraphs
+github.com/GouravWadhwa/Hypergraphs-Image-Inpainting

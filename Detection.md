@@ -909,3 +909,31 @@ github.com/ming71/DAL
 
 Adaptive Class Suppression Loss for Long-Tail Object Detection (CVPR 2021) 
 github.com/CASIA-IVA-Lab/ACSL 
+
+MDETR -- Modulated Detection for End-to-End Multi-Modal Understanding
+github.com/ashkamath/mdetr
+
+PAFNet: An Efficient Anchor-Free Object Detector Guidance
+https://www.arxiv-vanity.com/papers/2104.13534/
+https://github.com/PaddlePaddle/PaddleDetection
+
+YOLTv4：更好、更快，改进的航空/卫星图像大规模目标检测
+github.com/avanetten/yoltv4
+
+lacmus：用神经网络在森林里搜索走失人员
+github.com/lacmus-foundation/lacmus
+
+《Concealed Object Detection》(2021) 
+github.com/GewelsJI/SINet-V2
+
+### 《Tiny Object Detection in Aerial Images》(ICPR 2021)
+github.com/jwwangchn/AI-TOD
+
+《Labels Are Not Perfect: Inferring Spatial Uncertainty in Object Detection》(2020) 
+github.com/ZiningWang/Inferring-Spatial-Uncertainty-in-Object-Detection
+
+《PED: DETR for Crowd Pedestrian Detection》(2021) 
+github.com/Hatmm/PED-DETR-for-Pedestrian-Detection
+
+《Locate, Size and Count: Accurately Resolving People in Dense Crowds via Detection》(2020) 
+github.com/stanfordmlgroup/blm

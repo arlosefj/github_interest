@@ -403,3 +403,39 @@ github.com/bojone/SPACES
 
 基于知识图谱的医疗诊断知识问答系统
 github.com/wangle1218/KBQA-for-Diagnosis
+
+最大规模开箱即用的NLP数据集中心，带有快速、易用和高效数据操作工具的最大规模机器学习模型
+github.com/huggingface/datasets
+
+Transformer解析：理解GPT-3, BERT, T5背后的模型
+https://daleonai.com/transformers-explained
+
+Deploying Deep Learning Models in C++: BERT Language Model：用C++高效部署BERT深度语言模型
+github.com/renatoviolin/BERT-cpp-inference
+
+NLP数据增强文献集
+github.com/styfeng/DataAug4NLP
+
+《CPM-2: Large-scale Cost-efficient Pre-trained Language Models》(2021) 
+github.com/TsinghuaAI/CPM-2
+
+Chinese-Transformer-XL：智源研究院"文汇" 预训练模型Chinese-Transformer-XL的预训练和文本生成代码
+github.com/THUDM/Chinese-Transformer-XL 
+
+Gramformer：用于检测、突出和纠正自然语言文本语法错误的框架
+github.com/PrithivirajDamodaran/Gramformer
+
+'simpleT5 - built on top of PyTorch-lightning⚡️ and Transformers🤗 that lets you quickly train your T5 models.' 
+github.com/Shivanandroy/simpleT5
+
+Few-NERD：大规模细粒度人工标记命名实体识别数据集
+ningding97.github.io/fewnerd/
+
+图深度学习自然语言处理文献集
+github.com/graph4ai/graph4nlp_literature
+
+Graph4NLP：面向自然语言处理的图深度学习库
+github.com/graph4ai/graph4nlp
+
+dictionaries - Fuzzing dictionaries for afl-fuzz/LibFuzzer 可能是目前最全面的开源模糊测试字典集合
+github.com/salmonx/dictionaries

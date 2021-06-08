@@ -237,3 +237,9 @@ github.com/AnTao97/SegGroup.annotator
 
 LabelImage - 在线图像标注工具，可用于深度学习实例分割模型训练
 github.com/rachelcao277/LabelImage
+
+《Towards Good Practices for Efficiently Annotating Large-Scale Image Classification Datasets》(CVPR 2021) 
+github.com/fidler-lab/efficient-annotation-cookbook
+
+Ozeu：面向实例分割的数据集自动标记工具包
+github.com/xiong-jie-y/ozeu

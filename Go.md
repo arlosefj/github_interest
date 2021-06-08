@@ -102,3 +102,6 @@ https://github.com/DuanJiaNing/makeaplan_public
 
 gfast - 基于GF(Go Frame)的后台管理系统
 github.com/tiger1103/gfast
+
+gochat：纯go实现的即时通讯系统
+github.com/LockGit/gochat

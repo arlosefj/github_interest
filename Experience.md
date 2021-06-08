@@ -63,3 +63,6 @@ https://github.com/nakaizura/Source-Code-Notebook
 ![](https://flomo.oss-cn-shanghai.aliyuncs.com/file/2021-02-06/20750/867d30c0eacdf858ddaa476c9984c63b.png)
 ![](https://flomo.oss-cn-shanghai.aliyuncs.com/file/2021-02-06/20750/41edee0cd71be9e9d0deedf7ab700078.png)
 ![](https://flomo.oss-cn-shanghai.aliyuncs.com/file/2021-02-06/20750/5f8b8e24f64c179fb0a584dbea5b7500.png)
+
+《Bag of Tricks for Long-Tailed Visual Recognition with Deep Convolutional Neural Networks》(AAAI 2021) 
+github.com/zhangyongshun/BagofTricks-LT

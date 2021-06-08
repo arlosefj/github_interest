@@ -585,3 +585,85 @@ github.com/PruneTruong/GOCor
 
 《Lite-HRNet: A Lightweight High-Resolution Network》(CVPR 2021) 
 github.com/HRNet/Lite-HRNet
+
+EfficientNetV2：Google官方发布的EfficientNetV2及预训练模型
+github.com/google/automl/tree/master/efficientnetv2
+
+图神经网络(GNN)实战教程
+https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial7/GNN_overview.html
+
+Graph Neural Networks: A Review of Methods and Applications
+https://www.sciencedirect.com/science/article/pii/S2666651021000012
+
+### 《MLP-Mixer: An all-MLP Architecture for Vision》(2021) 
+github.com/lucidrains/mlp-mixer-pytorch 
+github.com/rishikksh20/MLP-Mixer-pytorch
+github.com/isaaccorley/mlp-mixer-pytorch
+github.com/lucidrains/mlp-gpt-jax
+github.com/sayakpaul/MLP-Mixer-CIFAR10
+
+《Do You Even Need Attention? A Stack of Feed-Forward Layers Does Surprisingly Well on ImageNet》
+github.com/lukemelas/do-you-even-need-attention
+
+《ResMLP: Feedforward networks for image classification with data-efficient training》(2021) 
+github.com/lucidrains/res-mlp-pytorch
+
+《Self-Supervised Learning with Swin Transformers》(2021) 
+github.com/SwinTransformer/Transformer-SSL
+
+《Grammatically Recognizing Images with Tree Convolution》(KDD 2020) 
+github.com/wanggrun/TreeConv 
+
+《Involution: Inverting the Inherence of Convolution for Visual Recognition》(CVPR 2021) 
+github.com/rish-16/involution_pytorch
+
+《Are Deep Neural Architectures Losing Information? Invertibility Is Indispensable》(2020) 
+github.com/Lillian1082/IRAE_pytorch
+
+《FNet: Mixing Tokens with Fourier Transforms》(2021) 
+github.com/rishikksh20/FNet-pytorch
+
+《You Only Learn One Representation: Unified Network for Multiple Tasks》(2021) 
+github.com/WongKinYiu/yolor
+
+《Pay Attention to MLPs》(2021) 
+github.com/lucidrains/g-mlp-pytorch
+
+《Leveraging Sparse Linear Layers for Debuggable Deep Networks》(2021) 
+github.com/MadryLab/DebuggableDeepNetworks
+
+《Learning to combine top-down and bottom-up signals in recurrent neural networks with attention over modules》(2020) 
+github.com/sarthmit/BRIMs
+
+《Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks》(ICLR 2021) 
+github.com/bboylyg/NAD
+
+《Personalized Transformer for Explainable Recommendation》(ACL 2021)
+github.com/lileipisces/PETER
+
+《Structure-Based Function Prediction using Graph Convolutional Networks》(2019) 
+github.com/flatironinstitute/DeepFRI
+
+《Editable Neural Networks》(ICLR 2020)
+github.com/xtinkt/editable
+
+《Orthogonalizing Convolutional Layers with the Cayley Transform》(ICLR 2021) 
+github.com/locuslab/orthogonal-convolutions
+
+《Unifying Graph Convolutional Neural Networks and Label Propagation》(2020) 
+github.com/hwwang55/GCN-LPA
+
+《Convolutional Normalization: Improving Robustness and Training for Deep Neural Networks》(2021) 
+github.com/shengliu66/ConvNorm
+
+《Involution: Inverting the Inherence of Convolution for Visual Recognition》(CVPR 2021) 
+github.com/ChristophReich1996/Involution
+
+《O2U-Net: A Simple Noisy Label Detection Approach for Deep Neural Networks》(2019) 
+github.com/hjimce/O2U-Net
+
+《Pay Attention to MLPs》(2021) 
+github.com/jaketae/g-mlp
+
+《The Lottery Tickets Hypothesis for Supervised and Self-supervised Pre-training in Computer Vision Models》(CVPR 2021) 
+github.com/VITA-Group/CV_LTH_Pre-training

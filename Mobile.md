@@ -159,3 +159,9 @@ github.com/nihui/ncnn-android-nanodet
 
 高效学习神器 Anki 安卓客户端。Anki 是一个帮助学习的记忆卡片软件，卡片正面是问题背面是答案，然后根据记忆公式帮你复习和记牢
 https://github.com/ankidroid/Anki-Android
+
+MNN_Demo - 移动端MNN部署学习笔记。支持Android与iOS
+github.com/cmdbug/MNN_Demo
+
+ncnn_Android_face：用ncnn实现的安卓平台人脸检测与分割范例
+github.com/FeiGeChuanShu/ncnn_Android_face

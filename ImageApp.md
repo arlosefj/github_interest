@@ -990,3 +990,48 @@ github.com/yinanhe/ForgeryNet
 
 triangula：三角化图像生成器
 github.com/RH12503/triangula
+
+Distribution Alignment: A Unified Framework for Long-tail Visual Recognition (CVPR 2021) 
+github.com/Megvii-BaseDetection/DisAlign
+
+几何深度学习
+https://www.arxiv-vanity.com/papers/2104.13478/
+
+《计算机视觉机器学习实战》随书源码
+github.com/GoogleCloudPlatform/practical-ml-vision-book
+
+Image-Contrast-Enhancement：多种图像对比度增强技术的C++实现
+github.com/dengyueyun666/Image-Contrast-Enhancement 
+
+Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding
+github.com/microsoft/vision-longformer
+
+《Deep Convolutional Dictionary Learning for Image Denoising》(CVPR 2021) 
+github.com/natezhenghy/DCDicL_denoising
+
+《Code for Region-Adaptive Deformable Network for Image Quality Assessment》(CVPRW 2021) 
+github.com/IIGROUP/RADN
+
+《Deep Vectorization of Technical Drawings》(ECCV 2020)
+github.com/Vahe1994/Deep-Vectorization-of-Technical-DrawingsVisionLongformerForObjectDetection
+
+《Recurrent Multi-Frame Deraining: Combining Physics Guidance and Adversarial Learning》(2021)
+github.com/flyywh/Recurrent-Multi-Frame-Deraining 
+
+《Self-Learned Video Rain Streak Removal: When Cyclic Consistency Meets Temporal Correspondence》(CVPR 2020) 
+github.com/flyywh/CVPR-2020-Self-Rain-Removal
+
+《A Unified End-to-End Framework for Efficient Deep Image Compression》(2020) 
+github.com/liujiaheng/compression
+
+pyVHR：Python实现的rPPG虚拟心律检测框架
+github.com/phuselab/pyVHR
+
+《General Virtual Sketching Framework for Vector Line Art》(SIGGRAPH 2021) 
+github.com/MarkMoHR/virtual_sketching
+
+《计算机视觉实战演练：算法与应用》中文电子书
+github.com/Charmve/computer-vision-in-action
+
+EDPN: Enhanced Deep Pyramid Network for Blurry Image Restoration
+github.com/zeyuxiao1997/EDPN

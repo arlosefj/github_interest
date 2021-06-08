@@ -1170,3 +1170,69 @@ github.com/nibtehaz/MultiResUNet
 
 ### SegmentationCpp：基于LibTorch的C++开源图像分割神经网络库
 github.com/AllentDan/SegmentationCpp
+
+RefineMask: Towards High-Quality Instance Segmentation with Fine-Grained Features (CVPR 2021) 
+github.com/zhanggang001/RefineMask
+
+Modular Interactive Video Object Segmentation: Interaction-to-Mask, Propagation and Difference-Aware Fusion (CVPR 2021) 
+github.com/hkchengrex/Scribble-to-Mask
+
+Rethinking BiSeNet For Real-time Semantic Segmentation
+github.com/MichaelFan01/STDC-Seg
+
+Segmenter: Transformer for Semantic Segmentation https://www.arxiv-vanity.com/papers/2105.05633/
+github.com/rstrudel/segmenter
+
+Omnimatte: Associating Objects and Their Effects in Video
+https://www.arxiv-vanity.com/papers/2105.06993
+
+《SNE-RoadSeg: Incorporating Surface Normal Information into Semantic Segmentation for Accurate Freespace Detection》(ECCV 2020) 
+github.com/hlwang1124/SNE-RoadSeg
+
+《ISTR: End-to-End Instance Segmentation via Transformers》(2021) 
+github.com/hujiecpp/ISTR
+
+Regularized Densely-Connected Pyramid Network for Salient Instance Segmentation
+github.com/yuhuan-wu/RDPNet
+
+Discriminative Region Suppression for Weakly-Supervised Semantic Segmentation (AAAI 2021) 
+github.com/qjadud1994/DRS
+
+《Self-supervised Augmentation Consistency for Adapting Semantic Segmentation》(CVPR 2021) 
+github.com/visinf/da-sac 
+
+《Zero-shot Instance Segmentation》(CVPR 2021)
+github.com/zhengye1995/Zero-shot-Instance-Segmentation
+
+《Modular Interactive Video Object Segmentation: Interaction-to-Mask, Propagation and Difference-Aware Fusion》(CVPR 2021) 
+github.com/hkchengrex/Mask-Propagation
+
+《Segmenter: Transformer for Semantic Segmentation》(2021) 
+github.com/rstrudel/segmenter
+
+《A Large-Scale Benchmark for Food Image Segmentation》(2021) 
+github.com/XiongweiWu/FoodSeg-Benchmark
+
+《DCT-Mask: Discrete Cosine Transform Mask Representation for Instance Segmentation》(CVPR 2021) 
+github.com/aliyun/DCT-Mask
+
+《A Closer Look at Self-training for Zero-Label Semantic Segmentation》(2021) 
+github.com/giuseppepastore10/STRICT
+
+《Finding an Unsupervised Image Segmenter in each of your Deep Generative Models》(2021)
+github.com/lukemelas/pytorch-pretrained-gans
+
+《PPR10K: A Large-Scale Portrait Photo Retouching Dataset with Human-Region Mask and Group-Level Consistency》(CVPR 2021) 
+github.com/csjliang/PPR10K
+
+### 《Look Closer to Segment Better: Boundary Patch Refinement for Instance Segmentation》(CVPR 2021) 
+github.com/tinyalpha/BPR
+
+《SOLQ: Segmenting Objects by Learning Queries》(2021) 
+github.com/megvii-research/SOLQ
+
+Medical Image Segmentation using Squeeze-and-Expansion Transformers
+github.com/askerlee/segtran
+
+《Semi-Supervised Semantic Segmentation with Cross Pseudo Supervision》(CVPR 2021) 
+github.com/charlesCXK/TorchSemiSeg

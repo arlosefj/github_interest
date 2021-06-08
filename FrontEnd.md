@@ -95,3 +95,9 @@ https://github.com/charliegerard/gaze-detection
 
 Charts.css：面向数据可视化的开源CSS框架
 github.com/ChartsCSS/charts.css
+
+微软的web开发免费入门课程，为期12周、24节课，内容包括 JavaScript、 CSS 和 HTML 的基础知识
+github.com/microsoft/Web-Dev-For-Beginners
+
+paperclip：前端模板引擎，让UI开发和想的一样快
+github.com/crcn/paperclip

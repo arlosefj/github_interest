@@ -650,3 +650,6 @@ github.com/axinc-ai/ailia-models
 
 Opyrator：将机器学习代码转化为具有网络API、交互式GUI等的微服务
 github.com/ml-tooling/opyrator
+
+Machine Learning Collection：微软机器学习/深度学习开源贡献集，包括库、工具、示例代码等
+github.com/microsoft/machine-learning-collection

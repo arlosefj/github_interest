@@ -763,3 +763,24 @@ github.com/zhangdaiscott/JimuReport
 
 datatap-python：可视化数据管理平台
 github.com/zensors/datatap-python
+
+Git各指令的本质，真是通俗易懂啊
+https://mp.weixin.qq.com/s/wVPs9igRcQwC0dTINVp7yA
+
+Dolt：面向数据的版本控制，数据的Git
+github.com/dolthub/dolt
+
+sqliteviz：SQLite数据库可视化器
+github.com/lana-k/sqliteviz
+
+Linux ip Command Examples
+https://www.cyberciti.biz/faq/linux-ip-command-examples-usage-syntax/
+
+SandDance 是微软开源的数据可视化工具，可以直观地探索、理解和呈现数据
+https://microsoft.github.io/SandDance/app/ https://github.com/Microsoft/sanddance
+
+termpair：以通过端到端加密方式用浏览器查看和控制终端
+github.com/cs01/termpair 
+
+xmovie：从xarray对象创建动画
+github.com/jbusecke/xmovie

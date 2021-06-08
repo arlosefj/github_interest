@@ -156,3 +156,15 @@ github.com/peiwang062/swag
 
 Style-Aware Normalized Loss for Improving Arbitrary Style Transfer
 https://www.arxiv-vanity.com/papers/2104.10064
+
+《FaceBlit: Instant Real-Time Example-Based Style Transfer to Facial Videos》(2021) 
+github.com/AnetaTexler/FaceBlit
+
+Two-Stage Peer-Regularized Feature Recombination for Arbitrary Image Style Transfer (CVPR 2020) 
+github.com/nnaisense/conditional-style-transfer
+
+Smoothing the Disentangled Latent Style Space for Unsupervised Image-to-image Translation (CVPR 2021)
+github.com/yhlleo/SmoothingLatentSpace
+
+《StylePTB: A Compositional Benchmark for Fine-grained Controllable Text Style Transfer》(NAACL 2021)
+github.com/lvyiwei1/StylePTB

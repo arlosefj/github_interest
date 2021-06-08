@@ -128,3 +128,6 @@ github.com/tinyms-ai/tinyms
 
 Sabertooth：JAX+ Flax实现的的支持CPU/GPU/TPU的独立预训练包
 github.com/nikitakit/sabertooth
+
+ivadomed：深度学习医学图像分析集成框架
+github.com/ivadomed/ivadomed

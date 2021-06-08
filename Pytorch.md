@@ -657,3 +657,25 @@ github.com/lyhue1991/eat_pytorch_in_20_days
 
 pytest-pytorch - pytest plugin for a better developer experience when working with the PyTorch test suite
 github.com/Quansight/pytest-pytorch
+
+pykale：PyTorch多模态学习/迁移学习库
+github.com/pykale/pykale
+
+torchshard：用于将PyTorch张量切成平行分片的轻量引擎，可减少 GPU 内存并扩大训练规模
+github.com/KaiyuYue/torchshard
+
+Stanford Nimble：深度学习物理引擎
+github.com/keenon/nimblephysics
+
+Pytorch-Lightning-Template：Pytorch-Lightning模板
+github.com/miracleyoo/pytorch-lightning-template
+
+一些有用的PyTorch技巧
+www.reddit.com/r/MachineLearning/comments/n9fti7/d_a_few_helpful_pytorch_tips_examples_included/ 
+www.youtube.com/watch?v=BoC8SGaT3GE
+
+《PyTorch深度学习编程》随书代码
+github.com/falloutdurham/beginners-pytorch-deep-learning
+
+H5Record：Pytorch大数据集(>100G，<=1T)存储格式
+github.com/theblackcat102/H5Record

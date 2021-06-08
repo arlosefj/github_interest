@@ -253,3 +253,12 @@ github.com/freefuiiismyname/ddz-ai
 
 用Deep Q-learning玩Chrome恐龙跳跳小游戏
 github.com/uvipen/Chrome-dino-deep-Q-learning-pytorch
+
+coax：基于OpenAI Gym和JAX的Python强化学习模块化框架
+github.com/coax-dev/coax
+
+PyTorch实现的强化学习算法集
+github.com/gordicaleksa/pytorch-learn-reinforcement-learning
+
+《MedSelect: Selective Labeling for Medical Image Classification Combining Meta-Learning with Deep Reinforcement Learning》(2021) 
+github.com/stanfordmlgroup/MedSelect

@@ -382,3 +382,24 @@ github.com/mlpc-ucsd/PRTR
 
 《IntegralAction: Pose-driven Feature Integration for Robust Human Action Recognition in Videos》(2021) 
 github.com/mks0601/IntegralAction_RELEASE
+
+Beyond Static Features for Temporally Consistent 3D Human Pose and Shape from a Video (CVPR 2021) 
+github.com/hongsukchoi/TCMR_RELEASE
+
+目标姿态估计与重建相关文献资源集
+github.com/ZhongqunZHANG/awesome-6d-object
+
+### MediaPipe高性能人体姿态跟踪库
+google.github.io/mediapipe/solutions/pose
+
+《Graph and Temporal Convolutional Networks for 3D Multi-person Pose Estimation in Monocular Videos》(AAAI 2021) 
+github.com/3dpose/GnTCN 
+
+### 《3D Human Action Representation Learning via Cross-View Consistency Pursuit》(CVPR 2021) 
+github.com/LinguoLi/CrosSCLR
+
+《Deep High-Resolution Representation Learning for Human Pose Estimation)》(2021) 
+github.com/svip-lab/HRNet-for-Fashion-Landmark-Estimation.PyTorch
+
+《End-to-End Human Pose and Mesh Reconstruction with Transformers》(CVPR 2021) 
+github.com/microsoft/MeshTransformer

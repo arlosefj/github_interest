@@ -154,3 +154,16 @@ github.com/gatheluck/FourierHeatmap
 
 Michael I. Jordan：现在的“AI技术”还未触及高层次的推理和思考，距离“智能”还很远，“尽管科学为人类做了许多美妙的事，但真正能最直接、最深刻地增加人类幸福感的，是工程学”
 https://spectrum.ieee.org/the-institute/ieee-member-news/stop-calling-everything-ai-machinelearning-pioneer-says
+
+Lighting the Darkness in the Deep Learning Era》(2021)
+github.com/Li-Chongyi/Lighting-the-Darkness-in-the-Deep-Learning-Era-Open
+
+关于机器学习可解释性的几个报告：
+“Explaining Machine Learning Predictions: State-of-the-art, Challenges, and Opportunities(NeurIPS 2020 Tutorial)” https:// explainml-tutorial.github.io/neurips20
+“Explaining Machine Learning Predictions: State-of-the-art, Challenges, and Opportunities(AAAI 2021 Tutorial)” https:// explainml-tutorial.github.io/aaai21
+“When Not to Trust Your Explanations” https:// docs.google.com/presentation/d/10a0PNKwoV3a1XChzvY-T1mWudtzUIZi3sCMzVwGSYfM/edit#slide=id.p
+“Explainable Machine Learning:
+Understanding the Limits & Pushing the Boundaries” https:// drive.google.com/file/d/1xn2dCDAeEEhB_rex202KxMPqIPj31fZ4/view
+
+What Kinds of Functions do Deep Neural Networks Learn? Insights from Variational Spline Theory
+https://www.arxiv-vanity.com/papers/2105.03361

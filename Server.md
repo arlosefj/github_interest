@@ -241,3 +241,36 @@ github.com/triton-inference-server/server
 
 用GitHub做机器学习运维(MLOps)
 https://mlops.githubapp.com/
+
+MLOps学习资源集锦
+https://elvissaravia.substack.com/p/mlops-primer-2021
+
+### Opyrator：将机器学习代码转化为具有网络API、交互式GUI等的微服务
+github.com/ml-tooling/opyrator
+
+MLOps概述：机器学习平台技术能力
+https://medium.com/prosus-ai-tech-blog/towards-mlops-technical-capabilities-of-a-machine-learning-platform-61f504e3e281
+
+Model Deployment：机器学习模型部署库和技术集合
+github.com/balavenkatesh3322/model_deployment
+
+'jcnf 常用脚本包 - 个人常用服务器指令和一键脚本'
+github.com/Netflixxp/jcnf-box 
+
+fastDeploy - Deploy DL/ ML inference pipelines with minimal extra code.
+github.com/notAI-tech/fastDeploy
+
+TensorHive：用于监视和管理分布式机器学习跨多个主机的GPU等计算资源的开源工具
+github.com/roscisz/TensorHive
+
+Nginx负载均衡配置误区
+https://mp.weixin.qq.com/s/mCqecyAvzmkJBSoiANsm5A
+
+KDash - A fast and simple dashboard for Kubernetes 
+github.com/kdash-rs/kdash
+
+Docker Getting Started Tutorial：Docker入门教程
+github.com/docker/getting-started
+
+Zadig：开源分布式持续交付产品
+github.com/koderover/zadig

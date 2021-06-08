@@ -81,3 +81,9 @@ https://github.com/kuchin/awesome-cto
 
 JAX入门教程
 https://jax.readthedocs.io/en/latest/jax-101/index.html
+
+'CSAPP,《深入理解计算机系统结构》2nd ，阅读与实践！' 
+github.com/vonzhou/CSAPP
+
+微软Rust入门教程
+https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/

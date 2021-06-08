@@ -145,3 +145,9 @@ https://github.com/xmuli/chinessChess
 
 真入门级的 Python 游戏集合库。都是简单的小游戏：贪吃蛇、迷宫、Pong、猜字等，运行方便、代码简单易懂。用游戏开启的你 Python 学习之旅，玩完再学源码，其乐无穷啊。
 https://github.com/grantjenks/free-python-games
+
+code-of-python：Python写的开源射击游戏
+github.com/kawa-mineka/CODE-OF-PYTHON
+
+“魔法门之英雄无敌II”游戏引擎免费实现(C++)
+github.com/ihhub/fheroes2

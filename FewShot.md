@@ -299,3 +299,15 @@ https://www.arxiv-vanity.com/papers/2104.06820
 
 FSCE: Few-Shot Object Detection via Contrastive Proposal Encoding (CVPR 2021) 
 github.com/MegviiDetection/FSCE
+
+Few-Shot Video Object Detection
+github.com/fanq15/FewX
+
+Few-shot Classification via Adaptive Attention
+github.com/zihangJiang/Adaptive-Attention
+
+《Few-Shot Open-Set Recognition with Meta-Learning》(CVPR 2020) 
+github.com/BoLiu-SVCL/meta-open
+
+《Open World Compositional Zero-Shot Learning》(CVPR 2021) 
+github.com/ExplainableML/czsl 

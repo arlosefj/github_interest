@@ -81,3 +81,7 @@ https://github.com/facebookresearch/mlqe
 
 DL Translate：基于Huggingface transformers库和mBART-Large的深度学习机器翻译库
 github.com/xhlulu/dl-translate
+
+EasyNMT - 易于使用的最先进神经网络机器翻译，支持100+种语言
+http://easynmt.net/demo/
+https://github.com/UKPLab/EasyNMT

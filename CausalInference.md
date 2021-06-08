@@ -57,3 +57,15 @@ github.com/Wangt-CN/Awesome-Causality-in-CV
 
 ### 因果推断教程资料
 github.com/DataForScience/CausalInference
+
+### Causal Discovery Toolbox：因果发现工具箱，支持图和成对因果推理
+github.com/FenTechSolutions/CausalDiscoveryToolbox
+
+神经逻辑相关文献资源列表
+github.com/FLHonker/Awesome-Neural-Logic
+
+《Causal Inference on Recommender Systems》
+github.com/yixinwang/causal-recsys-public
+
+《A causal view of compositional zero-shot recognition》(NeurIPS 2020) 
+github.com/nv-research-israel/causal_compSubramaniKrishna/point-cloud-audio

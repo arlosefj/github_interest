@@ -340,3 +340,33 @@ github.com/researchmm/Stark
 
 《Learning optical flow from still images》(CVPR 2021) 
 github.com/mattpoggi/depthstillation
+
+Unsupervised Visual Representation Learning by Tracking Patches in Video
+github.com/microsoft/CtP
+
+Comparision：基于基准任务的目标跟踪算法比较
+github.com/JudasDie/Comparison
+
+《LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search》(CVPR 2021) 
+github.com/researchmm/LightTrack
+
+《Quasi-Dense Similarity Learning for Multiple Object Tracking》(CVPR 2021) 
+github.com/SysCV/qdtrack 
+
+Visual Tracking by TridentAlign and Context Embedding》(2020) 
+github.com/JanghoonChoi/TACT
+
+《TrackFormer: Multi-Object Tracking with Transformers》(2021) 
+github.com/timmeinhardt/trackformer
+
+《MOTR: End-to-End Multiple-Object Tracking with TRansformer》(2021) 
+github.com/megvii-model/MOTR
+
+《TrTr: Visual Tracking with Transformer》(2021) 
+github.com/tongtybj/TrTr
+
+《Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark》(CVPR 2021) 
+github.com/VisDrone/DroneCrowd
+
+《Parallel Tacotron 2: A Non-Autoregressive Neural TTS Model with Differentiable Duration Modeling》(CVPR 2020) 
+github.com/keonlee9420/Parallel-Tacotron2

@@ -222,3 +222,21 @@ github.com/data-8/textbook book
 
 免费课程：嵌入式机器学习导论
 www.coursera.org/learn/introduction-to-embedded-machine-learning
+
+“可复现深度学习”课程资料
+github.com/sscardapane/reprodl2021
+
+UT Dallas《机器学习优化》课程资料
+github.com/rishabhk108/OptimizationML
+
+多伦多大学《3D和几何深度学习的机器学习方法》课程资料
+https://www.pair.toronto.edu/csc2547-w21/schedule/
+
+“应用深度学习”讲义
+github.com/maziarraissi/Applied-Deep-Learning
+
+台大《深度学习优化方法》课程(2021) 
+https://www.bilibili.com/video/BV1CB4y1F7kM/
+
+'李宏毅2021春季机器学习课程课件及作业' 
+github.com/Fafa-DL/Lhy_Machine_Learning

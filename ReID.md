@@ -273,3 +273,24 @@ github.com/FlyingRoastDuck/MetaCam_DSCE
 
 《Cluster Contrast for Unsupervised Person Re-Identification》(2021)
 github.com/alibaba/cluster-contrast 
+
+《Sequential End-to-end Network for Efficient Person Search》(AAAI 2021) 
+github.com/serend1p1ty/SeqNet
+
+《Adaptive Graph Representation Learning for Video Person Re-identification》(2020) 
+github.com/weleen/AGRL.pytorch
+
+Learning to Generalize Unseen Domains via Memory-based Multi-Source Meta-Learning for Person Re-Identification (CVPR 2021) 
+github.com/HeliosZhao/M3L
+
+《Learning Multi-Granular Hypergraphs for Video-Based Person Re-Identification》(CVPR 2020) 
+github.com/daodaofr/hypergraph_reid
+
+《UnrealPerson: An adaptive pipeline for costless person re-identification》(CVPR 2021) 
+github.com/FlyHighest/UnrealPerson
+
+《IAUnet: Global Context-Aware Feature Learning for Person Re-Identification》(2020) 
+github.com/blue-blue272/ImgReID-IAnet
+
+《Unsupervised Pre-training for Person Re-identification》(CVPR 2021) 
+github.com/DengpanFu/LUPerson

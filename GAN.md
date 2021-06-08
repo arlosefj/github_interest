@@ -961,3 +961,45 @@ github.com/utkarshojha/few-shot-gan-adaptation
 
 《Bayesian Image Reconstruction using Deep Generative Models》(2021) 
 github.com/razvanmarinescu/brgm
+
+### 《Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis》(ICLR 2021) 
+github.com/odegeasslbc/FastGAN-pytorch
+
+SceneFormer: Indoor Scene Generation with Transformers (2020) 
+github.com/cy94/sceneformer 
+
+EigenGAN: Layer-Wise Eigen-Learning for GANs (2021) 
+https://www.arxiv-vanity.com/papers/2104.12476
+github.com/LynnHo/EigenGAN-Tensorflow
+
+Lightning GAN Zoo ：基于Pytorch Lightning & Hydra的各种GAN实现
+github.com/ebartrum/lightning_gan_zoo
+
+### StyleMapGAN: Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing
+https://www.arxiv-vanity.com/papers/2104.14754/
+https://github.com/naver-ai/StyleMapGAN
+
+Explaining in Style: Training a GAN to explain a classifier in StyleSpace
+https://www.arxiv-vanity.com/papers/2104.13369
+
+A Good Image Generator Is What You Need for High-Resolution Video Synthesis
+github.com/snap-research/MoCoGAN-HD 
+
+### Dual Contrastive Learning for Unsupervised Image-to-Image Translation (CVPR 2021) 
+github.com/JunlinHan/DCLGAN
+![](https://arloseimg.oss-cn-hangzhou.aliyuncs.com/20210602163525.png)
+
+《Learning Semantic Person Image Generation by Region-Adaptive Normalization》(CVPR 2021) 
+github.com/cszy98/SPGNet
+
+《GAN Memory with No Forgetting》(NeurIPS 2020) 
+github.com/MiaoyunZhao/GANmemory_LifelongLearning
+
+《Noise Robust Generative Adversarial Networks》(CVPR 2020) 
+github.com/takuhirok/NR-GAN
+
+《EigenGAN: Layer-Wise Eigen-Learning for GANs》(2021)
+github.com/bryandlee/eigengan-pytorch
+
+《Generative Models as Distributions of Functions》(2021) 
+github.com/EmilienDupont/neural-function-distributions 

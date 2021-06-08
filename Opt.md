@@ -308,3 +308,6 @@ github.com/rishabhk108/AdvancedOptML
 
 《 BNN - BN = ? Training Binary Neural Networks without Batch Normalization》(CVPRW 2021) 
 github.com/VITA-Group/BNN_NoBN
+
+《AngularGrad: A New Optimization Technique for Angular Convergence of Convolutional Neural Networks》(2021) 
+github.com/mhaut/AngularGrad

@@ -274,3 +274,13 @@ https://github.com/zehuichen123/3DFuture_ins_seg
 
 MICCAI 2020 TN-SCUI挑战分割任务第一名方案 
 https://github.com/WAMAWAMA/TNSCUI2020-Seg-Rank1st
+
+Kaggle优胜解决方案和想法集
+https://farid.one/kaggle-solutions/
+github.com/faridrashidi/kaggle-solutions
+
+Keras实例教程：Perceiver图像分类
+https://keras.io/examples/vision/perceiver_image_classification/
+
+AI City 2021自然语言车辆检索比赛优胜方案
+github.com/ShuaiBai623/AIC2021-T5-CLV

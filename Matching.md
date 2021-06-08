@@ -151,3 +151,21 @@ https://www.arxiv-vanity.com/papers/2104.00650
 
 《A Proposal-based Approach for Activity Image-to-Video Retrieval》(AAAI 2020) 
 github.com/bcmi/Cross-modal-retrieval
+
+Keras实例：基于对比损失Siamese Network的图像相似性估计
+https://keras.io/examples/vision/siamese_contrastive/
+
+COTR: Correspondence Transformer for Matching Across Images
+github.com/ubc-vision/COTR
+
+《To Learn or Not to Learn: Visual Localization from Essential Matrices》(2020) 
+github.com/GrumpyZhou/visloc-relapose
+
+将对比学习扩展到有监督场景
+https://ai.googleblog.com/2021/06/extending-contrastive-learning-to.html
+
+对比表示学习
+lilianweng.github.io/lil-log/2021/05/31/contrastive-representation-learning.html
+
+Robust Reference-based Super-Resolution via C2-Matching
+github.com/yumingj/C2-Matching
