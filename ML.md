@@ -1298,3 +1298,51 @@ github.com/ankandrew/online-label-smoothing-pt
 
 《Delving into Deep Imbalanced Regression》(ICML 2021)
 github.com/YyzHarry/imbalanced-regression 
+
+《Rust机器学习》及代码
+rust-ml.github.io/book/ 
+github.com/rust-ml/book
+
+Pretrained Encoders are All You Need
+github.com/PAL-ML/PEARL_v1
+
+悟道模型的底层算法，FastMoE: A Fast Mixture-of-Expert Training System，是实现万亿模型的助力器
+https://www.aminer.cn/pub/605c6eab91e011ed6f938264?f=hot
+https://github.com/laekov/fastmoe
+
+Tabular Data: Deep Learning is Not All You Need
+https://www.arxiv-vanity.com/papers/2106.03253/
+
+### 3DB: A Framework for Debugging Computer Vision Models
+github.com/3db/3db
+
+Multivariate Boosted TRee(MBTR)：Python多元提升树回归库
+github.com/supsi-dacd-isaac/mbtr
+
+更多参数 vs. 更多计算
+https://parl.ai/projects/params_vs_compute/
+
+mosaic：面向复杂机器学习数据集的灵活数据结构
+github.com/robustness-gym/mosaic
+
+Pre-Trained Models: Past, Present and Future
+https://www.arxiv-vanity.com/papers/2106.07139
+https://mp.weixin.qq.com/s/F4xUMY5nSb1ObpHtyAkzWg
+
+表格数据学习：深度学习 vs. LightGBM
+towardsdatascience.com/pytorch-widedeep-deep-learning-for-tabular-data-iv-deep-learning-vs-lightgbm-cadcbf571eaf
+
+Microsoft在Github上整理了机器学习工具集合，有不少在很实用的算法工具
+github.com/microsoft/machine-learning-collection
+
+Gradient CLI：端到端的MLOps平台Gradient的命令行界面，支持各种机器学习/深度学习框架，如TensorFlow、 PyTorch、 XGBoost等
+github.com/Paperspace/gradient-cli
+
+ML Platform Workshop：用Pulumi, FastAPI, DVC, MLFlow等从头搭建机器学习平台(示例代码)
+github.com/aporia-ai/mlplatform-workshop
+
+免费书：《机器学习图解》
+https://livebook.manning.com/book/grokking-machine-learning/welcome/v-14/
+
+Kats：轻量、易用、可扩展时序数据分析工具包/框架，从理解关键统计数据和特征、检测变化点和异常，到预测未来趋势
+github.com/facebookresearch/Kats

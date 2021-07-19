@@ -101,3 +101,8 @@ github.com/microsoft/Web-Dev-For-Beginners
 
 paperclip：前端模板引擎，让UI开发和想的一样快
 github.com/crcn/paperclip
+
+微软在 GitHub 开源了一份 Web 开发教程：《给初学者看的 Web 开发教程》（Web Development for Beginners）。
+课时为期 12 周，共 24 节，主要讲解 JavaScript、CSS、HTML 相关的基础知识，并通过开发打字游戏、浏览器扩展、太空游戏等多个项目，带你了解 Web 开发的整体流程。
+为了让开发者可以更为充分的吸收课程知识，每节课均附有课前课后测验、课程说明、草图笔记、项目挑战、作业任务等内容。
+github.com/microsoft/Web-Dev-For-Beginners

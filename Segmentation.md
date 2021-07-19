@@ -1236,3 +1236,21 @@ github.com/askerlee/segtran
 
 《Semi-Supervised Semantic Segmentation with Cross Pseudo Supervision》(CVPR 2021) 
 github.com/charlesCXK/TorchSemiSeg
+
+《SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers》
+github.com/NVlabs/SegFormer
+
+《Adaptive Prototype Learning and Allocation for Few-Shot Segmentation》(CVPR 2021)
+github.com/Reagan1311/ASGNet
+
+《Rethinking Space-Time Networks with Improved Memory Coverage for Efficient Video Object Segmentation》(2021) 
+github.com/hkchengrex/STCN
+
+《Regularized Loss for Weakly Supervised Single Class Semantic Segmentation》(ECCV 2020) 
+github.com/morduspordus/SingleClassRL
+
+《Real-time Semantic Segmentation with Fast Attention》
+github.com/feinanshan/FANet
+
+《Channel-wise Distillation for Semantic Segmentation》(2020) 
+github.com/irfanICMLL/CWD

@@ -243,3 +243,12 @@ github.com/fidler-lab/efficient-annotation-cookbook
 
 Ozeu：面向实例分割的数据集自动标记工具包
 github.com/xiong-jie-y/ozeu
+
+Nota：用于图像/视频标注的网页应用
+github.com/DeNA/nota
+
+markup：主动学习强化的网页版文本标注工具
+github.com/samueldobbie/markup 
+
+DeepLab2: TensorFlow深度标记库，包括但不限于语义分割、实例分割、全景分割、深度估计，甚至视频全景分割等
+github.com/google-research/deeplab2

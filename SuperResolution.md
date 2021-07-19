@@ -316,3 +316,6 @@ github.com/LongguangWang/DASR
 
 Fourier Space Losses for Efficient Perceptual Image Super-Resolution
 https://www.arxiv-vanity.com/papers/2106.00783
+
+Super-Resolution Networks for Pytorch：超分辨率模型PyTorch实现与数据集列表
+github.com/Coloquinte/torchSR

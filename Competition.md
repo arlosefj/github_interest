@@ -284,3 +284,6 @@ https://keras.io/examples/vision/perceiver_image_classification/
 
 AI City 2021自然语言车辆检索比赛优胜方案
 github.com/ShuaiBai623/AIC2021-T5-CLV
+
+Facebook主办的相似图片搜索竞赛
+https://www.drivendata.org/competitions/79/competition-image-similarity-1-dev/

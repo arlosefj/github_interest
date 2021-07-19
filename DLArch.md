@@ -667,3 +667,19 @@ github.com/jaketae/g-mlp
 
 《The Lottery Tickets Hypothesis for Supervised and Self-supervised Pre-training in Computer Vision Models》(CVPR 2021) 
 github.com/VITA-Group/CV_LTH_Pre-training
+
+图神经网络概览(Colab)
+github.com/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial7/GNN_overview.ipynb 
+github.com/phlippe/uvadlc_notebooks/tree/master/docs/tutorial_notebooks
+
+### 《EPSANet：An Efficient Pyramid Split Attention Block on Convolutional Neural Network》 #新transform架构
+github.com/murufeng/EPSANet
+
+STFT_Transformer - Code for STFT Transformer used in BirdCLEF 2021 competition(Kaggle).
+github.com/jfpuget/STFT_Transformer
+
+《GraphiT: Encoding Graph Structure in Transformers》(2021) 
+github.com/inria-thoth/GraphiT 
+
+### 《Convolutional Dynamic Alignment Networks for Interpretable Classifications》(CVPR 2021) 
+github.com/moboehle/CoDA-Nets

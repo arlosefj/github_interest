@@ -131,3 +131,6 @@ https://mitcommlab.mit.edu/be/commkit/journal-article-discussion/
 
 五步撰写出色的论文Introduction
 blogs.ubc.ca/khead/research/research-advice/formula
+
+论文写作提高简要指南
+http://bushmanlab.org/assets/doc/ScientificWritingV39.pdf

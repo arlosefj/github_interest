@@ -1035,3 +1035,19 @@ github.com/Charmve/computer-vision-in-action
 
 EDPN: Enhanced Deep Pyramid Network for Blurry Image Restoration
 github.com/zeyuxiao1997/EDPN
+
+### LaneAF: Robust Multi-Lane Detection with Affinity Fields
+github.com/sel118/LaneAF
+
+计算机视觉实战演练：算法与应用，作者为迈微 AI 研习社创始人、CSDN 博客专家。
+本书大致分为三部分：
+一：计算机视觉相关的基础知识和预备知识；
+二：计算机视觉基础理论（核心部分为神经网络模型）；
+三：常见模型介绍，如：Transformer、Attention、知识蒸馏、迁移学习、生成对抗模型等。
+github.com/Charmve/computer-vision-in-action
+
+Image Quality Assessment Toolbox：图像质量评估工具箱
+github.com/RyanXingQL/Image-Quality-Assessment-Toolbox
+
+Learning to Predict Visual Attributes in the Wild
+https://www.arxiv-vanity.com/papers/2106.09707

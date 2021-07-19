@@ -169,3 +169,12 @@ lilianweng.github.io/lil-log/2021/05/31/contrastive-representation-learning.html
 
 Robust Reference-based Super-Resolution via C2-Matching
 github.com/yumingj/C2-Matching
+
+### 《End-to-end One-shot Human Parsing》(AAAI 2021)
+github.com/Charleshhy/One-shot-Human-Parsing
+
+《SPICE: Semantic Pseudo-labeling for Image Clustering》
+github.com/niuchuangnn/SPICE
+
+《Keep CALM and Improve Visual Feature Attribution》(2021) 
+github.com/naver-ai/calm

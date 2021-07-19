@@ -62,3 +62,6 @@ https://www.bilibili.com/video/bv1dV411e7pi http://vmls-book.stanford.edu/
 
 ggdist: 分布和不确定性可视化
 https://github.com/mjskay/ggdist
+
+概率分布浏览器：常用概率分布探索工具
+distribution-explorer.github.io/index.html

@@ -355,3 +355,18 @@ github.com/dk-liang/FIDTM
 
 ### 《M-LSD: Towards Light-weight and Real-time Line Segment Detection》(2021) 
 github.com/navervision/mlsd
+
+Lazy, a tool for running things in idle time：充分利用机器空闲时间跑模型，不影响正常工作
+github.com/nshepperd/lazy
+
+动画脸控制变换Demo paper:《GANs N’ Roses: Stable, Controllable, Diverse Image to Image Translation (works for videos too!)》
+github.com/mchong6/GANsNRoses 
+
+去看、去听、去探索：音-视联想与好奇
+https://blog.ml.cmu.edu/2021/06/11/see-hear-explore-curiosity-via-audio-visual-association/
+
+Avatarify Desktop：有摄像头就能用的肖像化身桌面版
+github.com/alievk/avatarify-desktop
+
+Fine-Tuning StyleGAN2 For Cartoon Face Generation
+github.com/happy-jihye/Cartoon-StyleGan2

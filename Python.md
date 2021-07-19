@@ -731,3 +731,21 @@ github.com/capitalone/DataProfiler
 
 sheet2dict：将Excel文档数据转换成字典的Python包
 github.com/Pytlicek/sheet2dict
+
+70+个适合新手、中级和有经验开发者的Python实战项目
+https://www.theinsaneapp.com/2021/06/list-of-python-projects-with-source-code-and-tutorials.html
+
+140个带源码的Python练手项目
+https://medium.datadriveninvestor.com/140-python-projects-with-source-code-fa12c9e2aeac
+
+spatula：用来编写可维护网页爬虫的Python库，内置对CSV、 JSON、 XML、 PDF 和 Excel文件的支持
+github.com/jamesturk/spatula
+
+Partitura：用于处理现代音乐五线谱符号的Python包
+github.com/CPJKU/partitura
+
+Python Programming Puzzles (P3)：面向AI编程研究的Python编程题目及代码数据集
+ithub.com/microsoft/PythonProgrammingPuzzles
+
+Tempo: Python的MLOps软件开发工具包
+ithub.com/SeldonIO/tempo

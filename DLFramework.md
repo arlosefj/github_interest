@@ -131,3 +131,6 @@ github.com/nikitakit/sabertooth
 
 ivadomed：深度学习医学图像分析集成框架
 github.com/ivadomed/ivadomed
+
+TFCC：C++深度学习推理框架
+github.com/Tencent/WeChat-TFCC

@@ -151,3 +151,9 @@ github.com/kawa-mineka/CODE-OF-PYTHON
 
 “魔法门之英雄无敌II”游戏引擎免费实现(C++)
 github.com/ihhub/fheroes2
+
+Wasabi2D：快速先进的Python 2D游戏引擎
+github.com/lordmauve/wasabi2d
+
+Widelands：受“工人物语II”启发的免费开源实时战略游戏，有单人战役和多人模式
+github.com/widelands/widelands

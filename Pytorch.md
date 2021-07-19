@@ -679,3 +679,12 @@ github.com/falloutdurham/beginners-pytorch-deep-learning
 
 H5Record：Pytorch大数据集(>100G，<=1T)存储格式
 github.com/theblackcat102/H5Record
+
+Pytorch Lightning教程集(notebooks)
+github.com/PyTorchLightning/lightning-tutorials
+
+PyTorch + TorchVision图像分类实例教程
+github.com/bentrevett/pytorch-image-classification
+
+用ONNX Runtime加速PyTorch模型 #pytorch加速
+github.com/pytorch/ort

@@ -746,3 +746,72 @@ https://www.arxiv-vanity.com/papers/2106.01548
 
 教程：如何创建和训练视觉Transformer
 https://theaisummer.com/hugging-face-vit/
+
+Semantic Correspondence with Transformers
+github.com/SunghwanHong/CATs
+
+Beyond Self-attention: External Attention using Two Linear Layers for Visual Tasks
+https://www.arxiv-vanity.com/papers/2105.02358/
+
+X-volution: On the unification of convolution and self-attention
+https://www.arxiv-vanity.com/papers/2106.02253/
+
+Attention Free Transformer
+github.com/rish-16/aft-pytorch
+
+各种注意力机制的PyTorch实现
+github.com/xmu-xiaoma666/External-Attention-pytorch
+
+On Improving Adversarial Transferability of Vision Transformers
+github.com/Muzammal-Naseer/Improving-Adversarial-Transferability-of-Vision-Transformers 
+
+MERLOT: Multimodal Neural Script Knowledge Models
+https://www.arxiv-vanity.com/papers/2106.02636/
+
+Refiner: Refining Self-attention for Vision Transformers
+github.com/zhoudaquan/Refiner_ViT
+
+A Survey of Transformers
+https://www.arxiv-vanity.com/papers/2106.04554
+
+Scaling Vision Transformers
+https://www.arxiv-vanity.com/papers/2106.04560
+
+Demystifying Local Vision Transformer: Sparse Connectivity, Weight Sharing, and Dynamic Weight
+https://www.arxiv-vanity.com/papers/2106.04263
+
+Transformed CNNs: recasting pre-trained convolutional layers with self-attention
+https://www.arxiv-vanity.com/papers/2106.05795
+
+微软联合UCSB、UCSC、UNC等单位合作推出的视频与语言理解基准测试集 VALUE: Video-and-Language Understanding Evaluation
+https://arxiv.org/pdf/2106.04632.pdf
+
+Space-time Mixing Attention for Video Transformer
+https://www.arxiv-vanity.com/papers/2106.05968
+
+《CAT: Cross Attention in Vision Transformer》(2021) 
+github.com/linhezheng19/CAT
+
+Keras实例：Transformer视频分类
+https://keras.io/examples/vision/video_transformers/
+
+Towards General Purpose Vision Systems：面向通用视觉的任务不可知视觉语言架构
+github.com/allenai/gpv-1
+
+Invertible Attention
+github.com/Schwartz-Zha/InvertibleAttention
+
+《Episodic Transformer for Vision-and-Language Navigation》
+github.com/alexpashevich/E.T. 
+
+How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers
+https://www.arxiv-vanity.com/papers/2106.10270
+
+Memory-efficient Transformers via Top-k Attention
+github.com/ag1988/top_k_attention
+
+XCiT: Cross-Covariance Image Transformers
+github.com/facebookresearch/xcit
+
+Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding
+https://www.arxiv-vanity.com/papers/2106.12566

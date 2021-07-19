@@ -784,3 +784,16 @@ github.com/cs01/termpair
 
 xmovie：从xarray对象创建动画
 github.com/jbusecke/xmovie
+
+开源的远程桌面控制程序：RustDesk。开箱即用，无需配置，可充当 TeamViewer 和 AnyDesk 的替代品。软件数据可自行托管到私有服务器，确保数据安全。
+github.com/rustdesk/rustdesk/ ​​​​
+
+超级工程工具箱，提供DevOps、开发者和平台工程的超级工具箱
+github.com/marcel-dempers/docker-development-youtube-series
+
+Narakeet，可将 Markdown 或 PPT 文档快速转换为视频，便于应用到项目教程、Demo 或者 Vlog 等场景。
+用户可在文档中插入图片和音频，设置动画转场效果，文字转为视频旁白等操作，同时也支持自定义多个国家与地区的语言旁白（含普通话）。
+代码示例：github.com/narakeet/examples
+
+给计算机科学家的Git指南
+https://eagain.net/articles/git-for-computer-scientists/

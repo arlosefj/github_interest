@@ -653,3 +653,6 @@ github.com/ml-tooling/opyrator
 
 Machine Learning Collection：微软机器学习/深度学习开源贡献集，包括库、工具、示例代码等
 github.com/microsoft/machine-learning-collection
+
+BCNet: Learning Body and Cloth Shape from A Single Image
+github.com/jby1993/BCNet

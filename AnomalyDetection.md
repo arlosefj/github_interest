@@ -161,3 +161,6 @@ github.com/okankop/Driver-Anomaly-Detection
 
 《PySAD: A Streaming Anomaly Detection Framework in Python》(2020)
 github.com/selimfirat/pysad
+
+《Robust Subspace Recovery Layer for Unsupervised Anomaly Detection》(ICLR 2020) 
+github.com/dmzou/RSRAE

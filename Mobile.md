@@ -165,3 +165,9 @@ github.com/cmdbug/MNN_Demo
 
 ncnn_Android_face：用ncnn实现的安卓平台人脸检测与分割范例
 github.com/FeiGeChuanShu/ncnn_Android_face
+
+GPU Accelerated TensorFlow Lite applications on Android NDK
+https://github.com/terryky/android_tflite
+
+PyTorch手机Demo Apps概览 #教学
+https://pytorch.org/blog/mobile-demo-apps-overview/

@@ -239,3 +239,12 @@ github.com/PaddlePaddle/VisualDL
 
 ### Kaggle数据集中心
 https://www.kaggle.com/datasets
+
+Group-CAM: Group Score-Weighted Visual Explanations for Deep Convolutional Networks
+github.com/wofmanaf/Group-CAM
+
+3DB: A Framework for Debugging Computer Vision Models
+github.com/3db/3db
+
+深度学习入门课、资深课、特色课、学术案例、产业实践案例、深度学习知识百科及面试题库
+github.com/PaddlePaddle/awesome-DeepLearning 

@@ -611,3 +611,6 @@ github.com/yxuhan/IALS
 
 ### TFace：值得信赖的人脸识别研究平台，提供了一个高性能的分布式训练框架
 github.com/Tencent/TFace
+
+### 《SimSwap: An Efficient Framework For High Fidelity Face Swapping》
+github.com/neuralchen/SimSwap

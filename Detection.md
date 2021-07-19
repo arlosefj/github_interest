@@ -937,3 +937,15 @@ github.com/Hatmm/PED-DETR-for-Pedestrian-Detection
 
 《Locate, Size and Count: Accurately Resolving People in Dense Crowds via Detection》(2020) 
 github.com/stanfordmlgroup/blm
+
+ee-fastapi: 基于Google Earth Engine的洪水检测系统
+github.com/csaybar/ee-fastapi
+
+Aerial Imagery Pile burn detection using Deep Learning: the FLAME dataset
+github.com/AlirezaShamsoshoara/Fire-Detection-UAV-Aerial-Image-Classification-Segmentation-UnmannedAerialVehicle
+
+DETReg: Unsupervised Pretraining with Region Priors for Object Detection
+https://www.arxiv-vanity.com/papers/2106.04550
+
+《Equalization Loss v2: A New Gradient Balance Approach for Long-tailed Object Detection》(CVPR 2021) 
+github.com/tztztztztz/eqlv2

@@ -433,3 +433,15 @@ github.com/openai/guided-diffusion
 
 《StylePeople: A Generative Model of Fullbody Human Avatars》(CVPR 2021)
 github.com/saic-vul/neural-textures
+
+Semi-Supervised Domain Generalization with Stochastic StyleMatch
+github.com/KaiyangZhou/ssdg-benchmark
+
+Automatic Augmentation Zoo：自动化数据增强库
+github.com/Awesome-AutoAug-Algorithms/AWS-OHL-AutoAug
+
+AugLy：面向音频、图像、文本和视频的数据增强库
+github.com/facebookresearch/AugLy
+
+NVIDIA Canvas(Beta)：把涂鸦变成画作的应用
+www.nvidia.com/en-us/studio/canvas/

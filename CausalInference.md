@@ -69,3 +69,6 @@ github.com/yixinwang/causal-recsys-public
 
 《A causal view of compositional zero-shot recognition》(NeurIPS 2020) 
 github.com/nv-research-israel/causal_compSubramaniKrishna/point-cloud-audio
+
+CausalNLP：文本因果推理实用工具包
+github.com/amaiya/causalnlp

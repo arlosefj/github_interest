@@ -403,3 +403,6 @@ github.com/svip-lab/HRNet-for-Fashion-Landmark-Estimation.PyTorch
 
 《End-to-End Human Pose and Mesh Reconstruction with Transformers》(CVPR 2021) 
 github.com/microsoft/MeshTransformer
+
+HPRNet: Hierarchical Point Regression for Whole-Body Human Pose Estimation
+github.com/nerminsamet/HPRNet

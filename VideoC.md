@@ -286,3 +286,6 @@ github.com/FIGLAB/Vid2Doppler
 
 Keras实例：CNN-RNN架构实现视频分类
 https://keras.io/examples/vision/video_classification/
+
+《Beyond Self-attention: External Attention using Two Linear Layers for Visual Tasks》(2021) 
+github.com/MenghaoGuo/EANet

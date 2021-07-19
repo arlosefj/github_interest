@@ -311,3 +311,6 @@ github.com/VITA-Group/BNN_NoBN
 
 《AngularGrad: A New Optimization Technique for Angular Convergence of Convolutional Neural Networks》(2021) 
 github.com/mhaut/AngularGrad
+
+Efficient Deep Learning: A Survey on Making Deep Learning Models Smaller, Faster, and Better
+https://www.arxiv-vanity.com/papers/2106.08962

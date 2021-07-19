@@ -240,3 +240,16 @@ https://www.bilibili.com/video/BV1CB4y1F7kM/
 
 '李宏毅2021春季机器学习课程课件及作业' 
 github.com/Fafa-DL/Lhy_Machine_Learning
+
+《可复现深度学习》课程：通过包括代码版本化(Git)、数据版本化(DVC)、实验日志(Weight & bists)、超参调整、配置(Hydra)和Docker化将深度模型移植到“可复现”世界
+https://www.bilibili.com/video/BV1SK4y1g7gt/
+
+李宏毅机器学习课(2021)习题参考
+github.com/ga642381/ML2021-Spring
+
+华盛顿大学《深度神经网络应用》课程(2021)教材(免费书)与视频
+https://www.bilibili.com/video/BV1Nq4y1L7SV/
+https://arxiv.org/abs/2009.05673
+
+S224W: Machine Learning with Graphs
+http://web.stanford.edu/class/cs224w/?continueFlag=16df1b6acf7e8d5a2c2f77c4acee6465

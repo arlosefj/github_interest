@@ -439,3 +439,9 @@ github.com/graph4ai/graph4nlp
 
 dictionaries - Fuzzing dictionaries for afl-fuzz/LibFuzzer 可能是目前最全面的开源模糊测试字典集合
 github.com/salmonx/dictionaries
+
+unif - 仿 Scikit-Learn 设计的深度学习自然语言处理框架, 支持 40+ 种模型类, 涵盖语言模型、文本分类、NER、MRC、机器翻译等各个领域
+github.com/geyingli/unif
+
+基于CPM模型的中文文本生成，可用于作文、小说、新闻、古诗等中文生成任务
+github.com/yangjianxin1/CPM

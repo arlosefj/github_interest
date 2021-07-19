@@ -484,3 +484,9 @@ github.com/nianticlabs/wavelet-monodepth
 
 通过结合人类的视觉系统特点，微软亚洲研究院探究了网络进行单目深度估计的本质，并赋予了网络强大的深度估计泛化能力。
 https://weibo.com/ttarticle/p/show?id=2309404644426801873164
+
+Aerial Single-View Depth Completion with Image-Guided Uncertainty Estimation
+github.com/VIS4ROB-lab/aerial-depth-completion
+
+《Monocular Depth Estimation Using Laplacian Pyramid-Based Depth Residuals》(2021) 
+github.com/tjqansthd/LapDepth-release

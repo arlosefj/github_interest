@@ -262,3 +262,9 @@ github.com/gordicaleksa/pytorch-learn-reinforcement-learning
 
 《MedSelect: Selective Labeling for Medical Image Classification Combining Meta-Learning with Deep Reinforcement Learning》(2021) 
 github.com/stanfordmlgroup/MedSelect
+
+MazeRL :面向应用的深度强化学习框架，用于解决现实世界中的决策问题
+github.com/enlite-ai/maze 
+
+DouZero：用深度强化学习玩斗地主
+github.com/kwai/DouZero

@@ -274,3 +274,15 @@ github.com/docker/getting-started
 
 Zadig：开源分布式持续交付产品
 github.com/koderover/zadig
+
+GPU Task Spooler：面向GPU的任务调度器，可管理来自多个终端的作业队列
+github.com/justanhduc/task-spooler
+
+关注AI模型上线、模型部署(系列文章)
+github.com/aipredict/ai-deployment
+
+youtube上这个 k8s 的视频不错，前半部分把基本概念讲得很清楚
+http://t.cn/A6tqexQF
+
+inferoxy：用于快速部署和使用容器化计算机视觉模型的服务
+github.com/eora-ai/inferoxy

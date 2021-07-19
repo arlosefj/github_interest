@@ -571,3 +571,24 @@ https://pytorch.org/hub/snakers4_silero-models_stt/
 
 openspeech：用PyTorch-Lightning和Hydra实现的的端到端语音识别开源工具包
 github.com/sooftware/openspeech
+
+Audio Augmentations：PyTorch音频增强库
+github.com/Spijkervet/torchaudio-augmentations
+
+FRILL：用TensorFlow-Lite实现设备端语音表示
+https://arxiv.org/abs/2011.04609 https://ai.googleblog.com/2021/06/frill-on-device-speech-representations.html
+
+DeepPhonemizer：基于Transformer模型的字音转换库，可用于高精度和高效率的文本语音转换生产系统
+github.com/as-ideas/DeepPhonemizer
+
+### 《HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis》
+github.com/rishikksh20/multiband-hifigan
+
+《VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech》(2021) 
+github.com/jaywalnut310/vits
+
+基于wav2vec2的自动语音识别
+github.com/oliverguhr/wav2vec2-live
+
+CoreAudioML：音频效果处理机器学习库
+github.com/Alec-Wright/CoreAudioML

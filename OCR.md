@@ -732,3 +732,12 @@ github.com/roatienza/deep-text-recognition-benchmark
 
 Paperless-ng：Paperless加强版纸质文档扫描识别电子化方案
 github.com/jonaswinkler/paperless-ng
+
+cnstd - MXNet场景文字检测包
+github.com/breezedeus/cnstd
+
+用变分Transformer网络实现文档布局设计自动化
+https://arxiv.org/abs/2104.02416
+
+《Read Like Humans: Autonomous, Bidirectional and Iterative Language Modeling for Scene Text Recognition》(CVPR 2021) 
+github.com/FangShancheng/ABINet 

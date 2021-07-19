@@ -370,3 +370,6 @@ github.com/VisDrone/DroneCrowd
 
 《Parallel Tacotron 2: A Non-Autoregressive Neural TTS Model with Differentiable Duration Modeling》(CVPR 2020) 
 github.com/keonlee9420/Parallel-Tacotron2
+
+《Towards End-to-end Video-based Eye-Tracking》(ECCV 2020) 
+github.com/swook/EVE

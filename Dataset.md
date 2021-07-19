@@ -613,3 +613,39 @@ https://github.com/facebookresearch/flores
 
 PIC：以人为中心的关系分割数据集
 http://picdataset.com/challenge/task/download/
+
+ARC浮世绘人脸数据集
+http://codh.rois.ac.jp/ukiyo-e/face-dataset/
+
+Brno Urban Dataset：自动驾驶汽车和自主机器人的导航和定位数据集
+github.com/Robotics-BUT/Brno-Urban-Dataset
+
+musescore-dataset：musescore.com乐谱数据集
+github.com/Xmader/musescore-dataset
+
+IMGUR5K：手写英文数据
+github.com/facebookresearch/IMGUR5K-Handwriting-Dataset
+
+CVPR2021多场景大规模视频语义分割数据集
+github.com/sssdddwww2/vspw_dataset_download
+
+Open Images扩展数据集中更具包容性的人物标注
+https://ai.googleblog.com/2021/06/a-step-toward-more-inclusive-people.html
+
+WebVid Dataset：大规模视频-文本数据集，包含从网上抓取的1000万对视频-文本数据
+github.com/m-bain/webvid
+
+Detecting Underwater Objects (DUO)：水下目标检测数据集
+github.com/chongweiliu/DUO
+
+GitHub 上一款开源的企业信息查询工具，可用于更加快速的获取企业信息，减少收集的工作量。可查询到企业 ICP 备案号、网站、APP 信息、子公司的基本信息、供应商信息等内容。
+github.com/wgpsec/ENScan
+
+brain-tumor-mri-dataset：脑部肿瘤MRI数据集
+github.com/guillaumefrd/brain-tumor-mri-dataset
+
+ASPset-510：用于训练和评估3D人体姿态估计模型的大规模视频数据集
+github.com/anibali/aspset-510
+
+CatMeows：猫叫开放数据集，由440段录音组成，包含了猫在不同场景发出的喵喵声
+https://zenodo.org/record/4008297#.YM2anjHitQ2

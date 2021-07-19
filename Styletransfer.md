@@ -168,3 +168,25 @@ github.com/yhlleo/SmoothingLatentSpace
 
 《StylePTB: A Compositional Benchmark for Fine-grained Controllable Text Style Transfer》(NAACL 2021)
 github.com/lvyiwei1/StylePTB
+
+《CoCosNet v2: Full-Resolution Correspondence Learning for Image Translation》(CVPR 2021) 
+github.com/microsoft/CoCosNet-v2
+
+### 《Styleformer: Transformer based Generative Adversarial Networks with Style Vector》
+github.com/Jeeseung-Park/Styleformer 
+
+TextStyleBrush：只用一个词模仿图像中的文字的风格
+https://ai.facebook.com/blog/ai-can-now-emulate-text-style-in-images-in-one-shot-using-just-a-single-word
+https://ai.facebook.com/research/publications/textstylebrush-transfer-of-text-aesthetics-from-a-single-example/
+
+SinIR: Efficient General Image Manipulation with Single Image Reconstruction
+github.com/YooJiHyeong/SinIR
+
+《Styleformer: Transformer based Generative Adversarial Networks with Style Vector》(2021) 
+github.com/Jeeseung-Park/Styleformer 
+
+《Anisotropic Stroke Control for Multiple Artists Style Transfer》(2021) 
+github.com/neuralchen/ASMAGAN 
+
+《In the light of feature distributions: Moment matching for Neural Style Transfer》(CVPR 2021) 
+github.com/D1noFuzi/cmd_styletransfer

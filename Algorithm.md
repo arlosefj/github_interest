@@ -338,3 +338,10 @@ github.com/vss2sn/path_planning
 
 LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图…’ 
 github.com/youngyangyang04/leetcode-master
+
+《算法与数据结构进阶》随书代码
+github.com/mlarocca/AlgorithmsAndDataStructuresInAction
+
+GitHub 上近期比较火的一个面试题解仓库：The Complete FAANG Preparation。
+里面包含了数据结构、算法知识点讲解、Facebook、Apple、Google 等互联网公司面试题、基于主流编程语言构建的 Demo 示例等内容。
+github.com/AkashSingh3031/The-Complete-FAANG-Preparation

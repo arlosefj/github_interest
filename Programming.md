@@ -87,3 +87,6 @@ github.com/vonzhou/CSAPP
 
 微软Rust入门教程
 https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/
+
+跟我一起写Makefile (PDF重制版)
+github.com/seisman/how-to-write-makefile

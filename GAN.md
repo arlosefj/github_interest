@@ -1003,3 +1003,15 @@ github.com/bryandlee/eigengan-pytorch
 
 《Generative Models as Distributions of Functions》(2021) 
 github.com/EmilienDupont/neural-function-distributions 
+
+Pivotal Tuning for Latent-based Editing of Real Images
+github.com/danielroich/PTI
+
+《Text to Image Generation with Semantic-Spatial Aware GAN》(2021) 
+ github.com/wtliao/text2image
+
+ Improved Transformer for High-Resolution GANs
+ https://www.arxiv-vanity.com/papers/2106.07631
+
+ 《TransGAN: Two Transformers Can Make One Strong GAN》(2021) 
+ github.com/lucidrains/transganformer 

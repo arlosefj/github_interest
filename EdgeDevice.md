@@ -97,3 +97,5 @@ github.com/mlcommons/tiny
 'TensorFlow Lite, Coral Edge TPU samples (Python/C++, Raspberry Pi/Windows/Linux).' 
 github.com/NobuoTsukamoto/edge_tpu
 
+Edge ML Library：高性能端侧机器学习计算库
+github.com/netease-youdao/EMLL

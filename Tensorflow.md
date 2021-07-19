@@ -183,3 +183,12 @@ https://github.com/PINTO0309/tflite2tensorflow
 
 TensorFlow Decision Forests(TF-DF)介绍
 https://blog.tensorflow.org/2021/05/introducing-tensorflow-decision-forests.html
+
+KSAI Lite：轻量级、灵活性强、高性能且易于扩展的深度学习推理框架，底层基于tensorflow lite，定位支持包括移动端、嵌入式以及服务器端在内的多硬件平台
+github.com/kingsoft-wps/KSAI-Lite
+
+Keras实例：面向图像分类的CutMix数据增强
+https://keras.io/examples/vision/cutmix/
+
+TensorFlow Lite让实现手机端目标检测更简单
+https://blog.tensorflow.org/2021/06/easier-object-detection-on-mobile-with-tf-lite.html

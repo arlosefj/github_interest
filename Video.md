@@ -361,3 +361,13 @@ github.com/soft-matter/pims
 
 《Blind Video Temporal Consistency via Deep Video Prior》(NeurIPS 2020) 
 github.com/yzxing87/pytorch-deep-video-prior
+
+SubPlayer：在线字幕编辑器
+github.com/zhw2590582/SubPlayer
+
+Learning Optical Flow from a Few Matches(CVPR 2021) 
+github.com/zacjiang/scv
+
+开源的视频会议系统：Nettu Meet，为交互式在线辅导而生。
+该系统主要支持实时视频会议，屏幕、白板、文件共享，文字消息聊天，数学图形绘画等功能。
+github.com/fmeringdal/nettu-meet ​​​​

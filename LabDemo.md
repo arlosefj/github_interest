@@ -3,6 +3,11 @@
 【Linux下的摄像头背景伪造】’Linux-Fake-Background-Webcam - Faking your webcam background under GNU/Linux.'
 https://github.com/fangfufu/Linux-Fake-Background-Webcam
 
+## 人脸
+
+FaceXLib：pytorch人脸相关开发库
+github.com/xinntao/facexlib
+
 ## 检测相关
 
 ncnn-android-scrfd：安卓平台ncnn库应用人脸检测演示项目
