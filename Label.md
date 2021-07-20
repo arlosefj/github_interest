@@ -252,3 +252,15 @@ github.com/samueldobbie/markup
 
 DeepLab2: TensorFlow深度标记库，包括但不限于语义分割、实例分割、全景分割、深度估计，甚至视频全景分割等
 github.com/google-research/deeplab2
+
+labelCloud：用于标记点云3D边框的轻量级工具
+github.com/ch-sa/labelCloud
+
+人群计数标注工具
+github.com/Elin24/cclabeler
+
+Label3D：图形界面多相机3D关键点标记工具
+github.com/diegoaldarondo/Label3D
+
+MONAILabel：基于AI的医学图像标注CS系统
+github.com/Project-MONAI/MONAILabel

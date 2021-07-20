@@ -741,3 +741,12 @@ https://arxiv.org/abs/2104.02416
 
 《Read Like Humans: Autonomous, Bidirectional and Iterative Language Modeling for Scene Text Recognition》(CVPR 2021) 
 github.com/FangShancheng/ABINet 
+
+### DocFormer: End-to-End Transformer for Document Understanding
+https://www.arxiv-vanity.com/papers/2106.11539
+
+RapidOCR：基于PaddleOCR & OnnxRuntime的跨平台OCR库
+github.com/RapidOCR/RapidOCR
+
+### 文档图片“去皱”整形 #TODO
+github.com/gwxie/Dewarping-Document-Image-By-Displacement-Flow-Estimation

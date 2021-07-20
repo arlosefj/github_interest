@@ -614,3 +614,6 @@ github.com/Tencent/TFace
 
 ### 《SimSwap: An Efficient Framework For High Fidelity Face Swapping》
 github.com/neuralchen/SimSwap
+
+RetinaFace：TensorFlow深度人脸检测库
+github.com/serengil/retinaface

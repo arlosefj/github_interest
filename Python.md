@@ -749,3 +749,21 @@ ithub.com/microsoft/PythonProgrammingPuzzles
 
 Tempo: Python的MLOps软件开发工具包
 ithub.com/SeldonIO/tempo
+
+matplotlib数据可视化资源/教程大列表
+github.com/interactivetech/awesome-matplotlib
+
+Python科学计算教程(NumPy & Matplotlib入门)
+https://deepnote.com/@sebastian-raschka-38a1/Scientific-Computing-in-Python-Introduction-to-NumPy-and-Matplotlib-k9EmEp0DSKalcJSjlXNm2w
+
+PyUnity：用Python实现的Unity引擎
+github.com/pyunity/pyunity
+
+试过 icecream 吗？输出调试信息比print()更方便 [酷] 
+github.com/gruns/icecream ​​​​
+
+Visual Python：Python可视化代码生成器(Jupyter Notebook扩展)
+github.com/visualpython/visualpython
+
+JupyterLite：无需部署服务完全在浏览器里(客户端)运行的Jupyter，集成了许多流行的科学Python开发
+https://blog.jupyter.org/jupyterlite-jupyter-%EF%B8%8F-webassembly-%EF%B8%8F-python-f6e2e41ab3fa

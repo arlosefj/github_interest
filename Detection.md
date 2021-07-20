@@ -949,3 +949,18 @@ https://www.arxiv-vanity.com/papers/2106.04550
 
 《Equalization Loss v2: A New Gradient Balance Approach for Long-tailed Object Detection》(CVPR 2021) 
 github.com/tztztztztz/eqlv2
+
+GAIA-det：目标检测迁移学习系统
+github.com/GAIA-vision/GAIA-det 
+
+flexible-yolov5：更可读、使用更灵活的YOLOv5重构版】’flexible-yolov5 - More readable and flexible yolov5 with more backbone(resnet, shufflenet, moblienet, efficientnet, hrnet) and (cbam，dcn and so on),
+github.com/yl305237731/flexible-yolov5
+
+Yolov5：YOLOV5的TensorFlow2高效实现
+github.com/LongxingTan/Yolov5
+
+Inverting and Understanding Object Detectors
+github.com/Caoang327/vis_det
+
+detection_template - 一个目标检测的通用框架(不需要cuda编译)，支持Yolo全系列(v2~v5)、EfficientDet、RetinaNet、Cascade-RCNN等SOTA网络
+github.com/misads/detection_template

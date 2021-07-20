@@ -373,3 +373,6 @@ github.com/keonlee9420/Parallel-Tacotron2
 
 《Towards End-to-end Video-based Eye-Tracking》(ECCV 2020) 
 github.com/swook/EVE
+
+UniTrack：通用视觉跟踪任务简单统一框架
+github.com/Zhongdao/UniTrack

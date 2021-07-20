@@ -74,3 +74,6 @@ github.com/keijiro/FaceMeshBarracuda
 
 IrisBarracuda：Unity Barracuda的MediaPipe虹膜关键点检测库
 github.com/keijiro/IrisBarracuda
+
+Augmented Reality 101：Python3 & OpenCV增强现实入门 #AR
+github.com/mafda/augmented_reality_101

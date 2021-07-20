@@ -1008,10 +1008,16 @@ Pivotal Tuning for Latent-based Editing of Real Images
 github.com/danielroich/PTI
 
 《Text to Image Generation with Semantic-Spatial Aware GAN》(2021) 
- github.com/wtliao/text2image
+github.com/wtliao/text2image
 
- Improved Transformer for High-Resolution GANs
- https://www.arxiv-vanity.com/papers/2106.07631
+Improved Transformer for High-Resolution GANs
+https://www.arxiv-vanity.com/papers/2106.07631
 
- 《TransGAN: Two Transformers Can Make One Strong GAN》(2021) 
- github.com/lucidrains/transganformer 
+《TransGAN: Two Transformers Can Make One Strong GAN》(2021) 
+github.com/lucidrains/transganformer 
+
+用正确的方式训练GAN #TODO
+https://beckham.nz/2021/06/28/training-gans.html
+
+VQGAN-CLIP：本地运行版VQGAN+CLIP
+github.com/nerdyrodent/VQGAN-CLIP

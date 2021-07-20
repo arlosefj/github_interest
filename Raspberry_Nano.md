@@ -138,3 +138,6 @@ https://github.com/s-matyukevich/raspberry-pi-os
 
 RUHAcam：基于树莓派的3D打印DIY复古风相机
 github.com/penk/ruha.camera
+
+TensorRT Examples(object detection)
+github.com/NobuoTsukamoto/tensorrt-examples

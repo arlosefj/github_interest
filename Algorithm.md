@@ -345,3 +345,18 @@ github.com/mlarocca/AlgorithmsAndDataStructuresInAction
 GitHub 上近期比较火的一个面试题解仓库：The Complete FAANG Preparation。
 里面包含了数据结构、算法知识点讲解、Facebook、Apple、Google 等互联网公司面试题、基于主流编程语言构建的 Demo 示例等内容。
 github.com/AkashSingh3031/The-Complete-FAANG-Preparation
+
+Shortest-LeetCode-Python-Solutions - Leet Code 刷题笔记 - - 不求最快最省，但求最短最优雅，Shorter is better here.
+github.com/cy69855522/Shortest-LeetCode-Python-Solutions
+
+一个开源的资料库，收集了 5000 道校招常用面试题，包含 leetcode，校招笔试题，面试题，算法题，语法题，目前仍在持续更新中。
+GitHub：github.com/0voice/campus_recruitmen_questions 
+
+为了帮助开发者更好的理解数据结构，旧金山大学制作了一系列算法可视化交互动画。 #算法 #可视化
+其中包含堆栈、队列、递归、索引、排序、动态规划等内容，动画主要基于 HTML5 与 JavaScript 编写，可在大部分主流浏览器上完美运行。
+如果有需要的话，你也可以使用其提供的 MyAlgorithm.js 库，自行编写可视化动画。
+https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+
+GitHub 上一个开源算法知识库：Algorithm Base，通过动画配图及文字介绍的方式，让开发者可以更加轻松的学习并吸收算法知识。
+其中包含数据结构、排序算法、二叉树、求和、双指针、二分查找等相关内容，目前该仓库仍在持续更新中。
+github.com/chefyuan/algorithm-base #算法 #可视化

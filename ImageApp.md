@@ -1051,3 +1051,15 @@ github.com/RyanXingQL/Image-Quality-Assessment-Toolbox
 
 Learning to Predict Visual Attributes in the Wild
 https://www.arxiv-vanity.com/papers/2106.09707
+
+Recognizing one-dimensional barcode using OpenCV
+https://opencv.org/recognizing-one-dimensional-barcode-using-opencv/
+
+### Google Photos editor采用相机无关新方法pull-push denoising&polyblur实现降噪、去模糊 #图像处理/去模糊
+https://ai.googleblog.com/2021/06/take-all-your-pictures-to-cleaners-with.html
+
+HuggingPics：用网络图片微调视觉Transformer
+github.com/nateraw/huggingpics
+
+OpenCV教程应用程序的源代码
+github.com/JimmyHHua/opencv_tutorials

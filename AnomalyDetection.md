@@ -164,3 +164,6 @@ github.com/selimfirat/pysad
 
 《Robust Subspace Recovery Layer for Unsupervised Anomaly Detection》(ICLR 2020) 
 github.com/dmzou/RSRAE
+
+Towards Total Recall in Industrial Anomaly Detection
+https://arxiv.org/abs/2106.08265

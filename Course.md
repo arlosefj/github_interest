@@ -253,3 +253,13 @@ https://arxiv.org/abs/2009.05673
 
 S224W: Machine Learning with Graphs
 http://web.stanford.edu/class/cs224w/?continueFlag=16df1b6acf7e8d5a2c2f77c4acee6465
+
+面向机器学习的线性代数入门 #TODO
+https://www.bilibili.com/video/BV1wU4y1V7bE/
+
+名校公开课程评价网，由多个 GitHub 开发者共同参与维护的一个开源项目。
+主要针对各大高校计算机课程在学习难度、课程规划、进阶资源等方面，做出整理与总结。其中包含数据库系统设计、数据结构与算法、计算机网络、机器学习等多个技术领域。
+GitHub：github.com/conanhujinming/comments-for-awesome-courses
+
+温州大学《机器学习》课程资料（代码、课件等） #机器学习/课件
+github.com/fengdu78/WZU-machine-learning-course

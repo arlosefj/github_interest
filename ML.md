@@ -1346,3 +1346,35 @@ https://livebook.manning.com/book/grokking-machine-learning/welcome/v-14/
 
 Kats：轻量、易用、可扩展时序数据分析工具包/框架，从理解关键统计数据和特征、检测变化点和异常，到预测未来趋势
 github.com/facebookresearch/Kats
+
+免费书《机器学习面试指南书》
+github.com/chiphuyen/ml-interviews-book
+
+Regularization is all you Need: Simple Neural Nets can Excel on Tabular Data
+https://www.arxiv-vanity.com/papers/2106.11189
+
+机器学习基础(课程资料)
+github.com/jonkrohn/ML-foundations
+
+François Chollet：有时你会从非机器学习领域的人那里听到对机器学习的批评，机器学习不像物理学，缺乏确定性、精确性和严格性。这是必然的：机器学习是一种处理模糊问题的模糊方法。
+
+nylon：描述式机器学习引擎库，通过简洁的 JSON 语法定制自动化机器学习工作流
+github.com/Palashio/nylon
+
+Google机器学习工程师分享的面试经验
+https://mlengineer.io/how-i-got-senior-ml-engineer-position-at-google-2021-west-coast-f176f4ccd2d9
+
+linear-tree：线性模型树，结合了决策树的学习能力和线性模型的预测能力
+github.com/cerlymarco/linear-tree
+
+Machine Learning for Beginners - A Curriculum：微软的机器学习入门课程
+github.com/microsoft/ML-For-Beginners
+
+《用Python从头实现神经网络》随书代码
+github.com/Sentdex/nnfs_book
+
+Machine Learning Mindmap / Cheatsheet：机器学习(过程/数据处理/数学/概念/模型)思维导图/速查
+github.com/dformoso/machine-learning-mindmap
+
+OpenMLDB：面向机器学习应用提供正确、高效数据供给的开源数据库
+github.com/4paradigm/OpenMLDB

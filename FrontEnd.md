@@ -106,3 +106,9 @@ github.com/crcn/paperclip
 课时为期 12 周，共 24 节，主要讲解 JavaScript、CSS、HTML 相关的基础知识，并通过开发打字游戏、浏览器扩展、太空游戏等多个项目，带你了解 Web 开发的整体流程。
 为了让开发者可以更为充分的吸收课程知识，每节课均附有课前课后测验、课程说明、草图笔记、项目挑战、作业任务等内容。
 github.com/microsoft/Web-Dev-For-Beginners
+
+tracking.js 是一个将不同的计算机视觉算法和技术引入浏览器环境的库。通过HTML5规范，让用户可以进行实时的颜色跟踪，脸部检测和更多。
+https://github.com/eduardolundgren/tracking.js
+
+### 浏览器里的SCRFD高性能高精度人脸检测(ncnn + webassembly)部署实例
+github.com/nihui/ncnn-webassembly-scrfd

@@ -248,3 +248,6 @@ github.com/3db/3db
 
 深度学习入门课、资深课、特色课、学术案例、产业实践案例、深度学习知识百科及面试题库
 github.com/PaddlePaddle/awesome-DeepLearning 
+
+#linux课程
+![](https://arloseimg.oss-cn-hangzhou.aliyuncs.com/20210720150137.png)

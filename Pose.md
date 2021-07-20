@@ -406,3 +406,12 @@ github.com/microsoft/MeshTransformer
 
 HPRNet: Hierarchical Point Regression for Whole-Body Human Pose Estimation
 github.com/nerminsamet/HPRNet
+
+微软亚洲研究院研究员在CVPR 2021上提出了"解构式关键点回归"方法，在COCO和CrowdPose两个数据集上达到了目前自底向上姿态检测的最好结果
+https://weibo.com/ttarticle/p/show?id=2309404652043158814747
+
+人体姿态预测相关文献资源列表
+github.com/karttikeya/awesome-human-pose-prediction
+
+在线3D骨架动作识别
+github.com/fabro66/Online-Skeleton-based-Action-Recognition

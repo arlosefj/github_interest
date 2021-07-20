@@ -311,3 +311,6 @@ github.com/BoLiu-SVCL/meta-open
 
 《Open World Compositional Zero-Shot Learning》(CVPR 2021) 
 github.com/ExplainableML/czsl 
+
+零样本目标检测相关资源大列表
+github.com/KennithLi/Awesome-Zero-Shot-Object-Detection

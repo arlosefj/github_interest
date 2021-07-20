@@ -192,3 +192,14 @@ https://keras.io/examples/vision/cutmix/
 
 TensorFlow Lite让实现手机端目标检测更简单
 https://blog.tensorflow.org/2021/06/easier-object-detection-on-mobile-with-tf-lite.html
+
+《简单粗暴 TensorFlow 2》 #TODO 
+https://tf.wiki/zh_hans/basic/tools.html#cats-vs-dogs
+本书作为简明的 TensorFlow 2 入门指导手册，基于 Keras 和即时执行模式（Eager Execution），力图让具备一定机器学习及 Python 基础的开发者们快速上手 TensorFlow 2。
+github.com/snowkylin/tensorflow-handbook
+
+Keras实例：Compact Convolutional Transformer(CCT)图像分类
+https://keras.io/examples/vision/cct/
+
+Tensorflow 模型线上部署教程
+github.com/BeyonderXX/tensorflow-serving-tutorial

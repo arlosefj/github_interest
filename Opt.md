@@ -314,3 +314,6 @@ github.com/mhaut/AngularGrad
 
 Efficient Deep Learning: A Survey on Making Deep Learning Models Smaller, Faster, and Better
 https://www.arxiv-vanity.com/papers/2106.08962
+
+Forward 深度学习推理加速框架 - A library for high performance deep learning inference on NVIDIA GPUs.
+github.com/Tencent/Forward

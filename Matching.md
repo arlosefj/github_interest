@@ -178,3 +178,9 @@ github.com/niuchuangnn/SPICE
 
 《Keep CALM and Improve Visual Feature Attribution》(2021) 
 github.com/naver-ai/calm
+
+libvot：C++11多线程图像检索库
+github.com/hlzz/libvot
+
+图像特征匹配算法评估工具箱
+github.com/GrumpyZhou/image-matching-toolbox

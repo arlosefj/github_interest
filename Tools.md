@@ -797,3 +797,25 @@ Narakeet，可将 Markdown 或 PPT 文档快速转换为视频，便于应用到
 
 给计算机科学家的Git指南
 https://eagain.net/articles/git-for-computer-scientists/
+
+Bing图片批量下载工具
+github.com/gurugaurav/bing_image_downloader
+
+Fast-GitHub - 加速国内Github下载的浏览器插件
+github.com/fhefh2015/Fast-GitHub
+
+3dfier：用于创建基于GIS数据的3D模型的开源工具
+github.com/tudelft3d/3dfier
+
+bibliothecula：带有标签和全文搜索的文档管理器
+epilys.github.io/bibliothecula/ 
+github.com/epilys/bibliothecula
+
+Heimdall Watchtower: 深度学习训练进度邮件提醒工具
+github.com/ZhenyueQin/Training-Progress-Email-Notifier
+
+Mathpix 这款工具能将带数学公式的截图一键转成 LaTeX 代码
+https://mathpix.com/
+
+mlscraper: 基于机器学习的网页自动抓取&数据抽取工具
+github.com/lorey/mlscraper

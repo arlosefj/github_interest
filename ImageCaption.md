@@ -815,3 +815,47 @@ github.com/facebookresearch/xcit
 
 Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding
 https://www.arxiv-vanity.com/papers/2106.12566
+
+Towards Long-Form Video Understanding
+github.com/chaoyuaw/lvu
+
+Video Swin Transformer
+github.com/SwinTransformer/Video-Swin-Transformer
+
+Early Convolutions Help Transformers See Better
+https://www.arxiv-vanity.com/papers/2106.14881/
+
+CLIPDraw: Exploring Text-to-Drawing Synthesis through Language-Image Encoders
+https://arxiv.org/abs/2106.14843
+https://colab.research.google.com/github/kvfrans/clipdraw/blob/main/clipdraw.ipynb
+
+Stabilizing Deep Q-Learning with ConvNets and Vision Transformers under Data Augmentation
+https://arxiv.org/abs/2107.00644
+
+CLIP-It! Language-Guided Video Summarization
+https://arxiv.org/abs/2107.00650
+
+Focal Self-attention for Local-Global Interactions in Vision Transformers
+https://arxiv.org/abs/2107.00641
+
+CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows
+https://arxiv.org/abs/2107.00652
+
+Rethinking Positional Encoding
+github.com/osiriszjq/Rethinking-positional-encoding
+
+Long-Short Transformer: Efficient Transformers for Language and Vision
+https://arxiv.org/abs/2107.02192
+
+Transformers与卷积网络的结合
+https://ai.facebook.com/blog/computer-vision-combining-transformers-and-convolutional-neural-networks
+https://arxiv.org/abs/2103.10697
+
+CMT: Convolutional Neural Networks Meet Vision Transformers
+https://arxiv.org/abs/2107.06263
+
+VidLanKD: Improving Language Understanding via Video-Distilled Knowledge Transfer
+github.com/zinengtang/VidLanKD
+
+From Show to Tell: A Survey on Image Captioning
+https://arxiv.org/abs/2107.06912

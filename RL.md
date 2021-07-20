@@ -268,3 +268,9 @@ github.com/enlite-ai/maze
 
 DouZero：用深度强化学习玩斗地主
 github.com/kwai/DouZero
+
+基于机器学习的游戏智能体快速训练
+github.com/google-research/falken
+
+ElegantRL：用PyTorch实现的轻量、高效、稳定的深度强化学习算法
+github.com/AI4Finance-LLC/ElegantRL

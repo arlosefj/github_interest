@@ -167,3 +167,12 @@ Understanding the Limits & Pushing the Boundaries” https:// drive.google.com/f
 
 What Kinds of Functions do Deep Neural Networks Learn? Insights from Variational Spline Theory
 https://www.arxiv-vanity.com/papers/2105.03361
+
+On Robustness and Transferability of Convolutional Neural Networks
+https://arxiv.org/abs/2007.08558
+
+讨论：representation vs. latent vs. embedding
+www.reddit.com/r/MachineLearning/comments/ofivs2/d_difference_between_representation_vs_latent_vs/h4d0fcj/
+
+从视觉到语言：(Google搜索引擎)半监督学习(蒸馏)的大规模实用
+https://ai.googleblog.com/2021/07/from-vision-to-language-semi-supervised.html

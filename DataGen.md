@@ -445,3 +445,9 @@ github.com/facebookresearch/AugLy
 
 NVIDIA Canvas(Beta)：把涂鸦变成画作的应用
 www.nvidia.com/en-us/studio/canvas/
+
+Taming Transformers for High-Resolution Image Synthesis
+github.com/CompVis/taming-transformers
+
+Single Image Texture Translation for Data Augmentation
+github.com/Boyiliee/SITT

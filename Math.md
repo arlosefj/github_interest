@@ -65,3 +65,9 @@ https://github.com/mjskay/ggdist
 
 概率分布浏览器：常用概率分布探索工具
 distribution-explorer.github.io/index.html
+
+CindyJS：数学/物理交互可视化框架
+https://cindyjs.org/
+
+### Manim-Tutorial：数学动画引擎manim教程 #TODO
+github.com/malhotra5/Manim-Tutorial

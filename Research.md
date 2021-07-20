@@ -134,3 +134,6 @@ blogs.ubc.ca/khead/research/research-advice/formula
 
 论文写作提高简要指南
 http://bushmanlab.org/assets/doc/ScientificWritingV39.pdf
+
+Crawling-CV-Conference-Papers：CV会议论文下载工具
+github.com/seanywang0408/Crawling-CV-Conference-Papers

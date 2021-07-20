@@ -287,3 +287,6 @@ github.com/ShuaiBai623/AIC2021-T5-CLV
 
 Facebook主办的相似图片搜索竞赛
 https://www.drivendata.org/competitions/79/competition-image-similarity-1-dev/
+
+Kaggle鸟叫识别第三名方案
+github.com/TheoViel/kaggle_birdcall_identification 

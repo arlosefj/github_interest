@@ -90,3 +90,15 @@ https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/
 
 跟我一起写Makefile (PDF重制版)
 github.com/seisman/how-to-write-makefile
+
+一份开源的系统编程速记清单。
+该清单是作者在 2019 年春季，在卡内基梅隆大学学习「计算机系统概论」时编写而成，主体内容基于《深入理解计算机系统》一书。
+github.com/jstrieb/systems-programming-cheat-sheet ​​​​
+
+技术思维导图：Psyduck。
+借助 Xmind，绘制并注解了关于 Linux 操作系统、计算机网络、数据库、Redis、C++、Golang 相关的基础知识，便于开发者快速吸收与复习。
+github.com/SmartKeyerror/Psyduck
+
+Compiler Explorer是一个可以在浏览器里进行互动的编译工具。支持C、C++、Rust、Go、D、Haskell、Swift、Pascal、ispc或其他语言的代码，并能查看这些代码被实时编译后的情况。
+https://github.com/compiler-explorer/compiler-explorer
+https://godbolt.org/

@@ -683,3 +683,15 @@ github.com/inria-thoth/GraphiT
 
 ### 《Convolutional Dynamic Alignment Networks for Interpretable Classifications》(CVPR 2021) 
 github.com/moboehle/CoDA-Nets
+
+Vision Permutator: A Permutable MLP-Like Architecture for Visual Recognition
+github.com/Andrew-Qibin/VisionPermutator
+
+Rethinking Token-Mixing MLP for MLP-based Vision Backbone
+https://www.arxiv-vanity.com/papers/2106.14882
+
+Global Filter Networks for Image Classification
+github.com/raoyongming/GFNet
+
+图注意力网络(GAT)的PyTorch实现与解读
+https://nn.labml.ai/graphs/gat/index.html

@@ -445,3 +445,10 @@ github.com/geyingli/unif
 
 基于CPM模型的中文文本生成，可用于作文、小说、新闻、古诗等中文生成任务
 github.com/yangjianxin1/CPM
+
+基于PyTorch, fastai, HuggingFace的NLP实战教程
+amarsaini.github.io/Epoching-Blog/jupyter/nlp/pytorch/fastai/huggingface/2021/06/27/NLP-from-Scratch-with-PyTorch-FastAI-and-HuggingFace.html 
+github.com/AmarSaini/Epoching-Blog/blob/master/_notebooks/2021-06-27-NLP-from-Scratch-with-PyTorch-FastAI-and-HuggingFace.ipynb
+
+NLPer-Arsenal - 收录NLP相关竞赛经验贴、NLP会议时间、常用自媒体、GPU推荐等
+github.com/TingFree/NLPer-Arsenal

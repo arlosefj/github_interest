@@ -319,3 +319,6 @@ https://www.arxiv-vanity.com/papers/2106.00783
 
 Super-Resolution Networks for Pytorch：超分辨率模型PyTorch实现与数据集列表
 github.com/Coloquinte/torchSR
+
+UpscalerJS：基于Tensorflow.js的图像4x超分辨率包(JS)
+github.com/thekevinscott/UpscalerJS

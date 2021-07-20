@@ -282,7 +282,15 @@ github.com/justanhduc/task-spooler
 github.com/aipredict/ai-deployment
 
 youtube上这个 k8s 的视频不错，前半部分把基本概念讲得很清楚
-http://t.cn/A6tqexQF
+https://www.youtube.com/watch?v=X48VuDVv0do
 
 inferoxy：用于快速部署和使用容器化计算机视觉模型的服务
 github.com/eora-ai/inferoxy
+
+看到知乎上有人问 kafka 和 RabbitMQ 的区别.... 其实他俩的区别没那么复杂:
+kafka 和 RabbitMQ 的应用场景区别其实很简单, RabbitMQ 是面向纵向复杂度的, kafka 则是面向横向复杂度的. RabbitMQ 甚至内置了多种协议 ( AMQP, MQTT 等) 和正则引擎用于处理复杂的消息和复杂的消息分发. 所以 RabbitMQ 适合业务不大, 但是处理消息复杂度很高的场景. 
+kafka则相反, 适合业务巨大, 但是复杂度不是很高的场景(其实复杂度高也没问题, 在应用中处理就好了. 但 rabbitmq 反过来则不太行.)
+除此之外, RabbitMQ 在负载不是很高的情况下, 延迟是最小的, 适合构建超低延迟应用.(得益于 Erlang 的特性). 但是负载打满了之后, 性能则惨不忍睹. 至于可靠性, 二者都很好.
+总之, 如果你还在接 AMQP 等传统消息协议, 或者追求开箱即用带正则的消息队列, 则 RabbitMQ 合适. 但如果作为架构师考虑的话, 直接选择 kafka 就完事了. 面向横向复杂度的解决方案造成的技术债务会比其他选择小一些. (而且, 市场上真的能找到可以魔改 RabbitMQ 的Erlang工程师吗? [二哈])
+kafka 早已经超脱了"消息队列"这个层次, 完全是个带深度缓冲的通信平面了.
+至于 ZeroMQ? ZeroMQ 不是消息队列(传统意义上的).

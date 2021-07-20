@@ -157,3 +157,9 @@ github.com/lordmauve/wasabi2d
 
 Widelands：受“工人物语II”启发的免费开源实时战略游戏，有单人战役和多人模式
 github.com/widelands/widelands
+
+CODE-OF-PYTHON，GitHub 上一个基于 Python 编写的飞行射击游戏，可玩性还挺高的。
+github.com/kawa-mineka/CODE-OF-PYTHON
+
+Minesweeper：Mac版“扫雷”游戏
+github.com/alphaArgon/Minesweeper

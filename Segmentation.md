@@ -1254,3 +1254,12 @@ github.com/feinanshan/FANet
 
 《Channel-wise Distillation for Semantic Segmentation》(2020) 
 github.com/irfanICMLL/CWD
+
+New, improved Detectron2 Mask R-CNN baselines
+https://ai.facebook.com/blog/advancing-computer-vision-research-with-new-detectron2-mask-r-cnn-baselines/
+
+Foreground-Aware Stylization and Consensus Pseudo-Labeling for Domain Adaptation of First-Person Hand Segmentation #手语
+github.com/ut-vision/FgSty-CPL
+
+A topological solution to object segmentation and tracking
+https://www.arxiv-vanity.com/papers/2107.02036

@@ -688,3 +688,18 @@ github.com/bentrevett/pytorch-image-classification
 
 用ONNX Runtime加速PyTorch模型 #pytorch加速
 github.com/pytorch/ort
+
+ToR[e]cSys：PyTorch推荐系统算法框架
+github.com/p768lwy3/torecsys
+
+LibTraffic(阡陌)：PyTorch 实现的交通流量预测库
+github.com/LibTraffic/Bigscity-LibTraffic
+
+### MLWithPytorch：PyTorch机器学习实战入门
+github.com/Mayurji/MLWithPytorch
+
+用PyTorch 30分钟从头训练Compact Transformer
+https://medium.com/pytorch/training-compact-transformers-from-scratch-in-30-minutes-with-pytorch-ff5c21668ed5
+
+微软的PyTorch基础课程
+https://docs.microsoft.com/en-us/learn/paths/pytorch-fundamentals/

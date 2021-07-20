@@ -649,3 +649,27 @@ github.com/anibali/aspset-510
 
 CatMeows：猫叫开放数据集，由440段录音组成，包含了猫在不同场景发出的喵喵声
 https://zenodo.org/record/4008297#.YM2anjHitQ2
+
+OpenRooms Dataset Release：开放房间数据集
+github.com/ViLab-UCSD/OpenRooms
+
+大规模卫星遥感-地图数据集
+github.com/taesungp/larger-google-sat2maps-dataset
+
+Awesome collections on DataHub：高质量数据集大列表
+github.com/datasets/awesome-data
+
+ONCE：带有2D和3D标注的大规模无人驾驶数据集
+once-for-auto-driving.github.io/index.html
+
+UDIS-D：无监督深度图像拼接数据集
+github.com/nie-lang/UnsupervisedDeepImageStitching 
+
+HM3D：面向具身人工智能研究的3D扫描数据集
+https://ai.facebook.com/blog/introducing-the-habitat-matterport-3d-research-data-set-for-training-embodied-ai
+
+Ground Mobile Robot Perception Dataset：地面移动机器人感知数据集
+github.com/hlwang1124/GMRPD
+
+HC-STVG：以人为中心的时空视频数据集，只关注视频中的人
+github.com/tzhhhh123/HC-STVG 

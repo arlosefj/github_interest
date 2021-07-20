@@ -371,3 +371,9 @@ github.com/zacjiang/scv
 开源的视频会议系统：Nettu Meet，为交互式在线辅导而生。
 该系统主要支持实时视频会议，屏幕、白板、文件共享，文字消息聊天，数学图形绘画等功能。
 github.com/fmeringdal/nettu-meet ​​​​
+
+Awesome-Cross-Modal-Video-Moment-Retrieval：跨模态视频片段检索文献列表
+github.com/yawenzeng/Awesome-Cross-Modal-Video-Moment-Retrieval
+
+Runway Sequel：应用最新机器学习研究成果的视频编辑软件，从研究到应用的时间差越来越短了
+https://runwayml.com/
