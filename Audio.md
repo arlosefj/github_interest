@@ -592,3 +592,9 @@ github.com/oliverguhr/wav2vec2-live
 
 CoreAudioML：音频效果处理机器学习库
 github.com/Alec-Wright/CoreAudioML
+
+SoundPy：面向研究的语音/声音Python开发包
+github.com/a-n-rose/Python-Sound-Tool
+
+kaldifeat：PyTorch的Kaldi兼容特征抽取，支持CUDA & autograd
+github.com/csukuangfj/kaldifeat

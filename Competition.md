@@ -290,3 +290,9 @@ https://www.drivendata.org/competitions/79/competition-image-similarity-1-dev/
 
 Kaggle鸟叫识别第三名方案
 github.com/TheoViel/kaggle_birdcall_identification 
+
+卫星图像变化检测挑战第一名解决方案
+github.com/LiheYoung/SenseEarth2020-ChangeDetection
+
+Kaggle 30天挑战：两周实战入门，两周比赛挑战
+https://www.kaggle.com/thirty-days-of-ml

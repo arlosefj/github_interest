@@ -750,3 +750,12 @@ github.com/RapidOCR/RapidOCR
 
 ### 文档图片“去皱”整形 #TODO
 github.com/gwxie/Dewarping-Document-Image-By-Displacement-Flow-Estimation
+
+SAP-HANA-AutoML：表格数据自动化机器学习库
+github.com/dan0nchik/SAP-HANA-AutoML
+
+文档理解(DU)相关资源大列表
+github.com/tstanislawek/awesome-document-understanding
+
+《Primitive Representation Learning for Scene Text Recognition》(CVPR 2021) 
+github.com/RuijieJ/pren

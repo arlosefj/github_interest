@@ -1263,3 +1263,6 @@ github.com/ut-vision/FgSty-CPL
 
 A topological solution to object segmentation and tracking
 https://www.arxiv-vanity.com/papers/2107.02036
+
+《Robust Instance Segmentation through Reasoning about Multi-Object Occlusion》(CVPR 2021) 
+github.com/XD7479/Multi-Object-Occlusion

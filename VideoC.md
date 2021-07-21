@@ -289,3 +289,6 @@ https://keras.io/examples/vision/video_classification/
 
 《Beyond Self-attention: External Attention using Two Linear Layers for Visual Tasks》(2021) 
 github.com/MenghaoGuo/EANet
+
+DMVR: DeepMind视频数据读取模块
+github.com/deepmind/dmvr

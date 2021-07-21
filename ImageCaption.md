@@ -859,3 +859,21 @@ github.com/zinengtang/VidLanKD
 
 From Show to Tell: A Survey on Image Captioning
 https://arxiv.org/abs/2107.06912
+
+How Much Can CLIP Benefit Vision-and-Language Tasks?
+github.com/clip-vil/CLIP-ViL
+
+Awesome Text-to-Image：文本-图像合成相关资源大列表
+github.com/Yutong-Zhou-cv/Awesome-Text-to-Image
+
+《An Empirical Study of Training Self-Supervised Vision Transformers》(2021) 
+github.com/CupidJay/MoCov3-pytorch
+
+《Towards Long-Form Video Understanding》(CVPR 2021) 
+github.com/chaoyuaw/lvu
+
+《Video Swin Transformer》(2021) 
+github.com/SwinTransformer/Video-Swin-Transformer 
+
+《Shuffle Transformer: Rethinking Spatial Shuffle for Vision Transformer》(2021) 
+github.com/mulinmeng/Shuffle-Transformer

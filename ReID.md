@@ -294,3 +294,6 @@ github.com/blue-blue272/ImgReID-IAnet
 
 《Unsupervised Pre-training for Person Re-identification》(CVPR 2021) 
 github.com/DengpanFu/LUPerson
+
+《A Strong Baseline For Vehicle Re-Identification》(2021) 
+github.com/cybercore-co-ltd/track2_aicity_2021

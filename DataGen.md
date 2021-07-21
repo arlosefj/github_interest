@@ -451,3 +451,27 @@ github.com/CompVis/taming-transformers
 
 Single Image Texture Translation for Data Augmentation
 github.com/Boyiliee/SITT
+
+迷你版DALL-E
+github.com/borisdayma/dalle-mini
+
+Unity Perception: Generate Synthetic Data for Computer Vision
+github.com/Unity-Technologies/com.unity.perception
+
+《DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort》(CVPR 2021) 
+github.com/nv-tlabs/datasetGAN_release 
+
+《Few-shot Semantic Image Synthesis Using StyleGAN Prior》(CoRR 2021) 
+github.com/endo-yuki-t/Fewshot-SMIS
+
+《SeqNet: Learning Descriptors for Sequence-Based Hierarchical Place Recognition》(ICRA 2021) 
+github.com/oravus/seqNet 
+
+《AugNet: End-to-End Unsupervised Visual Representation Learning with Image Augmentation》(2021) 
+github.com/chenmingxiang110/AugNet
+
+《Spatially-Adaptive Pixelwise Networks for Fast Image Translation》(CVPR 2021) 
+github.com/tamarott/ASAPNet
+
+《Cross-Modal Contrastive Learning for Text-to-Image Generation》(CVPR 2021) 
+github.com/google-research/xmcgan_image_generation

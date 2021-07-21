@@ -673,3 +673,9 @@ github.com/hlwang1124/GMRPD
 
 HC-STVG：以人为中心的时空视频数据集，只关注视频中的人
 github.com/tzhhhh123/HC-STVG 
+
+iMiGUE：面向微动作理解和情感分析的视频数据集
+github.com/linuxsino/iMiGUE
+
+TrajAir：通用航空轨迹数据集
+https://theairlab.org/trajair/

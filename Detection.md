@@ -964,3 +964,12 @@ github.com/Caoang327/vis_det
 
 detection_template - 一个目标检测的通用框架(不需要cuda编译)，支持Yolo全系列(v2~v5)、EfficientDet、RetinaNet、Cascade-RCNN等SOTA网络
 github.com/misads/detection_template
+
+YOLOX: Exceeding YOLO Series in 2021
+github.com/Megvii-BaseDetection/YOLOX
+
+### Yolov5 deepsort inference，使用YOLOv5+Deepsort实现车辆行人追踪和计数
+github.com/Sharpiless/Yolov5-deepsort-inference
+
+《CondLaneNet: a Top-to-down Lane Detection Framework Based on ConditionalConvolution》(2021) 
+github.com/aliyun/conditional-lane-detection

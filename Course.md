@@ -263,3 +263,6 @@ GitHub：github.com/conanhujinming/comments-for-awesome-courses
 
 温州大学《机器学习》课程资料（代码、课件等） #机器学习/课件
 github.com/fengdu78/WZU-machine-learning-course
+
+UCAS_Course_2019 - 中国科学院大学2019-2020课程（秋季，春季，夏季）
+github.com/HuangCongQing/UCAS_Course_2019

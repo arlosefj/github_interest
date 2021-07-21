@@ -77,3 +77,6 @@ github.com/keijiro/IrisBarracuda
 
 Augmented Reality 101：Python3 & OpenCV增强现实入门 #AR
 github.com/mafda/augmented_reality_101
+
+《Stay Positive: Non-Negative Image Synthesis for Augmented Reality》(CVPR 2021) 
+github.com/katieluo88/StayPositive

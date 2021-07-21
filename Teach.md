@@ -251,3 +251,6 @@ github.com/PaddlePaddle/awesome-DeepLearning
 
 #linux课程
 ![](https://arloseimg.oss-cn-hangzhou.aliyuncs.com/20210720150137.png)
+
+Deep Learning visuals：深度学习图/可视化集锦 #可视化
+github.com/The-AI-Summer/deep-learning-visuals

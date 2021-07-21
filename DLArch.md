@@ -695,3 +695,6 @@ github.com/raoyongming/GFNet
 
 图注意力网络(GAT)的PyTorch实现与解读
 https://nn.labml.ai/graphs/gat/index.html
+
+《Rethinking Differentiable Search for Mixed-Precision Neural Networks》(CVPR 2020) 
+github.com/zhaoweicai/EdMIPS

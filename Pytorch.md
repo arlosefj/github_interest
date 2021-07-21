@@ -701,5 +701,11 @@ github.com/Mayurji/MLWithPytorch
 用PyTorch 30分钟从头训练Compact Transformer
 https://medium.com/pytorch/training-compact-transformers-from-scratch-in-30-minutes-with-pytorch-ff5c21668ed5
 
-微软的PyTorch基础课程
+微软的PyTorch基础课程，主要讲解 PyTorch 及其实际应用领域的基础内容。
 https://docs.microsoft.com/en-us/learn/paths/pytorch-fundamentals/
+
+用torch-ort加速PyTorch训练
+github.com/pytorch/ort
+
+MLab - “云上炼丹师”的云基础设施：容器化PyTorch训练环境 + 存储解决方案
+github.com/DeepVAC/MLab

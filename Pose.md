@@ -415,3 +415,12 @@ github.com/karttikeya/awesome-human-pose-prediction
 
 在线3D骨架动作识别
 github.com/fabro66/Online-Skeleton-based-Action-Recognition
+
+《BABEL: Bodies, Action and Behavior with English Labels》(CVPR 2021) 
+github.com/abhinanda-punnakkal/BABEL
+
+《On Self-Contact and Human Pose》(CVPR 2021) 
+github.com/muelea/selfcontact
+
+《Body2Hands: Learning to Infer 3D Hands from Conversational Gesture Body Dynamics》(CVPR 2021) 
+github.com/facebookresearch/body2hands

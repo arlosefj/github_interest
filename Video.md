@@ -377,3 +377,9 @@ github.com/yawenzeng/Awesome-Cross-Modal-Video-Moment-Retrieval
 
 Runway Sequel：应用最新机器学习研究成果的视频编辑软件，从研究到应用的时间差越来越短了
 https://runwayml.com/
+
+LiveKit - 基于WebRTC的开源分布式视频/音频对话屋
+github.com/livekit/livekit-server
+
+《TimeLens: Event-based Video Frame Interpolation》(CVPR 2021) 
+github.com/uzh-rpg/rpg_timelens

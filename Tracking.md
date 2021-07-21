@@ -376,3 +376,6 @@ github.com/swook/EVE
 
 UniTrack：通用视觉跟踪任务简单统一框架
 github.com/Zhongdao/UniTrack
+
+《Probabilistic Tracklet Scoring and Inpainting for Multiple Object Tracking》(CVPR 2021) 
+github.com/fatemeh-slh/ArTIST

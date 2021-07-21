@@ -184,3 +184,9 @@ github.com/hlzz/libvot
 
 图像特征匹配算法评估工具箱
 github.com/GrumpyZhou/image-matching-toolbox
+
+Stitching Historical Aerial Photos：基于 SURF、 RANSAC 和 PyTorch autograd 的大规模航拍照片配准算法
+github.com/luna983/stitch-aerial-photos
+
+《Patch-NetVLAD: Multi-Scale Fusion of Locally-Global Descriptors for Place Recognition》(CVPR 2021) 
+github.com/QVPR/Patch-NetVLAD

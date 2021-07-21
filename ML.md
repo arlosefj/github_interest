@@ -1378,3 +1378,9 @@ github.com/dformoso/machine-learning-mindmap
 
 OpenMLDB：面向机器学习应用提供正确、高效数据供给的开源数据库
 github.com/4paradigm/OpenMLDB
+
+Python深度学习
+github.com/tirthajyoti/Deep-learning-with-Python
+
+《MetaBalance: High-Performance Neural Networks for Class-Imbalanced Data》(2021) 
+github.com/Arpit97Bansal/Meta-Balance

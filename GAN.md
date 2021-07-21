@@ -1021,3 +1021,9 @@ https://beckham.nz/2021/06/28/training-gans.html
 
 VQGAN-CLIP：本地运行版VQGAN+CLIP
 github.com/nerdyrodent/VQGAN-CLIP
+
+Keras实例：Conditional GAN
+https://keras.io/examples/generative/conditional_gan/
+
+《Fine-Tuning StyleGAN2 For Cartoon Face Generation》(2021) 
+github.com/happy-jihye/Cartoon-StyleGan2

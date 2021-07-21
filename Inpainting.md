@@ -162,3 +162,6 @@ github.com/a312863063/Video-Auto-Wipe
 
 Hyperrealistic Image Inpainting With Hypergraphs
 github.com/GouravWadhwa/Hypergraphs-Image-Inpainting
+
+《Uformer: A General U-Shaped Transformer for Image Restoration》(2021) 
+github.com/lucidrains/uformer-pytorch

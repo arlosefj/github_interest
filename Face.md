@@ -617,3 +617,6 @@ github.com/neuralchen/SimSwap
 
 RetinaFace：TensorFlow深度人脸检测库
 github.com/serengil/retinaface
+
+《Reliable Probabilistic Face Embeddings in the Wild》(2021) 
+github.com/KaenChan/ProbFace

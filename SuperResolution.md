@@ -322,3 +322,12 @@ github.com/Coloquinte/torchSR
 
 UpscalerJS：基于Tensorflow.js的图像4x超分辨率包(JS)
 github.com/thekevinscott/UpscalerJS
+
+Real-Time Super-Resolution System of 4K-Video Based on Deep Learning
+github.com/Thmen/EGVSR
+
+基于条件扩散模型的图像超分辨率
+iterative-refinement.github.io/
+
+EGVSR-PyTorch：高效通用视频超分辨率
+github.com/Thmen/EGVSR

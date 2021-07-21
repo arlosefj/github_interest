@@ -767,3 +767,6 @@ github.com/visualpython/visualpython
 
 JupyterLite：无需部署服务完全在浏览器里(客户端)运行的Jupyter，集成了许多流行的科学Python开发
 https://blog.jupyter.org/jupyterlite-jupyter-%EF%B8%8F-webassembly-%EF%B8%8F-python-f6e2e41ab3fa
+
+面向数据科学的Pandas入门指南
+towardsdatascience.com/how-to-master-pandas-for-data-science-b8ab0a9b1042

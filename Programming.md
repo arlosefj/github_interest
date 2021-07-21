@@ -102,3 +102,6 @@ github.com/SmartKeyerror/Psyduck
 Compiler Explorer是一个可以在浏览器里进行互动的编译工具。支持C、C++、Rust、Go、D、Haskell、Swift、Pascal、ispc或其他语言的代码，并能查看这些代码被实时编译后的情况。
 https://github.com/compiler-explorer/compiler-explorer
 https://godbolt.org/
+
+正则表达式速查清单
+remram44.github.io/regex-cheatsheet/regex.html 

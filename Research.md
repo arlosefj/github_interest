@@ -137,3 +137,6 @@ http://bushmanlab.org/assets/doc/ScientificWritingV39.pdf
 
 Crawling-CV-Conference-Papers：CV会议论文下载工具
 github.com/seanywang0408/Crawling-CV-Conference-Papers
+
+论文的几点写作技巧
+http://redpath-staff.mcgill.ca/hendry/writingtips.pdf
