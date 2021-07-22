@@ -679,3 +679,6 @@ github.com/linuxsino/iMiGUE
 
 TrajAir：通用航空轨迹数据集
 https://theairlab.org/trajair/
+
+### Multi-HT100M：HowTo100M数据集的多语言描述数据
+github.com/berniebear/Multi-HT100M

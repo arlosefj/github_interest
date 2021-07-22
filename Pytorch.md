@@ -709,3 +709,6 @@ github.com/pytorch/ort
 
 MLab - “云上炼丹师”的云基础设施：容器化PyTorch训练环境 + 存储解决方案
 github.com/DeepVAC/MLab
+
+《手把手PyTorch深度学习》随书代码
+github.com/dvgodoy/PyTorchStepByStep

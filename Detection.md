@@ -973,3 +973,6 @@ github.com/Sharpiless/Yolov5-deepsort-inference
 
 《CondLaneNet: a Top-to-down Lane Detection Framework Based on ConditionalConvolution》(2021) 
 github.com/aliyun/conditional-lane-detection
+
+### 用ncnn+opencv实现的YOLOX目标检测 #TODO
+github.com/FeiGeChuanShu/ncnn-android-yolox

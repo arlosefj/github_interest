@@ -1384,3 +1384,9 @@ github.com/tirthajyoti/Deep-learning-with-Python
 
 《MetaBalance: High-Performance Neural Networks for Class-Imbalanced Data》(2021) 
 github.com/Arpit97Bansal/Meta-Balance
+
+AiLearning-Theory-Applying - 快速上手AI理论及应用实战
+github.com/ben1234560/AiLearning-Theory-Applying
+
+Google Colab机器学习实验Notebooks集锦
+github.com/amrzv/awesome-colab-notebooks
