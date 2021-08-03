@@ -363,3 +363,6 @@ github.com/chefyuan/algorithm-base #算法 #可视化
 
 Leetcode解答。所有的问题都支持C++语言，一部分问题支持Java语言。近乎所有问题都会提供多个算法解决'
 github.com/liuyubobobo/Play-Leetcode
+
+fluxsort：稳定自适应分区比较排序算法C实现及可视化
+github.com/scandum/fluxsort

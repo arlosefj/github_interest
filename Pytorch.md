@@ -712,3 +712,6 @@ github.com/DeepVAC/MLab
 
 《手把手PyTorch深度学习》随书代码
 github.com/dvgodoy/PyTorchStepByStep
+
+《PyTorch现代计算机视觉实战》随书代码
+github.com/PacktPublishing/Modern-Computer-Vision-with-PyTorch

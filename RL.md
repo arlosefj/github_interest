@@ -274,3 +274,9 @@ github.com/google-research/falken
 
 ElegantRL：用PyTorch实现的轻量、高效、稳定的深度强化学习算法
 github.com/AI4Finance-LLC/ElegantRL
+
+DouZero_For_Happy_DouDiZhu: 将DouZero用于欢乐斗地主实战 - 基于DouZero定制AI实战欢乐斗地主
+github.com/tianqiraf/DouZero_For_HappyDouDiZhu
+
+YARR： PyTorch机器人/强化学习框架
+github.com/stepjam/YARR

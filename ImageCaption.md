@@ -877,3 +877,39 @@ github.com/SwinTransformer/Video-Swin-Transformer
 
 《Shuffle Transformer: Rethinking Spatial Shuffle for Vision Transformer》(2021) 
 github.com/mulinmeng/Shuffle-Transformer
+
+Align before Fuse: Vision and Language Representation Learning with Momentum Distillation
+github.com/salesforce/ALBEF/
+
+memery：用自然语言进行大规模图片数据集语义搜索
+github.com/deepfates/memery
+
+Playground for CLIP-like models
+github.com/kevinzakka/clip_playground
+
+《Contextual Transformer Networks for Visual Recognition》
+github.com/JDAI-CV/CoTNet
+
+Transformer视觉研究文献列表
+github.com/Yangzhangcst/Transformer-in-Computer-Vision
+
+OpenCLIP：CLIP的开源实现(PyTorch) #TODO
+github.com/mlfoundations/open_clip
+
+ACL 2021 | 时空可控的图片描述生成
+https://weibo.com/ttarticle/p/show?id=2309404664630223176058 https://aclanthology.org/2021.acl-long.157.pdf
+
+CLIP：用无监督NLP提高患者护理连续性的大规模标注数据集，包含超过100,000个带有标注的句子，在718个完整的出院摘要中对每个句子进行标记，指定这个句子是否包含一个后续行动项
+https://www.asapp.com/blog/introducing-clip-a-dataset-to-improve-continuity-of-patient-care-with-unsupervised-nlp/
+
+ReFormer: The Relational Transformer for Image Captioning #READ
+https://arxiv.org/abs/2107.14178
+
+Hugging Face新上线的DALL·E mini：根据文字提示自动生成图片
+https://huggingface.co/spaces/flax-community/dalle-mini
+
+Rethinking and Improving Relative Position Encoding for Vision Transformer
+github.com/microsoft/AutoML/tree/main/iRPE
+
+DETR注释版
+amaarora.github.io/2021/07/26/annotateddetr.html

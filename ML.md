@@ -1390,3 +1390,30 @@ github.com/ben1234560/AiLearning-Theory-Applying
 
 Google Colab机器学习实验Notebooks集锦
 github.com/amrzv/awesome-colab-notebooks
+
+Python脏数据机器学习教程
+http://dirtydata.science/python/
+
+神经网络模型库与效率工具包
+github.com/quic/aimet-model-zoo
+
+Python脏数据机器学习教程
+github.com/dirty-data-science/python
+
+Machine_Learning_Resources - 机器学习面试复习资源
+github.com/wangyuGithub01/Machine_Learning_Resources
+
+Open MLOps - 面向生产的开源机器学习框架，目标是简化用户进行机器学习实验和部署机器学习模型的体验
+github.com/datarevenue-berlin/OpenMLOps
+
+基于Vertex AI平台的端到端MLOps案例
+github.com/ksalama/ucaip-labs
+
+人工智能前沿技术概览
+https://zhuanlan.zhihu.com/p/394977792
+
+FakeFinder: ：用于评估各种“深度造假”检测模型的模块化框架
+github.com/IQTLabs/FakeFinder
+
+边做边学：将实战项目融入机器学习课程
+https://arxiv.org/abs/2107.13671

@@ -698,3 +698,6 @@ https://nn.labml.ai/graphs/gat/index.html
 
 《Rethinking Differentiable Search for Mixed-Precision Neural Networks》(CVPR 2020) 
 github.com/zhaoweicai/EdMIPS
+
+Query2Label: A Simple Transformer Way to Multi-Label Classification
+github.com/SlongLiu/query2labels

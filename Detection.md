@@ -976,3 +976,6 @@ github.com/aliyun/conditional-lane-detection
 
 ### 用ncnn+opencv实现的YOLOX目标检测 #TODO
 github.com/FeiGeChuanShu/ncnn-android-yolox
+
+YOLOv5 汉化版
+github.com/wudashuo/yolov5

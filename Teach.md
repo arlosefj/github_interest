@@ -254,3 +254,6 @@ github.com/PaddlePaddle/awesome-DeepLearning
 
 Deep Learning visuals：深度学习图/可视化集锦 #可视化
 github.com/The-AI-Summer/deep-learning-visuals
+
+chitra：用于模型构建、可解释AI、数据可视化、API构建和部署的深度学习库
+github.com/aniketmaurya/chitra

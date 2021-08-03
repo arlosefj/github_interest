@@ -140,3 +140,9 @@ github.com/seanywang0408/Crawling-CV-Conference-Papers
 
 论文的几点写作技巧
 http://redpath-staff.mcgill.ca/hendry/writingtips.pdf
+
+Artigo：用来搜索、阅读、讨论、标注和分享论文的网站 #IMP
+https://artigopapers.io/home/trending
+
+科研心得分享合集
+github.com/jbhuang0604/awesome-tips

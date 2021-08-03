@@ -424,3 +424,9 @@ github.com/muelea/selfcontact
 
 《Body2Hands: Learning to Infer 3D Hands from Conversational Gesture Body Dynamics》(CVPR 2021) 
 github.com/facebookresearch/body2hands
+
+freemocap：3D人体骨架检测
+github.com/jonmatthis/freemocap
+
+BlendyPose：只用摄像头实现Blender动作捕捉(基于MediaPipe)
+github.com/zonkosoft/BlendyPose

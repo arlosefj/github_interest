@@ -1063,3 +1063,10 @@ github.com/nateraw/huggingpics
 
 OpenCV教程应用程序的源代码
 github.com/JimmyHHua/opencv_tutorials
+
+基于卫星图像的非洲建筑分布图绘制
+https://ai.googleblog.com/2021/07/mapping-africas-buildings-with.html
+https://arxiv.org/abs/2107.12283
+
+Self-supervised Multisensor Change Detection
+https://arxiv.org/abs/2103.05102

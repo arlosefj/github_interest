@@ -75,3 +75,9 @@ github.com/amaiya/causalnlp
 
 ### 深度学习因果推理模实例教程 Deep Learning Models for Causal Inference (under selection on observables) - Extensive tutorials for learning how to build deep learning models for causal inference using selection on observables in Tensorflow 2.
 github.com/kochbj/Deep-Learning-for-Causal-Inference
+
+Causality for NLP Reading List：NLP因果文献列表
+github.com/zhijing-jin/Causality4NLP_Papers
+
+PyCID: 基于pgmpy的因果影响图库
+github.com/causalincentives/pycid

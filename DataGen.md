@@ -475,3 +475,9 @@ github.com/tamarott/ASAPNet
 
 《Cross-Modal Contrastive Learning for Text-to-Image Generation》(CVPR 2021) 
 github.com/google-research/xmcgan_image_generation
+
+Explicit Clothing Modeling for an Animatable Full-Body Avatar
+https://arxiv.org/abs/2106.14879
+
+Generative Art：生成艺术集锦
+github.com/erdavids/Generative-Art

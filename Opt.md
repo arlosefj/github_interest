@@ -317,3 +317,9 @@ https://www.arxiv-vanity.com/papers/2106.08962
 
 Forward 深度学习推理加速框架 - A library for high performance deep learning inference on NVIDIA GPUs.
 github.com/Tencent/Forward
+
+Triton：让没有CUDA经验的研究人员编写高效的GPU代码
+github.com/openai/triton
+
+mmsegmentation-distiller：基于mmsegmentation的知识蒸馏工具箱
+github.com/pppppM/mmsegmentation-distiller

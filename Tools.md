@@ -819,3 +819,24 @@ https://mathpix.com/
 
 mlscraper: 基于机器学习的网页自动抓取&数据抽取工具
 github.com/lorey/mlscraper
+
+Superset：数据可视化和数据探索平台
+github.com/apache/superset
+
+Jovian：分享、协作Jupyter notebooks与数据科学项目的平台(客户端)
+github.com/JovianML/jovian-py
+
+Vis: 交互式异步3D可视化工具，旨在让3D视觉和机器人应用开发更简单
+github.com/rvbust/Vis
+
+XRender - 阿里飞猪 - 易用的中后台「表单 / 表格 / 图表」解决方案
+github.com/alibaba/x-render
+
+TheBoard：协同式白板
+github.com/toger5/TheBoard
+
+CommonMark：Markdown格式美化工具
+github.com/executablebooks/mdformat
+
+Muboard：数学白板，支持Markdown & LaTeX格式的共识的快速展示
+github.com/susam/muboard

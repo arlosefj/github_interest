@@ -9,3 +9,6 @@ https://colab.research.google.com/github/NielsRogge/Transformers-Tutorials/blob/
 
 《LETR: Line Segment Detection Using Transformers without Edges》(CVPR 2021) 
 github.com/mlpc-ucsd/LETR
+
+### Pyodi：Python目标检测数据集探索工具
+github.com/Gradiant/pyodi

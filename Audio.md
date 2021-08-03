@@ -598,3 +598,9 @@ github.com/a-n-rose/Python-Sound-Tool
 
 kaldifeat：PyTorch的Kaldi兼容特征抽取，支持CUDA & autograd
 github.com/csukuangfj/kaldifeat
+
+ttskit - 语音合成工具箱，Text To Speech Toolkit，多种音色可供选择的语音合成工具。
+github.com/KuangDD/ttskit 
+
+Chinese mandarin text to speech (MTTS)  中文 (普通话) 语音 合成 , by fastspeech 2 , implemented in pytorch, using waveglow as vocoder, with biaobei and aishell3 datasets #TODO
+github.com/ranchlai/mandarin-tts

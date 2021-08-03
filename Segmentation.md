@@ -1266,3 +1266,9 @@ https://www.arxiv-vanity.com/papers/2107.02036
 
 《Robust Instance Segmentation through Reasoning about Multi-Object Occlusion》(CVPR 2021) 
 github.com/XD7479/Multi-Object-Occlusion
+
+### 《Segmentation in Style: Unsupervised Semantic Image Segmentation with Stylegan and CLIP
+github.com/warmspringwinds/segmentation_in_style
+
+Open-World Entity Segmentation
+github.com/dvlab-research/Entity

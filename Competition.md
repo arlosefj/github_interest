@@ -296,3 +296,12 @@ github.com/LiheYoung/SenseEarth2020-ChangeDetection
 
 Kaggle 30天挑战：两周实战入门，两周比赛挑战
 https://www.kaggle.com/thirty-days-of-ml
+
+SLICED机器学习比赛参赛心得
+http://varianceexplained.org/r/sliced-ml/
+
+2021 AI City Challenge优胜代码集
+github.com/NVIDIAAICITYCHALLENGE/2021AICITY_Code_From_Top_Teams
+
+Kaggle推文情感抽取大赛一等奖方案
+github.com/heartkilla/kaggle_tweet

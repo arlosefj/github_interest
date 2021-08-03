@@ -91,3 +91,24 @@ github.com/silverbulletmdc/showdata
 
 《Learning To Count Everything》(CVPR 2021) 
 github.com/cvlab-stonybrook/LearningToCountEverything
+
+PyTorch Remote Sensing (torchrs)：遥感任务数据和PyTorch模型实现
+github.com/isaaccorley/torchrs
+
+### BackgroundRemover：图片、视频背景去除(抠图)命令行工具
+github.com/nadermx/backgroundremover 
+
+Portal：用最快的方式加载和可视化深度学习模型(用TypeScript, React, Flask构建)
+github.com/datature/portal
+
+Sign Language-to-Speech with DeepStack's Custom API：基于DeepStack定制API开发的手语转语音应用
+github.com/SteveKola/Sign-Language-to-Speech-with-DeepStack-Custom-API
+
+Lite.AI：各种最新AI模型的用户友好C++库，可实现目标检测、人脸检测、画风迁移、人脸对齐、人脸识别、分割、着色、人脸属性分析、图像分类、抠图等
+github.com/DefTruth/lite.ai
+
+着装人体相关文献列表，包括人体数字化、虚拟试穿等相关方向
+github.com/weihaox/awesome-clothed-human
+
+Cherry on Py：支持人脸检测、视频目标检测、视频摘要的云计算平台
+github.com/PicardParis/cherry-on-py

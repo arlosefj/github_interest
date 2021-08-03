@@ -71,3 +71,6 @@ https://github.com/jetlinks/jetlinks-community
 
 在故宫的官网上，有一个堪称超级黑科技的页面：「数字多宝阁」在这上面可以360度无死角欣赏各种各样的文物，目前已有200多个！ 
 https://www.dpm.org.cn/shuziduobaoge.html​​​​
+
+华语现代诗歌语料库 - 最全的汉语现代诗歌语料库整理，2K+诗人，41K+诗歌，8M+字，包括五四至今的所有流派
+github.com/sheepzh/poetry

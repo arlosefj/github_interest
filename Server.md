@@ -294,3 +294,6 @@ kafka则相反, 适合业务巨大, 但是复杂度不是很高的场景(其实�
 总之, 如果你还在接 AMQP 等传统消息协议, 或者追求开箱即用带正则的消息队列, 则 RabbitMQ 合适. 但如果作为架构师考虑的话, 直接选择 kafka 就完事了. 面向横向复杂度的解决方案造成的技术债务会比其他选择小一些. (而且, 市场上真的能找到可以魔改 RabbitMQ 的Erlang工程师吗? [二哈])
 kafka 早已经超脱了"消息队列"这个层次, 完全是个带深度缓冲的通信平面了.
 至于 ZeroMQ? ZeroMQ 不是消息队列(传统意义上的).
+
+PrimeHub Community Edition：基于Kubernetes的机器学习基础设施
+github.com/InfuseAI/primehub

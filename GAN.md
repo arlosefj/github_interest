@@ -1027,3 +1027,6 @@ https://keras.io/examples/generative/conditional_gan/
 
 《Fine-Tuning StyleGAN2 For Cartoon Face Generation》(2021) 
 github.com/happy-jihye/Cartoon-StyleGan2
+
+Pointer Value Retrieval: A new benchmark for understanding the limits of neural network generalization
+https://arxiv.org/abs/2107.12580

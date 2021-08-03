@@ -759,3 +759,15 @@ github.com/tstanislawek/awesome-document-understanding
 
 《Primitive Representation Learning for Scene Text Recognition》(CVPR 2021) 
 github.com/RuijieJ/pren
+
+RewriteNet: Realistic Scene Text Image Generation via Editing Text in Real-world Image
+https://arxiv.org/abs/2107.11041
+
+### Eynollah：文档版面分析
+github.com/qurator-spk/eynollah
+
+CTCResources：中文文本校正(纠错)相关资源大列表
+github.com/destwang/CTCResources
+
+### ICDAR 2021科学文献解析比赛第二名方案
+github.com/JiaquanYe/TableMASTER-mmocr 

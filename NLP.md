@@ -452,3 +452,6 @@ github.com/AmarSaini/Epoching-Blog/blob/master/_notebooks/2021-06-27-NLP-from-Sc
 
 NLPer-Arsenal - 收录NLP相关竞赛经验贴、NLP会议时间、常用自媒体、GPU推荐等
 github.com/TingFree/NLPer-Arsenal
+
+GPT-Code-Clippy (GPT-CC)：开源版GitHub Copilot，用基于GPT-3的模型自动补全代码
+github.com/ncoop57/gpt-code-clippy

@@ -682,3 +682,46 @@ https://theairlab.org/trajair/
 
 ### Multi-HT100M：HowTo100M数据集的多语言描述数据
 github.com/berniebear/Multi-HT100M
+
+Habitat：3D空间研究数据集
+github.com/matterport/habitat-matterport-3dresearch
+
+3D重建/3D深度学习数据集列表
+github.com/sunbuny/3D-Recon_3D-DL_Datasets
+
+CO3D数据集工具包
+github.com/facebookresearch/co3d 
+
+Animal Pose dataset：动物姿态数据集
+github.com/noahcao/animal-pose-dataset
+
+### “Common Sense AI”常识数据集
+https://arxiv.org/abs/2102.12321
+https://www.marktechpost.com/2021/07/20/researchers-from-ibm-mit-and-harvard-announced-the-release-of-its-darpa-common-sense-ai-dataset-along-with-two-machine-learning-models-at-icml-2021/
+
+ONCE Benchmark：无人驾驶3D目标检测数据集
+github.com/PointsCoder/ONCE_Benchmark
+
+细粒度情感数据集
+github.com/jerbarnes/finegrained_data
+
+PASTIS：全景农业卫星语义分割农业地块时序数据集
+github.com/VSainteuf/pastis-benchmark
+
+Language-annotated Abstraction and Reasoning Corpus (LARC)：带语言标注摘要和推理语料库
+github.com/samacqua/LARC
+
+### GMOT-40 Benchmark：通用多目标追踪数据集
+github.com/Spritea/GMOT40
+
+遥感数据集大列表
+github.com/zhangbin0917/Awesome-Remote-Sensing-Dataset
+
+EasyCom: 面向嘈杂环境通信算法的增强现实数据集
+github.com/facebookresearch/EasyComDataset
+
+Multi-Modal-CelebA-HQ：大规模多模态人脸图像数据集，包括30,000张选自CelebA-HQ的高分辨率人脸图像，每个图像都有高质量的分割掩膜、草图、描述性文本和具有透明背景的图像
+github.com/IIGROUP/Multi-Modal-CelebA-HQ-Dataset
+
+建筑分布数据集
+https://sites.research.google/open-buildings/
