@@ -840,3 +840,22 @@ github.com/executablebooks/mdformat
 
 Muboard：数学白板，支持Markdown & LaTeX格式的共识的快速展示
 github.com/susam/muboard
+
+mlnotify：模型训练结束第一时间发送通知的Python库
+github.com/aporia-ai/mlnotify
+
+伦敦一位开发者将自己平时常用的 Mac 软件及工具统一整理后放到 GitHub 上了，其中包括不少可提升生产力和开发效率的工具，不少也是我平时一直在用的，用 macOS 的同学可以看看。
+github.com/nikitavoloboev/my-mac-os ​​​​
+
+OnlineJudge，青岛大学开源的一款在线评测系统，基于 Python 与 Vue 编写而成。
+主要拥有以下特性：
+- 基于 Docker，真正一键部署；
+- 前后端分离，模块化编程，微服务；
+- ACM/OI 两种比赛模式、实时/非实时评判；
+- 丰富的可视化图表；
+- 支持 Template Problem，可添加函数题甚至填空题；
+- 管理员权限划分；
+- 多语言支持；
+- Markdown & MathJax 支持；
+- 比赛用户 IP 限制 (CIDR ranges)。
+github.com/QingdaoU/OnlineJudge

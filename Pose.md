@@ -430,3 +430,12 @@ github.com/jonmatthis/freemocap
 
 BlendyPose：只用摄像头实现Blender动作捕捉(基于MediaPipe)
 github.com/zonkosoft/BlendyPose
+
+“3D捏人”新进展：稀疏约束的ProtoRes人体姿态深度建模
+unity-technologies.github.io/Labs/protores.html
+
+浏览器里的摄像头实时多人姿态检测与跟踪
+https://storage.googleapis.com/tfjs-models/demos/pose-detection/index.html?model=movenet&type=multipose
+
+VoxelPose: Towards Multi-Camera 3D Human Pose Estimation in Wild Environment
+github.com/microsoft/voxelpose-pytorch

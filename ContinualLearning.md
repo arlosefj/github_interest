@@ -81,3 +81,6 @@ github.com/tyler-hayes/Deep_SLDA
 
 ### Online Continual Learning：PyTorch实现的在线持续学习算法
 github.com/RaptorMai/online-continual-learning
+
+Continual Learning Papers：持续学习相关文献列表
+github.com/ContinualAI/continual-learning-papers

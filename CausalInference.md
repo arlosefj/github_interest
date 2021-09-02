@@ -81,3 +81,12 @@ github.com/zhijing-jin/Causality4NLP_Papers
 
 PyCID: 基于pgmpy的因果影响图库
 github.com/causalincentives/pycid
+
+### EconML/CausalML机器学习因果推理实战教程
+github.com/causal-machine-learning/kdd2021-tutorial 
+
+免费书：因果推理轻松入门
+matheusfacure.github.io/python-causality-handbook/landing-page.html
+
+免费书(讲义)：《因果推理导论：机器学习视角》
+https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf

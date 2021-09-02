@@ -1030,3 +1030,13 @@ github.com/happy-jihye/Cartoon-StyleGan2
 
 Pointer Value Retrieval: A new benchmark for understanding the limits of neural network generalization
 https://arxiv.org/abs/2107.12580
+
+(Colab) 用VQGAN + CLIP创建逼真的生成图像
+https://colab.research.google.com/drive/1wkF67ThUz37T2_oPIuSwuO4e_-0vjaLs?usp=sharing
+
+Online Multi-Granularity Distillation for GAN Compression
+github.com/bytedance/OMGD
+![](https://wx2.sinaimg.cn/mw690/5396ee05ly1gtloonsrdhj20pp0arjus.jpg)
+
+GAN Inversion for Out-of-Range Images with Geometric Transformations
+https://arxiv.org/abs/2108.08998

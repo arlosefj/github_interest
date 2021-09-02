@@ -725,3 +725,36 @@ github.com/IIGROUP/Multi-Modal-CelebA-HQ-Dataset
 
 建筑分布数据集
 https://sites.research.google/open-buildings/
+
+### CLIP 数据集 #TODO
+https://ai.google.com/research/ConceptualCaptions/download
+
+NLPDataSet - 个人整理的一些数据集
+github.com/liucongg/NLPDataSet
+
+fast.ai发布的数据集/档案快速下载、验证和提取库
+https://fastdownload.fast.ai/
+
+Disfl-QA：针对问答上下文不流畅的数据集
+github.com/google-research-datasets/Disfl-QA
+
+Mapillary Street-level Sequences：大规模长时道路级地点识别数据集
+github.com/mapillary/mapillary_sls
+
+Zillow Indoor Dataset (ZInD)：室内场景视觉数据集
+github.com/zillow/zind
+
+D3D-HOI: 视频中动态3D人-物交互数据集
+github.com/facebookresearch/d3d-hoi
+
+LVIS：面向大词表实例分割(长尾目标识别)的数据集
+https://www.lvisdataset.org/
+
+ETH-MS localization dataset：面向视觉定位尤其是AR场景的数据集
+github.com/cvg/visloc-iccv2021
+
+面向高层次叙事结构长程理解研究的压缩电影数据集(CMD)与挑战
+https://www.robots.ox.ac.uk/~vgg/research/condensed-movies/challenge.html
+
+AP-10K：真实场景动物姿态估计基准
+github.com/AlexTheBad/AP-10K

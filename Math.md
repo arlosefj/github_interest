@@ -71,3 +71,6 @@ https://cindyjs.org/
 
 ### Manim-Tutorial：数学动画引擎manim教程 #TODO
 github.com/malhotra5/Manim-Tutorial
+
+交互式线性代数教程源码
+github.com/QBobWatson/ila

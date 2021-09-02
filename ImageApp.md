@@ -1070,3 +1070,12 @@ https://arxiv.org/abs/2107.12283
 
 Self-supervised Multisensor Change Detection
 https://arxiv.org/abs/2103.05102
+
+MUSIQ: Multi-scale Image Quality Transformer
+github.com/google-research/google-research/tree/master/musiq 
+
+WaterDetect：端到端水文检测算法
+github.com/cordmaur/WaterDetect
+
+PaddlePaddle Vision Transformers：PaddlePaddle视觉Transformer(ViT)/MLP模型库
+github.com/BR-IDL/PaddleViT

@@ -1417,3 +1417,38 @@ github.com/IQTLabs/FakeFinder
 
 边做边学：将实战项目融入机器学习课程
 https://arxiv.org/abs/2107.13671
+
+《Python可解释的机器学习实战》随书代码】
+github.com/PacktPublishing/Interpretable-Machine-Learning-with-Python
+
+### Prophecis：一站式机器学习平台
+github.com/WeBankFinTech/Prophecis
+
+数据降维短期课程资料
+github.com/anastasiospanagiotelis/DimensionReduction
+
+Vehicle Evolver Deluxe：基于遗传算法的车辆进化
+github.com/Bauxitedev/vehicle_evolver_deluxe
+
+Python模型可解释性实践入门
+towardsdatascience.com/mastering-model-explainability-in-python-4e578206e000
+
+Know Your Data数据集探索案例研究
+https://ai.googleblog.com/2021/08/a-dataset-exploration-case-study-with.html
+
+learning-machine：机器学习手册(免费书)
+github.com/rentruewang/learning-machine
+
+机器学习思维导图，整理了从数据分析到深度学习相关的开发流程、技术概念、速查清单等知识点。
+github.com/dformoso/machine-learning-mindmap ​​​​
+
+机器学习数学路线图
+https://www.tivadardanka.com/blog/roadmap-of-mathematics-for-machine-learning
+![](https://wx3.sinaimg.cn/mw690/5396ee05ly1gtib8ng4o9j21ww2pghdu.jpg)
+
+数据分析项目库：bigdata_analyse，收集了多个数据分析项目集合。
+每个项目都会包含一个友好的说明文档，用来阐述和展示整个开发流程。同时也会提供相关的数据集，以供下载练习。
+github.com/TurboWay/bigdata_analyse ​​​​
+
+多标签分类技巧集
+https://andy-wang.medium.com/bags-of-tricks-for-multi-label-classification-dc54b87f79ec

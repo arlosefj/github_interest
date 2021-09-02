@@ -604,3 +604,24 @@ github.com/KuangDD/ttskit
 
 Chinese mandarin text to speech (MTTS)  中文 (普通话) 语音 合成 , by fastspeech 2 , implemented in pytorch, using waveglow as vocoder, with biaobei and aishell3 datasets #TODO
 github.com/ranchlai/mandarin-tts
+
+Common Voice Dataset：开源、多语言语音数据集
+github.com/common-voice/cv-dataset
+
+语音合成技术百花齐放，一篇综述带你全面梳理
+https://weibo.com/ttarticle/p/show?id=2309404668701587932163
+
+### Larynx：基于gruut & onnx的端到端文本语音合成系统
+github.com/rhasspy/larynx
+
+### Realtime-Voice-Clone-Chinese - AI拟声: 克隆您的声音并生成任意语音内容 
+github.com/babysor/Realtime-Voice-Clone-Chinese
+
+Speech Emotion Recognition：用 LSTM、CNN、SVM、MLP 进行语音情感识别，Keras 实现
+github.com/Renovamen/Speech-Emotion-Recognition
+
+ParallelTTS：快速语音合成模型，适用于英语、普通话/中文、日语、韩语、俄语和藏语（当前已测试）
+github.com/atomicoo/ParallelTTS
+
+Neural HMMs are all you need (for high-quality attention-free TTS)
+https://arxiv.org/abs/2108.13320

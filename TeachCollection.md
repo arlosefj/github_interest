@@ -10,3 +10,32 @@
 
 查全率与查准率
 ![](https://arloseimg.oss-cn-hangzhou.aliyuncs.com/20210224095702.png)
+
+Visualizer：辅助深度学习模型中Attention模块可视化的小工具
+github.com/luo3300612/Visualizer
+
+国内一位开发者整理的计算机科学学习笔记：CS-Xmind-Note。
+其中包含计算机组成原理、数据结构、计算机网络、操作系统等技术分类。内容整理得十分详细，是份很不错的学习参考资料。
+github.com/SSHeRun/CS-Xmind-Note ​​​​
+
+### 《深度学习：一种可视化方法》随书代码 #TODO
+https://nostarch.com/download/DeepLearning_Bonus.pdf
+github.com/blueberrymusic/Deep-Learning-A-Visual-Approach
+
+免费书：《机器学习与深度学习纲要》
+github.com/orico/www.mlcompendium.com
+
+监督学习流程完整版
+https://sebastianraschka.com/images/blog/2014/intro_supervised_learning/supervised_learning_highres.png
+![](https://wx2.sinaimg.cn/mw690/5396ee05ly1gtoncosthtj23ai3ivx2w.jpg)
+
+AI_Tutorial，主要整理了人工智能、机器学习、深度学习、搜索系统、推荐系统、广告系统等领域的学习资料。
+github.com/cbamls/AI_Tutorial ​​​​
+
+微软在 GitHub 上开源的一份计算机视觉指南：《Computer Vision Recipes》，提供了诸多可用于构建计算机视觉的代码示例与最佳实践准则。
+其目的是构建一套全面的开发工具与代码示例，以便更好推进计算机视觉算法、神经体系结构及相关系统的开发进展。
+在此其中，代码示例主要基于 Jupyter Notebook 和实际项目功能构建而成，并选用 PyTorch 作为其深度学习框架。
+github.com/microsoft/computervision-recipes
+
+“计算机视觉深度学习”课程(slides, google colab, and Anki decks)
+https://arthurdouillard.com/deepcourse/

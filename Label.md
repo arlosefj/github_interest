@@ -264,3 +264,19 @@ github.com/diegoaldarondo/Label3D
 
 MONAILabel：基于AI的医学图像标注CS系统
 github.com/Project-MONAI/MONAILabel
+
+small-text：主动学习文本分类库，可在小数据场景高效标记训练数据
+github.com/webis-de/small-text
+
+django-labeller：用于创建分割数据集的图像标记工具
+github.com/Britefury/django-labeller
+
+机器学习数据标注工具选用指南
+https://www.cloudfactory.com/data-annotation-tool-guide
+
+Label Studio，可用于标注音视频、文本、图像、时间序列等数据类型，并导出为多种模型格式。
+此外，该工具还支持多账号登录、流线型工作模式、可配置标签格式、集成机器学习模型、嵌入数据管道等功能。
+github.com/heartexlabs/label-studio ​​​​
+
+fast-annotation-tool：手机端快捷标注工具
+github.com/CyberAgent/fast-annotation-tool

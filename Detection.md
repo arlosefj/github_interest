@@ -979,3 +979,25 @@ github.com/FeiGeChuanShu/ncnn-android-yolox
 
 YOLOv5 汉化版
 github.com/wudashuo/yolov5
+
+《CBNetV2: A Composite Backbone Network Architecture for Object Detection
+github.com/VDIGPKU/CBNetV2 
+![](https://wx1.sinaimg.cn/mw690/5396ee05ly1gt5h6zik1tj20kf0sijxw.jpg)
+
+JDet：基于Jittor的目标检测框架
+github.com/Jittor/JDet
+
+### OBBDetection：基于MMdetection的目标检测库
+github.com/jbwang1997/OBBDetection
+
+Oriented R-CNN for Object Detection
+https://arxiv.org/abs/2108.05699
+![](https://photo.weibo.com/1402400261/wbphotos/large/mid/4672887308943847/pid/5396ee05ly1gtp6stwydwj21300mcdlt)
+
+TOOD: Task-aligned One-stage Object Detection
+github.com/fcjian/TOOD
+![](https://wx4.sinaimg.cn/mw690/5396ee05ly1gtqaydt0yrj20j00matda.jpg)
+
+AutoShape: Real-Time Shape-Aware Monocular 3D Object Detection
+github.com/zongdai/AutoShape
+![](https://wx2.sinaimg.cn/mw690/5396ee05ly1gtzkohh1nmj21300iz79k.jpg)

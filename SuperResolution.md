@@ -331,3 +331,6 @@ iterative-refinement.github.io/
 
 EGVSR-PyTorch：高效通用视频超分辨率
 github.com/Thmen/EGVSR
+
+SwinIR: Image Restoration Using Swin Transformer
+github.com/JingyunLiang/SwinIR

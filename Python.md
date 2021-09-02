@@ -770,3 +770,15 @@ https://blog.jupyter.org/jupyterlite-jupyter-%EF%B8%8F-webassembly-%EF%B8%8F-pyt
 
 面向数据科学的Pandas入门指南
 towardsdatascience.com/how-to-master-pandas-for-data-science-b8ab0a9b1042
+
+py，里面包含诸多 Python 开源脚本及程序代码，覆盖了 Python 基础与进阶、数据科学、调试工具、深度学习等知识点。
+github.com/codebasics/py
+
+Matplotlib官方速查与技巧集
+github.com/matplotlib/cheatsheets ​​​​
+
+Python3入门速查
+![](https://wx4.sinaimg.cn/mw690/5396ee05ly1gtpaexz490j20zk0qowu4.jpg)
+
+Python可视化和交互式面板(HoloViz)
+towardsdatascience.com/visualization-and-interactive-dashboard-in-python-c2f2a88b2ba3

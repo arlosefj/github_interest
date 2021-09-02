@@ -771,3 +771,41 @@ github.com/destwang/CTCResources
 
 ### ICDAR 2021科学文献解析比赛第二名方案
 github.com/JiaquanYe/TableMASTER-mmocr 
+
+Image to LaTeX，可将 LaTeX 公式图片，快速转换为可复制的 LaTeX 代码公式。
+github.com/kingyiusuen/image-to-latex ​​​​
+
+ICDAR 2021公式检测第一名方案
+github.com/Yuxiang1995/ICDAR2021_MFD
+
+Lights, Camera, Action! A Framework to Improve NLP Accuracy over OCR documents
+https://arxiv.org/abs/2108.02899
+
+### Genalog - 面向OCR研究的跨平台仿真降质文档图片合成器
+github.com/microsoft/genalog
+![](https://wx4.sinaimg.cn/mw1024/5396ee05ly1gtanwaqlnuj22d70ludsq.jpg)
+
+Awesome OCR，列举了一系列 OCR 相关的开发工具、开源项目、技术实现方案、数据集等诸多资源。
+github.com/zacharywhitley/awesome-ocr ​​​​
+
+MMOCR: A Comprehensive Toolbox for Text Detection, Recognition and Understanding
+github.com/open-mmlab/mmocr
+
+pix2tex - LaTeX OCR：将公式转换成LaTeX脚本
+github.com/lukas-blecher/LaTeX-OCR
+
+### AgentOCR：基于 PaddleOCR 和 ONNXRuntime 项目开发的使用简单、调用方便的 OCR 项目
+github.com/AgentMaker/AgentOCR
+
+PearOCR：在线图片转文字，免费OCR，在线图片文字提取
+https://pearocr.com/
+
+### LayoutReader: Pre-training of Text and Layout for Reading Order Detection
+https://arxiv.org/abs/2108.11591
+![](https://wx1.sinaimg.cn/mw690/5396ee05ly1gtx97oc8qkj20zt0emwib.jpg)
+
+chineseocr_lite，一款超轻量级中文 OCR，支持竖排文字识别，总模型仅 4.7M。
+github.com/DayBreak-u/chineseocr_lite ​​​​
+
+### 基于Transformer的文档布局解析
+github.com/NielsRogge/Transformers-Tutorials/tree/master/LayoutLMv2

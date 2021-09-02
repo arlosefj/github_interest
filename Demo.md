@@ -660,3 +660,14 @@ github.com/jby1993/BCNet
 reflective-clothes-detect-dataset、helemet detection yolov5、工作服(反光衣)检测数据集、安全帽检测、施工人员穿戴检测'
 github.com/gengyanlei/reflective-clothes-detect-yolov5
 
+YOLOv4 - ANPR/ALPR：基于YOLOv4, Tesseract, PaddleOCR的车牌识别项目
+github.com/Guiflayrom/ALPR-YOLOv4
+
+一个比较丰富的 C++ 库：Lite.AI，里面收录了 60 多个实用的 AI 模型，其中包含对象检测、人脸检测、风格迁移、人脸识别、图像分割、图像分类等类别。
+github.com/DefTruth/lite.ai
+​​​​
+Yolo-FastestV2：适用于移动设备的超轻量高性能Yolo目标检测库
+github.com/dog-qiuqiu/Yolo-FastestV2
+
+shufflev2-yolov5：更轻量、更快速、更易部署的yolov5改进版
+github.com/ppogg/shufflev2-yolov5

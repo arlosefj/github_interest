@@ -146,3 +146,9 @@ https://artigopapers.io/home/trending
 
 科研心得分享合集
 github.com/jbhuang0604/awesome-tips
+
+Arxiv Neural Search：基于Streamlit构建的Arxiv论文深度搜索Demo
+github.com/karndeb/Arxiv-Neural-Search
+
+论文阅读笔记 - 记录一些读过的论文，给出个人对论文的评分情况并简述论文insight
+github.com/curryandsun/neural_network_papers

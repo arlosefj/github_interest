@@ -280,3 +280,9 @@ github.com/tianqiraf/DouZero_For_HappyDouDiZhu
 
 YARR： PyTorch机器人/强化学习框架
 github.com/stepjam/YARR
+
+xagents：Tensorflow2可重用、可扩展、高性能强化学习算法迷你库
+github.com/schissmantics/xagents
+
+### 【深度强化学习基础(6讲)】
+https://www.bilibili.com/video/BV1kQ4y1Y7Gn/

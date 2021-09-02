@@ -715,3 +715,21 @@ github.com/dvgodoy/PyTorchStepByStep
 
 《PyTorch现代计算机视觉实战》随书代码
 github.com/PacktPublishing/Modern-Computer-Vision-with-PyTorch
+
+Opti Models - PyTorch optimizations and benchmarking
+github.com/IlyaDobrynin/opti_models
+
+《PyTorch计算机视觉实战》随书代码
+github.com/PacktPublishing/PyTorch-Computer-Vision-Cookbook
+
+《Getting Things Done with Pytorch》
+开发者可从该书中学到有关 PyTorch、神经网络、图像分类、人脸检测、情感分析等基础知识。
+从书中提供的具体示例，还能进一步了解项目从原型开发到模型部署，最后正式上线生产环境的整个流程。
+github.com/curiousily/Getting-Things-Done-with-Pytorc
+
+PyTorch入门教程：张量
+https://www.nbshare.io/notebook/28337708/PyTorch-Beginner-Tutorial-Tensors/
+
+### PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more
+https://github.com/rwightman/pytorch-image-models
+https://rwightman.github.io/pytorch-image-models/training_hparam_examples/

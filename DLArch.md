@@ -701,3 +701,15 @@ github.com/zhaoweicai/EdMIPS
 
 Query2Label: A Simple Transformer Way to Multi-Label Classification
 github.com/SlongLiu/query2labels
+
+深入浅出图深度学习
+ericmjl.github.io/essays-on-data-science/machine-learning/graph-nets/ 
+
+MicroNet: Improving Image Recognition with Extremely Low FLOPs
+github.com/liyunsheng13/micronet
+
+Smart Bird: Learnable Sparse Attention for Efficient and Effective Transformer
+https://arxiv.org/abs/2108.09193
+
+Bag of Tricks for Training Deeper Graph Neural Networks: A Comprehensive Benchmark Study
+github.com/VITA-Group/Deep_GCN_Benchmarking

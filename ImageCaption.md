@@ -913,3 +913,63 @@ github.com/microsoft/AutoML/tree/main/iRPE
 
 DETR注释版
 amaarora.github.io/2021/07/26/annotateddetr.html
+
+Cycle-Consistent Inverse GAN for Text-to-Image Synthesis
+条件styleGAN文本-》图像
+https://arxiv.org/abs/2108.01361
+
+Evo-ViT: Slow-Fast Token Evolution for Dynamic Vision Transformer
+https://arxiv.org/abs/2108.01390
+
+Vision Transformer with Progressive Sampling
+https://arxiv.org/abs/2108.01684
+![](https://wx3.sinaimg.cn/mw690/5396ee05ly1gt6m93iwzxj20j10k5tci.jpg)
+![](https://wx4.sinaimg.cn/mw690/5396ee05ly1gt6m93vrdhj21300iy7ab.jpg)
+
+PSViT: Better Vision Transformer via Token Pooling and Attention Sharing
+https://arxiv.org/abs/2108.03428
+![](https://wx4.sinaimg.cn/mw690/5396ee05ly1gtcfadzkkhj21220um136.jpg)
+
+The Right to Talk: An Audio-Visual Transformer Approach
+github.com/uark-cviu/Right2Talk
+![](https://wx1.sinaimg.cn/mw690/5396ee05ly1gtcfysvwjbj20j50i743e.jpg)
+![](https://wx2.sinaimg.cn/mw690/5396ee05ly1gtcfyt0o2gj21300esq80.jpg)
+
+RaftMLP: Do MLP-based Models Dream of Winning Over Computer Vision?
+github.com/okojoalg/raft-mlp
+![](https://wx1.sinaimg.cn/mw690/5396ee05ly1gtdlbug1h7j21300svdmn.jpg)
+
+计算机视觉Transformer应用文献资源集
+github.com/Yutong-Zhou-cv/Awesome-Transformer-in-CV
+
+Billion-Scale Pretraining with Vision Transformers for Multi-Task Visual Representations
+https://arxiv.org/abs/2108.05887
+![](https://wx3.sinaimg.cn/mw690/5396ee05ly1gtfx757zh8j21330it11k.jpg)
+
+Image Retrieval on Real-life Images with Pre-trained Vision-and-Language Models
+https://arxiv.org/abs/2108.04024
+![](https://wx3.sinaimg.cn/mw690/5396ee05ly1gti7xlz0v1j21300cn440.jpg)
+
+多尺度视觉Transformer：视觉数据建模架构
+https://ai.facebook.com/blog/multiscale-vision-transformers-an-architecture-for-modeling-visual-data/
+![](https://wx4.sinaimg.cn/mw690/5396ee05ly1gtew5n3a7zj210s0kkmz3.jpg)
+
+tldr-transformers：Transformer论文笔记集
+github.com/will-thompson-k/tldr-transformers
+
+Mobile-Former: Bridging MobileNet and Transformer
+https://arxiv.org/abs/2108.05895
+![](https://wx4.sinaimg.cn/mw690/5396ee05ly1gtfw86d0hmj20j50of0wg.jpg)
+
+Screen2Words: Automatic Mobile UI Summarization with Multimodal Learning
+github.com/google-research/google-research/tree/master/screen2words
+
+ROSITA: Enhancing Vision-and-Language Semantic Alignments via Cross- and Intra-modal Knowledge Integration
+github.com/MILVLG/rosita
+![](https://wx4.sinaimg.cn/mw690/5396ee05ly1gtkixx3frqj20jg0kq0yk.jpg)
+![](https://wx1.sinaimg.cn/mw690/5396ee05ly1gtkixxcsqmj20jc0dmn0p.jpg)
+
+Visual Distant Supervision for Scene Graph Generation ICCV 2021
+CV的场景图构建与NLP中的关系抽取任务很相似，能把RE常用的Distant Supervision思想迁移到CV场景图构建上
+github.com/thunlp/VisualDS
+![](https://wx3.sinaimg.cn/mw690/001B6Pnxgy1gtqji3vhw7j60ie0kegv202.jpg)

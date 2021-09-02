@@ -266,3 +266,15 @@ github.com/fengdu78/WZU-machine-learning-course
 
 UCAS_Course_2019 - 中国科学院大学2019-2020课程（秋季，春季，夏季）
 github.com/HuangCongQing/UCAS_Course_2019
+
+斯坦福CS 124《从语言到信息》(2021)课程
+https://www.bilibili.com/video/BV1kM4y1N7A2/
+
+大学机器学习/深度学习进阶课程列表
+https://docs.google.com/spreadsheets/d/1KYJ9Z8f76WZGYpT2E5sjr5gL-O35Lpjm-SMmU00fplk/edit#gid=0
+
+《几何深度学习》课程(AMMI 2021)
+https://www.bilibili.com/video/BV17y4y1L7aX/
+
+斯坦福新课：实践机器学习
+https://c.d2l.ai/stanford-cs329p/

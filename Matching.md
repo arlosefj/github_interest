@@ -190,3 +190,18 @@ github.com/luna983/stitch-aerial-photos
 
 《Patch-NetVLAD: Multi-Scale Fusion of Locally-Global Descriptors for Place Recognition》(CVPR 2021) 
 github.com/QVPR/Patch-NetVLAD
+
+Dense Matching：PyTorch通用密集匹配库
+github.com/PruneTruong/DenseMatching
+
+PyTorch遥感图像变化检测库
+github.com/likyoo/change_detection.pytorch
+
+《MTVR: Multilingual Moment Retrieval in Videos》
+github.com/jayleicn/mTVRetrieval
+
+CIRR：基于真实图像的组合图像检索数据集
+github.com/Cuberick-Orion/CIRR
+
+图像取证工具：Sherloq，可对图像具体信息进行提取、分析、比对，并以此检测图像是否被篡改或伪造，功能颇为强大。
+github.com/GuidoBartoli/sherloq ​​​​

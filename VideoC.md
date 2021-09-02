@@ -292,3 +292,13 @@ github.com/MenghaoGuo/EANet
 
 DMVR: DeepMind视频数据读取模块
 github.com/deepmind/dmvr
+
+Video Contrastive Learning with Global Context
+github.com/amazon-research/ video-contrastive-learning
+
+Token Shift Transformer for Video Classification
+github.com/VideoNetworks/TokShift-Transformer
+
+### AutoVideo: 自动视频动作识别系统
+github.com/datamllab/autovideo
+![](https://wx4.sinaimg.cn/mw690/5396ee05ly1gtd28jmqn1j21eu19m4ew.jpg)

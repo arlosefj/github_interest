@@ -470,3 +470,255 @@ InDomainGeneralizationBenchmark
 《Multilingual Byte2Speech Models for Scalable Low-resource Speech Synthesis》(2021) GitHub: https://github.com/mutiann/few-shot-transformer-tts
 《Did You Ask a Good Question? A Cross-Domain Question IntentionClassification Benchmark for Text-to-SQL》(2020) GitHub: https://github.com/chatc/TriageSQL
 《Fast Patch-Free Global Learning Framework for Fully End-to-End Hyperspectral Image Classification》(2020) GitHub: https://github.com/Z-Zheng/FreeNet ![fig5](https://wx4.sinaimg.cn/mw690/5396ee05ly1gt2lczjo06j213b0hg7l4.jpg)
+《Common Sense Beyond English: Evaluating and Improving Multilingual LMs for Commonsense Reasoning》(ACL 2021) GitHub:https:// github.com/INK-USC/XCSR
+《OpenGAN: Open-Set Recognition via Open Data Generation》(ICCV 2021) GitHub:https:// github.com/aimerykong/OpenGAN
+《HodgeNet: Learning Spectral Geometry on Triangle Meshes》(SIGGRAPH 2021) GitHub:https:// github.com/dmsm/HodgeNet
+《Unsupervised 3D Human Mesh Recovery from Noisy Point Clouds》(2021) GitHub:https:// github.com/wangsen1312/unsupervised3dhuman
+《ViT-V-Net: Vision Transformer for Volumetric Medical Image Registration》(2021) GitHub:https:// github.com/junyuchen245/ViT-V-Net_for_3D_Image_Registration_Pytorch
+《Knowledge Neurons in Pretrained Transformers》(2021) GitHub:https:// github.com/EleutherAI/knowledge-neurons
+《Learning transferable visual models from natural language supervision》(2021) GitHub:https:// github.com/Zasder3/train-CLIP-FT
+《Unified learning approach for egocentric hand gesture recognition and fingertip detection》(2021) GitHub:https:// github.com/MahmudulAlam/Unified-Gesture-and-Fingertip-Detection ![fig5]（https://wx2.sinaimg.cn/mw690/5396ee05ly1gt3il0nt7zj21130afafc.jpg）
+《GLOD: Gaussian Likelihood Out of Distribution Detector》(2020) GitHub:https:// github.com/guyAmit/GLOD
+《TadGAN: Time Series Anomaly Detection Using Generative Adversarial Networks》(2020) GitHub:https:// github.com/arunppsg/TadGAN
+《Improving Named Entity Recognition by External Context Retrieving and Cooperative Learning》(ACL 2021) GitHub:https:// github.com/Alibaba-NLP/CLNER
+《Read, Listen, and See: Leveraging Multimodal Information Helps Chinese Spell Checking》(ACL 2021) GitHub:https:// github.com/DaDaMrX/ReaLiSe
+《Proteno: Text Normalization with Limited Data for Fast Deployment in Text to Speech Systems》(NAACL 2021) GitHub:https:// github.com/amazon-research/proteno
+《Weisfeiler and Lehman Go Topological: Message Passing Simplicial Networks》(ICML 2021) GitHub:https:// github.com/twitter-research/cwn
+《Toward Spatially Unbiased Generative Models》(ICCV 2021) GitHub:https:// github.com/jychoi118/toward_spatial_unbiased
+《DETReg: Unsupervised Pretraining with Region Priors for Object Detection》(2021) GitHub:https:// github.com/amirbar/DETReg ![fig1](https://wx1.sinaimg.cn/mw690/5396ee05ly1gt4op35yotj20xx08ytjk.jpg)
+《SDEdit: Image Synthesis and Editing with Stochastic Differential Equations》(2021) GitHub:https:// github.com/ermongroup/SDEdit
+《Remote Sensing Change Detection Based on Multidirectional Adaptive Feature Fusion and Perceptual Similarity》(2021) GitHub:https:// github.com/wzjialang/MFPNet
+《Are Convolutional Neural Networks or Transformers more like human vision?》(2021) GitHub:https:// github.com/shikhartuli/cnn_txf_bias
+《HumBugDB: a large-scale acoustic mosquito dataset》(2021) GitHub:https:// github.com/HumBug-Mosquito/HumBugDB
+《Hierarchical Metadata-Aware Document Categorization under Weak Supervision》(2021) GitHub:https:// github.com/yuzhimanhua/HIMECat
+《Text2Event: Controllable Sequence-to-Structure Generation for End-to-end Event Extraction》(2021) GitHub:https:// github.com/luyaojie/Text2Event
+《Neural Architecture Search with Random Labels》(2021) GitHub:https:// github.com/megvii-model/RLNAS
+《Foley Music: Learning to Generate Music from Videos 》(ECCV 2020) GitHub:https:// github.com/chuangg/Foley-Music
+《Viewmaker Networks: Learning Views for Unsupervised Representation Learning》(2020) GitHub:https:// github.com/alextamkin/viewmaker
+《AdaAttN: Revisit Attention Mechanism in Arbitrary Neural Style Transfer》(ICCV 2021) GitHub:https:// github.com/Huage001/AdaAttN ![fig2](https://wx3.sinaimg.cn/mw690/5396ee05ly1gt7zmor40qj20hf0mje5p.jpg)
+《Vision Transformer with Progressive Sampling》(ICCV 2021) GitHub:https:// github.com/yuexy/PS-ViT ![FIG5](https://wx1.sinaimg.cn/mw690/5396ee05ly1gt9kdr37znj216s0fpdp3.jpg)
+《Instance Similarity Learning for Unsupervised Feature Representation》(ICCV 2021) GitHub:https:// github.com/ZiweiWangTHU/ISL
+《Improving Contrastive Learning by Visualizing Feature Transformation》(ICCV 2021) GitHub:https:// github.com/DTennant/CL-Visualizing-Feature-Transformation
+《HateCheck: Functional Tests for Hate Speech Detection Models》(ACL 2021) GitHub:https:// github.com/paul-rottger/hatecheck-data
+《Generating Query Focused Summaries from Query-Free Resources》(ACL 2021) GitHub:https:// github.com/yumoxu/marge
+《EMOPIA: A Multi-Modal Pop Piano Dataset For Emotion Recognition and Emotion-based Music Generation》(2021) GitHub:https:// github.com/annahung31/EMOPIA
+《An Improved Baseline for Sentence-level Relation Extraction》(2021) GitHub:https:// github.com/wzhouad/RE_improved_baseline
+《NeRD: Neural Reflectance Decomposition from Image Collections》(2020) GitHub:https:// github.com/cgtuebingen/NeRD-Neural-Reflectance-Decomposition
+《GNNGuard: Defending Graph Neural Networks against Adversarial Attacks》(NeurIPS 2020) GitHub:https:// github.com/mims-harvard/GNNGuard
+《Provably Efficient Online Hyperparameter Optimization with Population-Based Bandits》(NeurIPS 2020) GitHub:https:// github.com/jparkerholder/PB2
+《Selection via Proxy: Efficient Data Selection for Deep Learning》(ICLR 2020) GitHub:https:// github.com/stanford-futuredata/selection-via-proxy
+《Collective Multi-Type Entity Alignment Between Knowledge Graphs》(WWW 2020) GitHub:https:// github.com/GentleZhu/CG-MuAlign
+《Explore Image Deblurring via Encoded Blur Kernel Space》(CVPR 2021) GitHub:https:// github.com/VinAIResearch/blur-kernel-space-exploring ![FIG7](https://wx3.sinaimg.cn/mw690/5396ee05ly1gt6690ws02j216t0jh4ap.jpg)
+《VMNet: Voxel-Mesh Network for Geodesic-Aware 3D Semantic Segmentation》(ICCV 2021) GitHub:https:// github.com/hzykent/VMNet
+《Greedy Gradient Ensemble for Robust Visual Question Answering》(ICCV 2021) GitHub:https:// github.com/GeraldHan/GGE
+《Generalized Source-free Domain Adaptation》(ICCV 2021) GitHub:https:// github.com/Albert0147/G-SFDA
+《Self-Diagnosis and Self-Debiasing: A Proposal for Reducing Corpus-Based Bias in NLP》(2021) GitHub:https:// github.com/timoschick/self-debiasing
+《MixMo: Mixing Multiple Inputs for Multiple Outputs via Deep Subnetworks》(NeurIPS 2021) GitHub:https:// github.com/alexrame/mixmo-pytorch ![fig6](https://wx1.sinaimg.cn/mw690/5396ee05ly1gt65wteur5j21dm0s312z.jpg)
+《Synthetic 3D Data Generation Pipeline for Geometric Deep Learning in Architecture》(2021) GitHub:https:// github.com/CDInstitute/Building-Dataset-Generator
+《PRIN/SPRIN: On Extracting Point-wise Rotation Invariant Features》(2021) GitHub:https:// github.com/qq456cvb/SPRIN
+《Synthetic 3D Data Generation Pipeline for Geometric Deep Learning in Architecture》(2021) GitHub:https:// github.com/CDInstitute/Building-Dataset-Generator ![fig4](https://wx3.sinaimg.cn/mw690/5396ee05ly1gt65vtpet7j23ie3h4hdy.jpg)
+《PHASER: A Robust and Correspondence-Free Global Pointcloud Registration》(2021) GitHub:https:// github.com/ethz-asl/phaser
+《Text-Based Ideal Points》(ACL 2020) GitHub:https:// github.com/keyonvafa/tbip
+《Attract, Perturb, and Explore: Learning a Feature Alignment Network for Semi-supervised Domain Adaptation》(ECCV 2020) GitHub:https:// github.com/TKKim93/APE
+《Domain Adaptive Imitation Learning》(2020) GitHub:https:// github.com/ermongroup/dail
+《Training Generative Adversarial Networks by Solving Ordinary Differential Equations》(2020) GitHub:https:// github.com/titu1994/pytorch_odegan
+《SelfAugment: Automatic Augmentation Policies for Self-Supervised Learning》(2020) GitHub:https:// github.com/cjrd/selfaugment
+《Domain Consensus Clustering for Universal Domain Adaptation》(CVPR 2021) GitHub:https:// github.com/Solacex/Domain-Consensus-Clustering
+《Neural Scene Graphs for Dynamic Scene》(CVPR 2021) GitHub:https:// github.com/princeton-computational-imaging/neural-scene-graphs
+《Generalizable Mixed-Precision Quantization via Attribution Rank Preservation》(ICCV 2021) GitHub:https:// github.com/ZiweiWangTHU/GMPQ
+《Are we really making much progress? Revisiting, benchmarking and refining the Heterogeneous Graph Neural Networks》(KDD 2021) GitHub:https:// github.com/THUDM/HGB
+《YOLOX: Exceeding YOLO Series in 2021》(2021) GitHub:https:// github.com/MegEngine/YOLOX ![fig2](https://wx3.sinaimg.cn/mw690/5396ee05ly1gtas2u65q6j21vv0bs7wh.jpg)
+《FedScale: Benchmarking Model and System Performance of Federated Learning》(2021) GitHub:https:// github.com/SymbioticLab/FedScale
+《Marius: Learning Massive Graph Embeddings on a Single Machine》(2021) GitHub:https:// github.com/marius-team/marius
+《Neural Marching Cubes》(2021) GitHub:https:// github.com/czq142857/NMC
+《Fair Generative Modeling via Weak Supervision》(ICML 2020) GitHub:https:// github.com/ermongroup/fairgen
+《Contrastive Learning for Many-to-many Multilingual Neural Machine Translation》(ACL 2021) GitHub:https:// github.com/PANXiao1994/mRASP2
+《Unifying Nonlocal Blocks for Neural Networks》(ICCV 2021) GitHub:https:// github.com/zh460045050/SNL_ICCV2021 ![fig1](https://wx3.sinaimg.cn/mw690/5396ee05ly1gt76bb8xs7j21z40ky4po.jpg)
+《Implicit Internal Video Inpainting》(ICCV 2021) GitHub:https:// github.com/Tengfei-Wang/Implicit-Internal-Video-Inpainting [FIG4](https://wx4.sinaimg.cn/mw690/5396ee05ly1gt78e4vd9gj21ag0umqv5.jpg)
+《Image Collation: Matching illustrations in manuscripts》(ICDAR 2021) GitHub:https:// github.com/Rykoua/ImageCollation
+《Essentials for Class Incremental Learning》(2021) GitHub:https:// github.com/sud0301/essentials_for_CIL
+《Video Contrastive Learning with Global Context》(2021) GitHub:https:// github.com/amazon-research/video-contrastive-learning
+《H3D-Net: Few-Shot High-Fidelity 3D Head Reconstruction》(2021) GitHub:https:// github.com/CrisalixSA/h3ds
+《SPPL: Probabilistic Programming with Fast Exact Symbolic Inference》(2021) GitHub:https:// github.com/probcomp/sppl
+《Causal autoregressive flows》(2021) GitHub:https:// github.com/piomonti/carefl
+《DONeRF Towards Real-Time Rendering of Compact Neural Radiance Fields using Depth Oracle Networks》(2021) GitHub:https:// github.com/facebookresearch/DONERF
+《MQBench: Towards Reproducible and Deployable Model Quantization Benchmark》(2021) GitHub:https:// github.com/TheGreatCold/mqbench
+《ABCNet v2: Adaptive Bezier-Curve Network for Real-time End-to-end Text Spotting》(2021) GitHub:https:// github.com/Yuliang-Liu/ABCNet_Chinese
+《The Adapter-Bot: All-In-One Controllable Conversational Model》(2020) GitHub:https:// github.com/HLTCHKUST/adapterbot
+《ClassSR: A General Framework to Accelerate Super-Resolution Networks by Data Characteristic》(CVPR 2021) GitHub:https:// github.com/Xiangtaokong/ClassSR
+《BoxInst: High-Performance Instance Segmentation with Box Annotations》(CVPR 2021) GitHub:https:// github.com/wangbo-zhao/OpenMMLab-BoxInst
+《Multi-View Multi-Person 3D Pose Estimation with Plane Sweep Stereo》(CVPR 2021) GitHub:https:// github.com/jiahaoLjh/PlaneSweepPose ![fig5](https://wx1.sinaimg.cn/mw690/5396ee05ly1gtbmrv6k8jj21dl0pidv3.jpg)
+《Uncertainty Estimation and Calibration with Finite-State Probabilistic RNNs》(ICLR 2021) GitHub:https:// github.com/nec-research/st_tau
+《Paint Transformer: Feed Forward Neural Painting with Stroke Prediction》(ICCV 2021) GitHub:https:// github.com/Huage001/PaintTransformer ![fig2](https://wx3.sinaimg.cn/mw690/5396ee05ly1gtbkoyayazj20xf0e9nhr.jpg)
+《Transporting Causal Mechanisms for Unsupervised Domain Adaptation》(ICCV 2021) GitHub:https:// github.com/yue-zhongqi/tcm
+《Advanced Dropout: A Model-free Methodology for Bayesian Dropout Optimization》(TPAMI 2021) GitHub:https:// github.com/PRIS-CV/AdvancedDropout
+《Tracing Versus Freehand for Evaluating Computer-Generated Drawings》(SIGGRAPH  2021) GitHub:https:// github.com/zachzeyuwang/tracing-vs-freehand
+《Daft-Exprt: Robust Prosody Transfer Across Speakers for Expressive Speech Synthesis》(2021) GitHub:https:// github.com/keonlee9420/Daft-Exprt
+《UACANet: Uncertainty Aware Context Attention for Polyp Segmentation》(2021) GitHub:https:// github.com/plemeri/UACANet
+《nn-Meter: Towards Accurate Latency Prediction of Deep-Learning Model Inference on Diverse Edge Devices》(2021) GitHub:https:// github.com/microsoft/nn-Meter
+《The Devil is in the Channels: Mutual-Channel Loss for Fine-Grained Image Classification》(TIP 2020) GitHub:https:// github.com/PRIS-CV/Mutual-Channel-Loss
+《Slotrefine: A fast non-autoregressive model for joint intent detection and slot filling》(EMNLP 2020) GitHub:https:// github.com/moore3930/SlotRefine
+《Feature Learning in Infinite-Width Neural Networks》(2020) GitHub:https:// github.com/edwardjhu/TP4
+《ACSC: Automatic Calibration for Non-repetitive Scanning Solid-State LiDAR and Camera Systems》(2020) GitHub:https:// github.com/HViktorTsoi/ACSC
+《Contrastive Learning for Compact Single Image Dehazing》(CVPR 2021) GitHub:https:// github.com/GlassyWu/AECR-Net
+《Neural Scene Graphs for Dynamic Scene》(CVPR 2021) GitHub:https:// github.com/princeton-computational-imaging/neural-scene-graphs
+《Bayesian Algorithm Execution: Estimating Computable Properties of Black-box Functions Using Mutual Information》(ICML 2021) GitHub:https:// github.com/willieneis/bayesian-algorithm-execution
+《Database Reasoning Over Text》(ACL 2021) GitHub:https:// github.com/facebookresearch/NeuralDB
+《Instantaneous Grammatical Error Correction with Shallow Aggressive Decoding》(ACL 2021) GitHub:https:// github.com/AutoTemp/Shallow-Aggressive-Decoding
+《Disentangled Lifespan Face Synthesis》(ICCV 2021) GitHub:https:// github.com/SenHe/DLFS
+《Graph Convolutional Networks for Hyperspectral Image Classification》(2021) GitHub:https:// github.com/danfenghong/IEEE_TGRS_GCN ![fig1](https://wx4.sinaimg.cn/mw690/5396ee05ly1gtcygjfoy0j21dm0v74qp.jpg)
+《An Effective Loss Function for Generating 3D Models from Single 2D Image without Rendering》(2021) GitHub:https:// github.com/NikolaZubic/2dimageto3dmodel
+《What Matters in Learning from Offline Human Demonstrations for Robot Manipulation》(2021) GitHub:https:// github.com/ARISE-Initiative/robomimic
+《Towers of Babel: Combining Images, Language, and 3D Geometry for Learning Multimodal Vision》(ICCV 2021) GitHub:https:// github.com/tgxs002/wikiscenes
+《AI Choreographer: Music Conditioned 3D Dance Generation with AIST++》(ICCV 2021) GitHub:https:// github.com/google-research/mint
+《Consistent Depth of Moving Objects in Video》(SIGGRAPH 2021) GitHub:https:// github.com/google/dynamic-video-depth
+《ASOD60K:Audio-Induced Salient Object Detection in Panoramic Videos》(2021) GitHub:https:// github.com/PanoAsh/ASOD60K
+《3D Point Cloud Registration with Multi-Scale Architecture and Self-supervised Fine-tuning》(2021) GitHub:https:// github.com/humanpose1/MS-SVConv
+《Flow Network based Generative Models for Non-Iterative Diverse Candidate Generation》(2021) GitHub:https:// github.com/bengioe/gflownet
+《Summary Explorer: Visualizing the State of the Art in Text Summarization》(2021) GitHub:https:// github.com/webis-de/summary-explorer
+《Pixel-Level Cycle Association: A New Perspective for Domain Adaptive Semantic Segmentation》(NeurIPS 2020) GitHub:https:// github.com/kgl-prml/Pixel-Level-Cycle-Association
+《S2-BNN: Bridging the Gap Between Self-Supervised Real and 1-bit Neural Networks via Guided Distribution Calibration》(CVPR 2021) GitHub:https:// github.com/szq0214/S2-BNN
+《Recurrent Multi-view Alignment Network for Unsupervised Surface Registration》(CVPR 2021) GitHub:https:// github.com/WanquanF/RMA-Net
+《VSPW: A Large-scale Dataset for Video Scene Parsing in the Wild》(CVPR 2021) GitHub:https:// github.com/sssdddwww2/CVPR2021_VSPW_Implement
+《Paint Transformer: Feed Forward Neural Painting with Stroke Prediction》(ICCV 2021) GitHub:https:// github.com/wzmsltw/PaintTransformer ![fig2](https://wx3.sinaimg.cn/mw690/5396ee05ly1gthcu0z5hej20xf0e9nhr.jpg)
+《Dynamic Divide-and-Conquer Adversarial Training for Robust Semantic Segmentation》(ICCV 2021) GitHub:https:// github.com/dvlab-research/Robust-Semantic-Segmentation ![fig7](https://wx3.sinaimg.cn/mw690/5396ee05ly1gthk8wapa1j20u20dcaj7.jpg)
+《LIGA-Stereo: Learning LiDAR Geometry Aware Representations for Stereo-based 3D Detector》(ICCV 2021) GitHub:https:// github.com/xy-guo/LIGA-Stereo
+《HRT: High-Resolution Transformer for Dense Prediction》(2021) GitHub:https:// github.com/HRNet/HRFormer ![fig1](https://wx1.sinaimg.cn/mw690/5396ee05ly1gthcqpi3e0j233g0xox23.jpg)
+《CAMS: Color-Aware Multi-Style Transfer》(2021) GitHub:https:// github.com/mahmoudnafifi/color-aware-style-transfer ![fig8](https://wx4.sinaimg.cn/mw690/5396ee05ly1gthk9to4mhj210l08a133.jpg)
+《To fit or not to fit: Model-based Face Reconstruction and Occlusion Segmentation from Weak Supervision》(2021) GitHub:https:// github.com/unibas-gravis/Occlusion-Robust-MoFA
+《Listening to Sound of Silence for Speech Denoising》(NeurIPS 2020) GitHub:https:// github.com/henryxrl/Listening-to-Sound-of-Silence-for-Speech-Denoising ![fig5](https://wx3.sinaimg.cn/mw690/5396ee05ly1gthhe9zf3rj24b013t1ky.jpg)
+《Perceiving 3D Human-Object Spatial Arrangements from a Single Image in the Wild》(ICCV 2020) GitHub:https:// github.com/hassony2/homan
+《Improving Graph Neural Network Expressivity via Subgraph Isomorphism Counting》(2020) GitHub:https:// github.com/gbouritsas/graph-substructure-networks
+《Objects Are Different: Flexible Monocular 3D Object Detection》(CVPR 2021) GitHub:https:// github.com/zhangyp15/MonoFlex
+《Parametric Contrastive Learning》(ICCV 2021) GitHub:https:// github.com/dvlab-research/Parametric-Contrastive-Learning
+《Scalable Visual Transformers with Hierarchical Pooling》(ICCV 2021) GitHub:https:// github.com/MonashAI/HVT ![fig1](https://wx1.sinaimg.cn/mw690/5396ee05ly1gtik6baanuj21zk0l04av.jpg)
+《On Generating Transferable Targeted Perturbations》(NeurIPS 2021) GitHub:https:// github.com/Muzammal-Naseer/TTP ![fig2](https://wx1.sinaimg.cn/mw690/5396ee05ly1gtil27uidej22al0s61ky.jpg)
+《Hurdles to Progress in Long-form Question Answering》(NAACL 2021) GitHub:https:// github.com/martiansideofthemoon/hurdles-longform-qa
+《Attention-guided Temporally Coherent Video Object Matting》(2021) GitHub:https:// github.com/yunkezhang/TCVOM
+《Extreme Rotation Estimation using Dense Correlation Volumes》(CVPR 2021) GitHub:https:// github.com/RuojinCai/ExtremeRotation_code ![fig1]https://wx4.sinaimg.cn/mw690/5396ee05ly1gte367970yj20pm077ach.jpg
+《Practical Single-Image Super-Resolution Using Look-Up Table》(CVPR 2021) GitHub:https:// github.com/yhjo09/SR-LUT
+《A Unified Generative Framework for Aspect-Based Sentiment Analysis》(ACL 2021) GitHub:https:// github.com/yhcc/BARTABSA
+《Stereo Waterdrop Removal with Row-wise Dilated Attention》(IROS 2021) GitHub:https:// github.com/VivianSZF/Stereo-Waterdrop-Removal ![fig2](https://wx4.sinaimg.cn/mw690/5396ee05ly1gte379jvzuj20yg0jodlp.jpg)
+《Fast Weakly Supervised Action Segmentation Using Mutual Consistency》(TPAMI 2021) GitHub:https:// github.com/yassersouri/MuCon ![fig3](https://wx4.sinaimg.cn/mw690/5396ee05ly1gte8vxu27lj20uj0cu3zv.jpg)
+《MLP Singer: Towards Rapid Parallel Korean Singing Voice Synthesis》(2021) GitHub:https:// github.com/CODEJIN/MLPSinger
+《Deep Hierarchical Representation of Point Cloud Videos via Spatio-Temporal Decomposition》(2021) GitHub:https:// github.com/hehefan/PSTNet2
+《CoaT: Co-Scale Conv-Attentional Image Transformers》(2021) GitHub:https:// github.com/mlpc-ucsd/CoaT
+《TDANet: Text-Guided Neural Image Inpainting》(2020) GitHub:https:// github.com/idealwhite/tdanet
+《Linguistic Structures as Weak Supervision for Visual Scene Graph Generation》(CVPR 2021) GitHub:https:// github.com/yekeren/WSSGG ![fig6](https://wx1.sinaimg.cn/mw690/5396ee05ly1gtfe209o8pj21el0ffnls.jpg)
+《Vision-Language Transformer and Query Generation for Referring Segmentation》(ICCV 2021) GitHub:https:// github.com/henghuiding/Vision-Language-Transformer
+《CM-NAS: Cross-Modality Neural Architecture Search for Visible-Infrared Person Re-Identification》(ICCV 2021) GitHub:https:// github.com/JDAI-CV/CM-NAS
+《Towards Interpretable Deep Metric Learning with Structural Matching》(ICCV 2021) GitHub:https:// github.com/wl-zhao/DIML ![fig2](https://wx4.sinaimg.cn/mw690/5396ee05ly1gtfanz4jokj219b0azae2.jpg)
+《PixelSynth: Generating a 3D-Consistent Experience from a Single Image》(ICCV 2021) GitHub:https:// github.com/crockwell/pixelsynth ![fig3](https://wx4.sinaimg.cn/mw690/5396ee05ly1gtfas707zrj21ky168npe.jpg)
+《Efficient Lottery Ticket Finding: Less Data is More》(ICML 2021) GitHub:https:// github.com/VITA-Group/PrAC-LTH
+《Editable Free-Viewpoint Video using a Layered Neural Representation》(SIGGRAPH  2021) GitHub:https:// github.com/DarlingHang/st-nerf ![fig5](https://wx2.sinaimg.cn/mw690/5396ee05ly1gtfdyeo1e1j233419ynpe.jpg)
+《DEMix Layers: Disentangling Domains for Modular Language Modeling》(2021) GitHub:https:// github.com/kernelmachine/demix-data
+《Progressive Coordinate Transforms for Monocular 3D Object Detection》(2021) GitHub:https:// github.com/amazon-research/progressive-coordinate-transforms
+《An Empirical Study of Training Self-Supervised Vision Transformers》(2021) GitHub:https:// github.com/ronghanghu/simclr_vit_profiling
+《R2D2: Recursive Transformer based on Differentiable Tree for Interpretable Hierarchical Language Modeling》(2021) GitHub:https:// github.com/alipay/StructuredLM_RTDT
+《Can contrastive learning avoid shortcut solutions?》(2021) GitHub:https:// github.com/joshr17/IFM ![fig4](https://wx2.sinaimg.cn/mw690/5396ee05ly1gtfba7ie4rj23vy0zvb2e.jpg)
+《Co-Tuning for Transfer Learning》(NeurIPS 2020) GitHub:https:// github.com/thuml/CoTuning
+《Context Modeling in 3D Human Pose Estimation: A Unified Perspective》(CVPR 2021) GitHub:https:// github.com/ShirleyMaxx/ContextPose-PyTorch-release ![fig8](https://wx3.sinaimg.cn/mw690/5396ee05ly1gtjrp7bbazj21e40oa4qi.jpg)
+《Heteroskedastic and Imbalanced Deep Learning with Adaptive Regularization》(ICLR 2021) GitHub:https:// github.com/kaidic/HAR
+《Conditional DETR for Fast Training Convergence》(ICCV 2021) GitHub:https:// github.com/Atten4Vis/ConditionalDETR ![fig1](https://wx4.sinaimg.cn/mw690/5396ee05ly1gtjpd0kml6j20ka0nd42j.jpg)
+《Robust Object Detection via Instance-Level Temporal Cycle Confusion》(ICCV 2021) GitHub:https:// github.com/xinw1012/cycle-confusion ![fig4](https://wx2.sinaimg.cn/mw690/5396ee05ly1gtjqrz8pmdj21rw0fmauf.jpg)
+《Learning Compatible Embeddings》(ICCV 2021) GitHub:https:// github.com/IrvingMeng/LCE ![fig6](https://wx1.sinaimg.cn/mw690/5396ee05ly1gtjrgnqw8uj210n0i4127.jpg)
+《An Empirical Study of Training Self-Supervised Vision Transformers》(2021) GitHub:https:// github.com/facebookresearch/moco-v3
+《Relational Graph Convolutional Networks: A Closer Look》(2021) GitHub:https:// github.com/thiviyanT/torch-rgcn
+《Reservoir computing approaches for representation and classification of multivariate time series》(2021) GitHub:https:// github.com/FilippoMB/Time-series-classification-and-clustering-with-Reservoir-Computing
+《DiffAqua: A Differentiable Computational Design Pipeline for Soft Underwater Swimmers with Shape Interpolation》(2021) GitHub:https:// github.com/mit-gfx/DiffAqua
+《Part-Aware Data Augmentation for 3D Object Detection in Point Cloud.》(2020) GitHub:https:// github.com/sky77764/pa-aug.pytorch
+《MoVi: A Large Multipurpose Motion and Video Dataset》(2020) GitHub:https:// github.com/saeed1262/MoVi-Toolbox
+《De-rendering the World's Revolutionary Artefacts》(CVPR 2021) GitHub:https:// github.com/elliottwu/sorderender
+《PoinTr: Diverse Point Cloud Completion with Geometry-Aware Transformers》(ICCV 2021) GitHub:https:// github.com/yuxumin/PoinTr ![fig1](https://wx1.sinaimg.cn/mw690/5396ee05ly1gtn46k3gosj216j0auju7.jpg)
+《A Unified Objective for Novel Class Discovery》(ICCV 2021) GitHub:https:// github.com/DonkeyShot21/UNO ![fig2](https://wx1.sinaimg.cn/mw690/5396ee05ly1gtn48gzwwlj20tf0muaie.jpg)
+《BARF: Bundle-Adjusting Neural Radiance Fields》(ICCV 2021) GitHub:https:// github.com/chenhsuanlin/bundle-adjusting-NeRF
+《Variational Attention: Propagating Domain-Specific Knowledge for Multi-Domain Learning in Crowd Counting》(ICCV 2021) GitHub:https:// github.com/Zhaoyi-Yan/DKPNet
+《State Entropy Maximization with Random Encoders for Efficient Exploration》(ICML 2021) GitHub:https:// github.com/younggyoseo/RE3
+《Learning Generative Models of Textured 3D Meshes from Real-World Images》(ICCV 2021) GitHub:https:// github.com/dariopavllo/textured-3d-gan
+《Multi-modal Self-Supervision from Generalized Data Transformations》(ICCV 2021) GitHub:https:// github.com/facebookresearch/GDT
+《NEAT: Neural Attention Fields for End-to-End Autonomous Driving》(ICCV 2021) GitHub:https:// github.com/autonomousvision/neat
+《Exploring Classification Equilibrium in Long-Tailed Object Detection》(ICCV 2021) GitHub:https:// github.com/fcjian/LOCE ![fig4](https://wx4.sinaimg.cn/mw1024/5396ee05ly1gtlzpzf4g5j215c0d37dl.jpg)
+《Multi-Scale Contrastive Siamese Networks for Self-Supervised Graph Representation Learning》(IJCAI 2021) GitHub:https:// github.com/GRAND-Lab/MERIT ![fig8](https://wx2.sinaimg.cn/mw1024/5396ee05ly1gtlzzrx1ggj21qg0z0ax6.jpg)
+《Filtration Curves for Graph Representation》(KDD 2021) GitHub:https:// github.com/BorgwardtLab/filtration_curves
+《Look Who's Talking: Active Speaker Detection in the Wild》(Interspeech  2021) GitHub:https:// github.com/clovaai/lookwhostalking
+《Focal Self-attention for Local-Global Interactions in Vision Transformers》(ICCV 2021) GitHub:https:// github.com/microsoft/Focal-Transformer ![fig3](https://wx1.sinaimg.cn/mw690/5396ee05ly1gtlz26tlfhj20mw06iq7q.jpg)
+《Demystifying Local Vision Transformer: Sparse Connectivity, Weight Sharing, and Dynamic Weight》(2021) GitHub:https:// github.com/Atten4Vis/DemystifyLocalViT
+《Group-aware Contrastive Regression for Action Quality Assessment》(2021) GitHub:https:// github.com/yuxumin/CoRe ![fig6](https://wx2.sinaimg.cn/mw1024/5396ee05ly1gtlzurov81j21ru0kungs.jpg)
+《SADRNet: Self-Aligned Dual Face Regression Networks for Robust 3D Dense Face Alignment and Reconstruction》(2021) GitHub:https:// github.com/MCG-NJU/SADRNet ![fig7](https://photo.weibo.com/1402400261/wbphotos/large/mid/4671888674785592/pid/5396ee05ly1gtlzwhd9nig20go09lu1g)
+《ST++: Make Self-training Work Better for Semi-supervised Semantic Segmentation》(2021) GitHub:https:// github.com/LiheYoung/ST-PlusPlus
+《Engineering In-place (Shared-memory) Sorting Algorithms》(2020) GitHub:https:// github.com/ips4o/ips4o
+《Data Augmentation for Scene Text Recognition》(ICCVW 2021) GitHub:https:// github.com/roatienza/straug
+《Flood Segmentation on Sentinel-1 SAR Imagery with Semi-Supervised Learning》(2021) GitHub:https:// github.com/sidgan/ETCI-2021-Competition-on-Flood-Detection
+《Norse -  A deep learning library for spiking neural networks》(2021) GitHub:https:// github.com/electronicvisions/norse
+《Be your own Benchmark: No-Reference Trajectory Metric on Registered Point Clouds》(2021) GitHub:https:// github.com/MobileRoboticsSkoltech/map-metrics
+《Simultaneously Localize, Segment and Rank the Camouflaged Objects》(CVPR 2021) GitHub:https:// github.com/JingZhang617/COD-Rank-Localize-and-Segment ![fig2](https://wx2.sinaimg.cn/mw690/5396ee05ly1gtktu6ipfrj20tr07vn1y.jpg)
+《ViPNAS: Efficient Video Pose Estimation via Neural Architecture Search》(CVPR 2021) GitHub:https:// github.com/luminxu/ViPNAS
+《ARAPReg: An As-Rigid-As Possible Regularization Loss for LearningDeformable Shape Generators》(ICCV 2021) GitHub:https:// github.com/GitBoSun/ARAPReg [fig4]
+《Online Multi-Granularity Distillation for GAN Compression》(ICCV 2021) GitHub:https:// github.com/bytedance/OMGD ![fig8](https://wx1.sinaimg.cn/mw690/5396ee05ly1gtkwk17xn1j220714m1kx.jpg)
+《TOOD: Task-aligned One-stage Object Detection》(ICCV 2021) GitHub:https:// github.com/fcjian/TOOD ![fig9](https://wx2.sinaimg.cn/mw690/5396ee05ly1gtkx79jwytj21y01jye81.jpg)
+《MixFaceNets: Extremely Efficient Face Recognition Networks》(2021) GitHub:https:// github.com/fdbtrs/mixfacenets
+《XCNET: Attention-based Stylisation for Exemplar Image Colourisation》(2021) GitHub:https:// github.com/bbc/xcnet
+《X-modaler: A Versatile and High-performance Codebase for Cross-modal Analytics》(2021) GitHub:https:// github.com/YehLi/xmodaler ![fig1](https://wx2.sinaimg.cn/mw690/5396ee05ly1gtktt4ss7lj21u80xp7wh.jpg)
+《Evidential Deep Learning for Guided Molecular Property Prediction and Discovery》(2021) GitHub:https:// github.com/aamini/chemprop [fig7]
+《Temporal Memory Attention for Video Semantic Segmentation》(2021) GitHub:https:// github.com/wanghao9610/TMANet ![fig5](https://wx3.sinaimg.cn/mw690/5396ee05ly1gtkvvrqkfbj22a40n6kej.jpg)
+《Learning Calibrated-Guidance for Object Detection in Aerial Images》(2021) GitHub:https:// github.com/WeiZongqi/CG-Net ![fig6](https://wx1.sinaimg.cn/mw690/5396ee05ly1gtkvy0kftrj210b0m97wh.jpg)
+《Generative Models as a Data Source for Multiview Representation Learning》(2021) GitHub:https:// github.com/ali-design/GenRep [fig3]
+《Simple and Effective Few-Shot Named Entity Recognition with Structured Nearest Neighbor Learning》(EMNLP 2020) GitHub:https:// github.com/asappresearch/structshot
+《Multilayer Graph-Based Trajectory Planning for Race Vehicles in Dynamic Scenarios》(2019) GitHub:https:// github.com/TUMFTM/GraphBasedLocalTrajectoryPlanner
+《Template-Based Named Entity Recognition Using BART》(ACL 2021) GitHub:https:// github.com/Nealcly/templateNER
+《Social NCE: Contrastive Learning of Socially-aware Motion Representations》(ICCV 2021) GitHub:https:// github.com/vita-epfl/social-nce-crowdnav
+《Differentiable Factor Graph Optimization for Learning Smoothers》(IROS 2021) GitHub:https:// github.com/brentyi/dfgo
+《Fastformer: Additive Attention is All You Need》(2021) GitHub:https:// github.com/lucidrains/fast-transformer-pytorch ![fig1](https://wx4.sinaimg.cn/mw690/5396ee05ly1gtrqg0drs7j20b10d80w2.jpg)
+《SplitGuard: Detecting and MitigatingTraining-Hijacking Attacks in Split Learning》(2021) GitHub:https:// github.com/ege-erdogan/splitguard
+《GraphGT: Machine Learning Datasets for Graph Generation and Transformation》(2021) GitHub:https:// github.com/yuanqidu/GraphGT
+《Surrogate Gradient Field for Latent Space Manipulation》(2021) GitHub:https:// github.com/KYM384/SGF
+《NUANCED: Natural Utterance Annotation for Nuanced Conversation with Estimated Distributions》(2020) GitHub:https:// github.com/facebookresearch/nuanced
+《ScrewNet: Category-Independent Articulation Model Estimation From Depth Images Using Screw Theory》(2020) GitHub:https:// github.com/Pearl-UTexas/ScrewNet
+《Discriminative Region-based Multi-Label Zero-Shot Learning》(ICCV 2021) GitHub:https:// github.com/akshitac8/BiAM ![fig2](https://wx2.sinaimg.cn/mw690/5396ee05ly1gtsxggv2qij22ew0laqv5.jpg)
+《ManipNet: Neural Manipulation Synthesis with a Hand-Object Spatial Representation》(SIGGRAPH  2021) GitHub:https:// github.com/cghezhang/ManipNet
+《CARLA: A Python Library to Benchmark Algorithmic Recourse and Counterfactual Explanation Algorithms》(2021) GitHub:https:// github.com/carla-recourse/CARLA
+《DC-ShadowNet: Single-Image Hard and Soft Shadow Removal Using Unsupervised Domain-Classifier Guided Network》(ICCV 2021) GitHub:https:// github.com/jinyeying/DC-ShadowNet-Hard-and-Soft-Shadow-Removal ![fig2](https://wx2.sinaimg.cn/mw690/5396ee05ly1gtqnlu44faj21ye0vdkcl.jpg)
+《Deep Virtual Markers for Articulated 3D Shapes》(ICCV 2021) GitHub:https:// github.com/T2Kim/DeepVirtualMarkers
+《StructDepth: Leveraging the structural regularities for self-supervised indoor depth estimation》(ICCV 2021) GitHub:https:// github.com/SJTU-ViSYS/StructDepth
+《NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction》(2021) GitHub:https:// github.com/Totoro97/NeuS 
+《Bag of Tricks for Training Deeper Graph Neural Networks: A Comprehensive Benchmark Study》(2021) GitHub:https:// github.com/VITA-Group/Deep_GCN_Benchmarking
+《CrossNorm and SelfNorm for Generalization under Distribution Shifts》(ICCV 2021) GitHub:https:// github.com/amazon-research/crossnorm-selfnorm
+《SA-ConvONet: Sign-Agnostic Optimization of Convolutional Occupancy Networks》(ICCV 2021) GitHub:https:// github.com/tangjiapeng/SA-ConvONet
+《Probabilistic Modeling for Human Mesh Recovery》(ICCV 2021) GitHub:https:// github.com/nkolot/ProHMR ![fig4](https://wx4.sinaimg.cn/mw690/5396ee05ly1gtu6bb7nmcj20rs0godnl.jpg)
+《Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation》(2021) GitHub:https:// github.com/ofirpress/attention_with_linear_biases
+《LLVIP: A Visible-infrared Paired Dataset for Low-light Vision》(2021) GitHub:https:// github.com/bupt-ai-cz/LLVIP ![fig5](https://wx2.sinaimg.cn/mw690/5396ee05ly1gtu6bvgsfhj20zk0dn7me.jpg)
+《PonderNet: Learning to Ponder》(2021) GitHub:https:// github.com/lucidrains/ponder-transformer
+《Bringing Old Photos Back to Life》(CVPR 2020) GitHub:https:// github.com/zhangmozhe/Deep-Exemplar-based-Video-Colorization ![fig2](https://wx4.sinaimg.cn/mw690/5396ee05ly1gtu4v7x918j20p70a7tf7.jpg)
+《Semantically Coherent Out-of-Distribution Detection》(ICCV 2021) GitHub:https:// github.com/Jingkang50/ICCV21_SCOOD ![fig1](https://wx2.sinaimg.cn/mw690/5396ee05ly1gtwcq0rd8zj21ru0re4ot.jpg)
+《Adaptive Focus for Efficient Video Recognition》(ICCV 2021) GitHub:https:// github.com/blackfeather-wang/AdaFocus ![fig2](https://wx1.sinaimg.cn/mw690/5396ee05ly1gtwcqzb22mj218g16ghdt.jpg)
+《The Surprising Effectiveness of Visual Odometry Techniques for Embodied PointGoal Navigation》(ICCV 2021) GitHub:https:// github.com/Xiaoming-Zhao/PointNav-VO ![fig3](https://photo.weibo.com/1402400261/wbphotos/large/mid/4675143534646359/pid/5396ee05ly1gtwdgr0zevg20go03ihdu)
+《CSG-Stump: A Learning Friendly CSG-Like Representation for Interpretable Shape Parsing》(ICCV 2021) GitHub:https:// github.com/kimren227/CSGStumpNet
+《Deep Gaussian Process Based Multi-speaker Speech Synthesis with Latent Speaker Representation》(2021) GitHub:https:// github.com/sarulab-speech/multi-speaker-dgp
+《Constrained Graphic Layout Generation via Latent Optimization》(2021) GitHub:https:// github.com/ktrk115/const_layout
+《Self-Regulation for Semantic Segmentation》(ICCV 2021) GitHub:https:// github.com/dongzhang89/SR-SS ![fig1](https://wx4.sinaimg.cn/mw690/5396ee05ly1gtxfy1la0aj20gp0ff438.jpg)
+《Relational Embedding for Few-Shot Classification》(ICCV 2021) GitHub:https:// github.com/dahyun-kang/renet ![fig3](https://wx1.sinaimg.cn/mw690/5396ee05ly1gtxgnxx1rvj21qb0sxhdv.jpg)
+《WSRGlow: A Glow-based Waveform Generative Model for Audio Super-Resolution》(2021) GitHub:https:// github.com/zkx06111/WSRGlow
+《SfM Face Reconstruction Based on Massive Landmark Bundle Adjustment》(2021) GitHub:https:// github.com/BoomStarcuc/3DSfMFaceReconstruction
+《Hierarchical Conditional Flow: A Unified Framework for Image Super-Resolution and Image Rescaling》(ICCV 2021) GitHub:https:// github.com/JingyunLiang/HCFlow ![fig2](https://wx4.sinaimg.cn/mw690/5396ee05ly1gtv8bqygenj210r0aytco.jpg)
+《Rethinking Coarse-to-Fine Approach in Single Image Deblurring》(ICCV 2021) GitHub:https:// github.com/chosj95/MIMO-UNet ![fig3](https://wx3.sinaimg.cn/mw690/5396ee05ly1gtv8p4jaabj20rl0d7aeq.jpg)
+《UnivNet: A Neural Vocoder with Multi-Resolution Spectrogram Discriminators for High-Fidelity Waveform Generation》(2021) GitHub:https:// github.com/mindslab-ai/univnet
+《Fog Simulation on Real LiDAR Point Clouds for 3D Object Detection in Adverse Weather》(ICCV 2021) GitHub:https:// github.com/MartinHahner/LiDAR_fog_sim
+《Ranking Models in Unlabeled New Environments》(ICCV 2021) GitHub:https:// github.com/sxzrt/Proxy-Set
+《Blind Image Decomposition》(2021) GitHub:https:// github.com/JunlinHan/BID ![fig1](https://wx4.sinaimg.cn/mw690/5396ee05ly1gtyjgy8ylmj21ea0axtg3.jpg)
+《Understanding and Accelerating Neural Architecture Search with Training-Free and Theory-Grounded Metrics》(CVPR 2021) GitHub:https:// github.com/vita-group/tegnas
+《Residual Attention: A Simple but Effective Method for Multi-Label Recognition》(ICCV 2021) GitHub:https:// github.com/Kevinz-code/CSRA ![fig2](https://wx4.sinaimg.cn/mw690/5396ee05ly1gtzwtjrm6kj21cr0d0dlg.jpg)
+《PrimitiveNet: Primitive Instance Segmentation with Local Primitive Embedding under Adversarial Metric》(ICCV 2021) GitHub:https:// github.com/hjwdzh/PrimitiveNet [fig3]
+《SSH: A Self-Supervised Framework for Image Harmonization》(ICCV 2021) GitHub:https:// github.com/VITA-Group/SSHarmonization ![fig4](https://wx2.sinaimg.cn/mw690/5396ee05ly1gtzx3uagx3j21xg0st7vb.jpg)
+《Deep Relational Metric Learning》(ICCV 2021) GitHub:https:// github.com/zbr17/DRML ![fig5](https://wx3.sinaimg.cn/mw690/5396ee05ly1gtzxcfju33j21dr0h0anh.jpg)
+《Adapting Language Models for Zero-shot Learning by Meta-tuning on Dataset and Prompt Collections
+》(EMNLP 2021) GitHub:https:// github.com/ruiqi-zhong/Meta-tuning
+《Perceiver IO: A General Architecture for Structured Inputs & Outputs》(2021) GitHub:https:// github.com/esceptico/perceiver-io
+《Layout-to-Image Translation with Double Pooling Generative Adversarial Networks》(2021) GitHub:https:// github.com/Ha0Tang/DPGAN
+《Fastformer: Additive Attention Can Be All You Need》(2021) GitHub:https:// github.com/wilile26811249/Fastformer-PyTorch ![fig1](https://wx1.sinaimg.cn/mw690/5396ee05ly1gtzwprgndyj20cb0dp0wh.jpg)
+《Iterative Filter Adaptive Network for Single Image Defocus Deblurring》(ECCV 2021) GitHub:https:// github.com/codeslake/IFAN ![fig2](https://wx1.sinaimg.cn/mw690/5396ee05ly1gu15bgm6mkj20x60ckai9.jpg)
+《Self-Calibrating Neural Radiance Fields》(ICCV 2021) GitHub:https:// github.com/POSTECH-CVLab/SCNeRF
+《Asymmetric Bilateral Motion Estimation for Video Frame Interpolation》(ICCV 2021) GitHub:https:// github.com/JunHeum/ABME
+《Noisy Channel Language Model Prompting for Few-Shot Text Classification》(2021) GitHub:https:// github.com/shmsw25/Channel-LM-Prompting
+《Image Super-Resolution via Iterative Refinement》(2021) GitHub:https:// github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement
+《Robust High-Resolution Video Matting with Temporal Guidance.》(2021) GitHub:https:// github.com/flow-dev/RobustVideoMatting
+《TAPEX: Table Pre-training via Learning a Neural SQL Executor》(2021) GitHub:https:// github.com/microsoft/Table-Pretraining

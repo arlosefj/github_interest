@@ -305,3 +305,9 @@ github.com/NVIDIAAICITYCHALLENGE/2021AICITY_Code_From_Top_Teams
 
 Kaggle推文情感抽取大赛一等奖方案
 github.com/heartkilla/kaggle_tweet
+
+ETCI 2021洪水检测比赛第二名方案
+github.com/sidgan/ETCI-2021-Competition-on-Flood-Detection
+
+【"Kaggle机器学习30天入门挑战"全程演练】
+https://www.bilibili.com/video/BV1Jh411q7eZ/

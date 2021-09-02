@@ -137,3 +137,6 @@ github.com/DavidGillsjo/VideoIMUCapture-Android
 
 A Fast and Robust Place Recognition Approach for Stereo Visual Odometry using LiDAR Descriptors
 github.com/IRVLab/so_dso_place_recognition
+
+YOLOX-ROS：YOLOX + ROS目标检测
+github.com/Ar-Ray-code/YOLOX-ROS

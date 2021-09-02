@@ -623,3 +623,6 @@ github.com/KaenChan/ProbFace
 
 malnyun卡通人脸数据集与基于该数据集训练的生成模型
 github.com/bryandlee/malnyun_faces
+
+yolov5_face_landmark - 基于yolov5的人脸检测，带关键点检测
+github.com/xialuxi/yolov5_face_landmark

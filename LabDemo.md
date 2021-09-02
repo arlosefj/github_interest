@@ -112,3 +112,19 @@ github.com/weihaox/awesome-clothed-human
 
 Cherry on Py：支持人脸检测、视频目标检测、视频摘要的云计算平台
 github.com/PicardParis/cherry-on-py
+
+AnyoneNet: Synchronized Speech and Talking Head Generation for arbitrary person
+https://arxiv.org/abs/2108.04325
+![](https://wx3.sinaimg.cn/mw690/5396ee05ly1gtdkkjllf1j20nv099q4z.jpg)
+
+FLAME-in-NeRF : Neural control of Radiance Fields for Free View Face Animation
+https://arxiv.org/abs/2108.04913
+![](https://wx4.sinaimg.cn/mw690/5396ee05ly1gteqg3aq7bj20vg0omjyw.jpg)
+
+CompreFace，人脸识别与检测系统，不懂机器学习技术亦可使用。
+支持快速轻松集成到任意系统上，提供一系列可用于人脸识别检测、年龄性别识别、特征点检测等 REST API，并支持 Docker 部署。
+github.com/exadel-inc/CompreFace ​​​​
+
+ONNX高效车道检测实例
+github.com/ibaiGorordo/onnx-Ultra-Fast-Lane-Detection-Inference
+![](https://wx2.sinaimg.cn/mw690/5396ee05ly1gtyqyoqfk2j20zk0k0kc1.jpg)

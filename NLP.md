@@ -455,3 +455,12 @@ github.com/TingFree/NLPer-Arsenal
 
 GPT-Code-Clippy (GPT-CC)：开源版GitHub Copilot，用基于GPT-3的模型自动补全代码
 github.com/ncoop57/gpt-code-clippy
+
+面向语法纠错的C4_200M合成数据集
+github.com/google-research-datasets/C4_200M-synthetic-dataset-for-grammatical-error-correction
+
+DomainWordsDict, Chinese words dict that contains more than 68 domains, which can be used as text classification、knowledge enhance task。涵盖68个领域、共计916万词的专业词典知识库，可用于文本分类、知识增强、领域词汇库扩充等自然语言处理应用
+github.com/liuhuanyong/DomainWordsDict
+
+自己定制训练GPT-3
+github.com/HomebrewNLP/HomebrewNLP

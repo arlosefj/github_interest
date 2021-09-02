@@ -366,3 +366,16 @@ github.com/liuyubobobo/Play-Leetcode
 
 fluxsort：稳定自适应分区比较排序算法C实现及可视化
 github.com/scandum/fluxsort
+
+《每个程序员都应该知道的40个算法》随书代码
+github.com/PacktPublishing/40-Algorithms-Every-Programmer-Should-Know
+
+开源的中文算法指南：Algorithm Guide。该仓库主要分为两大分支，主分支为算法和数据结构教程，次分支为算法竞赛、数据结构相关的课件、论文、书籍、网站、习题整理。
+github.com/Xunzhuo/Algorithm-Guide
+
+Learn-Algorithms - 算法学习笔记
+github.com/nonstriater/Learn-Algorithms
+
+《algorithm-note》中文版，该系列包括数组，链表，树，图，递归，DP，有序表等相关数据结构与算法的讲解及代码实现。
+左神算法课笔记记录，增加了总结性内容，让开发者可以当成工具书查阅，帮助复习。
+github.com/Dairongpeng/algorithm-note ​​​​

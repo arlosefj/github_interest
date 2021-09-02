@@ -165,3 +165,6 @@ github.com/GouravWadhwa/Hypergraphs-Image-Inpainting
 
 《Uformer: A General U-Shaped Transformer for Image Restoration》(2021) 
 github.com/lucidrains/uformer-pytorch
+
+Internal Video Inpainting by Implicit Long-range Propagation
+https://arxiv.org/abs/2108.01912

@@ -323,3 +323,9 @@ github.com/openai/triton
 
 mmsegmentation-distiller：基于mmsegmentation的知识蒸馏工具箱
 github.com/pppppM/mmsegmentation-distiller
+
+TorchDistiller：知识蒸馏开源PyTorch代码集，特别面向感知任务，包括语义分割、深度估计、目标检测和实例分割
+github.com/irfanICMLL/TorchDistiller
+
+用NVIDIA开源模块实现加速SE(3)-Transformer训练，“使用内存少9x，速度比基准官方实现快21x”
+github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/DrugDiscovery/SE3Transformer

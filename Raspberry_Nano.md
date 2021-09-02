@@ -141,3 +141,9 @@ github.com/penk/ruha.camera
 
 TensorRT Examples(object detection)
 github.com/NobuoTsukamoto/tensorrt-examples
+
+Cortic Edge-computing Platform (CEP)：运行于树莓派4B/400的边缘计算平台
+github.com/cortictechnology/ce
+
+Nvidia Jetson Nano/Xavier开发包软件安装指南
+github.com/yqlbu/jetson-packages-family

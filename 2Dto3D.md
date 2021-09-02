@@ -490,3 +490,13 @@ github.com/VIS4ROB-lab/aerial-depth-completion
 
 《Monocular Depth Estimation Using Laplacian Pyramid-Based Depth Residuals》(2021) 
 github.com/tjqansthd/LapDepth-release
+
+Consistent Depth of Moving Objects in Video
+https://arxiv.org/abs/2108.01166
+
+MonoDepth to ManyDepth: Self-Supervised Depth Estimation on Monocular Sequences - Self-Supervised Depth Estimation on Monocular Sequences
+github.com/sally20921/MonoDepth-to-ManyDepth
+![](https://wx1.sinaimg.cn/mw690/5396ee05ly1gtsxpk1jyqj20kx0a3dj0.jpg)
+
+StructDepth: Leveraging the structural regularities for self-supervised indoor depth estimation》
+github.com/SJTU-ViSYS/StructDepth

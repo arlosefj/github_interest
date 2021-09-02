@@ -370,3 +370,30 @@ github.com/alievk/avatarify-desktop
 
 Fine-Tuning StyleGAN2 For Cartoon Face Generation
 github.com/happy-jihye/Cartoon-StyleGan2
+
+Sketch Your Own GAN
+https://arxiv.org/abs/2108.02774
+![](https://wx4.sinaimg.cn/mw690/5396ee05ly1gt7rtwski4j20qt0gxaka.jpg)
+
+MoveNet + TensorFlow Lite手机端姿态估计与分类
+https://blog.tensorflow.org/2021/08/pose-estimation-and-classification-on-edge-devices-with-MoveNet-and-TensorFlow-Lite.html
+
+生成自己的Ilya Kuvshinov风格漫画头像
+github.com/dobrosketchkun/NeuralKuvshinov_v2
+
+虚拟办公室游戏。简单的说就是一个在线地图，当角色之间靠近时，就可以通过摄像头看到对方。看演示还挺好玩的。
+这个系统是开源的，可以自己架设。github.com/thecodingmachine/workadventure 
+
+NARUTO-HandSignDetection，可用于识别火影忍者中的结印手势。
+github.com/Kazuhito00/NARUTO-HandSignDetection 
+![](https://wx3.sinaimg.cn/mw690/006fiYtfgy1gtv3s0qlwuj31bc1ayb29.jpg)
+
+YOLOP: You Only Look Once for Panoptic Driving Perception
+github.com/hustvl/YOLOP
+
+Robust Video Matting (RVM)：PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML实现的稳定视频抠像 (RVM)
+github.com/PeterL1n/RobustVideoMatting
+https://arxiv.org/abs/2108.11515
+
+### MoveNet Multipose Tracking on OpenVINO：OpenVINO上实现的MoveNet多姿态跟踪
+github.com/geaxgx/openvino_movenet_multipose

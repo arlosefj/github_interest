@@ -314,3 +314,9 @@ github.com/ExplainableML/czsl
 
 零样本目标检测相关资源大列表
 github.com/KennithLi/Awesome-Zero-Shot-Object-Detection
+
+不确定性感知小样本图像分类模型，实现SOTA性能
+https://weibo.com/ttarticle/p/show?id=2309404671955579306025
+
+Few-shot Visual Relationship Co-localization
+github.com/vl2g/VRC

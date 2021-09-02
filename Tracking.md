@@ -379,3 +379,6 @@ github.com/Zhongdao/UniTrack
 
 《Probabilistic Tracklet Scoring and Inpainting for Multiple Object Tracking》(CVPR 2021) 
 github.com/fatemeh-slh/ArTIST
+
+Roboflow Object Tracking Example：用Roboflow推断API、DeepSort和CLIP实现的零样本目标跟踪
+github.com/roboflow-ai/zero-shot-object-tracking

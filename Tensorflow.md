@@ -203,3 +203,12 @@ https://keras.io/examples/vision/cct/
 
 Tensorflow 模型线上部署教程
 github.com/BeyonderXX/tensorflow-serving-tutorial
+
+TensorFlow&JAX实战教程
+github.com/AakashKumarNain/TF_JAX_tutorials
+
+tf-keras-vis：tf.keras神经网络可视化工具包
+github.com/keisen/tf-keras-vis
+
+Keras实例：手写字符识别
+https://keras.io/examples/vision/handwriting_recognition/

@@ -108,3 +108,7 @@ remram44.github.io/regex-cheatsheet/regex.html
 
 改善代码可读性的5种方法
 https://mp.weixin.qq.com/s?__biz=MzUyMzM2ODUwMA==&amp;mid=2247490048&amp;idx=2&amp;sn=7c8f98562f87cea06c560a8517e28f16&amp;chksm=fa3cfb5bcd4b724db933667cb2527d8ef78614268e50fe2b3e1bac5ad24db411b60601cd4b01&amp;scene=27#wechat_redirect&comefrom=https://blogread.cn/news/
+
+技术分享类项目：Today I Learned。
+作者是来自芝加哥的开发者 Josh Branchaud，该仓库的创建目的，在于收集其平日所学的一些碎片化编程知识和开发技巧。其中包括 Git、JavaScript、Linux、VSCode、Devops、Chrome 等不同技术领域的分类。
+github.com/jbranchaud/til ​​​​
