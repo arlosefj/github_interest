@@ -205,3 +205,6 @@ github.com/Cuberick-Orion/CIRR
 
 图像取证工具：Sherloq，可对图像具体信息进行提取、分析、比对，并以此检测图像是否被篡改或伪造，功能颇为强大。
 github.com/GuidoBartoli/sherloq ​​​​
+
+ScatSimCLR: self-supervised contrastive learning with pretext task regularization for small-scale datasets
+github.com/vkinakh/scatsimclr 

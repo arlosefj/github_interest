@@ -286,3 +286,6 @@ github.com/schissmantics/xagents
 
 ### 【深度强化学习基础(6讲)】
 https://www.bilibili.com/video/BV1kQ4y1Y7Gn/
+
+Yet Another Reinforcement Learning Tutorial：强化学习教程
+github.com/sjchoi86/rl_tutorial

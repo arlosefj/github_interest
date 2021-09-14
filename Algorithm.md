@@ -379,3 +379,6 @@ github.com/nonstriater/Learn-Algorithms
 《algorithm-note》中文版，该系列包括数组，链表，树，图，递归，DP，有序表等相关数据结构与算法的讲解及代码实现。
 左神算法课笔记记录，增加了总结性内容，让开发者可以当成工具书查阅，帮助复习。
 github.com/Dairongpeng/algorithm-note ​​​​
+
+b-tree大体的算法思想，发现一个不错的项目，把sqlite2.5里b-tree相关的部分代码抽取出来了：
+github.com/madushadhanushka/simple-sqlite

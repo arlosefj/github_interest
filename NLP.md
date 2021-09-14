@@ -464,3 +464,6 @@ github.com/liuhuanyong/DomainWordsDict
 
 自己定制训练GPT-3
 github.com/HomebrewNLP/HomebrewNLP
+
+Pytorch GPT-X - Train GPT-3 model on V100(16GB Mem) Using improved Transformer
+github.com/nawnoes/pytorch-gpt-x

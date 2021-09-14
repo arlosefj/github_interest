@@ -112,3 +112,14 @@ https://mp.weixin.qq.com/s?__biz=MzUyMzM2ODUwMA==&amp;mid=2247490048&amp;idx=2&a
 技术分享类项目：Today I Learned。
 作者是来自芝加哥的开发者 Josh Branchaud，该仓库的创建目的，在于收集其平日所学的一些碎片化编程知识和开发技巧。其中包括 Git、JavaScript、Linux、VSCode、Devops、Chrome 等不同技术领域的分类。
 github.com/jbranchaud/til ​​​​
+
+《编程、数学、科学》（Programming, Math, Science）。
+里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。
+github.com/bobeff/programming-math-science
+
+「编程涂鸦合集」：《一图胜千言》（A Picture's Worth A Thousand Words）。
+主要创作了包含数据结构与算法、Web 开发、机器学习等编程领域的涂鸦作品，其中有部分被应用到了微软的开源教程。
+github.com/girliemac/a-picture-is-worth-a-1000-words
+
+Doodles-as-A-Service Repo：数据结构与算法/机器学习图解
+github.com/girliemac/a-picture-is-worth-a-1000-words

@@ -1286,3 +1286,9 @@ https://arxiv.org/abs/2108.11249
 
 ISNet: Integrate Image-Level and Semantic-Level Context for Semantic Segmentation
 github.com/SegmentationBLWX/sssegmentation
+
+Lightning Kitti：用Pytorch-Lightning实现的语义分割
+github.com/borisdayma/lightning-kitti
+
+Keras实例：DeepLabV3+多类语义分割
+https://keras.io/examples/vision/deeplabv3_plus/

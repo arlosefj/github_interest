@@ -758,3 +758,12 @@ https://www.robots.ox.ac.uk/~vgg/research/condensed-movies/challenge.html
 
 AP-10K：真实场景动物姿态估计基准
 github.com/AlexTheBad/AP-10K
+
+SHIFT15M：具有分布偏移的多目标大规模时尚数据集
+github.com/st-tech/zozo-shift15m
+
+MOD: 大规模开放域多模态对话数据集
+github.com/lizekang/DSTC10-MOD
+
+DataCLUE: 国内首个以数据为中心的AI测评（含模型分析报告）
+github.com/CLUEbenchmark/DataCLUE

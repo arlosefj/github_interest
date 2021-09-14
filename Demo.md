@@ -671,3 +671,15 @@ github.com/dog-qiuqiu/Yolo-FastestV2
 
 shufflev2-yolov5：更轻量、更快速、更易部署的yolov5改进版
 github.com/ppogg/shufflev2-yolov5
+
+用MediaPipe BlazePose GHUM 和 TensorFlow.js实现3D姿态检测
+https://blog.tensorflow.org/2021/08/3d-pose-detection-with-mediapipe-blazepose-ghum-tfjs.html
+
+End-to-End Monocular Vanishing Point Detection Exploiting Lane Annotations
+https://arxiv.org/abs/2108.13699
+
+ONNX运行时推理示例
+github.com/microsoft/onnxruntime-inference-examples
+
+ONNX运行时网页Demo
+github.com/microsoft/onnxruntime-web-demo

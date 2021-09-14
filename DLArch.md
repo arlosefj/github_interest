@@ -713,3 +713,12 @@ https://arxiv.org/abs/2108.09193
 
 Bag of Tricks for Training Deeper Graph Neural Networks: A Comprehensive Benchmark Study
 github.com/VITA-Group/Deep_GCN_Benchmarking
+
+### 图神经网络交互式简介 #TODO
+https://distill.pub/2021/gnn-intro/
+
+理解图上的卷积
+https://distill.pub/2021/understanding-gnns/
+
+Sparse-MLP: A Fully-MLP Architecture with Conditional Computation
+https://arxiv.org/abs/2109.02008

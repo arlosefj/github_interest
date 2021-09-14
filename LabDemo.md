@@ -98,6 +98,9 @@ github.com/isaaccorley/torchrs
 ### BackgroundRemover：图片、视频背景去除(抠图)命令行工具
 github.com/nadermx/backgroundremover 
 
+让聊天更专注：用深度显著先验减少视觉干扰
+deep-saliency-prior.github.io/
+
 Portal：用最快的方式加载和可视化深度学习模型(用TypeScript, React, Flask构建)
 github.com/datature/portal
 

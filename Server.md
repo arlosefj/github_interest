@@ -303,3 +303,9 @@ github.com/erda-project/erda ​​​​
 
 DataEase - 人人可用的开源数据可视化分析工具
 github.com/dataease/dataease
+
+Kuboard，一款专为 Kubernetes 设计的开源管理界面。具备多集群管理、权限管理、监控套件、日志套件等丰富功能。
+github.com/eip-work/kuboard-press 
+
+### Kubernetes最佳实践101 #TODO
+github.com/diegolnasc/kubernetes-best-practices

@@ -625,3 +625,12 @@ github.com/atomicoo/ParallelTTS
 
 Neural HMMs are all you need (for high-quality attention-free TTS)
 https://arxiv.org/abs/2108.13320
+
+praudio：面向深度学习音频应用的音频预处理框架
+github.com/musikalkemist/praudio
+
+为言语障碍人士合成自然语音的PnG NAT 模型
+https://ai.googleblog.com/2021/08/recreating-natural-voices-for-people.html
+
+大规模多样无序语音数据集的个性化语音识别模型
+https://ai.googleblog.com/2021/09/personalized-asr-models-from-large-and.html

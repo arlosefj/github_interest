@@ -152,3 +152,6 @@ github.com/karndeb/Arxiv-Neural-Search
 
 论文阅读笔记 - 记录一些读过的论文，给出个人对论文的评分情况并简述论文insight
 github.com/curryandsun/neural_network_papers
+
+科技写作中的常见错误
+https://cs.dartmouth.edu/~wjarosz/writing.md.html

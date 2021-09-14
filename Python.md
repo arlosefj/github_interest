@@ -782,3 +782,9 @@ Python3入门速查
 
 Python可视化和交互式面板(HoloViz)
 towardsdatascience.com/visualization-and-interactive-dashboard-in-python-c2f2a88b2ba3
+
+Numpy使用速查
+https://intellipaat.com/blog/tutorial/python-tutorial/numpy-cheat-sheet/
+
+Matplotlib使用速查
+https://www.datacamp.com/community/blog/python-matplotlib-cheat-sheet

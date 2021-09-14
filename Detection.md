@@ -1001,3 +1001,6 @@ github.com/fcjian/TOOD
 AutoShape: Real-Time Shape-Aware Monocular 3D Object Detection
 github.com/zongdai/AutoShape
 ![](https://wx2.sinaimg.cn/mw690/5396ee05ly1gtzkohh1nmj21300iz79k.jpg)
+
+### Rotate-Yolov5：基于Ultralytics/yolov5的旋转目标检测
+github.com/XinzeLee/RotateObjectDetection

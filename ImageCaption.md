@@ -973,3 +973,28 @@ Visual Distant Supervision for Scene Graph Generation ICCV 2021
 CV的场景图构建与NLP中的关系抽取任务很相似，能把RE常用的Distant Supervision思想迁移到CV场景图构建上
 github.com/thunlp/VisualDS
 ![](https://wx3.sinaimg.cn/mw690/001B6Pnxgy1gtqji3vhw7j60ie0kegv202.jpg)
+
+### Vision-Attention-Papers：视觉注意力机制总结
+github.com/MenghaoGuo/Awesome-Vision-Attentions
+
+理解einsum：从头实现多头自注意力Transformer
+https://theaisummer.com/einsum-attention/
+
+Searching for Efficient Multi-Stage Vision Transformers
+github.com/yilunliao/vit-search
+
+Learning to Prompt for Vision-Language Models
+github.com/KaiyangZhou/CoOp
+
+Exploring and Improving Mobile Level Vision Transformers
+https://arxiv.org/abs/2108.13015
+
+SentenceTransformers：最先进的句子、文本和图像嵌入Python框架
+https://www.sbert.net/
+
+ConvMLP: Hierarchical Convolutional MLPs for Vision
+github.com/SHI-Labs/Convolutional-MLPs
+![](https://wx1.sinaimg.cn/mw690/001wUkn3ly1guc8sytudsj61300fo0xt02.jpg)
+
+Data Efficient Masked Language Modeling for Vision and Language
+github.com/yonatanbitton/data_efficient_masked_language_modeling_for_vision_and_language 

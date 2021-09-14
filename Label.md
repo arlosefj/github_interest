@@ -280,3 +280,9 @@ github.com/heartexlabs/label-studio ​​​​
 
 fast-annotation-tool：手机端快捷标注工具
 github.com/CyberAgent/fast-annotation-tool
+
+### GrabCut-Annotation-Tool：基于OpenCV的GrabCut()的图像标注工具
+github.com/Kazuhito00/GrabCut-Annotation-Tool/blob/main/README_EN.md
+
+LabelFlow：开放图像标记平台
+github.com/Labelflow/labelflow

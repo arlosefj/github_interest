@@ -809,3 +809,12 @@ github.com/DayBreak-u/chineseocr_lite ​​​​
 
 ### 基于Transformer的文档布局解析
 github.com/NielsRogge/Transformers-Tutorials/tree/master/LayoutLMv2
+
+Skim-Attention: Learning to Focus via Document Layout
+![](https://wx4.sinaimg.cn/mw690/5396ee05ly1gu6hyfi10cj20zs0jvte2.jpg)
+
+PP-OCRv2: Bag of Tricks for Ultra Lightweight OCR System
+github.com/PaddlePaddle/PaddleOCR
+
+STRIVE: Scene Text Replacement In Videos
+https://arxiv.org/abs/2109.02762

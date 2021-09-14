@@ -859,3 +859,28 @@ OnlineJudge，青岛大学开源的一款在线评测系统，基于 Python 与 
 - Markdown & MathJax 支持；
 - 比赛用户 IP 限制 (CIDR ranges)。
 github.com/QingdaoU/OnlineJudge
+
+FastGithub - github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题
+github.com/dotnetcore/FastGithub
+
+开源的屏幕共享工具：Screego，可选择分享电脑全屏、窗口、浏览器标签页等三种分享模式，并拥有更低延迟、更高质量的屏幕共享体验。
+支持多用户、基于 WebRTC 进行安全传输、可通过 Docker 或二进制文件快速完成安装。
+github.com/screego/server ​​​​
+
+apkeep - 安卓应用APK文件命令行下载工具
+github.com/EFForg/apkeep
+
+实用的 Chrome 插件：Project Naptha，可选中、复制、编辑、翻译图片中的内嵌文字。
+https://projectnaptha.com/
+
+Web2Img：将网页文件打包成一张图片
+github.com/EtherDream/web2img
+
+跨平台youtube-dl图形界面
+github.com/jely2002/youtube-dl-gui
+
+### 最可爱的git使用说明书
+https://girliemac.com/blog/2017/12/26/git-purr/
+
+Scrcpy，一个通过 USB（或 TCP / IP）连接到电脑上高清显示和流畅控制 Android 设备的工具，适用于 GNU/Linux、Windows 和 Mac OS，无需 root 权限。
+GitHub：github.com/Genymobile/scrcpy 

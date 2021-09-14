@@ -10,11 +10,11 @@ https://colab.research.google.com/github/NielsRogge/Transformers-Tutorials/blob/
 《LETR: Line Segment Detection Using Transformers without Edges》(CVPR 2021) 
 github.com/mlpc-ucsd/LETR
 
+First Order Motion Model for Image Animation
+https://github.com/AliaksandrSiarohin/first-order-model
+
 ### Pyodi：Python目标检测数据集探索工具
 github.com/Gradiant/pyodi
-
-Irydium：用Markdown创建交互式文档和数据可视化
-github.com/irydium/irydium
 
 MLOps-Basics：MLOps基础教程
 github.com/graviraja/MLOps-Basics
@@ -28,3 +28,18 @@ github.com/eastlakeside/awesome-productivity-cn
 
 面向计算机视觉迁移学习的预训练神经网络架构比较
 https://share.streamlit.io/aghasemi/vptm/app.py
+
+Cockpit：深度网络训练实用调试工具
+github.com/f-dangel/cockpit
+
+img2dataset：从URL列表直接构建图片数据集
+github.com/rom1504/img2dataset 
+
+MegFlow：面向视觉应用的流式计算框架, 目标是简单、高性能、帮助机器学习应用快速落地
+github.com/MegEngine/MegFlow
+
+用skeleton-tracing和pix2pix生成剔骨仿宋字体
+github.com/LingDong-/tk-fangsong-font 
+
+用TensorRT实现的无人驾驶CV系统，包括目标检测、车道检测、道路分割、深度估计等
+github.com/iwatake2222/self-driving-ish_computer_vision_system

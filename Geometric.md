@@ -12,3 +12,9 @@ github.com/bsavery/ray-tracing-one-weekend-taichi
 
 PyNIF3D：基于PyTorch的神经隐函数(NIF)3D几何表示研究库
 github.com/pfnet/pynif3d
+
+fun-with-computer-graphics，国内一位开发者整理的图形学资料，包含各大高校课程、书籍、教程、文章、开源项目、网站等内容。
+github.com/zheng95z/fun-with-computer-graphics ​​​​
+
+neurecon：基于神经渲染的多视3D重建
+github.com/ventusff/neurecon

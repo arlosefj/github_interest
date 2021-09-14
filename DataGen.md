@@ -481,3 +481,15 @@ https://arxiv.org/abs/2106.14879
 
 Generative Art：生成艺术集锦
 github.com/erdavids/Generative-Art
+
+3D Human Texture Estimation from a Single Image with Transformers
+https://arxiv.org/abs/2109.02563
+
+MuarAugment：PyTorch实现的数据扩增搜索算法
+github.com/adam-mehdi/MuarAugment
+
+Active label cleaning: Improving dataset quality under resource constraints
+https://arxiv.org/abs/2109.00574
+
+pixray：神经网络图像生成系统
+github.com/dribnet/pixray

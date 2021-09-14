@@ -500,3 +500,9 @@ github.com/sally20921/MonoDepth-to-ManyDepth
 
 StructDepth: Leveraging the structural regularities for self-supervised indoor depth estimation》
 github.com/SJTU-ViSYS/StructDepth
+
+Keras实例：单目深度估计
+https://keras.io/examples/vision/depth_estimation/
+
+MobileStereoNet: 基于MobileNetV1和MobileNetV2的轻量立体匹配网络
+github.com/cogsys-tuebingen/mobilestereonet

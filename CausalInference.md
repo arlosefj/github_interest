@@ -90,3 +90,6 @@ matheusfacure.github.io/python-causality-handbook/landing-page.html
 
 免费书(讲义)：《因果推理导论：机器学习视角》
 https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf
+
+神经网络算法推理
+https://www.cell.com/patterns/pdf/S2666-3899(21)00099-4.pdf

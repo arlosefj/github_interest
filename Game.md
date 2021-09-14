@@ -163,3 +163,6 @@ github.com/kawa-mineka/CODE-OF-PYTHON
 
 Minesweeper：Mac版“扫雷”游戏
 github.com/alphaArgon/Minesweeper
+
+ByteLegend(字节传说) - 开源多人在线RPG游戏，通过游戏，可以学到现实世界里的编程技能
+github.com/ByteLegend/ByteLegend

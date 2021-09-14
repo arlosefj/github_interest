@@ -302,3 +302,6 @@ github.com/VideoNetworks/TokShift-Transformer
 ### AutoVideo: 自动视频动作识别系统
 github.com/datamllab/autovideo
 ![](https://wx4.sinaimg.cn/mw690/5396ee05ly1gtd28jmqn1j21eu19m4ew.jpg)
+
+Revisiting 3D ResNets for Video Recognition
+github.com/tensorflow/models/tree/master/official 

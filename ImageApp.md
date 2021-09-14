@@ -1079,3 +1079,6 @@ github.com/cordmaur/WaterDetect
 
 PaddlePaddle Vision Transformers：PaddlePaddle视觉Transformer(ViT)/MLP模型库
 github.com/BR-IDL/PaddleViT
+
+HugsVision：易用的huggingface封装库，可轻松开发最先进计算机视觉技术，包括图像分类、语义分割、目标检测分析、图像生成、去噪等
+github.com/qanastek/HugsVision

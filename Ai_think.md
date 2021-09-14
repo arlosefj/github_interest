@@ -176,3 +176,10 @@ www.reddit.com/r/MachineLearning/comments/ofivs2/d_difference_between_representa
 
 从视觉到语言：(Google搜索引擎)半监督学习(蒸馏)的大规模实用
 https://ai.googleblog.com/2021/07/from-vision-to-language-semi-supervised.html
+
+AI产业“入行须知”四则
+towardsdatascience.com/4-things-i-wish-i-knew-before-starting-in-the-ai-industry-5458c6bf48b9
+“并非所有带有"AI"一词的东西都是真正的AI，一些公司利用它背后的营销力量来吸引投资者、客户或员工，一定要当心……AI不只是深度学习……媒体总是过度夸大，误导读者……试着去看第一手材料，自己做出判断……人工智能既是一项工程技术，同时也是一门科学学科”
+
+Jeremy Howard访谈：Kaggle, Enlitic, 与 fast.ai 
+https://thegradientpub.substack.com/p/jeremy-howard-on-kaggle-enlitic-and

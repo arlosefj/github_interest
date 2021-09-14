@@ -1452,3 +1452,24 @@ github.com/TurboWay/bigdata_analyse ​​​​
 
 多标签分类技巧集
 https://andy-wang.medium.com/bags-of-tricks-for-multi-label-classification-dc54b87f79ec
+
+Pedro Domingos：强化学习的问题在于，如果回报稀疏且不及时，那就太难了; 如果不是这样，用监督学习就可以。 ​​​​
+
+Matthias Niessner：依然有很多人相信“AI”具有某种智慧：这些模型用非线性优化来拟合大规模数据集，希望复制其分布。虽然这些工具很有用，但没有任何理由相信这就是和人类相似的智慧。
+
+Santiago：用什么样的机器学习技术并不重要，不需要机器学习的解决方案几乎总是更好的。 ​​​​
+
+优秀机器学习系统设计原则
+https://medium.com/@_sumitsaha_/principles-of-good-ml-system-design-cdf98c4b2035
+![](https://wx1.sinaimg.cn/mw690/5396ee05ly1gu5fe1uy5bj212w0t5tmc.jpg)
+
+悟道团队写的一个关于预训练模型的综述，40多页，基本上算是从技术上把预训练的来龙去脉说了一下
+http://keg.cs.tsinghua.edu.cn/jietang/publications/AIOPEN21-Han-et-al-Pre-Trained%20Models-%20Past,%20Present%20and%20Future.pdf
+
+《The Machine & Deep Learning Compendium》。
+里面主要整理了其过去 4 年撰写的机器学习与深度学习纲要，共 500 个主题，覆盖机器学习算法、统计、特征选择和工程技术、深度学习、NLP、时间序列、计算机视觉等分类。
+每个主题下均含有不同的摘要、资源、文章等内容。其内容来自作者在过去几年，通过互联网发现的一些比较高质量或有趣的东西，可作为大家平时学习参考使用。
+github.com/orico/www.mlcompendium.com
+
+免费书：基于物理的深度学习
+github.com/tum-pbs/pbdl-book
