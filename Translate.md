@@ -85,3 +85,9 @@ github.com/xhlulu/dl-translate
 EasyNMT - 易于使用的最先进神经网络机器翻译，支持100+种语言
 http://easynmt.net/demo/
 https://github.com/UKPLab/EasyNMT
+
+TensorFlow实例教程：基于注意力的神经机器翻译
+https://www.tensorflow.org/text/tutorials/nmt_with_attention
+
+Cross-Attention is All You Need: Adapting Pretrained Transformers for Machine Translation
+github.com/MGheini/xattn-transfer-for-mt 

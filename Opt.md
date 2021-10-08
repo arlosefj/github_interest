@@ -329,3 +329,9 @@ github.com/irfanICMLL/TorchDistiller
 
 用NVIDIA开源模块实现加速SE(3)-Transformer训练，“使用内存少9x，速度比基准官方实现快21x”
 github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/DrugDiscovery/SE3Transformer
+
+面向计算机视觉知识蒸馏文献集
+github.com/lilujunai/Awesome-Knowledge-Distillation-for-CV
+
+### DS-Net++: Dynamic Weight Slicing for Efficient Inference in CNNs and Transformers
+github.com/changlin31/DS-Net

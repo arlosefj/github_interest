@@ -493,3 +493,6 @@ https://arxiv.org/abs/2109.00574
 
 pixray：神经网络图像生成系统
 github.com/dribnet/pixray
+
+### SketchHairSalon: Deep Sketch-based Hair Image Synthesis
+https://arxiv.org/abs/2109.07874

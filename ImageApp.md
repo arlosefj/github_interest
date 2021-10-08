@@ -1082,3 +1082,13 @@ github.com/BR-IDL/PaddleViT
 
 HugsVision：易用的huggingface封装库，可轻松开发最先进计算机视觉技术，包括图像分类、语义分割、目标检测分析、图像生成、去噪等
 github.com/qanastek/HugsVision
+
+Keras实例：MIRNet低光照图像增强
+https://keras.io/examples/vision/mirnet/
+
+### 深度学习在图像处理中的应用教程 #TEACH
+里面主要整理了作者在研究生期间的学习内容，教程将以视频的内容呈现，主要介绍网络结构与创新点、基于 PyTorch / TensorFlow 搭建与训练网络。
+github.com/WZMIAOMIAO/deep-learning-for-image-processing
+
+OpenCV教程应用程序的源代码
+github.com/JimmyHHua/opencv_tutorials

@@ -1292,3 +1292,6 @@ github.com/borisdayma/lightning-kitti
 
 Keras实例：DeepLabV3+多类语义分割
 https://keras.io/examples/vision/deeplabv3_plus/
+
+RobustVideoMatting技术引入了一种强大、实时、高分辨率的人物视频抠图方法，使用循环神经网络，在处理视频流时有时间记忆，可在任意视频上做实时高清抠像。在 Nvidia GTX 1080Ti 上实现 4K 76FPS 和 HD 104FPS。
+github.com/PeterL1n/RobustVideoMatting/ 

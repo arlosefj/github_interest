@@ -467,3 +467,12 @@ github.com/HomebrewNLP/HomebrewNLP
 
 Pytorch GPT-X - Train GPT-3 model on V100(16GB Mem) Using improved Transformer
 github.com/nawnoes/pytorch-gpt-x
+
+An Empirical Study of GPT-3 for Few-Shot Knowledge-Based VQA
+https://arxiv.org/abs/2109.05014
+
+实例教程：用PyTorch实现BERT
+https://neptune.ai/blog/how-to-code-bert-using-pytorch-tutorial
+
+基于transformers的自然语言处理(NLP)入门 - we want to create a repo to illustrate usage of transformers in chinese
+github.com/datawhalechina/learn-nlp-with-transformers

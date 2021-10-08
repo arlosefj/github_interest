@@ -794,3 +794,57 @@ Processor》(CVPR 2020) GitHub:https:// github.com/joeaortiz/gbp-poplar
 《TSDAE: Using Transformer-based Sequential Denoising Auto-Encoder for Unsupervised Sentence Embedding Learning》(2021) GitHub:https:// github.com/UKPLab/pytorch-bertflow
 《Diffusion Models Beat GANS on Image Synthesis》(2021) GitHub:https:// github.com/crowsonkb/guided-diffusion
 《MaRS : A Modular and Robust Sensor-Fusion Framework》(2020) GitHub:https:// github.com/aau-cns/mars_lib 
+《On Self-Contact and Human Pose》(ICCV 2021) GitHub:https:// github.com/muelea/tuch 
+《Counterfactual Attention Learning for Fine-Grained Visual Categorization and Re-identification》(ICCV 2021) GitHub:https:// github.com/raoyongming/CAL ![fig2](https://wx4.sinaimg.cn/mw690/001wUkn3ly1gug2732bx0j61wi0muh2602.jpg)
+《Manifold Matching via Deep Metric Learning for Generative Modeling》(ICCV 2021) GitHub:https:// github.com/dzld00/pytorch-manifold-matching 
+《End-to-End Urban Driving by Imitating a Reinforcement Learning Coach》(ICCV 2021) GitHub:https:// github.com/zhejz/carla-roach 
+《Distantly-Supervised Named Entity Recognition with Noise-Robust Learning and Language Model Augmented Self-Training》(EMNLP 2021) GitHub:https:// github.com/yumeng5/RoSTER
+《Evaluation Examples Are Not Equally Informative: How Should That Change NLP Leaderboards?》(ACL 2021) GitHub:https:// github.com/facebookresearch/irt-leaderboard
+《IICNet: A Generic Framework for Reversible Image Conversion》(ICCV 2021) GitHub:https:// github.com/felixcheng97/IICNet 
+《ILVR: Conditioning Method for Denoising Diffusion Probabilistic Models》(ICCV 2021) GitHub:https:// github.com/jychoi118/ilvr_adm 
+《Towards mental time travel: a hierarchical memory for reinforcement learning agents》(2021) GitHub:https:// github.com/lucidrains/HTM-pytorch 
+《Decoupling Magnitude and Phase Estimation with Deep ResUet for Music Source Separation》(2021) GitHub:https:// github.com/bytedance/music_source_separation
+《Phy-Q: A Benchmark for Physical Reasoning》(2021) GitHub:https:// github.com/phy-q/benchmark 
+《CPT: A Pre-Trained Unbalanced Transformer for Both Chinese Language Understanding and Generation》(2021) GitHub:https:// github.com/fastnlp/CPT 
+《LibFewShot: A Comprehensive Library for Few-shot Learning》(2021) GitHub:https:// github.com/RL-VIG/LibFewShot
+《DAFNe: A One-Stage Anchor-Free Deep Model for Oriented Object Detection》(2021) GitHub:https:// github.com/steven-lang/DAFNe
+《Out-of-boundary View Synthesis towards Full-frame Video Stabilization》(2021) GitHub:https:// github.com/Annbless/OVS_Stabilization ![fig7](https://wx4.sinaimg.cn/mw690/001wUkn3ly1guh9iz872fj62m11b0u0x02.jpg)
+《PixelTransformer: Sample Conditioned Signal Generation》(ICML 2021) GitHub:https:// github.com/shubhtuls/PixelTransformer
+《DAG Amendment for Inverse Control of Parametric Shapes》(Siggraph  2021) GitHub:https:// github.com/eliemichel/DagAmendment 
+《Contrastive Representation Learning for Exemplar-Guided Paraphrase Generation》(2021) GitHub:https:// github.com/LHRYANG/CRL_EGPG 
+《Single-sequence protein structure prediction using language models from deep learning》(2021) GitHub:https:// github.com/hypnopump/rgn2-replica 
+《BMC: Accelerating Memcached using Safe In-kernel Caching and Pre-stack Processing》(2021) GitHub:https:// github.com/Orange-OpenSource/bmc-cache
+《Long-tail Learning via Logit Adjustment》(ICLR 2021) GitHub:https:// github.com/Chumsy0725/logit-adj-pytorch
+《An End-to-End Transformer Model for 3D Object Detection》(ICCV 2021) GitHub:https:// github.com/facebookresearch/3detr
+《Performance-Efficiency Trade-offs in Unsupervised Pre-training for Speech Recognition》(2021) GitHub:https:// github.com/asappresearch/sew
+《Overlap-aware low-latency online speaker diarization based on end-to-end local segmentation》(2021) GitHub:https:// github.com/juanmc2005/StreamingSpeakerDiarization ![fig2](https://wx4.sinaimg.cn/mw690/001wUkn3ly1gujjfgo5v0j60ec0iwtc802.jpg)
+《Certifiable Outlier-Robust Geometric Perception: Exact Semidefinite Relaxations and Scalable Global Optimization》(2021) GitHub:https:// github.com/MIT-SPARK/CertifiablyRobustPerception
+《Multi-Scale Aligned Distillation for Low-Resolution Detection》(CVPR 2021) GitHub:https:// github.com/dvlab-research/MSAD ![fig1](https://wx1.sinaimg.cn/mw690/001wUkn3ly1guicjjtjy1j60vc09adlh02.jpg)
+《SPARQLing Database Queries from Intermediate Question Decompositions》(EMNLP 2021) GitHub:https:// github.com/yandex-research/sparqling-queries
+《Spatio-temporal Self-Supervised Representation Learning for 3D Point Clouds》(ICCV 2021) GitHub:https:// github.com/yichen928/STRL
+《Pack Together: Entity and Relation Extraction with Levitated Marker》(2021) GitHub:https:// github.com/thunlp/PL-Marker 
+《Data-Efficient Instance Generation from Instance Discrimination》(2021) GitHub:https:// github.com/genforce/insgen 
+《Simple Entity-centric Questions Challenge Dense Retrievers》(EMNLP 2021) GitHub:https:// github.com/princeton-nlp/EntityQuestions
+《Image synthesis via semantic synthesis》(ICCV 2021) GitHub:https:// github.com/dvlab-research/SCGAN ![fig2](https://wx1.sinaimg.cn/mw690/001wUkn3ly1guknr0fwopj611i0j9wpc02.jpg)
+### 《Amplitude-Phase Recombination: Rethinking Robustness of Convolutional Neural Networks in Frequency Domain》(ICCV 2021) GitHub:https:// github.com/iCGY96/APR ![fig5](https://wx3.sinaimg.cn/mw690/001wUkn3ly1guknz3vwdlj62900wykjl02.jpg)
+《Panoptic Narrative Grounding》(ICCV 2021) GitHub:https:// github.com/BCV-Uniandes/PNG ![fig8](https://photo.weibo.com/1402400261/wbphotos/large/mid/4682762609496021/pid/001wUkn3ly1gukoyjuejsg60rs08zu0x02)
+《StyleCariGAN: Caricature Generation via StyleGAN Feature Map Modulation》(SIGGRAPH  2021) GitHub:https:// github.com/wonjongg/StyleCariGAN ![fig3](https://wx4.sinaimg.cn/mw690/001wUkn3ly1guknrfmlt0j618g0p0tqe02.jpg)
+《RAFT-Stereo: Multilevel Recurrent Field Transforms for Stereo Matching》(2021) GitHub:https:// github.com/princeton-vl/RAFT-Stereo ![fig1](https://wx1.sinaimg.cn/mw690/001wUkn3ly1guknetwuy1j61sr0p0k9802.jpg)
+《Pointly-supervised 3D Scene Parsing with Viewpoint Bottleneck》(2021) GitHub:https:// github.com/OPEN-AIR-SUN/Viewpoint-Bottleneck 
+《Fast and Robust Certifiable Estimation of the Relative Pose Between Two Calibrated Cameras》(2021) GitHub:https:// github.com/mergarsal/FastCertRelPose
+《Local Metrics for Multi-Object Tracking》(2021) GitHub:https:// github.com/google-research/localmot
+《Visual Camera Re-Localization from RGB and RGB-D Images Using DSAC》(2020) GitHub:https:// github.com/vislearn/dsacstar
+《Can NLI Models Verify QA Systems’ Predictions?》(EMNLP 2021) GitHub:https:// github.com/jifan-chen/QA-Verification-Via-NLI
+《Contrastive Syn-to-Real Generalization》(ICLR 2021) GitHub:https:// github.com/ryanking13/CSG
+《Towards Flexible Blind JPEG Artifacts Removal》(ICCV 2021) GitHub:https:// github.com/jiaxi-jiang/FBCNN ![fig2](https://wx4.sinaimg.cn/mw690/001wUkn3ly1guoen9lmedj61am0yuagq02.jpg)
+《Scaling-up Disentanglement for Image Translation》(ICCV 2021) GitHub:https:// github.com/avivga/overlord
+《A New Journey from SDRTV to HDRTV》(ICCV 2021) GitHub:https:// github.com/chxy95/HDRTVNet ![fig3](https://wx4.sinaimg.cn/mw690/001wUkn3ly1guog5nezc4j61jk0jjqok02.jpg)
+《Empirical Analysis of Training Strategies of Transformer-based Japanese Chit-chat Systems》(2021) GitHub:https:// github.com/nttcslab/japanese-dialog-transformers
+《Instance-Conditioned GAN》(2021) GitHub:https:// github.com/facebookresearch/ic_gan ![fig1](https://wx3.sinaimg.cn/mw690/001wUkn3ly1guoeesi2qej610o0irqrt02.jpg)
+《PICARD - Parsing Incrementally for Constrained Auto-Regressive Decoding from Language Models》(EMNLP 2021) GitHub:https:// github.com/ElementAI/picard
+《BoB: BERT Over BERT for Training Persona-based Dialogue Models from Limited Personalized Data》(ACL 2021) GitHub:https:// github.com/songhaoyu/BoB
+《CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification》(ICCV 2021) GitHub:https:// github.com/IBM/CrossViT
+《Rethinking High-order Graph Convolutional Networks》(2021) GitHub:https:// github.com/lygztq/SEAggregation ![fig1](https://wx2.sinaimg.cn/mw690/001wUkn3ly1gupbtuul0sj60tg0f6td102.jpg)
+《Daft-Exprt: Robust Prosody Transfer Across Speakers for Expressive Speech Synthesis》(2021) GitHub:https:// github.com/ubisoft/ubisoft-laforge-daft-exprt
+《From Continuity to Editability: Inverting GANs with Consecutive Images》(ICCV 2021) GitHub:https:// github.com/cnnlstm/InvertingGANs_with_ConsecutiveImgs
+《Compositionally Generalizable 3D Structure Prediction》(2020) GitHub:https:// github.com/hansongfang/CompNet

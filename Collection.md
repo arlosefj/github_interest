@@ -74,3 +74,6 @@ https://www.dpm.org.cn/shuziduobaoge.html​​​​
 
 华语现代诗歌语料库 - 最全的汉语现代诗歌语料库整理，2K+诗人，41K+诗歌，8M+字，包括五四至今的所有流派
 github.com/sheepzh/poetry
+
+计算机科学资源集锦
+github.com/kirillbobyrev/computer-science-resources

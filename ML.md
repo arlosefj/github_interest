@@ -1473,3 +1473,16 @@ github.com/orico/www.mlcompendium.com
 
 免费书：基于物理的深度学习
 github.com/tum-pbs/pbdl-book
+
+### Tangram（七巧板），一个可帮助 AI 开发者快速训练、部署与监控机器学习模型的开源工具。
+通过该项目提供的命令行工具与 App，可清晰查看模型的各项统计数据与指标，调整模型并提升性能，跟踪并计算生产环境模型精准度等功能。
+github.com/tangramdotdev/tangram ​​​​
+
+《机器学习与深度学习纲要》
+github.com/orico/www.mlcompendium.com
+
+机器学习中的数学
+https://www.bilibili.com/video/BV1Yf4y1G72o/
+
+AI Summer深度学习文章集
+github.com/The-AI-Summer/learn-deep-learning

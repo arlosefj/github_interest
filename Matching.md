@@ -208,3 +208,12 @@ github.com/GuidoBartoli/sherloq ​​​​
 
 ScatSimCLR: self-supervised contrastive learning with pretext task regularization for small-scale datasets
 github.com/vkinakh/scatsimclr 
+
+TensorFlow Similarity: TensorFlow相似度学习/度量学习/对比学习库
+github.com/tensorflow/similarity
+
+Keras实例：NNCLR自监督对比学习
+https://keras.io/examples/vision/nnclr/
+
+Keras实例：近似重复图像搜索
+https://keras.io/examples/vision/near_dup_search/

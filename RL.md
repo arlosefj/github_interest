@@ -289,3 +289,6 @@ https://www.bilibili.com/video/BV1kQ4y1Y7Gn/
 
 Yet Another Reinforcement Learning Tutorial：强化学习教程
 github.com/sjchoi86/rl_tutorial
+
+基于深度强化学习的原神自动钓鱼AI
+github.com/7eu7d7/genshin_auto_fish

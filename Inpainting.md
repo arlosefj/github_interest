@@ -168,3 +168,6 @@ github.com/lucidrains/uformer-pytorch
 
 Internal Video Inpainting by Implicit Long-range Propagation
 https://arxiv.org/abs/2108.01912
+
+Resolution-robust Large Mask Inpainting with Fourier Convolutions
+github.com/saic-mdal/lama

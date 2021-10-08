@@ -439,3 +439,6 @@ https://storage.googleapis.com/tfjs-models/demos/pose-detection/index.html?model
 
 VoxelPose: Towards Multi-Camera 3D Human Pose Estimation in Wild Environment
 github.com/microsoft/voxelpose-pytorch
+
+ActionCLIP: A New Paradigm for Video Action Recognition
+https://arxiv.org/abs/2109.08472

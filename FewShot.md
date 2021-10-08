@@ -320,3 +320,6 @@ https://weibo.com/ttarticle/p/show?id=2309404671955579306025
 
 Few-shot Visual Relationship Co-localization
 github.com/vl2g/VRC
+
+LibFewShot：少样本学习综合库
+github.com/RL-VIG/LibFewShot

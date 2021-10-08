@@ -171,3 +171,6 @@ https://github.com/terryky/android_tflite
 
 PyTorch手机Demo Apps概览 #教学
 https://pytorch.org/blog/mobile-demo-apps-overview/
+
+### TFLite Mobile Generic Object Localizer：未知目标检测
+github.com/ibaiGorordo/TFLite-Mobile-Generic-Object-Localizer

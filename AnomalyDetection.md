@@ -167,3 +167,6 @@ github.com/dmzou/RSRAE
 
 Towards Total Recall in Industrial Anomaly Detection
 https://arxiv.org/abs/2106.08265
+
+### Anomaly Toolbox：基于GAN的异常检测工具包 #GAN
+github.com/zurutech/anomaly-toolbox

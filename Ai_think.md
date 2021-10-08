@@ -183,3 +183,11 @@ towardsdatascience.com/4-things-i-wish-i-knew-before-starting-in-the-ai-industry
 
 Jeremy Howard访谈：Kaggle, Enlitic, 与 fast.ai 
 https://thegradientpub.substack.com/p/jeremy-howard-on-kaggle-enlitic-and
+
+Stephen Hanson vs. Michael Jordan：AI革命是否正在到来？
+https://www.bilibili.com/video/BV1R64y1b77V/
+
+斯坦福AI状况报告
+https://ai100.stanford.edu/2021-report/gathering-strength-gathering-storms-one-hundred-year-study-artificial-intelligence?sf151132193=1
+
+François Chollet：关于机器学习的一个普遍误解是，模型是中立/客观的，反映的只是用来训练的数据。建模方式的选择是在对数据进行了强假设之后，在应用中使用模型实际上反映了人对问题的理解。 ​​​ ​​​​

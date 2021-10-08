@@ -818,3 +818,6 @@ github.com/PaddlePaddle/PaddleOCR
 
 STRIVE: Scene Text Replacement In Videos
 https://arxiv.org/abs/2109.02762
+
+TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models
+github.com/microsoft/unilm/tree/master/trocr

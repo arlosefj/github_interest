@@ -788,3 +788,6 @@ https://intellipaat.com/blog/tutorial/python-tutorial/numpy-cheat-sheet/
 
 Matplotlib使用速查
 https://www.datacamp.com/community/blog/python-matplotlib-cheat-sheet
+
+jupyverse：基于FastAPI的(非官方) Jupyter服务
+github.com/jupyter-server/jupyverse

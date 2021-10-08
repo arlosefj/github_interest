@@ -767,3 +767,10 @@ github.com/lizekang/DSTC10-MOD
 
 DataCLUE: 国内首个以数据为中心的AI测评（含模型分析报告）
 github.com/CLUEbenchmark/DataCLUE
+
+LAION-400M：包含4亿样本世界上最大的公开图像-文本对数据集,数据来源于 Common Crawl 在 2014 - 2021 年间随机抓取的网页。
+https://laion.ai/laion-400-open-dataset/
+
+谷歌基于维基百科开发的数据集WIT（Wikipedia-Based Image Text），是一个通过从维基百科文章及其图像链接中提取多个与图像相关的文本，在过滤后得到的高品质的图像文本集。
+WIT中包含有3750万个图像-文本实例，其中包括1150万个跨108种语言的图像。
+github.com/google-research-datasets/wit

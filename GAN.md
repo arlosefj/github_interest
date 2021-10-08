@@ -1040,3 +1040,6 @@ github.com/bytedance/OMGD
 
 GAN Inversion for Out-of-Range Images with Geometric Transformations
 https://arxiv.org/abs/2108.08998
+
+Instance-Conditioned GAN
+https://arxiv.org/abs/2109.05070

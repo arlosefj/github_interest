@@ -722,3 +722,12 @@ https://distill.pub/2021/understanding-gnns/
 
 Sparse-MLP: A Fully-MLP Architecture with Conditional Computation
 https://arxiv.org/abs/2109.02008
+
+Block Pruning For Faster Transformers
+https://arxiv.org/abs/2109.04838
+
+Sparse MLP for Image Recognition: Is Self-Attention Really Necessary?
+https://arxiv.org/abs/2109.05422
+
+### 为何 Transformer 在计算机视觉中如此受欢迎 #Transformer
+https://weibo.com/ttarticle/p/show?id=2309404684991857820078

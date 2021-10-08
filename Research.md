@@ -155,3 +155,9 @@ github.com/curryandsun/neural_network_papers
 
 科技写作中的常见错误
 https://cs.dartmouth.edu/~wjarosz/writing.md.html
+
+CVFPaperHelper：按关键词自动下载CVPR论文
+github.com/JamesQFreeman/CVFPaperHelper 
+
+写好文献综述的“5个C”和“6个W”
+https://journals.sagepub.com/doi/10.1177/1534484314536705

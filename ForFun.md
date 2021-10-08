@@ -397,3 +397,6 @@ https://arxiv.org/abs/2108.11515
 
 ### MoveNet Multipose Tracking on OpenVINO：OpenVINO上实现的MoveNet多姿态跟踪
 github.com/geaxgx/openvino_movenet_multipose
+
+### air-drawing：基于深度学习的摄像头”凭空”手绘
+github.com/loicmagne/air-drawing

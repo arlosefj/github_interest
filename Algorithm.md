@@ -382,3 +382,6 @@ github.com/Dairongpeng/algorithm-note ​​​​
 
 b-tree大体的算法思想，发现一个不错的项目，把sqlite2.5里b-tree相关的部分代码抽取出来了：
 github.com/madushadhanushka/simple-sqlite
+
+【Kite：图论交互可视化工具】
+github.com/erkal/kite

@@ -634,3 +634,10 @@ https://ai.googleblog.com/2021/08/recreating-natural-voices-for-people.html
 
 大规模多样无序语音数据集的个性化语音识别模型
 https://ai.googleblog.com/2021/09/personalized-asr-models-from-large-and.html
+
+功能齐全的语音工具包：SpeechBrain，提供语音识别（支持普通话）、语音增强、语音处理、多麦克风信号处理、模块化定制等功能。
+此外，该工具还提供了颇为齐全的教程文档，以便帮助开发者更好的入门语音识别技术。
+github.com/speechbrain/speechbrain/ ​​​​
+
+Music Demixing Challenge 2021音源分离比赛第四名方案
+github.com/yoyololicon/music-demixing-challenge-ismir-2021-entry

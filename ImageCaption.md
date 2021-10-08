@@ -998,3 +998,22 @@ github.com/SHI-Labs/Convolutional-MLPs
 
 Data Efficient Masked Language Modeling for Vision and Language
 github.com/yonatanbitton/data_efficient_masked_language_modeling_for_vision_and_language 
+
+EfficientCLIP: Efficient Cross-Modal Pre-training by Ensemble Confident Learning and Language Modeling
+https://arxiv.org/abs/2109.04699
+![](https://wx4.sinaimg.cn/mw690/001wUkn3ly1gufp6tfg83j613p0dhafb02.jpg)
+
+Vision-and-Language or Vision-for-Language? On Cross-Modal Influence in Multimodal Transformers
+github.com/e-bug/cross-modal-ablation
+
+VQGAN-CLIP-Docker：Docker化部署的零样本文本-图像生成VQGAN+CLIP
+github.com/kcosta42/VQGAN-CLIP-Docker
+
+xGQA: Cross-Lingual Visual Question Answering
+github.com/Adapter-Hub/xGQA
+
+Optimum：大规模Transformer优化工具包
+github.com/huggingface/optimum
+
+Audio-Visual Speech Recognition is Worth 32×32×8 Voxels
+https://arxiv.org/abs/2109.09536

@@ -884,3 +884,6 @@ https://girliemac.com/blog/2017/12/26/git-purr/
 
 Scrcpy，一个通过 USB（或 TCP / IP）连接到电脑上高清显示和流畅控制 Android 设备的工具，适用于 GNU/Linux、Windows 和 Mac OS，无需 root 权限。
 GitHub：github.com/Genymobile/scrcpy 
+
+wechat-export：将微信聊天记录导出为HTML文件
+github.com/luin/wechat-export
