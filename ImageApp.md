@@ -1092,3 +1092,6 @@ github.com/WZMIAOMIAO/deep-learning-for-image-processing
 
 OpenCV教程应用程序的源代码
 github.com/JimmyHHua/opencv_tutorials
+
+神经(网络)渲染相关资源大列表
+github.com/zzw-zwzhang/Awesome-of-Neural-Rendering

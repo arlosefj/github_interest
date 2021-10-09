@@ -400,3 +400,12 @@ github.com/geaxgx/openvino_movenet_multipose
 
 ### air-drawing：基于深度学习的摄像头”凭空”手绘
 github.com/loicmagne/air-drawing
+
+Go Motion：以Jetson Xavier NX为核心基于机器学习的定格动画拍摄平台，自动剔除包含手的视频帧
+github.com/nickbild/go_motion
+
+DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing
+github.com/phycvgan/DyStyle
+
+### Python-Image-Morpher：Python图像渐变生成器
+github.com/ddowd97/Python-Image-Morpher

@@ -18,3 +18,6 @@ github.com/zheng95z/fun-with-computer-graphics ​​​​
 
 neurecon：基于神经渲染的多视3D重建
 github.com/ventusff/neurecon
+
+### PytorchGeometricTutorial：PyTorch几何深度学习教程
+github.com/AntonioLonga/PytorchGeometricTutorial

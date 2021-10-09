@@ -292,3 +292,6 @@ github.com/sjchoi86/rl_tutorial
 
 基于深度强化学习的原神自动钓鱼AI
 github.com/7eu7d7/genshin_auto_fish
+
+RLkit：强化学习算法(PyTorch)实现集
+github.com/rail-berkeley/rlkit 

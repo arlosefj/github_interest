@@ -791,3 +791,6 @@ https://www.datacamp.com/community/blog/python-matplotlib-cheat-sheet
 
 jupyverse：基于FastAPI的(非官方) Jupyter服务
 github.com/jupyter-server/jupyverse
+
+’Efficient Python Tricks and Tools for Data Scientists - Efficient Python Tricks and Tools for Data Scientists
+github.com/khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists 

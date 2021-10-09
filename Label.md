@@ -286,3 +286,6 @@ github.com/Kazuhito00/GrabCut-Annotation-Tool/blob/main/README_EN.md
 
 LabelFlow：开放图像标记平台
 github.com/Labelflow/labelflow
+
+DataQA platform：基于远程监督的文本标注平台
+github.com/dataqa/dataqa

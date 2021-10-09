@@ -1041,5 +1041,9 @@ github.com/bytedance/OMGD
 GAN Inversion for Out-of-Range Images with Geometric Transformations
 https://arxiv.org/abs/2108.08998
 
-Instance-Conditioned GAN
+Instance-Conditioned GAN 实例条件GAN：用AI生成未见过事物的图像
 https://arxiv.org/abs/2109.05070
+https://ai.facebook.com/blog/instance-conditioned-gans/
+
+Unaligned Image-to-Image Translation by Learning to Reweight
+github.com/Mid-Push/IrwGAN

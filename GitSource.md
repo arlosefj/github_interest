@@ -848,3 +848,58 @@ Processor》(CVPR 2020) GitHub:https:// github.com/joeaortiz/gbp-poplar
 《Daft-Exprt: Robust Prosody Transfer Across Speakers for Expressive Speech Synthesis》(2021) GitHub:https:// github.com/ubisoft/ubisoft-laforge-daft-exprt
 《From Continuity to Editability: Inverting GANs with Consecutive Images》(ICCV 2021) GitHub:https:// github.com/cnnlstm/InvertingGANs_with_ConsecutiveImgs
 《Compositionally Generalizable 3D Structure Prediction》(2020) GitHub:https:// github.com/hansongfang/CompNet
+《Joint Learning of 3D Shape Retrieval and Deformation》(CVPR 2021) GitHub:https:// github.com/mikacuy/joint_learning_retrieval_deformation 
+《ActionCLIP: A New Paradigm for Action Recognition》(ICCV 2021) GitHub:https:// github.com/sallymmx/ActionCLIP ![fig1](https://wx4.sinaimg.cn/mw690/001wUkn3ly1gurlrxjondj60h90cptdb02.jpg)
+《WARP: Word-level Adversarial ReProgramming》(ACL 2021) GitHub:https:// github.com/YerevaNN/WARP 
+《Compression, Transduction, and Creation: A Unified Framework for Evaluating Natural Language Generation》(EMNLP 2021) GitHub:https:// github.com/tanyuqian/ctc-gen-eval
+《Finding a Balanced Degree of Automation for Summary Evaluation》(EMNLP 2021) GitHub:https:// github.com/ZhangShiyue/Lite2-3Pyramid
+《DeepPanoContext: Panoramic 3D Scene Understanding with Holistic Scene Context Graph and Relation-based Optimization》(ICCV 2021) GitHub:https:// github.com/chengzhag/DeepPanoContext 
+《FIDNet: LiDAR Point Cloud Semantic Segmentation with Fully Interpolation Decoding》(2021) GitHub:https:// github.com/placeforyiming/IROS21-FIDNet-SemanticKITTI 
+《CondNet: Conditional Classifier for Scene Segmentation》(ICCV 2021) GitHub:https:// github.com/ycszen/CondNet ![fig5](https://wx4.sinaimg.cn/mw690/001wUkn3ly1gurm86n3dwj613e0pqq9a02.jpg)
+《Container: Context Aggregation Network》(2021) GitHub:https:// github.com/allenai/container
+《RNG-KBQA: Generation Augmented Iterative Ranking for Knowledge Base Question Answering》(2021) GitHub:https:// github.com/salesforce/rng-kbqa
+《Hierarchical Memory Matching Network for Video Object Segmentation》(ICCV 2021) GitHub:https:// github.com/Hongje/HMMN ![fig2](https://wx4.sinaimg.cn/mw690/001wUkn3ly1gusqfhvjpfj66e83ncnph02.jpg)
+《Remixers: A Mixer-Transformer Architecture with Compositional Operators for Natural Language Understanding》(2021) GitHub:https:// github.com/lucidrains/remixer-pytorch ![fig1](https://wx4.sinaimg.cn/mw690/001wUkn3ly1gusqecu1unj60eq0cu0xx02.jpg)
+《Zero-Shot Text-to-Speech for Text-Based Insertion in Audio Narration》(2021) GitHub:https:// github.com/rishikksh20/Zero-Shot-TTS 
+《Learning Open-World Object Proposals without Learning to Classify》(2021) GitHub:https:// github.com/mcahny/object_localization_network ![fig4](https://wx1.sinaimg.cn/mw690/001wUkn3ly1gusqw4nb7hj610p0vsqqe02.jpg)
+《A Simple Baseline for Semi-supervised Semantic Segmentation with Strong Data Augmentation》(ICCV 2021) GitHub:https:// github.com/jianlong-yuan/SimpleBaseline
+《Anticipative Video Transformer》(ICCV 2021) GitHub:https:// github.com/facebookresearch/AVT
+《Don’t be Contradicted with Anything!CI-ToD: Towards Benchmarking Consistency for Task-oriented Dialogue System》(EMNLP 2021) GitHub:https:// github.com/yizhen20133868/ci-tod
+《Video Super-Resolution Transformer》(2021) GitHub:https:// github.com/caojiezhang/VSR-Transformer ![fig2](https://wx3.sinaimg.cn/mw690/001wUkn3ly1gutz0ng13aj61cu0z87eu02.jpg)
+《Reference-Based Sketch Image Colorization using Augmented-Self Reference and Dense Semantic Correspondence》(CVPR 2020) GitHub:https:// github.com/zhaoyuzhi/Reference-Based-Sketch-Image-Colorization-ImageNet
+《Conditional probing: measuring usable information beyond a baseline》(EMNLP 2021) GitHub:https:// github.com/john-hewitt/conditional-probing
+《Intersection-free Rigid Body Dynamics》(SIGGRAPH 2021) GitHub:https:// github.com/ipc-sim/rigid-ipc
+《TruthfulQA: Measuring How Models Imitate Human Falsehoods》(2021) GitHub:https:// github.com/sylinrl/TruthfulQA
+《DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing》(2021) GitHub:https:// github.com/phycvgan/DyStyle ![fig1](https://wx1.sinaimg.cn/mw690/001wUkn3ly1guqhy98ittj616w0o2wnl02.jpg)
+《PlotCoder: Hierarchical Decoding for Synthesizing Visualization Code in Programmatic Context》(ACL 2021) GitHub:https:// github.com/Jungyhuk/plotcoder
+《Fast, Effective, and Self-Supervised: Transforming Masked Language Models into Universal Lexical and Sentence Encoders》(EMNLP 2021) GitHub:https:// github.com/cambridgeltl/mirror-bert
+《Deep Stable Learning for Out-Of-Distribution Generalization》(CVPR 2021) GitHub:https:// github.com/xxgege/StableNet
+《VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation》(CVPR 2021) GitHub:https:// github.com/Liang-ZX/VectorNet
+《Energy-Based Open-World Uncertainty Modeling for Confidence Calibration》(ICCV 2021) GitHub:https:// github.com/BIGKnight/Energy-Based-Open-World-Uncertainty-Modeling-for-Confidence-Calibration
+《Simpler is Better: Few-shot Semantic Segmentation with Classifier Weight Transformer》(ICCV 2021) GitHub:https:// github.com/zhiheLu/CWT-for-FSS ![fig2](https://wx1.sinaimg.cn/mw690/001wUkn3ly1guxg42sx7fj614r0evtgt02.jpg)
+《Speech Resynthesis from Discrete Disentangled Self-Supervised Representations》(INTERSPEECH  2021) GitHub:https:// github.com/facebookresearch/speech-resynthesis 
+《Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-on and Outfit Editing.》(ICCV 2021) GitHub:https:// github.com/cuiaiyu/dressing-in-order ![fig5](https://wx3.sinaimg.cn/mw690/001wUkn3gy1guv43s3mqbj61a20hz1gl02.jpg)
+《UPDeT: Universal Multi-agent Reinforcement Learning via Policy Decoupling with Transformers》(ICLR 2021) GitHub:https:// github.com/hhhusiyi-monash/UPDeT
+《Uformer: A General U-Shaped Transformer for Image Restoration》(2021) GitHub:https:// github.com/ZhendongWang6/Uformer
+《PREDATOR: Registration of 3D Point Clouds with Low Overlap》(2021) GitHub:https:// github.com/zhulf0804/PREDATOR 
+《SimSwap: An Efficient Framework For High Fidelity Face Swapping》(2021) GitHub:https:// github.com/a312863063/SimSwap-train ![fig3](https://wx2.sinaimg.cn/mw690/001wUkn3gy1guv3rvyoebj60pl0ck0w402.jpg)
+《RobustART: Benchmarking Robustness on Architecture Design and Training Techniques》(2021) GitHub:https:// github.com/DIG-Beihang/RobustART 
+《Efficient Conformer: Progressive Downsampling and Grouped Attention for Automatic Speech Recognition》(2021) GitHub:https:// github.com/burchim/EfficientConformer 
+《MiniHack the Planet: A Sandbox for Open-Ended Reinforcement Learning Research》(NeurIPS 2021) GitHub:https:// github.com/facebookresearch/minihack 
+《Learning Placeholders for Open-Set Recognition》(CVPR 2021) GitHub:https:// github.com/zhoudw-zdw/CVPR21-Proser
+《Affinity Attention Graph Neural Network for Weakly Supervised Semantic Segmentation》(TPAMI 2021) GitHub:https:// github.com/zbf1991/A2GNN
+《Exploring Relational Context for Multi-Task Dense Prediction》(ICCV 2021) GitHub:https:// github.com/brdav/atrc
+《CLIPort: What and Where Pathways for Robotic Manipulation》(CoRL 2021) GitHub:https:// github.com/cliport/cliport 
+《Pix2seq: A Language Modeling Framework for Object Detection》(2021) GitHub:https:// github.com/gaopengcuhk/Unofficial-Pix2Seq
+《Paradigm Shift in Natural Language Processing》(2021) GitHub:https:// github.com/txsun1997/nlp-paradigm-shift 
+《Very Deep Transformers for Neural Machine Translation》(2020) GitHub:https:// github.com/microsoft/deepnmt
+《Document-level Entity-based Extraction as Template Generation》(EMNLP 2021) GitHub:https:// github.com/PlusLabNLP/TempGen
+《SurRoL: An Open-source Reinforcement Learning Centered and dVRK Compatible Platform for Surgical Robot Learning》(IROS 2021) GitHub:https:// github.com/med-air/SurRoL 
+《Single-dataset Experts for Multi-dataset Question-Answering》(EMNLP 2021) GitHub:https:// github.com/princeton-nlp/MADE
+《Deep Halftoning with Reversible Binary Pattern》(ICCV 2021) GitHub:https:// github.com/MenghanXia/ReversibleHalftoning 
+《BabelCalib: A Universal Approach to Calibrating Central Cameras》(ICCV 2021) GitHub:https:// github.com/ylochman/babelcalib
+《You Do Not Need a Bigger Boat: Recommendations at Reasonable Scale in a (Mostly) Serverless and Open Stack》(RecSys 2021) GitHub:https:// github.com/jacopotagliabue/you-dont-need-a-bigger-boat
+《DziriBERT: a Pre-trained Language Model for the Algerian Dialect》(2021) GitHub:https:// github.com/alger-ia/
+dziribert
+《Robust Risk-Aware Reinforcement Learning by Sebastian Jaimungal, Silvana Pesenti, Ye Sheng Wang, and Hariom Tatsat》(2021) GitHub:https:// github.com/sebjai/robust-risk-aware-rl
+《TransPose: Real-time 3D Human Translation and Pose Estimation with Six Inertial Sensors》(2021) GitHub:https:// github.com/Xinyu-Yi/TransPose

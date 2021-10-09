@@ -39,3 +39,9 @@ github.com/microsoft/computervision-recipes
 
 “计算机视觉深度学习”课程(slides, google colab, and Anki decks)
 https://arthurdouillard.com/deepcourse/
+
+“自愈”型Bug
+https://wx3.sinaimg.cn/mw690/001wUkn3ly1guxsjpq0ddj60dw0gjwit02.jpg
+
+EpyNN：纯Python写的教学用神经网络包
+github.com/Synthaze/EpyNN

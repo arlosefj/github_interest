@@ -334,3 +334,6 @@ github.com/Thmen/EGVSR
 
 SwinIR: Image Restoration Using Swin Transformer
 github.com/JingyunLiang/SwinIR
+
+用TensorFlow、Keras和深度学习实现Pixel Shuffle超分辨率 | PyImageSearch
+https://www.pyimagesearch.com/2021/09/27/pixel-shuffle-super-resolution-with-tensorflow-keras-and-deep-learning/

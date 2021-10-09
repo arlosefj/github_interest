@@ -278,3 +278,6 @@ https://www.bilibili.com/video/BV17y4y1L7aX/
 
 斯坦福新课：实践机器学习
 https://c.d2l.ai/stanford-cs329p/
+
+Data Science for Beginners：微软10周20堂数据科学课
+github.com/microsoft/Data-Science-For-Beginners

@@ -257,3 +257,6 @@ github.com/The-AI-Summer/deep-learning-visuals
 
 chitra：用于模型构建、可解释AI、数据可视化、API构建和部署的深度学习库
 github.com/aniketmaurya/chitra
+
+### xplique：神经网络可解释性工具箱 #TODO
+github.com/deel-ai/xplique

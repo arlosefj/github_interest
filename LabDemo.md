@@ -131,3 +131,9 @@ github.com/exadel-inc/CompreFace ​​​​
 ONNX高效车道检测实例
 github.com/ibaiGorordo/onnx-Ultra-Fast-Lane-Detection-Inference
 ![](https://wx2.sinaimg.cn/mw690/5396ee05ly1gtyqyoqfk2j20zk0k0kc1.jpg)
+
+### fastgradio - a python library to quickly build and share gradio interfaces of your trained fastai models #Visual
+github.com/aliabd/fastgradio
+
+### Hydralit：轻松创建多页Streamlit应用的库
+github.com/TangleSpace/hydralit

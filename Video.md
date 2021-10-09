@@ -383,3 +383,6 @@ github.com/livekit/livekit-server
 
 《TimeLens: Event-based Video Frame Interpolation》(CVPR 2021) 
 github.com/uzh-rpg/rpg_timelens
+
+Moviepy: Video editing with Python
+https://github.com/Zulko/moviepy

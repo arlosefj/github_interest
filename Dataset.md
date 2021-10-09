@@ -774,3 +774,12 @@ https://laion.ai/laion-400-open-dataset/
 谷歌基于维基百科开发的数据集WIT（Wikipedia-Based Image Text），是一个通过从维基百科文章及其图像链接中提取多个与图像相关的文本，在过滤后得到的高品质的图像文本集。
 WIT中包含有3750万个图像-文本实例，其中包括1150万个跨108种语言的图像。
 github.com/google-research-datasets/wit
+
+Goose Dataset：1000张加拿大鹅图片数据集
+github.com/steggie3/goose-dataset
+
+PASS: 大规模图像数据集，不包括任何人、人体部位或其他个人身份信息，可用于高质量预训练，同时大大减少隐私问题
+github.com/yukimasano/PASS
+
+WenetSpeech：10000小时的中文语音识别数据集
+github.com/wenet-e2e/WenetSpeech

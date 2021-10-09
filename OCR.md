@@ -821,3 +821,6 @@ https://arxiv.org/abs/2109.02762
 
 TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models
 github.com/microsoft/unilm/tree/master/trocr
+
+extract-table：从图片中提取表格的API
+github.com/vegarsti/extract-table

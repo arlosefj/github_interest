@@ -1004,3 +1004,9 @@ github.com/zongdai/AutoShape
 
 ### Rotate-Yolov5：基于Ultralytics/yolov5的旋转目标检测
 github.com/XinzeLee/RotateObjectDetection
+
+Pix2seq: A Language Modeling Framework for Object Detection
+https://arxiv.org/abs/2109.10852
+
+《Localizing Objects with Self-Supervised Transformers and no Labels》
+github.com/valeoai/LOST

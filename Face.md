@@ -626,3 +626,6 @@ github.com/bryandlee/malnyun_faces
 
 yolov5_face_landmark - 基于yolov5的人脸检测，带关键点检测
 github.com/xialuxi/yolov5_face_landmark
+
+Aiine Transform (アイン変換)：用TensorFlow Lite实现的基于人脸网格的换脸
+github.com/iwatake2222/aiine_transform

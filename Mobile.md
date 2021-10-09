@@ -174,3 +174,12 @@ https://pytorch.org/blog/mobile-demo-apps-overview/
 
 ### TFLite Mobile Generic Object Localizer：未知目标检测
 github.com/ibaiGorordo/TFLite-Mobile-Generic-Object-Localizer
+
+ncnn_Android_MoveNet：用ncnn实现的安卓手机端MoveNet姿态估计
+github.com/FeiGeChuanShu/ncnn_Android_MoveNet
+
+ONNX-Mobile-Human-Pose-3D：Mobile Human Pose模型的3D人体姿态估计
+github.com/ibaiGorordo/ONNX-Mobile-Human-Pose-3D
+
+### PortraitSeg - 开源移动端高效人像分割
+github.com/zeusees/PortraitSeg

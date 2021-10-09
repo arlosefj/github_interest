@@ -1486,3 +1486,20 @@ https://www.bilibili.com/video/BV1Yf4y1G72o/
 
 AI Summer深度学习文章集
 github.com/The-AI-Summer/learn-deep-learning
+
+《机器学习之数学》。
+该书主要分为两大部分，一讲数学基础，二讲数学在机器学习算法中的应用。你能从该书中学到线性代数、微积分和概率论等数学基础知识。
+https://mml-book.github.io/
+
+《机器学习自学指南》，内容覆盖线性代数、多元微积分、基础机器学习、深度学习等知识。
+github.com/python-engineer/ml-study-plan ​​​​
+
+如何用多GPU训练真正的大模型
+lilianweng.github.io/lil-log/2021/09/24/train-large-neural-networks.html
+
+### 免费课程：Scikit-Learn机器学习技巧50讲(共3小时)
+https://courses.dataschool.io/scikit-learn-tips
+
+A Complete Machine Learning Package：机器学习技术，工具，最佳实践等大列表
+github.com/Nyandwi/machine_learning_complete
+![](https://wx2.sinaimg.cn/mw690/001wUkn3ly1guw8fycge2j60zk0hsqbt02.jpg)

@@ -887,3 +887,6 @@ GitHub：github.com/Genymobile/scrcpy
 
 wechat-export：将微信聊天记录导出为HTML文件
 github.com/luin/wechat-export
+
+OpenVSCode Server：可通过浏览器远程访问的服务器端VS Code
+github.com/gitpod-io/openvscode-server

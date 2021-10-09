@@ -191,3 +191,13 @@ https://www.bilibili.com/video/BV1R64y1b77V/
 https://ai100.stanford.edu/2021-report/gathering-strength-gathering-storms-one-hundred-year-study-artificial-intelligence?sf151132193=1
 
 François Chollet：关于机器学习的一个普遍误解是，模型是中立/客观的，反映的只是用来训练的数据。建模方式的选择是在对数据进行了强假设之后，在应用中使用模型实际上反映了人对问题的理解。 ​​​ ​​​​
+
+人工智能软件创业公司调研
+github.com/WarrenWen666/AI-Software-Startups
+
+要：用两年前的算法、最可靠的实现，标注更多的数据。
+不要: 拿最新的NeurIPS论文，声称超出SOTA 1%，从头实现，可能永远没法复现。 ​​​
+via:Andriy Burkov ​​​​
+
+2021机器学习、人工智能和数据(MAD)全景图
+https://mattturck.com/data2021/

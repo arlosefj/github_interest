@@ -641,3 +641,6 @@ github.com/speechbrain/speechbrain/ ​​​​
 
 Music Demixing Challenge 2021音源分离比赛第四名方案
 github.com/yoyololicon/music-demixing-challenge-ismir-2021-entry
+
+Keras实例：CTC自动语音识别
+https://keras.io/examples/audio/ctc_asr/

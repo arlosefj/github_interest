@@ -506,3 +506,6 @@ https://keras.io/examples/vision/depth_estimation/
 
 MobileStereoNet: 基于MobileNetV1和MobileNetV2的轻量立体匹配网络
 github.com/cogsys-tuebingen/mobilestereonet
+
+Excavating the Potential Capacity of Self-Supervised Monocular Depth Estimation
+github.com/prstrive/EPCDepth

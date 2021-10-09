@@ -740,3 +740,6 @@ github.com/sithu31296/image-classification
 Kornia，一款基于 PyTorch 的可微分的计算机视觉库。可训练模型来执行图像变换、对极几何、深度估计和低级图像处理。
 其核心使用 PyTorch 作为主要后端，以提高效率并利用反向模式自动微分来定义和计算复杂函数的梯度。
 github.com/kornia/kornia 
+
+用PyTorch Lightning将深度学习管线速度加快10倍
+https://devblog.pytorchlightning.ai/how-we-used-pytorch-lightning-to-make-our-deep-learning-pipeline-10x-faster-731bd7ad318a

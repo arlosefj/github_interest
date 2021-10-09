@@ -1017,3 +1017,13 @@ github.com/huggingface/optimum
 
 Audio-Visual Speech Recognition is Worth 32×32×8 Voxels
 https://arxiv.org/abs/2109.09536
+
+### Vision-Transformer-papers：Vision Transformer (ViT)相关工作文献集
+github.com/NielsRogge/Vision-Transformer-papers
+
+Contrastive Language-Image Forensic Search：基于CLIP的对比语言-图像视频语义检索
+github.com/johanmodin/clifs
+
+CogView: Mastering Text-to-Image Generation via Transformers.，
+http://keg.cs.tsinghua.edu.cn/jietang/
+https://agc.platform.baai.ac.cn/CogView/index.html

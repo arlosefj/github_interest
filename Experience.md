@@ -66,3 +66,6 @@ https://github.com/nakaizura/Source-Code-Notebook
 
 《Bag of Tricks for Long-Tailed Visual Recognition with Deep Convolutional Neural Networks》(AAAI 2021) 
 github.com/zhangyongshun/BagofTricks-LT
+
+如何让炼丹更有条理
+github.com/ahangchen/windy-afternoon/blob/master/ml/pratice/torch_best_practice.md
