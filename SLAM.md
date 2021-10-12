@@ -140,3 +140,6 @@ github.com/IRVLab/so_dso_place_recognition
 
 YOLOX-ROS：YOLOX + ROS目标检测
 github.com/Ar-Ray-code/YOLOX-ROS
+
+PaddleRobotics：基于paddle的机器人开源算法库集，包括人机交互、复杂运动控制、环境感知、slam定位导航等开源算法部分
+github.com/PaddlePaddle/PaddleRobotics

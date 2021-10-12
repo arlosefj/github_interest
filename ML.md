@@ -1503,3 +1503,6 @@ https://courses.dataschool.io/scikit-learn-tips
 A Complete Machine Learning Package：机器学习技术，工具，最佳实践等大列表
 github.com/Nyandwi/machine_learning_complete
 ![](https://wx2.sinaimg.cn/mw690/001wUkn3ly1guw8fycge2j60zk0hsqbt02.jpg)
+
+《MLOps实战》随书代码
+github.com/paiml/practical-mlops-book

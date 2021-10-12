@@ -74,3 +74,6 @@ github.com/malhotra5/Manim-Tutorial
 
 交互式线性代数教程源码
 github.com/QBobWatson/ila
+
+《人人可看的线性代数》图形笔记
+github.com/kenjihiranabe/The-Art-of-Linear-Algebra

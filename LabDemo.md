@@ -137,3 +137,6 @@ github.com/aliabd/fastgradio
 
 ### Hydralit：轻松创建多页Streamlit应用的库
 github.com/TangleSpace/hydralit
+
+Keypoint Communities
+github.com/DuncanZauss/Keypoint_Communities

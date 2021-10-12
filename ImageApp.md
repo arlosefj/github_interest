@@ -1095,3 +1095,6 @@ github.com/JimmyHHua/opencv_tutorials
 
 神经(网络)渲染相关资源大列表
 github.com/zzw-zwzhang/Awesome-of-Neural-Rendering
+
+Towards Flexible Blind JPEG Artifacts Removal
+github.com/jiaxi-jiang/FBCNN

@@ -409,3 +409,6 @@ github.com/phycvgan/DyStyle
 
 ### Python-Image-Morpher：Python图像渐变生成器
 github.com/ddowd97/Python-Image-Morpher
+
+Notion Avatar Maker：Notion风头像生成器
+github.com/Mayandev/notion-avatar

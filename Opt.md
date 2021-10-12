@@ -335,3 +335,6 @@ github.com/lilujunai/Awesome-Knowledge-Distillation-for-CV
 
 ### DS-Net++: Dynamic Weight Slicing for Efficient Inference in CNNs and Transformers
 github.com/changlin31/DS-Net
+
+PP-LCNet: A Lightweight CPU Convolutional Neural Network
+https://arxiv.org/abs/2109.15099

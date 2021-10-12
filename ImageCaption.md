@@ -1027,3 +1027,6 @@ github.com/johanmodin/clifs
 CogView: Mastering Text-to-Image Generation via Transformers.，
 http://keg.cs.tsinghua.edu.cn/jietang/
 https://agc.platform.baai.ac.cn/CogView/index.html
+
+《MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer》
+https://arxiv.org/abs/2110.02178

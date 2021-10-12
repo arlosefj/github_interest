@@ -123,3 +123,7 @@ github.com/girliemac/a-picture-is-worth-a-1000-words
 
 Doodles-as-A-Service Repo：数据结构与算法/机器学习图解
 github.com/girliemac/a-picture-is-worth-a-1000-words
+
+### 服务器编程指南
+github.com/howardlau1999/server-programming-guide
+https://liuhaohua.com/server-programming-guide/

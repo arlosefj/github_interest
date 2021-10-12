@@ -45,3 +45,6 @@ https://wx3.sinaimg.cn/mw690/001wUkn3ly1guxsjpq0ddj60dw0gjwit02.jpg
 
 EpyNN：纯Python写的教学用神经网络包
 github.com/Synthaze/EpyNN
+
+代码接手第一原则：能用自有能用的道理，慎改，慎改！[笑cry] 
+![](https://wx2.sinaimg.cn/mw690/001wUkn3ly1guyxkpzy21j60hs0mftgq02.jpg)

@@ -201,3 +201,13 @@ via:Andriy Burkov ​​​​
 
 2021机器学习、人工智能和数据(MAD)全景图
 https://mattturck.com/data2021/
+
+关于AI难以忽视的事实
+https://spectrum.ieee.org/rodney-brooks-ai
+现在成功的AI 项目：1）都有人来兜底； 2）即使失败也无伤大雅
+
+Do Self-Supervised and Supervised Methods Learn Similar Visual Representations?
+https://arxiv.org/abs/2110.00528
+
+IEEE Spectrum杂志特刊：AI大变局——总结与反思
+https://spectrum.ieee.org/special-reports/the-great-ai-reckoning/
