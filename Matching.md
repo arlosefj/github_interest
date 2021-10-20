@@ -217,3 +217,7 @@ https://keras.io/examples/vision/nnclr/
 
 Keras实例：近似重复图像搜索
 https://keras.io/examples/vision/near_dup_search/
+
+Kaggle地标识别(2021)比赛第一名方案
+Efficient large-scale image retrieval with deep feature orthogonality and Hybrid-Swin-Transformers
+github.com/ChristofHenkel/kaggle-landmark-2021-1st-place

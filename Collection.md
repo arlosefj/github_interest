@@ -77,3 +77,6 @@ github.com/sheepzh/poetry
 
 计算机科学资源集锦
 github.com/kirillbobyrev/computer-science-resources
+
+诗词总结
+![](https://arloseimg.oss-cn-hangzhou.aliyuncs.com/20211020112458.png)

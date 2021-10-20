@@ -783,3 +783,6 @@ github.com/yukimasano/PASS
 
 WenetSpeech：10000小时的中文语音识别数据集
 github.com/wenet-e2e/WenetSpeech
+
+### 语音识别数据集列表
+github.com/double22a/speech_dataset

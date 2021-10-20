@@ -824,3 +824,6 @@ github.com/microsoft/unilm/tree/master/trocr
 
 extract-table：从图片中提取表格的API
 github.com/vegarsti/extract-table
+
+TrOCR：基于Transformer的新一代光学字符识别
+https://weibo.com/ttarticle/p/show?id=2309404691531549507776

@@ -476,3 +476,6 @@ https://neptune.ai/blog/how-to-code-bert-using-pytorch-tutorial
 
 基于transformers的自然语言处理(NLP)入门 - we want to create a repo to illustrate usage of transformers in chinese
 github.com/datawhalechina/learn-nlp-with-transformers
+
+语言模型能当做知识库吗？
+https://docs.google.com/presentation/d/1NnWuAqkX04fyWjvKwpnRiY5YQQllPhnuJsTJV1KdkqA/edit?resourcekey=0-LHXPYjSdAr6p1qCHwnFhfg#slide=id.gf5583ae1f7_0_162

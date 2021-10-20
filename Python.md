@@ -794,3 +794,14 @@ github.com/jupyter-server/jupyverse
 
 ’Efficient Python Tricks and Tools for Data Scientists - Efficient Python Tricks and Tools for Data Scientists
 github.com/khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists 
+
+如何在Jupyter Notebook里用正确姿势正确安装Python包(conda&pip)
+jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/
+
+在Ubuntu上一番折腾装上了Python 3.10，记录下目前得出的最佳实践方案，帮需要的朋友少走点弯路～
+>>> sudo apt-get install libffi-dev zlib1g-dev libreadline-gplv2-dev libncursesw5-dev libssl-dev libsqlite3-dev tk-dev libgdbm-dev libc6-dev libbz2-dev
+>>> wget https: //www.python.org/ftp/python/3.10.0/Python-3.10.0.tgz
+>>> tar vxzf Python-3.10.0.tgz
+>>> cd Python-3.10.0
+>>> ./configure && make && sudo make install
+mac的话， $ brew install pyenv $ pyenv install 3.10.0

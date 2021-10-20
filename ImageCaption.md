@@ -1030,3 +1030,6 @@ https://agc.platform.baai.ac.cn/CogView/index.html
 
 《MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer》
 https://arxiv.org/abs/2110.02178
+
+### CLIP prefix captioning.：基于CLIP的简单图像描述模型 #TODO
+github.com/rmokady/CLIP_prefix_caption

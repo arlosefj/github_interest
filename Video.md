@@ -386,3 +386,6 @@ github.com/uzh-rpg/rpg_timelens
 
 Moviepy: Video editing with Python
 https://github.com/Zulko/moviepy
+
+不到30行代码实现的MaryJane MJPEG server视频流服务器
+github.com/bootrino/maryjane

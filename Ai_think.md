@@ -211,3 +211,6 @@ https://arxiv.org/abs/2110.00528
 
 IEEE Spectrum杂志特刊：AI大变局——总结与反思
 https://spectrum.ieee.org/special-reports/the-great-ai-reckoning/
+
+Patches Are All You Need? 
+github.com/tmp-iclr/convmixer

@@ -509,3 +509,9 @@ github.com/cogsys-tuebingen/mobilestereonet
 
 Excavating the Potential Capacity of Self-Supervised Monocular Depth Estimation
 github.com/prstrive/EPCDepth
+
+Estimating Image Depth in the Comics Domain
+https://arxiv.org/abs/2110.03575
+
+ONNX msg_chn_wacv20 depth completion：ONNX深度补全(Python)
+github.com/ibaiGorordo/ONNX-msg_chn_wacv20-depth-completion

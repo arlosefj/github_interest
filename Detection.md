@@ -1010,3 +1010,6 @@ https://arxiv.org/abs/2109.10852
 
 《Localizing Objects with Self-Supervised Transformers and no Labels》
 github.com/valeoai/LOST
+
+ViDT: An Efficient and Effective Fully Transformer-based Object Detector
+github.com/naver-ai/vidt

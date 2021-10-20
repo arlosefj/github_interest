@@ -77,3 +77,10 @@ github.com/QBobWatson/ila
 
 《人人可看的线性代数》图形笔记
 github.com/kenjihiranabe/The-Art-of-Linear-Algebra
+
+数学建模学习资源，主要包含数学建模相关的竞赛优秀论文、算法、LaTeX 论文模板、算法思维导图、书籍、Matlab 教程等内容。
+github.com/zhanwen/MathModel ​​​​
+
+同构 - 编程中的数学，提供了中英文两种版本。
+主讲自然数和计算机程序、欧几里得算法、递归的形式与结构、斐波那契数列、罗素悖论、数学基础的分歧等内容。
+github.com/liuxinyu95/unplugged ​​​​

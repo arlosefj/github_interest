@@ -1506,3 +1506,6 @@ github.com/Nyandwi/machine_learning_complete
 
 《MLOps实战》随书代码
 github.com/paiml/practical-mlops-book
+
+Graphsignal Logger：机器学习模型监控平台，帮机器学习工程师、 MLOps团队和数据科学家快速解决数据和模型问题，以及前瞻性分析模型性能和可用性
+github.com/graphsignal/graphsignal

@@ -731,3 +731,12 @@ https://arxiv.org/abs/2109.05422
 
 ### 为何 Transformer 在计算机视觉中如此受欢迎 #Transformer
 https://weibo.com/ttarticle/p/show?id=2309404684991857820078
+
+A free lunch from ViT: Adaptive Attention Multi-scale Fusion Transformer for Fine-grained Visual Recognition
+https://arxiv.org/abs/2110.01240
+
+Token Pooling in Vision Transformers
+https://arxiv.org/abs/2110.03860
+
+### Revitalizing CNN Attentions via Transformers in Self-Supervised Visual Representation Learning
+github.com/ChongjianGE/CARE

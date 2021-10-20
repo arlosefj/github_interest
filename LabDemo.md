@@ -140,3 +140,13 @@ github.com/TangleSpace/hydralit
 
 Keypoint Communities
 github.com/DuncanZauss/Keypoint_Communities
+
+XManager: 机器学习实验管理框架
+github.com/deepmind/xmanager
+
+A Universal PyTorch Source-Build Docker Template：PyTorch/CUDA/cuDNN项目模板
+github.com/veritas9872/PyTorch-Universal-Docker-Template
+
+Pose2Carton：基于3D视觉用姿态控制卡通人物的教学用API
+github.com/yuzhenbo/pose2carton
+![](https://wx1.sinaimg.cn/mw690/001wUkn3ly1gvdm7xlq6mj615r0m846302.jpg)

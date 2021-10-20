@@ -316,3 +316,6 @@ github.com/docker/getting-started
 Kubescape，第一款可用于测试 Kubernetes 是否已安全部署的开源工具。测试结果将以 NSA 发布的《Kubernetes 加固指南》为标准。
 开发者可通过 Kubescape 测试集群，或扫描单个 YAML 文件，将该工具集成到开发流程中。
 GitHub：github.com/armosec/kubescape
+
+Rancher Desktop：桌面端Kubernetes与容器管理
+github.com/rancher-sandbox/rancher-desktop

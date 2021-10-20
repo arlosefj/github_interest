@@ -412,3 +412,12 @@ github.com/ddowd97/Python-Image-Morpher
 
 Notion Avatar Maker：Notion风头像生成器
 github.com/Mayandev/notion-avatar
+
+### logo-app：图片自动去Logo(基于深度学习)
+github.com/Legacy-League/logo-app
+
+OptaPy：Python的AI约束解算器，可用来优化车辆路径问题、员工排班、维护调度、任务分配、学校日程安排、云优化、会议调度、车间调度、装箱等许多规划问题
+github.com/optapy/optapy
+
+YoHa：实用手部跟踪引擎
+ithub.com/handtracking-io/yoha

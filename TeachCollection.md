@@ -48,3 +48,13 @@ github.com/Synthaze/EpyNN
 
 代码接手第一原则：能用自有能用的道理，慎改，慎改！[笑cry] 
 ![](https://wx2.sinaimg.cn/mw690/001wUkn3ly1guyxkpzy21j60hs0mftgq02.jpg)
+
+微软在 GitHub 上开源了一份数据科学教程：《给初学者看的数据科学》（Data Science for Beginners）。
+课时为期 10 周，共 20 节，主讲数据科学通用定义、统计与概率导论、使用 SQL 与 NoSQL 处理数据、Python 与数据可视化等知识。
+为了让开发者可以更为充分的吸收课程知识，每节课均附有课前课后测验、课程说明、草图笔记、项目挑战、作业任务等内容
+github.com/microsoft/Data-Science-For-Beginners
+
+项目申请书 vs. 结题报告
+https://wx3.sinaimg.cn/mw690/001wUkn3ly1gvcr3gjdo8j60pd0e4jy202.jpg
+
+https://wx1.sinaimg.cn/mw690/001wUkn3ly1gvcuicm9z7j60hs0h4tg402.jpg
