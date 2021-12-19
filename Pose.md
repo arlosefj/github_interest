@@ -442,3 +442,15 @@ github.com/microsoft/voxelpose-pytorch
 
 ActionCLIP: A New Paradigm for Video Action Recognition
 https://arxiv.org/abs/2109.08472
+
+【PoseViz – 3D人体姿态可视化工具】
+github.com/isarandi/poseviz
+
+《Rethinking Keypoint Representations: Modeling Keypoints and Poses as Objects for Multi-Person Human Pose Estimation》
+github.com/wmcnally/kapao
+
+从涂鸦到3D：实时骨骼化建模
+github.com/jingma-git/RealSkel
+
+mmhuman3d：OpenMMLab人体姿势、形状估计工具箱和基准
+github.com/open-mmlab/mmhuman3d

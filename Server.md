@@ -319,3 +319,26 @@ GitHub：github.com/armosec/kubescape
 
 Rancher Desktop：桌面端Kubernetes与容器管理
 github.com/rancher-sandbox/rancher-desktop
+
+Kube-queue：旨在管理Kubernetes中的AI/ML和批处理工作负载
+github.com/kube-queue/kube-queue
+
+crane：易用漂亮的Docker镜像管理应用
+github.com/InfuseAI/crane
+
+一款简单易用的开源 Kubernetes 可视化管理面板：KubePi。
+可允许管理员导入多个 Kubernetes 集群，并通过权限控制，将不同 cluster、namespace 的权限分配给指定用户。
+此外，它还允许开发人员管理 Kubernetes 集群中运行的应用程序，并对其进行故障排查，供开发人员更好地处理 Kubernetes 集群中的复杂性。
+github.com/KubeOperator/KubePi
+
+Python开发者Docker最佳实践指南
+https://testdriven.io/blog/docker-best-practices/
+
+KML: 面向操作系统和存储系统的机器学习框架(占用内存更少，吞吐量更大)
+github.com/sbu-fsl/kernel-ml
+
+lazydocker：管理Docker和docker-compose方方面面的命令行界面
+github.com/jesseduffield/lazydocker
+
+开源MLOps工具指南
+github.com/fuzzylabs/awesome-open-mlops

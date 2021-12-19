@@ -743,3 +743,15 @@ github.com/kornia/kornia
 
 用PyTorch Lightning将深度学习管线速度加快10倍
 https://devblog.pytorchlightning.ai/how-we-used-pytorch-lightning-to-make-our-deep-learning-pipeline-10x-faster-731bd7ad318a
+
+torch2tflite：PyTorch -> Onnx -> Tensorflow 2 -> TFLite 模型转换器
+github.com/omerferhatt/torch2tflite
+
+classy：基于PyTorch的深度神经网络模型快速原型和共享库
+github.com/sunglasses-ai/classy
+
+【PyTorch实例教程：迁移学习与图像分类】
+https://www.pyimagesearch.com/2021/10/11/pytorch-transfer-learning-and-image-classification/
+
+PyTorch Live：面向Android/iOS手机端的PyTorch
+github.com/pytorch/live

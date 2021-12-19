@@ -1033,3 +1033,98 @@ https://arxiv.org/abs/2110.02178
 
 ### CLIP prefix captioning.：基于CLIP的简单图像描述模型 #TODO
 github.com/rmokady/CLIP_prefix_caption
+
+「多模态内容理解」算法框架：Lichee。
+框架采用分层的思想组织模型训练流程，包含了数据处理、预训练模型、常见模型以及模型加速等模块。
+github.com/Tencent/Lichee ​​​​
+
+### 微软图灵团队发布了具有25亿参数且可以执行94种语言的图像-语言任务的通用图像语言表示模型：Turing Bletchley。其拥有图像编码器和通用语言编码器，可分别对输入图像和文本进行矢量化，进而使得在语义上相似的图像和文本能够相互对齐。该模型展现出了独特的强大功能，并且在图像语言理解上取得了突破性进步。其表现已经优于多个SOTA模型，如ALIGN、MULE、SMALR等
+https://www.microsoft.com/en-us/research/blog/turing-bletchley-a-universal-image-language-representation-model-by-microsoft/
+
+Machine-in-the-Loop Rewriting for Creative Image Captioning
+https://arxiv.org/abs/2111.04193
+
+A Survey of Visual Transformers
+https://arxiv.org/abs/2111.06091
+
+Transformer应用汇总：从NLP到CV
+ithub.com/IbrahimSobh/Transformers
+
+《Attention Mechanisms in Computer Vision: A Survey》
+github.com/MenghaoGuo/Awesome-Vision-Attentions
+
+ClipCap: CLIP Prefix for Image Captioning
+github.com/rmokady/CLIP_prefix_caption
+
+TransMix: Attend to Mix for Vision Transformers
+github.com/Beckschen/TransMix
+
+Transparent Human Evaluation for Image Captioning
+https://arxiv.org/abs/2111.08940
+
+RedCaps: web-curated image-text data created by the people, for the people
+https://www.arxiv-vanity.com/papers/2111.11431/
+
+Semi-Supervised Vision Transformers #IDEA 半监督 补全 直觉 知识
+https://arxiv.org/abs/2111.11067
+
+VIOLET : End-to-End Video-Language Transformers with Masked Visual-token Modeling
+github.com/tsujuifu/pytorch_violet
+
+Scaling Up Vision-Language Pre-training for Image Captioning
+https://arxiv.org/abs/2111.12233
+
+微软与北京大学联手，在 GitHub 开源了一个多模态预训练模型：「NÜWA（女娲）」，可实现文本/草图转图像、图像补全、文字/草图转视频等任务，功能异常强大。
+GitHub：github.com/microsoft/NUWA
+
+Efficient Video Transformers with Spatial-Temporal Token Selection
+https://arxiv.org/abs/2111.11591
+
+Adaptive Fourier Neural Operators: Efficient Token Mixers for Transformers
+https://arxiv.org/abs/2111.13587
+
+MURAL：跨语言多模态多任务检索 #NSFC
+https://ai.googleblog.com/2021/11/mural-multimodal-multi-task-retrieval.html
+
+Vector Quantized Diffusion Model for Text-to-Image Synthesis
+github.com/microsoft/VQ-Diffusion
+
+Improved Multiscale Vision Transformers for Classification and Detection
+https://arxiv.org/abs/2112.01526
+
+Learning to Detect Every Thing in an Open World
+https://arxiv.org/abs/2112.01698
+
+通过Tokenize学习提高视觉Transformer的效率和精度
+https://arxiv.org/pdf/2106.11297.pdf
+https://ai.googleblog.com/2021/12/improving-vision-transformer-efficiency.html
+
+CMA-CLIP: Cross-Modality Attention CLIP for Image-Text Classification
+https://arxiv.org/abs/2112.03562
+
+Grounded Language-Image Pre-training
+https://arxiv.org/abs/2112.03857
+
+Prompting Visual-Language Models for Efficient Video Understanding
+https://arxiv.org/abs/2112.04478
+
+MLP Architectures for Vision-and-Language Modeling: An Empirical Study
+https://arxiv.org/abs/2112.04453 https://github.com/easonnie/mlp-vil
+
+CLIP-Lite: Information Efficient Visual Representation Learning from Textual Annotations
+https://arxiv.org/abs/2112.07133
+
+Everything at Once -- Multi-modal Fusion Transformer for Video Retrieval
+https://arxiv.org/abs/2112.04446
+
+AdaViT: Adaptive Tokens for Efficient Vision Transformer
+https://arxiv.org/abs/2112.07658
+
+Deep ViT Features as Dense Visual Descriptors
+https://arxiv.org/abs/2112.05814
+
+SwinBERT: End-to-End Transformers with Sparse Attention for Video Captioning
+https://arxiv.org/abs/2111.13196
+
+Keras实例教程：视觉Transformer的Token化学习
+https://keras.io/examples/vision/token_learner/

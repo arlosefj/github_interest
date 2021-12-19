@@ -260,3 +260,17 @@ github.com/aniketmaurya/chitra
 
 ### xplique：神经网络可解释性工具箱 #TODO
 github.com/deel-ai/xplique
+
+微软在 GitHub 开源了一个技术教程：《人工智能系统》，主要讲解支持人工智能的计算机系统设计。课程分为三大模块：
+模块一：AI 基础知识与 AI 系统的全栈概述，深度学习系统的系统性设计和方法学；
+模块二：将介绍前沿系统和 AI 交叉的研究领域；
+模块三：配套的实验课程，包括最主流的框架、平台和工具，以及一系列的实验项目。
+GitHub：github.com/microsoft/AI-System
+课程设立的主要目的，是为了帮助本科生与研究生，更好的学习深度学习完整生命周期下的系统设计，寻找和定义有意义的研究问题。进一步提高解决实际问题的能力，而不仅仅是了解工具使用。
+
+搜集了各种算法不同语言的实现，有类似动态规划、排序这样的基础算法，也有类似LR、DNN这样的机器学习算法
+https://the-algorithms.com/category/neuralnetwork
+
+康奈尔科技校区（Cornell Tech）开源的机器学习 DIY 教学库：MiniTorch，可帮助工程师更好的了解深度学习系统概念。
+为了让大家更好的理解技术原理，该库重新实现了 PyTorch 的 API，注重简单和易读、测试与增量，里面还配套了相关教程与技术代码。
+GitHub：github.com/minitorch/minitorch ​​​​

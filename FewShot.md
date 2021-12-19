@@ -323,3 +323,12 @@ github.com/vl2g/VRC
 
 LibFewShot：少样本学习综合库
 github.com/RL-VIG/LibFewShot
+
+少样本目标检测相关进展及资源列表
+github.com/gabrielhuang/awesome-few-shot-object-detection
+
+mmfewshot：OpenMMLab少样本学习工具包和基准
+github.com/open-mmlab/mmfewshot
+
+Easy Few-Shot Learning：少样本图像分类参考代码和教程
+github.com/sicara/easy-few-shot-learning

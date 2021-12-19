@@ -421,3 +421,51 @@ github.com/optapy/optapy
 
 YoHa：实用手部跟踪引擎
 ithub.com/handtracking-io/yoha
+
+LaMa，由莫斯科三星人工智能中心开源，可快速进行图像修复、指定对象移除等操作。
+github.com/saic-mdal/lama
+
+CleanUp.pictures：从图片删除不想要部分的开源工具
+github.com/initml/cleanup.pictures
+
+Super_Mario：体控马里奥
+github.com/BadagalaAdarsh/Super_Mario
+
+视频自动抠图技术：RobustVideoMatting。
+大、实时、高分辨率的人物视频抠图方法，使用循环神经网络，在处理视频流时有时间记忆，可在任意视频上做实时高清抠像。在 Nvidia GTX 1080Ti 上实现 4K 76FPS 和 HD 104FPS。
+GitHub：github.com/PeterL1n/RobustVideoMatting/
+
+AnimeGANv2
+github.com/bryandlee/animegan2-pytorch
+
+### YOLOP-NCNN：基于ncnn在安卓平台运行的YOLOP
+github.com/EdVince/YOLOP-NCNN 
+
+Rhubarb Lip Sync，可通过真实录音，让动漫人物的嘴唇实现音画同步。
+开发者可将其应用于计算机游戏、动画卡通角色、视频 Vlog 等场景上。
+GitHub：github.com/DanielSWolf/rhubarb-lip-sync ​​​​
+
+一款人体运动模拟器：KalidoKit。
+通过捕捉人体面部表情、眼睛、姿势、手部动作等元素后，便可自动映射到虚拟人物身上，打通真实世界与虚拟世界的连接。
+GitHub：github.com/yeemachine/kalidokit ​​​​
+
+开源项目SkyAI可对普通视频“换天”，让你的视频变成科幻大片，效果非常震撼
+github.com/jiupinjia/SkyAR
+一款开源的卡通头像生成器，可自定义发型、眼镜、肤色、衣着、嘴型等属性。
+定制完成后，可将头像导出成 PNG 和 SVG 格式的图片，或把头像代码内嵌到个人网站上。
+github.com/fangpenlin/avataaars-generator ​​​​
+
+Lama-cleaner：基于LaMa的图像擦除补全工具
+github.com/Sanster/lama-cleaner
+
+Face Vid2Vid Demo：视频换脸Demo
+ithub.com/happy-jihye/face-vid2vid-demo
+
+### Kalidoface - 仅需要摄像头就能实现的虚拟人物
+github.com/yeemachine/kalidoface
+
+Kalidoface 3D - 面向Vtubing的人脸/全身追踪
+github.com/yeemachine/kalidoface-3d
+
+Blender虚拟人物姿态控制扩展
+github.com/yanch2116/CharacterDriven-BlenderAddon

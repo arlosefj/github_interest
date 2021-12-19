@@ -644,3 +644,15 @@ github.com/yoyololicon/music-demixing-challenge-ismir-2021-entry
 
 Keras实例：CTC自动语音识别
 https://keras.io/examples/audio/ctc_asr/
+
+mdx-tutorial：音源分离开源工具教程
+github.com/kuielab/mdx-tutorial
+
+### wenet-kws：面向产品的端到端唤醒关键词检测工具包
+github.com/wenet-e2e/wenet-kws
+
+Wav2Vec2 STT Python：基于Wav2Vec2.0的语音识别库
+github.com/daanzu/wav2vec2_stt_python
+
+### PPASR流式与非流式语音识别 - 基于PaddlePaddle2实现的端到端中文语音识别框架
+github.com/yeyupiaoling/PPASR

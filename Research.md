@@ -164,3 +164,31 @@ https://journals.sagepub.com/doi/10.1177/1534484314536705
 
 论文“开篇第一图”设计教程
 https://maxwellforbes.com/posts/figure-creation-tutorial-making-a-figure-1
+
+如何进行文献综述
+http://www.raulpacheco.org/2017/04/how-to-undertake-a-literature-review/
+
+简单8步从头开始快速完成论文初稿
+http://www.raulpacheco.org/2016/04/8-tips-to-write-a-research-paper-from-start-to-finish-relatively-quick-and-easy/
+
+如何用LaTeX写论文？(完整教程)
+https://www.bilibili.com/video/BV1DQ4y1U76g/
+
+Tips for Writing a Research Paper using LaTeX：LaTeX研究论文写作技巧
+github.com/guanyingc/latex_paper_writing_tips
+
+### AI会议倒计时列表
+https://aideadlin.es/?sub=ML,CV
+
+### 一个阅读论文的神器 readpaper，解决了很多痛点。比如阅读时查参考文献，经常讲论文要截图，查看作者的个人网页，要阅读的正文和表格不在一页，管理阅读过的论文等等
+https://readpaper.com/
+
+一款可自动管理论文的浏览器插件：PaperMemory。
+可自动存储、标记、搜索、下载曾经阅读过的论文，支持 Arxiv、BioRxiv、OpenReview 等论文平台。插件管理数据均存储在本地，可下载导出为 JSON 文件。
+GitHub：github.com/vict0rsch/PaperMemory ​​​​
+
+My Paper Memory：用于Arxiv, OpenReview等网站论文收藏、保存、本地搜索、评论、整理、标题规整的浏览器插件
+github.com/vict0rsch/PaperMemory
+
+科技写作中的常见错误
+https://cs.dartmouth.edu/~wjarosz/writing.md.html

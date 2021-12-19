@@ -147,3 +147,19 @@ github.com/cortictechnology/ce
 
 Nvidia Jetson Nano/Xavier开发包软件安装指南
 github.com/yqlbu/jetson-packages-family
+
+国内一位开发者在 GitHub 开源的树莓派学习资料：《树莓派防吃灰》，主要收录了作者撰写的一些树莓派学习教程与开发技巧。
+GitHub：github.com/zhaoolee/pi ​​​​
+
+Jetson Multicamera Pipelines - Easy-to-use realtime CV/AI pipelines for Nvidia Jetson Platform
+github.com/NVIDIA-AI-IOT/jetson-multicamera-pipelines
+
+Raspberry Pi Pico实例：用手机姿态控制的机器小车
+https://www.raspberrypi.com/news/raspberry-pi-pico-robot/
+
+### 用树莓派打造一个超薄魔镜的简单教程
+https://onevcat.com/2021/04/magicmirror/
+
+### The Open Book，类似于开源版的 Kindle，能帮你打造一个可灵活定制的电子书阅读设备。
+搭配 4.2" 英寸电子显示器，拥有方向键、选择、翻页等交互按钮，具备 SD 卡检测功能，充电状态 LED 灯显示，带立体音频输出和原始麦克风输入的音频组合插孔等组件。
+GitHub：github.com/joeycastillo/The-Open-Book

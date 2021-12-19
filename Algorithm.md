@@ -385,3 +385,13 @@ github.com/madushadhanushka/simple-sqlite
 
 【Kite：图论交互可视化工具】
 github.com/erkal/kite
+
+### 算法·进阶石（algorithm-stone）- ACM/LeetCode算法竞赛路线图(算法学习地图)
+github.com/acm-clan/algorithm-stone
+
+CMU的经典课程Algorithms in the Real World现在将编号改为15-750(原来是15-853)，合并了原来15-750课程Graduate Algorithms的一些内容，而将更专门的理论课程改为15-850: Advanced Algorithms。
+有人整理的近60个各种数据结构和算法在真实系统中的应用，有对应的源代码。
+https://cstheory.stackexchange.com/questions/19759/core-algorithms-deployed/19773#19773
+
+GitHub 上一个基于纯 C 语言实现的 LeetCode 题解仓库，共有 200 多道题，涵盖链表、队列、堆栈、递归、动态规划、二叉搜索树等知识点。
+GitHub：github.com/begeekmyfriend/leetcode ​​​​

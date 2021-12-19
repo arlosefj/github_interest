@@ -43,3 +43,27 @@ github.com/LingDong-/tk-fangsong-font
 
 用TensorRT实现的无人驾驶CV系统，包括目标检测、车道检测、道路分割、深度估计等
 github.com/iwatake2222/self-driving-ish_computer_vision_system
+
+【tensorRT_Pro：高性能推理，TensorRT C++/Python库，工业级，便于使用】
+github.com/shouxieai/tensorRT_Pro
+
+【OpenGait：开源步态识别框架】
+github.com/ShiqiYu/OpenGait 
+
+Keras实例教程：移动友好的Transformer图像分类模型MobileViT
+https://keras.io/examples/vision/mobilevit/
+
+### HandPose X - 手部21个关键点检测，PyTorch二维手势姿态识别
+github.com/EricLee2021-72324/handpose_x
+
+MLSpace：无障碍机器学习和深度学习开发，为PyTorch、 Tensorflow 等提供了预配置环境，所有环境附带VSCode(代码服务器)和JupyterLab，不用再为CUDA/cuDNN版本操心
+github.com/abhishekkrthakur/mlspace
+
+多模态表示学习模型集
+github.com/declare-lab/multimodal-deep-learning
+
+### Koila：一行代码解决“CUDA error: out of memory”问题
+github.com/rentruewang/koila
+
+modelkit：极简但功能强大的Python MLOps库，方便将机器学习模型部署到产品中
+github.com/Cornerstone-OnDemand/modelkit

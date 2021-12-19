@@ -84,3 +84,6 @@ github.com/RaptorMai/online-continual-learning
 
 Continual Learning Papers：持续学习相关文献列表
 github.com/ContinualAI/continual-learning-papers
+
+PyContinual：易于扩展的持续学习框架
+github.com/ZixuanKe/PyContinual

@@ -183,3 +183,6 @@ github.com/ibaiGorordo/ONNX-Mobile-Human-Pose-3D
 
 ### PortraitSeg - 开源移动端高效人像分割
 github.com/zeusees/PortraitSeg
+
+yolov5s_android：安卓设备运行的yolov5s
+github.com/lp6m/yolov5s_android

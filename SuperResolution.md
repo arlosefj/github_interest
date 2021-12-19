@@ -340,3 +340,9 @@ https://www.pyimagesearch.com/2021/09/27/pixel-shuffle-super-resolution-with-ten
 
 Real-ESRGAN 是一款图像分辨率修复工具，它可以提升照片、动画图片的分辨率，内置了一个预训练模型，可以提升 4 倍分辨率。虽然是命令行工具，但使用简单，效果也非常不错
 https://www.appinn.com/real-esrgan/
+
+### Super Resolution for Real Time Image Enhancement：实时超分辨率图像增强
+github.com/braindotai/Real-Time-Super-Resolution
+
+《Investigating Tradeoffs in Real-World Video Super-Resolution》
+github.com/ckkelvinchan/RealBasicVSR 

@@ -1298,3 +1298,15 @@ github.com/PeterL1n/RobustVideoMatting/
 
 Hierarchical Memory Matching Network for Video Object Segmentation
 github.com/Hongje/HMMN 
+
+《Mask-aware IoU for Anchor Assignment in Real-time Instance Segmentation》
+github.com/kemaloksuz/Mask-aware-IoU
+
+Dense Unsupervised Learning for Video Segmentation
+github.com/visinf/dense-ulearn-vos
+
+Awesome Image Matting：深度学习抠图文献代码资源列表
+github.com/wchstrife/Awesome-Image-Matting
+
+End-to-End Referring Video Object Segmentation with Multimodal Transformers
+github.com/mttr2021/MTTR

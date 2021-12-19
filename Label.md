@@ -289,3 +289,27 @@ github.com/Labelflow/labelflow
 
 DataQA platform：基于远程监督的文本标注平台
 github.com/dataqa/dataqa
+
+【KITTI-360标注工具】
+ithub.com/autonomousvision/kitti360LabelTool 
+
+《Multi-label Classification with Partial Annotations using Class-aware Selective Loss》
+github.com/Alibaba-MIIL/PartialLabelingCSL
+
+音频事件检测数据集标注工具
+github.com/jim-schwoebel/sound_event_detection
+
+EISeg - 高效交互式语义分割标注软件
+github.com/PaddleCV-SIG/EISeg 
+
+label-studio：具有标准化输出格式的多类型数据标注工具
+github.com/heartexlabs/label-studio
+
+### DISTIL：深度多样化交互学习，PyTorch主动/交互式学习库，用于有效降低标注成本
+github.com/decile-team/distil
+
+LabelBee-Client：开箱即用的跨平台图像标注工具
+github.com/open-mmlab/labelbee-client
+
+PyLabel：计算机视觉标记任务库，核心功能是在不同格式之间转换边框标记，例如从coco到yolo
+ithub.com/pylabel-project/pylabel

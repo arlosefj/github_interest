@@ -80,3 +80,9 @@ github.com/kirillbobyrev/computer-science-resources
 
 诗词总结
 ![](https://arloseimg.oss-cn-hangzhou.aliyuncs.com/20211020112458.png)
+
+按照不同国家的时间轴滑动查看该国家所有历史大事件、典藏！！还能按照不同时间查看整个世界版图！！
+https://www.allhistory.com/
+
+ “中华古籍资源库”，包含 10万部（件）古籍，最重要的是免登录浏览。
+ http://www.nlc.cn/pcab/zy/zhgj_zyk/

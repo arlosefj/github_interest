@@ -805,3 +805,20 @@ jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/
 >>> cd Python-3.10.0
 >>> ./configure && make && sudo make install
 mac的话， $ brew install pyenv $ pyenv install 3.10.0
+
+pipx - 方便安装和运行Python应用的工具，可为应用及其相关包创建隔离运行环境
+github.com/pypa/pipx
+
+RollerScanner：Python写的高效端口扫描器
+github.com/MajorRaccoon/RollerScanner
+
+Python+Matplotlib科学可视化
+github.com/rougier/scientific-visualization-book
+
+国外一位名为 Lev Maximov 的工程师写的：《图解 NumPy：可视化指南》，通过插图的方式，详细分析并讲解了 NumPy 向量、矩阵、3D 及高维数组的应用。
+https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d?gi=fae7a6d27b2
+想要进一步练习 NumPy 技术的，可以看下 GitHub 上《100 numpy exercises》这个开源项目，里面包含了 100 多道 NumPy 练习题与答案。
+GitHub：github.com/rougier/numpy-100
+
+Jupyter Notebook使用速查
+https://www.edureka.co/blog/cheatsheets/jupyter-notebook-cheat-sheet

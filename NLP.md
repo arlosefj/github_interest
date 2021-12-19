@@ -479,3 +479,16 @@ github.com/datawhalechina/learn-nlp-with-transformers
 
 语言模型能当做知识库吗？
 https://docs.google.com/presentation/d/1NnWuAqkX04fyWjvKwpnRiY5YQQllPhnuJsTJV1KdkqA/edit?resourcekey=0-LHXPYjSdAr6p1qCHwnFhfg#slide=id.gf5583ae1f7_0_162
+
+Mengzi中文预训练语言模型
+github.com/Langboat/Mengzi
+
+CINO: Pre-trained Language Models for Chinese Minority (少数民族语言预训练模型)
+github.com/ymcui/Chinese-Minority-PLM
+
+AI-Writer，可用 GPT 来生成中文网文小说，模型训练数据来自网文。
+项目内置基于 Python 运行的网页界面，并通过特殊采样方法，改善了小模型的生成质量。
+GitHub：github.com/BlinkDL/AI-Writer ​​​​
+
+TextPruner：为预训练语言模型设计的模型裁剪工具包
+github.com/airaria/TextPruner

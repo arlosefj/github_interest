@@ -827,3 +827,15 @@ github.com/vegarsti/extract-table
 
 TrOCR：基于Transformer的新一代光学字符识别
 https://weibo.com/ttarticle/p/show?id=2309404691531549507776
+
+LayoutReader：基于ReadingBank的阅读序列抽取模型
+https://weibo.com/ttarticle/p/show?id=2309404699865254068509
+
+《Synthetic Document Generator for Annotation-free Layout Recognition》
+https://arxiv.org/abs/2111.06016
+
+繁体中文OCR文字识别数据集(繁體中文OCR文字識別數據集)
+github.com/GitYCC/traditional-chinese-text-recogn-dataset
+
+场景文本识别相关资源集
+github.com/HCIILAB/Scene-Text-Recognition-Recommendations

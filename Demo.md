@@ -683,3 +683,22 @@ github.com/microsoft/onnxruntime-inference-examples
 
 ONNX运行时网页Demo
 github.com/microsoft/onnxruntime-web-demo
+
+在Nvidia Triton服务器上部署优化版Hugging Face Transformer
+github.com/ELS-RD/triton_transformers
+
+iris：基于PyTorch的开源照片平台
+github.com/prabhuomkar/iris
+
+BigPretrain - A Simple Framwork for CV Pre-training Model (SOCO, VirTex, BEiT)
+github.com/Sense-GVT/BigPretrain
+
+MLServer：机器学习模型开源推理服务器
+github.com/SeldonIO/MLServer
+
+ONNX LSTR Lane Detection：ONNX实现的LSTR车道检测
+github.com/ibaiGorordo/ONNX-LSTR-Lane-Detection
+
+人脸画风
+https://github.com/Sxela/ArcaneGAN
+https://huggingface.co/spaces/akhaliq/ArcaneGAN

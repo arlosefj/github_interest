@@ -150,3 +150,25 @@ github.com/veritas9872/PyTorch-Universal-Docker-Template
 Pose2Carton：基于3D视觉用姿态控制卡通人物的教学用API
 github.com/yuzhenbo/pose2carton
 ![](https://wx1.sinaimg.cn/mw690/001wUkn3ly1gvdm7xlq6mj615r0m846302.jpg)
+
+### hugging Face的机器学习应用/模型演示托管平台，支持Streamlit #Imp
+https://huggingface.co/spaces
+
+基于Fastapi + MLflow + streamlit的机器学习数字识别部署实例
+github.com/zademn/mnist-mlops-learning
+
+PSGAN-NCNN - PSGAN running with ncnn 妆容迁移/仿妆Imitation Makeup/Makeup Transfer
+github.com/EdVince/PSGAN-NCNN
+
+invoice。可通过 API 接口，快速识别发票代码、发票号码、开票日期、校验码、税后金额等内容。
+GitHub：github.com/guanshuicheng/invoice ​​​​
+
+一款开箱即用的 C++ AI 模型工具箱：Lite.AI.ToolKit，涵盖目标检测、人脸检测、人脸识别、语义分割、抠图等领域。
+里面包括了 70+ 流行开源模型，如最新的 RVM、YOLOX、YoloV5、DeepLabV3、ArcFace 等模型，对用户友好，简单易用。
+GitHub：github.com/DefTruth/lite.ai.toolkit ​​​​
+
+《PP-PicoDet: A Better Real-Time Object Detector on Mobile Devices》
+github.com/PaddlePaddle/PaddleDetection
+
+### mle-monitor：轻量级实验和资源监控
+github.com/mle-infrastructure/mle-monitor

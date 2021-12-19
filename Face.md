@@ -629,3 +629,22 @@ github.com/xialuxi/yolov5_face_landmark
 
 Aiine Transform (アイン変換)：用TensorFlow Lite实现的基于人脸网格的换脸
 github.com/iwatake2222/aiine_transform
+
+face2comics：人脸漫画化数据集
+github.com/Sxela/face2comics 
+
+mocap4face by Facemoji：免费多平台SDK，用于基于FACS的实时人脸运动捕捉
+github.com/facemoji/mocap4face
+
+人脸转漫画数据集：face2comics。
+数据集拥有两个版本，v1 主要为深色调（含 1 万张图片），v2 为深红色调（含 2 万张图片）。漫画风格偏欧美风，可用于训练 pix2pix 或相似网络。
+GitHub：github.com/Sxela/face2comics ​​​​
+
+Anime Face Detector：基于mmdet&mmpose的动漫人脸检测器
+github.com/hysts/anime-face-detector 
+
+Vignette：基于osu!framework的开源VTuber人脸追踪软件
+github.com/vignetteapp/vignette
+
+VGGFace2-HQ：面向人脸编辑的高分辨率人脸数据集
+github.com/NNNNAI/VGGFace2-HQ

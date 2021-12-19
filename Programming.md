@@ -127,3 +127,19 @@ github.com/girliemac/a-picture-is-worth-a-1000-words
 ### 服务器编程指南
 github.com/howardlau1999/server-programming-guide
 https://liuhaohua.com/server-programming-guide/
+
+Google 工程实践文档
+此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
+中文版：jimmysong.io/eng-practices/ 
+github.com/google/eng-practices
+
+麻省理工大学的开源技术教程：《计算机教育中缺失的一课》中文版。
+该课程主要讲授命令行、文本编辑器、Git 版本控制系统等工具的使用，以及关于元编程、安全和密码学等知识的科普。
+https://github.com/missing-semester-cn/missing-semester-cn.github.io
+
+计算机自学指南
+github.com/PKUFlyingPig/pku-cs-self-learning
+
+正则表达式从入门到进阶
+https://regexlearn.com/zh-cn
+github.com/aykutkardas/regexlearn.com 

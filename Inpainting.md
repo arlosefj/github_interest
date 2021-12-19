@@ -171,3 +171,12 @@ https://arxiv.org/abs/2108.01912
 
 Resolution-robust Large Mask Inpainting with Fourier Convolutions
 github.com/saic-mdal/lama
+
+SimMIM: A Simple Framework for Masked Image Modeling
+github.com/microsoft/SimMIM
+
+Masked Autoencoders Are Scalable Vision Learners
+https://arxiv.org/abs/2111.06377
+
+Keras实例教程：自编码器掩码图像建模
+https://keras.io/examples/vision/masked_image_modeling/

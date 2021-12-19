@@ -1013,3 +1013,15 @@ github.com/valeoai/LOST
 
 ViDT: An Efficient and Effective Fully Transformer-based Object Detector
 github.com/naver-ai/vidt
+
+《Generalized Out-of-Distribution Detection: A Survey》
+github.com/Jingkang50/OODSurvey
+
+Sparse DETR: Efficient End-to-End Object Detection with Learnable Sparsity
+github.com/kakaobrain/sparse-detr 
+
+ONNX-ImageNet-1K-Object-Detector - Python scripts for performing object detection with the 1000 labels of the ImageNet dataset in ONNX. 
+github.com/ibaiGorordo/ONNX-ImageNet-1K-Object-Detector
+
+AdelaiDet：开源多实例级检测应用工具箱
+github.com/aim-uofa/AdelaiDet 

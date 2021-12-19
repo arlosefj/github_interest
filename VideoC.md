@@ -305,3 +305,6 @@ github.com/datamllab/autovideo
 
 Revisiting 3D ResNets for Video Recognition
 github.com/tensorflow/models/tree/master/official 
+
+EssentialMC2：视频理解系统
+github.com/alibaba/EssentialMC2

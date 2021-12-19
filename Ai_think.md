@@ -214,3 +214,18 @@ https://spectrum.ieee.org/special-reports/the-great-ai-reckoning/
 
 Patches Are All You Need? 
 github.com/tmp-iclr/convmixer
+
+Can Vision Transformers Perform Convolution?》
+https://arxiv.org/abs/2111.01353
+
+2021 AI大事记：AI“突破性”成果相关文章、讲解视频及代码列表
+github.com/louisfb01/best_AI_papers_2021
+
+《Are Transformers More Robust Than CNNs?》
+github.com/ytongbai/ViTs-vs-CNNs
+
+Tabular Data: Deep Learning is Not All You Need
+https://arxiv.org/abs/2106.03253
+
+像开发开源软件一样构建开放可重用增量更新的机器学习模块
+https://colinraffel.com/blog/a-call-to-build-models-like-we-build-open-source-software.html

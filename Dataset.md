@@ -786,3 +786,27 @@ github.com/wenet-e2e/WenetSpeech
 
 ### 语音识别数据集列表
 github.com/double22a/speech_dataset
+
+Foodi-ML dataset：食品饮料和百货图像多语言数据集
+github.com/Glovo/foodi-ml-dataset
+
+GoEmotions：细粒度情感分类数据集
+github.com/google-research/google-research/tree/master/goemotions
+
+5000+数据集
+https://paperswithcode.com/datasets
+
+【Simulated garment dataset for virtual try-on：面向虚拟试穿的模拟服装数据集】
+github.com/isantesteban/vto-dataset
+
+《PartImageNet: A Large, High-Quality Dataset of Parts》
+github.com/TACJu/PartImageNet
+
+Met dataset：艺术品领域大规模实例级识别数据集
+github.com/nikosips/met
+
+KgCLUE: 大规模中文开源知识图谱问答
+github.com/CLUEbenchmark/KgCLUE 
+
+用动漫图片训练深度模型资源集
+github.com/STomoya/animeface

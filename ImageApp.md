@@ -1098,3 +1098,16 @@ github.com/zzw-zwzhang/Awesome-of-Neural-Rendering
 
 Towards Flexible Blind JPEG Artifacts Removal
 github.com/jiaxi-jiang/FBCNN
+
+ICCV 2021图像生成(Image Generation)和底层视觉(Low-Level Vision)任务相关的论文和代码，包括图像生成，图像编辑，图像风格迁移，图像翻译，图像修复，图像超分及其他底层视觉任务
+github.com/Kobaayyy/Awesome-ICCV2021-Low-Level-Vision
+
+【CVNets: 计算机视觉网络训练库】
+github.com/apple/ml-cvnets
+
+LearningToCountEverything目标自动计数
+github.com/Kazuhito00/LearningToCountEverything-Colaboratory-Sample
+
+### DeepCourse：从基础到最前沿的视觉深度学习课程
+https://arthurdouillard.com/deepcourse/
+https:// github.com/arthurdouillard/deepcourse

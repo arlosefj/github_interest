@@ -221,3 +221,21 @@ https://keras.io/examples/vision/near_dup_search/
 Kaggle地标识别(2021)比赛第一名方案
 Efficient large-scale image retrieval with deep feature orthogonality and Hybrid-Swin-Transformers
 github.com/ChristofHenkel/kaggle-landmark-2021-1st-place
+
+Keras实例教程：基于TensorFlow Similarity的图像相似性搜索度量学习
+https://keras.io/examples/vision/metric_learning_tf_similarity/
+
+TorchIR: PyTorch图像配准库
+github.com/BDdeVos/TorchIR
+
+simsity：超简单的相似(检索)服务
+github.com/koaning/simsity 
+
+Google_Landmark_Retrieval_2021_2nd_Place_Solution
+github.com/WesleyZhang1991/Google_Landmark_Retrieval_2021_2nd_Place_Solution
+
+Bag of Tricks and A Strong baseline for Image Copy Detection
+github.com/WangWenhao0716/ISC-Track2-Submission
+
+Facebook图像相似度挑战优胜方案汇总
+github.com/drivendataorg/image-similarity-challenge

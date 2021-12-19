@@ -338,3 +338,12 @@ github.com/changlin31/DS-Net
 
 PP-LCNet: A Lightweight CPU Convolutional Neural Network
 https://arxiv.org/abs/2109.15099
+
+TinyNeuralNetwork：高效、易用的深度学习模型压缩框架，包含模型结构搜索、剪枝、量化、模型转换等功能
+github.com/alibaba/TinyNeuralNetwork
+
+Model Compression Research Package：用于研究神经网络压缩和加速方法的库
+github.com/IntelLabs/Model-Compression-Research-Package 
+
+利用数据集蒸馏更高效训练机器学习模型
+https://ai.googleblog.com/2021/12/training-machine-learning-models-more.html

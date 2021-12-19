@@ -1047,3 +1047,42 @@ https://ai.facebook.com/blog/instance-conditioned-gans/
 
 Unaligned Image-to-Image Translation by Learning to Reweight
 github.com/Mid-Push/IrwGAN
+
+### 《CIPS-3D: A 3D-Aware Generator of GANs Based on Conditionally-Independent Pixel Synthesis》
+github.com/PeterouZh/CIPS-3D 
+
+Self-Supervised Object Detection via Generative Image Synthesis》
+github.com/NVlabs/SSOD 
+
+《ClimateGAN: Raising Climate Change Awareness by Generating Images of Floods》
+github.com/cc-ai/mila-simulated-floods
+
+Synthesizing and manipulating 2048x1024 images with conditional GANs
+https://github.com/NVIDIA/pix2pixHD
+
+Keras实例教程：基于自适应鉴别器增强的数据高效GAN
+https://keras.io/examples/generative/gan_ada/
+
+《StyleGAN of All Trades: Image Manipulation with Only Pretrained StyleGAN》
+github.com/mchong6/SOAT
+
+Instance-Conditioned GAN
+github.com/facebookresearch/ic_gan
+
+StyleCLIPDraw：风格化文本-绘画合成
+github.com/pschaldenbrand/StyleCLIPDraw
+
+Rebooting ACGAN: Auxiliary Classifier GANs with Stable Training
+github.com/POSTECH-CVLab/PyTorch-StudioGAN
+
+用EditGAN实现高精度图像语义编辑
+nv-tlabs.github.io/editGAN/
+
+GAN Inversion: A Survey
+github.com/weihaox/awesome-gan-inversion
+
+text2art：基于VQGAN + CLIP & CLIPDrawer的文本到艺术生成
+github.com/mfrashad/text2art 
+
+ProsePainter：用文字绘画，按你的描述自动生成绘画
+github.com/Morphogens/ProsePainter 

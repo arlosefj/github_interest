@@ -740,3 +740,30 @@ https://arxiv.org/abs/2110.03860
 
 ### Revitalizing CNN Attentions via Transformers in Self-Supervised Visual Representation Learning
 github.com/ChongjianGE/CARE
+
+《Object-Region Video Transformers》
+github.com/roeiherz/ORViT
+
+Jittor-MLP - Unofficial Implementation of MLP-Mixer, gMLP, resMLP, Vision Permutator, S2MLPv2, ConvMLP, ConvMixer in Jittor
+github.com/liuruiyang98/Jittor-MLP
+
+《HRFormer: High-Resolution Transformer for Dense Prediction》
+github.com/HRNet/HRFormer
+
+configaformers：高度可配置的Transformer库，简化模型架构搜索和实验
+github.com/antofuller/configaformers
+
+Swin Transformer V2: Scaling Up Capacity and Resolution
+github.com/microsoft/Swin-Transformer 
+
+MetaFormer is Actually What You Need for Vision
+github.com/sail-sg/poolformer
+
+### 从头理解Transformer #COM 讲得非常清楚
+https://e2eml.school/transformers.html
+
+轻量网络概览 awesome_lightweight_networks - MobileNetV1-V2，MobileNeXt，GhostNet，AdderNet，ShuffleNetV1-V2，Mobile+ViT etc.
+github.com/murufeng/awesome_lightweight_networks
+
+给数学新手的图神经网络教程
+https://rish16.notion.site/Graph-Neural-Networks-for-Novice-Math-Fanatics-c51b922a595b4efd8647788475461d57

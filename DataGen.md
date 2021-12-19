@@ -496,3 +496,9 @@ github.com/dribnet/pixray
 
 ### SketchHairSalon: Deep Sketch-based Hair Image Synthesis
 https://arxiv.org/abs/2109.07874
+
+DoodleFormer: Creative Sketch Drawing with Transformers
+https://arxiv.org/abs/2112.03258
+
+pixray：图像生成系统
+github.com/pixray/pixray

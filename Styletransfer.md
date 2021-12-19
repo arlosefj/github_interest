@@ -193,3 +193,9 @@ github.com/D1noFuzi/cmd_styletransfer
 
 Domain-Aware Universal Style Transfer
 github.com/Kibeom-Hong/Domain-Aware-Style-Transfer
+
+Keras实例教程：AdaIN神经网络画风迁移
+https://keras.io/examples/generative/adain/
+
+MMGEN-FaceStylor人脸风格化
+github.com/open-mmlab/MMGEN-FaceStylor

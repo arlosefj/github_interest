@@ -890,3 +890,38 @@ github.com/luin/wechat-export
 
 OpenVSCode Server：可通过浏览器远程访问的服务器端VS Code
 github.com/gitpod-io/openvscode-server
+
+### 《Git 飞行规则》，其理念来自于 NASA 给宇航员的指南，主要用于指导问题出现后的应对之法。
+https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md
+
+青龙 - Python/JavaScript/Shell/Typescript 定时任务管理面板
+github.com/whyour/qinglong
+
+cached-path：通过统一界面访问本地和远程文件的Python文件实用程序库
+github.com/allenai/cached_path
+
+### 实用的 Chrome 神器：Automa，可通过连接不同的任务区块，来自定义浏览器工作流。
+工作流可执行表单填写、屏幕截图、网站数据抓取等各种重复性工作。不仅于此，你还可以设置任务的执行时间，以满足多种不同场景的使用需求。
+地址：github.com/Kholid060/automa
+搭配上这款插件，便可应用到产品教程、自动化脚本、项目流程测试、网站爬虫等多种场景上。
+
+natpass - 新一代NAT内网穿透+shell+vnc工具
+github.com/lwch/natpass
+
+e 家宜业。
+主要包含装修登记、维修维护、车辆管理、访客通行、房产及业主档案管理、用户权限分配等功能，打通了小程序、PC、H5、智能硬件等多个终端。
+项目旨在提升物业公司效率、规范物业服务、加强小区智慧化建设等流程。
+GitHub：github.com/chowa/ejyy
+
+n.eko：基于docker/WebRTC运行的虚拟浏览器
+github.com/m1k1o/neko
+
+Fuso :  扶桑——快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密 
+github.com/editso/fuso
+
+PTTS 网页演示 - Parallel TTS web demo based on Flask + Vue (Vuetify). 基于 Flask + Vue 的语音合成单网页演示项目。
+github.com/atomicoo/PTTS-WebAPP
+
+DWSurvey，GitHub 一款简单高效、成熟稳定的开源问卷系统。
+部署简单、更新便捷，一行命令完成部署，支持多达 40 多种题型，拥有数据实时统计、富文本编辑、多端适配等功能。
+GitHub：github.com/wkeyuan/DWSurvey

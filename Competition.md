@@ -311,3 +311,22 @@ github.com/sidgan/ETCI-2021-Competition-on-Flood-Detection
 
 【"Kaggle机器学习30天入门挑战"全程演练】
 https://www.bilibili.com/video/BV1Jh411q7eZ/
+
+Kaggle比赛解决方案集锦
+https://farid.one/kaggle-solutions/
+
+"Kaggle机器学习30天入门挑战"经验分享
+https://www.bilibili.com/video/BV1y44y1v73A/
+https://www.youtube.com/c/kaggle/videos
+
+### Data Competition：数据为中心AI口罩佩戴检测比赛
+github.com/fsoft-ailab/Data-Competition
+
+QQ浏览器2021AI算法大赛赛道一 第1名 方案
+github.com/zr2021/2021_QQ_AIAC_Tack1_1st
+
+一些比赛解决方案：微信大数据2021 1st，2021微信大数据挑战赛 第一名、QQ浏览器2021AI算法大赛赛道一 第三名、2020全国人工智能大赛 AI+遥感影像 第二名、2020 MIND新闻推荐 第一名
+github.com/chenghuige/pikachu2
+
+Kaggle推出Community Competitions社区竞赛：任何人都可以为自己的学校、企业或社区创建和举办竞赛，无需支付任何费用
+https://www.kaggle.com/product-feedback/294337

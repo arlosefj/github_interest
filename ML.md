@@ -1509,3 +1509,22 @@ github.com/paiml/practical-mlops-book
 
 Graphsignal Logger：机器学习模型监控平台，帮机器学习工程师、 MLOps团队和数据科学家快速解决数据和模型问题，以及前瞻性分析模型性能和可用性
 github.com/graphsignal/graphsignal
+
+免费书：《深度学习面试指南》
+github.com/BoltzmannEntropy/interviews.ai
+
+FedLab: 灵活的PyTorch联邦学习框架
+github.com/SMILELab-FL/FedLab
+
+深度学习入门学习资源，里面包含各类深度学习相关的技术教程、优秀文章、视频教程。
+主要覆盖数学、机器学习、计算机视觉、自然语言处理、目标检测、图像分割、模型优化、调参经验等内容。
+GitHub：github.com/Mikoto10032/DeepLearning 
+
+numpy-ml：只用NumPy实现的各种机器学习算法
+github.com/ddbourgin/numpy-ml
+
+《机器学习图解》笔记与图解
+https://chelseatroy.com/2021/12/10/notes-and-illustrations-grokking-machine-learning/
+
+HyperGBM：表格数据的全Pipeline自动机器学习工具
+github.com/DataCanvasIO/HyperGBM

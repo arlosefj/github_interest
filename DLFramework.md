@@ -134,3 +134,6 @@ github.com/ivadomed/ivadomed
 
 TFCC：C++深度学习推理框架
 github.com/Tencent/WeChat-TFCC
+
+VNN：高性能、轻量级神经网络部署框架
+github.com/joyycom/VNN
