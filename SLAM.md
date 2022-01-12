@@ -143,3 +143,9 @@ github.com/Ar-Ray-code/YOLOX-ROS
 
 PaddleRobotics：基于paddle的机器人开源算法库集，包括人机交互、复杂运动控制、环境感知、slam定位导航等开源算法部分
 github.com/PaddlePaddle/PaddleRobotics
+
+iGibson：面向机器人学习的大规模现实场景虚拟交互仿真环境 
+github.com/StanfordVL/iGibson
+
+urban_road_filter: 基于LIDAR的无人驾驶车辆实时城市道路和人行道检测算法
+github.com/jkk-research/urban_road_filter

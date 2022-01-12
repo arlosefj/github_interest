@@ -330,3 +330,6 @@ github.com/chenghuige/pikachu2
 
 Kaggle推出Community Competitions社区竞赛：任何人都可以为自己的学校、企业或社区创建和举办竞赛，无需支付任何费用
 https://www.kaggle.com/product-feedback/294337
+
+PRCV2021_ChangeDetection_Top3 - PRCV2021变化检测竞赛第三名解决方案
+github.com/likyoo/PRCV2021_ChangeDetection_Top3

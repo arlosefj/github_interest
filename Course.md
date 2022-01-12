@@ -281,3 +281,6 @@ https://c.d2l.ai/stanford-cs329p/
 
 Data Science for Beginners：微软10周20堂数据科学课
 github.com/microsoft/Data-Science-For-Beginners
+
+康奈尔大学“应用机器学习”课程资料
+github.com/kuleshov/cornell-cs5785-2021-applied-ml 

@@ -67,3 +67,9 @@ github.com/rentruewang/koila
 
 modelkit：极简但功能强大的Python MLOps库，方便将机器学习模型部署到产品中
 github.com/Cornerstone-OnDemand/modelkit
+
+用于查找数据集中标签错误、用含噪标签进行学习的机器学习包
+github.com/cleanlab/cleanlab 
+
+2021十大CV论文盘点
+github.com/louisfb01/top-10-cv-papers-2021 

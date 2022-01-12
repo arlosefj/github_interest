@@ -702,3 +702,6 @@ github.com/ibaiGorordo/ONNX-LSTR-Lane-Detection
 人脸画风
 https://github.com/Sxela/ArcaneGAN
 https://huggingface.co/spaces/akhaliq/ArcaneGAN
+
+PaddleBoBo：基于飞桨开发的虚拟主播
+github.com/JiehangXie/PaddleBoBo

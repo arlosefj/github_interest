@@ -91,3 +91,6 @@ https://www.tensorflow.org/text/tutorials/nmt_with_attention
 
 Cross-Attention is All You Need: Adapting Pretrained Transformers for Machine Translation
 github.com/MGheini/xattn-transfer-for-mt 
+
+LibreTranslate：可完全本地化部署的开源机器翻译API服务，基于Argos Translate
+github.com/LibreTranslate/LibreTranslate

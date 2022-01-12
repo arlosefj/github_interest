@@ -295,3 +295,9 @@ github.com/7eu7d7/genshin_auto_fish
 
 RLkit：强化学习算法(PyTorch)实现集
 github.com/rail-berkeley/rlkit 
+
+ElegantRL：用PyTorch实现的轻量、高效、稳定的深度强化学习算法
+github.com/AI4Finance-LLC/ElegantRL
+
+EasyRL - 强化学习中文教程
+github.com/datawhalechina/easy-rl

@@ -1528,3 +1528,6 @@ https://chelseatroy.com/2021/12/10/notes-and-illustrations-grokking-machine-lear
 
 HyperGBM：表格数据的全Pipeline自动机器学习工具
 github.com/DataCanvasIO/HyperGBM
+
+Awesome Active Learning：主动学习相关资源列表
+github.com/baifanxxx/awesome-active-learning

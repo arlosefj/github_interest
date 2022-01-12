@@ -755,3 +755,18 @@ https://www.pyimagesearch.com/2021/10/11/pytorch-transfer-learning-and-image-cla
 
 PyTorch Live：面向Android/iOS手机端的PyTorch
 github.com/pytorch/live
+
+《PyTorch & Scikit-Learn 机器学习实战》随书代码
+github.com/rasbt/machine-learning-book
+
+ONNX命令行工具箱 ONNX Command Line Toolbox
+github.com/jackwish/onnxcli
+
+MMDeploy：开源深度学习模型部署工具集
+github.com/open-mmlab/mmdeploy 
+
+PyTorch Lightning + Hydra深度学习项目模板
+github.com/hobogalaxy/lightning-hydra-template
+
+torchinfo：显示PyTorch模块概要
+github.com/TylerYep/torchinfo

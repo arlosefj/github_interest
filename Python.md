@@ -822,3 +822,7 @@ GitHub：github.com/rougier/numpy-100
 
 Jupyter Notebook使用速查
 https://www.edureka.co/blog/cheatsheets/jupyter-notebook-cheat-sheet
+
+一款开源的 Python 打包工具：QPT。
+最短仅需一行命令，即可将普通的 Python 脚本打包成 EXE 可执行程序，并选择性添加 CUDA 和 NoAVX 的支持。
+github.com/QPT-Family/QPT ​​​​

@@ -492,3 +492,12 @@ GitHub：github.com/BlinkDL/AI-Writer ​​​​
 
 TextPruner：为预训练语言模型设计的模型裁剪工具包
 github.com/airaria/TextPruner
+
+pinyin-pro - 中文转拼音、拼音音调、拼音声母、拼音韵母、多音字拼音、拼音首字母
+github.com/zh-lx/pinyin-pro
+
+T0：比GPT-3小16倍性能优秀的语言模型
+https://bigscience.huggingface.co/blog/t0
+
+中文自然语言推理与语义相似度数据集
+github.com/zejunwang1/CSTS 

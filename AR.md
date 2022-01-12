@@ -80,3 +80,6 @@ github.com/mafda/augmented_reality_101
 
 《Stay Positive: Non-Negative Image Synthesis for Augmented Reality》(CVPR 2021) 
 github.com/katieluo88/StayPositive
+
+### MindAR：网页增强现实轻量JS库
+github.com/hiukim/mind-ar-js

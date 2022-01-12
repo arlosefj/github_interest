@@ -137,3 +137,6 @@ github.com/Tencent/WeChat-TFCC
 
 VNN：高性能、轻量级神经网络部署框架
 github.com/joyycom/VNN
+
+Model Zoo for MindSpore
+github.com/mindspore-ai/models

@@ -347,3 +347,6 @@ github.com/IntelLabs/Model-Compression-Research-Package
 
 利用数据集蒸馏更高效训练机器学习模型
 https://ai.googleblog.com/2021/12/training-machine-learning-models-more.html
+
+Intel® Neural Compressor：运行在Intel CPU/GPU上的神经网络压缩库
+github.com/intel/neural-compressor 

@@ -1086,3 +1086,6 @@ github.com/mfrashad/text2art
 
 ProsePainter：用文字绘画，按你的描述自动生成绘画
 github.com/Morphogens/ProsePainter 
+
+StyleSwin: Transformer-based GAN for High-resolution Image Generation
+github.com/microsoft/StyleSwin

@@ -87,3 +87,6 @@ github.com/ContinualAI/continual-learning-papers
 
 PyContinual：易于扩展的持续学习框架
 github.com/ZixuanKe/PyContinual
+
+持续学习文献列表
+github.com/mccaffary/continual-learning

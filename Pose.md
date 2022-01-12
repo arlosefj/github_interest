@@ -454,3 +454,9 @@ github.com/jingma-git/RealSkel
 
 mmhuman3d：OpenMMLab人体姿势、形状估计工具箱和基准
 github.com/open-mmlab/mmhuman3d
+
+Body Model Visualizer：可视化和互动编辑SMPL族人体模型的图形界面
+github.com/mkocabas/body-model-visualizer 
+
+Transfer Learning for Pose Estimation of Illustrated Characters
+https://arxiv.org/abs/2108.01819

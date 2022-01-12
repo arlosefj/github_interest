@@ -1025,3 +1025,9 @@ github.com/ibaiGorordo/ONNX-ImageNet-1K-Object-Detector
 
 AdelaiDet：开源多实例级检测应用工具箱
 github.com/aim-uofa/AdelaiDet 
+
+用商业卫星图像和深度学习探测海洋废弃物
+github.com/NASA-IMPACT/marine_debris_ML
+
+YOLOv5-Lite：方便部署的YOLOv5轻量高性能版
+github.com/ppogg/YOLOv5-Lite

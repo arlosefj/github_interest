@@ -1111,3 +1111,6 @@ github.com/Kazuhito00/LearningToCountEverything-Colaboratory-Sample
 ### DeepCourse：从基础到最前沿的视觉深度学习课程
 https://arthurdouillard.com/deepcourse/
 https:// github.com/arthurdouillard/deepcourse
+
+Latent Diffusion Models：基于潜扩散模型的高分辨率图像合成模型集
+github.com/CompVis/latent-diffusion

@@ -21,3 +21,11 @@ github.com/ventusff/neurecon
 
 ### PytorchGeometricTutorial：PyTorch几何深度学习教程
 github.com/AntonioLonga/PytorchGeometricTutorial
+
+text2mesh 这个项目还挺有意思的，你可以通过文字描述，让一件 3D 物体拥有不同皮肤和外观，快速生成其外表细节。
+比如，你可以给普通的 3D 人物模型，套上钢铁侠的衣服。或者，让一匹马瞬间变成能遨游太空的宇宙马。
+该项目已在 GitHub 开源，团队成员主要来自芝加哥大学和特拉维夫大学。作者在项目中，提供了不少示例，感兴趣的可以玩一下。
+github.com/threedle/text2mesh
+
+一份开源的游戏开发教程：Magic Tools，整理了游戏开发相关的工具、美术素材、项目源码、计算机图形学等资源。
+github.com/ellisonleao/magictools

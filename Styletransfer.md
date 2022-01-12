@@ -199,3 +199,6 @@ https://keras.io/examples/generative/adain/
 
 MMGEN-FaceStylor人脸风格化
 github.com/open-mmlab/MMGEN-FaceStylor
+
+### Splicing ViT Features for Semantic Appearance Transfer
+https://arxiv.org/abs/2201.00424

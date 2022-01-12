@@ -925,3 +925,45 @@ github.com/atomicoo/PTTS-WebAPP
 DWSurvey，GitHub 一款简单高效、成熟稳定的开源问卷系统。
 部署简单、更新便捷，一行命令完成部署，支持多达 40 多种题型，拥有数据实时统计、富文本编辑、多端适配等功能。
 GitHub：github.com/wkeyuan/DWSurvey
+
+My Backup Plan：数据备份参考方案
+github.com/geerlingguy/my-backup-plan
+
+Obsidian Template：Obsidian实用模板集
+github.com/llZektorll/OB_Template
+
+《Git In The Trenches》。
+作者构建了一家名为 Tamagoyaki 的虚拟公司，通过讲故事的方式，让大家能够有代入感的学习 Git。了解在实际工作中，如何用 Git 来解决问题。
+地址：cbx33.github.io/gitt/intro.html
+
+markmap：将Markdown可视化为脑图
+github.com/gera2ld/markmap
+
+DooTask - 轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具
+github.com/kuaifan/dootask
+
+Koodo Reader：跨平台电子书阅读器
+github.com/troyeguo/koodo-reader
+
+Flameshot：强大而简单的开源截屏软件
+github.com/flameshot-org/flameshot
+
+一款轻量级的虚拟机管理工具：Multipass。提供了简单易用的命令行工具，可帮助开发者快速搭建 Ubuntu 虚拟机集群，用于开发测试。
+github.com/canonical/multipass
+
+Bash-web-server：纯Bash网页浏览器
+github.com/dzove855/Bash-web-server
+
+PDF 补丁丁（PDFPatcher） - PDF 处理工具，可以制作、修改、拆分、合并、转换、提取、识别PDF文件
+github.com/wmjordan/PDFPatcher
+
+Scalene：Python高性能CPU/GPU/内存分析器
+github.com/plasma-umass/scalene 
+
+从pdf文件拷贝出来的文字会多出很多换行，在word里只需要简单把“^p”替换成“ ”就搞定了~
+
+Obsidian Git：用Git备份Obsidian
+github.com/denolehov/obsidian-git
+
+如何用(旧)手机制作放置在桌面的实时数据显示面板
+https://board.level06.com/

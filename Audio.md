@@ -656,3 +656,18 @@ github.com/daanzu/wav2vec2_stt_python
 
 ### PPASR流式与非流式语音识别 - 基于PaddlePaddle2实现的端到端中文语音识别框架
 github.com/yeyupiaoling/PPASR
+
+music2video：基于Wav2CLIP和VQGAN-CLIP根据音乐自动生成视频
+github.com/joeljang/music2video
+
+compound-word-transformer-tensorflow - Tensorflow 实现的AI作曲’
+compound-word-transformer-tensorflow
+
+MockingBird - AI拟声: 5秒内克隆您的声音并生成任意语音内容 
+github.com/babysor/MockingBird
+
+Wenet STT Python：基于WeNet的Python语音识别库
+github.com/daanzu/wenet_stt_python 
+
+### Spchcat：面向Linux/树莓派的语音识别工具，用于将音频转录为文本
+github.com/petewarden/spchcat

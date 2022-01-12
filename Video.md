@@ -389,3 +389,6 @@ https://github.com/Zulko/moviepy
 
 不到30行代码实现的MaryJane MJPEG server视频流服务器
 github.com/bootrino/maryjane
+
+videohash：Python近重复视频检测包(视频的64位可比较哈希)
+github.com/akamhy/videohash 

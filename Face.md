@@ -648,3 +648,18 @@ github.com/vignetteapp/vignette
 
 VGGFace2-HQ：面向人脸编辑的高分辨率人脸数据集
 github.com/NNNNAI/VGGFace2-HQ
+
+照片/视频高效人脸情感识别
+github.com/HSE-asavchenko/face-emotion-recognition
+
+Oh-My-Face：基于StyleCLIP, RIFE 和 encoder4editing的人脸属性编辑
+github.com/P2Oileen/oh-my-face
+
+FaceAPI：TensorFlow/JS实现的人脸检测与旋转跟踪、人脸描述与识别、年龄性别与情感预测API
+github.com/vladmandic/face-api
+
+FS2K dataset：人脸-涂鸦变换数据集
+github.com/DengPingFan/FS2K
+
+deepfake-models：深度换脸模型集 e.g. DeepFake, FaceSwap-MarekKowal, IPGAN, FaceShifter, FaceSwap-Nirkin, FSGAN, SimSwap, CihaNet, etc.
+github.com/MitchellX/deepfake-models

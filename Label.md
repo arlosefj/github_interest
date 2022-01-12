@@ -313,3 +313,6 @@ github.com/open-mmlab/labelbee-client
 
 PyLabel：计算机视觉标记任务库，核心功能是在不同格式之间转换边框标记，例如从coco到yolo
 ithub.com/pylabel-project/pylabel
+
+doccano：基于网页的开源协同多语言文本标注工具
+github.com/doccano/doccano

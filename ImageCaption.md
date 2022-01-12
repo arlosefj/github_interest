@@ -1128,3 +1128,39 @@ https://arxiv.org/abs/2111.13196
 
 Keras实例教程：视觉Transformer的Token化学习
 https://keras.io/examples/vision/token_learner/
+
+RegionCLIP: Region-based Language-Image Pretraining
+https://arxiv.org/abs/2112.09106
+
+CLIPfa: Connecting Farsi Text and Images
+github.com/sajjjadayobi/CLIPfa
+
+PyTorch实现的CLIP引导的目标检测边框排序
+github.com/bes-dev/pytorch_clip_bbox
+
+DenseCLIP: Extract Free Dense Labels from CLIP
+https://arxiv.org/abs/2112.01071
+
+面向计算机视觉的Transformer：架构、技巧与提升
+https://theaisummer.com/transformers-computer-vision/?hss_channel=tw-1259466268505243649
+
+Natural Language Descriptions of Deep Features
+https://openreview.net/forum?id=NudBMY-tzDr
+
+### 多语言图像描述
+github.com/gchhablani/multilingual-image-captioning
+
+ERNIE-ViLG: Unified Generative Pre-training for Bidirectional Vision-Language Generation
+https://arxiv.org/abs/2112.15283
+
+A Simple Baseline for Zero-shot Semantic Segmentation with Pre-trained Vision-language Model
+https://arxiv.org/abs/2112.14757
+
+Language as Queries for Referring Video Object Segmentation
+https://arxiv.org/abs/2201.00487
+
+Detecting Twenty-thousand Classes using Image-level Supervision
+https://arxiv.org/abs/2201.02605
+
+Language-driven Semantic Segmentation
+https://arxiv.org/abs/2201.03546

@@ -395,3 +395,6 @@ https://cstheory.stackexchange.com/questions/19759/core-algorithms-deployed/1977
 
 GitHub 上一个基于纯 C 语言实现的 LeetCode 题解仓库，共有 200 多道题，涵盖链表、队列、堆栈、递归、动态规划、二叉搜索树等知识点。
 GitHub：github.com/begeekmyfriend/leetcode ​​​​
+
+算法通关手册（LeetCode） - 超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析
+github.com/itcharge/LeetCode-Py

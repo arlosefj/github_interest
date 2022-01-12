@@ -469,3 +469,12 @@ github.com/yeemachine/kalidoface-3d
 
 Blender虚拟人物姿态控制扩展
 github.com/yanch2116/CharacterDriven-BlenderAddon
+
+视频”套脸“Demo
+https://huggingface.co/spaces/abhishek/first-order-motion-model
+
+Crop-CLIP：基于CLIP的图片内容检索/裁剪
+github.com/vijishmadhavan/Crop-CLIP
+
+ClothingTransfer-NCNN - CT-Net, OpenPose, LIP_JPPNet, DensePose running with ncnn 服装迁移/虚拟试穿(ClothingTransfer/Virtual-Try-On)
+github.com/EdVince/ClothingTransfer-NCNN

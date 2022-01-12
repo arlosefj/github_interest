@@ -1310,3 +1310,9 @@ github.com/wchstrife/Awesome-Image-Matting
 
 End-to-End Referring Video Object Segmentation with Multimodal Transformers
 github.com/mttr2021/MTTR
+
+PP-HumanSeg: Connectivity-Aware Portrait Segmentation with a Large-Scale Teleconferencing Video Dataset
+https://arxiv.org/abs/2112.07146 https://github.com/PaddlePaddle/PaddleSeg
+
+深度学习视频分割相关资源集
+github.com/tfzhou/VS-Survey

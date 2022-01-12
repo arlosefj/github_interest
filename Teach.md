@@ -274,3 +274,22 @@ https://the-algorithms.com/category/neuralnetwork
 康奈尔科技校区（Cornell Tech）开源的机器学习 DIY 教学库：MiniTorch，可帮助工程师更好的了解深度学习系统概念。
 为了让大家更好的理解技术原理，该库重新实现了 PyTorch 的 API，注重简单和易读、测试与增量，里面还配套了相关教程与技术代码。
 GitHub：github.com/minitorch/minitorch ​​​​
+
+深度学习和机器学习的线性代数基础(Python)
+https://pub.towardsai.net/basic-linear-algebra-for-deep-learning-and-machine-learning-ml-python-tutorial-444e23db3e9e
+
+visualization - a collection of visualization function
+github.com/rentainhe/visualization
+
+免费课程：端到端机器学习
+https://end-to-end-machine-learning.teachable.com/p/complete-course-library-full-end-to-end-machine-learning-catalog
+
+免费书新版：深度学习面试指南——数百个完整答案的工作面试题，广泛覆盖AI领域关键主题
+400 多页的深度学习面试和考试题（含解答）
+https://arxiv.org/abs/2201.00650
+
+Awesome-DeepLearning-500FAQ - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述
+github.com/shliang0603/Awesome-DeepLearning-500FAQ
+
+ReceptiveFieldAnalysisToolbox：感受野分析工具包
+github.com/MLRichter/receptive_field_analysis_toolbox

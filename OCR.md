@@ -839,3 +839,15 @@ github.com/GitYCC/traditional-chinese-text-recogn-dataset
 
 场景文本识别相关资源集
 github.com/HCIILAB/Scene-Text-Recognition-Recommendations
+
+### chineseocr_lite - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M
+github.com/DayBreak-u/chineseocr_lite
+
+### OCRmyPDF：为扫描PDF增加OCR文本层，可实现文本内容搜索
+github.com/ocrmypdf/OCRmyPDF
+
+Benchmarking-Chinese-Text-Recognition：中文文本识别基准(数据集)
+github.com/FudanVI/benchmarking-chinese-text-recognition
+
+ddddocr - 带带弟弟OCR通用验证码识别SDK免费开源版
+github.com/sml2h3/ddddocr

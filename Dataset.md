@@ -810,3 +810,21 @@ github.com/CLUEbenchmark/KgCLUE
 
 用动漫图片训练深度模型资源集
 github.com/STomoya/animeface
+
+WeSing：高质量普通话演唱语料库
+github.com/zpcoftts/wesing
+
+多语言口语语料库
+https://mlcommons.org/en/multilingual-spoken-words/
+
+人工语音数据集
+https://mlcommons.org/en/peoples-speech/
+
+IKEA 3D Assembly Dataset：宜家3D家具组装数据集
+github.com/IKEA/IKEA3DAssemblyDataset
+
+ImgFlip575K Memes Dataset - 575K memes from ImgFlip
+github.com/schesa/ImgFlip575K_Dataset
+
+BOVText-Benchmark：面向视频文本识别的大规模双语开放世界数据集
+github.com/weijiawu/BOVText-Benchmark

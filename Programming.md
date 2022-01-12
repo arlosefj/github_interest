@@ -143,3 +143,13 @@ github.com/PKUFlyingPig/pku-cs-self-learning
 正则表达式从入门到进阶
 https://regexlearn.com/zh-cn
 github.com/aykutkardas/regexlearn.com 
+
+一款交互式视觉小说游戏：Learn to Code RPG，可以让你边玩游戏、边学编程。
+项目里面拥有 600 多道计算机科学相关的测试题，你可以通过探索游戏菜单和解题的方式，来提升编程技巧。
+github.com/freeCodeCamp/LearnToCodeRPG ​​​​
+
+科研人员编程实践手册
+github.com/patrickmineault/codebook
+
+Project Based Learning：C/C++/Java/Python等各种语言项目实战教程大列表
+github.com/practical-tutorials/project-based-learning

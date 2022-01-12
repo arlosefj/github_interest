@@ -239,3 +239,6 @@ github.com/WangWenhao0716/ISC-Track2-Submission
 
 Facebook图像相似度挑战优胜方案汇总
 github.com/drivendataorg/image-similarity-challenge
+
+### PASSL -包含PaddlePaddle实现的SimCLR，MoCo，BYOL，CLIP等基于对比学习的图像自监督算法以及 Vision-Transformer，Swin-Transformer，BEiT，CVT，T2T，MLP_Mixer等视觉Transformer算法
+github.com/PaddlePaddle/PASSL 

@@ -172,3 +172,15 @@ github.com/PaddlePaddle/PaddleDetection
 
 ### mle-monitor：轻量级实验和资源监控
 github.com/mle-infrastructure/mle-monitor
+
+YOLOP-opencv-dnn - 用OpenCV部署全景驾驶感知网络YOLOP，可同时处理交通目标检测、可驾驶区域分割、车道线检测，三项视觉感知任务，包含C++和Python两种版本的程序实现
+github.com/hpc203/YOLOP-opencv-dnn
+
+Yolov5/Deepsort的C++实现
+github.com/RichardoMrMu/yolov5-deepsort-tensorrt
+
+CVZone：基于OpenCV和Mediapipe库的计算机视觉包
+github.com/cvzone/cvzone 
+
+CoreML-Models - Converted CoreML Models Zoo.
+github.com/john-rocky/CoreML-Models

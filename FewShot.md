@@ -332,3 +332,6 @@ github.com/open-mmlab/mmfewshot
 
 Easy Few-Shot Learning：少样本图像分类参考代码和教程
 github.com/sicara/easy-few-shot-learning
+
+Label, Verify, Correct: A Simple Few Shot Object Detection Method
+https://arxiv.org/abs/2112.05749
