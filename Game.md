@@ -169,3 +169,12 @@ github.com/ByteLegend/ByteLegend
 
 LittleJS - 微型JavaScript游戏引擎
 github.com/KilledByAPixel/LittleJS
+
+绝版游戏保护工程 - 收录了很多款几近绝版的精品 DOS 游戏和老版Windows游戏
+github.com/skywind3000/preserve-cd
+
+MetalNES：NES-001模拟器
+github.com/iaddis/metalnes
+
+Hathora：多人(在线)游戏框架
+github.com/hathora/hathora

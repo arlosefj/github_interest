@@ -335,3 +335,18 @@ github.com/sicara/easy-few-shot-learning
 
 Label, Verify, Correct: A Simple Few Shot Object Detection Method
 https://arxiv.org/abs/2112.05749
+
+Few-Shot-Intent-Detection：少样本意图检测相关资源集
+github.com/jianguoz/Few-Shot-Intent-Detection
+
+FSL-Mate：少样本学习(FSL)资源集合
+github.com/tata1661/FSL-Mate
+
+Subspace Regularizers for Few-Shot Class Incremental Learning
+https://arxiv.org/abs/2110.07059
+
+### Training Vision Transformers with Only 2040 Images
+https://arxiv.org/abs/2201.10728
+
+Corrupted Image Modeling for Self-Supervised Visual Pre-Training
+https://arxiv.org/abs/2202.03382

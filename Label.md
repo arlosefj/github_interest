@@ -316,3 +316,6 @@ ithub.com/pylabel-project/pylabel
 
 doccano：基于网页的开源协同多语言文本标注工具
 github.com/doccano/doccano
+
+DeepLabCut: 用于执行多种任务的动物无标记姿态估计工具箱
+github.com/DeepLabCut/DeepLabCut

@@ -1089,3 +1089,12 @@ github.com/Morphogens/ProsePainter
 
 StyleSwin: Transformer-based GAN for High-resolution Image Generation
 github.com/microsoft/StyleSwin
+
+InterfaceGAN++: Exploring the limits of InterfaceGAN
+ithub.com/younesbelkada/interfacegan
+
+MaskGIT: Masked Generative Image Transformer
+https://arxiv.org/abs/2202.04200
+
+State-of-the-Art in the Architecture, Methods and Applications of StyleGAN
+https://arxiv.org/abs/2202.14020

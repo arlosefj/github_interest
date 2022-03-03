@@ -392,3 +392,18 @@ github.com/bootrino/maryjane
 
 videohash：Python近重复视频检测包(视频的64位可比较哈希)
 github.com/akamhy/videohash 
+
+用6行Python代码下载Youtube视频
+https://wx4.sinaimg.cn/mw690/5396ee05ly1gybr8p6y2sj20xb0kbdl2.jpg
+
+ZLMediaKit：一个基于C++11的高性能运营级流媒体服务框架 - WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181 server and client framework based on C++11
+github.com/ZLMediaKit/ZLMediaKit
+
+videoin
+2017年，与AR、绿幕有些类似的“虚拟替换技术”率先登陆英国赛场。通过事先捕捉广告牌在镜头中的位置，可以替换掉广告牌中的内容。再根据转播方地区的差异，投放不同内容的广告，以更高效地吸引看比赛的观众。 ​​​​
+
+### FFmpeg Cheatsheet：FFmpeg常用视频处理命令速查
+github.com/yuanqing/ffmpeg-cheatsheet
+
+Movies2Scenes: Learning Scene Representations Using Movie Similarities
+https://arxiv.org/abs/2202.10650

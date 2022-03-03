@@ -851,3 +851,22 @@ github.com/FudanVI/benchmarking-chinese-text-recognition
 
 ddddocr - 带带弟弟OCR通用验证码识别SDK免费开源版
 github.com/sml2h3/ddddocr
+
+swin-transformer-ocr：用swin-transformer实现的OCR
+github.com/YongWookHa/swin-transformer-ocr
+
+### Meta Self-Learning for Multi-Source Domain Adaptation: A Benchmark
+github.com/bupt-ai-cz/Meta-SelfLearning
+![](https://wx4.sinaimg.cn/mw690/5396ee05ly1gyj3q0p9gcj21ky0boqn4.jpg)
+
+### Perspec：校正图片透视变形的桌面应用
+github.com/feramhq/Perspec
+
+### layoutparser：基于深度学习的文档图像版面分析统一工具包
+layout-parser.github.io/
+
+Towards Weakly-Supervised Text Spotting using a Multi-Task Transformer
+https://arxiv.org/abs/2202.05508
+
+表格识别相关资源大列表
+github.com/cv-small-snails/Awesome-Table-Recognition

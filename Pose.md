@@ -460,3 +460,6 @@ github.com/mkocabas/body-model-visualizer
 
 Transfer Learning for Pose Estimation of Illustrated Characters
 https://arxiv.org/abs/2108.01819
+
+GenMotion：角色骨架动画生成库
+github.com/realvcla/GenMotion

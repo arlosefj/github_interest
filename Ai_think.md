@@ -229,3 +229,21 @@ https://arxiv.org/abs/2106.03253
 
 像开发开源软件一样构建开放可重用增量更新的机器学习模块
 https://colinraffel.com/blog/a-call-to-build-models-like-we-build-open-source-software.html
+
+机器学习方法：可用性 vs. 可理解性
+https://www.aidancooper.co.uk/utility-vs-understanding/
+
+您真正需要关注的AI 技术风向
+https://mp.weixin.qq.com/s/ZQVdQPd9St8CgiJJEx3mLg
+
+imodels：可解释机器学习包，用于简洁、透明和准确的预测建模
+github.com/csinva/imodels 
+
+Sam Gershman：所有为可解释AI绞尽脑汁的人，都该看看关于人们如何解释自己行为的认知科学文献。有很多非常详细的解释。可唯一的问题是，这些解释可能非常不靠谱！我们要求从AI获得一种可解释性，如果我们连解释自己的行为都做不到，又怎么去要求别人。我觉得这些错觉是模块化系统(例如大脑)通信瓶颈的必然结果。不绕开这个模块化架构，大脑的一部分无法解释大脑另一部分所做的一切。这些瓶颈是可取的，因为有助于实现分工。出于同样的原因，我们希望人机交互中也存在瓶颈。这就需要对可解释性做出限制。
+爱可可-爱生活：很多时候，我们希望的可解释不是为了*说得通*，而是为了*搞得定*——可以不必知道为什么这样做决策，可一旦出了问题，需要有明确可理解的线索，去追查问题出在哪、在哪打补丁做优化能搞定，比如人脸识别，把某些肤色识别成猩猩的“突发事故”要应急处理，做不到可解释，只能全面下线先。
+
+Visual Attention Network
+https://arxiv.org/abs/2202.09741
+
+人工智能可解释性研究的前沿问题
+edium.com/@ alonjacovi/frontier-questions-in-ai-explainability-research-2363991b7116

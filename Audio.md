@@ -671,3 +671,18 @@ github.com/daanzu/wenet_stt_python
 
 ### Spchcat：面向Linux/树莓派的语音识别工具，用于将音频转录为文本
 github.com/petewarden/spchcat
+
+Open Audio Search：开源音频搜索引擎(基于语音识别)
+github.com/openaudiosearch/openaudiosearch 
+
+语音识别资源集锦
+https://wiki.nikitavoloboev.xyz/nlp/speech-recognition
+
+HuggingSound：基于HuggingFace工具包的语音相关任务工具包
+github.com/jonatasgrosman/huggingsound 
+
+Muskit: 聚焦于端到端歌唱合成基准测试的开源音乐处理工具包，用PyTorch作为深度学习引擎，并遵循 ESPnet 和 Kaldi 风格的数据处理，为各种音乐处理实验提供完整设置
+github.com/SJTMusicTeam/Muskits 
+
+基于很少样本的神经乐器克隆
+https://erlj.notion.site/Neural-Instrument-Cloning-from-very-few-samples-2cf41d8b630842ee8c7eb55036a1bfd6

@@ -1531,3 +1531,49 @@ github.com/DataCanvasIO/HyperGBM
 
 Awesome Active Learning：主动学习相关资源列表
 github.com/baifanxxx/awesome-active-learning
+
+机器学习/数据科学面试速查
+https://drive.google.com/file/d/1nbNWs_DyfG0YGMs3DjIaXrD7ytSnsSJ7/view?hss_channel=tw-1318985240
+
+tslearn：面向时间序列数据分析的机器学习工具包
+github.com/tslearn-team/tslearn ​​​​
+
+DeepMind人工智能学习资源清单
+https://storage.googleapis.com/deepmind-media/research/New_AtHomeWithAI%20resources.pdf
+
+Bindu Reddy：不同的机器学习问题类型，需要不同的算法。这是我们发现效果比较好的：
+- 预测模型：GBMs, Trees, Nested NNs
+- 预测：LSTM+, CNNs
+- 个性化：GRUs, Transformers, Two-tower
+- 语言：fine-tuning transformers
+- 异常：VAE ​​​ 
+
+AI-Expert-Roadmap：2021 AI专家成长路线图
+github.com/AMAI-GmbH/AI-Expert-Roadmap ​​​​
+
+机器学习数学基础
+gwthomas.github.io/docs/math4ml.pdf ​​​​
+
+机器学习数学基础入门指南
+towardsdatascience.com/are-you-ready-for-machine-learning-math-fc5a08fc8130
+
+Data Science Problems：面向AI编程的数据科学问题数据集
+github.com/microsoft/DataScienceProblems
+
+看信息图了解机器学习经典算法
+https://www.theinsaneapp.com/2021/11/machine-learning-algorithms-for-beginners.html
+https://wx1.sinaimg.cn/mw690/5396ee05ly1gzbj9uizkej20m31dt1kx.jpg
+https://wx1.sinaimg.cn/mw690/5396ee05ly1gzbj9zqk9ij20m50yk4ly.jpg
+https://wx2.sinaimg.cn/mw690/5396ee05ly1gzbja3kslbj20lv1cge81.jpg
+https://wx3.sinaimg.cn/mw690/5396ee05ly1gzbja7gfkej20m51ck7wh.jpg
+https://wx4.sinaimg.cn/mw690/5396ee05ly1gzbja9qovaj20ly1cie4x.jpg
+https://wx1.sinaimg.cn/mw690/5396ee05ly1gzbjabvya4j20ly1chaxx.jpg
+
+Machine Learning University：机器学习开源大学，机器学习免费学习资源集锦
+github.com/d0r1h/ML-University
+
+labml.ai深度学习论文注释与复现集
+github.com/labmlai/annotated_deep_learning_paper_implementations
+
+SHAP:用Python实现任意机器学习模型的解释
+owardsdatascience.com/shap-explain-any-machine-learning-model-in-python-24207127cad7

@@ -153,3 +153,15 @@ github.com/patrickmineault/codebook
 
 Project Based Learning：C/C++/Java/Python等各种语言项目实战教程大列表
 github.com/practical-tutorials/project-based-learning
+
+很棒的Git学习与实战网站
+https://gitexercises.fracz.com/
+
+Penpot：面向跨域团队的开源设计&原型开发平台
+github.com/penpot/penpot
+
+Awesome profiling：程序性能分析工具大列表
+github.com/msaroufim/awesome-profiling
+
+对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)'
+github.com/nusr/hacker-laws-zh

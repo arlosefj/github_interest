@@ -663,3 +663,9 @@ github.com/DengPingFan/FS2K
 
 deepfake-models：深度换脸模型集 e.g. DeepFake, FaceSwap-MarekKowal, IPGAN, FaceShifter, FaceSwap-Nirkin, FSGAN, SimSwap, CihaNet, etc.
 github.com/MitchellX/deepfake-models
+
+Awesome Talking Face：说话脸相关资源大列表
+github.com/JosephPai/Awesome-Talking-Face
+
+Facial Capture：人脸图像3D可变性模型(3DMM)适配库
+github.com/kimoktm/Face2face 

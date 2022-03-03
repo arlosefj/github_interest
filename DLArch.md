@@ -767,3 +767,42 @@ github.com/murufeng/awesome_lightweight_networks
 
 给数学新手的图神经网络教程
 https://rish16.notion.site/Graph-Neural-Networks-for-Novice-Math-Fanatics-c51b922a595b4efd8647788475461d57
+
+Neural Net Editor 神经网络编辑器，基于 imnodes 的流程图编辑工具
+github.com/scarsty/node-editor 
+
+awesome-vit：Vision Transformer 论文精选列表和总结
+github.com/open-mmlab/awesome-vit
+
+### 神经网络架构设计/可视化工具集
+github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network 
+
+NN SVG：深度学习网络架构图可视化生成
+https://alexlenail.me/NN-SVG/index.html
+
+基于图神经网络的系统交互推理
+medium.com/stanford-cs224w/how-to-analyze-interacting-systems-using-graph-neural-networks-940da9f9c013 
+
+神经架构搜索(NAS)：基本原理和主要方法
+https://theaisummer.com/neural-architecture-search/
+
+VFormer：PyTorch模块化Vision Transformer库
+github.com/SforAiDl/vformer
+
+Transformer Recipe：Transformer学习资料与参考实现汇编
+github.com/dair-ai/Transformers-Recipe/blob/main/README.md
+
+GNNs Recipe：图神经网络相关资源集锦
+github.com/dair-ai/GNNs-Recipe
+
+Not All Patches are What You Need: Expediting Vision Transformers via Token Reorganizations
+https://arxiv.org/abs/2202.07800
+
+Learning to Merge Tokens in Vision Transformers
+https://arxiv.org/abs/2202.12015
+
+attentions：PyTorch实现的几种注意力
+github.com/sooftware/attentions 
+
+从微分几何和代数拓扑角度看图神经网络
+towardsdatascience.com/graph-neural-networks-through-the-lens-of-differential-geometry-and-algebraic-topology-3a7c3c22d5f

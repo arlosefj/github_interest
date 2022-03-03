@@ -192,3 +192,12 @@ github.com/vict0rsch/PaperMemory
 
 科技写作中的常见错误
 https://cs.dartmouth.edu/~wjarosz/writing.md.html
+
+PlotNeuralNet：用Latex代码绘制神经网络图
+github.com/HarisIqbal88/PlotNeuralNet
+
+论文复现指南：要求、挑战与技巧
+https://drive.google.com/file/d/10kOi-h8B3Xzp_7KbwxYqkDM7Rp9oBcNm/view
+
+autoLiterature - 基于Dropbox和Python的自动文献管理器
+github.com/WilmerWang/autoLiterature

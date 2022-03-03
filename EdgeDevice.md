@@ -102,3 +102,6 @@ github.com/netease-youdao/EMLL
 
 PyTorch-LIT：终端设备大模型快速推理工具包
 github.com/AminRezaei0x443/PyTorch-LIT
+
+### BED: 边缘设备实时目标检测系统
+github.com/datamllab/BED_main

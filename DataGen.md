@@ -502,3 +502,6 @@ https://arxiv.org/abs/2112.03258
 
 pixray：图像生成系统
 github.com/pixray/pixray
+
+torchlm：支持100多种数据增强、支持训练和推理的PyTorch标志数据库
+github.com/DefTruth/torchlm

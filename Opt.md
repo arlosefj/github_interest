@@ -350,3 +350,12 @@ https://ai.googleblog.com/2021/12/training-machine-learning-models-more.html
 
 Intel® Neural Compressor：运行在Intel CPU/GPU上的神经网络压缩库
 github.com/intel/neural-compressor 
+
+pytorch自动化模型压缩工具库 - 针对pytorch模型的自动化模型结构分析和修改工具集，包含自动分析模型结构的模型压缩算法库
+github.com/THU-MIG/torch-model-compression
+
+### YOLOv5-Compression - YOLOv5 Series Multi-backbone(TPH-YOLOv5, Ghostnet, ShuffleNetv2, Mobilenetv3Small, EfficientNetLite, PP-LCNet, SwinTransformer YOLO), Module(CBAM, DCN), Pruning (EagleEye, Network Slimming) and Quantization (MQBench) Compression Tool Box.
+github.com/Gumpest/YOLOv5-Multibackbone-Compression
+
+OpenDelta：参数高效调优开源框架
+github.com/thunlp/OpenDelta 

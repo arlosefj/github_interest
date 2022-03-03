@@ -1031,3 +1031,34 @@ github.com/NASA-IMPACT/marine_debris_ML
 
 YOLOv5-Lite：方便部署的YOLOv5轻量高性能版
 github.com/ppogg/YOLOv5-Lite
+
+miemiedetection：基于YOLOX进行二次开发的PyTorch个人检测库，支持YOLOX、PPYOLO、PPYOLOv2等算法
+github.com/miemie2013/miemiedetection
+
+PyTorch 实现的YOLTv5卫星/航拍图像目标检测
+github.com/avanetten/yoltv5
+
+R-YOLOv4 - a PyTorch-based R-YOLOv4 implementation which combines YOLOv4 model and loss function from R3Det for arbitrary oriented object detection.
+github.com/kunnnnethan/R-YOLOv4
+
+### YOLOv7 - Framework Beyond Detection - YOLO with Transformers and Instance Segmentation, with TensorRT acceleration!
+github.com/jinfagang/yolov7
+
+yolox-opencv-dnn - 使用OpenCV部署YOLOX，支持YOLOX-S、YOLOX-M、YOLOX-L、YOLOX-X、YOLOX-Darknet53五种结构，包含C++和Python两种版本的程序
+github.com/hpc203/yolox-opencv-dnn
+
+### MMRotate：基于 PyTorch 的旋转框检测的开源工具箱
+github.com/open-mmlab/mmrotate
+
+nnDetection：医学图像3D目标检测框架
+github.com/MIC-DKFZ/nnDetection
+
+Slicing Aided Hyper Inference and Fine-tuning for Small Object Detection
+https://arxiv.org/abs/2202.06934
+
+SAHI：面向大规模目标检测(特别是小目标)和实例分割的轻量视觉库
+github.com/obss/sahi
+
+NanoDet-Plus：超快轻量目标检测
+github.com/RangiLyu/nanodet 
+https://zhuanlan.zhihu.com/p/449912627

@@ -398,3 +398,12 @@ GitHub：github.com/begeekmyfriend/leetcode ​​​​
 
 算法通关手册（LeetCode） - 超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析
 github.com/itcharge/LeetCode-Py
+
+ LeetCode 题解仓库，里面涵盖了多种编程语言的 LeetCode 代码实现，其中包括排序算法、链表、二叉树、栈和队列、动态规划等算法知识点。
+github.com/doocs/leetcode 
+
+Leetcode-retag - 重新分类 Leetcode 高频题
+github.com/resumejob/Leetcode-retag
+
+面向编程面试的LeetCode题集(C++)
+github.com/tanyarajhans/LeetCode 

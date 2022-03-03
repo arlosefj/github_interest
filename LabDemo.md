@@ -184,3 +184,21 @@ github.com/cvzone/cvzone
 
 CoreML-Models - Converted CoreML Models Zoo.
 github.com/john-rocky/CoreML-Models
+
+awesome-demos：用Gradio开发的机器学习Demo集锦
+github.com/gradio-app/awesome-demos
+
+XManager: 机器学习实验管理框架
+github.com/deepmind/xmanager
+
+txtai：用Python, Hugging Face Transformers, Sentence Transformers and FastAPI方便构建AI语义搜索应用
+github.com/neuml/txtai
+
+Audio2Face：音频驱动人脸生成
+github.com/FACEGOOD/Audio2Face
+
+Neptune：机器学习实验管理利器
+https://neptune.ai/product/experiment-tracking
+
+Yolov5 for Fire Detection：基于Yolov5的图片/视频火焰检测
+github.com/spacewalk01/Yolov5-Fire-Detection

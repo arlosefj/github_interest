@@ -770,3 +770,30 @@ github.com/hobogalaxy/lightning-hydra-template
 
 torchinfo：显示PyTorch模块概要
 github.com/TylerYep/torchinfo
+
+Knowledge Distillation Toolkit：PyTorch/PyTorch Lighting开发的知识蒸馏工具包
+github.com/georgian-io/Knowledge-Distillation-Toolkit
+
+Hammer：PyTorch深度模型高效训练工具包
+github.com/bytedance/Hammer
+
+PyTorch Image Models (timm)实战指南
+towardsdatascience.com/getting-started-with-pytorch-image-models-timm-a-practitioners-guide-4e77b4bf9055
+
+TorchMetrics：面向复现指标标准化的PyTorch通用指标评估包
+github.com/PyTorchLightning/metrics
+
+免费书稿：《Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD》，fastai/PyTorch深度学习实战
+github.com/fastai/fastbook ​​​ ​​​​
+
+TFLite Conversion：PyTorch->TFLite模型转换
+github.com/sithu31296/PyTorch-ONNX-TFLite 
+
+HookAndLook：用Pytorch训练深度学习模型期间帮助收集统计数据和运行检查的库
+github.com/arsenyinfo/hookandlook
+
+### TorchStudio：PyTorch及其生态专属IDE，简单点击即可本地/远程浏览、训练和比较AI模型，可视化调试模型
+github.com/TorchStudio/torchstudio 
+
+PyTorch Metric Learning：PyTorch深度度量学习库
+github.com/KevinMusgrave/pytorch-metric-learning

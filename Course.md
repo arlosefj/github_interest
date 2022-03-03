@@ -284,3 +284,13 @@ github.com/microsoft/Data-Science-For-Beginners
 
 康奈尔大学“应用机器学习”课程资料
 github.com/kuleshov/cornell-cs5785-2021-applied-ml 
+
+CMU的经典课程Algorithms in the Real World现在将编号改为15-750(原来是15-853)，合并了原来15-750课程Graduate Algorithms的一些内容，而将更专门的理论课程改为15-850: Advanced Algorithms。Algorithms in the Real World课程非常有意思，既有理论，也有实际应用，希望以后能出一本书。 ​​​​
+https://cstheory.stackexchange.com/questions/19759/core-algorithms-deployed/19773#19773
+
+《深度学习基础》课程资料(Colab)
+https://www.bilibili.com/video/BV1QK4y1a7hz/
+https://colab.research.google.com/drive/1ElEaLiW6PGyXObYGAdULk8ArGd8nLU7p?usp=sharing
+
+《高效深度学习系统》课程资料
+github.com/mryab/efficient-dl-systems

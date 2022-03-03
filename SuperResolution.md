@@ -346,3 +346,12 @@ github.com/braindotai/Real-Time-Super-Resolution
 
 《Investigating Tradeoffs in Real-World Video Super-Resolution》
 github.com/ckkelvinchan/RealBasicVSR 
+
+Real-CUGAN:用百万级动漫数据训练的，结构与Waifu2x兼容的通用动漫图像超分辨率模型
+github.com/bilibili/ailab/tree/main/Real-CUGAN
+
+traiNNer：基于PyTorch用于图像和视频超分辨率、恢复和图像到图像翻译的深度学习框架
+github.com/victorca25/traiNNer 
+
+Single Image Super-Resolution Methods: A Survey
+https://arxiv.org/abs/2202.11763

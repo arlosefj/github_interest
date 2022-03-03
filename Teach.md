@@ -293,3 +293,11 @@ github.com/shliang0603/Awesome-DeepLearning-500FAQ
 
 ReceptiveFieldAnalysisToolbox：感受野分析工具包
 github.com/MLRichter/receptive_field_analysis_toolbox
+
+Zetane Viewer：机器学习模型和内部张量3D可视化工具
+github.com/zetane/viewer
+
+Charles Ollion：5年前教深度学习，Jupyter Notebook是主流，有些学生无论干啥都想用Colab在线做。今年的新趋势，是学生们开始用StreamLit、Gradio和HuggingFace为他们的期末项目展示做Demo，不错的方向。
+
+深度学习正则化技术综合指南
+towardsdatascience.com/a-comprehensive-guide-of-regularization-techniques-in-deep-learning-c671bb1b2c67

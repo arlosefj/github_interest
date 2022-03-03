@@ -1114,3 +1114,40 @@ https:// github.com/arthurdouillard/deepcourse
 
 Latent Diffusion Models：基于潜扩散模型的高分辨率图像合成模型集
 github.com/CompVis/latent-diffusion
+
+QRCode-NCNN：ncnn移植版二维码识别引擎
+github.com/EdVince/QRCode-NCNN
+
+Dense Extreme Inception Network for Edge Detection
+https://arxiv.org/abs/2112.02250
+
+Deep Image Deblurring: A Survey
+https://arxiv.org/abs/2201.10700
+
+### 深度学习在图像处理中的应用教程
+github.com/WZMIAOMIAO/deep-learning-for-image-processing
+
+Gyroflow：基于陀螺仪数据的视频画面稳定器
+github.com/gyroflow/gyroflow
+
+LEDNet: Joint Low-light Enhancement and Deblurring in the Dark
+https://arxiv.org/abs/2202.03373
+
+FAST：基于GPU的高性能医学图像处理与可视化框架
+github.com/smistad/FAST 
+
+CLIPasso: Semantically-Aware Object Sketching
+https://arxiv.org/abs/2202.05822
+
+Hugging Face教学资源包
+https://huggingface2.notion.site/Education-Toolkit-7b4a9a9d65ee4a6eb16178ec2a4f3599
+
+Awesome-Image-Matting：抠图相关工作列表
+github.com/michaelowenliu/awesome-image-matting 
+
+Pydrawing：图片/视频美化工具包
+github.com/CharlesPikachu/pydrawing
+
+IQA-PyTorch：PyTorch图像质量评估工具箱
+github.com/chaofengc/IQA-PyTorch
+

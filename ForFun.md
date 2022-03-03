@@ -478,3 +478,23 @@ github.com/vijishmadhavan/Crop-CLIP
 
 ClothingTransfer-NCNN - CT-Net, OpenPose, LIP_JPPNet, DensePose running with ncnn 服装迁移/虚拟试穿(ClothingTransfer/Virtual-Try-On)
 github.com/EdVince/ClothingTransfer-NCNN
+
+麻省理工大学的工作室 sizigi，发布了一款很有意思的 AI 工具：动漫肖像魔法。你可以通过选择头像、滤镜、风格、动作等 4 个步骤，来定制一个专属的二次元老婆 / 老公 [doge]
+https://waifulabs.com/
+
+Text to Handwriting，可将普通文本转换为手写文本，包括中文字体。支持自定义字体大小、墨水颜色、页面大小、字体间距、纸张背景等属性。
+除此之外，你还能上传自己的字体，让 AI 帮你写作业 
+GitHub：github.com/saurabhdaware/text-to-handwriting
+Demo：saurabhdaware.github.io/text-to-handwriting
+
+SberSwap：图像/视频换脸
+ithub.com/sberbank-ai/sber-swap
+
+Lite.AI.ToolKit：开箱即用的C++ AI工具箱，包括70+流行的开源模型，如最新的RVM, YOLOX, YOLOP, YOLOR, YoloV5, DeepLabV3, ArcFace等模型，支持ONNXRuntime/NCNN/MNN/TNN
+ithub.com/DefTruth/lite.ai.toolkit
+
+### DeepFaceLive：视频电话/视频会议实时换脸
+github.com/iperov/DeepFaceLive
+
+BangBang：跟神经网络比赛“打炮”(网页版)，谁先调好角度力道打中对方谁就赢了
+github.com/victorqribeiro/bangBang

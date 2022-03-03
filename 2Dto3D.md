@@ -515,3 +515,14 @@ https://arxiv.org/abs/2110.03575
 
 ONNX msg_chn_wacv20 depth completion：ONNX深度补全(Python)
 github.com/ibaiGorordo/ONNX-msg_chn_wacv20-depth-completion
+
+### 2020 年，谷歌和加州大学发布了一款 AI 模型：NeRF，可借助人工智能技术，把多张 2D 图片进行拼接，进而生成该图片的 3D 模型。
+此前 NeRF 模型的训练时间最快也要 5 分钟，但在近日，英伟达发布了 instant-ngp，将模型的训练时间缩短至 5 秒。即便如此，最终呈现出来的效果也尤为震撼。
+GitHub：github.com/NVlabs/instant-ngp
+另外，该代码库还附有一个交互式测试平台，可帮助开发者完成其它训练功能，调试每个神经元的输入参数，并输出可视化样例。
+
+Satellite Structure from Motion - A library for solving the satellite structure from motion problem
+github.com/Kai-46/SatelliteSfM
+
+单目3D检测相关文献大列表
+github.com/BigTeacher-777/Awesome-Monocular-3D-detection

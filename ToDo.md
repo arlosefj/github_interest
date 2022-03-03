@@ -73,3 +73,22 @@ github.com/cleanlab/cleanlab
 
 2021十大CV论文盘点
 github.com/louisfb01/top-10-cv-papers-2021 
+
+StylEx：一种新的分类器可视化解释方法
+https://arxiv.org/abs/2104.13369
+https://ai.googleblog.com/2022/01/introducing-stylex-new-approach-for.html
+
+FFCV：大幅加快(PyTorch)机器学习训练速度的数据加载器，把ImageNet训练时间缩短到几十分钟
+github.com/libffcv/ffcv
+
+机器学习实验跟踪管理工具Aim
+github.com/aimhubio/aim
+
+这个 GitHub 项目通过可视化的方式，让你更为直观的理解 SHA256 算法原理。
+github.com/dmarman/sha256algorithm ​​​​
+
+Google面向青少年的“身边的AI”科普项目，通过实例了解AI基本概念
+https://applieddigitalskills.withgoogle.com/c/middle-and-high-school/en/discover-ai-in-daily-life/overview.html
+
+GPU上大模型减少内存加快训练技巧
+https://huggingface.co/docs/transformers/performance

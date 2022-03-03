@@ -29,3 +29,18 @@ github.com/threedle/text2mesh
 
 一份开源的游戏开发教程：Magic Tools，整理了游戏开发相关的工具、美术素材、项目源码、计算机图形学等资源。
 github.com/ellisonleao/magictools
+
+EasySynth：用于创建合成图片数据集的虚幻引擎插件
+github.com/ydrive/EasySynth
+
+计算几何与计算机图形必备书单
+github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics 
+
+Open3D: 现代3D数据处理库
+github.com/isl-org/Open3D
+
+TerraForge3D：专业地形生成和建模工具
+github.com/Jaysmito101/TerraForge3D
+
+animal_papers：无标记动物运动捕捉和3D重建文献列表
+github.com/anl13/animal_papers

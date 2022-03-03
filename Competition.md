@@ -333,3 +333,15 @@ https://www.kaggle.com/product-feedback/294337
 
 PRCV2021_ChangeDetection_Top3 - PRCV2021变化检测竞赛第三名解决方案
 github.com/likyoo/PRCV2021_ChangeDetection_Top3
+
+xView3卫星图像船只检测竞赛第二名方案
+github.com/selimsef/xview3_solution
+
+Kaggle比赛解决方案集锦
+https://farid.one/kaggle-solutions/
+
+Kaggle宠物照片受欢迎程度预测比赛第一名方案
+https://www.kaggle.com/c/petfinder-pawpularity-score/discussion/301686
+
+Kaggle Competitions Master之路(心得&经验分享)
+amontgomerie.github.io/2022/02/10/kaggle-journey.html 

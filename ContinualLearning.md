@@ -90,3 +90,9 @@ github.com/ZixuanKe/PyContinual
 
 持续学习文献列表
 github.com/mccaffary/continual-learning
+
+Open-World Semi-Supervised Learning
+https://arxiv.org/abs/2102.03526
+
+FAMIE：面向多语言信息抽取的快速主动学习框架
+ithub.com/nlp-uoregon/famie

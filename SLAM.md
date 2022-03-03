@@ -149,3 +149,6 @@ github.com/StanfordVL/iGibson
 
 urban_road_filter: 基于LIDAR的无人驾驶车辆实时城市道路和人行道检测算法
 github.com/jkk-research/urban_road_filter
+
+LIMO-Velo [Alpha] - A real-time, direct and tightly-coupled LiDAR-Inertial SLAM for high velocities with spinning LiDARs
+github.com/Huguet57/LIMO-Velo

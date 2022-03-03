@@ -202,3 +202,6 @@ github.com/open-mmlab/MMGEN-FaceStylor
 
 ### Splicing ViT Features for Semantic Appearance Transfer
 https://arxiv.org/abs/2201.00424
+
+不错的照片转油画效果(SIGGRAPH 98)
+ithub.com/hertzmann/painterJava

@@ -97,3 +97,9 @@ https://www.cell.com/patterns/pdf/S2666-3899(21)00099-4.pdf
 因果推断教程资料
 github.com/rmcelreath/causal_salad_2021
 https://www.bilibili.com/video/BV1Kq4y1o74E/
+
+Deep End-to-end Causal Inference
+https://arxiv.org/abs/2202.02195
+
+Yann LeCun：世界模型——让人工智能系统像动物和人类一样学习、推理
+https://ai.facebook.com/blog/yann-lecun-advances-in-ai-research

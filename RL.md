@@ -299,5 +299,14 @@ github.com/rail-berkeley/rlkit
 ElegantRL：用PyTorch实现的轻量、高效、稳定的深度强化学习算法
 github.com/AI4Finance-LLC/ElegantRL
 
-EasyRL - 强化学习中文教程
+EasyRL - 强化学习中文教程,主要包含了强化学习概述、马尔可夫决策过程 、表格型方法、策略梯度、模仿学习等内容。
 github.com/datawhalechina/easy-rl
+​​​​
+模仿学习 vs. 离线强化学习
+https://www.bilibili.com/video/BV1dU4y1f7t6/
+
+A Survey of Explainable Reinforcement Learning
+https://arxiv.org/abs/2202.08434
+
+免费书(含中文版)：深度强化学习——基础、研究与应用
+https://deepreinforcementlearningbook.org/

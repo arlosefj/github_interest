@@ -170,3 +170,7 @@ https://arxiv.org/abs/2106.08265
 
 ### Anomaly Toolbox：基于GAN的异常检测工具包 #GAN
 github.com/zurutech/anomaly-toolbox
+
+anomalib：Python深度学习异常检测算法库，包括最先进的算法和功能，如实验管理、超参数优化和边缘推断
+github.com/openvinotoolkit/anomalib
+https://arxiv.org/abs/2202.08341

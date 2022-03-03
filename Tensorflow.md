@@ -215,3 +215,9 @@ https://keras.io/examples/vision/handwriting_recognition/
 
 Tensorflow/tfjs-examples
 https://github.com/tensorflow/tfjs-examples
+
+Keras实例教程：基于聚合注意力增强卷积网络
+https://keras.io/examples/vision/patch_convnet/
+
+基于Scikit-Learn, Keras, TensorFlow 2的机器学习/深度学习实战Jupyter notebook集
+github.com/ageron/handson-ml3

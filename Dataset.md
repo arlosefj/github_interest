@@ -828,3 +828,44 @@ github.com/schesa/ImgFlip575K_Dataset
 
 BOVText-Benchmark：面向视频文本识别的大规模双语开放世界数据集
 github.com/weijiawu/BOVText-Benchmark
+
+Incidents1M: a large-scale dataset of images with natural disasters, damage, and incidents
+https://arxiv.org/abs/2201.04236
+http://incidentsdataset.csail.mit.edu/
+
+Opencpop：公开可用的高质量中文普通话歌唱语料库，为歌唱声音合成(SVS)系统设计
+https://wenet.org.cn/opencpop/
+
+Dolt：面向数据的版本控制，数据的Git
+github.com/dolthub/dolt
+
+### TalkingHead-1KH：由YouTube视频组成的“说话头部”数据集
+github.com/deepimagination/TalkingHead-1KH 
+
+InfiniteRep：适合健身和理疗应用的视觉数据集
+github.com/toinfinityai/InfiniteRep
+
+Objectron Dataset：以对象为中心的短视频剪辑数据集，每个视频剪辑带有 AR 会话元数据，包括摄像机姿态和稀疏点云，包含为每个对象手动标记的3D包围框，整个数据集包含15K标记视频剪辑和超过4M 从各地搜集的多样性图像标记样本
+https://ai.googleblog.com/2020/11/announcing-objectron-dataset.html
+github.com/google-research-datasets/Objectron
+
+The Abduction of Sherlock Holmes: A Dataset for Visual Abductive Reasoning
+https://arxiv.org/abs/2202.04800
+
+LDPolypVideo-Benchmark：面向息肉检测的开放内窥镜视频数据集
+github.com/dashishi/LDPolypVideo-Benchmark 
+
+Bach Violin Dataset：巴赫小提琴数据集，巴赫无伴奏小提琴奏鸣曲与组曲的高质量开放录音集合
+github.com/salu133445/bach-violin-dataset
+
+MOTSynth：用于行人检测、分割和城市场景跟踪的大规模合成数据集，用视频游戏GTA V(Grand Theft Auto V)创建
+https://motchallenge.net/data/MOTSynth-MOT-CVPR22/
+
+StandardSim：零售环境逼真合成数据集
+github.com/standard-ai/Standard-Sim 
+
+Ego4D：世界上最大的自我中心(第一人称)视频机器学习数据集和基准
+github.com/facebookresearch/Ego4d
+
+SDIP Dataset：自蒸馏互联网照片(SDIP)数据集
+github.com/self-distilled-stylegan/self-distilled-internet-photos 

@@ -86,3 +86,11 @@ https://www.allhistory.com/
 
  “中华古籍资源库”，包含 10万部（件）古籍，最重要的是免登录浏览。
  http://www.nlc.cn/pcab/zy/zhgj_zyk/
+
+ 文言文(古文)-现代文平行语料, 涵盖大部分经典古籍著作
+ 原始爬取的数据是篇章级对齐，经过脚本分句以及人工校对，形成共计约 96 万句对，source 下为文言文，target 下为现代文，文件内容按行对齐。
+ github.com/NiuTrans/Classical-Modern
+
+ 专业词典知识库
+地址：github.com/liuhuanyong/DomainWordsDict
+涵盖68个领域、共计916万词的专业词典知识库，可用于文本分类、知识增强、领域词汇库扩充等自然语言处理应用。 ​​​​

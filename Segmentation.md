@@ -1316,3 +1316,18 @@ https://arxiv.org/abs/2112.07146 https://github.com/PaddlePaddle/PaddleSeg
 
 深度学习视频分割相关资源集
 github.com/tfzhou/VS-Survey
+
+Pixel 6手机上人像模式自拍的精确Alpha抠图
+https://ai.googleblog.com/2022/01/accurate-alpha-matting-for-portrait.html
+
+Semantic Segmentation：PyTorch实现的SOTA语义分割模型集
+github.com/sithu31296/semantic-segmentation
+
+3D-Point-Clouds - 3D点云目标检测&语义分割-SOTA方法,代码,论文,数据集等
+github.com/HuangCongQing/3D-Point-Clouds
+
+视频目标分割(VOS)文献大列表
+github.com/suhwan-cho/awesome-video-object-segmentation
+
+GroupViT: Semantic Segmentation Emerges from Text Supervision
+https://arxiv.org/abs/2202.11094

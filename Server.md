@@ -342,3 +342,44 @@ github.com/jesseduffield/lazydocker
 
 开源MLOps工具指南
 github.com/fuzzylabs/awesome-open-mlops
+
+CDN Up and Running：CDN原理详解
+github.com/leandromoreira/cdn-up-and-running
+
+用 90 天学 DevOps》（90 Days Of DevOps），里面记录了国外一名开发者学习 DevOps 的 90 天历程。
+内容包括 DevOps 定义、Linux 基础知识、计算机网络、k8s 及容器的使用、自动化配置管理、日志监控管理与数据可视化等知识。
+github.com/MichaelCade/90DaysOfDevOps
+
+### mosec：高性能机器学习模型服务框架，提供动态批处理和多阶段流水线
+github.com/mosecorg/mosec
+
+Ansible，一款开源的自动化运维工具，可让项目和系统变得更加容易部署和维护。
+通过简单的语法，快速实现从代码部署到网络配置，再到云管理。并使用 SSH 实现一切自动化流程，无需在远程系统上安装代理。
+github.com/ansible/ansible ​​​​
+
+Flyte：云原生机器学习与数据处理平台
+github.com/flyteorg/flyte ​​​​
+
+Awesome CI/CD Security - A curated list of awesome CI CD security resources
+github.com/myugan/awesome-cicd-security
+
+Earthly：容器时代的自动化Build工具
+github.com/earthly/earthly
+
+产品级MLOps机器学习运维从零到精通指南与路线图
+github.com/trojrobert/MLOps_roadmap_and_curriculum
+
+Container Security Checklist: 容器使用安全检查清单
+github.com/krol3/container-security-checklist
+
+### Hugging Face Transformer模块企业级CPU/GPU推理服务器高效部署方案
+github.com/ELS-RD/transformer-deploy
+
+ZenML：可扩展的开源MLOps框架，用于创建可用于生产的机器学习管道
+github.com/zenml-io/zenml
+
+KServe - Serverless Inferencing on Kubernetes
+github.com/kserve/kserve
+
+系统管理员应该了解的30个Linux系统监视工具
+https://www.cyberciti.biz/tips/top-linux-monitoring-tools.html

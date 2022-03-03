@@ -1164,3 +1164,55 @@ https://arxiv.org/abs/2201.02605
 
 Language-driven Semantic Segmentation
 https://arxiv.org/abs/2201.03546
+
+Transformer4Vision：面向视觉任务的Transformer相关工作列表
+github.com/quanghuy0497/Transformer4Vision
+
+A Thousand Words Are Worth More Than a Picture: Natural Language-Centric Outside-Knowledge Visual Question Answering
+https://arxiv.org/abs/2201.05299
+
+CLIP-Event: Connecting Text and Images with Event Structures
+https://arxiv.org/abs/2201.05078
+
+MeMViT: Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition
+https://arxiv.org/abs/2201.08383
+
+Awesome CLIP：CLIP相关研究大列表】’Awesome CLIP - Awesome list for research on CLIP (Contrastive Language-Image Pre-Training).
+github.com/yzhuoning/Awesome-CLIP
+
+CM3: A Causal Masked Multimodal Model of the Internet
+https://arxiv.org/abs/2201.07520
+
+Kears实例教程：视频视觉Transformer(ViViT)
+https://keras.io/examples/vision/vivit/
+
+CLIP-TD: CLIP Targeted Distillation for Vision-Language Tasks
+https://arxiv.org/abs/2201.05729
+
+Natural Language Descriptions of Deep Visual Features
+https://arxiv.org/abs/2201.11114
+
+Convolutional Xformers for Vision
+https://arxiv.org/abs/2201.10271
+
+Keras实例教程：基于TabTransformer的结构化数据学习
+https://keras.io/examples/structured_data/tabtransformer/
+
+VC-GPT: Visual Conditioned GPT for End-to-End Generative Vision-and-Language Pre-training
+https://arxiv.org/abs/2201.12723
+
+BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation
+https://arxiv.org/abs/2201.12086
+https://github.com/salesforce/BLIP
+
+Vision-Language Pre-Training with Triple Contrastive Learning
+https://arxiv.org/abs/2202.10401
+
+A Survey of Vision-Language Pre-Trained Models
+https://arxiv.org/abs/2202.10936
+
+4D-Net: 3D和图像输入多模态对齐学习
+https://ai.googleblog.com/2022/02/4d-net-learning-multi-modal-alignment.html
+
+CLIP-GEN: Language-Free Training of a Text-to-Image Generator with CLIP
+https://arxiv.org/abs/2203.00386

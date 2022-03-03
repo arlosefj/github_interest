@@ -967,3 +967,55 @@ github.com/denolehov/obsidian-git
 
 如何用(旧)手机制作放置在桌面的实时数据显示面板
 https://board.level06.com/
+
+### labml.ai：在手机上远程跟踪机器学习模型训练和硬件使用情况
+github.com/lab-ml/labml
+
+Hitomi-Downloader：免费但强大的视频、图片、音乐下载工具，支持下载Youtube等网站
+github.com/KurtBestor/Hitomi-Downloader
+
+电影机器人，可自动从豆瓣电影的想看、在看、看过中获取影音信息，然后去 PT 站智能选种，找到最匹配的资源加入自己的影音库。
+应用支持 Docker 形式启动，日常运行占资源非常低，无 CPU 消耗，常驻内存 2MB 左右。
+github.com/pofey/movie_robot
+
+The Cyber Plumber's Handbook：SSH安全手册，包含了在多个实际场景中 SSH 隧道和端口重定向的真实示例
+github.com/opsdisk/the_cyber_plumbers_handbook
+
+### yt-dlp：Youtube视频命令行下载工具youtube-dl扩展版，添加了新的特性和补丁
+github.com/yt-dlp/yt-dlp
+
+Hitomi-Downloader，可用于快速下载各大网站的视频、漫画、电影、音乐等内容。拥有简洁易用的 UI 界面，多线程及脚本支持。
+github.com/KurtBestor/Hitomi-Downloader 
+​​​​
+DevToys，作者将其称之为「开发人员的瑞士军刀」。里面提供了诸多实用的开发者工具，比如 JSON 格式化、正则表达式测试、Base64 编码与解码、PNG/JPEG 图片压缩、色盲模拟器等功能。
+GitHub：github.com/veler/DevToys ​​​​
+
+Agora Flat，支持实时交互、多人音视频通讯和消息聊天、房间创建管理、课堂录制回放、课件存储、屏幕共享等功能。
+GitHub：github.com/netless-io/flat ​​​​
+
+Logseq：本地存储优先的个人知识库
+ithub.com/logseq/logseq
+
+free4chat：即时音频会议服务
+github.com/madawei2699/free4chat
+
+七款热门GPU监控与诊断命令行工具
+https://www.cyberciti.biz/open-source/command-line-hacks/linux-gpu-monitoring-and-diagnostic-commands/
+
+Cassowary：在Linux上运行Windows应用
+github.com/casualsnek/cassowary 
+
+Midarr：下一代媒体服务器
+github.com/midarrlabs/midarr-server
+
+Trilium Notes：分层的笔记应用程序，专注于建立大型个人知识库
+github.com/zadam/trilium/blob/master/README-ZH_CN.md ​​​ 
+
+Lurnby：主动阅读和个人知识管理工具
+github.com/Roznoshchik/Lurnby
+
+Rayon：Mac版SSH机器管理器
+github.com/Lakr233/Rayon
+
+VNote：专注于Markdown的基于Qt的开源免费的笔记应用
+github.com/vnotex/vnote

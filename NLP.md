@@ -501,3 +501,37 @@ https://bigscience.huggingface.co/blog/t0
 
 中文自然语言推理与语义相似度数据集
 github.com/zejunwang1/CSTS 
+
+Pytorch-NLU - 只依赖pytorch、transformers、numpy、tensorboardX，专注于文本分类、序列标注的极简自然语言处理工具包
+github.com/yongzhuo/Pytorch-NLU
+
+Keras实例教程：用Hugging Face Transformers实现问答
+https://keras.io/examples/nlp/question_answering/
+
+200亿参数的开源语言模型GPT-NeoX-20B发布，是目前最大的可公开访问的预训练通用自回归语言模型
+github.com/EleutherAI/gpt-neox
+https://mystic.the-eye.eu/public/AI/models/GPT-NeoX-20B/slim_weights/
+
+深度学习自然语言处理技术概览
+github.com/omarsar/nlp_overview ​​​​
+
+pNLP-Mixer: an Efficient all-MLP Architecture for Language
+https://arxiv.org/abs/2202.04350
+
+NLP-Paper - 自然语言处理领域下的对话语音领域，整理相关论文（附阅读笔记），复现模型以及数据处理等
+github.com/DengBoCong/nlp-paper
+
+MRC_Competition_Dureader - 机器阅读理解 冠军/亚军代码及中文预训练MRC模型
+github.com/basketballandlearn/MRC_Competition_Dureader
+
+veGiantModel：(针对GPT, BERT, T5GPT, BERT, T5等大模型的)高效训练库(Torch)
+github.com/volcengine/veGiantModel 
+
+### 基于wiki-edit数据的中文纠错
+github.com/xueyouluo/speller-bert 
+
+Mutate：用大语言模型(LLM)合成文本数据集的Python库
+github.com/infinitylogesh/mutate
+
+Transformers Domain Adaptation：Transformer语言模型域自适应工具包
+github.com/georgian-io/Transformers-Domain-Adaptation

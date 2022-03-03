@@ -84,3 +84,12 @@ github.com/zhanwen/MathModel ​​​​
 同构 - 编程中的数学，提供了中英文两种版本。
 主讲自然数和计算机程序、欧几里得算法、递归的形式与结构、斐波那契数列、罗素悖论、数学基础的分歧等内容。
 github.com/liuxinyu95/unplugged ​​​​
+
+让学生爱上数学的10+部数学纪录片
+https://abakcus.com/10-beautiful-mathematical-documentaries-to-make-students-love-math/
+
+应用机器学习线性代数Python实战入门
+pabloinsente.github.io/intro-linear-algebra ​​​​
+
+(视频课程)概率论严谨介绍：以直观而严谨的方式介绍概率论的基本概念
+https://space.bilibili.com/23852932/channel/collectiondetail?sid=206458

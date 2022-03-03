@@ -826,3 +826,56 @@ https://www.edureka.co/blog/cheatsheets/jupyter-notebook-cheat-sheet
 一款开源的 Python 打包工具：QPT。
 最短仅需一行命令，即可将普通的 Python 脚本打包成 EXE 可执行程序，并选择性添加 CUDA 和 NoAVX 的支持。
 github.com/QPT-Family/QPT ​​​​
+
+Mercury：将Python notebook转换成web app方便分享
+github.com/mljar/mercury
+
+Python可视化库简要总结：
+• Matplotlib：标杆，必须知道
+• Seaborn：更漂亮、更好用的Matplotlib
+• Mpld3：Matplotlib + 交互式(D3实现)
+• Bokeh：更漂亮 + Matplotlib + 交互式
+• Altair：声明式统计数据可视化
+• Folium：交互式地图可视化
+
+Ethan Rosenthal：我的两条Jupyter实践准则：
+1.要复制cell，考虑把cell里的代码重构为函数；
+2.要复制notebook，考虑把notebook代码转成Python包，再导入其他notebook。 ​​​​
+
+streamlit-template：基于streamlit-option-menu的streamlit app模板
+github.com/giswqs/streamlit-template
+
+pz：Python程序融入日常Bash
+github.com/CZ-NIC/pz
+
+免费书：《Python+Matplotlib科学可视化》
+github.com/rougier/scientific-visualization-book
+
+Leif Denby：用了十多年Python，才发现`plt.subplot_mosaic(…)`，绝对是matplotlib里最牛x的函数 
+![](https://wx4.sinaimg.cn/mw690/5396ee05ly1gzawdq33kgj211k0wywlb.jpg)
+
+推荐 GitHub 上两个开源的在线考试系统，按照不同功能，可划分为题目管理、答题系统、权限分配、评卷系统等模块。
+相同的业务逻辑，分为 Java 和 Python 技术栈两个代码仓库，在 GitHub 开源。
+Java 实现：github.com/lsgwr/spring-boot-online-exam
+Python 实现：github.com/xingxingzaixian/django-drf-online-exam
+
+一款 Python 可视化调试工具：Cyberbrain（赛博大脑）。
+支持回溯代码变量的更改历史，查看程序执行状态（包括变量值），带代码进行循环调试等功能。
+GitHub：github.com/laike9m/Cyberbrain ​​​​
+
+pyTermTk：Python终端界面开发工具包
+github.com/ceccopierangiolieugenio/pyTermTk 
+
+Greppo：Python地理信息网页开发库
+github.com/greppo-io/greppo
+
+绝对值得一试的几个#Python#库：
+1. Pendulum: 方便处理日期/时间
+2. Cryptography: 好用的加密/解密库
+3. Black: 代码自动格式化
+4. Poetry: 代码依赖管理
+5. Bokeh: 漂亮的数据可视化
+6. Bowler: 安全代码重构
+7. Pytest: 单元测试框架
+8. Hydra: 通过配置简化开发
+9. Click: 命令行界面开发
