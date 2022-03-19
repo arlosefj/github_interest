@@ -83,3 +83,6 @@ github.com/katieluo88/StayPositive
 
 ### MindAR：网页增强现实轻量JS库
 github.com/hiukim/mind-ar-js
+
+Hotham：用来创建难以置信独立虚拟现实(VR)体验的框架
+github.com/leetvr/hotham

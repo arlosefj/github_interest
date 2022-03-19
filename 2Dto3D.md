@@ -526,3 +526,6 @@ github.com/Kai-46/SatelliteSfM
 
 单目3D检测相关文献大列表
 github.com/BigTeacher-777/Awesome-Monocular-3D-detection
+
+AdelaiDepth：单目深度预测开源工具箱
+github.com/aim-uofa/AdelaiDepth

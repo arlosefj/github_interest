@@ -1331,3 +1331,9 @@ github.com/suhwan-cho/awesome-video-object-segmentation
 
 GroupViT: Semantic Segmentation Emerges from Text Supervision
 https://arxiv.org/abs/2202.11094
+
+Efficient Video Instance Segmentation via Tracklet Query and Proposal
+https://arxiv.org/abs/2203.01853
+
+Transformer检测与分割文献列表
+github.com/IDEACVR/awesome-detection-transformer 

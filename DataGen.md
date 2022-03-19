@@ -505,3 +505,9 @@ github.com/pixray/pixray
 
 torchlm：支持100多种数据增强、支持训练和推理的PyTorch标志数据库
 github.com/DefTruth/torchlm
+
+Kubric: A scalable dataset generator
+https://arxiv.org/abs/2203.03570
+
+Interactive Image Synthesis with Panoptic Layout Generation
+https://arxiv.org/abs/2203.02104

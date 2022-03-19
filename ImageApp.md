@@ -1151,3 +1151,28 @@ github.com/CharlesPikachu/pydrawing
 IQA-PyTorch：PyTorch图像质量评估工具箱
 github.com/chaofengc/IQA-PyTorch
 
+阴影去除文献资源集
+github.com/GuoLanqing/Awesome-Shadow-Removal 
+
+cisip-FIRe：快速图像搜索引擎
+github.com/CISiPLab/cisip-FIRe
+
+### buildseg: 基于ONNX的用于建筑提取的QGIS插件(使用PaddlePaddle训练并转为ONNX)，使用PaddleSeg提供的语义分割能力，可以对大片区域进行分块提取并拼接
+github.com/deepbands/buildseg
+
+使用深度网络恢复和归因古文字
+github.com/deepmind/ithaca
+
+Leveraging Self-Supervision for Cross-Domain Crowd Counting
+https://arxiv.org/abs/2103.16291
+
+### PaddleRS：基于飞桨开发的遥感处理平台，支持遥感图像分类，目标检测，图像分割，以及变化检测等常用遥感任务，帮助开发者更便捷地完成从训练到部署全流程遥感深度学习应用
+github.com/PaddleCV-SIG/PaddleRS
+https://wx2.sinaimg.cn/mw690/5396ee05ly1h09pkisdrnj21dy0oq4qp.jpg
+
+Cell-ACDC：基于Python GUI的框架，用于细胞成像数据的分割、跟踪和细胞周期标注
+github.com/SchmollerLab/Cell_ACDC
+https://wx2.sinaimg.cn/mw690/5396ee05ly1h09oxvqpnwj21qc1gi4qp.jpg
+
+Graphite：开源跨平台数字图像(光栅/矢量)编辑器，用于2D图形编辑、照片处理、矢量艺术、数字绘画、插画创作
+github.com/GraphiteEditor/Graphite 

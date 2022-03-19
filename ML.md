@@ -1577,3 +1577,25 @@ github.com/labmlai/annotated_deep_learning_paper_implementations
 
 SHAP:用Python实现任意机器学习模型的解释
 owardsdatascience.com/shap-explain-any-machine-learning-model-in-python-24207127cad7
+
+免费书《机器学习系统：设计与实现》
+github.com/openmlsys/openmlsys-zh
+
+deep-finance: 金融深度学习资源集
+github.com/sangyx/deep-finance
+
+Merlin Models：深度学习推荐系统模型参考实现集
+github.com/NVIDIA-Merlin/models
+
+river：Python在线机器学习库
+github.com/online-ml/river 
+
+ml4a：机器学习艺术创作库
+github.com/ml4a/ml4a 
+
+机器学习系统：设计和实现，主要讲解现代机器学习系统的设计原理以及实现经验。
+覆盖了编程接口、计算图、编译器前后端、数据处理、模型部署、分布式训练等知识点。
+GitHub：github.com/openmlsys/openmlsys-zh ​​​​
+
+机器学习核心概念的可视化解释
+mlu-explain.github.io/ 

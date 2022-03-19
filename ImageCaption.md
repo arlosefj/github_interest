@@ -1198,21 +1198,49 @@ https://arxiv.org/abs/2201.10271
 Keras实例教程：基于TabTransformer的结构化数据学习
 https://keras.io/examples/structured_data/tabtransformer/
 
-VC-GPT: Visual Conditioned GPT for End-to-End Generative Vision-and-Language Pre-training
+VC-GPT: Visual Conditioned GPT for End-to-End Generative Vision-and-Language Pre-training #Done
 https://arxiv.org/abs/2201.12723
 
-BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation
+BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation #Done
 https://arxiv.org/abs/2201.12086
 https://github.com/salesforce/BLIP
 
 Vision-Language Pre-Training with Triple Contrastive Learning
 https://arxiv.org/abs/2202.10401
 
-A Survey of Vision-Language Pre-Trained Models
+A Survey of Vision-Language Pre-Trained Models #Done
 https://arxiv.org/abs/2202.10936
 
 4D-Net: 3D和图像输入多模态对齐学习
 https://ai.googleblog.com/2022/02/4d-net-learning-multi-modal-alignment.html
 
-CLIP-GEN: Language-Free Training of a Text-to-Image Generator with CLIP
+CLIP-GEN: Language-Free Training of a Text-to-Image Generator with CLIP #Done
 https://arxiv.org/abs/2203.00386
+
+微软亚洲研究院多模态模型NÜWA：以自然语言创造视觉内容！此前我们曾提出了一个问题：从文字脚本生成创意视频一共分几步？微软亚洲研究院在视频生成预训练模型的基础上进行再创新，开发了多模态的 NÜWA（Neural visUal World creAtion）模型。通过自然语言指令，NÜWA 可以实现文本、图像、视频之间的生成、转换和编辑，帮助视觉内容创作者降低技术门槛，提高创造力。同时，开发者也可以利用 NÜWA 构建基于 AI 的视觉内容创造平台。
+https://weibo.com/ttarticle/p/show?id=2309404743014097486309
+
+解释Transformers里面所谓的Self-Attention
+https://openreview.net/pdf?id=MmujBClawFo
+主旨是Self-Attention其实就是在计算sequence的self-expression。其实想法非常简单。Self-expressive是我们最早在2008年做motion sequences聚类就提出来过的 
+有趣的是那篇文章也正是研究了sequence有遮挡时如何complete的问题（也就是用填空方式self-supervise训练Transformers的思想）。而且正因为聚类的本质在于压缩，所以这篇论文也正好用到了lossy coding编码，比较了编码量与刻画稀疏的1-范数以及刻画相关性的矩阵rank（秩）的关系。我们现在知道优化编码量可以把深度网络以白盒子的形式推导出来 -- 而每一层的算子就是数据在做auto-regression。所以2008年的那篇小论文应该是同时联系到稀疏、低秩、压缩编码、非监督聚类（学习）、深度网络、以及Self-Attention的文章（想想都很神奇）。近年很多深度学习涉及到的思想概念其实极其简单，而且想法早已被发现和用过。只是通过大量的算力和数据放大出来，再换上吸引眼球的新名字，就变成了神秘的“人工智能”。
+
+
+计算机视觉中的自注意力机制】，谷歌伯克利166页ppt教程
+本教程将介绍自注意力机制在计算机视觉中的应用。Self-Attention在NLP中被广泛采用，完全注意的Transformer模型已经在很大程度上取代了RNN，现在被用于最先进的语言理解模型，如GPT、BERT、XLNet、T5、Electra和Meena。因此，人们对研究自注意力是否能在计算机视觉中产生同样巨大而深远的影响产生了极大的兴趣。然而，由于视觉任务与语言任务具有不同的性质，因此许多研究都致力于探索自注意力在视觉模型中的最佳应用方式。本教程将涵盖视觉中自注意力的许多不同应用，以便让用户对这个子领域有一个广泛而精确的理解。
+https://icml.cc/media/icml-2021/Slides/10842.pdf
+
+LoopITR: Combining Dual and Cross Encoder Architectures for Image-Text Retrieval
+https://arxiv.org/abs/2203.05465
+
+Conditional Prompt Learning for Vision-Language Models
+https://www.arxiv-vanity.com/papers/2203.05557/
+
+StyleBabel: Artistic Style Tagging and Captioning
+https://arxiv.org/abs/2203.05321
+
+CLIP Models are Few-shot Learners: Empirical Studies on VQA and Visual Entailment
+https://arxiv.org/abs/2203.07190
+
+Awesome Prompting Papers in Computer Vision：计算机视觉/视觉-语言学模型基于提示方法论文列表
+github.com/ttengwang/Awesome_Prompting_Papers_in_Computer_Vision

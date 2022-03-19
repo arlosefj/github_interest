@@ -1062,3 +1062,9 @@ github.com/obss/sahi
 NanoDet-Plus：超快轻量目标检测
 github.com/RangiLyu/nanodet 
 https://zhuanlan.zhihu.com/p/449912627
+
+D²ETR: Decoder-Only DETR with Computationally Efficient Cross-Scale Attention
+https://arxiv.org/abs/2203.00860
+
+yolox-opencv-dnn - 使用OpenCV部署YOLOX，支持YOLOX-S、YOLOX-M、YOLOX-L、YOLOX-X、YOLOX-Darknet53五种结构，包含C++和Python两种版本的程序
+github.com/hpc203/yolox-opencv-dnn

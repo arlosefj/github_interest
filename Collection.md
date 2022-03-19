@@ -94,3 +94,7 @@ https://www.allhistory.com/
  专业词典知识库
 地址：github.com/liuhuanyong/DomainWordsDict
 涵盖68个领域、共计916万词的专业词典知识库，可用于文本分类、知识增强、领域词汇库扩充等自然语言处理应用。 ​​​​
+
+一位在杭州工作的程序员，在 GitHub 开源了《2022 年杭州购房指南》。
+该指南是根据他个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料。
+GitHub：github.com/zkqiang/hangzhou-house-guide ​​​​

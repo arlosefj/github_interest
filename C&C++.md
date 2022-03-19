@@ -61,3 +61,6 @@ github.com/Graey/c-future
 
 C/C++课没介绍语法，介绍了ARM以及程序加速的一些小技巧，并在ARM服务器上演示了如何提速几十倍
 https://www.bilibili.com/video/BV1Vf4y1P7pq?p=33&unique_k=s8Ahe3
+
+每周C++技巧
+github.com/QuantlabFinancial/cpp_tip_of_the_week

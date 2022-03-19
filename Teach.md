@@ -301,3 +301,12 @@ Charles Ollion：5年前教深度学习，Jupyter Notebook是主流，有些学�
 
 深度学习正则化技术综合指南
 towardsdatascience.com/a-comprehensive-guide-of-regularization-techniques-in-deep-learning-c671bb1b2c67
+
+JPEG Sandbox：在浏览器里交互式编辑JPEG图像的单个DCT块
+github.com/OmarShehata/jpeg-sandbox
+
+计算机视觉最佳实践、代码示例和相关文档
+github.com/microsoft/computervision-recipes ​​​​
+
+Minimal PyTorch implementation of YOLOv3
+https://github.com/eriklindernoren/PyTorch-YOLOv3

@@ -103,3 +103,6 @@ https://arxiv.org/abs/2202.02195
 
 Yann LeCun：世界模型——让人工智能系统像动物和人类一样学习、推理
 https://ai.facebook.com/blog/yann-lecun-advances-in-ai-research
+
+Causal Discovery Toolbox：因果发现工具箱，支持图和成对因果推理
+github.com/FenTechSolutions/CausalDiscoveryToolbox 

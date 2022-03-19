@@ -797,3 +797,18 @@ github.com/TorchStudio/torchstudio
 
 PyTorch Metric Learning：PyTorch深度度量学习库
 github.com/KevinMusgrave/pytorch-metric-learning
+
+LibMTL：PyTorch多任务学习库
+github.com/median-research-group/LibMTL
+
+Disent：用PyTorch Lightning构建的模块化解缠表示学习框架
+github.com/nmichlo/disent
+
+【Multi-task Recommendation in PyTorch(MTReclib)：PyTorch多任务推荐库】
+github.com/easezyc/Multitask-Recommendation-Library
+
+sk2torch：将scikit-learn模型转换成PyTorch模型
+github.com/unixpickle/sk2torch 
+
+Torch Points3D：点云深度学习统一框架
+github.com/nicolas-chaulet/torch-points3d ​​​​

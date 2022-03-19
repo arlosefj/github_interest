@@ -407,3 +407,9 @@ github.com/yuanqing/ffmpeg-cheatsheet
 
 Movies2Scenes: Learning Scene Representations Using Movie Similarities
 https://arxiv.org/abs/2202.10650
+
+FFmpeg GPU Demo - A FFmpeg based demo showing GPU's all-round capability in video processing
+github.com/NVIDIA/FFmpeg-GPU-Demo
+
+Video Stabilization：视频稳定方法相关文献列表
+github.com/yaochih/awesome-video-stabilization

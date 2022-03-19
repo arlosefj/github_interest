@@ -879,3 +879,13 @@ github.com/greppo-io/greppo
 7. Pytest: 单元测试框架
 8. Hydra: 通过配置简化开发
 9. Click: 命令行界面开发
+
+开源 Python 框架：Greppo，可快速搭建一款可交互式的「地理空间」应用。
+该框架提供了一整套完整工具包，让你可以轻松打通数据、算法、可视化 UI 等模块，构建一款交互式应用。
+GitHub：github.com/greppo-io/greppo 
+
+An Introduction to dataviz in Python：用Python实现浏览器里数据可视化的教程
+github.com/MarcSkovMadsen/dataviz-in-python 
+
+Python-project-Scripts：Python初学者实践项目代码集
+github.com/larymak/Python-project-Scripts

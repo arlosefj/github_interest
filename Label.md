@@ -319,3 +319,6 @@ github.com/doccano/doccano
 
 DeepLabCut: 用于执行多种任务的动物无标记姿态估计工具箱
 github.com/DeepLabCut/DeepLabCut
+
+Satellite imagery annotation tool：用于创建和共享卫星/航拍图像场景矢量标注的轻量Web界面
+github.com/microsoft/satellite-imagery-labeling-tool

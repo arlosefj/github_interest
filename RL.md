@@ -310,3 +310,9 @@ https://arxiv.org/abs/2202.08434
 
 免费书(含中文版)：深度强化学习——基础、研究与应用
 https://deepreinforcementlearningbook.org/
+
+Gym-μRTS (pronounced "gym-micro-RTS”)：基于实时策略游戏模拟器μRTS的强化学习环境
+github.com/vwxyzjn/gym-microrts
+
+Avalanche RL: 端到端持续强化学习库
+github.com/ContinualAI/avalanche-rl 

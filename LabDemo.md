@@ -202,3 +202,18 @@ https://neptune.ai/product/experiment-tracking
 
 Yolov5 for Fire Detection：基于Yolov5的图片/视频火焰检测
 github.com/spacewalk01/Yolov5-Fire-Detection
+
+### virtual_try_on_use_deep_learning - 用深度学习算法实现的虚拟试衣镜，结合了人体姿态估计、人体分割、几何匹配和GAN，四种模型
+github.com/hpc203/virtual_try_on_use_deep_learning
+
+Clothes Segmentation using U2NET：U2NET服饰分割
+github.com/levindabhi/cloth-segmentation
+
+VTuber Python Unity Tutorial：用Python和Unity实现的VTuber
+github.com/mmmmmm44/VTuber-Python-Unity
+
+### Visual Speech Recognition for Multiple Languages：多语种视觉语言识别(读唇)
+github.com/mpc001/Visual_Speech_Recognition_for_Multiple_Languages 
+
+### deepdoctection：支持用深度学习模型构建文档分析管道的Python包
+github.com/deepdoctection/deepdoctection

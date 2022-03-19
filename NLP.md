@@ -535,3 +535,12 @@ github.com/infinitylogesh/mutate
 
 Transformers Domain Adaptation：Transformer语言模型域自适应工具包
 github.com/georgian-io/Transformers-Domain-Adaptation
+
+现实世界大规模语言模型应用
+jalammar.github.io/applying-large-language-models-cohere
+
+大型源代码预训练语言模型使用指南
+github.com/VHellendoorn/Code-LMs
+
+Long Document Summarization with Top-down and Bottom-up Inference
+https://arxiv.org/abs/2203.07586

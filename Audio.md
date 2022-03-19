@@ -686,3 +686,12 @@ github.com/SJTMusicTeam/Muskits
 
 基于很少样本的神经乐器克隆
 https://erlj.notion.site/Neural-Instrument-Cloning-from-very-few-samples-2cf41d8b630842ee8c7eb55036a1bfd6
+
+PaddleSpeech：基于飞桨PaddlePaddle的语音方向的开源模型库，用于语音和音频中的各种关键任务的开发，包含大量基于深度学习前沿和有影响力的模型
+github.com/PaddlePaddle/PaddleSpeech
+
+WeNet：面向工业落地应用的语音识别工具包，提供了从语音识别模型的训练到部署的一条龙服务
+github.com/wenet-e2e/wenet 
+
+IMS-Toucan：支持最新模型的语音合成工具包
+github.com/DigitalPhonetics/IMS-Toucan

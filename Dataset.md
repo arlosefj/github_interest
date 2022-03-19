@@ -869,3 +869,9 @@ github.com/facebookresearch/Ego4d
 
 SDIP Dataset：自蒸馏互联网照片(SDIP)数据集
 github.com/self-distilled-stylegan/self-distilled-internet-photos 
+
+iCartoonFace：卡通脸数据集
+github.com/luxiangju-PersonAI/iCartoonFace
+
+Chinese voice corpus. 中文语音语料，语音更加清晰自然，包含8个开源数据集，3200个说话人，900小时语音，1300万字。
+github.com/fighting41love/zhvoice

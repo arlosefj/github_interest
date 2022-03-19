@@ -178,3 +178,6 @@ github.com/iaddis/metalnes
 
 Hathora：多人(在线)游戏框架
 github.com/hathora/hathora
+
+GAMESTUDIO 2D：2D游戏引擎及编辑器
+github.com/ensisoft/gamestudio

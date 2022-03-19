@@ -669,3 +669,12 @@ github.com/JosephPai/Awesome-Talking-Face
 
 Facial Capture：人脸图像3D可变性模型(3DMM)适配库
 github.com/kimoktm/Face2face 
+
+CryptoPunks GAN：用SN-GAN生成朋克头像
+github.com/teddykoker/cryptopunks-gan
+
+### BBB Face Recognizer：用MTCNN, FACENET, SVM and FAST API实现的人脸识别实时跟踪系统
+github.com/rrazvd/bbb-face-recognizer
+
+StyleHEAT: One-Shot High-Resolution Editable Talking Face Generation via Pretrained StyleGAN
+https://arxiv.org/abs/2203.04036

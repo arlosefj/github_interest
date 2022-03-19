@@ -1098,3 +1098,6 @@ https://arxiv.org/abs/2202.04200
 
 State-of-the-Art in the Architecture, Methods and Applications of StyleGAN
 https://arxiv.org/abs/2202.14020
+
+浏览器里的GAN试炼场
+poloclub.github.io/ganlab/ 

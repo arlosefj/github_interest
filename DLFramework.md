@@ -143,3 +143,6 @@ github.com/mindspore-ai/models
 
 wonnx - A GPU-accelerated ONNX inference run-time written 100% in Rust, ready for the web
 github.com/webonnx/wonnx
+
+Easy Parallel Library：面向大模型的高效分布式深度学习训练框架
+github.com/alibaba/EasyParallelLibrary 

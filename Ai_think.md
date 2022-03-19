@@ -247,3 +247,9 @@ https://arxiv.org/abs/2202.09741
 
 人工智能可解释性研究的前沿问题
 edium.com/@ alonjacovi/frontier-questions-in-ai-explainability-research-2363991b7116
+
+深度学习正面临“瓶颈”
+https://nautil.us/deep-learning-is-hitting-a-wall-14467/
+
+Transformer能否一统AI江湖？
+www.quantamagazine.org/will-transformers-take-over-artificial-intelligence-20220310

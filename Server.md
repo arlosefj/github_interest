@@ -383,3 +383,18 @@ github.com/kserve/kserve
 
 系统管理员应该了解的30个Linux系统监视工具
 https://www.cyberciti.biz/tips/top-linux-monitoring-tools.html
+
+Fidesctl: Privacy as Code for your CI and runtime environment
+github.com/ethyca/fides
+
+Rayon，一款开源的服务器监控工具，支持 libssh2 主机连接、密钥认证、远程代码执行、GPU & RAM & 硬盘使用情况监控等功能。
+GitHub：github.com/Lakr233/Rayon ​​​​
+
+Tangram， Github上一个可帮助工程师训练、部署与监控模型的开源工具，看起来很不错，可方便查看模型的各项统计指标。
+github.com/tangramdotdev/tangram
+
+Mattermost：在整个软件开发生命周期提供安全协作的开源平台
+github.com/mattermost/mattermost-server
+
+Dockerized：用Docker运行流行的命令行工具，无需安装即可使用
+github.com/datastack-net/dockerized

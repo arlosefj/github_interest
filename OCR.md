@@ -870,3 +870,9 @@ https://arxiv.org/abs/2202.05508
 
 表格识别相关资源大列表
 github.com/cv-small-snails/Awesome-Table-Recognition
+
+### TableFormer: Table Structure Understanding with Transformers #TODO 注意代码
+https://arxiv.org/abs/2203.01017
+
+### DiT: Self-supervised Pre-training for Document Image Transformer
+https://arxiv.org/abs/2203.02378

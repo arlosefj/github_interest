@@ -1019,3 +1019,9 @@ github.com/Lakr233/Rayon
 
 VNote：专注于Markdown的基于Qt的开源免费的笔记应用
 github.com/vnotex/vnote
+
+ArtiV：大文件版本控制系统
+github.com/InfuseAI/ArtiV
+
+Google Image Scraper：Google图片爬虫库
+github.com/ohyicong/Google-Image-Scraper

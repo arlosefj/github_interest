@@ -115,3 +115,8 @@ github.com/nihui/ncnn-webassembly-scrfd
 
 Layoutit Grid：CSS 网格布局生成器，用于快速设计网页布局
 github.com/Leniolabs/layoutit-grid
+
+开源低代码应用引擎：Yao，无需编写一行代码，即可快速创建 Web 服务和管理后台，大幅解放生产力。
+该工具内置了一套数据管理系统，通过编写 JSON，帮助开发者完成数据库模型、API 接口编写、管理后台界面搭建等工作，实现 90% 常见界面交互功能。
+GitHub：github.com/YaoApp/yao
+内置管理系统与 Yao 并不耦合，开发者亦可采用 VUE、React 等任意前端技术实现管理界面。

@@ -92,3 +92,36 @@ https://applieddigitalskills.withgoogle.com/c/middle-and-high-school/en/discover
 
 GPU上大模型减少内存加快训练技巧
 https://huggingface.co/docs/transformers/performance
+
+Clearml：用于简化机器学习工作流的工具套件，涉及实验管理器，机器学习运维、数据管理等
+github.com/allegroai/clearml 
+
+tunnelto：把本地web服务开放到外网
+github.com/agrinman/tunnelto
+
+OpenBot: 用智能手机作为低成本机器人(小车)的大脑，各种配件加一起售价约50美元
+github.com/isl-org/OpenBot
+
+CutCat：将现实场景里目标直接复制粘贴到背景图片的App
+github.com/ansnoussi/CutCat
+
+AI as an API，主要讲解如何基于 NLP 技术，开发一个文本分类器，并进行持续化数据存储，封装成 API。
+GitHub：github.com/datastaxdevs/workshop-ai-as-api
+
+如果你正在尝试用 AI 来进行艺术创作，那么可以看下 ml4a 这个开源 Python 库。
+作者通过代码封装的方式，将 AI 艺术创作类的开源项目整合到了一起，包括图像风格迁移、基于素描的图像生成、图片分辨率增强、图像卡通话等模型。
+GitHub：github.com/ml4a/ml4a
+另外作者在每个项目里面，都配套了 Jupyter Notebook，便于开发者掌握深度学习基础知识与开发技巧。
+
+Linux 系统操作手册》（Linux SysOps Handbook），主要介绍了 Linux 系统常用的管理技术与运维工具。
+GitHub：github.com/abarrak/linux-sysops-handbook
+书中包括系统用户权限管理、Shell 使用技巧、文件权限设置、后台管理任务设置、日志记录的监控与分析等知识。
+
+nvitop：一站式GPU状态交互浏览器
+github.com/XuehaiPan/nvitop
+
+你可曾想过，对于失明的孩子而言，他们将如何进行社交互动呢？近日，微软研究院与学术界专家合作推出了PeopleLens，旨在帮助失明或视力低下的儿童及青少年更加轻松地与同龄人互动。当这些孩子在面对同伴时，头戴式设备PeopleLens可以以空间化的音频大声朗读同伴的名字，帮助孩子们更好地了解小伙伴的相对位置和距离，从而有效传达交流意图。同时，同伴们也可以通过PeopleLens知道他们何时被“看到”并更好地进行互动交流。对于失明的儿童和青少年而言，PeopleLens将成为一种社交方式，让他们在社交互动中逐渐培养交流能力与信心。
+https://www.microsoft.com/en-us/research/blog/peoplelens-using-ai-to-support-social-interaction-between-children-who-are-blind-and-their-peers/
+
+'Grab the GPUs to run your own code! - Grab GPU whenever available' 
+github.com/godweiyang/GrabGPU

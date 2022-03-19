@@ -359,3 +359,6 @@ github.com/Gumpest/YOLOv5-Multibackbone-Compression
 
 OpenDelta：参数高效调优开源框架
 github.com/thunlp/OpenDelta 
+
+NNCF：神经网络压缩框架
+github.com/openvinotoolkit/nncf

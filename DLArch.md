@@ -806,3 +806,6 @@ github.com/sooftware/attentions
 
 从微分几何和代数拓扑角度看图神经网络
 towardsdatascience.com/graph-neural-networks-through-the-lens-of-differential-geometry-and-algebraic-topology-3a7c3c22d5f
+
+### EdgeFormer: Improving Light-weight ConvNets by Learning from Vision Transformers
+https://arxiv.org/abs/2203.03952

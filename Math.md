@@ -93,3 +93,6 @@ pabloinsente.github.io/intro-linear-algebra ​​​​
 
 (视频课程)概率论严谨介绍：以直观而严谨的方式介绍概率论的基本概念
 https://space.bilibili.com/23852932/channel/collectiondetail?sid=206458
+
+最浅显的奇异值分解(SVD)介绍
+https://gregorygundersen.com/blog/2018/12/10/svd/
