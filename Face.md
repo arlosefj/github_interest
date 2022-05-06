@@ -678,3 +678,18 @@ github.com/rrazvd/bbb-face-recognizer
 
 StyleHEAT: One-Shot High-Resolution Editable Talking Face Generation via Pretrained StyleGAN
 https://arxiv.org/abs/2203.04036
+
+3D face reconstruction with dense landmarks
+https://arxiv.org/abs/2204.02776
+
+3D face reconstruction paper list：3D人脸重建论文列表
+github.com/czh-98/3D-face-reconstruction-paper-list
+
+onnx-facial-lmk-detector：单ONNX模型实现的端到端人脸检测、人脸裁剪、特征点检测等
+github.com/atksh/onnx-facial-lmk-detector 
+
+NextFace：单目RGB图像高保真3D人脸重建库
+github.com/abdallahdib/NextFace
+
+FACER：基于最新人脸解析技术的人脸分析研究工具
+github.com/FacePerceiver/facer

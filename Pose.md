@@ -463,3 +463,18 @@ https://arxiv.org/abs/2108.01819
 
 GenMotion：角色骨架动画生成库
 github.com/realvcla/GenMotion
+
+PoseEstimation-TFLiteSwift - The baseline project for inferencing various Pose Estimation tflite models with TFLiteSwift on iOS
+github.com/tucan9389/PoseEstimation-TFLiteSwift
+
+Human Motion Capture：人体动作捕捉文献列表
+github.com/visonpon/human-motion-capture
+
+PosePipe: 用于临床研究的开源人体姿态估计管道
+github.com/peabody124/PosePipeline
+
+lightning-pose：Pytorch Lightning实现的卷积网络加速姿态估计与追踪
+github.com/danbider/lightning-pose
+
+HyperPose：快速灵活的人体姿态估计库
+github.com/tensorlayer/hyperpose 

@@ -350,3 +350,9 @@ https://arxiv.org/abs/2201.10728
 
 Corrupted Image Modeling for Self-Supervised Visual Pre-Training
 https://arxiv.org/abs/2202.03382
+
+Few-shot Learning with Noisy Labels
+https://arxiv.org/abs/2204.05494
+
+It's DONE: Direct ONE-shot learning without training optimization
+https://arxiv.org/abs/2204.13361

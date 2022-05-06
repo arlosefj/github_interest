@@ -398,3 +398,11 @@ github.com/mattermost/mattermost-server
 
 Dockerized：用Docker运行流行的命令行工具，无需安装即可使用
 github.com/datastack-net/dockerized
+
+TME Cube Studio - 云原生一站式机器学习平台，在线开发，分布式训练，超参搜索，推理服务
+github.com/tencentmusic/cube-studio 
+
+2000多页的PPT来讲Docker和K8S：
+Deploying and Scaling Microservices
+with Docker and Kubernetes：
+https://container.training/kube-selfpaced.yml.html#1

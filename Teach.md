@@ -310,3 +310,33 @@ github.com/microsoft/computervision-recipes ​​​​
 
 Minimal PyTorch implementation of YOLOv3
 https://github.com/eriklindernoren/PyTorch-YOLOv3
+
+Data Science for Beginners：微软10周20堂数据科学课
+github.com/microsoft/Data-Science-For-Beginners 
+
+Artificial Intelligence for Beginners - A Curriculum：微软的12周24节人工智能入门课程
+github.com/microsoft/AI-For-Beginners
+
+The Hugging Face Course：Hugging Face生态(Transformers, Datasets, Tokenizers, and Accelerate等)使用教程
+github.com/huggingface/course
+
+ML Notebooks：机器学习Notebooks集
+github.com/dair-ai/ML-Notebooks
+![](https://wx1.sinaimg.cn/mw690/5396ee05ly1h11eiy2a3sj21c11h8k4k.jpg)
+
+EasyCV：PyTorch一站式计算机视觉工具箱，聚焦自监督学习、图像分类、度量学习、目标检测等方面
+github.com/alibaba/EasyCV
+
+Elements of AI 免费AI入门课程(赫尔辛基大学)
+https://course.elementsofai.com/
+https://buildingai.elementsofai.com/
+
+魏茨曼科学研究院《计算机视觉深度学习：基础和应用》课程
+dl4cv.github.io
+
+Best-of Machine Learning with Python，里面收录了一些比较实用的机器学习与 Python 开源项目与工具。
+收录项目共计 900 多个，包括数据可视化、自然语言处理、文本与图像数据、Web 爬虫等分类。
+github.com/ml-tooling/best-of-ml-python ​​​​
+
+深度学习架构、模型和技巧集合(TensorFlow/PyTorch)
+github.com/rasbt/deeplearning-models

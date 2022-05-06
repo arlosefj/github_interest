@@ -217,3 +217,10 @@ github.com/mpc001/Visual_Speech_Recognition_for_Multiple_Languages
 
 ### deepdoctection：支持用深度学习模型构建文档分析管道的Python包
 github.com/deepdoctection/deepdoctection
+
+### GitHub 上的 AI 开源项目：virtual_try_on_use_deep_learning。
+使用深度学习算法实现虚拟试衣，结合了人体姿态估计、人体分割、几何匹配和 GAN，四种模型，只依赖 opencv 库就能运行。
+GitHub：github.com/hpc203/virtual_try_on_use_deep_learning 
+
+'Android BlazePose demo by ncnn' 
+github.com/FeiGeChuanShu/ncnn_Android_BlazePose

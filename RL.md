@@ -316,3 +316,22 @@ github.com/vwxyzjn/gym-microrts
 
 Avalanche RL: 端到端持续强化学习库
 github.com/ContinualAI/avalanche-rl 
+
+DeepForSpeed: Data Wanted：用卷积网络玩极品飞车游戏
+github.com/edilgin/DeepForSpeed
+
+GitHub 上的深度学习技术书籍：《蘑菇书 EasyRL》，覆盖了强化学习、马尔可夫决策过程、策略梯度、模仿学习等多个知识点。
+GitHub：github.com/datawhalechina/easy-rl
+该教程也称为 “蘑菇书”，寓意是希望此书能够为读者注入活力，让读者 “吃” 下这本蘑菇之后，能够饶有兴致地探索强化学习，像马里奥那样愈加强大，继而在人工智能领域觅得意外的收获。
+
+TorchRL：PyTorch强化学习库
+github.com/facebookresearch/rl 
+
+AI-Optimizer：下一代深度强化学习框架
+github.com/TJU-DRL-LAB/AI-Optimizer 
+
+《动手学强化学习》随书代码
+github.com/boyu-ai/Hands-on-RL 
+
+Hugging Face深度强化学习课程
+github.com/huggingface/deep-rl-class

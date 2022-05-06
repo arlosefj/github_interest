@@ -544,3 +544,64 @@ github.com/VHellendoorn/Code-LMs
 
 Long Document Summarization with Top-down and Bottom-up Inference
 https://arxiv.org/abs/2203.07586
+
+STriP Net: 科研论文语义相似度(S3P)网络
+github.com/stephenleo/stripnet 
+
+nlp-notebook - NLP 领域常见任务的实现，包括新词发现、以及基于pytorch的词向量、中文文本分类、实体识别、摘要文本生成、句子相似度判断等
+github.com/jasoncao11/nlp-notebook
+
+text_analysis_tools - 中文文本分析工具包（包括- 文本分类 - 文本聚类 - 文本相似性 - 关键词抽取 - 关键短语抽取 - 情感分析 - 文本纠错 - 文本摘要 - 主题关键词-同义词、近义词-事件三元组抽取）
+github.com/murray-z/text_analysis_tools
+
+shezhangbujianle - 借助世界上最大的单体中文NLP大模型—— 浪潮 源1.0 ，做出的可以跟人类玩“剧本杀”的AI……
+github.com/bigbrother666sh/shezhangbujianle
+
+ark-nlp：收集和复现学术与工作中常用的NLP模型
+github.com/xiangking/ark-nlp
+
+Converse：构建和部署面向任务聊天机器人的灵活框架
+github.com/salesforce/Converse 
+
+Kaggle学生写作评价比赛第二名方案
+github.com/ubamba98/feedback-prize
+
+LEBERT-基于词汇信息融合的中文命名实体识别模型
+github.com/yangjianxin1/LEBERT-NER-Chinese
+
+SimCLUE：大规模语义理解数据集。可用于无监督对比学习、半监督学习等构建中文领域效果最好的预训练模型
+github.com/CLUEbenchmark/SimCLUE
+
+Minimal GPT-NeoX-20B - a fairly minimal implementation of GPT-NeoX-20B in PyTorch
+github.com/zphang/minimal-gpt-neox-20b
+
+Optimum Transformers：面向CPU/GPU的Transformer加速NLP推理库
+github.com/AlekseyKorshuk/optimum-transformers
+
+### CTC-Report - CTC2021-中文文本纠错大赛的SOTA方案及在线演示
+github.com/HillZhang1999/CTC-Report
+
+funNLP，几乎最全的中文 NLP 资源库。包括中英文敏感词、语言检测、中外手机 / 电话归属地 / 运营商查询、名字推断性别、手机号抽取、身份证抽取等内容。
+github.com/fighting41love/funNLP ​​​​
+
+GitHub 上开源的 NLP 领域常见任务的实现：nlp-notebook，包括新词发现、以及基于 PyTorch 的词向量、中文文本分类、实体识别、摘要文本生成、句子相似度判断、三元组抽取、预训练模型等。
+ithub.com/jasoncao11/nlp-notebook ​​​​
+
+基于TaCL-BERT的中文命名实体识别及中文分词
+github.com/yxuansu/Chinese-TaCL-BERT-NER-CWS
+
+bigbird中文预训练模型
+github.com/LowinLi/chinese-bigbird
+
+lm-debugger：用于检查和干预基于transformer语言模型的交互式工具
+github.com/mega002/lm-debugger
+
+Azimuth：面向文本分类的开源数据集和错误分析工具
+github.com/ServiceNow/azimuth
+
+字节跳动工程师在 GitHub 上整理的 NLP 论文列表（附阅读笔记），收录了一些比较经典或思路新奇的论文。
+其中包含 NLP 领域下的对话语音领域，复现模型以及数据处理等（代码含 TensorFlow 和 PyTorch 两版本）。
+github.com/DengBoCong/nlp-paper ​​​​
+
+GEC Information：语法纠错相关文献分类集锦
+github.com/gotutiyan/GEC-Info 

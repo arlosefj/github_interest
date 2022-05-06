@@ -529,3 +529,15 @@ github.com/BigTeacher-777/Awesome-Monocular-3D-detection
 
 AdelaiDepth：单目深度预测开源工具箱
 github.com/aim-uofa/AdelaiDepth
+
+calibration_kit - 常用传感器标定算法集合工具，包含了单双目相机标定、相机-激光雷达标定、激光雷达-激光雷达标定、激光雷达-IMU标定
+github.com/calibtoolkit/calibration_kit
+
+Monocular-Depth-Estimation-Toolbox：基于MMSegmentation的单目深度估计工具箱
+github.com/zhyever/Monocular-Depth-Estimation-Toolbox 
+
+深度学习3D重构项目集
+github.com/natowi/3D-Reconstruction-with-Deep-Learning-Methods
+
+camviz：单目深度估计结果可视化库
+github.com/TRI-ML/camviz

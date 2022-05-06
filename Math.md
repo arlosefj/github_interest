@@ -96,3 +96,6 @@ https://space.bilibili.com/23852932/channel/collectiondetail?sid=206458
 
 最浅显的奇异值分解(SVD)介绍
 https://gregorygundersen.com/blog/2018/12/10/svd/
+
+机器学习线性代数基础
+https://datahacker.rs/linear-algebra-for-machine-learning/

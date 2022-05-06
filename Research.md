@@ -201,3 +201,16 @@ https://drive.google.com/file/d/10kOi-h8B3Xzp_7KbwxYqkDM7Rp9oBcNm/view
 
 autoLiterature - 基于Dropbox和Python的自动文献管理器
 github.com/WilmerWang/autoLiterature
+
+suraj kothawade：希望科研论文附录里增加一部分，叫“这样行不通”。虽然论文主要说的是“什么行得通”，但把失败的实验分享出来绝对有价值。 ​​​​
+
+Python Plotting Tools：用来生成和调整论文插图的Python代码
+github.com/guanyingc/python_plot_utils
+
+简单可行的英文写作改进小建议：用机器翻译翻回中文看看，凡是读起来怪怪的句子，多半有问题， 要么太长，要么结构太复杂，最好改改。对了，翻译引擎越烂，效果越好。
+
+Paper Writing Tips：论文撰写投稿技巧(中文)
+github.com/MLNLP-World/Paper_Writing_Tips
+
+AI-Paper-collector：AI顶会论文采集工具
+github.com/Doragd/AI-Paper-collector

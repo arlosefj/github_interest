@@ -146,3 +146,10 @@ github.com/webonnx/wonnx
 
 Easy Parallel Library：面向大模型的高效分布式深度学习训练框架
 github.com/alibaba/EasyParallelLibrary 
+
+oneAPI Deep Neural Network Library (oneDNN)：oneAPI深度神经网络库
+github.com/oneapi-src/oneDNN
+
+Colossal-AI，可用于 AI 大规模并行训练，仅需一半数量的 GPU，便能完成相同效果的 GPT-3 训练工作，极大降低了项目研发成本！
+GitHub：github.com/hpcaitech/ColossalAI
+近期，该项目终于发布了正式版，重点优化了分布式训练性能、简化项目实用流程，并新增了中文教程，大幅降低开发者的使用成本。

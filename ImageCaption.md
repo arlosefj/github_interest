@@ -1244,3 +1244,90 @@ https://arxiv.org/abs/2203.07190
 
 Awesome Prompting Papers in Computer Vision：计算机视觉/视觉-语言学模型基于提示方法论文列表
 github.com/ttengwang/Awesome_Prompting_Papers_in_Computer_Vision
+
+Integrating Language Guidance into Vision-based Deep Metric Learning
+https://arxiv.org/abs/2203.08543
+
+Three things everyone should know about Vision Transformers
+https://arxiv.org/abs/2203.09795
+
+MetaFormer: A Unified Meta Framework for Fine-Grained Recognition
+https://arxiv.org/abs/2203.02751
+
+Attention Bottlenecks for Multimodal Fusion
+https://arxiv.org/abs/2107.00135
+
+WuDaoMM: A large-scale Multi-Modal Dataset for Pre-training models
+https://arxiv.org/abs/2203.11480
+WuDaoMM - 基于中文图文对的多模态数据，全量数据集约有6.5亿图文对，包含强相关数据5千万对和弱相关数据6亿对
+github.com/BAAI-WuDao/WuDaoMM
+
+### CLIP-as-service：用CLIP将图像和句子嵌入到固定长度向量
+github.com/jina-ai/clip-as-service
+
+Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors
+https://arxiv.org/abs/2203.13131
+
+TorchMultimodal：用于大规模训练最先进多模态多任务模型的PyTorch库
+github.com/facebookresearch/multimodal 
+
+Vision-and-Language Navigation: A Survey of Tasks, Methods, and Future Directions
+https://arxiv.org/abs/2203.12667
+
+视觉-语言模型：多模态深度学习探索
+https://theaisummer.com/vision-language-models/
+
+imgbeddings：无需PyTorch/TensorFlow用CLIP生成图像嵌入向量的Python包
+github.com/minimaxir/imgbeddings
+
+### ClipCap-Chinese：基于ClipCap的看图说话Image Caption模型
+github.com/yangjianxin1/ClipCap-Chinese
+https://arxiv.org/pdf/2111.09734.pdf
+
+CLIP on Wheels: Zero-Shot Object Navigation as Object Localization and Exploration
+https://arxiv.org/abs/2203.10421
+
+solo-learn：Pytorch Lightning视觉表示自监督学习库
+github.com/vturrisi/solo-learn
+
+OpenCLIP：CLIP的开源实现(PyTorch)】’OpenCLIP - An open source implementation of CLIP.
+github.com/mlfoundations/open_clip
+
+DALL·E 2：DALL·E的新发布版本，可根据自然语言描述创建逼真的图像和艺术
+https://openai.com/dall-e-2/
+
+Hierarchical Text-Conditional Image Generation with CLIP Latents
+https://cdn.openai.com/papers/dall-e-2.pdf
+
+multisearch：不只是搜索框，视觉信息+文字查询的跨模态搜索新范式
+https://blog.google/products/search/multisearch/
+
+Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection
+https://arxiv.org/abs/2204.02964
+
+Unified Contrastive Learning in Image-Text-Label Space
+https://arxiv.org/abs/2204.03610
+
+Image Retrieval from Contextual Descriptions
+https://arxiv.org/abs/2203.15867
+
+FALCON: Fast Visual Concept Learning by Integrating Images, Linguistic descriptions, and Conceptual Relations
+https://arxiv.org/abs/2203.16639
+
+### MMF：面向视觉-语言多模态研究的模块化框架
+github.com/facebookresearch/mmf 
+
+CLIP Benchmark：CLIP类模型评价基准
+github.com/LAION-AI/CLIP_benchmark
+
+pyglide：基于GLIDE根据文本生成图片的命令行工具
+github.com/afiaka87/pyglide
+
+用单个视觉语言模型搞定多个任务
+https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model
+
+DALL·E 2工作原理通俗解析
+http://adityaramesh.com/posts/dalle2/dalle2.html
+
+dalle-playground：基于DALL-E Mini的文本生成图片试练场
+github.com/saharmor/dalle-playground

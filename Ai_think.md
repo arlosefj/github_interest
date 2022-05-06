@@ -253,3 +253,23 @@ https://nautil.us/deep-learning-is-hitting-a-wall-14467/
 
 Transformer能否一统AI江湖？
 www.quantamagazine.org/will-transformers-take-over-artificial-intelligence-20220310
+
+Deep Learning 2.0: Extending the Power of Deep Learning to the Meta-Level
+https://www.automl.org/deep-learning-2-0-extending-the-power-of-deep-learning-to-the-meta-level/
+
+从第一性原理看深度学习成功的关键
+https://horace.io/brrr_intro.html
+
+机器学习的潜力与局限
+https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained
+
+Alex Dimakis：相对于经典机器学习模型，深度学习有个不常被提到的巨大优势，就是*模块化*：可以下载各种预训练模型，像拼乐高一样把它们拼在一起，因为梯度的连续流动，让端到端的微调得以实现。
+
+Visual Prompting: Modifying Pixel Space to Adapt Pre-trained Models
+https://arxiv.org/abs/2203.17274
+![](https://wx3.sinaimg.cn/mw690/5396ee05ly1h0w2k6czzrj20zt0z6tj4.jpg)
+
+![](https://arloseimg.oss-cn-hangzhou.aliyuncs.com/20220502110853.png)
+
+进化能估计梯度吗？
+joramkeijser.github.io/2022/05/01/mutations.html 

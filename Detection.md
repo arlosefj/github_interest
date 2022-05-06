@@ -1068,3 +1068,18 @@ https://arxiv.org/abs/2203.00860
 
 yolox-opencv-dnn - 使用OpenCV部署YOLOX，支持YOLOX-S、YOLOX-M、YOLOX-L、YOLOX-X、YOLOX-Darknet53五种结构，包含C++和Python两种版本的程序
 github.com/hpc203/yolox-opencv-dnn
+
+Awesome-3D-Object-Detection：3D目标检测相关研究大列表
+github.com/TianhaoFu/Awesome-3D-Object-Detection
+
+Keras实例教程：视觉Transformer目标检测
+https://keras.io/examples/vision/object_detection_using_vision_transformer/
+
+YOLOX-OBB - YOLOX in DOTA with KLD loss. (Oriented Object Detection)（Rotated BBox）基于YOLOX的旋转目标检测
+github.com/buzhidaoshenme/YOLOX-OBB
+
+ONNX Object Localization Network：ONNX类不可知目标定位网络模型
+github.com/ibaiGorordo/ONNX-Object-Localization-Network 
+
+Pix2Seq：一种新的目标检测语言接口
+https://ai.googleblog.com/2022/04/pix2seq-new-language-interface-for.html

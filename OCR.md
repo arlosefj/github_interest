@@ -876,3 +876,35 @@ https://arxiv.org/abs/2203.01017
 
 ### DiT: Self-supervised Pre-training for Document Image Transformer
 https://arxiv.org/abs/2203.02378
+
+### 扫描文档图像的结构化数据提取
+github.com/katanaml/sparrow
+
+Paperless-ngx：paperless加强版，用来扫描、索引和归档纸质文档
+github.com/paperless-ngx/paperless-ngx
+
+### Multi-Type-TD-TSR：文档图片表格检测与数据抽取
+github.com/Psarpei/Multi-Type-TD-TSR
+
+Document-Dewarping-with-Control-Points：基于控制点的褶皱纸张图像还原
+github.com/gwxie/Document-Dewarping-with-Control-Points 
+
+pix2tex - LaTeX OCR：将公式图片转换成LaTeX代码
+github.com/lukas-blecher/LaTeX-OCR
+
+chineseocr_lite - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M
+github.com/DayBreak-u/chineseocr_lite 
+
+Manga OCR：面向原版漫画的日文OCR
+github.com/kha-white/manga-ocr 
+
+LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking
+https://arxiv.org/abs/2204.08387
+https://github.com/microsoft/unilm/tree/master/layoutlmv3
+
+DocTR: 基于深度学习的端到端文档文字识别(OCR)工具(TensorFlow 2 & PyTorch)
+github.com/mindee/doctr
+
+Unified Pretraining Framework for Document Understanding
+https://arxiv.org/abs/2204.10939
+

@@ -1599,3 +1599,36 @@ GitHub：github.com/openmlsys/openmlsys-zh ​​​​
 
 机器学习核心概念的可视化解释
 mlu-explain.github.io/ 
+
+Awesome Machine Learning：机器学习框架/库/软件大列表
+github.com/josephmisiti/awesome-machine-learning
+
+ML Course Notes：机器学习课程笔记
+github.com/dair-ai/ML-Course-Notes 
+
+用于查找数据集中标签错误、用含噪标签进行学习的机器学习包
+github.com/cleanlab/cleanlab 
+
+@毅马当闲 大家知道训练深度网络最常用的目标函数是Cross Entropy。前两年斯坦福的David Donoho团队的研究 https://arxiv.org/abs/2008.08186 发现用Cross Entropy训练网络学习到的特征表示features会有neural collapse的现象，也就是每一类的特征会收敛到一维。当时很多人认为这不一定是一件不好的事情，甚至可能对网络的泛化性generalizability有好处。我当时就不这么认为。这个现象激励了我们研究更正确的目标函数，也就是编码率减小原理：https://arxiv.org/abs/2006.08558 。这种目标函数与Cross Entropy正好相反，能学习到数据分布更完整的信息并且表示成简约的线性结构。这也成了我们后面一系列基于第一性原理推导出白箱深度网络ReduNet以及数据闭环转录Closed-Loop Transcription的基础。最新的一项研究https://arxiv.org/abs/2202.08384 看来验证了我关于neural collapse的理解是正确的。Cross Entropy（广泛用于分类模型或生成模型学习）不是学习数据可泛化representations表示最好的目标；而基于信息理论的编码率才是学习数据分布更精确的度量和优化目标。这个关于模型“简约性”客观的度量，看来是一切数据表示学习的起点，也是终点。
+
+AI-RecommenderSystem - 尝试整理推荐系统领域的一些经典算法模型
+github.com/zhongqiangwu960812/AI-RecommenderSystem 
+
+ml4floods：用于洪水程度估计的端到端机器学习管道——从数据预处理、模型训练、模型部署到可视化
+github.com/spaceml-org/ml4floods 
+
+AI-RecommenderSystem，沉淀了作者自学推荐系统的学习经验。
+其中包括经典算法模型和技术，各类工具、数据集的参考学习，并尝试用浅显易懂的语言，把每个模型或者算法解释清楚。
+github.com/zhongqiangwu960812/AI-RecommenderSystem ​​​​
+
+Transformers in Time Series：Transformer时间序列处理相关资源大列表
+github.com/qingsongedu/time-series-transformers-review
+
+Sklearn-genetic-opt：基于遗传算法的Scikit-Learn模型超参数调优和特征选择
+github.com/rodrigo-arenas/Sklearn-genetic-opt 
+
+MLflow: 机器学习生命周期平台，包括实验跟踪、将代码进行可复现打包、以及共享和部署模型
+github.com/mlflow/mlflow
+
+pytorch recommendation_system - 用PyTorch复现经典的推荐系统模型, 如MF, FM, DeepConn, MMOE, PLE, DeepFM, NFM, DCN, AFM, AutoInt, ONN, FiBiNET, DCN-v2, AFN, DCAP等
+github.com/huangjunheng/recommendation_model 

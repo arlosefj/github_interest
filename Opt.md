@@ -362,3 +362,9 @@ github.com/thunlp/OpenDelta
 
 NNCF：神经网络压缩框架
 github.com/openvinotoolkit/nncf
+
+scs4onnx：ONNX模型压缩工具
+github.com/PINTO0309/scs4onnx
+
+### 高效深度学习：深度学习过程加速技巧集
+github.com/Mountchicken/Efficient-Deep-Learning

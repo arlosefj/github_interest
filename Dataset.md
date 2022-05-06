@@ -875,3 +875,42 @@ github.com/luxiangju-PersonAI/iCartoonFace
 
 Chinese voice corpus. 中文语音语料，语音更加清晰自然，包含8个开源数据集，3200个说话人，900小时语音，1300万字。
 github.com/fighting41love/zhvoice
+
+MT-Opt：大规模连续多任务机器人强化学习基准数据集
+https://www.tensorflow.org/datasets/catalog/mt_opt
+
+OpenLane：大规模真实3D车道数据集
+github.com/OpenPerceptionX/OpenLane
+
+Datasets-of-MVS-reconstruction：三维重建公开数据集整理(MVS篇)
+github.com/ethan-li-coding/Datasets-of-MVS-reconstruction 
+
+cmu_multilingual_speech：CMU多语种语音资源
+github.com/shinjiwlab/cmu_multilingual_speech 
+
+ChineseMRC-Data - 收集了目前为止中文领域的MRC抽取式数据集
+github.com/sherlcok314159/ChineseMRC-Data
+
+Relative Human(RH) dataset：包含丰富人工标注信息的多人自然场景RGB图像，包括深度关系、年龄、性别、边框、2D姿态等信息
+github.com/Arthur151/Relative_Human
+
+Text Recognition on Cross Domain Datasets：跨领域数据集文本识别(场景文字、手写、印刷、中文/英文、甚至古书)
+github.com/Mountchicken/Text-Recognition-on-Cross-Domain-Datasets
+
+The HierText Dataset：自然场景/文档文本分层标注数据集
+github.com/google-research-datasets/hiertext
+
+Facestar Dataset：高质量人类会话语音视频记录数据集，旨在支持大规模高质量环境下的视听建模研究
+github.com/facebookresearch/facestar
+
+### UCF-SST-CitySim-Datasett
+github.com/ozheng1993/UCF-SST-CitySim-Dataset
+
+ABSA datasets for PyABSA：基于方面情感分析和文本分类数据集
+github.com/yangheng95/ABSADatasets 
+
+non-hair-FFHQ：秃头人像数据集
+github.com/oneThousand1000/non-hair-FFHQ
+
+MetaSLAM地点识别比赛数据集
+github.com/MetaSLAM/GPR_Competition

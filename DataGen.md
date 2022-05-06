@@ -511,3 +511,9 @@ https://arxiv.org/abs/2203.03570
 
 Interactive Image Synthesis with Panoptic Layout Generation
 https://arxiv.org/abs/2203.02104
+
+KNN-Diffusion: Image Generation via Large-Scale Retrieval
+https://arxiv.org/abs/2204.02849
+
+ClothFormer:Taming Video Virtual Try-on in All Module
+https://arxiv.org/abs/2204.12151

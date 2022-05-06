@@ -322,3 +322,6 @@ github.com/DeepLabCut/DeepLabCut
 
 Satellite imagery annotation tool：用于创建和共享卫星/航拍图像场景矢量标注的轻量Web界面
 github.com/microsoft/satellite-imagery-labeling-tool
+
+Stray Studio - 3D Data Annotation Tool：3D数据和点云的图形界面标注工具
+github.com/StrayRobots/3d-annotation-tool

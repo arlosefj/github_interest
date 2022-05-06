@@ -809,3 +809,12 @@ towardsdatascience.com/graph-neural-networks-through-the-lens-of-differential-ge
 
 ### EdgeFormer: Improving Light-weight ConvNets by Learning from Vision Transformers
 https://arxiv.org/abs/2203.03952
+
+图神经网络背后的数学
+rish-16.github.io/posts/gnn-math/ 
+
+Vision Transformer Cookbook with Tensorflow：Vision Transformer的Tensorflow实现方案手册
+github.com/taki0112/vit-tensorflow 
+
+Understanding The Robustness in Vision Transformers
+https://arxiv.org/abs/2204.12451

@@ -177,3 +177,6 @@ https://arxiv.org/abs/2202.08341
 
 tsod: 时序数据异常检测库
 github.com/DHI/tsod
+
+表面缺陷研究相关数据集与文献列表
+github.com/Charmve/Surface-Defect-Detection

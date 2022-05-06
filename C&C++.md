@@ -64,3 +64,9 @@ https://www.bilibili.com/video/BV1Vf4y1P7pq?p=33&unique_k=s8Ahe3
 
 每周C++技巧
 github.com/QuantlabFinancial/cpp_tip_of_the_week
+
+Orbit：针对Windows和Linux的C/C++性能分析器
+github.com/google/orbit
+
+cpp-core-guidelines-cheatsheet - Cheatsheet for the C++ core guidelines, including a set of tried-and-true guidelines, rules, and best practices about coding in C++.
+github.com/ufoym/cpp-core-guidelines-cheatsheet

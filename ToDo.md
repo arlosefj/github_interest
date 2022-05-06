@@ -125,3 +125,51 @@ https://www.microsoft.com/en-us/research/blog/peoplelens-using-ai-to-support-soc
 
 'Grab the GPUs to run your own code! - Grab GPU whenever available' 
 github.com/godweiyang/GrabGPU
+
+Learning to generate line drawings that convey geometry and semantics
+https://arxiv.org/abs/2203.12691
+![](https://wx3.sinaimg.cn/mw690/5396ee05ly1h0mu8muzrij20pg0a8wh4.jpg)
+
+Explainable CNNs：基于PyTorch的可视化包，用于为CNN生成分层解释
+github.com/ashutosh1919/explainable-cnn
+
+### MockingBird - AI拟声: 5秒内克隆您的声音并生成任意语音内容 
+github.com/babysor/MockingBird
+
+### VTuberTalk：根据VTuber的声音训练而成的TTS（text-to-speech）模型，输入文本和VTuber可以输出对应的语音
+github.com/jerryuhoo/VTuberTalk
+
+### Manim Machine Learning：Manim机器学习概念可视化动画解析项目
+github.com/helblazer811/ManimMachineLearning
+
+PYSKL：基于骨架动作识别工具箱
+github.com/kennymckormick/pyskl 
+
+Interesting Colabs：Colab Notebooks精选集
+github.com/BreezeWhite/interesting-colabs
+![](https://wx3.sinaimg.cn/mw690/5396ee05ly1h163oxav75j21c81p9nnr.jpg)
+
+Squirrel Core：让机器学习团队以协作、灵活和高效的方式共享、加载和转换数据
+github.com/merantix-momentum/squirrel-core 
+
+### DevStream：开源DevOps工具链管理工具
+github.com/merico-dev/stream
+
+pinferencia：将机器学习模型快速部署成API服务
+github.com/underneathall/pinferencia
+
+YOLO-V5 GRADCAM：用GradCam实现的Yolov5层可视化
+github.com/pooya-mohammadi/yolov5-gradcam
+
+### 机器学习实验跟踪工具入门
+https://www.kaggle.com/discussions/questions-and-answers/320239
+
+GitHub 上这个名为 Gradio 的开源项目，可在短短几分钟内，为机器学习模型生成一个简洁、优雅的 UI 界面，让你能在浏览器中进行项目演示。
+通过该界面，你可以完成拖拽上传图像、粘贴文本、声音录制等操作，并查看模型输出内容。
+github.com/gradio-app/gradio ​​​​
+
+bytetrack-opencv-onnxruntime - 分别使用OpenCV、ONNXRuntime部署YOLOX+ByteTrack目标跟踪，包含C++和Python两个版本的程序
+github.com/hpc203/bytetrack-opencv-onnxruntime
+
+如何轻松绘制神经网络架构图
+towardsdatascience.com/how-to-easily-draw-neural-network-architecture-diagrams-a6b6138ed875 

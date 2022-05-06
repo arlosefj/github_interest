@@ -98,3 +98,13 @@ https://www.allhistory.com/
 一位在杭州工作的程序员，在 GitHub 开源了《2022 年杭州购房指南》。
 该指南是根据他个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料。
 GitHub：github.com/zkqiang/hangzhou-house-guide ​​​​
+
+Clone Wars，这个 GitHub 项目收录了 100 多个知名网站的克隆项目，包含教程、源码、Demo 演示、技术栈等内容，非常适合开发者研究学习。
+github.com/GorvGoyl/Clone-Wars 
+
+中华人民共和国行政区划（五级）：省级、地级、县级、乡级和村级数据，格式为csv和json，以及sqlite3文件。
+地址：github.com/modood/Administrative-divisions-of-China
+数据来源为民政部、国家统计局。不定期更新
+
+ChineseLyrics 中文歌词数据库 - 10W首中文歌词数据库
+github.com/dengxiuqi/ChineseLyrics

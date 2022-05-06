@@ -1176,3 +1176,18 @@ https://wx2.sinaimg.cn/mw690/5396ee05ly1h09oxvqpnwj21qc1gi4qp.jpg
 
 Graphite：开源跨平台数字图像(光栅/矢量)编辑器，用于2D图形编辑、照片处理、矢量艺术、数字绘画、插画创作
 github.com/GraphiteEditor/Graphite 
+
+Awesome Multi-label Image Recognition Paper List：多标签图像识别文献列表
+github.com/JiaweiZhao-git/Awesome-Multi-label-Image-Recognition 
+
+Python医学图像处理：无标记CT肺/血管分割
+https://theaisummer.com/medical-image-python
+
+MMEditing：图像/视频编辑工具箱
+github.com/open-mmlab/mmediting 
+
+Crop Map Generation：高分辨率农田地图生成端到端工作流
+github.com/nasaharvest/crop-mask
+
+icevision：不可知计算机视觉框架-可插入任意训练库:Fastai，Pytorch-Lightning等
+github.com/airctic/icevision

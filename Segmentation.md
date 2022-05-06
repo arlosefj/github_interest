@@ -1337,3 +1337,15 @@ https://arxiv.org/abs/2203.01853
 
 Transformer检测与分割文献列表
 github.com/IDEACVR/awesome-detection-transformer 
+
+HybridNets: End-to-End Perception Network
+https://arxiv.org/abs/2203.09035
+
+Open-World Instance Segmentation: Exploiting Pseudo Ground Truth From Learned Pairwise Affinity
+https://arxiv.org/abs/2204.06107
+
+Temporally Efficient Vision Transformer for Video Instance Segmentation
+https://arxiv.org/abs/2204.08412
+
+PP-Matting: High-Accuracy Natural Image Matting
+https://arxiv.org/abs/2204.09433

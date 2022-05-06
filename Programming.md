@@ -165,3 +165,16 @@ github.com/msaroufim/awesome-profiling
 
 对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)'
 github.com/nusr/hacker-laws-zh
+
+### OneFile - 只有一个文件！汇集了仅一个文件，好玩的开源项目
+github.com/521xueweihan/OneFile
+
+CPU性能和CACHE
+作者为了让程序能快点，特意了解了CPU的各种原理，比如多核、超线程、NUMA、睿频、功耗、GPU再到分支预测、cache_line失效、加锁代价、IPC等各种指标（都有对应的代码和测试数据）都会在这系列文章中得到答案。当然一定会有程序员最关心的分支预测、Disruptor无锁案例、cache_line等等。
+地址：plantegg.github.io/2021/07/19/CPU性能和CACHE/
+
+开发内功修炼：CPU、内存、磁盘、网络四大模块的深度思考和总结
+github.com/yanfeizhang/coder-kung-fu
+
+<开发者体验：探索与重塑>电子书
+github.com/phodal/dx 

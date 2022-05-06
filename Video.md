@@ -413,3 +413,12 @@ github.com/NVIDIA/FFmpeg-GPU-Demo
 
 Video Stabilization：视频稳定方法相关文献列表
 github.com/yaochih/awesome-video-stabilization
+
+Donations - A High-performance Real-time FFmpeg based Video-Decoder in python
+github.com/abhiTronix/deffcode
+
+Lux：Go写的快捷简单的命令行视频下载工具
+github.com/iawia002/lux 
+
+用 ffmpeg 给视频加音频
+https://stackoverflow.com/questions/11779490/how-to-add-a-new-audio-not-mixing-into-a-video-using-ffmpeg/11783474#11783474

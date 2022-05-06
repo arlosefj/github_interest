@@ -242,3 +242,15 @@ github.com/drivendataorg/image-similarity-challenge
 
 ### PASSL -包含PaddlePaddle实现的SimCLR，MoCo，BYOL，CLIP等基于对比学习的图像自监督算法以及 Vision-Transformer，Swin-Transformer，BEiT，CVT，T2T，MLP_Mixer等视觉Transformer算法
 github.com/PaddlePaddle/PASSL 
+
+### Open-Vocabulary DETR with Conditional Matching
+https://arxiv.org/abs/2203.11876
+
+Similarities：语义相似度计算、匹配搜索工具包，支持文本和图像，开箱即用
+github.com/shibing624/similarities
+
+自监督学习教程：用pytorch lightning实现SimCLR
+https://theaisummer.com/simclr/
+
+OpenGlue: Open Source Graph Neural Net Based Pipeline for Image Matching
+https://arxiv.org/abs/2204.08870

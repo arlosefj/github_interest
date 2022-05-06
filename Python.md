@@ -889,3 +889,15 @@ github.com/MarcSkovMadsen/dataviz-in-python
 
 Python-project-Scripts：Python初学者实践项目代码集
 github.com/larymak/Python-project-Scripts
+
+Tkinter Designer：用拖拽方式创建Python的Tkinter图形界面
+github.com/ParthJadhav/Tkinter-Designer 
+
+Numpy快速入门(官方)
+https://numpy.org/doc/stable/user/quickstart.html
+
+Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享
+github.com/Jack-Cherish/PythonPark
+
+pymoo：Python多目标优化 ’pymoo - Multi-objective Optimization in Python, NSGA2, NSGA3, R-NSGA3, MOEAD, Genetic Algorithms (GA), Differential Evolution (DE), CMAES, PSO' by anyoptimization 
+github.com/anyoptimization/pymoo 

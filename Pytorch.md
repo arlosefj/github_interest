@@ -812,3 +812,18 @@ github.com/unixpickle/sk2torch
 
 Torch Points3D：点云深度学习统一框架
 github.com/nicolas-chaulet/torch-points3d ​​​​
+
+PyG：PyTorch图神经网络(GNN)库
+github.com/pyg-team/pytorch_geometric
+
+Machine Learning Collection：机器学习/深度学习/PyTorch/TensorFlow教程资源集锦
+github.com/aladdinpersson/Machine-Learning-Collection
+
+pytorch-topological：PyTorch拓扑机器学习框架
+github.com/aidos-lab/pytorch-topological
+
+torchinfo：显示PyTorch模块概要
+github.com/TylerYep/torchinfo 
+
+TorchOpt：基于PyTorch构建的高性能优化器库，可轻松实现函数优化和基于梯度的元学习
+github.com/metaopt/TorchOpt

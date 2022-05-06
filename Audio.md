@@ -695,3 +695,15 @@ github.com/wenet-e2e/wenet
 
 IMS-Toucan：支持最新模型的语音合成工具包
 github.com/DigitalPhonetics/IMS-Toucan
+
+NeuralSpeech：微软亚研院的研究项目，专注于基于神经网络的语音处理，包括自动语音识别(ASR)、文本到语音转换(TTS)等
+github.com/microsoft/NeuralSpeech
+
+Tensorflow 2实现的最先进实时语音合成
+github.com/TensorSpeech/TensorflowTTS ​​​​
+
+Awesome Keyword Spotting：语音关键字检测(唤醒词检测)论文列表
+github.com/zycv/awesome-keyword-spotting 
+
+ocotillo - A fast, accurate and super simple speech recognition model - Performant and accurate speech recognition built on Pytorch
+github.com/neonbjb/ocotillo 

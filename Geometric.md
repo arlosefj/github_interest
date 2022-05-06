@@ -44,3 +44,6 @@ github.com/Jaysmito101/TerraForge3D
 
 animal_papers：无标记动物运动捕捉和3D重建文献列表
 github.com/anl13/animal_papers
+
+multiview_notebooks：多视几何和计算机视觉教学notebooks集
+github.com/maxcrous/multiview_notebooks

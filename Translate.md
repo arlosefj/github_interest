@@ -94,3 +94,12 @@ github.com/MGheini/xattn-transfer-for-mt
 
 LibreTranslate：可完全本地化部署的开源机器翻译API服务，基于Argos Translate
 github.com/LibreTranslate/LibreTranslate
+
+MT Conferences & Journals：机器翻译相关会议/期刊列表
+github.com/NiuTrans/MTVenues
+
+LibreTranslate：可完全本地化部署的开源机器翻译API服务，基于Argos Translate
+github.com/LibreTranslate/LibreTranslate
+
+ChineseNMT：基于transformer的英译中翻译模型
+github.com/hemingkx/ChineseNMT

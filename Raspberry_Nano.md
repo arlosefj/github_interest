@@ -163,3 +163,7 @@ https://onevcat.com/2021/04/magicmirror/
 ### The Open Book，类似于开源版的 Kindle，能帮你打造一个可灵活定制的电子书阅读设备。
 搭配 4.2" 英寸电子显示器，拥有方向键、选择、翻页等交互按钮，具备 SD 卡检测功能，充电状态 LED 灯显示，带立体音频输出和原始麦克风输入的音频组合插孔等组件。
 GitHub：github.com/joeycastillo/The-Open-Book
+
+《树莓派编程实用教程》，全书共 31000 字，提供 20 多个树莓派应用实例，适合想在树莓派开发项目的工程师、学生参考学习。
+此外，该书还涵盖 Python，Linux 命令，C/C++，OpenCV，Darknet 等相关知识。
+github.com/wxlscm/raspberry_tutorial

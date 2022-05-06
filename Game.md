@@ -181,3 +181,9 @@ github.com/hathora/hathora
 
 GAMESTUDIO 2D：2D游戏引擎及编辑器
 github.com/ensisoft/gamestudio
+
+Open Golf：C写的跨平台迷你高尔夫游戏
+github.com/mgerdes/Open-Golf 
+
+Awesome Open Source Games：开源游戏大列表
+github.com/michelpereira/awesome-open-source-games

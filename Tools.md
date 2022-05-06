@@ -1025,3 +1025,69 @@ github.com/InfuseAI/ArtiV
 
 Google Image Scraper：Google图片爬虫库
 github.com/ohyicong/Google-Image-Scraper
+
+Regex-Vis：正则表达式可视化/编辑器
+github.com/Bowen7/regex-vis
+
+EOmaps：用来创建基于地理数据集的交互式地图的Python库
+github.com/raphaelquast/EOmaps 
+
+Obsidian Memos：用一种全新的方式在Obsidian中记录日程
+github.com/Quorafind/Obsidian-Memos
+
+bbtop，一个可在 iOS 端运行的 Linux 服务器监控和管理工具，可通过密码、密钥来验证服务器身份，FaceID/TouchID 保护、可配置文件。
+github.com/Lakr233/mobilePillowTalkLite
+
+### A Simple Visualizer for 3D point clouds & bounding boxes：3D点云和边框的简单可视化工具
+github.com/Divadi/simple_plot3d
+
+### PicoShare：极简的、易于托管的图像/文件共享服务
+github.com/mtlynch/picoshare
+
+GitHub 上开源的多合一黑客工具汇总：Hacking Tool。
+作者收录了多款与计算机安全相关的开发者工具，包括网络攻击、DDOS 与 XSS 攻击工具、信息收集、SQL 注入、网络爬虫、哈希破解等。
+github.com/Z4nzu/hackingtool ​​​​
+
+### 机器学习博士：“早知道就好了”的九种好工具：Docker、Conda、Weights and biases、MLflow、Screen、GitHub、Lucidchart、Inkscape、Streamlit
+towardsdatascience.com/nine-tools-i-wish-i-mastered-before-my-phd-in-machine-learning-708c6dcb2fb0
+
+extract-video-ppt：从视频里提取PPT并导出为PDF
+github.com/wudududu/extract-video-ppt
+
+Streamify：用Kafka, Spark Streaming, dbt, Docker, Airflow, Terraform, GCP 等构件的数据管道
+github.com/ankurchavda/streamify
+
+navi：很实用的交互式命令行速查工具，方便借用示例用法
+github.com/denisidoro/navi 
+
+SCrawler：支持Twitter, Reddit, Instagram, XVIDEOS等网站的媒体文件爬虫
+github.com/AAndyProgram/SCrawler
+
+Scalene：Python高性能CPU/GPU/内存分析器
+github.com/plasma-umass/scalene
+
+runner：轻量多配置实验运行管理脚本
+github.com/simtony/runner 
+
+Python Environment Manager：VSCode的Python环境管理器扩展
+github.com/DonJayamanne/vscode-python-manager 
+
+Superset：数据可视化和数据探索平台
+github.com/apache/superset 
+
+A Tour of Visualization Techniques for Computer Vision Datasets
+https://arxiv.org/abs/2204.08601
+
+LookScanned，一个可以将 PDF 转换成扫描文件的开源工具，支持设置文件角度、噪点、模糊度等属性，整个过程无需用到打印机和扫描仪。
+github.com/rwv/lookscanned.io ​​​​
+
+video-subtitle-extractor - 视频硬字幕提取，生成srt文件。无需申请第三方API，本地实现文本识别。基于深度学习的视频字幕提取框架，包含字幕区域检测、字幕内容提取。A GUI tool for extracting hard-coded subtitle (hardsub) from videos and generating srt files.
+github.com/YaoFANGUK/video-subtitle-extractor
+
+Spacedrive，一个开源的跨平台文件管理器，内置了虚拟分布式文件系统（VDFS）。
+支持从云服务到离线硬盘，将设备的存储容量和处理能力整合到个人分布式云中，用起来既安全又直观。
+github.com/spacedriveapp/spacedrive ​​​​
+
+GitHub 上一个交互式、可视化数据分析工具：Perspective，可用于创建数据报告、数据面板、科研笔记及应用。
+为了便于开发者与数据科学家上手使用，开发团队还提供了十几个案例供参考学习，其中包含电影、超市、地铁、流媒体等多个分类。
+github.com/finos/perspective/ ​​​​

@@ -205,3 +205,6 @@ https://arxiv.org/abs/2201.00424
 
 不错的照片转油画效果(SIGGRAPH 98)
 ithub.com/hertzmann/painterJava
+
+和AI艺术生成相关的Colab Notebooks集锦
+https://peakd.com/hive-177949/@kaliyuga/kaliyugas-library-of-ai-google-colab-notebooks

@@ -1101,3 +1101,6 @@ https://arxiv.org/abs/2202.14020
 
 浏览器里的GAN试炼场
 poloclub.github.io/ganlab/ 
+
+One-Shot Adaptation of GAN in Just One CLIP
+https://arxiv.org/abs/2203.09301
