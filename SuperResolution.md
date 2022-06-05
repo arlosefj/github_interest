@@ -355,3 +355,9 @@ github.com/victorca25/traiNNer
 
 Single Image Super-Resolution Methods: A Survey
 https://arxiv.org/abs/2202.11763
+
+超分辨率开发工具集
+github.com/XPixelGroup/BasicSR
+
+agi-upscale：老游戏像素背景图超分辨率工具
+github.com/eviltrout/agi-upscale

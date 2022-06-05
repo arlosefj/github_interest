@@ -406,3 +406,24 @@ github.com/tencentmusic/cube-studio
 Deploying and Scaling Microservices
 with Docker and Kubernetes：
 https://container.training/kube-selfpaced.yml.html#1
+
+### NVIDIA针对自家GPU优化的云推断解决方案，通过HTTP/REST或GRPC端点提供推理服务，也可以作为带API的共享库使用，支持各种深度学习框架
+github.com/triton-inference-server/server 
+
+BlindAI：快速、易用和保密的推理服务器，允许将模型部署到敏感数据上
+github.com/mithril-security/blindai
+
+DockSTARTer：帮助在Docker中运行应用，可大幅简化配置难度降低入门门槛
+github.com/GhostWriters/DockSTARTer 
+
+Docker 网络原理
+https://mp.weixin.qq.com/s/jJiX47kRTfX-3UnbN8cvtQ
+
+从零开始的Kubernetes攻防
+github.com/neargle/my-re0-k8s-security
+
+### UnionML：构建和部署机器学习微服务的最简单方法
+github.com/unionai-oss/unionml
+
+Awesome-Redteam - 红队知识仓库
+github.com/Threekiii/Awesome-Redteam

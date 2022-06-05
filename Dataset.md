@@ -914,3 +914,15 @@ github.com/oneThousand1000/non-hair-FFHQ
 
 MetaSLAM地点识别比赛数据集
 github.com/MetaSLAM/GPR_Competition
+
+meerkat：面向复杂机器学习数据集的灵活数据结构
+github.com/robustness-gym/meerkat 
+
+THUman3.0 Dataset
+github.com/fwbx529/THuman3.0-Dataset
+
+DroneDeploy NeRF Dataset - NerF computer vision dataset
+github.com/nickponline/dd-nerf-dataset
+
+互联网数据集 - 包括域名数据(2.7G)、网页数据(6.4G)、反向索引数据(39.7G)
+github.com/RimoChan/internet-dataset

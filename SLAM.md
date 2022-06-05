@@ -152,3 +152,6 @@ github.com/jkk-research/urban_road_filter
 
 LIMO-Velo [Alpha] - A real-time, direct and tightly-coupled LiDAR-Inertial SLAM for high velocities with spinning LiDARs
 github.com/Huguet57/LIMO-Velo
+
+libCML : SLAM library - Concurrent Mapping and Localization Library
+github.com/belosthomas/libCML

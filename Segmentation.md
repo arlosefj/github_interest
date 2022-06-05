@@ -1349,3 +1349,12 @@ https://arxiv.org/abs/2204.08412
 
 PP-Matting: High-Accuracy Natural Image Matting
 https://arxiv.org/abs/2204.09433
+
+语义分割实战教程 Semantic segmentation - In this tutorial, you will perform inference across 10 well-known pre-trained semantic segmentors and fine-tune on a custom dataset. Design and train your own segmentor.
+github.com/IbrahimSobh/Segmentation
+
+Guess What Moves: Unsupervised Video and Image Segmentation by Anticipating Motion
+https://arxiv.org/abs/2205.07844
+
+Decoder Denoising Pretraining for Semantic Segmentation
+https://arxiv.org/abs/2205.11423

@@ -224,3 +224,18 @@ GitHub：github.com/hpc203/virtual_try_on_use_deep_learning
 
 'Android BlazePose demo by ncnn' 
 github.com/FeiGeChuanShu/ncnn_Android_BlazePose
+
+TheVrMLEyeToolbox：眼动跟踪工具包
+github.com/SummerSigh/TheVrMLEyeToolbox 
+
+### WorkAttendanceSystem V1.0 - 基于opencv、dilb的员工人脸识别考勤系统 #TODO
+github.com/inspurer/WorkAttendanceSystem
+
+### paper2gui：面向普通人的AI桌面APP工具箱，免安装即开即用，已支持15+AI模型，内容涵盖语音合成、视频补帧、视频超分、目标检测、图片风格化、图片OCR识别等领域
+github.com/Baiyuetribe/paper2gui
+
+Lite.AI.ToolKit：开箱即用的C++ AI工具箱，包括70+流行的开源模型，如最新的RVM, YOLOX, YOLOP, YOLOR, YoloV5, DeepLabV3, ArcFace等模型，支持ONNXRuntime/NCNN/MNN/TNN
+github.com/DefTruth/lite.ai.toolkit
+
+SysMocap：用于3D虚拟角色动画制作的实时动作捕捉系统
+github.com/xianfei/SysMocap 

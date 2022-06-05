@@ -368,3 +368,6 @@ github.com/PINTO0309/scs4onnx
 
 ### 高效深度学习：深度学习过程加速技巧集
 github.com/Mountchicken/Efficient-Deep-Learning
+
+ATOM - Automated Tool for Optimized Modelling - A Python package for fast exploration of machine learning pipelines’
+github.com/tvdboom/ATOM 

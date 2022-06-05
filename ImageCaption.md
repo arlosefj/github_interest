@@ -1331,3 +1331,64 @@ http://adityaramesh.com/posts/dalle2/dalle2.html
 
 dalle-playground：基于DALL-E Mini的文本生成图片试练场
 github.com/saharmor/dalle-playground
+
+Answer-Me: Multi-Task Open-Vocabulary Visual Question Answering
+https://arxiv.org/abs/2205.00949
+
+CLAP - Contrastive Language-Audio Pretraining
+github.com/LAION-AI/CLAP
+
+PyramidCLIP: Hierarchical Feature Alignment for Vision-language Model Pretraining
+https://arxiv.org/abs/2204.14095
+
+CoCa: Contrastive Captioners are Image-Text Foundation Models
+https://arxiv.org/abs/2205.01917
+
+Language Models Can See: Plugging Visual Controls in Text Generation
+https://arxiv.org/abs/2205.02655
+
+All You May Need for VQA are Image Captions
+https://arxiv.org/abs/2205.01883
+
+Beyond a Pre-Trained Object Detector: Cross-Modal Textual and Visual Context for Image Captioning
+https://arxiv.org/abs/2205.04363
+
+Data Determines Distributional Robustness in Contrastive Language Image Pre-training (CLIP)
+https://arxiv.org/abs/2205.01397
+
+OpenAI and the road to text-guided image generation: DALL·E, CLIP, GLIDE, DALL·E 2 (unCLIP)
+https://blog.inten.to/openai-and-the-road-to-text-guided-image-generation-dall-e-clip-glide-dall-e-2-unclip-c6e28f7194ea
+
+A Generalist Agent
+全能型智能体，用单个通用智能体Gato就可以玩雅达利游戏、对图像进行描述、聊天、用真正的机器手臂堆积木等等。
+https://arxiv.org/abs/2205.06175
+
+Learning Visual Styles from Audio-Visual Associations
+https://arxiv.org/abs/2205.05072
+
+A CLIP-Hitchhiker's Guide to Long Video Retrieval
+https://arxiv.org/abs/2205.08508
+
+Training Vision-Language Transformers from Captions Alone
+https://arxiv.org/abs/2205.09256
+
+Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners
+https://arxiv.org/abs/2205.10747
+
+Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding
+https://arxiv.org/abs/2205.11487
+
+X-ViT: High Performance Linear Vision Transformer without Softmax
+https://arxiv.org/abs/2205.13805
+
+GIT: A Generative Image-to-text Transformer for Vision and Language
+https://arxiv.org/abs/2205.14100
+
+Fine-grained Image Captioning with CLIP Reward
+https://arxiv.org/abs/2205.13115
+
+VL-BEiT: Generative Vision-Language Pretraining
+https://arxiv.org/abs/2206.01127
+
+Multimodal Masked Autoencoders Learn Transferable Representations
+https://arxiv.org/abs/2205.14204

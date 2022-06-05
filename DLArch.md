@@ -818,3 +818,15 @@ github.com/taki0112/vit-tensorflow
 
 Understanding The Robustness in Vision Transformers
 https://arxiv.org/abs/2204.12451
+
+gtrick: 图神经网络技巧集
+github.com/sangyx/gtrick
+
+Inception Transformer
+https://arxiv.org/abs/2205.12956
+
+MinT：从头实现的最小化Transformer库
+github.com/dpressel/mint
+
+EfficientFormer: Vision Transformers at MobileNet Speed
+https://arxiv.org/abs/2206.01191

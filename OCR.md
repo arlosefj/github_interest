@@ -908,3 +908,19 @@ github.com/mindee/doctr
 Unified Pretraining Framework for Document Understanding
 https://arxiv.org/abs/2204.10939
 
+### MuCGEC中文纠错数据集及文本纠错SOTA模型
+github.com/HillZhang1999/MuCGEC
+
+LayoutBERT: Masked Language Layout Model for Object Insertion
+https://arxiv.org/abs/2205.00347
+
+Interactive Model Cards: A Human-Centered Approach to Model Documentation
+https://arxiv.org/abs/2205.02894
+
+### 自2019年起，微软亚洲研究院的研究员们已经对文档智能领域进行了诸多探索，并完成了LayoutLM/LayoutLMv2/LayoutXLM、TrOCR、MarkupLM等一系列工作，成功在目标识别、信息抽取、文档分类等多种标志性任务取得了突破。然而，在上述一系列工作中所使用到的视觉模型大多数来自在通用域上训练得到的模型，如ResNet，ViT等，而非文档专用的视觉模型。这就导致了图像编码部分的域漂移与不匹配问题。针对上述问题，微软亚洲研究院的研究员们基于目前先进的视觉Transformer架构，开发了全新的DiT模型。
+https://weibo.com/ttarticle/p/show?id=2309404771607167239019
+​​论文链接：https://arxiv.org/abs/2203.02378
+代码链接：https://aka.ms/msdit
+
+### WTW-Dataset：现实场景表格检测识别数据集
+github.com/wangwen-whu/WTW-Dataset 

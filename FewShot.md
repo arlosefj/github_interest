@@ -356,3 +356,9 @@ https://arxiv.org/abs/2204.05494
 
 It's DONE: Direct ONE-shot learning without training optimization
 https://arxiv.org/abs/2204.13361
+
+Few-Shot Diffusion Models
+https://arxiv.org/abs/2205.15463
+
+CyCLIP: Cyclic Contrastive Language-Image Pretraining
+https://arxiv.org/abs/2205.14459

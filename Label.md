@@ -325,3 +325,12 @@ github.com/microsoft/satellite-imagery-labeling-tool
 
 Stray Studio - 3D Data Annotation Tool：3D数据和点云的图形界面标注工具
 github.com/StrayRobots/3d-annotation-tool
+
+COCO图片标注工具
+github.com/naver-ai/coco-annotation-tool
+
+Label Studio is a multi-type data labeling and annotation tool with standardized output form
+github.com/Heartexlabs/label-studio
+
+labelGo：基于labelImg及YOLOV5的图形化半自动标注工具
+github.com/cnyvfang/labelGo-Yolov5AutoLabelImg

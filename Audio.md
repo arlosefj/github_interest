@@ -707,3 +707,16 @@ github.com/zycv/awesome-keyword-spotting
 
 ocotillo - A fast, accurate and super simple speech recognition model - Performant and accurate speech recognition built on Pytorch
 github.com/neonbjb/ocotillo 
+
+libspecbleach：C语言音频降噪库
+github.com/lucianodato/libspecbleach
+
+NaturalSpeech: End-to-End Text to Speech Synthesis with Human-Level Quality
+提出了完全端到端文本波形生成系统NaturalSpeech，首次在LJSpeech数据集上实现了人类水平的质量。
+https://arxiv.org/abs/2205.04421
+
+sherpa：支持流式和非流式识别的Python语音识别服务框架
+github.com/k2-fsa/sherpa 
+
+audio-preview：VS Code的wav音频文件预览与播放扩展
+github.com/sukumo28/vscode-audio-preview

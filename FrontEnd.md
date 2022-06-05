@@ -120,3 +120,6 @@ github.com/Leniolabs/layoutit-grid
 该工具内置了一套数据管理系统，通过编写 JSON，帮助开发者完成数据库模型、API 接口编写、管理后台界面搭建等工作，实现 90% 常见界面交互功能。
 GitHub：github.com/YaoApp/yao
 内置管理系统与 Yao 并不耦合，开发者亦可采用 VUE、React 等任意前端技术实现管理界面。
+
+推荐一个 Chrome 开发者插件：Motion DevTools，可用于快速构建 Web 动画。支持对 CSS 编写的 Web 动画进行审视、编辑、导出等操作，非常方便。
+motion.dev/tools

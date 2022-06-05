@@ -108,3 +108,9 @@ github.com/GorvGoyl/Clone-Wars
 
 ChineseLyrics 中文歌词数据库 - 10W首中文歌词数据库
 github.com/dengxiuqi/ChineseLyrics
+
+A "soft" Chinese Synonyms Collection - 中文近义词表 Chinese Synonyms
+github.com/Keson96/SynoCN
+
+免费开源的地理信息系统(GIS)
+github.com/OSGeo/grass

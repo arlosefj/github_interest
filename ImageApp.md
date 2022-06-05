@@ -1191,3 +1191,18 @@ github.com/nasaharvest/crop-mask
 
 icevision：不可知计算机视觉框架-可插入任意训练库:Fastai，Pytorch-Lightning等
 github.com/airctic/icevision
+
+Masterful AI：自动化计算机视觉训练平台
+https://www.masterfulai.com/
+
+Satellighte：PyTorch Lightning实现的深度学习卫星图像分类库
+github.com/canturan10/satellighte
+
+图像融合(Image Fusion)相关工作/资源整理
+github.com/Linfeng-Tang/Image-Fusion
+
+多标签图像识别相关资源大列表
+github.com/putao537/Awesome-Multi-label-Image-Recognition 
+
+FastDup：大型图片集分析工具，可发现异常、重复和近重复图像、相似性聚类、学习图像间的正常行为和时间交互等
+github.com/visualdatabase/fastdup

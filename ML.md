@@ -1632,3 +1632,42 @@ github.com/mlflow/mlflow
 
 pytorch recommendation_system - 用PyTorch复现经典的推荐系统模型, 如MF, FM, DeepConn, MMOE, PLE, DeepFM, NFM, DCN, AFM, AutoInt, ONN, FiBiNET, DCN-v2, AFN, DCAP等
 github.com/huangjunheng/recommendation_model 
+
+免费书稿：高效深度学习
+github.com/EfficientDL/book
+
+MetaSpore: 一站式机器学习开发平台，提供从数据预处理、模型训练、离线实验、在线预测到在线实验分桶 ABTest 的全流程框架和开发接口
+github.com/meta-soul/MetaSpore
+
+A Complete Machine Learning Package：机器学习技术，工具，最佳实践等大列表
+github.com/Nyandwi/machine_learning_complete
+
+### scikit-opt，一个纯Python群体智能算法库（差分进化算法、遗传算法、粒子群算法、模拟退火算法、蚁群算法、鱼群算法、免疫优化算法），特点是轻量、易部署，支持GPU运算。
+ithub.com/guofei9987/scikit-opt ​​​​
+
+### 数据科学速查集锦 #TODO
+https://www.kaggle.com/datasets/timoboz/data-science-cheat-sheets
+
+从感知机到Transformer，一文概述深度学习简史
+https://weibo.com/ttarticle/p/show?id=2309404772703805505785
+
+深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为17个章节，20多万字。
+地址：github.com/scutan90/DeepLearning-500-questions
+本书系统地描述了深度学习的基本理论算法及应用。全书共14章，第1-3章论述了数学基础、机器学习基础和深度学习基础；第4-7章介绍了一些经典网络及计算机视觉领域中常用的CNN、RNN、GAN等网络结构技术；第8-9章介绍了深度学习在计算机视觉领域的目标检测及图像分割两大应用；第10-14章介绍了计算机视觉领域主要的优化方法及思路等，包括迁移学习、网络架构及训练、网络优化技巧、超参数调整及模型的压缩和加速等。本书凝聚了众多一线科研人员及工程师的经验，旨在培养读者发现问题、解决问题、扩展问题的能力。
+
+机器学习核心概念的可视化解释
+mlu-explain.github.io/
+
+ZenML：可扩展的开源MLOps框架，用于创建可用于生产的机器学习管道
+github.com/zenml-io/zenml
+
+LightAutoML - 快速可定制的自动机器学校模型创建(AutoML)框架
+github.com/sb-ai-lab/LightAutoML
+
+GitHub 上一个开源的大模型推理系统：Energon-AI。仅需对现有项目进行极少量修改，即可完成自定义大模型的推理部署，获得并行扩展的超线性加速。
+对于 AI 大模型分布式推理加速，相比英伟达 FasterTransformer 可提升 50% 以上。
+GitHub：github.com/hpcaitech/ColossalAI
+项目以 “高性能、高可用、可伸缩” 为理念，深入单实例多设备推理场景，在性能和易用性上兼具优势。
+
+Machine Learning Design patterns：机器学习设计模式
+github.com/msaroufim/ml-design-patterns

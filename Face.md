@@ -693,3 +693,12 @@ github.com/abdallahdib/NextFace
 
 FACER：基于最新人脸解析技术的人脸分析研究工具
 github.com/FacePerceiver/facer
+
+Few-Shot Head Swapping in the Wild
+https://arxiv.org/abs/2204.13100
+
+说话脸生成相关文献资源集
+github.com/YunjinPark/awesome_talking_face_generation
+
+InsightFace: 最先进的2D和3D人脸分析项目
+github.com/deepinsight/insightface

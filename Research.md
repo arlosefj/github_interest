@@ -214,3 +214,28 @@ github.com/MLNLP-World/Paper_Writing_Tips
 
 AI-Paper-collector：AI顶会论文采集工具
 github.com/Doragd/AI-Paper-collector
+
+如何轻松绘制神经网络架构图
+towardsdatascience.com/how-to-easily-draw-neural-network-architecture-diagrams-a6b6138ed875
+https://pan.baidu.com/s/1o7hkE54il51pANBYQ_iBTQ?pwd=x43w
+
+面向工程师的写作教程
+https://www.heinrichhartmann.com/posts/writing/
+
+Knowledge for Zotero：Zotero 内置 note 功能的扩展
+github.com/windingwind/Knowledge4Zotero
+
+Jasminum - 茉莉花 - A Zotero add-on to retrive CNKI meta data. 一个简单的Zotero 插件，用于识别中文元数据
+github.com/l0o0/jasminum
+
+深度学博士论文插图集(PPT)
+github.com/ThomasRobertFr/deep-learning-figures
+
+机器学习论文撰写简要指南
+https://docs.google.com/document/d/16R1E2ExKUCP5SlXWHr-KzbVDx9DBUclra-EbU8IB-iE/edit
+
+Scim：增强型交互式智能高亮论文浏览器，可通过自动识别、分类和强调显著句来略读论文
+https://arxiv.org/abs/2205.04561
+
+HandyFigure：论文插图源文件集
+github.com/xinntao/HandyFigure

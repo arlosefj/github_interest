@@ -901,3 +901,28 @@ github.com/Jack-Cherish/PythonPark
 
 pymoo：Python多目标优化 ’pymoo - Multi-objective Optimization in Python, NSGA2, NSGA3, R-NSGA3, MOEAD, Genetic Algorithms (GA), Differential Evolution (DE), CMAES, PSO' by anyoptimization 
 github.com/anyoptimization/pymoo 
+
+pytest-memray：Python内存分析工具
+github.com/bloomberg/pytest-memray
+
+### PyScript：在网页里直接嵌入并执行Python代码，支持常用库，可与Javascript对象双向通信，支持图形界面组件
+github.com/pyscript/pyscript 
+应用实例：matdmiller.github.io/fastai-huggingface-sample-web-app1/pyscript-micrograd-demo.html 
+
+### PyFlow：Python可视化模块化编程工具 #TODO
+github.com/Bycelium/PyFlow
+
+Turn your Python application into an Android APK
+github.com/Kivy/python-for-android
+
+CustomTkinter UI-Library：Python基于Tkinter的定制图形界面(UI)库
+github.com/TomSchimansky/CustomTkinter
+
+用过 cudf 吗？只需一行，就能利用GPU并行计算大幅提高 Pandas DataFrame 数据处理速度
+![](https://wx4.sinaimg.cn/mw690/5396ee05ly1h23mf9qn6oj20pj10hzny.jpg)
+
+pydiagrams：Python声明式绘图API
+github.com/danoneata/pydiagrams
+
+Import Tracker：Python的依赖追踪工具
+github.com/IBM/import-tracker

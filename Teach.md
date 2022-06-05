@@ -340,3 +340,9 @@ github.com/ml-tooling/best-of-ml-python ​​​​
 
 深度学习架构、模型和技巧集合(TensorFlow/PyTorch)
 github.com/rasbt/deeplearning-models
+
+《动手学习深度学习》笔记和相关的Jupyter代码
+github.com/HIT-UG-Group/DeepLearning-MuLi-Notes
+
+GameShell: 通过玩游戏学习Unix shell命令
+github.com/phyver/GameShell

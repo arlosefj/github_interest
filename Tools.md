@@ -1091,3 +1091,44 @@ github.com/spacedriveapp/spacedrive ​​​​
 GitHub 上一个交互式、可视化数据分析工具：Perspective，可用于创建数据报告、数据面板、科研笔记及应用。
 为了便于开发者与数据科学家上手使用，开发团队还提供了十几个案例供参考学习，其中包含电影、超市、地铁、流媒体等多个分类。
 github.com/finos/perspective/ ​​​​
+
+annotate：简单的web应用，可以为代码写注释和笔记，而无需修改源文件
+github.com/vpj/annotate 
+
+vedo：基于VTK和Numpy的3D目标科学分析与可视化模块
+github.com/marcomusy/vedo
+
+Movie Robot - 电影机器人，定时自动从豆瓣电影的想看、在看、看过中获取影音信息，然后去PT站（支持多家站点）自动检索种子，找到最佳资源后按豆瓣电影分类提交到BT下载工具下载
+github.com/pofey/movie_robot
+
+### nezha： 哪吒监控，一站式轻监控轻运维系统，支持系统状态、HTTP、TCP、Ping 监控报警，计划任务和在线终端
+github.com/naiba/nezha
+
+'Mega-Linter - analyzes 48 languages, 22 formats, 19 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.' 
+github.com/megalinter/megalinter
+
+LetsMarkdown.com：协同式Markdown网页编辑器
+github.com/Cveinnt/LetsMarkdown.com
+
+open-falcon的目标是做最开放、最好用的互联网企业级监控产品
+https://book.open-falcon.org/zh_0_2/intro/
+https://github.com/open-falcon/falcon-plus
+
+GitHub 上开源的一份 MLOps 教程：MLOps Zoomcamp。
+主要讲解 MLOps 基础知识、MLflow 入门、模型部署、模型监控、开发运维、CI/CD、机器学习画布等知识。
+github.com/DataTalksClub/mlops-zoomcamp ​​​​
+
+### RustDesk：Rust写的开源远程桌面软件
+github.com/rustdesk/rustdesk
+
+Omnisearch for Obsidian：Obsidian的搜索引擎
+github.com/scambier/obsidian-omnisearch
+
+Transfer - 集合多个API的大文件传输工具
+github.com/Mikubill/transfer
+
+Sanzu：图形化远程桌面方案
+github.com/cea-sec/sanzu
+
+GitNoter：本地部署的开源版web版Markdown笔记应用
+github.com/git-noter/gitnoter

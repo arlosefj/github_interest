@@ -173,3 +173,25 @@ github.com/hpc203/bytetrack-opencv-onnxruntime
 
 如何轻松绘制神经网络架构图
 towardsdatascience.com/how-to-easily-draw-neural-network-architecture-diagrams-a6b6138ed875 
+
+dalle-flow：基于DALL·E的人在环路高清图片生成工具
+github.com/jina-ai/dalle-flow
+
+Panoptic Neural Fields: A Semantic Object-Aware Neural Scene Representation
+提出物体感知神经场景表示，将场景分解为一组对象和背景，让NERF不仅能预测像素，还能预测深度和实例分割。
+https://arxiv.org/abs/2205.04334
+
+buildg: Dockerfile的交互式调试工具
+github.com/ktock/buildg
+
+### battleship-rs：Rust写的海战棋游戏
+github.com/orhun/battleship-rs
+
+在生产中部署机器学习模型的考虑因素
+towardsdatascience.com/considerations-for-deploying-machine-learning-models-in-production-89d38d96cc23
+
+Hugging Face Transformer模块企业级CPU/GPU推理服务器高效部署方案
+github.com/ELS-RD/transformer-deploy
+
+Deploying ML models with CPU based TFServing, Docker, and Kubernetes
+github.com/deep-diver/ml-deployment-k8s-tfserving

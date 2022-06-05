@@ -517,3 +517,12 @@ https://arxiv.org/abs/2204.02849
 
 ClothFormer:Taming Video Virtual Try-on in All Module
 https://arxiv.org/abs/2204.12151
+
+A Comprehensive Survey of Image Augmentation Techniques for Deep Learning
+https://arxiv.org/abs/2205.01491
+
+SILVR: 合成沉浸式大容量全景数据集
+github.com/IDLabMedia/large-lightfields-dataset 
+
+Text2Human: Text-Driven Controllable Human Image Generation
+https://arxiv.org/abs/2205.15996

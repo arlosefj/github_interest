@@ -605,3 +605,28 @@ github.com/DengBoCong/nlp-paper ​​​​
 
 GEC Information：语法纠错相关文献分类集锦
 github.com/gotutiyan/GEC-Info 
+
+中文医学知识图谱CMeKG 工具 代码及模型
+github.com/king-yyf/CMeKG_tools 
+
+Obsei: 面向文本分析的低代码自动化工具
+github.com/lalitpagaria/obsei 
+
+TextClf ：基于Pytorch/Sklearn的文本分类框架，包括逻辑回归、SVM、TextCNN、TextRNN、TextRCNN、DRNN、DPCNN、Bert等多种模型，通过简单配置即可完成数据处理、模型训练、测试等过程
+github.com/luopeixiang/textclf 
+
+AI 写小说项目，支持 N/A/I卡 GPU 加速。采用RWKV 模型，比 GPT 更快
+地址：github.com/BlinkDL/AI-Writer
+可在线体验：blinkdl.github.io/AI-Writer/
+
+text-dedup：一站式文本去重工具
+github.com/ChenghaoMou/text-dedup 
+
+一份NLP面试的知识点文档
+https://worldbuilder.feishu.cn/docs/doccn4TItGMy5bqfEDxzWR6qhac
+
+AdaTest：用自适应测试发现并修复自然语言机器学习模型中的缺陷
+github.com/microsoft/adatest
+
+中文语音预训练模型，用 WenetSpeech train_l 集的 1 万小时中文数据作为无监督预训练数据
+github.com/TencentGameMate/chinese_speech_pretrain 

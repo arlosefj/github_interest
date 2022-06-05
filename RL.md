@@ -335,3 +335,6 @@ github.com/boyu-ai/Hands-on-RL
 
 Hugging Face深度强化学习课程
 github.com/huggingface/deep-rl-class
+
+Super-Mario-RL：用深度强化学习玩超级玛丽
+github.com/jiseongHAN/Super-Mario-RL

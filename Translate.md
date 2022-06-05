@@ -103,3 +103,11 @@ github.com/LibreTranslate/LibreTranslate
 
 ChineseNMT：基于transformer的英译中翻译模型
 github.com/hemingkx/ChineseNMT
+
+Building Machine Translation Systems for the Next Thousand Languages
+为了能翻译一千多种语言——尤其是长尾语言——不用双语语料库，而是用单语源语言内容，来训练机器翻译引擎。
+https://arxiv.org/abs/2205.03983
+
+HighMMT: Towards Modality and Task Generalization for High-Modality Representation Learning
+设计一个通用多通道Transformer，可以在文本、图像、视频、音频、时间序列、传感器、表格等模态之间进行通用化，同时改善性能和效率之间的权衡。
+https://arxiv.org/abs/2203.01311

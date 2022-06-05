@@ -273,3 +273,6 @@ https://arxiv.org/abs/2203.17274
 
 进化能估计梯度吗？
 joramkeijser.github.io/2022/05/01/mutations.html 
+
+2022 AI领域最新进展追踪
+github.com/louisfb01/best_AI_papers_2022

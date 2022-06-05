@@ -827,3 +827,39 @@ github.com/TylerYep/torchinfo
 
 TorchOpt：基于PyTorch构建的高性能优化器库，可轻松实现函数优化和基于梯度的元学习
 github.com/metaopt/TorchOpt
+
+### moai：基于PyTorch的AI模型开发套件(MDK )，旨在改善数据驱动的模型工作流、设计和可复现性
+github.com/ai-in-motion/moai
+
+kornia：基于PyTorch的可微计算机视觉库
+github.com/kornia/kornia/blob/master/README_zh-CN.md
+
+torch-ppr - (Personalized) Page-Rank computation using PyTorch
+github.com/mberr/torch-ppr
+
+Pytorch-Energizer：Pytorch主动学习库
+github.com/pietrolesci/pytorch-energizer
+
+PiPPy: PyTorch流水线并行化
+github.com/pytorch/PiPPy
+
+torchshow：PyTorch张量可视化
+github.com/xwying/torchshow
+
+SharedDataset - A PyTorch Dataset that caches samples in shared memory, accessible globally to all processes
+github.com/jotaf98/shareddataset
+
+Trainer：通用模型训练工具
+github.com/coqui-ai/Trainer 
+
+continual-inference：用于构建持续推理网络的PyTorch组件库
+github.com/LukasHedegaard/continual-inference
+
+Zennit：PyTorch神经网络解释/探索框架
+github.com/chr5tphr/zennit
+
+Torch-RecHub：易用的Lighting Pytorch推荐系统框架
+github.com/morningsky/Torch-RecHub 
+
+PyTorch Metric Learning：PyTorch深度度量学习库
+github.com/KevinMusgrave/pytorch-metric-learning

@@ -541,3 +541,6 @@ github.com/natowi/3D-Reconstruction-with-Deep-Learning-Methods
 
 camviz：单目深度估计结果可视化库
 github.com/TRI-ML/camviz
+
+stereodemo：用于比较和可视化各种立体深度估计算法输出的Python工具
+github.com/nburrus/stereodemo

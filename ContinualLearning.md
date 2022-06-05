@@ -96,3 +96,6 @@ https://arxiv.org/abs/2102.03526
 
 FAMIE：面向多语言信息抽取的快速主动学习框架
 ithub.com/nlp-uoregon/famie
+
+增量学习/持续学习/终生学习相关文献资源集
+github.com/Vision-Intelligence-and-Robots-Group/Best-Incremental-Learning
