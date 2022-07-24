@@ -334,3 +334,8 @@ github.com/Heartexlabs/label-studio
 
 labelGo：基于labelImg及YOLOV5的图形化半自动标注工具
 github.com/cnyvfang/labelGo-Yolov5AutoLabelImg
+
+【Open Source Data Annotation & Labeling Tools：开源数据标注和标记工具列表】’Open Source Data Annotation & Labeling Tools - Open Source Data Annotation & Labelling Tools' by ZenML GitHub: github.com/zenml-io/awesome-open-data-annotation
+
+【ImageNet Annotation Tool - Frontend (FE)：ImageNet标注工具(前端)】’ImageNet Annotation Tool - Frontend (FE)' by NAVER AI GitHub: github.com/naver-ai/imagenet-annotation-tool 
+

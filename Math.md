@@ -99,3 +99,6 @@ https://gregorygundersen.com/blog/2018/12/10/svd/
 
 机器学习线性代数基础
 https://datahacker.rs/linear-algebra-for-machine-learning/
+
+【微积分入门教程】《Math: Differential Calculus - Colaboratory》by Aurélien Geron
+https://colab.research.google.com/github/ageron/handson-ml2/blob/master/math_differential_calculus.ipynb

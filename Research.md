@@ -239,3 +239,18 @@ https://arxiv.org/abs/2205.04561
 
 HandyFigure：论文插图源文件集
 github.com/xinntao/HandyFigure
+
+GitHub 上开源的技术教程《英语论文写作指南》，由阳志平团队整理发布。
+里面包含科技论文制图、数学公式排版、文献分析工具介绍、论文发表技巧、写作工具等内容。
+GitHub：github.com/OpenMindClub/awesome-scholarly-productivity ​​​​
+
+【高效论文写作相关参考资料集】’awesome-scholarly-productivity' by OpenMindClub GitHub: github.com/OpenMindClub/awesome-scholarly-productivity/blob/main/README.zh-cn.md
+
+【Zotero PDF Translate：Zotero 6的PDF翻译插件】’Zotero PDF Translate - PDF translation add-on for Zotero 6' by windingwind GitHub: github.com/windingwind/zotero-pdf-translate
+
+【paperlib：面向计算机科学的简单开源学术论文管理工具】'paperlib - An open-source simple academic paper management tool for computer science.' by GeoffreyChen777 GitHub: github.com/GeoffreyChen777/paperlib
+
+【Zotero Better Notes：Zotero内置note功能扩展】'Zotero Better Notes - Everything about note management. All in Zotero.' by windingwind GitHub: github.com/windingwind/zotero-better-notes 
+
+【论文开题报告撰写备忘清单】《How To Write a (Thesis / Dissertation) Proposal》
+https://law.xmu.edu.cn/__local/C/50/A6/8949079917E598AF39968777D8F_A60C45FB_E671.pdf?e=.pdf

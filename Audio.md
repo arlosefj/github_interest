@@ -720,3 +720,15 @@ github.com/k2-fsa/sherpa
 
 audio-preview：VS Code的wav音频文件预览与播放扩展
 github.com/sukumo28/vscode-audio-preview
+
+【WeNet：面向工业落地应用的语音识别工具包，提供了从语音识别模型的训练到部署的一条龙服务】’WeNet - Production First and Production Ready End-to-End Speech Recognition Toolkit' by WeNet Open Source Community GitHub: github.com/wenet-e2e/wenet paper:《WeNet: Production First and Production Ready End-to-End Speech Recognition Toolkit》
+
+【WeTTS：产品级端到端文本语音合成工具包】’WeTTS - Production First and Production Ready End-to-End Text-to-Speech Toolkit' by WeNet Open Source Community GitHub: github.com/wenet-e2e/wetts
+
+【音频编码教程资料】’Audio Coding Video Tutorials and Python Notebooks - Audio Coding Notebooks and Tutorials' by Guitars.AI GitHub: github.com/GuitarsAI/AudioCodingTutorials
+
+'wenet_trt8 - 用TRT8部署开源语音识别工具包WeNet，为语音识别模型在TRT8上部署提供参考方案’ by huismiling GitHub: github.com/huismiling/wenet_trt8
+
+'FastASR - 基于PaddleSpeech所使用的conformer模型，使用C++的高效实现模型推理，在树莓派4B等ARM平台运行也可流畅运行' by chenkui164 GitHub: github.com/chenkui164/FastASR
+
+【Open Text to Speech Server：开源多语言文本语音合成服务器】’Open Text to Speech Server - Open Text to Speech Server' by Michael Hansen GitHub: github.com/synesthesiam/opentts

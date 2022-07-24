@@ -1358,3 +1358,16 @@ https://arxiv.org/abs/2205.07844
 
 Decoder Denoising Pretraining for Semantic Segmentation
 https://arxiv.org/abs/2205.11423
+
+### Neural Volumetric Object Selection
+https://arxiv.org/abs/2205.14929
+![](https://wx3.sinaimg.cn/mw690/5396ee05ly1h30g5ctfmyj21300xsqgp.jpg)
+
+[CV]《Improving Semantic Segmentation in Transformers using Hierarchical Inter-Level Attention》G Leung, J Gao, X Zeng, S Fidler [University of Toronto] (2022) 
+https://arxiv.org/abs/2207.02126
+
+[CV]《XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model》H K Cheng, A G. Schwing [University of Illinois Urbana-Champaign] (2022)
+https://arxiv.org/abs/2207.07115
+
+[CV]《Highly Accurate Dichotomous Image Segmentation》X Qin, H Dai, X Hu, D Fan, L Shao, a L V Gool [MBZUAI & TUM & ETH Zurich & Terminus Group] (2022) 
+https://arxiv.org/abs/2203.03041

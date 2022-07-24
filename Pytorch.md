@@ -863,3 +863,13 @@ github.com/morningsky/Torch-RecHub
 
 PyTorch Metric Learning：PyTorch深度度量学习库
 github.com/KevinMusgrave/pytorch-metric-learning
+
+【tsai：基于Pytorch & fastai的深度学习时序处理库】’tsai - Time series Timeseries Deep Learning Machine Learning Pytorch fastai | State-of-the-art Deep Learning library for Time Series and Sequences in Pytorch / fastai' by timeseriesAI GitHub: github.com/timeseriesAI/tsai 
+
+【torchsnapshot：一个轻量库，用于为PyTorch大规模分布式训练工作负载提供容错能力】'torchsnapshot - A light-weight library for adding fault tolerance to large-scale PyTorch distributed training workloads.' by Meta Research GitHub: github.com/facebookresearch/torchsnapshot
+
+'深入浅出PyTorch - PyTorch入门教程' datawhalechina.github.io/thorough-pytorch/ GitHub: github.com/datawhalechina/thorough-pytorch
+
+推荐一本 AI 技术书籍：《Pytorch 常用函数手册》，手册分为 14 章，内含超 200 个常用函数。
+从最基础的创建张量开始，逐步加深，涵盖日常开发常用的函数。感兴趣的同学，可以领取学习一下。
+https://githubdaily.gitee.io/posts/2022-07-21-pytorch-book/

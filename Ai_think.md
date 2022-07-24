@@ -276,3 +276,24 @@ joramkeijser.github.io/2022/05/01/mutations.html
 
 2022 AI领域最新进展追踪
 github.com/louisfb01/best_AI_papers_2022
+
+[LG]《Reconstructing Training Data from Trained Neural Networks》N Haim, G Vardi, G Yehudai, O Shamir, M Irani [Weizmann Institute of Science] (2022)
+https://arxiv.org/abs/2206.07758
+
+[CV]《The Missing Link: Finding label relations across datasets》J Uijlings, T Mensink, V Ferrari [Google Research] (2022) 
+https://arxiv.org/abs/2206.04453
+
+[LG]《How robust are pre-trained models to distribution shift?》Y Shi, I Daunhawer, J E. Vogt, P H.S. Torr, A Sanyal [University of Oxford & ETH Zurich] (2022) 
+https://arxiv.org/abs/2206.08871
+
+[CV]《DCT-Net: Domain-Calibrated Translation for Portrait Stylization》Y Men, Y Yao, M Cui, Z Lian, X Xie [Alibaba Group & Peking University] (2022)
+https://arxiv.org/abs/2207.02426
+
+[LG]《A Data-Based Perspective on Transfer Learning》S Jain, H Salman, A Khaddaj, E Wong, S M Park, A Madry [MIT] (2022)
+https://arxiv.org/abs/2207.05739
+
+【一位博士生对机器学习工程的思考】《Thoughts on ML Engineering After a Year of my PhD》by Shreya Shankar
+https://www.shreya-shankar.com/phd-year-one/
+
+[CV]《Performance degradation of ImageNet trained models by simple image transformations》H Maheshwari [Georgia Institute of Technology] (2022)
+https://arxiv.org/abs/2207.08079

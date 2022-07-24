@@ -410,3 +410,6 @@ github.com/tanyarajhans/LeetCode
 
 Best Resources to Learn Data Structures and Algorithms
 https://www.mltut.com/best-resources-to-learn-data-structures-and-algorithms/
+
+'《剑指 Offer》 Python, Java, C++ 解题代码，LeetBook《图解算法数据结构》配套代码' by Krahets GitHub: github.com/krahets/LeetCode-Book 
+

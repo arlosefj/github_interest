@@ -926,3 +926,20 @@ github.com/nickponline/dd-nerf-dataset
 
 互联网数据集 - 包括域名数据(2.7G)、网页数据(6.4G)、反向索引数据(39.7G)
 github.com/RimoChan/internet-dataset
+
+【Google Scanned Objects：高质量日常用品3D扫描数据集】
+https://ai.googleblog.com/2022/06/scanned-objects-by-google-research.html
+
+【tiers-lidars-dataset：多模态激光雷达数据集】'tiers-lidars-dataset - Multi-Modal Lidar Dataset for Benchmarking General-Purpose Localization and Mapping Algorithms' by TIERS GitHub: github.com/TIERS/tiers-lidars-dataset
+
+【UrbanNav：开源城市定位算法基准测试多感官数据集】'UrbanNav:An Open-sourced Multisensory Dataset for Benchmarking Positioning Algorithms Designed for Urban Areas' by PolyU Intelligent Positioning And Navigation Lab GitHub: github.com/IPNL-POLYU/UrbanNavDataset
+
+【HaGRID：手势识别数据集】’HaGRID - HAnd Gesture Recognition Image Dataset - HAnd Gesture Recognition Image Dataset' by Alexander Kapitanov GitHub: github.com/hukenovs/hagrid
+
+【HM3D-ABO Dataset：照片级以对象为中心的多视图数据集】'HM3D-ABO Dataset - a photo-realistic object-centric multi-view dataset’ by zhenpeiyang GitHub: github.com/zhenpeiyang/HM3D-ABO
+
+【Simulacra Aesthetic Captions：面向图像提示生成、审美评级等的合成图像数据集】’Simulacra Aesthetic Captions - Dataset of prompts, synthetic AI generated images, and aesthetic ratings.' by John David Pressman GitHub: github.com/JD-P/simulacra-aesthetic-captions
+
+【CelebA-Dialog Dataset：带有细粒度标注的大型视觉-语言人脸数据集】'CelebA-Dialog Dataset - A large-scale visual-language face dataset with fine-grained annotations' by ziqihuangg GitHub: github.com/ziqihuangg/CelebA-Dialog 
+
+【CelebV-HQ: 大规模视频人脸属性数据集】'[ECCV 2022] CelebV-HQ: A Large-Scale Video Facial Attributes Dataset' GitHub: github.com/CelebV-HQ/CelebV-HQ 

@@ -156,3 +156,7 @@ GitHub：github.com/hpcaitech/ColossalAI
 
 ivy：机器学习统一框架，支持所有框架，目前支持 Jax，TensorFlow，PyTorch，MXNet 和 Numpy
 github.com/unifyai/ivy 
+
+【flashlight：快速、灵活的C++机器学习库，由Facebook AI研究语音团队及Torch和Deep Speech的创作者用C++编写】’flashlight - a fast, flexible machine learning library written entirely in C++ from the Facebook AI Research Speech team and the creators of Torch and Deep Speech' GitHub: https:// github.com/flashlight/flashlight 
+
+【Galileo：图深度学习框架，具备超大规模、易使用、易扩展、高性能、双后端等优点】'Galileo - library for large scale graph training by JD' by JD Galileo Team GitHub: github.com/JDGalileo/galileo

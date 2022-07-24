@@ -1671,3 +1671,36 @@ GitHub：github.com/hpcaitech/ColossalAI
 
 Machine Learning Design patterns：机器学习设计模式
 github.com/msaroufim/ml-design-patterns
+
+GitHub 上开源的机器学习面试题库：Machine Learning Interview，收录了世界各大互联网公司的机器学习面试题。
+仓库中包括概率与统计、大数据、AB 测试、机器学习与深度学习领域的速查表、面试准备、学习指南、项目用例、面试经验等内容。
+GitHub：github.com/khangich/machine-learning-interview ​​​​
+
+【Energon-AI：大规模模型推理系统】'Energon-AI - Large-scale model inference.' by HPC-AI Tech GitHub: github.com/hpcaitech/EnergonAI
+
+【EasyRec：深度学习推荐算法框架，支持大规模训练、评估、导出和部署】'EasyRec - A framework for large scale recommendation algorithms.' by Alibaba Group - PAI GitHub: https:// github.com/AlibabaPAI/EasyRec
+
+【Intel(R) Extension for Scikit-learn：通过Intel CPU/GPU优化来加速Scikit-learn(10-100X)的扩展库(补丁)】’Intel(R) Extension for Scikit-learn* - Intel(R) Extension for Scikit-learn is a seamless way to speed up your Scikit-learn application' by Intel GitHub: github.com/intel/scikit-learn-intelex
+
+【mlsync：机器学习数据同步工具】’mlsync - Sync your ML data with your favorite productivity tools!' by PaletteML GitHub: github.com/paletteml/mlsync
+
+【Try to hijack AI!：机器学习模型漏洞检测工具箱】’Try to hijack AI! - reveal the vulnerabilities of machine learning models, algorithms for AI security such as Model Inversion, Poisoning Attack, Evasion Attack, Differential Privacy, and Homomorphic Encryption’ by Syumei GitHub: github.com/Koukyosyumei/AIJack 
+
+【cleanlab：机器学习数据集错误自动发现修复工具包】’cleanlab - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.' GitHub: github.com/cleanlab/cleanlab
+
+【机器学习100讲】《100 Lectures on Machine Learning》by Mark Schmidt
+https://www.cs.ubc.ca/~schmidtm/Courses/LecturesOnML/
+
+【视觉表示学习之掩码】《Masking for Representation Learning in Vision》by Adam Kosiorek akosiorek.github.io/ml/2022/07/04/masking_repr_learning_vision.html 
+
+'sematic - An open-source ML pipeline development toolkit' by Sematic GitHub: github.com/sematic-ai/sematic 
+
+【ML Course Notes：机器学习课程笔记】’ML Course Notes - Sharing course notes on all topics related to machine learning, NLP, and AI' by DAIR.AI GitHub: github.com/dair-ai/ML-Course-Notes
+
+'ExplainableAI.jl - XAI in Julia using Flux.' by Adrian Hill GitHub: github.com/adrhill/ExplainableAI.jl 
+
+【面向机器学习项目的日志、服务器与可视化面板】’ML-Logger, A Simple and Scalable Logging Utility With a Beautiful Visualization Dashboard' by Ge Yang GitHub: github.com/geyang/ml_logger ​​​ ​​​​
+
+国内一位开发者在 GitHub 开源的数据分析项目库：bigdata_analyse，收集了多个数据分析项目集合。
+每个项目都会包含一个友好的说明文档，用来阐述和展示整个开发流程。同时也会提供相关的数据集，以供下载练习。
+GitHub：github.com/TurboWay/bigdata_analyse ​​​​

@@ -924,3 +924,7 @@ https://weibo.com/ttarticle/p/show?id=2309404771607167239019
 
 ### WTW-Dataset：现实场景表格检测识别数据集
 github.com/wangwen-whu/WTW-Dataset 
+
+【RapidOCR：基于PaddleOCR & OnnxRuntime的跨平台OCR库】’RapidOCR (捷智OCR) - A cross platform OCR Library based on PaddleOCR & OnnxRuntime' GitHub: https:// github.com/RapidOCR/RapidOCR 
+
+【基于Siamese networks的笔迹鉴定系统】’Signature verification system using Siamese networks' by Sean Benhur GitHub: github.com/seanbenhur/siamese_net 

@@ -254,3 +254,6 @@ https://theaisummer.com/simclr/
 
 OpenGlue: Open Source Graph Neural Net Based Pipeline for Image Matching
 https://arxiv.org/abs/2204.08870
+
+[CV]《Masked Siamese ConvNets》L Jing, J Zhu, Y LeCun [Meta AI & NYU] (2022)
+https://arxiv.org/abs/2206.07700

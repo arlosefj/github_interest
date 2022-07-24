@@ -195,3 +195,30 @@ github.com/ELS-RD/transformer-deploy
 
 Deploying ML models with CPU based TFServing, Docker, and Kubernetes
 github.com/deep-diver/ml-deployment-k8s-tfserving
+
+### 【feder：神经网络可视化工具】’feder - Visualization for hnsw, faiss and other anns index' by Zilliz GitHub: github.com/zilliztech/feder
+
+onnx-modifier：ONNX模型实时可视化编辑工具 ’onnx-modifier - A tool to modify onnx models in a visualization fashion, based on Netron and flask.' by Zhang Ge GitHub: github.com/ZhangGe6/onnx-modifier
+
+【MulimgViewer：多图像浏览器，在一个界面显示多个图像，方便图像的比较、筛选】'MulimgViewer - a multi-image viewer that can open multiple images in one interface, which is convenient for image comparison and image stitching.' by Jiawei Liu GitHub: github.com/nachifur/MulimgViewer
+
+【少样本增量学习相关文献资源列表】’Awesome Few-Shot Class-Incremental Learning' by Da-Wei Zhou GitHub: github.com/zhoudw-zdw/Awesome-Few-Shot-Class-Incremental-Learning 
+
+【InferenceDB：面向实时机器学习推理的数据库，基于Kafka】’InferenceDB - Stream inferences of real-time ML models in production to any data lake' by Aporia GitHub: github.com/aporia-ai/inferencedb 
+
+[CV]《Replacing Labeled Real-image Datasets with Auto-generated Contours》H Kataoka, R Hayamizu, R Yamada, K Nakashima, S Takashima, X Zhang, E J Martinez-Noriega, N Inoue, R Yokota [AIST] (2022) 
+https://arxiv.org/abs/2206.09132
+
+【Git Based MLOps：用Git/GitHub实现MLOps】’Git Based MLOps - shows how to realize MLOps in Git/GitHub. In order to achieve this aim, this project heavily leverages the toolse such as DVC, DVC Studio, DVCLive - all products built by iterative.ai, Google Drive, Jarvislabs.ai, and HuggingFace Hub.’ by codingpot GitHub: github.com/codingpot/git-mlops
+
+'Giskard - Open-Source CI/CD platform for ML teams. Deliver ML products, better & faster.' GitHub: github.com/Giskard-AI/giskard
+
+【40个Linux服务器安全强化小贴士】《40 Linux Server Hardening Security Tips [2021 edition] - nixCraft》
+https://www.cyberciti.biz/tips/linux-security.html
+
+【DeepSpeed-MII：DeepSpeed扩展库，旨在使强大的transformer模型的低延迟、低成本推理不仅可行而且易于访问】’DeepSpeed-MII - library from DeepSpeed, designed to make low-latency, low-cost inference of powerful transformer models not only feasible but also easily accessible’ by Microsoft GitHub: github.com/microsoft/DeepSpeed-MII
+
+openbmb 大模型全流程高效计算工具链，涵盖训练、微调、压缩、推理全流程
+https://www.openbmb.org/home
+
+'《通用视觉框架 OpenMMLab》 公开课' by wangruohui GitHub: github.com/wangruohui/OpenMMLabCourse 

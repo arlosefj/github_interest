@@ -186,3 +186,5 @@ github.com/zeusees/PortraitSeg
 
 yolov5s_android：安卓设备运行的yolov5s
 github.com/lp6m/yolov5s_android
+
+’XXTouchNG - Next generation XXTouch for iOS 13 and above. System-wide iOS Automation Toolkit.(介绍值得看看，作者的亲身经历：技术是一把双刃剑，使用不当，可能将自己带入深渊)’ GitHub: github.com/XXTouchNG/XXTouchNG

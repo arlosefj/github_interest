@@ -346,3 +346,18 @@ github.com/HIT-UG-Group/DeepLearning-MuLi-Notes
 
 GameShell: 通过玩游戏学习Unix shell命令
 github.com/phyver/GameShell
+
+【Andrew NG深度学习专项课程手写笔记】’Andrew NG Notes Collection - This is Andrew NG Coursera Handwritten Notes.' by Ashish Patel GitHub: github.com/ashishpatel26/Andrew-NG-Notes 
+
+### 日本开发者在 GitHub 开源的一款图像处理节点编辑器：Image-Processing-Node-Editor。
+通过该工具，可以辅助并完成深度学习的各项图像处理工作，快速验证、对比各个图像在不同条件下的执行结果。
+GitHub：github.com/Kazuhito00/Image-Processing-Node-Editor ​​​​
+
+Kaggle机器学习/数据科学/数据可视化/深度学习入门Notebook推荐:
+[Data ScienceTutorial for Beginners](https://www.kaggle.com/code/kanncaa1/data-sciencetutorial-for-beginners)
+[Machine Learning Tutorial for Beginners](https://www.kaggle.com/code/kanncaa1/machine-learning-tutorial-for-beginners/notebook) 
+[Python Data Visualizations](https://www.kaggle.com/code/benhamner/python-data-visualizations/notebook)
+[Scikit-Learn ML from Start to Finish](https://www.kaggle.com/code/jeffd23/scikit-learn-ml-from-start-to-finish/notebook)
+[TensorFlow deep NN](https://www.kaggle.com/code/kakauandme/tensorflow-deep-nn/notebook)
+
+【十分钟入门MLOps】《MLOps in 10 Minutes》by Alexey Grigorev towardsdatascience.com/mlops-in-10-minutes-165c746a9b8e

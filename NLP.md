@@ -630,3 +630,17 @@ github.com/microsoft/adatest
 
 中文语音预训练模型，用 WenetSpeech train_l 集的 1 万小时中文数据作为无监督预训练数据
 github.com/TencentGameMate/chinese_speech_pretrain 
+
+'Text-Similarity - 文本相似度（匹配）计算，提供Baseline、训练、推理、指标分析...代码包含TensorFlow/Pytorch双版本' by DengBoCong GitHub: github.com/DengBoCong/text-similarity
+
+【语言模型即服务(LMaaS)相关文献列表】’Awesome papers on Language-Model-as-a-Service (LMaaS)' by Tianxiang Sun GitHub: github.com/txsun1997/LMaaS-Papers
+
+'sohu2022-nlp-rank1 - 2022搜狐校园算法大赛NLP赛道第一名开源方案（实验代码）' by jzm-chairman GitHub: github.com/jzm-chairman/sohu2022-nlp-rank1
+
+【用PyTorch复现的Google's LaMDA开源预训练】’LaMDA-pytorch - Open-source pre-training implementation of Google's LaMDA in PyTorch. The totally not sentient AI.' by Enrico Shippole GitHub: github.com/conceptofmind/LaMDA-pytorch
+
+【min-LLM：训练大语言模型的轻量代码】’min-LLM - Minimal code to train a Large Language Model (LLM).' by Sean Naren GitHub: github.com/SeanNaren/min-LLM 
+
+【KeyPhraseTransformer：基于T5 transformer的关键词/主题抽取工具】’KeyPhraseTransformer - Quickly extract key-phrases/topics from you text data with T5 transformer' by Shivanand Roy GitHub: github.com/Shivanandroy/KeyPhraseTransformer
+
+【Holmes：基于谓词逻辑的英德文本信息提取】'Holmes - Information extraction from English and German texts based on predicate logic' by Explosion GitHub: github.com/explosion/holmes-extractor 

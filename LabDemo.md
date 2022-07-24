@@ -239,3 +239,49 @@ github.com/DefTruth/lite.ai.toolkit
 
 SysMocap：用于3D虚拟角色动画制作的实时动作捕捉系统
 github.com/xianfei/SysMocap 
+
+【Image-Processing-Node-Editor：用节点编辑器执行图像/视频处理的应用】'Image-Processing-Node-Editor - An application that performs image processing with the node editor' by KazuhitoTakahashi GitHub: github.com/Kazuhito00/Image-Processing-Node-Editor
+
+'ONNX-HybridNets-Multitask-Road-Detection - Python scripts for performing road segemtnation and car detection using the HybridNets multitask model in ONNX.' by Ibai Gorordo GitHub: github.com/ibaiGorordo/ONNX-HybridNets-Multitask-Road-Detection
+
+Paper2GUI，一款面向普通人的 AI 桌面 APP 工具箱，开箱即用，非常方便。
+已支持 15+ AI 模型，内容涵盖语音合成、视频补帧、视频超分、目标检测、图片风格化、图片 OCR 识别等领域，兼容 Windows、Mac、Linux 等主流操作系统。
+GitHub：github.com/Baiyuetribe/paper2gui ​​​​
+
+### C++/MFC/OpenCV实现的快速图像匹配算法
+github.com/DennisLiu1993/Fastest_Image_Pattern_Matching
+
+【Mage：开源数据管理平台，可用来清洗数据，为训练AI/ML模型做准备】'Mage - Mage is an open-source data management platform that helps you clean data and prepare it for training AI/ML models.' GitHub: github.com/mage-ai/mage-ai 
+
+【计算机视觉最佳实践、代码示例和相关文档】'Computer Vision - Best Practices, code samples, and documentation for Computer Vision.' by Microsoft GitHub: github.com/microsoft/computervision-recipes ​​​​
+
+GitHub 上一套开源的环视物体检测方案：BEVFormer，实现了在鸟瞰图视角下的特征优化，可应用于汽车自动驾驶场景。
+GitHub：github.com/zhiqi-li/BEVFormer
+
+【envd：面向数据科学/机器学习工程团队的开发环境，内置 Jupiter/VSCode】’envd - Development Environment for data science and AI/ML' by TensorChord GitHub: github.com/tensorchord/envd 
+
+【freemocap：3D人体骨架检测】'freemocap - Free like Freedom' by jonmatthis GitHub: https:// github.com/jonmatthis/freemocap
+
+【Movenet.Pytorch：用PyTorch重写的MoveNet人体关键点检测】’Movenet.Pytorch - A Pytorch implementation of MoveNet from Google. Include training code and pre-trained model.' by Mr.Fire GitHub: github.com/fire717/movenet.pytorch
+
+【min(DALL·E)：DALL·E Mini的最小化实现】’min(DALL·E) - a minimal implementation of DALL·E Mini’ by kuprel GitHub: github.com/kuprel/min-dalle
+
+【FastDeploy：简单易用的推理部署工具箱。覆盖业界主流优质预训练模型并提供开箱即用的开发体验，包括图像分类、目标检测、图像分割、人脸检测、人体关键点识别、文字识别等多任务，满足开发者多场景，多硬件、多平台的快速部署需求】'FastDeploy - Easy-to-use Deep Learning Model Deployment Toolkit' by PaddlePaddle GitHub: github.com/PaddlePaddle/FastDeploy
+
+【chaiNNer：基于流程图/节点的图像处理 GUI，旨在使链式图像处理任务(特别是由神经网络完成的任务)变得简单、直观且可定制】'chaiNNer - A flowchart/node-based image processing GUI aimed at making chaining image processing tasks (especially those done by neural networks) easy, intuitive, and customizable.' by Joey Ballentine GitHub: github.com/joeyballentine/chaiNNer
+
+【CheekyKeys：用表请控制键盘[喵喵]】’CheekyKeys - Use Python, OpenCV, and MediaPipe to control a keyboard with facial gestures' by everythingishacked GitHub: github.com/everythingishacked/CheekyKeys
+
+'ONNX HRNET 2D Human Pose Estimation (WIP) - Python scripts for performing 2D human pose estimation using the HRNET family models in ONNX.' by Ibai Gorordo GitHub: github.com/ibaiGorordo/ONNX-HRNET-Human-Pose-Estimation
+
+GitHub 上一个开源的大模型深度学习系统：ColossalAI，提供了一系列开发工具，让分布式 AI 模型训练流程变得更加简单。
+另外，该项目近期已无缝支持 Hugging Face，开发者仅需添加几行代码，便可实现大模型的低成本训练和微调。
+GitHub：github.com/hpcaitech/ColossalAI
+目前，Colossal-AI 技术解决方案已成功在自动驾驶、云计算、零售、医药、芯片等行业知名厂商落地应用，并广受开发者好评。
+项目提供了完整的中文教程
+
+【Poisson Image Editing：基于雅可比方法的快速泊松图像编辑算法，可利用多核CPU或GPU处理高分辨率图像输入】’Poisson Image Editing - A Parallel Implementation - A fast poisson image editing implementation that can utilize multi-core CPU or GPU to handle a high-resolution image input.' by Jiayi Weng GitHub: github.com/Trinkle23897/Fast-Poisson-Image-Editing 
+
+### 【DeepFit：健身人体姿态跟踪】’DeepFit - tracks your body movements throughout a workout' by Naman Arora GitHub: github.com/namanarora42/DeepFit
+
+### 【GymLytics：健身姿态视觉分析】’GymLytics - Visual Analytics of different exercises for humans' by Akshay Bahadur GitHub: github.com/akshaybahadur21/GymLytics

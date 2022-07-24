@@ -338,3 +338,10 @@ github.com/huggingface/deep-rl-class
 
 Super-Mario-RL：用深度强化学习玩超级玛丽
 github.com/jiseongHAN/Super-Mario-RL
+
+【Awesome-Implicit-NeRF-Robotics：与机器人/强化学习领域相关的隐表示与NeRF的论文资源大列表】’Awesome-Implicit-NeRF-Robotics - A comprehensive list of Implicit Representations and NeRF papers relating to Robotics/RL domain, including papers, codes, and related websites' by Zubair Irshad GitHub: github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics 
+
+【Honor of Kings Game Environment：支持强化学习研究的王者荣耀游戏环境，包括1v1游戏核心、强化学习框架和基于训练框架的PPO算法实现】’Honor of Kings Game Environment' by tencent-ailab GitHub: github.com/tencent-ailab/hok_env
+
+复旦魏忠钰老师手把手教你学强化学习
+https://space.bilibili.com/471559565/channel/seriesdetail?sid=2413153

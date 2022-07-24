@@ -109,3 +109,9 @@ github.com/FenTechSolutions/CausalDiscoveryToolbox
 
 DoWhy：端到端因果推理库
 github.com/py-why/dowhy
+
+【DiCE：为机器学习模型生成多样化反事实解释】'DiCE - Generate Diverse Counterfactual Explanations for any machine learning model.' by InterpretML GitHub: github.com/interpretml/DiCE
+
+【Auto-Causality: 自动化因果推理库】’Auto-Causality: A library for automated Causal Inference model estimation and selection - AutoML for causal inference.' by TransferWise Ltd. GitHub: github.com/transferwise/auto-causality 
+
+【YLearn：因果学习算法工具包，主要支持因果学习任务中的各类相关任务，从因果效应识别，到因果效应估计，到因果发现等等】' - YLearn, a pun of "learn why", is a python package for causal inference' by DataCanvas GitHub: github.com/DataCanvasIO/YLearn

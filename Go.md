@@ -105,3 +105,5 @@ github.com/tiger1103/gfast
 
 gochat：纯go实现的即时通讯系统
 github.com/LockGit/gochat
+
+【Go语言入门与进阶课程】’Go Course - Master the fundamentals and advanced features of the Go programming language' by Karan Pratap Singh GitHub: github.com/karanpratapsingh/go-course

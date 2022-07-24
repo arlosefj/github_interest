@@ -544,3 +544,10 @@ github.com/TRI-ML/camviz
 
 stereodemo：用于比较和可视化各种立体深度估计算法输出的Python工具
 github.com/nburrus/stereodemo
+
+Layered Depth Refinement with Mask Guidance
+https://arxiv.org/abs/2206.03048
+
+【深度学习3D视觉最新论文列表】’Trending-in-3D-Vision - An on-going paper list on new trends in 3D vision with deep learning' by Xiaolong GitHub: github.com/dragonlong/Trending-in-3D-Vision
+
+【SL Sensor：基于ROS的开源结构光传感器，用于高精度3D扫描】'SL Sensor: an open-source, ROS-based, structured light sensor for high-accuracy 3D scanning' by ETHZ ASL GitHub: github.com/ethz-asl/sl_sensor 

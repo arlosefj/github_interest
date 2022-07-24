@@ -361,3 +361,12 @@ github.com/XPixelGroup/BasicSR
 
 agi-upscale：老游戏像素背景图超分辨率工具
 github.com/eviltrout/agi-upscale
+
+QualityScaler：Windows下的图像/视频深度学习超分辨率App ’QualityScaler - Image/video deeplearning upscaler app for Windows - BRSGAN & RealSR_JPEG' by Annunziata Gianluca GitHub: github.com/Djdefrag/QualityScaler
+
+【FidelityFX Super Resolution(FSR)：FidelityFX超分辨率框架】’FidelityFX Super Resolution 2.0.1 (FSR 2.0) - FidelityFX Super Resolution 2' by GPUOpen Effects GitHub: github.com/GPUOpen-Effects/FidelityFX-FSR2 
+
+【BasicsR：图像、视频超分复原增强开源库中文解读文档】'BasicSR 中文解读文档' by XPixelGroup GitHub: github.com/XPixelGroup/BasicSR-docs
+
+[CV]《Rethinking Alignment in Video Super-Resolution Transformers》S Shi, J Gu, L Xie, X Wang, Y Yang, C Dong [Tsinghua University & Shanghai AI Laboratory & Chinese Academy of Sciences & Tencent PCG] (2022) 
+https://arxiv.org/abs/2207.08494

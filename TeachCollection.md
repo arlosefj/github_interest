@@ -58,3 +58,14 @@ github.com/microsoft/Data-Science-For-Beginners
 https://wx3.sinaimg.cn/mw690/001wUkn3ly1gvcr3gjdo8j60pd0e4jy202.jpg
 
 https://wx1.sinaimg.cn/mw690/001wUkn3ly1gvcuicm9z7j60hs0h4tg402.jpg
+
+【深度学习简史】《A Revised History of Deep Learning | Revue》by Jean de Dieu Nyandwi
+https://www.getrevue.co/profile/deeprevision/issues/a-revised-history-of-deep-learning-issue-1-1145664
+
+【瑞士日内瓦大学深度学习课程视频及资料】《UNIGE 14x050 – Deep Learning》by François Fleuret 
+https://fleuret.org/dlc/
+
+【交叉熵解惑】《Things that confused me about cross-entropy》by Chris Said 
+https://chris-said.io/2020/12/26/two-things-that-confused-me-about-cross-entropy/
+
+'算法工程师-机器学习面试题总结' by Jingwei Zheng GitHub: github.com/zhengjingwei/machine-learning-interview

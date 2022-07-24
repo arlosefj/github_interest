@@ -187,3 +187,21 @@ towardsdatascience.com/comprehensive-guide-to-github-for-data-scientist-d3f71bd3
 
 用 Rust 语言从零开始写一个基于 RISC-V 架构的类 Unix 内核。清华大学开源的中文教程，从计算机发展历史开始科普，一步步说到为何操作系统会诞生，以及现代操作系统必须具备的特性。实践方面也是从空文件夹开始，像搭乐高积木一样，慢慢将操作系统的核心开发出来，教程读起来简直像看小说一样让人欲罢不能。
 github.io/rCore-Tutorial-Book-v3/
+
+【CODEBALL：代码自动Review工具】’CODEBALL - a code review AI which approves Pull Requests that a human would have approved. Spend less time waiting, save time and money.’ by Sturdy GitHub: github.com/sturdy-dev/codeball-action
+
+GitHub 上的开源技术资源：《一图胜千言》（A Picture's Worth A Thousand Words），由微软工程师 Tomomi 手绘并整理发布。
+该仓库包含了数据结构与算法、Web 开发、机器学习、Git 开发等编程领域的涂鸦作品，其中有部分被应用到了微软的开源教程。
+GitHub：github.com/girliemac/a-picture-is-worth-a-1000-words
+
+'精益副业：程序员如何优雅地做副业' by Easy GitHub: github.com/easychen/lean-side-bussiness
+
+GitHub 上的开源技术资源：《谷歌的软件工程》中文版（Software Engineering at Google），共 25 章，主要讲解 Google 技术团队在「软件工程」领域的实践。
+该指南覆盖了团队管理、效率测量、代码风格规范、项目测试、版本控制、静态分析、依赖管理、持续交付与集成等内容。
+GitHub：github.com/qiangmzsx/Software-Engineering-at-Google
+
+【免费书：程序员应该知道的97件事】《97 Things Every Programmer Should Know》 97-things-every-x-should-know.gitbook.io/97-things-every-programmer-should-know/en
+
+GitHub 上的开源技术教程：《Effective Debugging》中文翻译版，主要讲述如何更有效率地调试大型程序（以 C/C++ 为例）的方法和技能。
+书中例子不仅丰富，而且都是从实际的工作经验提取，观点和方法有效且具有可行性。
+GitHub：github.com/Celthi/effective-debugging-zh ​​​​

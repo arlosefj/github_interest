@@ -1206,3 +1206,16 @@ github.com/putao537/Awesome-Multi-label-Image-Recognition
 
 FastDup：大型图片集分析工具，可发现异常、重复和近重复图像、相似性聚类、学习图像间的正常行为和时间交互等
 github.com/visualdatabase/fastdup
+
+【Maua：深度学习图像/视频/音频合成库】’Maua - Deep learning toolkit for image, video, and audio synthesis' GitHub: github.com/maua-maua-maua/maua
+
+【Watermark-Removal：图片自动去水印】’Watermark-Removal - a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image' by Zuruoke Okafor GitHub: github.com/zuruoke/watermark-removal 
+
+【Rolling-shutter-Effects：图像畸变校正(滚动快门/径向失真/文字失真等)相关文献资源列表】’Rolling-shutter-Effects - A curated list of resources on handling Rolling Shutter effects and Radial Distortions' by Subeesh Vasu GitHub: github.com/subeeshvasu/Awesome-Image-Distortion-Correction
+
+[CV]《DDPM-CD: Remote Sensing Change Detection using Denoising Diffusion Probabilistic Models》W G C Bandara, N G Nair, V M. Patel [Johns Hopkins University] (2022)
+https://arxiv.org/abs/2206.11892
+
+【P-HAR: 基于深度学习动作识别的色情检测[喵喵]】’P-HAR: Porn Human Action Recognition - deep learning porn classifier' by Rejnald Lleshi GitHub: github.com/rlleshi/phar
+
+【IntraPaint：指导AI图像生成以制作独特创意作品的图形界面】'IntraPaint - An interface for guiding AI image generation to make unique creative works.' by Anthony Brown GitHub: github.com/centuryglass/IntraPaint

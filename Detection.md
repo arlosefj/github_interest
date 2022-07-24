@@ -1083,3 +1083,24 @@ github.com/ibaiGorordo/ONNX-Object-Localization-Network
 
 Pix2Seq：一种新的目标检测语言接口
 https://ai.googleblog.com/2022/04/pix2seq-new-language-interface-for.html
+
+'YOLOv6: a single-stage object detection framework dedicated to industrial application.' by Meituan GitHub: github.com/meituan/YOLOv6
+
+'ONNX YOLOv6 Object Detection - Python scripts performing object detection using the YOLOv6 model in ONNX.' by Ibai Gorordo GitHub: github.com/ibaiGorordo/ONNX-YOLOv6-Object-Detection
+
+【FastestDet：轻量无锚目标检测框架，参数仅为250K，与最快速算法相比时间消耗减少30%】’FastestDet - A newly designed ultra lightweight anchor free target detection algorithm， weight only 250K parameters， reduces the time consumption by 30% compared with yolo-fastest, and the post-processing is simpler' by xuehao.ma GitHub: github.com/dog-qiuqiu/FastestDet
+
+【2022目标检测前沿】《Object Detection State of the Art 2022》by Pedro Azevedo medium.com/@pedroazevedo6/object-detection-state-of-the-art-2022-ad750e0f6003
+
+[CV]《YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors》C Wang, A Bochkovskiy, H M Liao [Academia Sinica] (2022)
+https://arxiv.org/abs/2207.02696
+
+'yolov7-pytorch - YOLOV7目标检测模型的PyTorch实现' by Bubbliiiing GitHub: github.com/bubbliiiing/yolov7-pytorch
+
+### 【YOLO目标检测系统各种实现及应用项目大列表】’Awesome-YOLO-Object-Detection - A collection of some awesome YOLO object detection series projects.' by dotnet-rs-py GitHub: github.com/dotnet-rs-py/awesome-yolo-object-detection
+
+'ONNX YOLOv7 Object Detection - Python scripts performing object detection using the YOLOv7 model in ONNX.' by Ibai Gorordo GitHub: github.com/ibaiGorordo/ONNX-YOLOv7-Object-Detection
+
+'yolov7-opencv-onnxrun-cpp-py - 分别使用OpenCV、ONNXRuntime部署YOLOV7目标检测，一共包含14个onnx模型，包含C++和Python两个版本的程序' by hpc203 GitHub: github.com/hpc203/yolov7-opencv-onnxrun-cpp-py 
+
+【YOLOv5-Lite：方便部署的YOLOv5轻量高性能版】’YOLOv5-Lite: lighter, faster and easier to deploy. Evolved from yolov5 and the size of model is only 1.7M (int8) and 3.3M (fp16). It can reach 10+ FPS on the Raspberry Pi 4B when the input size is 320×320~' by ppogg GitHub: https:// github.com/ppogg/YOLOv5-Lite 

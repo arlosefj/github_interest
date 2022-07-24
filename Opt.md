@@ -371,3 +371,5 @@ github.com/Mountchicken/Efficient-Deep-Learning
 
 ATOM - Automated Tool for Optimized Modelling - A Python package for fast exploration of machine learning pipelines’
 github.com/tvdboom/ATOM 
+
+【模型量化论文/文档/代码列表】'Awesome Model Quantization - A list of papers, docs, codes about model quantization' by Haotong Qin GitHub: github.com/htqin/awesome-model-quantization 

@@ -422,3 +422,6 @@ github.com/iawia002/lux
 
 用 ffmpeg 给视频加音频
 https://stackoverflow.com/questions/11779490/how-to-add-a-new-audio-not-mixing-into-a-video-using-ffmpeg/11783474#11783474
+
+【Remsi：一行ffmpeg命令去除视频重的静音片段】’Remsi - Remove silence from video files with a 1-line ffmpeg command' by Emmanuel Bégué GitHub: github.com/bambax/Remsi 
+

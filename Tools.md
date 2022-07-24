@@ -1132,3 +1132,51 @@ github.com/cea-sec/sanzu
 
 GitNoter：本地部署的开源版web版Markdown笔记应用
 github.com/git-noter/gitnoter
+
+dashy，一个高度可定制化、自托管的服务器启动页构建工具，自带可视化编辑器、状态检测系统，并拥有各类丰富的组件及主题。
+GitHub：github.com/Lissy93/dashy
+借助该工具，便可为不同应用快速搭建一个服务器管理面板，并基于各种组件、图标、主题，完成自定义配置，项目内置身份验证、状态监测、搜索、备份、可视化配置、多语言支持等功能
+
+一年后，Kindle 将退出中国市场，此前购买的书籍，在 2024 年 6 月 30 日后，将无法进行下载。
+这里分享一个在 GitHub 上开源的 Python 脚本，可用于批量下载往期已购买的 Kindle 电子书，并将其保存到本地。
+GitHub：github.com/yihong0618/Kindle_download_helper ​​​​
+
+### 推荐一款基于 GitHub 的 Web 笔记应用：BatNoter，可将 GitHub 仓库作为个人笔记存储库，并支持笔记分类、搜索、Markdown 快捷编辑与预览、书签管理等内容。
+GitHub：github.com/batnoter/batnoter
+
+GitHub 上一款开源知识管理工具：Think（云策文档），内置知识库、思维导图、文档模板、在线编辑器等多种工具。
+可通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通。
+GitHub：github.com/fantasticit/think ​​​​
+
+'云策文档：开源知识管理工具。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通。' by fantasticit GitHub: github.com/fantasticit/think
+
+颜值颇高的 Markdown 编辑器：MiaoYan（妙言），拥有极简的设计风格，纯本地使用、支持语法高亮、黑暗模式、源文件保存、国际化等功能。
+GitHub：github.com/tw93/MiaoYan
+项目基于 Swift5 原生开发，用起来比较丝滑，可自定义快捷和编辑器字体。目前仅支持 macOS 操作系统。 ​​​​
+
+'Copy Translator - Rust写的简单、轻量、好用的划词翻译软件，利用DeepL翻译，无需注册api token' by zu1k GitHub: github.com/zu1k/copy-translator
+
+'wechat-backup - 微信聊天记录持久化备份本地硬盘，释放手机存储空间' by greycodee GitHub: github.com/greycodee/wechat-backup
+
+【Markwhen：从类似Markdown的文本创建漂亮的级联时间线】’Markwhen - Make a cascading timeline from markdown-like text.' by Rob Koch GitHub: github.com/kochrt/markwhen
+
+【VNote：专注于Markdown的基于Qt的开源免费的笔记应用】'VNote - A pleasant note-taking platform.' by VNoteX GitHub: github.com/vnotex/vnote 
+
+【sake：本地及远程主机的任务运行器】’sake - sake is a task runner for local and remote hosts' by Samir Alajmovic GitHub: github.com/alajmo/sake
+
+【AITViewer：跨平台3D数据可视化交互工具包】’AITViewer - A set of tools to visualize and interact with sequences of 3D data.' by AIT GitHub: github.com/eth-ait/aitviewer 
+
+【Advanced Slides for Obsidian：Obsidian的Slides扩展】’Advanced Slides for Obsidian - Create markdown-based reveal.js presentations in Obsidian' by MSzturc GitHub: github.com/MSzturc/obsidian-advanced-slides
+
+【Primary：漂亮的Obsidian主题】’Primary - a warm, playful but productive theme for Obsidian' by Cecilia May GitHub: github.com/ceciliamay/obsidianmd-theme-primary
+
+### 【Ouch!：无痛命令行文件压缩/解压缩工具】’Ouch! - Painless compression and decompression for your terminal' GitHub: github.com/ouch-org/ouch 
+
+视频网课复习起来各种慢，于是写了一个工具来手动把视频转成文章。
+简单说，它会把字幕每一句都显示出来，可以编辑文字、添加句号逗号，添加换行、播放单句对应的视频，按 i 还能把视频截图给插入到文章里边。最后cmd+s，就能一键生成markdown。
+用 electron 打包了个内测版… 本来是写给自己用的，大家将就下吧 [笑cry] https:///share.weiyun.com/EGm9L3ut
+https://www.bilibili.com/video/bv1AU4y1B7gd?vd_source=fade59d07328dbcb9a0988b7ce98b49d
+
+'Papyri - a set of tools to build, publish (future functionality - to be done), install and render documentation within IPython and Jupyter’ by Jupyter GitHub: github.com/jupyter/papyri 
+
+【Superset：数据可视化和数据探索平台】'Superset - Apache Superset is a Data Visualization and Data Exploration Platform' by The Apache Software Foundation GitHub: https:// github.com/apache/superset

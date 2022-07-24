@@ -702,3 +702,9 @@ github.com/YunjinPark/awesome_talking_face_generation
 
 InsightFace: 最先进的2D和3D人脸分析项目
 github.com/deepinsight/insightface
+
+【Deepfake Offensive Toolkit：Deepfake换脸攻击工具包】’Deepfake Offensive Toolkit - The Deepfake Offensive Toolkit' by sensity GitHub: github.com/sensity-ai/dot
+
+【换脸检测相关文献工具资源大列表】’Awesome Deepfakes Detection - A list of tools, papers and code related to Deepfake Detection.' by Daichi Zhang GitHub: github.com/Daisy-Zhang/Awesome-Deepfakes-Detection 
+
+【Awesome Face Generation：人脸生成相关文献资源列表】’Awesome Face Generation - Basic GAN frameworks and approaches for face swap, reenactment, and stylizing.' by Jiangning Zhang GitHub: github.com/zhangzjn/awesome-face-generation

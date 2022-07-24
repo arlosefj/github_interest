@@ -427,3 +427,25 @@ github.com/unionai-oss/unionml
 
 Awesome-Redteam - 红队知识仓库
 github.com/Threekiii/Awesome-Redteam
+
+GitHub 上一款免费开源的安全平台：Wazuh，集威胁预防、漏洞检测、风险响应、安全监控于一身。
+不仅如此，该开源平台还提供了搜索引擎和数据可视化工具，让用户可以更为直观的浏览、配置项目的安全监控信息。
+GitHub：github.com/wazuh/wazuh ​​​​
+
+'Development Containers: Use a Docker container as a full-featured development environment.' GitHub: github.com/devcontainers/spec
+
+'Opni = AIOps for Kubernetes + Observability Tools - Observability + AIOps for Kubernetes' by Rancher GitHub: github.com/rancher/opni
+
+【FlagAI：快速、易于使用和可扩展的大模型工具包，目标是支持在多模态的各种下游任务上训练、微调和部署大规模模型】’FlagAI - FlagAI (Fast LArge-scale General AI models) is an fast, easy-to-use and extensible toolkit for large-scale model.' by BAAI-Open GitHub: github.com/BAAI-Open/FlagAI 
+
+GitHub 上开源的学习资源：Cloud-DevOps-Learning-Resources。
+该仓库里面收录了一系列云原生开发学习资料（如 Docker、K8s、Azure），包括技术书籍、速查表、测验题、面试笔记等内容。
+GitHub：github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources
+
+【ktop：Kubernetes集群的类似top的资源查看工具】’ktop - A top-like tool for your Kubernetes clusters' by Vladimir Vivien GitHub: github.com/vladimirvivien/ktop
+
+【MLOPs Primer：MLOPs入门资源汇编】’MLOPs Primer - A collection of resources to learn about MLOPs.' by DAIR.AI GitHub: github.com/dair-ai/MLOPs-Primer 
+
+'Paralus - an all-in-one Kubernetes access management tool.' by Paralus Project GitHub: github.com/paralus/paralus
+
+【Spring Cloud Tencent：腾讯开源的一站式微服务解决方案，实现了Spring Cloud 标准微服务 SPI】’Spring Cloud Tencent - Spring Cloud Tencent is a Spring Boot based Service Governance Framework provided by Tencent, including service discovery, traffic control, circuitbreak, ratelimit, config and so on.' by Tencent GitHub: github.com/Tencent/spring-cloud-tencent

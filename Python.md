@@ -926,3 +926,18 @@ github.com/danoneata/pydiagrams
 
 Import Tracker：Python的依赖追踪工具
 github.com/IBM/import-tracker
+
+### 【PyScript CLI：PyScript的命令行界面，PyScript是可以在HTML页面嵌入和执行Python代码的JS库】’PyScript CLI - A CLI for PyScript' GitHub: github.com/pyscript/pyscript-cli 
+
+### 【execnb：无需Jupyter快速执行Jupyter notebook】’execnb - Execute a jupyter notebook, fast, without needing jupyter' by fast.ai GitHub: github.com/fastai/execnb
+
+'Jupyter Splitview - Making before/after image sliders in JupyterLab' by Jan-Hendrik Müller GitHub: github.com/kolibril13/jupyter-splitview
+
+【JupyterLab Desktop：JupyterLab桌面应用，基于Electron】’JupyterLab Desktop - JupyterLab desktop application, based on Electron.' by JupyterLab GitHub: github.com/jupyterlab/jupyterlab-desktop
+
+GitHub 上的开源技术教程：《动手学习数据可视化》，主要讲解 Excel 数据处理的常用技巧。数据清理、搜索、可视化，数据图表绘制，第三方开源库的开发指南等内容。
+GitHub：github.com/handsondataviz/book ​​​​
+
+'Barfi - Python Flow Based Programming environment that provides a graphical programming environment.' by Adithya Krishnan GitHub: github.com/krish-adi/barfi
+
+'TLNewsSpider-舆情信息获取 - 狠心开源企业级舆情爬虫项目：支持任意数量爬虫一键运行、爬虫定时任务、爬虫批量删除；爬虫一键部署；爬虫监控可视化; 配置集群爬虫分配策略；现成的docker一键部署' by silva GitHub: github.com/casual-silva/NewsCrawl

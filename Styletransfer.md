@@ -208,3 +208,6 @@ ithub.com/hertzmann/painterJava
 
 和AI艺术生成相关的Colab Notebooks集锦
 https://peakd.com/hive-177949/@kaliyuga/kaliyugas-library-of-ai-google-colab-notebooks
+
+Real-Time Portrait Stylization on the Edge
+https://arxiv.org/abs/2206.01244

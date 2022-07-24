@@ -1392,3 +1392,60 @@ https://arxiv.org/abs/2206.01127
 
 Multimodal Masked Autoencoders Learn Transferable Representations
 https://arxiv.org/abs/2205.14204
+
+A-OKVQA: A Benchmark for Visual Question Answering using World Knowledge
+https://arxiv.org/abs/2206.01718
+
+【book_writer：AI写作助手】’book_writer' by Sung Kim GitHub: github.com/hunkim/book_writer
+
+Revisiting the "Video" in Video-Language Understanding
+https://arxiv.org/abs/2206.01720
+
+Multimodal Contrastive Learning with LIMoE: the Language-Image Mixture of Experts
+https://arxiv.org/abs/2206.02770
+
+【PaddleMM：多模态学习工具包，以百度 PaddlePaddle 平台为主，兼容 PyTorch 提供 torch 版本，旨在于提供模态联合学习和跨模态学习算法模型库，为处理图片文本等多模态数据提供高效的解决方案，助力多模态学习应用落地】’PaddleMM - Multi-Modal learning toolkit based on PaddlePaddle and PyTorch, supporting multiple applications such as multi-modal classification, cross-modal retrieval and image caption.' by njustkmg GitHub: github.com/njustkmg/PaddleMM 
+
+【多模态学习相关资源大列表】’Awesome Multimodality - A Survey on multimodal learning research.' by Sanctuary GitHub: github.com/Yutong-Zhou-cv/Awesome-Multimodality 
+
+[CV]《GLIPv2: Unifying Localization and Vision-Language Understanding》H Zhang, P Zhang, X Hu, Y Chen, L H Li, X Dai, L Wang, L Yuan, J Hwang, J Gao [University of Washington & Microsoft & UCLA] (2022) 
+https://arxiv.org/abs/2206.05836
+
+[CL]《Language Models are General-Purpose Interfaces》Y Hao, H Song, L Dong, S Huang, Z Chi, W Wang, S Ma, F Wei [Microsoft Research] (2022)
+https://arxiv.org/abs/2206.06336
+
+[CV]《Unified-IO: A Unified Model for Vision, Language, and Multi-Modal Tasks》J Lu, C Clark, R Zellers, R Mottaghi, A Kembhavi [Allen Institute for AI] (2022) 
+https://arxiv.org/abs/2206.08916
+
+[CV]《Prefix Language Models are Unified Modal Learners》S Diao, W Zhou, X Zhang, J Wang [The Hong Kong University of Science and Technology & ByteDance AI Lab & Shanghai Jiao Tong University] (2022) 
+https://arxiv.org/abs/2206.07699
+
+[CV]《Bridge-Tower: Building Bridges Between Encoders in Vision-Language Representation Learning》X Xu, C Wu, S Rosenman, V Lal, N Duan [Microsoft Research Asia & Intel Labs] (2022)
+https://arxiv.org/abs/2206.08657
+
+[CV]《Global Context Vision Transformers》A Hatamizadeh, H Yin, J Kautz, P Molchanov [NVIDIA] (2022) 
+https://arxiv.org/abs/2206.09959
+
+[CV]《Coarse-to-Fine Vision-Language Pre-training with Fusion in the Backbone》Z Dou, A Kamath, Z Gan, P Zhang, J Wang, L Li, Z Liu, C Liu, Y LeCun, N Peng, J Gao, L Wang [Microsoft & University of California, Los Angeles & New York University] (2022) 
+https://arxiv.org/abs/2206.07643
+
+【视觉-语言预训练(VLP)最新进展】'Recent Advances in Vision-and-Language Pre-training (VLP) - Recent Advances in Vision and Language Pre-training (VLP)' by Phellon Chen GitHub: github.com/phellonchen/awesome-Vision-and-Language-Pre-training
+
+【Enso：具有视觉和文本双重表示的交互式编程语言】’Enso - Hybrid visual and textual functional programming.' GitHub: github.com/enso-org/enso
+
+[CV]《Towards Counterfactual Image Manipulation via CLIP》Y Yu, F Zhan, R Wu, J Zhang, S Lu, M Cui, X Xie, X Hua, C Miao [Nanyang Technological University & Max Planck Institute for Informatics & Alibaba Group] (2022)
+https://arxiv.org/abs/2207.02812
+
+### 【Chinese-CLIP：CLIP模型的中文版，用大规模中文数据进行训练（~2亿图文对），旨在帮助用户实现中文领域的跨模态检索、图像表示等】'Chinese-CLIP - Chinese version of CLIP which achieves Chinese cross-modal retrieval and representation generation.' by OFA Sys GitHub: github.com/OFA-Sys/Chinese-CLIP
+
+[CV]《Bootstrapped Masked Autoencoders for Vision BERT Pretraining》X Dong, J Bao, T Zhang, D Chen, W Zhang, L Yuan, D Chen, F Wen, N Yu [University of Science and Technology of China & Microsoft Research Asia & Microsoft Cloud + AI] (2022) 
+https://arxiv.org/abs/2207.07116
+
+[CV]《Multimodal Open-Vocabulary Video Classification via Pre-Trained Vision and Language Models》R Qian, Y Li, Z Xu, M Yang, S Belongie, Y Cui [Google Research & University of Copenhagen] (2022) 
+https://arxiv.org/abs/2207.07646
+
+[CV]《TokenMix: Rethinking Image Mixing for Data Augmentation in Vision Transformers》J Liu, B Liu, H Zhou, H Li, Y Liu [CUHK & SenseTime Research & CAS] (2022) 
+https://arxiv.org/abs/2207.08409
+
+[CV]《LAVA: Language Audio Vision Alignment for Contrastive Video Pre-Training》S Gurram, A Fang, D Chan, J Canny [UC Berkeley] (2022) 
+https://arxiv.org/abs/2207.08024

@@ -830,3 +830,19 @@ github.com/dpressel/mint
 
 EfficientFormer: Vision Transformers at MobileNet Speed
 https://arxiv.org/abs/2206.01191
+
+Can CNNs Be More Robust Than Transformers?
+https://arxiv.org/abs/2206.03452
+
+Peripheral Vision Transformer
+https://arxiv.org/abs/2206.06801
+
+【各种注意力机制的PyTorch实现】’External-Attention-pytorch - Pytorch implementation of various Attention Mechanism' by xmu-xiaoma66 GitHub: https:// github.com/xmu-xiaoma666/External-Attention-pytorch
+
+[CV]《M&M Mix: A Multimodal Multiview Transformer Ensemble》X Xiong, A Arnab, A Nagrani, C Schmid [Google Research] (2022) 
+https://arxiv.org/abs/2206.09852
+
+[CV]《k-means Mask Transformer》Q Yu, H Wang, S Qiao, M Collins, Y Zhu, H Adam, A Yuille, L Chen [Johns Hopkins University & Google Research] (2022) 
+https://arxiv.org/abs/2207.04044
+
+【面向视觉的Transformer】《Transformers in Vision》by Niccolò Zanichelli https:// iaml-it.github.io/posts/2021-04-28-transformers-in-vision/

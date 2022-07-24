@@ -99,3 +99,5 @@ ithub.com/nlp-uoregon/famie
 
 增量学习/持续学习/终生学习相关文献资源集
 github.com/Vision-Intelligence-and-Robots-Group/Best-Incremental-Learning
+
+【river：Python在线机器学习库】’river - a Python library for online machine learning' by OnlineML GitHub: github.com/online-ml/river
