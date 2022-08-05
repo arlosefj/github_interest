@@ -370,3 +370,6 @@ QualityScaler：Windows下的图像/视频深度学习超分辨率App ’Quality
 
 [CV]《Rethinking Alignment in Video Super-Resolution Transformers》S Shi, J Gu, L Xie, X Wang, Y Yang, C Dong [Tsinghua University & Shanghai AI Laboratory & Chinese Academy of Sciences & Tencent PCG] (2022) 
 https://arxiv.org/abs/2207.08494
+
+### [CV]《NeuriCam: Video Super-Resolution and Colorization Using Key Frames》B Veluri, A Saffari, C Pernu, J Smith, M Taylor, S Gollakota [University of Washington] (2022) 
+https://arxiv.org/abs/2207.12496

@@ -644,3 +644,11 @@ github.com/TencentGameMate/chinese_speech_pretrain
 【KeyPhraseTransformer：基于T5 transformer的关键词/主题抽取工具】’KeyPhraseTransformer - Quickly extract key-phrases/topics from you text data with T5 transformer' by Shivanand Roy GitHub: github.com/Shivanandroy/KeyPhraseTransformer
 
 【Holmes：基于谓词逻辑的英德文本信息提取】'Holmes - Information extraction from English and German texts based on predicate logic' by Explosion GitHub: github.com/explosion/holmes-extractor 
+
+'中文文本语义匹配模型集锦' by shawroad GitHub: github.com/shawroad/Semantic-Textual-Similarity-Pytorch
+
+【PyTextClassifier：开箱即用的文本分类工具包，包括LR，Xgboost，TextCNN，FastText，BiLSTM_Attention，BERT等模型实现】’PyTextClassifier - pytextclassifier is a toolkit for text classification' by xuming GitHub: github.com/shibing624/pytextclassifier 
+
+【Efficient Large LM Trainer：大语言模型的高效训练】’Efficient Large LM Trainer' by Microsoft GitHub: github.com/microsoft/Efficient-Large-LM-Trainer
+
+【EasyNLP：易于使用的综合NLP工具包】'EasyNLP: A Comprehensive and Easy-to-use NLP Toolkit - EasyNLP: A Comprehensive and Easy-to-use NLP Toolkit' by Alibaba GitHub: github.com/alibaba/EasyNLP

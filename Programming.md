@@ -204,4 +204,10 @@ GitHub：github.com/qiangmzsx/Software-Engineering-at-Google
 
 GitHub 上的开源技术教程：《Effective Debugging》中文翻译版，主要讲述如何更有效率地调试大型程序（以 C/C++ 为例）的方法和技能。
 书中例子不仅丰富，而且都是从实际的工作经验提取，观点和方法有效且具有可行性。
-GitHub：github.com/Celthi/effective-debugging-zh ​​​​
+GitHub：github.com/Celthi/effective-debugging-zh 
+
+GitHub 上的开源技术教程：《操作系统导论》中文版（Operating Systems:Three Easy Pieces）。
+该书共有 50 个章节，内容深入浅出，围绕操作系统的虚拟化、并发、持久性展开讲解，涉及进程与进程、锁、CPU 调度、文件系统实现、分布式系统等知识点。
+GitHub：github.com/remzi-arpacidusseau/ostep-translations
+
+'git-machete - Probably the sharpest git repository organizer & rebase/merge workflow automation tool you've ever seen' by VirtusLab GitHub: github.com/VirtusLab/git-machete

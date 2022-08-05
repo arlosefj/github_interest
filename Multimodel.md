@@ -1449,3 +1449,32 @@ https://arxiv.org/abs/2207.08409
 
 [CV]《LAVA: Language Audio Vision Alignment for Contrastive Video Pre-Training》S Gurram, A Fang, D Chan, J Canny [UC Berkeley] (2022) 
 https://arxiv.org/abs/2207.08024
+
+[CV]《Semantic Abstraction: Open-World 3D Scene Understanding from 2D Vision-Language Models》H Ha, S Song [Columbia University] (2022) 
+https://arxiv.org/abs/2207.11514
+
+[CV]《Learning Visual Representation from Modality-Shared Contrastive Language-Image Pre-training》H You, L Zhou, B Xiao, N Codella, Y Cheng, R Xu, S Chang, L Yuan [Columbia University & Microsoft Cloud and AI & Microsoft Research] (2022)
+https://arxiv.org/abs/2207.12661
+
+[CL]《RealTime QA: What's the Answer Right Now?》J Kasai, K Sakaguchi, Y Takahashi, R L Bras, A Asai, X Yu, D Radev, N A. Smith, Y Choi, K Inui [University of Washington & Allen Institute for AI & Tohoku University & Yale University] (2022) 
+https://arxiv.org/abs/2207.13332
+
+[CV]《WinoGAViL: Gamified Association Benchmark to Challenge Vision-and-Language Models》Y Bitton, N B Guetta, R Yosef, Y Elovici, M Bansal, G Stanovsky, R Schwartz [The Hebrew University of Jerusalem & Ben Gurion University & University of North Carolina at Chapel Hill] (2022) 
+https://arxiv.org/abs/2207.12576
+
+[CV]《Retrieval-Augmented Transformer for Image Captioning》S Sarto, M Cornia, L Baraldi, R Cucchiara [University of Modena and Reggio Emilia] (2022) 
+https://arxiv.org/abs/2207.13162
+
+【Multi-modal-Deep-Learning：多模态深度学习进展追踪】’Multi-modal-Deep-Learning' by Jingfeng Yang GitHub: github.com/JingfengYang/Multi-modal-Deep-Learning 
+
+[CV]《Curriculum Learning for Data-Efficient Vision-Language Alignment》T Srinivasan, X Ren, J Thomason [University of Southern California] (2022)
+https://arxiv.org/abs/2207.14525
+
+[CV]《Video Question Answering with Iterative Video-Text Co-Tokenization》A Piergiovanni, K Morton, W Kuo, M S. Ryoo, A Angelova [Google Research & MIT] (2022) 
+https://arxiv.org/abs/2208.00934
+
+[CV]《An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion》R Gal, Y Alaluf, Y Atzmon, O Patashnik, A H. Bermano, G Chechik, D Cohen-Or [Tel-Aviv University & NVIDIA] (2022) 
+https://arxiv.org/abs/2208.01618
+
+[CV]《Masked Vision and Language Modeling for Multi-modal Representation Learning》G Kwon, Z Cai, A Ravichandran, E Bas, R Bhotika, S Soatto [AWS AI Labs] (2022) 
+https://arxiv.org/abs/2208.02131

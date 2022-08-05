@@ -1704,3 +1704,12 @@ https://www.cs.ubc.ca/~schmidtm/Courses/LecturesOnML/
 国内一位开发者在 GitHub 开源的数据分析项目库：bigdata_analyse，收集了多个数据分析项目集合。
 每个项目都会包含一个友好的说明文档，用来阐述和展示整个开发流程。同时也会提供相关的数据集，以供下载练习。
 GitHub：github.com/TurboWay/bigdata_analyse ​​​​
+
+【机器学习数学基础】《Mathematics for Machine Learning》by Garrett Thomas [UC Berkeley] (2018) gwthomas.github.io/docs/math4ml.pdf ​​​​
+
+【免费书：机器学习全面指南(CS189讲义)】《A Comprehensive Guide to Machine Learning》by Soroush Nasiriany, Garrett Thomas, William Wang, Alex Yang, Jennifer Listgarten, Anant Sahai [UC Berkeley] (2019) 
+http://snasiriany.me/files/ml-book.pdf
+
+【Monitoring ML：了解如何监视机器学习系统，以在模型性能衰减之前识别和解决漂移源】'Monitoring ML - Learn how to monitor ML systems to identify and mitigate sources of drift before model performance decay.' by Goku Mohandas GitHub: github.com/GokuMohandas/monitoring-ml
+
+'SMPL human model visualizer in Python' by Haotian Zhang GitHub: github.com/Haotianz94/smpl_visualizer 

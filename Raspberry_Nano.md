@@ -167,3 +167,5 @@ GitHub：github.com/joeycastillo/The-Open-Book
 《树莓派编程实用教程》，全书共 31000 字，提供 20 多个树莓派应用实例，适合想在树莓派开发项目的工程师、学生参考学习。
 此外，该书还涵盖 Python，Linux 命令，C/C++，OpenCV，Darknet 等相关知识。
 github.com/wxlscm/raspberry_tutorial
+
+'learning-cuda-trt - A large number of cuda/tensorrt cases . 大量案例来学习CUDA/TensorRT’ by shouxieai GitHub: github.com/shouxieai/learning-cuda-trt

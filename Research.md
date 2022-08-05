@@ -254,3 +254,9 @@ GitHub：github.com/OpenMindClub/awesome-scholarly-productivity ​​​​
 
 【论文开题报告撰写备忘清单】《How To Write a (Thesis / Dissertation) Proposal》
 https://law.xmu.edu.cn/__local/C/50/A6/8949079917E598AF39968777D8F_A60C45FB_E671.pdf?e=.pdf
+
+【Paper Writing Tips：论文撰写投稿技巧(中文)】’Paper Writing Tips' by MLNLP-World GitHub: github.com/MLNLP-World/Paper_Writing_Tips 
+
+【读论文新体验：语音朗读arXiv论文】’arxiv-reader - Reads arXiv papers using Text-to-Speech' by Dr. Tristan Behrens GitHub: github.com/AI-Guru/arxiv-reader
+
+【paperscraper：从pubmed, arxiv, medrxiv and chemrxiv等网站爬取论文信息】’paperscraper - Tools to scrape publication metadata from pubmed, arxiv, medrxiv and chemrxiv.' by PhosphorylatedRabbits GitHub: github.com/PhosphorylatedRabbits/paperscraper

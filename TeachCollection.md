@@ -69,3 +69,16 @@ https://fleuret.org/dlc/
 https://chris-said.io/2020/12/26/two-things-that-confused-me-about-cross-entropy/
 
 '算法工程师-机器学习面试题总结' by Jingwei Zheng GitHub: github.com/zhengjingwei/machine-learning-interview
+
+【机器学习/计算机视觉/计算机科学闪卡(Flashcard)集】’Machine Learning Research & Engineering - Flashcards - 200+ detailed flashcards useful for reviewing topics in machine learning, computer vision, and computer science.' by Brandon Leung GitHub: github.com/b7leung/MLE-Flashcards
+
+【Data-Science-Interview-Questions：数据科学面试题集】’Data-Science-Interview-Questions' by Youssef Hosni GitHub: github.com/youssefHosni/Data-Science-Interview-Questions
+
+麻省理工大学教授在 GitHub 开源的：《数据科学工具学习指南》。
+主要讲解如何使用 SQL 检索数据，R 语言操作数据，Python 数据可视化，Git 代码版本控制，以及常见的 Bash 脚本使用技巧等内容。
+GitHub：github.com/shervinea/mit-15-003-data-science-tools
+教程开放的主要目的，在于帮助开发者能更快理解数据检索、数据处理、数据可视化等技术概念。
+
+【cx_Freeze：跨平台将Python转换成独立可执行程序】’cx_Freeze - Create standalone executables from Python scripts, with the same performance and is cross-platform.' by Marcelo Duarte GitHub: github.com/marcelotduarte/cx_Freeze 
+
+'从零构建AI推理引擎系列 - 关于自建AI推理引擎的手册，从0开始你需要知道的所有事情' by JinTian GitHub: github.com/jinfagang/AI-Infer-Engine-From-Zero

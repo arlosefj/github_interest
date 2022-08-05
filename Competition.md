@@ -347,3 +347,5 @@ Kaggle Competitions Master之路(心得&经验分享)
 amontgomerie.github.io/2022/02/10/kaggle-journey.html 
 
 【Kaggle Happywhale鲸/海豚识别比赛第一名方案分享】’1st Place Solution of Kaggle Happywhale Competition' by Kenshin Abe GitHub: github.com/knshnb/kaggle-happywhale-1st-place 
+
+【Kaggle Pipeline for Kaggle TPS August 2022：Kaggle表格数据竞赛基础pipeline】’Kaggle Pipeline for Kaggle TPS August 2022 - Kaggle Pipeline for tabular data competitions' by Arnab Biswas GitHub: github.com/arnabbiswas1/kaggle_pipeline_tps_aug_22

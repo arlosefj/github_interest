@@ -1104,3 +1104,6 @@ https://arxiv.org/abs/2207.02696
 'yolov7-opencv-onnxrun-cpp-py - 分别使用OpenCV、ONNXRuntime部署YOLOV7目标检测，一共包含14个onnx模型，包含C++和Python两个版本的程序' by hpc203 GitHub: github.com/hpc203/yolov7-opencv-onnxrun-cpp-py 
 
 【YOLOv5-Lite：方便部署的YOLOv5轻量高性能版】’YOLOv5-Lite: lighter, faster and easier to deploy. Evolved from yolov5 and the size of model is only 1.7M (int8) and 3.3M (fp16). It can reach 10+ FPS on the Raspberry Pi 4B when the input size is 320×320~' by ppogg GitHub: https:// github.com/ppogg/YOLOv5-Lite 
+
+[CV]《Unknown-Aware Object Detection: Learning What You Don't Know from Videos in the Wild》X Du, X Wang, G Gozum, Y Li [University of Wisconsin-Madison & Microsoft Research] (2022) 
+https://arxiv.org/abs/2203.03800

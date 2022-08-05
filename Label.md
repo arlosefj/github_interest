@@ -339,3 +339,5 @@ github.com/cnyvfang/labelGo-Yolov5AutoLabelImg
 
 【ImageNet Annotation Tool - Frontend (FE)：ImageNet标注工具(前端)】’ImageNet Annotation Tool - Frontend (FE)' by NAVER AI GitHub: github.com/naver-ai/imagenet-annotation-tool 
 
+【Intelligent Pixel Annotation Tool (IPAT)：web版交互式像素级图像标注工具】’Intelligent Pixel Annotation Tool (IPAT) - A web based interactive image annotation tool.' by KunyangHan GitHub: github.com/KunyangHan/Intelligent-Pixel-Annotation-Tool 
+

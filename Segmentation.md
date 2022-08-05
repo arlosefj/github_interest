@@ -1371,3 +1371,10 @@ https://arxiv.org/abs/2207.07115
 
 [CV]《Highly Accurate Dichotomous Image Segmentation》X Qin, H Dai, X Hu, D Fan, L Shao, a L V Gool [MBZUAI & TUM & ETH Zurich & Terminus Group] (2022) 
 https://arxiv.org/abs/2203.03041
+
+【视频目标分割参考项目列表】’Awesome-Referring-Video-Object-Segmentation - Referring Video Object Segmentation Repos' by JerryX1110 GitHub: github.com/JerryX1110/awesome-rvos
+
+【CBIM-Medical-Image-Segmentation：PyTorch医学图像分割框架】’CBIM-Medical-Image-Segmentation' by yhygao GitHub: github.com/yhygao/CBIM-Medical-Image-Segmentation 
+
+[CV]《MinVIS: A Minimal Video Instance Segmentation Framework without Video-based Training》D Huang, Z Yu, A Anandkumar [NVIDIA] (2022) 
+https://arxiv.org/abs/2208.02245

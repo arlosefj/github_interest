@@ -285,3 +285,9 @@ GitHub：github.com/hpcaitech/ColossalAI
 ### 【DeepFit：健身人体姿态跟踪】’DeepFit - tracks your body movements throughout a workout' by Naman Arora GitHub: github.com/namanarora42/DeepFit
 
 ### 【GymLytics：健身姿态视觉分析】’GymLytics - Visual Analytics of different exercises for humans' by Akshay Bahadur GitHub: github.com/akshaybahadur21/GymLytics
+
+【Robustar：鲁棒视觉分类交互式工具箱】'Robustar - Interactive Toolbox for Robust Vision Classification' by Haohan Wang GitHub: github.com/HaohanWang/Robustar 
+
+【PyMLpipe：用于简化机器学习模型监控和部署的Python库】’PyMLpipe - a Python library for ease Machine Learning Model monitoring and Deployment’ by neelindresh GitHub: github.com/neelindresh/pymlpipe 
+
+【EasyVtuber：Vtuber换脸直播工具】’EasyVtuber - tha3, but run 40fps on 3080 with virtural webcam support' by yuzhongliang22 GitHub: github.com/yuyuyzl/EasyVtuber

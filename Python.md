@@ -941,3 +941,11 @@ GitHub：github.com/handsondataviz/book ​​​​
 'Barfi - Python Flow Based Programming environment that provides a graphical programming environment.' by Adithya Krishnan GitHub: github.com/krish-adi/barfi
 
 'TLNewsSpider-舆情信息获取 - 狠心开源企业级舆情爬虫项目：支持任意数量爬虫一键运行、爬虫定时任务、爬虫批量删除；爬虫一键部署；爬虫监控可视化; 配置集群爬虫分配策略；现成的docker一键部署' by silva GitHub: github.com/casual-silva/NewsCrawl
+
+【MPL Plotter：构建在Matplotlib之上的Python绘图库，旨在简明地提供出版级质量的绘图】'MPL Plotter - Pa Python plotting library built on top of Matplotlib with the goal of delivering publication-quality plots concisely.' by Antonio López Rivera GitHub: github.com/alopezrivera/mpl_plotter 
+
+【Pycom: 跨平台Python编译器，可获得20-30倍于Python解释器的速度，比pypy还要快】’Pycom: A Python Compiler - A Python compiler, down to native code, using C++' by Omar GitHub: github.com/Omyyyy/pycom
+
+MLScraper，一个开源的 Python 爬虫脚本，可基于机器学习自动从 HTML 页面中抓取数据。
+在给爬虫提供输出结果的示例后，它便会自动提取规则，对页面数据进行抓取，整个过程无需指定 CSS 选择器。
+GitHub：github.com/lorey/mlscraper ​​​​

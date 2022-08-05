@@ -873,3 +873,9 @@ github.com/KevinMusgrave/pytorch-metric-learning
 推荐一本 AI 技术书籍：《Pytorch 常用函数手册》，手册分为 14 章，内含超 200 个常用函数。
 从最基础的创建张量开始，逐步加深，涵盖日常开发常用的函数。感兴趣的同学，可以领取学习一下。
 https://githubdaily.gitee.io/posts/2022-07-21-pytorch-book/
+
+【PyTorch深度学习入门课程资料】’Learn PyTorch for Deep Learning (work in progress) - Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.' by Daniel Bourke GitHub: github.com/mrdbourke/pytorch-deep-learning
+
+【Sparsebit：PyTorch模型压缩/加速工具包】’Sparsebit - A model compression and acceleration toolbox based pytorch.' by MEGVII Research GitHub: github.com/megvii-research/Sparsebit 
+
+'PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more' by Ross Wightman GitHub: github.com/rwightman/pytorch-image-models

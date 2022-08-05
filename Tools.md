@@ -1180,3 +1180,7 @@ https://www.bilibili.com/video/bv1AU4y1B7gd?vd_source=fade59d07328dbcb9a0988b7ce
 'Papyri - a set of tools to build, publish (future functionality - to be done), install and render documentation within IPython and Jupyter’ by Jupyter GitHub: github.com/jupyter/papyri 
 
 【Superset：数据可视化和数据探索平台】'Superset - Apache Superset is a Data Visualization and Data Exploration Platform' by The Apache Software Foundation GitHub: https:// github.com/apache/superset
+
+【Pretty Jupyter：由Jupyter Notebook创建漂亮的动态HTML报告(可控制代码是否显示)】’Pretty Jupyter - Creates dynamic html report from jupyter notebook.' by Jan Palasek GitHub: github.com/JanPalasek/pretty-jupyter 
+
+【Livebook：基于构建的交互式协作编程笔记本(Elixir)】’Livebook - Interactive and collaborative code notebooks - made with Phoenix LiveView.' by Numerical Elixir (Nx) GitHub: https:// github.com/elixir-nx/livebook

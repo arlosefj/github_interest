@@ -732,3 +732,6 @@ github.com/sukumo28/vscode-audio-preview
 'FastASR - 基于PaddleSpeech所使用的conformer模型，使用C++的高效实现模型推理，在树莓派4B等ARM平台运行也可流畅运行' by chenkui164 GitHub: github.com/chenkui164/FastASR
 
 【Open Text to Speech Server：开源多语言文本语音合成服务器】’Open Text to Speech Server - Open Text to Speech Server' by Michael Hansen GitHub: github.com/synesthesiam/opentts
+
+GitHub 上的开源技术教程：《语音增强初探》，主要讲解语音增强技术相关的技术解析，以及模型应用。
+GitHub：github.com/WenzheLiu-Speech/The-guidebook-of-speech-enhancement ​​​​

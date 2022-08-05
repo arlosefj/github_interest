@@ -1104,3 +1104,9 @@ poloclub.github.io/ganlab/
 
 One-Shot Adaptation of GAN in Just One CLIP
 https://arxiv.org/abs/2203.09301
+
+[CV]《Rewriting Geometric Rules of a GAN》S Wang, D Bau, J Zhu [CMU & Northeastern University] (2022) 
+https://arxiv.org/abs/2207.14288
+
+[CV]《3D Cartoon Face Generation with Controllable Expressions from a Single GAN Image》H Wang, G Lin, S C. H. Hoi, C Miao [Nanyang Technological University & Singapore Management University] (2022)
+https://arxiv.org/abs/2207.14425

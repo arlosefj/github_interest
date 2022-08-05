@@ -708,3 +708,6 @@ github.com/deepinsight/insightface
 【换脸检测相关文献工具资源大列表】’Awesome Deepfakes Detection - A list of tools, papers and code related to Deepfake Detection.' by Daichi Zhang GitHub: github.com/Daisy-Zhang/Awesome-Deepfakes-Detection 
 
 【Awesome Face Generation：人脸生成相关文献资源列表】’Awesome Face Generation - Basic GAN frameworks and approaches for face swap, reenactment, and stylizing.' by Jiangning Zhang GitHub: github.com/zhangzjn/awesome-face-generation
+
+[CV]《Multiface: A Dataset for Neural Face Rendering》C Wuu, N Zheng, S Ardisson, R Bali, D Belko, E Brockmeyer, L Evans, T Godisart, H Ha, A Hypes, T Koska, S Krenn, S Lombardi, X Luo, K McPhail, L Millerschoen... [Meta Reality Labs Research] (2022) 
+https://arxiv.org/abs/2207.11243v1

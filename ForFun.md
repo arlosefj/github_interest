@@ -498,3 +498,5 @@ github.com/iperov/DeepFaceLive
 
 BangBang：跟神经网络比赛“打炮”(网页版)，谁先调好角度力道打中对方谁就赢了
 github.com/victorqribeiro/bangBang
+
+[文言文白话文互转：文言文转白话文（现代文），白话文（现代文）转文言文](https://github.com/NiuTrans/Classical-Modern)

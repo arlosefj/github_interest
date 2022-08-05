@@ -345,3 +345,5 @@ github.com/jiseongHAN/Super-Mario-RL
 
 复旦魏忠钰老师手把手教你学强化学习
 https://space.bilibili.com/471559565/channel/seriesdetail?sid=2413153
+
+'MO-Gym: Multi-Objective Reinforcement Learning Environments' by Lucas Alegre GitHub: github.com/LucasAlegre/mo-gym

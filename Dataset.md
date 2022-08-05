@@ -943,3 +943,8 @@ https://ai.googleblog.com/2022/06/scanned-objects-by-google-research.html
 【CelebA-Dialog Dataset：带有细粒度标注的大型视觉-语言人脸数据集】'CelebA-Dialog Dataset - A large-scale visual-language face dataset with fine-grained annotations' by ziqihuangg GitHub: github.com/ziqihuangg/CelebA-Dialog 
 
 【CelebV-HQ: 大规模视频人脸属性数据集】'[ECCV 2022] CelebV-HQ: A Large-Scale Video Facial Attributes Dataset' GitHub: github.com/CelebV-HQ/CelebV-HQ 
+
+【WorldStrat：地表高分辨率卫星图像数据集】’WorldStrat - The WorldStrat Dataset' GitHub: github.com/worldstrat/worldstrat
+
+[CV]《CelebV-HQ: A Large-Scale Video Facial Attributes Dataset》H Zhu, W Wu, W Zhu, L Jiang, S Tang, L Zhang, Z Liu, C C Loy [SenseTime Research & Peking University & Nanyang Technological University] (2022) 
+https://arxiv.org/abs/2207.12393

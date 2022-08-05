@@ -846,3 +846,10 @@ https://arxiv.org/abs/2206.09852
 https://arxiv.org/abs/2207.04044
 
 【面向视觉的Transformer】《Transformers in Vision》by Niccolò Zanichelli https:// iaml-it.github.io/posts/2021-04-28-transformers-in-vision/
+
+TinyViT: Fast Pretraining Distillation for Small Vision Transformers
+https://arxiv.org/abs/2207.10666
+
+【BMList：大模型大列表】’BMList - A List of Big Models' by OpenBMB GitHub: github.com/OpenBMB/BMList
+
+【视觉Transformer及其下游任务相关工作资源大列表】’Awesome Vision Transformer Collection - Variants of Vision Transformer and its downstream tasks' by Runwei Guan GitHub: github.com/GuanRunwei/Awesome-Vision-Transformer-Collection 

@@ -159,3 +159,5 @@ github.com/belosthomas/libCML
 【Open3D SLAM: 基于点云的教学用SLAM系统】'Open3D SLAM: A Flexible Pointcloud-based SLAM System using open3D library for Education' by Robotic Systems Lab - Legged Robotics at ETH Zürich GitHub: github.com/leggedrobotics/open3d_slam
 
 【X-SLAM：手把手入门SLAM】’X-SLAM - You can learn slam step by step，there are lot of tutorials' by duyongquan GitHub: github.com/duyongquan/LTSLAM
+
+'多传感器定位融合学习笔记' by kahowang GitHub: github.com/kahowang/sensor-fusion-for-localization-and-mapping

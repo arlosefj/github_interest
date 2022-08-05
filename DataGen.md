@@ -526,3 +526,6 @@ github.com/IDLabMedia/large-lightfields-dataset
 
 Text2Human: Text-Driven Controllable Human Image Generation
 https://arxiv.org/abs/2205.15996
+
+[CV]《Image Augmentation for Satellite Images》O Adedeji, P Owoade, O Ajayi, O Arowolo [CMU] (2022) 
+https://arxiv.org/abs/2207.14580

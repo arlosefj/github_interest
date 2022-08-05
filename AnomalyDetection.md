@@ -180,3 +180,7 @@ github.com/DHI/tsod
 
 表面缺陷研究相关数据集与文献列表
 github.com/Charmve/Surface-Defect-Detection
+
+【最新异常检测算法实现大列表】’Implementation of SOTA Deep Anomaly Detection Methods' by GuansongPang GitHub: github.com/GuansongPang/SOTA-Deep-Anomaly-Detection
+
+ADRepository: 现实世界异常检测数据集】'ADRepository: Real-world anomaly detection datasets' by GuansongPang GitHub: github.com/GuansongPang/ADRepository-Anomaly-detection-datasets

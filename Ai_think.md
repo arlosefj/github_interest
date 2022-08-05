@@ -297,3 +297,9 @@ https://www.shreya-shankar.com/phd-year-one/
 
 [CV]《Performance degradation of ImageNet trained models by simple image transformations》H Maheshwari [Georgia Institute of Technology] (2022)
 https://arxiv.org/abs/2207.08079
+
+[CV]《Is an Object-Centric Video Representation Beneficial for Transfer?》C Zhang, A Gupta, A Zisserman [University of Oxford & DeepMind] (2022) 
+https://arxiv.org/abs/2207.10075
+
+[LG]《Datamodels: Predicting Predictions from Training Data》A Ilyas, S M Park, L Engstrom, G Leclerc, A Madry [MIT] (2022)
+https://arxiv.org/abs/2202.00622

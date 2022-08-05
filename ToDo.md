@@ -222,3 +222,5 @@ openbmb 大模型全流程高效计算工具链，涵盖训练、微调、压缩
 https://www.openbmb.org/home
 
 '《通用视觉框架 OpenMMLab》 公开课' by wangruohui GitHub: github.com/wangruohui/OpenMMLabCourse 
+
+【MLOps Course：基于项目的MLOps实战课程】’MLOps Course - A project-based course on the foundations of MLOps with a focus on intuition and application.' by Goku Mohandas GitHub: github.com/GokuMohandas/mlops-course 
