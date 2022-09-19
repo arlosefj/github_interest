@@ -1184,3 +1184,15 @@ https://www.bilibili.com/video/bv1AU4y1B7gd?vd_source=fade59d07328dbcb9a0988b7ce
 【Pretty Jupyter：由Jupyter Notebook创建漂亮的动态HTML报告(可控制代码是否显示)】’Pretty Jupyter - Creates dynamic html report from jupyter notebook.' by Jan Palasek GitHub: github.com/JanPalasek/pretty-jupyter 
 
 【Livebook：基于构建的交互式协作编程笔记本(Elixir)】’Livebook - Interactive and collaborative code notebooks - made with Phoenix LiveView.' by Numerical Elixir (Nx) GitHub: https:// github.com/elixir-nx/livebook
+
+【用Docusaurus创建Jupyter notebooks的可测试、可复现、适合博客发布的文档形式】’Create Testable, Reproduceable Docs and Blogs With Jupyter notebooks' by Outerbounds GitHub: github.com/outerbounds/nbdoc-docusaurus 
+
+GitHub 上又一个开源的 Notion 替代品：AFFiNE，一款功能颇为强大的知识库管理工具。
+界面样式清新简洁、支持所见即所得的编辑和排版，拥有基于 Markdown 的多任务管理、多人实时协作。私密性强，可在本地自部署，目前项目仍在持续更新迭代。
+GitHub：github.com/toeverything/AFFiNE 
+
+推荐一款比较实用的 Python 脚本工具：pyWhat，能够快速提取信息中的 IP 地址、邮箱、信用卡、数字货币钱包地址、YouTube 视频等内容。
+GitHub：github.com/bee-san/pyWhat
+不仅如此，pyWhat 还可对文件和目录进行扫描，通过递归搜索，快速获取核心信息，并对结果进行筛选、过滤、排序、导出等操作。 ​​​​
+
+【eInk VNC：适合eInk屏的命令行VNC远程屏幕浏览工具】’eInk VNC' by Maxim Marshall GitHub: github.com/everydayanchovies/eink-vnc 

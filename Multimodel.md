@@ -1438,16 +1438,16 @@ https://arxiv.org/abs/2207.02812
 
 ### 【Chinese-CLIP：CLIP模型的中文版，用大规模中文数据进行训练（~2亿图文对），旨在帮助用户实现中文领域的跨模态检索、图像表示等】'Chinese-CLIP - Chinese version of CLIP which achieves Chinese cross-modal retrieval and representation generation.' by OFA Sys GitHub: github.com/OFA-Sys/Chinese-CLIP
 
-[CV]《Bootstrapped Masked Autoencoders for Vision BERT Pretraining》X Dong, J Bao, T Zhang, D Chen, W Zhang, L Yuan, D Chen, F Wen, N Yu [University of Science and Technology of China & Microsoft Research Asia & Microsoft Cloud + AI] (2022) 
+✅[CV]《Bootstrapped Masked Autoencoders for Vision BERT Pretraining》X Dong, J Bao, T Zhang, D Chen, W Zhang, L Yuan, D Chen, F Wen, N Yu [University of Science and Technology of China & Microsoft Research Asia & Microsoft Cloud + AI] (2022) 
 https://arxiv.org/abs/2207.07116
 
-[CV]《Multimodal Open-Vocabulary Video Classification via Pre-Trained Vision and Language Models》R Qian, Y Li, Z Xu, M Yang, S Belongie, Y Cui [Google Research & University of Copenhagen] (2022) 
+✅[CV]《Multimodal Open-Vocabulary Video Classification via Pre-Trained Vision and Language Models》R Qian, Y Li, Z Xu, M Yang, S Belongie, Y Cui [Google Research & University of Copenhagen] (2022) 
 https://arxiv.org/abs/2207.07646
 
-[CV]《TokenMix: Rethinking Image Mixing for Data Augmentation in Vision Transformers》J Liu, B Liu, H Zhou, H Li, Y Liu [CUHK & SenseTime Research & CAS] (2022) 
+✅[CV]《TokenMix: Rethinking Image Mixing for Data Augmentation in Vision Transformers》J Liu, B Liu, H Zhou, H Li, Y Liu [CUHK & SenseTime Research & CAS] (2022) 
 https://arxiv.org/abs/2207.08409
 
-[CV]《LAVA: Language Audio Vision Alignment for Contrastive Video Pre-Training》S Gurram, A Fang, D Chan, J Canny [UC Berkeley] (2022) 
+✅[CV]《LAVA: Language Audio Vision Alignment for Contrastive Video Pre-Training》S Gurram, A Fang, D Chan, J Canny [UC Berkeley] (2022) 
 https://arxiv.org/abs/2207.08024
 
 [CV]《Semantic Abstraction: Open-World 3D Scene Understanding from 2D Vision-Language Models》H Ha, S Song [Columbia University] (2022) 
@@ -1462,7 +1462,7 @@ https://arxiv.org/abs/2207.13332
 [CV]《WinoGAViL: Gamified Association Benchmark to Challenge Vision-and-Language Models》Y Bitton, N B Guetta, R Yosef, Y Elovici, M Bansal, G Stanovsky, R Schwartz [The Hebrew University of Jerusalem & Ben Gurion University & University of North Carolina at Chapel Hill] (2022) 
 https://arxiv.org/abs/2207.12576
 
-[CV]《Retrieval-Augmented Transformer for Image Captioning》S Sarto, M Cornia, L Baraldi, R Cucchiara [University of Modena and Reggio Emilia] (2022) 
+✅[CV]《Retrieval-Augmented Transformer for Image Captioning》S Sarto, M Cornia, L Baraldi, R Cucchiara [University of Modena and Reggio Emilia] (2022) 
 https://arxiv.org/abs/2207.13162
 
 【Multi-modal-Deep-Learning：多模态深度学习进展追踪】’Multi-modal-Deep-Learning' by Jingfeng Yang GitHub: github.com/JingfengYang/Multi-modal-Deep-Learning 
@@ -1476,5 +1476,22 @@ https://arxiv.org/abs/2208.00934
 [CV]《An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion》R Gal, Y Alaluf, Y Atzmon, O Patashnik, A H. Bermano, G Chechik, D Cohen-Or [Tel-Aviv University & NVIDIA] (2022) 
 https://arxiv.org/abs/2208.01618
 
-[CV]《Masked Vision and Language Modeling for Multi-modal Representation Learning》G Kwon, Z Cai, A Ravichandran, E Bas, R Bhotika, S Soatto [AWS AI Labs] (2022) 
+✅[CV]《Masked Vision and Language Modeling for Multi-modal Representation Learning》G Kwon, Z Cai, A Ravichandran, E Bas, R Bhotika, S Soatto [AWS AI Labs] (2022) 
 https://arxiv.org/abs/2208.02131
+
+[CV]《Expanding Language-Image Pretrained Models for General Video Recognition》B Ni, H Peng, M Chen, S Zhang, G Meng, J Fu, S Xiang, H Ling [Microsoft Research & Chinese Academy of Sciences & Stony Brook University & University of Rochester] (2022) 
+https://arxiv.org/abs/2208.02816
+
+[CL]《Prompt Tuning for Generative Multimodal Pretrained Models》H Yang, J Lin, A Yang, P Wang, C Zhou, H Yang [DAMO Academy] (2022) 
+https://arxiv.org/abs/2208.02532
+
+✅[CV]《Masked Feature Prediction for Self-Supervised Visual Pre-Training》C Wei, H Fan, S Xie, C Wu, A Yuille, C Feichtenhofer [Facebook AI Research & Johns Hopkins University] (2022)
+https://arxiv.org/abs/2112.09133
+
+大家主要用的vision-language pretraining的model是啥？
+vinvl
+
+[CV]《Text-to-Image Generation via Implicit Visual Guidance and Hypernetwork》X Yuan, Z Lin, J Kuen, J Zhang, J Collomosse [University of Chicago & Adobe Research] (2022) 
+https://arxiv.org/abs/2208.08493
+
+【Chinese-CLIP：CLIP模型的中文版本，使用大规模中文数据进行训练(~2亿图文对)，旨在帮助用户实现中文领域的跨模态检索、图像表示等】'Chinese-CLIP - Chinese version of CLIP which achieves Chinese cross-modal retrieval and representation generation.' by billjie1 GitHub: github.com/billjie1/Chinese-CLIP 

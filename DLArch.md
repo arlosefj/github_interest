@@ -853,3 +853,8 @@ https://arxiv.org/abs/2207.10666
 【BMList：大模型大列表】’BMList - A List of Big Models' by OpenBMB GitHub: github.com/OpenBMB/BMList
 
 【视觉Transformer及其下游任务相关工作资源大列表】’Awesome Vision Transformer Collection - Variants of Vision Transformer and its downstream tasks' by Runwei Guan GitHub: github.com/GuanRunwei/Awesome-Vision-Transformer-Collection 
+
+[CV]《MViTv2: Improved Multiscale Vision Transformers for Classification and Detection》Y Li, C Wu, H Fan, K Mangalam, B Xiong, J Malik, C Feichtenhofer [Facebook AI Research & UC Berkeley] (2022)
+https://arxiv.org/abs/2112.01526
+
+【基于Transformer的3D视觉相关论文列表】’3D Vision with Transformers - A list of 3D computer vision papers with Transformers' by lahoud GitHub: github.com/lahoud/3d-vision-transformers

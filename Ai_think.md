@@ -303,3 +303,10 @@ https://arxiv.org/abs/2207.10075
 
 [LG]《Datamodels: Predicting Predictions from Training Data》A Ilyas, S M Park, L Engstrom, G Leclerc, A Madry [MIT] (2022)
 https://arxiv.org/abs/2202.00622
+
+[CV]《An Impartial Take to the CNN vs Transformer Robustness Contest》F Pinto, P H.S. Torr, P K. Dokania [University of Oxford] (2022)
+https://arxiv.org/abs/2207.11347
+
+介绍下我们最近的工作，我们的论文“Knowledge Inheritance for Pre-trained Language Models”被NAACL-HLT 2022录用。在本次工作中，我们重点探讨了一个加速预训练的问题，即如何利用已经训练的 PLM 帮助未来训练更大的 PLM。具体来说，我们提出了一个名为“知识继承”（KI）的预训练框架，并探讨了知识蒸馏如何在预训练期间作为辅助监督信号来提升更大的 PLM的训练效率。实验结果证明了KI的优越性。我们还进行了系统、全面的分析，以探索已有模型的模型架构、预训练数据等设置对 KI 的影响。最后，我们表明 KI 在跨领域适配和知识迁移等方向具有很好的应用价值。该工作与腾讯微信模式识别中心合作完成。欢迎感兴趣的朋友尝试。
+论文链接：https://aclanthology.org/2022.naacl-main.288/
+代码地址：https: //github.com/thunlp/Knowledge-Inheritance

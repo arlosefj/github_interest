@@ -4265,3 +4265,151 @@ Alignment for Category-level Object Pose Refinement》(ECCV 2022) GitHub: github
 《SpERT: Span-based Entity and Relation Transformer》(2022) GitHub: github.com/lavis-nlp/spert [fig3]
 《Fast ABC-Boost: A Unified Framework for Selecting the Base Class in Multi-Class Classification》(2022) GitHub: github.com/pltrees/abcboost
 《LightHuBERT: Lightweight and Configurable Speech Representation Learning with Once-for-All Hidden-Unit BERT》(2022) GitHub: github.com/mechanicalsea/lighthubert
+《The Devil Is in the Details: Window-based Attention for Image Compression》(CVPR 2022) GitHub: github.com/Googolxx/STF ![fig8](https://wx1.sinaimg.cn/mw690/5396ee05gy1h4w6nu1plrj212f0gsgx7.jpg)
+《SETSUM: Summarization and Visualization of Student Evaluations of Teaching》(NAACL 2022) GitHub: github.com/evahuyn/SETSum
+《Morphmlp: A self-attention free, mlp-like backbone for image and video》(ECCV 2022) GitHub: github.com/MTLab/MorphMLP
+《GIMO: Gaze-Informed Human Motion Prediction in Context》(ECCV 2022) GitHub: github.com/y-zheng18/GIMO [fig5]
+《Transformers as Meta-Learners for Implicit Neural Representations》(ECCV 2022) GitHub: github.com/yinboc/trans-inr ![fig6](https://wx4.sinaimg.cn/mw690/5396ee05gy1h4w3okkscnj22080smn8k.jpg)
+《Super-Resolution by Predicting Offsets: An Ultra-Efficient Super-Resolution Network for Rasterized Images》(ECCV 2022) GitHub: github.com/HaomingCai/SRPO
+《P2P: Tuning Pre-trained Image Models for Point Cloud Analysis with Point-to-Pixel Prompting》(2022) GitHub: github.com/wangzy22/P2P ![fig1](https://wx1.sinaimg.cn/mw690/5396ee05gy1h4w3ar39z7j21gc0bu7as.jpg)
+《DeVIS: Making Deformable Transformers Work for Video Instance Segmentation》(2022) GitHub: github.com/acaelles97/DeVIS ![fig2](https://wx2.sinaimg.cn/mw690/5396ee05gy1h4w3avhdv3j21jk0uje3w.jpg)
+《SPTS: Single-Point Text Spotting》(2022) GitHub: github.com/shannanyinxiang/SPTS ![fig3](https://wx1.sinaimg.cn/mw690/5396ee05gy1h4w3ax141zj20pd03ngoh.jpg)
+《A Comparison of Discrete and Soft Speech Units for Improved Voice Conversion》(2022) GitHub: github.com/bshall/hifigan ![fig4](https://wx1.sinaimg.cn/mw690/5396ee05gy1h4w3bi35paj20pd0b8775.jpg)
+《FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness》(2022) GitHub: github.com/lucidrains/flash-cosine-sim-attention
+《AdaCat: Adaptive Categorical Discretization for Autoregressive Models》(2022) GitHub: github.com/ColinQiyangLi/AdaCat
+《What Can Transformers Learn In-Context? A Case Study of Simple Function Classes》(2022) GitHub: github.com/dtsip/in-context-learning [fig7]
+《Deep Hash Distillation for Image Retrieval》(ECCV 2022) GitHub: github.com/youngkyunJang/Deep-Hash-Distillation ![fig2](https://wx1.sinaimg.cn/mw690/5396ee05ly1h4yclihq1jj21h70n8tma.jpg)
+《S2Contact: Graph-based Network for 3D Hand-Object Contact Estimation with Semi-Supervised Learning》(ECCV 2022) GitHub: github.com/eldentse/s2contact [fig4]
+《Adaptive Inertia: Disentangling the Effects of Adaptive Learning Rate and Momentum》(ICML 2022) GitHub: github.com/zeke-xie/adaptive-inertia-adai
+《EAMM: One-Shot Emotional Talking Face via Audio-Based Emotion-Aware Motion Model》(SIGGRAPH 2022) GitHub: github.com/jixinya/EAMM
+《Enhanced Boundary Learning for Glass-like Object Segmentation》(ICCV 2021) GitHub: github.com/hehao13/EBLNet ![fig3](https://wx4.sinaimg.cn/mw690/5396ee05ly1h4ycnuuz8aj21bu0giqef.jpg)
+《Tinycd: A (Not So) Deep Learning Model for Change Detection》(2022) GitHub: github.com/AndreaCodegoni/Tiny_model_4_CD ![fig1](https://wx3.sinaimg.cn/mw690/5396ee05ly1h4yagz4x2hj21520p5n39.jpg)
+《DETRs with Hybrid Matching》(2022) GitHub: github.com/HDETR/H-PETR-3D
+《Progressive Denoising of Monte Carlo Rendered Images》(2022) GitHub: github.com/ArthurFirmino/progressive-denoising
+《An Empirical Survey of the Effectiveness of Debiasing Techniques for Pre-trained Language Models》(ACL 2022) GitHub: github.com/McGill-NLP/bias-bench
+《Learning Prior Feature and Attention Enhanced Image Inpainting》(ECCV 2022) GitHub: github.com/ewrfcas/MAE-FAR
+《Label-Free Explainability for Unsupervised Models》(ICML 2022) GitHub: github.com/JonathanCrabbe/Label-Free-XAI
+《DeepTag: A General Framework for Fiducial Marker Design and Detection》(PAMI 2022) GitHub: github.com/herohuyongtao/deeptag-pytorch [fig3]
+《S2R-DepthNet: Learning a Generalizable Depth-specific Structural Representation》(CVPR 2021) GitHub: github.com/microsoft/S2R-DepthNet ![fig6](https://wx1.sinaimg.cn/mw690/5396ee05ly1h4zd7m4r23j21fo0aon6p.jpg)
+《OIFlow: Occlusion-Inpainting Optical Flow Estimation by Unsupervised Learning》(TIP 2021) GitHub: github.com/coolbeam/OIFlow ![fig4](https://wx1.sinaimg.cn/mw690/5396ee05ly1h4zcae7f24j20si0bsgr9.jpg)
+《ViBERTgrid: A Jointly Trained Multi-Modal 2D Document Representation for Key Information Extraction from Documents》(ICDAR 2021) GitHub: github.com/ZeningLin/ViBERTgrid-PyTorch
+《DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps》(2022) GitHub: github.com/LuChengTHU/dpm-solver ![fig1](https://wx2.sinaimg.cn/mw690/5396ee05ly1h4zb90ix78j20xk0gs7qr.jpg)
+《Masked Autoencoders that Listen》(2022) GitHub: github.com/rishikksh20/AudioMAE-pytorch ![fig2](https://wx4.sinaimg.cn/mw690/5396ee05ly1h4zb9he6lyj20uw0d314o.jpg)
+《DETRs with Hybrid Matching》(2022) GitHub: github.com/HDETR/H-PETR-Pose
+《A Generalist Agent》(2022) GitHub: github.com/OrigamiDream/gato [fig5]
+《Learnable Lookup Table for Neural Network Quantization》(CVPR 2022) GitHub: github.com/The-Learning-And-Vision-Atelier-LAVA/LLT [fig7]
+《Efficient Geometry-aware 3D Generative Adversarial Networks》(CVPR 2022) GitHub: github.com/oneThousand1000/EG3D-projector ![fig11](https://wx3.sinaimg.cn/mw690/5396ee05ly1h50tzio3y0j21s00sgnpd.jpg)
+《Label, Verify, Correct: A Simple Few-Shot Object Detection Method》(CVPR 2022) GitHub: github.com/prannaykaul/lvc ![fig14](https://wx2.sinaimg.cn/mw690/5396ee05ly1h50ugc3vpyj22ge0wsx6q.jpg)
+《MbLS : The Devil is in the Margin: Margin-based Label Smoothing for Network Calibration》(CVPR 2022) GitHub: github.com/by-liu/MbLS ![fig16](https://wx4.sinaimg.cn/mw690/5396ee05ly1h50ukxepg6j20k00fr45q.jpg)
+《SQ}uant: On-the-Fly Data-Free Quantization via Diagonal Hessian Approximation》(ICLR 2022) GitHub: github.com/clevercool/SQuant
+《A Good Prompt Is Worth Millions of Parameters: Low-resource Prompt-based Learning for Vision-Language Models》(ACL 2022) GitHub: github.com/woojeongjin/FewVLM
+《GRIT: Faster and Better Image-captioning Transformer Using Dual Visual Features》(ECCV 2022) GitHub: github.com/davidnvq/grit ![fig5](https://wx2.sinaimg.cn/mw690/5396ee05ly1h50gej8nr0j21490jpalv.jpg)
+《KD-SCFNet: Towards More Accurate and Efficient Salient Object Detection via Knowledge Distillation》(ECCV 2022) GitHub: github.com/zhangjinCV/KD-SCFNet ![fig9](https://wx1.sinaimg.cn/mw690/5396ee05ly1h50tmwi49jj21eh0laq9h.jpg)
+### 《Learning From Documents in the Wild to Improve Document Unwarping》(SIGGRAPH 2022) GitHub: github.com/cvlab-stonybrook/PaperEdge ![fig15](https://wx2.sinaimg.cn/mw690/5396ee05ly1h50uk28967j22xg0u3b2c.jpg)
+《A Unified 3D Human Motion Synthesis Model via Conditional Variational Auto-Encoder》(ICCV 2021) GitHub: github.com/vanoracai/A-unified-3d-human-motion-synthesis-model-via-conditional-variational-auto-encoder [fig3]
+《RGB-D Inertial Odometry for a Resource-restricted Robot in Dynamic Environments》(2022) GitHub: github.com/HITSZ-NRSL/Dynamic-VINS [fig1]
+《Next-ViT: Next Generation Vision Transformer for Efficient Deployment in Realistic Industrial Scenarios》(2022) GitHub: github.com/bytedance/Next-ViT ![fig2](https://wx1.sinaimg.cn/mw690/5396ee05ly1h50gb98h3bj21bs1d7h8u.jpg)
+《Learning to Generate 3D Shapes from a Single Example》(2022) GitHub: github.com/ChrisWu1997/SingleShapeGen [fig4]
+《ASE: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters》(2022) GitHub: github.com/nv-tlabs/ASE [fig6]
+《Label-Free Synthetic Pretraining of Object Detectors》(2022) GitHub: github.com/princeton-vl/SOLID
+《Generalized radiograph representation learning via cross-supervision between images and free-text radiology reports》(2022) GitHub: github.com/funnyzhou/REFERS
+《FrOoDo: Framework for Out-of-Distribution Detection》(2022) GitHub: github.com/MECLabTUDA/FrOoDo [fig8]
+《Facing Changes: Continual Entity Alignment for Growing Knowledge Graphs》(2022) GitHub: github.com/nju-websoft/ContEA [fig12]
+《No-Reference Image Quality Assessment via Transformers, Relative Ranking, and Self-Consistency》(2022) GitHub: github.com/isalirezag/TReS ![fig13](https://wx1.sinaimg.cn/mw690/5396ee05ly1h50ubiyjyoj21370atdjv.jpg)
+《ViViT: Curvature access through the generalized Gauss-Newton's low-rank structure》(2022) GitHub: github.com/f-dangel/vivit
+《MedNeRF: Medical Neural Radiance Fields for Reconstructing 3D-aware CT-Projections from a Single X-ray》(2022) GitHub: github.com/abrilcf/mednerf
+《Diffsound: discrete diffusion model for text-to-sound generation》(2022) GitHub: github.com/yangdongchao/Text-to-sound-Synthesis ![fig17](https://wx1.sinaimg.cn/mw690/5396ee05ly1h50uli5g2qj20ix0dudk8.jpg)
+《LLOL: Low-Latency Odometry for Spinning Lidars》(2021) GitHub: github.com/versatran01/llol
+《Efficient Self-Ensemble Framework for Semantic Segmentation》(2021) GitHub: github.com/WalBouss/SenFormer ![fig10](https://wx4.sinaimg.cn/mw690/5396ee05ly1h50txdcc0jj21qw0s9h67.jpg)
+《Cerberus Transformer: Joint Semantic, Affordance and Attribute Parsing》(CVPR 2022) GitHub: github.com/OPEN-AIR-SUN/Cerberus
+《Text: Exploring Spatial Commonsense from Visual Signals》(ACL 2022) GitHub: github.com/xxxiaol/spatial-commonsense
+《Fine-Grained Egocentric Hand-Object Segmentation: Dataset, Model, and Applications》(ECCV 2022) GitHub: github.com/owenzlz/EgoHOS
+《Ghost-free High Dynamic Range Imaging with Context-aware Transformer》(ECCV 2022) GitHub: github.com/megvii-research/HDR-Transformer ![fig5](https://wx4.sinaimg.cn/mw690/5396ee05ly1h532st31inj20xo0bhjyn.jpg)
+《Overcoming Oscillations in Quantization-Aware Training》(ICML 2022) GitHub: github.com/Qualcomm-AI-research/oscillations-qat
+《Iterative Poisson Surface Reconstruction (iPSR) for Unoriented Points》(SIGGRAPH 2022) GitHub: github.com/houfei0801/ipsr
+《Deep Graph Matching under Quadratic Constraint》(CVPR 2021) GitHub: github.com/Zerg-Overmind/QC-DGM
+《Keys to Better Image Inpainting: Structure and Texture Go Hand in Hand》(2022) GitHub: github.com/SHI-Labs/FcF-Inpainting ![fig1](https://wx2.sinaimg.cn/mw690/5396ee05ly1h531awnby3j21eo0rckae.jpg)
+### 《MixGen: A New Multi-Modal Data Augmentation》(2022) GitHub: github.com/amazon-research/mix-generation ![fig2](https://wx2.sinaimg.cn/mw690/5396ee05ly1h531egplj5j22m10uku0z.jpg)
+《TextWorldExpress: Simulating Text Games at One Million Steps Per Second》(2022) GitHub: github.com/cognitiveailab/TextWorldExpress
+《MonoViT: Self-Supervised Monocular Depth Estimation with a Vision Transformer》(2022) GitHub: github.com/zxcqlf/MonoViT ![fig4](https://wx1.sinaimg.cn/mw690/5396ee05ly1h532s4yavhj20vr0qhazn.jpg)
+《Multimodal Masked Autoencoders Learn Transferable Representations》(2022) GitHub: github.com/young-geng/m3ae_public
+《High-Resolution Image Synthesis with Latent Diffusion Models》(2021) GitHub: github.com/CompVis/stable-diffusion
+《LEADS: Learning Dynamical Systems that Generalize Across Environments》(2021) GitHub: github.com/yuan-yin/LEADS
+《Contrastive Deep Supervision》(ECCV 2022) GitHub: github.com/ArchipLab-LinfengZhang/contrastive-deep-supervision
+《Intrinsic-Extrinsic Convolution and Pooling for Learning on 3D Protein Structures》(ICLR 2021) GitHub: github.com/phermosilla/IEConv_proteins [fig2]
+《Enforcing Temporal Consistency in Video Depth Estimation》(ICCV 2021) GitHub: github.com/yu-li/TCMonoDepth ![fig1](https://photo.weibo.com/1402400261/wbphotos/large/mid/4800957193655722/pid/5396ee05ly1h51nd3x0xsg20nq06ohdv)
+《Deep Patch Visual Odometry》(2022) GitHub: github.com/princeton-vl/DPVO
+《An Embarrassingly Easy but Strong Baseline for Nested Named Entity Recognition》(2022) GitHub: github.com/yhcc/CNN_Nested_NER
+《SimA: Simple Softmax-free Attention for Vision Transformers》(2022) GitHub: github.com/UCDvision/sima
+《Automatic Labeling to Generate Training Data for Online LiDAR-Based Moving Object Segmentation》(2022) GitHub: github.com/PRBonn/auto-mos [fig3]
+《Frozen CLIP models are Efficient Video Learners》(2022) GitHub: github.com/OpenGVLab/efficient-video-recognition ![fig4](https://wx1.sinaimg.cn/mw1024/5396ee05ly1h51raslfjej22z21741kx.jpg)
+《SawSing: A DDSP-based Singing Vocoder via Subtractive Sawtooth Waveform Synthesis》(2022) GitHub: github.com/YatingMusic/ddsp-singing-vocoders
+《KeypointNeRF: Generalizing Image-based Volumetric Avatars using Relative Spatial Encoding of Keypoints》(ECCV 2022) GitHub: github.com/facebookresearch/KeypointNeRF ![fig1](https://wx2.sinaimg.cn/mw690/5396ee05ly1h553e0ot3rj20hn092jsx.jpg)
+《Towards Sequence-Level Training for Visual Tracking》(ECCV 2022) GitHub: github.com/byminji/SLTtrack [fig2]
+《PT4AL: Using Self-Supervised Pretext Tasks for Active Learning》(ECCV 2022) GitHub: github.com/johnsk95/PT4AL
+《WaveGAN: An Frequency-aware GAN for High-Fidelity Few-shot Image Generation》(ECCV 2022) GitHub: github.com/kobeshegu/ECCV2022_WaveGAN
+《Low-Complexity Acoustic Echo Cancellation with Neural Kalman Filtering》(2022) GitHub: github.com/fjiang9/NKF-AEC
+《Patching open-vocabulary models by interpolating weights》(2022) GitHub: github.com/mlfoundations/patching [fig3]
+《Local Augmentation for Graph Neural Networks》(ICML 2022) GitHub: github.com/SongtaoLiu0823/LAGNN
+《Antibody-Antigen Docking and Design via Hierarchical Equivariant Refinement》(ICML 2022) GitHub: github.com/wengong-jin/abdockgen
+《Robust Onboard Localization in Changing Environments Exploiting Text Spotting》(IROS 2022) GitHub: github.com/PRBonn/tmcl
+《AutoRF: Learning 3D Object Radiance Fields from Single View Observations》(2022) GitHub: github.com/skyhehe123/AutoRF-pytorch
+《Conformal Risk Control》(2022) GitHub: github.com/aangelopoulos/conformal-risk
+《Bottom-Up Constituency Parsing and Nested Named Entity Recognition with Pointer Networks》(ACL 2022) GitHub: github.com/sustcsonglin/pointer-net-for-nested
+《Learning Spatiotemporal Frequency-Transformer for Compressed Video Super-Resolution》(ECCV 2022) GitHub: github.com/researchmm/FTVSR ![fig3](https://wx1.sinaimg.cn/mw690/5396ee05ly1h56a1l3bduj22in0wahdt.jpg)
+《Call for Customized Conversation: Customized Conversation Grounding Persona and Knowledge》(AAAI 2022) GitHub: github.com/pkchat-focus/FoCus
+《Deep Implicit Surface Point Prediction Networks》(ICCV 2021) GitHub: github.com/rahulvenkk/csp-net
+《Learning a Sketch Tensor Space for Image Inpainting of Man-made Scenes》(CVPR 2021) GitHub: github.com/ewrfcas/MST_inpainting ![fig4](https://wx4.sinaimg.cn/mw690/5396ee05ly1h56abrfe5vj21f60e6gzt.jpg)
+《StyleFaceV: Face Video Generation via Decomposing and Recomposing Pretrained StyleGAN3》(2022) GitHub: github.com/arthur-qiu/StyleFaceV ![fig1](https://wx2.sinaimg.cn/mw690/5396ee05ly1h567k0b19tj23h01idqv8.jpg)
+《Adaptive Boosting for Domain Adaptation: Towards Robust Predictions in Scene Segmentation》(2021) GitHub: github.com/layumi/AdaBoost_Seg [fig2]
+《What do navigation agents learn about their environment?》(CVPR 2022) GitHub: github.com/allenai/iSEE ![fig3](https://wx4.sinaimg.cn/mw690/5396ee05ly1h57osa00lgj20zd0j014v.jpg)
+《FWD: Real-time Novel View Synthesis with Forward Warping and Depth》(CVPR 2022) GitHub: github.com/Caoang327/fwd_code
+《DiffSkill: Skill Abstraction from Differentiable Physics for Deformable Object Manipulations with Tools》(ICLR 2022) GitHub: github.com/Xingyu-Lin/DiffSkill
+《Densely Constrained Depth Estimator for Monocular 3D Object Detection》(ECCV 2022) GitHub: github.com/BraveGroup/DCD
+《Semiformer: Semi-Supervised Vision Transformers》(ECCV 2022) GitHub: github.com/wengzejia1/Semiformer ![fig4](https://wx2.sinaimg.cn/mw690/5396ee05ly1h57pbncfenj20um0dmq93.jpg)
+《Speech Enhancement and Dereverberation with Diffusion-based Generative Models》(2022) GitHub: github.com/sp-uhh/sgmse [fig1]
+《MILAN: Masked Image Pretraining on Language Assisted Representation》(2022) GitHub: github.com/zejiangh/MILAN
+### 《End-to-end Weakly-supervised Multiple 3D Hand Mesh Reconstruction from Single Image》(2022) GitHub: github.com/zijinxuxu/SMHR ![fig2](https://wx2.sinaimg.cn/mw690/5396ee05ly1h57ohiu6dij21gq0lvwx3.jpg)
+《On the effectiveness of adversarial training against common corruptions》(2022) GitHub: github.com/tml-epfl/adv-training-corruptions
+《Flow-Guided Transformer for Video Inpainting》(ECCV 2022) GitHub: github.com/hitachinsk/FGT ![fig1](https://wx1.sinaimg.cn/mw690/5396ee05ly1h59o4in72rj23oq15gnpd.jpg)
+《TRUST: Towards Racially Unbiased Skin Tone Estimation via Scene Disambiguation》(ECCV 2022) GitHub: github.com/HavenFeng/TRUST
+《TL;DW? Summarizing Instructional Videos with Task Relevance & Cross-Modal Saliency》(ECCV 2022) GitHub: github.com/medhini/Instructional-Video-Summarization
+《Style Your Hair: Latent Optimization for Pose-Invariant Hairstyle Transfer via Local-Style-Aware Hair Alignment》(ECCV 2022) GitHub: github.com/Taeu/Style-Your-Hair
+《CLEVR-X: A Visual Reasoning Dataset for Natural Language Explanations》(2022) GitHub: github.com/ExplainableML/CLEVR-X
+《Discrete Cosine Transform Network for Guided Depth Map Super-Resolution》(CVPR 2022) GitHub: github.com/Zhaozixiang1228/GDSR-DCTNet
+《INS-Conv: Incremental Sparse Convolution for Online 3D segmentation》(CVPR 2022) GitHub: github.com/THU-luvision/INS-Conv
+《UCTopic: Unsupervised Contrastive Learning for Phrase Representations and Topic Mining》(ACL 2022) GitHub: github.com/JiachengLi1995/UCTopic
+《Neural Correspondence Field for Object Pose Estimation》(ECCV 2022) GitHub: github.com/LinHuang17/NCF-code
+《Disentangling Object Motion and Occlusion for Unsupervised Multi-frame Monocular Depth》(ECCV 2022) GitHub: github.com/AutoAILab/DynamicDepth ![fig5](https://wx1.sinaimg.cn/mw690/5396ee05ly1h58ub0f57dj20za0a2gsh.jpg)
+《HoW-3D: Holistic 3D Wireframe Perception from a Single Image》(3DV 2022) GitHub: github.com/Wenchao-M/HoW-3D [fig2]
+《DDX7: Differentiable FM Synthesis of Musical Instrument Sounds》(2022) GitHub: github.com/fcaspe/ddx7 ![fig1](https://wx3.sinaimg.cn/mw690/5396ee05ly1h58klb7kx5j23yg18o4c3.jpg)
+《Vision Transformer Adapter for Dense Predictions》(2022) GitHub: github.com/czczup/ViT-Adapter ![fig3](https://wx3.sinaimg.cn/mw690/5396ee05ly1h58t3n5ntyj21900v6h6c.jpg)
+《Equivariant and Invariant Grounding for Video Question Answering》(2022) GitHub: github.com/yl3800/EIGV ![fig4](https://wx4.sinaimg.cn/mw690/5396ee05ly1h58t4l8adej21go0ds11d.jpg)
+《Efficient Long-Text Understanding with Short-Text Models》(2022) GitHub: github.com/Mivg/SLED
+《InfoGCN: Representation Learning for Human Skeleton-Based Action Recognition》(CVPR 2022) GitHub: github.com/stnoah1/infogcn ![fig3](https://wx4.sinaimg.cn/mw690/5396ee05ly1h5c7k86ohhj21ko16ix48.jpg)
+《Improving Non-Autoregressive Translation Models Without Distillation》(ICLR 2022) GitHub: github.com/layer6ai-labs/CMLMC
+《A sequence-to-sequence approach for document-level relation extraction》(ACL 2022) GitHub: github.com/JohnGiorgi/seq2rel
+《Towards Unified Conversational Recommender Systems via Knowledge-Enhanced Prompt Learning》(KDD 2022) GitHub: github.com/RUCAIBox/UniCRS ![fig7](https://wx3.sinaimg.cn/mw690/5396ee05ly1h5c7tulj4zj22x00s5np1.jpg)
+《Generalizing to New Physical Systems via Context-Informed Dynamics Model》(ICML 2022) GitHub: github.com/yuan-yin/CoDA [fig4]
+《DFNet: Enhance Absolute Pose Regression with Direct Feature Matching》(ECCV 2022) GitHub: github.com/ActiveVisionLab/DFNet ![fig5](https://wx1.sinaimg.cn/mw690/5396ee05ly1h5c7nn37yrj21gg0uyqlw.jpg)
+《Language-Driven Artistic Style Transfer》(ECCV 2022) GitHub: github.com/tsujuifu/pytorch_ldast ![fig6](https://wx4.sinaimg.cn/mw690/5396ee05ly1h5c7rxvemfj22640y14qp.jpg)
+《Musika! Fast Infinite Waveform Music Generation》(ISMIR 2022) GitHub: github.com/marcoppasini/musika
+《Generating Long Videos of Dynamic Scenes》(2022) GitHub: github.com/NVlabs/long-video-gan
+《The devil is in the labels: Semantic segmentation from sentences》(2022) GitHub: github.com/YvanYin/SSIW
+《Unsupervised Video Domain Adaptation: A Disentanglement Perspective》(2022) GitHub: github.com/ldkong1205/TranSVAE ![fig1](https://wx1.sinaimg.cn/mw690/5396ee05ly1h5c6wsizm8j212w0hcwyp.jpg)
+《data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language》(2022) GitHub: github.com/arxyzan/data2vec-pytorch ![fig2](https://wx2.sinaimg.cn/mw690/5396ee05ly1h5c7jelg06j21000afq7p.jpg)
+《High-Resolution Image Synthesis with Latent Diffusion Models》(2021) GitHub: github.com/basujindal/stable-diffusion
+《Learning optimal conformal classifiers》(ICLR 2022) GitHub: github.com/deepmind/conformal_training ![fig2](https://wx1.sinaimg.cn/mw690/5396ee05ly1h5avghetcjj208w074di1.jpg)
+《Dropout Q-Functions for Doubly Efficient Reinforcement Learning》(ICLR 2022) GitHub: github.com/TakuyaHiraoka/Dropout-Q-Functions-for-Doubly-Efficient-Reinforcement-Learning [fig3]
+《ProtoRes: Proto-Residual Network for Pose Authoring via Learned Inverse Kinematics》(ICLR 2022) GitHub: github.com/boreshkinai/smpl-ik [fig7]
+《Real-Time Intermediate Flow Estimation for Video Frame Interpolation》(ECCV 2022) GitHub: github.com/hzwer/Practical-RIFE
+《Paint2Pix: Interactive Painting based Progressive Image Synthesis and Editing》(ECCV 2022) GitHub: github.com/1jsingh/paint2pix ![fig4](https://wx4.sinaimg.cn/mw690/5396ee05ly1h5b5pereetj21h60la1kx.jpg)
+《Contrasting quadratic assignments for set-based representation learning》(ECCV 2022) GitHub: github.com/amoskalev/contrasting_quadratic ![fig8](https://wx4.sinaimg.cn/mw690/5396ee05ly1h5b6wmfmtej21lh0wm1ds.jpg)
+《GLoRIA: A Multimodal Global-Local Representation Learning Framework for Label-efficient Medical Image Recognition》(ICCV 2021) GitHub: github.com/marshuang80/gloria
+《DM-NeRF: 3D Scene Geometry Decomposition and Manipulation from 2D Images》(2022) GitHub: github.com/vLAR-group/DM-NeRF [fig1]
+《Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning》(2022) GitHub: github.com/lucidrains/bit-diffusion
+《USB: A Unified Semi-supervised Learning Benchmark》(2022) GitHub: github.com/microsoft/Semi-supervised-learning
+《DeltaConv: Anisotropic Operators for Geometric Deep Learning on Point Clouds》(2022) GitHub: github.com/rubenwiersma/pointcloud-differential
+《A Walk in the Park: Learning to Walk in 20 Minutes With Model-Free Reinforcement Learning》(2022) GitHub: github.com/ikostrikov/walk_in_the_park
+《Unified-IO: A Unified Model for Vision, Language, and Multi-Modal Tasks》(2022) GitHub: github.com/allenai/unified-io-inference
+《Autoregressive Perturbations for Data Poisoning》(2022) GitHub: github.com/psandovalsegura/autoregressive-poisoning ![fig6](https://wx1.sinaimg.cn/mw690/5396ee05ly1h5b6s8x63wj21hc0u0x6p.jpg)

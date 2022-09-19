@@ -162,3 +162,5 @@ github.com/unifyai/ivy
 【Galileo：图深度学习框架，具备超大规模、易使用、易扩展、高性能、双后端等优点】'Galileo - library for large scale graph training by JD' by JD Galileo Team GitHub: github.com/JDGalileo/galileo
 
 'Ecosystem：使用了OpenMMLab体系的开源项目’ by OpenMMLab GitHub: github.com/open-mmlab/ecosystem
+
+【TinyMaix：面向单片机的超轻量级的神经网络推理库，即TinyML推理库】'TinyMaix - a tiny inference library for microcontrollers (TinyML).' by Sipeed GitHub: github.com/sipeed/TinyMaix

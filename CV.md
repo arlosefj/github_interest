@@ -1224,3 +1224,7 @@ https://arxiv.org/abs/2206.11892
 https://arxiv.org/abs/2207.11617
 
 'IMAR Vision Datasets Tools' by Sminchisescu Research Group GitHub: github.com/sminchisescu-research/imar_vision_datasets_tools 
+
+### 【stitching：Python写的图片无缝拼接工具包】’stitching - A Python package for fast and robust Image Stitching' by Lukas Weber GitHub: github.com/lukasalexanderweber/stitching 
+
+【哥伦比亚大学《计算机视觉第一原理》课程】《First Principles of Computer Vision》by Shree Nayar Youtube: www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw/playlists

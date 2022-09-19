@@ -188,3 +188,11 @@ yolov5s_android：安卓设备运行的yolov5s
 github.com/lp6m/yolov5s_android
 
 ’XXTouchNG - Next generation XXTouch for iOS 13 and above. System-wide iOS Automation Toolkit.(介绍值得看看，作者的亲身经历：技术是一把双刃剑，使用不当，可能将自己带入深渊)’ GitHub: github.com/XXTouchNG/XXTouchNG
+
+GitHub 上开源的 WhatsApp 克隆项目：What's App Clone Project，实现了较为完善的聊天 UI 组件、实时消息系统，满足可重用性、并行构建等开发设计理念。
+主要演示的技术功能如下：
+- 使用 Jetpack Compose 实现整个 UI 元素；
+- 使用 Hilt 和 AppStartup 等 Jetpack 库实现 Android 架构组件；
+- 使用 Kotlin 协程执行后台任务；
+- 将聊天系统与 Stream Chat SDK 集成以进行实时事件处理。
+GitHub：github.com/GetStream/whatsApp-clone-compose

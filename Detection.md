@@ -1107,3 +1107,5 @@ https://arxiv.org/abs/2207.02696
 
 [CV]《Unknown-Aware Object Detection: Learning What You Don't Know from Videos in the Wild》X Du, X Wang, G Gozum, Y Li [University of Wisconsin-Madison & Microsoft Research] (2022) 
 https://arxiv.org/abs/2203.03800
+
+【YOLOAir：基于PyTorch的一系列YOLO检测算法组合工具箱。用来组合不同模块构建不同网络】'YOLOAir：Including YOLOv5, YOLOv7, Transformer, YOLOX, YOLOR and other networks... Support to improve backbone, head, loss, IoU, NMS...The original version was created based on YOLOv5' by iscyy GitHub: github.com/iscyy/yoloair

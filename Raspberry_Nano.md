@@ -169,3 +169,8 @@ GitHub：github.com/joeycastillo/The-Open-Book
 github.com/wxlscm/raspberry_tutorial
 
 'learning-cuda-trt - A large number of cuda/tensorrt cases . 大量案例来学习CUDA/TensorRT’ by shouxieai GitHub: github.com/shouxieai/learning-cuda-trt
+
+【YoloV7 Raspberry Pi 4：树莓派上运行的YoloV7(基于NCNN)】’YoloV7 Raspberry Pi 4 - YoloV7 for a bare Raspberry Pi using ncnn.' by Q-engineering GitHub: github.com/Qengineering/YoloV7-ncnn-Raspberry-Pi-4
+
+'YOLOV5 GPU optimization sample' by NVIDIA AI IOT GitHub: github.com/NVIDIA-AI-IOT/yolov5_gpu_optimization 
+

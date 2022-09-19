@@ -735,3 +735,9 @@ github.com/sukumo28/vscode-audio-preview
 
 GitHub 上的开源技术教程：《语音增强初探》，主要讲解语音增强技术相关的技术解析，以及模型应用。
 GitHub：github.com/WenzheLiu-Speech/The-guidebook-of-speech-enhancement ​​​​
+
+【StemRoller：免费的音源分离工具，可从从歌曲中分离出人声、鼓声、贝斯和其他乐器声部】’StemRoller - Isolate vocals, drums, bass, and other instrumental stems from any song' by StemRoller GitHub: github.com/stemrollerapp/stemroller 
+
+【口语语言识别相关文献资源列表】’Awesome-Spoken-Language-Identification - An awesome spoken LID repository. (Working in progress' by HexinHexin GitHub: github.com/Lhx94As/Awesome-Spoken-Language-Identification
+
+### 【KAN-TTS：训练自己的TTS语音合成模型】’KAN-TTS - With KAN-TTS you can train your own TTS model from zero to hero’ by Alibaba Research GitHub: github.com/AlibabaResearch/KAN-TTS

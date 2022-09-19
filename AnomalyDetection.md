@@ -184,3 +184,6 @@ github.com/Charmve/Surface-Defect-Detection
 【最新异常检测算法实现大列表】’Implementation of SOTA Deep Anomaly Detection Methods' by GuansongPang GitHub: github.com/GuansongPang/SOTA-Deep-Anomaly-Detection
 
 ADRepository: 现实世界异常检测数据集】'ADRepository: Real-world anomaly detection datasets' by GuansongPang GitHub: github.com/GuansongPang/ADRepository-Anomaly-detection-datasets
+
+【DGLD：基于DGL的深度图异常检测库】'A Deep Graph Anomaly Detection Library based on DGL - Deep Graph Outlier Detection' by EagleLab-ZJU GitHub: github.com/EagleLab-ZJU/DGLD
+

@@ -879,3 +879,7 @@ https://githubdaily.gitee.io/posts/2022-07-21-pytorch-book/
 【Sparsebit：PyTorch模型压缩/加速工具包】’Sparsebit - A model compression and acceleration toolbox based pytorch.' by MEGVII Research GitHub: github.com/megvii-research/Sparsebit 
 
 'PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more' by Ross Wightman GitHub: github.com/rwightman/pytorch-image-models
+
+【river-torch：Python在线深度学习库DeepRiver基于PyTorch的API】’river-torch - a Python library for online deep learning' by OnlineML GitHub: github.com/online-ml/river-torch
+
+【Uni-Core：高性能分布式PyTorch框架】’Uni-Core - an efficient distributed PyTorch framework' by DP Technology GitHub: github.com/dptech-corp/Uni-Core 

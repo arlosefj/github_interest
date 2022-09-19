@@ -311,3 +311,8 @@ https://www.eecs.yorku.ca/~kosta/Courses/EECS6322/
 
 国家开放大学终身教育平台正式上线，面向社会免费开放。该平台汇聚国家开放大学自建学习资源、#338所知名高校课程资源免费开放#、10个头部平台的特色课程等共计50万门，致力于满足社会大众多元化、个性化学习需求
 https://le.ouchn.cn/#/home
+
+拓扑深度学习是一种形式主义，旨在将拓扑语言引入深度学习，目的是利用最小的数学结构来形式化一般深度学习问题中出现的问题。来自剑桥大学Cristian Bodnar教授讲述了《拓扑深度学习》教程
+https://www.zhuanzhi.ai/vip/cfaf10ab05c984aaed78f3b981d207ba
+
+【Artificial Intelligence for Beginners - A Curriculum：微软的12周24节人工智能入门课程】’Artificial Intelligence for Beginners - A Curriculum - 12 Weeks, 24 Lessons, AI for All!' by Microsoft GitHub: github.com/microsoft/AI-For-Beginners

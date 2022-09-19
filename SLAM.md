@@ -161,3 +161,5 @@ github.com/belosthomas/libCML
 【X-SLAM：手把手入门SLAM】’X-SLAM - You can learn slam step by step，there are lot of tutorials' by duyongquan GitHub: github.com/duyongquan/LTSLAM
 
 '多传感器定位融合学习笔记' by kahowang GitHub: github.com/kahowang/sensor-fusion-for-localization-and-mapping
+
+'Isaac ROS Image Pipeline - Hardware-accelerated ROS2 packages for camera image processing.' by NVIDIA Isaac ROS GitHub: github.com/NVIDIA-ISAAC-ROS/isaac_ros_image_pipeline

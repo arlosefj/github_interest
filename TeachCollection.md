@@ -82,3 +82,11 @@ GitHub：github.com/shervinea/mit-15-003-data-science-tools
 【cx_Freeze：跨平台将Python转换成独立可执行程序】’cx_Freeze - Create standalone executables from Python scripts, with the same performance and is cross-platform.' by Marcelo Duarte GitHub: github.com/marcelotduarte/cx_Freeze 
 
 '从零构建AI推理引擎系列 - 关于自建AI推理引擎的手册，从0开始你需要知道的所有事情' by JinTian GitHub: github.com/jinfagang/AI-Infer-Engine-From-Zero
+
+### 【从头训练一个涂鸦识别的神经网络，调参可视化很赞】“I Created a Neural Network and Tried Teaching it to Recognize Doodles” 
+https://sebastian.itch.io/neural-network-experiment
+
+'《神经网络与深度学习：案例与实践》随书代码’ by nndl GitHub: github.com/nndl/practice-in-paddle
+
+【免费课程：全栈深度学习(2022)】《Full Stack Deep Learning - Course 2022》
+https://fullstackdeeplearning.com/course/2022/

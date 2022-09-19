@@ -102,3 +102,9 @@ https://datahacker.rs/linear-algebra-for-machine-learning/
 
 【微积分入门教程】《Math: Differential Calculus - Colaboratory》by Aurélien Geron
 https://colab.research.google.com/github/ageron/handson-ml2/blob/master/math_differential_calculus.ipynb
+
+在麻省理工学院的线性代数大师Gilbert Strang教授的帮助下，网友Kenji Hiranabe画了一张图帮你总结线性代数的各种重要概念的关系。 ​​​​
+https://wx1.sinaimg.cn/mw1024/62caff97gy1h5294xqzrfj217j0rotfw.jpg
+
+GitHub 上的开源技术教程：《线性代数的艺术》，主要针对 MIT 教授 Gilbert Strang 的《Linear Algebra for Everyone》教程提供了图形注释，让知识更易于吸收理解。
+GitHub：github.com/kenjihiranabe/The-Art-of-Linear-Algebra ​​​​

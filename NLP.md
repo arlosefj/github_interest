@@ -652,3 +652,11 @@ github.com/TencentGameMate/chinese_speech_pretrain
 【Efficient Large LM Trainer：大语言模型的高效训练】’Efficient Large LM Trainer' by Microsoft GitHub: github.com/microsoft/Efficient-Large-LM-Trainer
 
 【EasyNLP：易于使用的综合NLP工具包】'EasyNLP: A Comprehensive and Easy-to-use NLP Toolkit - EasyNLP: A Comprehensive and Easy-to-use NLP Toolkit' by Alibaba GitHub: github.com/alibaba/EasyNLP
+
+【GLM-130B: 开放双语预训练模型】'GLM-130B: An Open Bilingual Pre-Trained Model' by THUDM GitHub: github.com/THUDM/GLM-130B
+
+【很好的NLP、视觉、语音、多模态、推荐系统等领域精选论文列表，适合入门精读参考】“Aman's AI Journal • Papers List” 
+https://aman.ai/papers/
+
+Python几何处理工具箱】’A Python Geometry Processing Toolbox - A collection of utility functions to prototype geometry processing research in python' by Silvia Sellán GitHub: github.com/sgsellan/gpytoolbox
+https://txt.cohere.ai/running-large-language-models-in-production-a-look-at-the-inference-framework-tif

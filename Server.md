@@ -451,3 +451,10 @@ GitHub：github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources
 【Spring Cloud Tencent：腾讯开源的一站式微服务解决方案，实现了Spring Cloud 标准微服务 SPI】’Spring Cloud Tencent - Spring Cloud Tencent is a Spring Boot based Service Governance Framework provided by Tencent, including service discovery, traffic control, circuitbreak, ratelimit, config and so on.' by Tencent GitHub: github.com/Tencent/spring-cloud-tencent
 
 'Ikki - A tool for defining and running multi-container Docker applications' by jlkiri GitHub: github.com/jlkiri/ikki
+
+'OmniEdge：端到端企业 VPN 解决方案，无需公网 IP，无需端口转发，无需反向代理，零配置’ GitHub: github.com/omniedgeio/omniedge/blob/main/README/README-zh-Hans.md
+
+### 'Data Engineering - Open Source Tools/Databases - a curated list of docker-compose files prepared for testing data engineering tools, databases and open source libraries.' by BigData.IR GitHub: github.com/irbigdata/data-dockerfiles
+
+'Acorn - A simple application deployment framework for Kubernetes' by Acorn Labs GitHub: github.com/acorn-io/acorn
+

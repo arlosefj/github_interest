@@ -211,3 +211,5 @@ https://peakd.com/hive-177949/@kaliyuga/kaliyugas-library-of-ai-google-colab-not
 
 Real-Time Portrait Stylization on the Edge
 https://arxiv.org/abs/2206.01244
+
+'「One Last Image」One Last Kiss 风格封面生成器' by itorr GitHub: github.com/itorr/one-last-image

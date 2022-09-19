@@ -224,3 +224,15 @@ https://www.openbmb.org/home
 '《通用视觉框架 OpenMMLab》 公开课' by wangruohui GitHub: github.com/wangruohui/OpenMMLabCourse 
 
 【MLOps Course：基于项目的MLOps实战课程】’MLOps Course - A project-based course on the foundations of MLOps with a focus on intuition and application.' by Goku Mohandas GitHub: github.com/GokuMohandas/mlops-course 
+
+### 渣画质视频秒变清晰，“达芬奇”工具集帮你自动搞定
+https://azsjae.blob.core.windows.net/davinci/release/DaVinci_ISR_General_20220622.zip
+https://azsjae.blob.core.windows.net/davinci/release/DaVinci_VSR_Small_Face_20220622.zip
+https://github.com/microsoft/DaVinci
+
+### 'ONNX HAWP Line Detection - Python scripts for performing line detection using the HAWP model in ONNX.' by Ibai Gorordo GitHub: github.com/ibaiGorordo/ONNX-HAWP-Line-Detection
+![](https://wx2.sinaimg.cn/mw690/5396ee05ly1h4ycuwlxwgj22rt1ujb2d.jpg)
+
+【ZigZag：用于识别时序峰值和谷值的Python库】’ZigZag - Python library for identifying the peaks and valleys of a time series.' by John B Nelson GitHub: github.com/jbn/ZigZag 
+
+'Morphling - Automatic tuning for ML model deployment on Kubernetes' by kubedl-io GitHub: github.com/kubedl-io/morphling

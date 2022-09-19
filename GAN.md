@@ -1110,3 +1110,6 @@ https://arxiv.org/abs/2207.14288
 
 [CV]《3D Cartoon Face Generation with Controllable Expressions from a Single GAN Image》H Wang, G Lin, S C. H. Hoi, C Miao [Nanyang Technological University & Singapore Management University] (2022)
 https://arxiv.org/abs/2207.14425
+
+[CV]《Generator Knows What Discriminator Should Learn in Unconditional GANs》G Lee, H Kim, J Kim, S Kim, J Ha, Y Choi [NAVER AI Lab] (2022) 
+https://arxiv.org/abs/2207.13320

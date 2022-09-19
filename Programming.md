@@ -211,3 +211,10 @@ GitHub 上的开源技术教程：《操作系统导论》中文版（Operating 
 GitHub：github.com/remzi-arpacidusseau/ostep-translations
 
 'git-machete - Probably the sharpest git repository organizer & rebase/merge workflow automation tool you've ever seen' by VirtusLab GitHub: github.com/VirtusLab/git-machete
+
+'Spoor - Compiler-instrumented app tracing, gives you deep insight into your application's performance.’ by Microsoft GitHub: github.com/microsoft/spoor
+
+GitHub 上开源的技术学习资源：《系统设计》，里面主要整理了系统设计相关的基础知识、面试技巧、开发指南、最佳实践，以及各个互联网大厂的踩坑经验总结等内容。
+GitHub：github.com/codersguild/System-Design 
+
+【co_context：协程异步多线程并发框架，以提供可靠的性能为使命，也致力于减轻用户的心智负担，让 C++ 初学者也能轻松写出高并发程序】'co_context - A coroutine framework aimed at high-concurrency io with reasonable latency, based on liburingcxx.' by Zifeng Deng GitHub: github.com/Codesire-Deng/co_context

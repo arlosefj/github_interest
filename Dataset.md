@@ -948,3 +948,9 @@ https://ai.googleblog.com/2022/06/scanned-objects-by-google-research.html
 
 [CV]《CelebV-HQ: A Large-Scale Video Facial Attributes Dataset》H Zhu, W Wu, W Zhu, L Jiang, S Tang, L Zhang, Z Liu, C C Loy [SenseTime Research & Peking University & Nanyang Technological University] (2022) 
 https://arxiv.org/abs/2207.12393
+
+【FoodLogoDet-1500: 面向多尺度特征解耦网络食品Logo检测的大规模数据集】'FoodLogoDet-1500: A Dataset for Large-Scale Food Logo Detection via Multi-Scale Feature Decoupling Network' by hq03 GitHub: github.com/hq03/FoodLogoDet-1500-Dataset 
+
+【CROSSTALK-GENERATION：目前为止最大的中文开源相声数据集】'CROSSTALK-GENERATION - Code and data for crosstalk text generation tasks, exploring whether large models and pre-trained language models can understand humor.' by anon.W GitHub: github.com/anonNo2/crosstalk-generation 
+
+【密集材料分割数据集】'The Dense Material Segmentation Dataset' by Apple GitHub: github.com/apple/ml-dms-dataset

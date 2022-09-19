@@ -930,3 +930,5 @@ github.com/wangwen-whu/WTW-Dataset
 【基于Siamese networks的笔迹鉴定系统】’Signature verification system using Siamese networks' by Sean Benhur GitHub: github.com/seanbenhur/siamese_net 
 
 ### 【文档图像整改相关论文资源列表】'Awesome Document Image Rectification - A comprehensive list of awesome document image rectification papers.' by Hao Feng GitHub: github.com/fh2019ustc/Awesome-Document-Image-Rectification
+
+'OcrPy - OCR, Archive, Index and Search: Implementation agnostic OCR framework.' by maxent GitHub: github.com/maxent-ai/ocrpy

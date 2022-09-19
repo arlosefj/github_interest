@@ -341,3 +341,11 @@ github.com/cnyvfang/labelGo-Yolov5AutoLabelImg
 
 【Intelligent Pixel Annotation Tool (IPAT)：web版交互式像素级图像标注工具】’Intelligent Pixel Annotation Tool (IPAT) - A web based interactive image annotation tool.' by KunyangHan GitHub: github.com/KunyangHan/Intelligent-Pixel-Annotation-Tool 
 
+### 【jupyter_bbox_widget：用于用边框标注图像的Jupyter widget】'jupyter_bbox_widget - A Jupyter widget for annotating images with bounding boxes' by Daria Vasyukova GitHub: github.com/gereleth/jupyter-bbox-widget 
+
+「GitHub多星项目 ✨」7.4K⭐️ Wkentaro/labelme: 「Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag 
+https://github.com/wkentaro/labelme
+
+GitHub 上一款开源的数据标注神器：Label Studio，可用于标注音视频、文本、图像、时间序列等数据类型，并导出为多种模型格式。
+此外，该工具还支持多账号登录、流线型工作模式、可配置标签格式、集成机器学习模型、嵌入数据管道等功能。
+GitHub：github.com/heartexlabs/label-studio ​​​​

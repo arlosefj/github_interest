@@ -180,3 +180,6 @@ https://arxiv.org/abs/2111.06377
 
 Keras实例教程：自编码器掩码图像建模
 https://keras.io/examples/vision/masked_image_modeling/
+
+[CV]《Flow-Guided Transformer for Video Inpainting》K Zhang, J Fu, D Liu [University of Science and Technology of China & Microsoft Research Asia] (2022) 
+https://arxiv.org/abs/2208.06768

@@ -1378,3 +1378,8 @@ https://arxiv.org/abs/2203.03041
 
 [CV]《MinVIS: A Minimal Video Instance Segmentation Framework without Video-based Training》D Huang, Z Yu, A Anandkumar [NVIDIA] (2022) 
 https://arxiv.org/abs/2208.02245
+
+[CV]《Per-Clip Video Object Segmentation》K Park, S Woo, S W Oh, I S Kweon, J Lee [KAIST & Adobe Research] (2022) 
+https://arxiv.org/abs/2208.01924
+
+【TotalSegmentator：对CT图像中104种重要解剖结构进行可靠分割的工具】’TotalSegmentator - Tool for robust segmentation of 104 important anatomical structures in CT images' by Jakob Wasserthal GitHub: github.com/wasserth/TotalSegmentator

@@ -1713,3 +1713,10 @@ http://snasiriany.me/files/ml-book.pdf
 【Monitoring ML：了解如何监视机器学习系统，以在模型性能衰减之前识别和解决漂移源】'Monitoring ML - Learn how to monitor ML systems to identify and mitigate sources of drift before model performance decay.' by Goku Mohandas GitHub: github.com/GokuMohandas/monitoring-ml
 
 'SMPL human model visualizer in Python' by Haotian Zhang GitHub: github.com/Haotianz94/smpl_visualizer 
+
+【深入解析PCA】《A friendly introduction to Principal Component Analysis》by Peter Bloem
+https://peterbloem.nl/blog/pca
+
+【《机器学习可解释性实战》随书代码】’Applied Machine Learning Explainability Techniques, published by Packt' by Packt GitHub: github.com/PacktPublishing/Applied-Machine-Learning-Explainability-Techniques
+
+### "我们发现现在国内研究算法的人很多，但很多人缺乏对机器学习系统的理解。这样一方面可能会限制算法研究的想象力，另一方面也不利于学科的发展。因此，我们认为有必要编写一本系统化的《机器学习系统》书籍。" 此书开源链接： （+https）openmlsys.github.io/ ​​​​

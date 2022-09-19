@@ -260,3 +260,7 @@ https://law.xmu.edu.cn/__local/C/50/A6/8949079917E598AF39968777D8F_A60C45FB_E671
 【读论文新体验：语音朗读arXiv论文】’arxiv-reader - Reads arXiv papers using Text-to-Speech' by Dr. Tristan Behrens GitHub: github.com/AI-Guru/arxiv-reader
 
 【paperscraper：从pubmed, arxiv, medrxiv and chemrxiv等网站爬取论文信息】’paperscraper - Tools to scrape publication metadata from pubmed, arxiv, medrxiv and chemrxiv.' by PhosphorylatedRabbits GitHub: github.com/PhosphorylatedRabbits/paperscraper
+
+【ArXiv LaTeX论文提交准备工具】’Submission Sanitizer & Flattener - Simple Python scripts to clean up and flatten ArXiv LaTeX submissions.' by David Stutz GitHub: github.com/davidstutz/arxiv-submission-sanitizer-flattener 
+
+【神经网络架构演示图集(draw.io)】’Neural Network Architecture Diagrams - Diagrams for visualizing neural network architecture (Created with diagrams.net)' by Kenneth Leung GitHub: github.com/kennethleungty/Neural-Network-Architecture-Diagrams

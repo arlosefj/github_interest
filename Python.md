@@ -949,3 +949,10 @@ GitHub：github.com/handsondataviz/book ​​​​
 MLScraper，一个开源的 Python 爬虫脚本，可基于机器学习自动从 HTML 页面中抓取数据。
 在给爬虫提供输出结果的示例后，它便会自动提取规则，对页面数据进行抓取，整个过程无需指定 CSS 选择器。
 GitHub：github.com/lorey/mlscraper ​​​​
+
+【Memray：Python程序内存分析工具】’Memray - a memory profiler for Python' by Bloomberg GitHub: github.com/bloomberg/memray
+
+Python几何处理工具箱】’A Python Geometry Processing Toolbox - A collection of utility functions to prototype geometry processing research in python' by Silvia Sellán GitHub: github.com/sgsellan/gpytoolbox
+
+【Aquarel：轻松设置matplotlib可视化风格】’Aquarel - Styling matplotlib made easy' by Lukas Gienapp GitHub: github.com/lgienapp/aquarel 
+

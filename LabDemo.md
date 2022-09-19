@@ -291,3 +291,5 @@ GitHub：github.com/hpcaitech/ColossalAI
 【PyMLpipe：用于简化机器学习模型监控和部署的Python库】’PyMLpipe - a Python library for ease Machine Learning Model monitoring and Deployment’ by neelindresh GitHub: github.com/neelindresh/pymlpipe 
 
 【EasyVtuber：Vtuber换脸直播工具】’EasyVtuber - tha3, but run 40fps on 3080 with virtural webcam support' by yuzhongliang22 GitHub: github.com/yuyuyzl/EasyVtuber
+
+'Yolov7 + StrongSORT with OSNet - Real-time multi-camera multi-object tracker using YOLOv7 and StrongSORT with OSNet' by Mike GitHub: github.com/mikel-brostrom/Yolov7_StrongSORT_OSNet 
