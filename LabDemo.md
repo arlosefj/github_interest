@@ -293,3 +293,65 @@ GitHub：github.com/hpcaitech/ColossalAI
 【EasyVtuber：Vtuber换脸直播工具】’EasyVtuber - tha3, but run 40fps on 3080 with virtural webcam support' by yuzhongliang22 GitHub: github.com/yuyuyzl/EasyVtuber
 
 'Yolov7 + StrongSORT with OSNet - Real-time multi-camera multi-object tracker using YOLOv7 and StrongSORT with OSNet' by Mike GitHub: github.com/mikel-brostrom/Yolov7_StrongSORT_OSNet 
+
+'yolov7-object-tracking - YOLOv7 Object Tracking Using PyTorch, OpenCV and Sort Tracking' by Muhammad Rizwan Munawar GitHub: github.com/RizwanMunawar/yolov7-object-tracking
+
+'yolov7-mask-ncnn - c++ version of yolov7-mask with ncnn' by FeiGeChuanShu GitHub: github.com/FeiGeChuanShu/yolov7-mask-ncnn
+
+'Yolov7 Flask - A Beautiful Flask Web API for Yolov7 (and custom) models' by Michael.Wang GitHub: github.com/Michael-OvO/Yolov7-Flask
+
+姿势参考神器 Pose Search，调整骨架姿势就能搜出一堆相应的参考图片，精细到每个关节，简直是画图辅助神器
+▶ 试玩地址：x6ud.github.io/pose-search
+▶ 伟人开发者：@x6udpngx
+这位大佬的动物头部参考神器，也同样神奇又好用
+▶ 动物头骨版：x6ud.github.io
+
+'nonebot-plugin-drawer - 基于文心大模型的AI机器人画画插件。' by CrazyBoyM GitHub: github.com/CrazyBoyM/nonebot-plugin-drawer 
+
+【你画它补：基于Stable Diffusion的图画自动补全Demo，随意涂鸦或上传图片，给出完善方向的提示，程序会自动替你“补画”】“Diffuse The Rest - a Hugging Face Space by huggingface” 
+
+【PyDeepFakeDet：Deepfake换脸检测库】’PyDeepFakeDet - integrated and scalable tool for Deepfake detection.' by Junke, Wang GitHub: github.com/wangjk666/PyDeepFakeDet 
+
+【OpenHandMocap：视觉手部动作捕捉库】’OpenHandMocap' by JinTian GitHub: github.com/jinfagang/OpenHandMocap
+
+[CV]《Adaptively-Realistic Image Generation from Stroke and Sketch with Diffusion Model》S Cheng, Y Chen, W Chiu, H Lee, H Tseng [National Chiao Tung University & Snap Inc & Meta] (2022)
+https://arxiv.org/abs/2208.12675
+
+[CV]《Unsupervised Scene Sketch to Photo Synthesis》J Wang, S Jeon, S X. Yu, X Zhang, H Arora, Y Lou [UC Berkeley & Amazon] (2022)
+https://arxiv.org/abs/2209.02834
+
+【基于Docker带Web界面方便部署的Stable Diffusion】’Stable Diffusion WebUI Docker - Easy Docker setup for Stable Diffusion with user-friendly UI' by AbdBarho GitHub: github.com/AbdBarho/stable-diffusion-webui-docker
+
+【stablediffusion-infinity：基于Stable Diffusion的图片扩展补全】’stablediffusion-infinity - Outpainting with Stable Diffusion on an infinite canvas' by Lnyan GitHub: github.com/lkwq007/stablediffusion-infinity 
+
+【基于Stable Diffusion的提示图像补全】’stable-diffusion-prompt-inpainting - This project helps you do prompt-based inpainting without having to paint the mask - using Stable Diffusion and Clipseg' by amrrs GitHub: github.com/amrrs/stable-diffusion-prompt-inpainting
+
+【LAVIS - 一站式语言-视觉智能库】'LAVIS - A One-stop Library for Language-Vision Intelligence' by Salesforce GitHub: github.com/salesforce/LAVIS
+
+### 面向非编程人员的 AI 应用工具箱。该项目提供了多款免安装下载即用的 AI 工具，功能涵盖语音合成、视频补帧、图像风格转化、目标检测、OCR 识别等方面，让编程小白也能轻松拥有 AI “魔法”。
+https://github.com/Baiyuetribe/paper2gui
+
+自制桌面级小机器人。它具备 USB 通信显示画面功能以及 6 个自由度，支持手势识别和人体关键点检测。这里有配套的全部开发资料和 SDK，让你也可以制作出一个这样有趣的机器人
+https://github.com/peng-zhihui/ElectronBot
+
+RxImg is an image processing tool based on reactive data streams, allowing image processing pipeline to be built on a low-code graphical user interfaceConfig files
+https://github.com/rximg/rximg
+
+'COCO Viewer - Simple COCO Viewer in Tkinter' by Taras Savchyn GitHub: github.com/trsvchn/coco-viewer
+
+【EVA Video Analytics System：探索性视频分析系统】'EVA Video Analytics System - Exploratory Video Analytics System' by Georgia Tech Database Group GitHub: github.com/georgia-tech-db/eva 
+
+非专业人员可以“闭眼入”的三款现代实战型机器学习开发库：
+1. 表格: XGBoost/LightGBM
+github.com/dmlc/xgboost
+github.com/microsoft/LightGBM
+2. 文本: Hugging Face Transformers
+github.com/huggingface/transformers
+3. 视觉: timm
+github.com/rwightman/pytorch-image-models
+
+国内开发者在 GitHub 开源的一款 Android 应用：「PoseMon 让爷康康」，可借助 AI 技术，实时监测不良坐姿，并及时给出语音提示。
+应用不需要联网使用，所有 AI 特性均在手机本地运行，不需要将视频画面传输至外部服务器，仅需要摄像头权限用于获取姿态画面。
+GitHub：github.com/linyiLYi/pose-monitor
+
+【Hua：Stable Diffusion图像编辑器】’Hua - an AI image editor with Stable Diffusion (and more).' by PENG Bo GitHub: github.com/BlinkDL/Hua

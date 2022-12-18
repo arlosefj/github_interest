@@ -101,3 +101,8 @@ ithub.com/nlp-uoregon/famie
 github.com/Vision-Intelligence-and-Robots-Group/Best-Incremental-Learning
 
 【river：Python在线机器学习库】’river - a Python library for online machine learning' by OnlineML GitHub: github.com/online-ml/river
+
+[LG]《From Weakly Supervised Learning to Active Learning》V Cabannes [PSL] (2022) 
+https://arxiv.org/abs/2209.11629
+
+【ALaaS: 主动学习即服务，可扩展、高效的主动学习/数据选择系统】’ALaaS: Active Learning as a Service. - A scalable & efficient active learning/data selection system for everyone.' by MLSys and MLOps Community GitHub: github.com/MLSysOps/Active-Learning-as-a-Service

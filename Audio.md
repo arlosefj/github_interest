@@ -741,3 +741,59 @@ GitHub：github.com/WenzheLiu-Speech/The-guidebook-of-speech-enhancement ​​�
 【口语语言识别相关文献资源列表】’Awesome-Spoken-Language-Identification - An awesome spoken LID repository. (Working in progress' by HexinHexin GitHub: github.com/Lhx94As/Awesome-Spoken-Language-Identification
 
 ### 【KAN-TTS：训练自己的TTS语音合成模型】’KAN-TTS - With KAN-TTS you can train your own TTS model from zero to hero’ by Alibaba Research GitHub: github.com/AlibabaResearch/KAN-TTS
+
+【语音合成、文字转语音(TTS)、歌唱声音合成(SVS)、声音转换(VC)、歌唱声音转换(SVC)等相关论文项目列表】’Awesome Singing Voice Synthesis and Singing Voice Conversion - A paper and project list about the cutting edge Speech Synthesis, Text-to-Speech (TTS), Singing Voice Synthesis (SVS), Voice Conversion (VC), Singing Voice Conversion (SVC), and related interesting works.' by GYChen GitHub: github.com/guan-yuan/Awesome-Singing-Voice-Synthesis-and-Singing-Voice-Conversion
+
+'VITS+BigVGAN+SpanPSP 中文TTS - 基于PyTorch的VITS-BigVGAN的tts中文模型，加入韵律预测模型' by Zz-ww GitHub: github.com/Zz-ww/VITS-BigVGAN-SpanPSP-Chinese
+
+【Open Speech Corpora：面向ASR, TTS和其他语音技术的开放语音数据集列表】’Open Speech Corpora - A list of accessible speech corpora for ASR, TTS, and other Speech Technologies' by coqui GitHub: github.com/coqui-ai/open-speech-corpora 
+
+【(Interspeech 2022 Tutorial)神经语音合成】'Neural Speech Synthesis' by Xu Tan, Hung-yi Lee GitHub: github.com/tts-tutorial/interspeech2022
+
+'Streamlit Custom Component that enables recording audio from the client's mic in apps that are deployed to the web. (via browser Media-API, REACT-based)' by Stefan Rummer GitHub: github.com/stefanrmmr/streamlit_audio_recorder
+
+
+### 'sherpa-ncnn - Real-time speech recognition using next-gen Kaldi with ncnn' by k2-fsa GitHub: github.com/k2-fsa/sherpa-ncnn 
+
+'MASR流式与非流式语音识别项目 - Pytorch实现的流式与非流式的自动语音识别框架，同时兼容在线和离线识别，目前支持DeepSpeech2模型，支持多种数据增强方法' by yeyupiaoling GitHub: github.com/yeyupiaoling/MASR
+
+'streamlit-stt-app - Real time web based Speech-to-Text app with Streamlit' by Yuichiro Tachibana (Tsuchiya) GitHub: github.com/whitphx/streamlit-stt-app 
+
+【Whisper：OpenAI开源的通用语音识别模型】’Whisper - a general-purpose speech recognition model’  GitHub: github.com/openai/whisper
+
+【用youtube-dl+OpenAI's Whisper为Youtube视频自动生成字幕】’Automatic YouTube subtitle generation - Using OpenAI's Whisper to automatically generate YouTube subtitles' by Miguel Piedrafita GitHub: github.com/m1guelpf/yt-whisper
+
+基于 Tensorflow 实现的音轨分离工具。可以用于提取音乐中的人声、鼓、钢琴等乐器
+https://github.com/deezer/spleeter
+
+基于深度学习的中文语音识别系统
+https://github.com/nl8590687/ASRT_SpeechRecognition
+
+【OpenAI Whisper语音识别的简单web演示界面】’openai-whisper-webapp - Code for OpenAI Whisper Web App Demo' by amrrs GitHub: github.com/amrrs/openai-whisper-webapp
+
+【Whispering：基于whisper的流语音转录(字幕生成)】’Whispering - Streaming transcriber with whisper' by shirayu GitHub: github.com/shirayu/whispering 
+
+【Whisper ASR Webservice：Whisper语音识别的Webservice】’Whisper ASR Webservice - OpenAI Whisper ASR Webservice API' by Ahmet Oner GitHub: github.com/ahmetoner/whisper-asr-webservice
+
+【Automatic subtitles in your videos：用ffmpeg+OpenAI's Whisper为视频文件自动加字幕】’Automatic subtitles in your videos - Automatically generate and overlay subtitles for any video.' by Miguel Piedrafita GitHub: github.com/m1guelpf/auto-subtitle
+
+【whisper.cpp：OpenAI's Whisper高质量语音识别模块C/C++移植版，无依赖低内存支持CPU跨平台】’whisper.cpp - Port of OpenAI's Whisper model in C/C++' by Georgi Gerganov GitHub: github.com/ggerganov/whisper.cpp
+
+【Sound Synthesis Recipes：C++音频合成代码集】’Sound Synthesis Recipes - Code snippets of sound synthesis algorithms in C++' by Matthijs Hollemans GitHub: github.com/hollance/synth-recipes
+
+[AS]《Hierarchical Diffusion Models for Singing Voice Neural Vocoder》N Takahashi, M Kumar, Singh, Y Mitsufuji [Sony Group Corporation] (2022) 
+https://arxiv.org/abs/2210.07508
+
+【ICASSP2022 TTS&VC Summary：总结了ICASSP2022中TTS和VC相关论文，主要是TTS】'ICASSP2022 TTS&VC Summary - ICASSP2022 TTS&VC Summary' by Liumeng Xue GitHub: github.com/lmxue/ICASSP2022_TTS_VC_Summary
+
+【EnCodec: 高保真神经音频压缩编码器】’EnCodec: High Fidelity Neural Audio Compression - State-of-the-art deep learning based audio codec supporting both mono 24 kHz audio and stereo 48 kHz audio.' by Meta Research GitHub: github.com/facebookresearch/encodec
+
+【OpenAI Whisper - CPU：将量化方法应用于 OpenAI Whisper ASR 模型以提高基于CPU部署的推理速度和吞吐量的实验】’OpenAI Whisper - CPU - Improving transcription performance of OpenAI Whisper for CPU based deployment' by MiscellaneousStuff GitHub: github.com/MiscellaneousStuff/openai-whisper-cpu 
+
+【FunASR: 基础端到端语音识别工具包】'FunASR: A Fundamental End-to-End Speech Recognition Toolkit’ by Alibaba Damo Academy GitHub: github.com/alibaba-damo-academy/FunASR
+
+【mayavoz：PyTorch语音增强工具包】'mayavoz - Pytorch based speech enhancement toolkit.' by Shahul ES GitHub: github.com/shahules786/mayavoz 
+
+【libf0：用于音乐录制中基频估计的Python库】'libf0 - A Python Library for Fundamental Frequency Estimation in Music Recordings' by GroupMM GitHub: github.com/groupmm/libf0 
+
+【ASR Corpus Creator：用伪标注创建自动语音识别语料库】’ASR Corpus Creator - This app is intended to automatically create a corpus for ASR systems using pseudo-labeling.' by Yehor Smoliakov GitHub: github.com/egorsmkv/asr-corpus-creator

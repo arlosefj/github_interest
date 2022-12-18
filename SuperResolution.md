@@ -373,3 +373,16 @@ https://arxiv.org/abs/2207.08494
 
 ### [CV]《NeuriCam: Video Super-Resolution and Colorization Using Key Frames》B Veluri, A Saffari, C Pernu, J Smith, M Taylor, S Gollakota [University of Washington] (2022) 
 https://arxiv.org/abs/2207.12496
+
+【Upscayl：开源的跨平台图像超分辨率工具】’Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows' by TGS963 GitHub: github.com/TGS963/upscayl 
+
+图像超分辨率模型，修复漫画图像的效果惊艳。通过 AI 技术将低分辨率、模糊的图像修复成高清图像，可用于图像放大和提升质量
+https://github.com/xinntao/Real-ESRGAN
+
+[CV]《Hitchhiker's Guide to Super-Resolution: Introduction and Recent Advances》B Moser, F Raue, S Frolov, J Hees, S Palacio, A Dengel [German Research Center for Artificial Intelligence (DFKI)] (2022)
+https://arxiv.org/abs/2209.13131
+
+【QualityScaler：Windows下的图像/视频深度学习超分辨率App】’QualityScaler - Image/video deeplearning upscaler app for Windows - BRSGAN & RealSR_JPEG' by Annunziata Gianluca GitHub: github.com/Djdefrag/QualityScaler 
+
+### Upscalo：效果很不错的超分辨率/图片增强缩放/抠图工具
+https://mortenjust.substack.com/p/upscalo

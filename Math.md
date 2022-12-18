@@ -108,3 +108,5 @@ https://wx1.sinaimg.cn/mw1024/62caff97gy1h5294xqzrfj217j0rotfw.jpg
 
 GitHub 上的开源技术教程：《线性代数的艺术》，主要针对 MIT 教授 Gilbert Strang 的《Linear Algebra for Everyone》教程提供了图形注释，让知识更易于吸收理解。
 GitHub：github.com/kenjihiranabe/The-Art-of-Linear-Algebra ​​​​
+
+'Manim Slides - Tool for live presentations using manim' by Jérome Eertmans GitHub: github.com/jeertmans/manim-slides

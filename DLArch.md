@@ -858,3 +858,50 @@ https://arxiv.org/abs/2207.10666
 https://arxiv.org/abs/2112.01526
 
 【基于Transformer的3D视觉相关论文列表】’3D Vision with Transformers - A list of 3D computer vision papers with Transformers' by lahoud GitHub: github.com/lahoud/3d-vision-transformers
+
+### 清华朱军组博士深度解读大红大紫的diffusion model
+https://www.zhihu.com/question/536012286?utm_id=0
+
+【生成式扩散模型综述】’A-Survey-on-Generative-Diffusion-Model' by Hanqun CAO GitHub: github.com/chq1155/A-Survey-on-Generative-Diffusion-Model
+
+【图神经网络(GNN)系统相关文献资源列表】’Awesome Graph Neural Network Systems - A list of awesome GNN systems.' by Cheng Wan GitHub: github.com/chwan1016/awesome-gnn-systems
+
+[CV]《Hydra Attention: Efficient Attention with Many Heads》D Bolya, C Fu, X Dai, P Zhang, J Hoffman [Georgia Tech & Meta AI] (2022)
+https://arxiv.org/abs/2209.07484
+
+【Tensorflow/Keras移植版Stable Diffusion模型】’Stable Diffusion in Tensorflow / Keras - Tensorflow port of the Stable Diffusion Model' by Divam Gupta GitHub: github.com/divamgupta/stable-diffusion-tensorflow
+
+【Stable Diffusion的Google Colab集】’stable-diffusion-colab-tools - Stable diffusion very easy and useful tools on Google Colaboratory(Google Colab)' by karaage GitHub: github.com/karaage0703/stable-diffusion-colab-tools 
+
+【Transformers-Tutorials：HuggingFace Transformers库实例教程集】’Transformers-Tutorials - This repository contains demos I made with the Transformers library by HuggingFace.' by NielsRogge GitHub: https:// github.com/NielsRogge/Transformers-Tutorials 
+
+【TrAVis: 浏览器里的Transformer注意力可视化工具】’TrAVis: Transformer Attention Visualiser - TrAVis: Visualise BERT attention in-browser' by Ayaka GitHub: github.com/ayaka14732/TrAVis
+
+【Transformer Engine：Transformer引擎，在 NVIDIA GPU上加速Transformer模型的库，包括在 Hopper GPU上使用FP8，以在训练和推理中提供更好的性能和更低的内存使用】’Transformer Engine - A library for accelerating Transformer models on NVIDIA GPUs, including using 8-bit floating point (FP8) precision on Hopper GPUs, to provide better performance with lower memory utilization in both training and inference.' by NVIDIA GitHub: github.com/NVIDIA/TransformerEngine
+
+[CV]《A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective》C Chen, Y Wu, Q Dai, H Zhou, M Xu, S Yang, X Han, Y Yu [The University of Hong Kong & The Chinese University of Hong Kong & ShanghaiTech University] (2022) 
+https://arxiv.org/abs/2209.13232
+
+[CV]《Improving Sample Quality of Diffusion Model Using Self-Attention Guidance》S Hong, G Lee, W Jang, S Kim [Korea University] (2022)
+https://arxiv.org/abs/2210.00939
+
+【深入浅出Transformers】《Transformers》 by Lucas Beyer [Google]
+https://docs.google.com/presentation/d/1ZXFIhYczos679r70Yu8vV9uO6B1J0ztzeDxbnBxD1S0/edit#slide=id.g31364026ad_3_2
+
+'VisionTransformer - ViT trained on COYO-Labeled-300M dataset' by kakaobrain GitHub: github.com/kakaobrain/coyo-vit
+
+### [CV]《RGB no more: Minimally-decoded JPEG Vision Transformers》J Park, J Johnson [University of Michigan] (2022) 
+https://arxiv.org/abs/2211.16421
+
+【基于FlashAttention优化的Transformer实现，GPT2/GPT3训练速度比Huggingface版实现快3-5倍】’Optimized Transformer implementation' by HazyResearch GitHub: github.com/HazyResearch/flash-attention/tree/main/training
+
+【Networks-Beyond-Attention：面向视觉的现代卷积网络架构资源列表】’Networks-Beyond-Attention - A compilation of network architectures for vision and others without usage of self-attention mechanism' by FocalNet GitHub: github.com/FocalNet/Networks-Beyond-Attention
+
+各种各样神奇的自注意力机制（Self-attention）变形 - 知乎
+https://zhuanlan.zhihu.com/p/527688857
+
+2023 年扩散模型还有什么可做的方向？ - 知乎
+https://www.zhihu.com/question/568791838
+
+一文解释 Diffusion Model (一) DDPM 理论推导 - 知乎
+https://zhuanlan.zhihu.com/p/565901160

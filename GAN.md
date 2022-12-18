@@ -1113,3 +1113,5 @@ https://arxiv.org/abs/2207.14425
 
 [CV]《Generator Knows What Discriminator Should Learn in Unconditional GANs》G Lee, H Kim, J Kim, S Kim, J Ha, Y Choi [NAVER AI Lab] (2022) 
 https://arxiv.org/abs/2207.13320
+
+【Awesome AI image synthesis：AI图像合成相关资源大列表】’Awesome AI image synthesis - A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.' by altryne GitHub: github.com/altryne/awesome-ai-art-image-synthesis

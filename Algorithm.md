@@ -413,3 +413,9 @@ https://www.mltut.com/best-resources-to-learn-data-structures-and-algorithms/
 
 '《剑指 Offer》 Python, Java, C++ 解题代码，LeetBook《图解算法数据结构》配套代码' by Krahets GitHub: github.com/krahets/LeetCode-Book 
 
+【Pathfinding Visualizer：寻路算法实现及可视化(Next.js+TypeScript+Tailwind)】’Pathfinding Visualizer - four pathfinding algorithms (Breadth-First Search, Depth-First Search, Dijkstra, and A-Star) and two maze generation algorithms (Binary Tree and Recursive Division)’ by Eoin Barr GitHub: github.com/eoin-barr/pathfinding-visualizer
+
+“代码随想录：一套完整的刷题计划，旨在帮助大家少走弯路，循序渐进学算法”
+https://www.programmercarl.com/
+
+'hello-algo - 《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书' by Yudong Jin GitHub: github.com/krahets/hello-algo 

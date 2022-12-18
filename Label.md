@@ -348,4 +348,20 @@ https://github.com/wkentaro/labelme
 
 GitHub 上一款开源的数据标注神器：Label Studio，可用于标注音视频、文本、图像、时间序列等数据类型，并导出为多种模型格式。
 此外，该工具还支持多账号登录、流线型工作模式、可配置标签格式、集成机器学习模型、嵌入数据管道等功能。
-GitHub：github.com/heartexlabs/label-studio ​​​​
+GitHub：github.com/heartexlabs/label-studio 
+
+'ModelFun - 一站式自动化开源标注平台' by CLUE benchmark O网页链接 GitHub: github.com/CLUEbenchmark/modelfun
+
+【TORAS：AI辅助数据标注平台】“Toronto Annotation Suite (TORAS) - a web-based AI-powered annotation platform” 
+https://aidemos.cs.toronto.edu/toras/landing
+
+【Blender Labelling Tool：基于Blender的图像标注工具】’Blender Labelling Tool - Image annotation tool made on top of Blender. YOLO, COCO, Pascal VOC' by Dene GitHub: github.com/Dene33/Blender-Labelling-Tool
+
+'Xtreme1 - The Next GEN Platform for Multisensory Training Data' by BasicAI GitHub: github.com/basicai/xtreme1
+
+开源的数据标注工具。支持音频、文本、图像、视频、时间序列等，多种类型数据的标注和注释工具。
+https://github.com/heartexlabs/label-studio
+
+### 【WEBVICOB: 网页版可视化数据标注工具】’WEBVICOB: WEB based VIsual COrpus Builder' by Clova AI Research GitHub: github.com/clovaai/webvicob
+
+### 【Streamlit文档/小票标注组件】’Streamlit - Labeling Component - Streamlit component for invoice document labeling' by Katana ML GitHub: github.com/katanaml/streamlit-sparrow-labeling-comp

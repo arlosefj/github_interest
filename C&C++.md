@@ -70,3 +70,19 @@ github.com/google/orbit
 
 cpp-core-guidelines-cheatsheet - Cheatsheet for the C++ core guidelines, including a set of tried-and-true guidelines, rules, and best practices about coding in C++.
 github.com/ufoym/cpp-core-guidelines-cheatsheet
+
+【async_simple：开源轻量级C++异步框架】'async_simple - Simple, light-weight and easy-to-use asynchronous components' by Alibaba GitHub: github.com/alibaba/async_simple
+
+【PainterEngine：由C语言编写的跨平台图形应用框架】'PainterEngine - PainterEngine is a application/game engine with software renderer,PainterEngine can be transplanted to any platform that supports C' by DBinary GitHub: github.com/matrixcascade/PainterEngine
+
+更强大的 Linux 内存分析工具。它能够显示内存变化曲线、占用详情、完整的堆栈记录等信息，有助于解决内存泄漏等问题
+https://github.com/koute/bytehound
+
+【thread-pool：基于C++20的现代线程池实现】'thread-pool - A modern thread pool implementation based on C++20' by Paul T GitHub: github.com/DeveloperPaul123/thread-pool 
+
+【C++程序内存使用分析】《 Measuring the memory usage of your C++ program 》by Daniel Lemire 
+https://lemire.me/blog/2022/11/10/measuring-the-memory-usage-of-your-c-program/
+
+'30天自制C++服务器，包含教程和源代码' by Baroquer GitHub: github.com/yuesong-feng/30dayMakeCppServer
+
+【免费书：标准C++算法完整指南】’Book: A Complete Guide to Standard C++ Algorithms' by RNDr. Simon Toth GitHub: github.com/HappyCerberus/book-cpp-algorithms 

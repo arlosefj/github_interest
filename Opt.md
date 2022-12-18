@@ -373,3 +373,15 @@ ATOM - Automated Tool for Optimized Modelling - A Python package for fast explor
 github.com/tvdboom/ATOM 
 
 【模型量化论文/文档/代码列表】'Awesome Model Quantization - A list of papers, docs, codes about model quantization' by Haotong Qin GitHub: github.com/htqin/awesome-model-quantization 
+
+【Model Compression Toolkit (MCT)：模型压缩工具包，用于在受限硬件下高效优化神经网络模型】’Model Compression Toolkit (MCT) - Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware.' by Sony GitHub: github.com/sony/model_optimization
+
+【Awesome AutoDL：深度学习自动化(神经架构搜索和超参数自动优化)相关资源大列表】’Awesome AutoDL - A curated list of automated deep learning (including neural architecture search and hyper-parameter optimization) resources.' by D-X-Y GitHub: github.com/D-X-Y/Awesome-AutoDL
+
+### 【VoltaML：用于加速机器学习和深度学习模型的轻量开源库，可优化、编译和部署模型到目标CPU和GPU设备，只需一行代码】’Accelerating Huggingface Models using voltaML - VoltaML is a lightweight library to convert and run your ML/DL deep learning models in high performance inference runtimes like TensorRT, TorchScript, ONNX and TVM.' by VoltaML GitHub: github.com/VoltaML/voltaML
+
+【一行代码提高Hugging Face Transformers性能】《BetterTransformer, Out of the Box Performance for Hugging Face Transformers》by Younes Belkada medium.com/pytorch/bettertransformer-out-of-the-box-performance-for-huggingface-transformers-3fbe27d50ab2
+
+【voltaML-fast-stable-diffusion：一行代码加速Stable Diffusion(10x)的轻量库】'voltaML-fast-stable-diffusion - Lightweight library to accelerate Stable-Diffusion, Dreambooth into fastest inference models with single line of code 🔥 🔥' by VoltaML GitHub: github.com/VoltaML/voltaML-fast-stable-diffusion
+
+【Intel平台加速版Hugging Face transformers扩展工具包，利用Intel神经压缩器提供的一套丰富的模型压缩技术: 量化、剪枝、蒸馏等，显著提高了英特尔平台上的推理效率】’Intel® Extension for Transformers: Accelerating Transformer-based Models on Intel Platforms' by Intel GitHub: github.com/intel/intel-extension-for-transformers

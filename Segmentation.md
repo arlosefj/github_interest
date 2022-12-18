@@ -1383,3 +1383,31 @@ https://arxiv.org/abs/2208.02245
 https://arxiv.org/abs/2208.01924
 
 【TotalSegmentator：对CT图像中104种重要解剖结构进行可靠分割的工具】’TotalSegmentator - Tool for robust segmentation of 104 important anatomical structures in CT images' by Jakob Wasserthal GitHub: github.com/wasserth/TotalSegmentator
+
+[CV]《Efficient Heterogeneous Video Segmentation at the Edge》J M Lin, S Pisarchyk, J Lee, D Tian, T Hou, K Raveendran, R Sarokin, G Sung, T Tolley, M Grundmann [Google] (2022) 
+https://arxiv.org/abs/2208.11666
+
+[CV]《VMFormer: End-to-End Video Matting with Transformer》J Li, V Goel, M Ohanyan, S Navasardyan, Y Wei, H Shi [University of Oregon & BJTU & Picsart AI Research (PAIR)] (2022)
+https://arxiv.org/abs/2208.12801
+
+【视频实例分割相关文献资源列表】’Awesome-Video-Instance-Segmentation-Papers' by Qing Zhong GitHub: github.com/QingZhong1996/Awesome-Video-Instance-Segmentation-Papers
+
+[CV]《TokenCut: Segmenting Objects in Images and Videos with Self-supervised Transformer and Normalized Cut》Y Wang, X Shen, Y Yuan... [CNRS & Tencent AI Lab & MIT CSAIL & ...] (2022)
+https://arxiv.org/abs/2209.00383
+
+【Robust Video Matting (RVM)：强大稳定的视频抠图】’Robust Video Matting (RVM) - Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!' by Peter Lin GitHub: github.com/PeterL1n/RobustVideoMatting 
+
+[CV]《SegNeXt: Rethinking Convolutional Attention Design for Semantic Segmentation》M Guo, C Lu, Q Hou, Z Liu, M Cheng, S Hu [Tsinghua University & Nankai University & Fitten Tech] (2022) https://arxiv.org/abs/2209.08575
+
+【DetHub：开源目标检测/实例分割实验中心】'DetHub - open source object detection / instance segmentation experiments hub’ by takuoko GitHub: github.com/okotaku/dethub
+
+[CV]《NamedMask: Distilling Segmenters from Complementary Foundation Models》G Shin, W Xie, S Albanie [University of Oxford & University of Cambridge] (2022) 
+https://arxiv.org/abs/2209.11228
+
+【GeoSeg：基于PyTorch、pytorch lightning和timm的开源语义分割工具箱，主要致力于开发用于遥感图像分割的高级视觉Transformer】'GeoSeg - an open-source semantic segmentation toolbox based on PyTorch, pytorch lightning and timm, which mainly focuses on developing advanced Vision Transformers for remote sensing image segmentation' by Libo Wang GitHub: github.com/WangLibo1995/GeoSeg
+
+'Awesome Box-supervised Instance Segmentation. - Awesome box-supervised instance segmentation papers.' by sunshine.lwt GitHub: github.com/LiWentomng/Box-supervised-instance-segmentation 
+
+【BoxInstSeg：旨在提供最先进的框监督实例分割算法的工具包】’BoxInstSeg - A toolbox for box-supervised instance segmentation.' by sunshine.lwt GitHub: github.com/LiWentomng/BoxInstSeg 
+
+【Anime Segmentation：动漫人物分割】’Anime Segmentation - high-accuracy segmentation for anime character' by SkyTNT GitHub: github.com/SkyTNT/anime-segmentation

@@ -478,3 +478,8 @@ github.com/danbider/lightning-pose
 
 HyperPose：快速灵活的人体姿态估计库
 github.com/tensorlayer/hyperpose 
+
+### 【用PyTorch复现的MoveNet姿态检测模型】’Workable MoveNet on PyTorch - Google's Next Gen Pose Estimation in PyTorch' by JinTian GitHub: github.com/jinfagang/movenet 
+
+[CV]《AlphaPose: Whole-Body Regional Multi-Person Pose Estimation and Tracking in Real-Time》H Fang, J Li, H Tang, C Xu, H Zhu, Y Xiu, Y Li, C Lu [Shanghai Jiao Tong University]
+https://arxiv.org/abs/2211.03375

@@ -218,3 +218,28 @@ GitHub 上开源的技术学习资源：《系统设计》，里面主要整理�
 GitHub：github.com/codersguild/System-Design 
 
 【co_context：协程异步多线程并发框架，以提供可靠的性能为使命，也致力于减轻用户的心智负担，让 C++ 初学者也能轻松写出高并发程序】'co_context - A coroutine framework aimed at high-concurrency io with reasonable latency, based on liburingcxx.' by Zifeng Deng GitHub: github.com/Codesire-Deng/co_context
+
+'自学计算机科学(TeachYourselfCS中文翻译)’ by Keith Null GitHub: https:// github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md
+
+### “计算机教育中缺失的一课 · The Missing Semester of Your CS Education 中文版” O网页链接 GitHub:github.com/missing-semester-cn/missing-semester-cn.github.io 
+https://www.bilibili.com/video/BV1aE41157q6/?vd_source=755883b550cb633125f234c146e2e7cb #TODO
+如何充分利用高效程序员常用工具：如何玩转命令行，如何使用强大的文本编辑器，如何高效使用版本控制，如何自动化日常任务，如何管理包和软件，如何配置桌面环境等
+
+### 著名的 P=NP 问题到底是什么？ #TODO
+https://mp.weixin.qq.com/s/iS9q1_6BPcA0VKpulL334g
+
+【Linux bash命令终极大列表】'Ultimate list of Linux bash commands' by trinib GitHub: github.com/trinib/Linux-Bash-Commands
+
+【Best Books For The Inquisitive Software Engineer】https:///gerlacdt.github.io/posts/programming-books/ 适合好奇的软件工程师的最佳书籍
+
+《像黑客一样使用命令行》。
+该书将从实际的例子出发，教你从无到有，一步一步学习命令行的使用。除了文字版本之外，亦有配套视频。
+GitHub：github.com/xuxiaodong/usingcli-book ​​​​
+
+'小林 x 图解计算机基础 - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字' by xiaolincoder 
+https://xiaolincoding.com
+GitHub: github.com/xiaolincoder/CS-Base
+
+'runcode - 在线代码编辑器，支持C、C++、Go、Nodejs、Rust、Java、Python、C Sharp、PHP，在线 js-challenge' by xjq 
+GitHub: github.com/xjq7/runcode
+https://r.xjq.icu/

@@ -107,3 +107,6 @@ github.com/AminRezaei0x443/PyTorch-LIT
 github.com/datamllab/BED_main
 
 【ML Examples：Arm Software的机器学习教程和实例】’ML Examples - Arm Machine Learning tutorials and examples' by Arm Software GitHub: github.com/ARM-software/ML-examples 
+
+'TPG: TensorRT Plugin Generator - A simple tool that can generate TensorRT plugin code quickly.' by
+NVIDIA AI IOT GitHub: github.com/NVIDIA-AI-IOT/tensorrt_plugin_generator

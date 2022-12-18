@@ -426,3 +426,23 @@ https://stackoverflow.com/questions/11779490/how-to-add-a-new-audio-not-mixing-i
 【Remsi：一行ffmpeg命令去除视频重的静音片段】’Remsi - Remove silence from video files with a 1-line ffmpeg command' by Emmanuel Bégué GitHub: github.com/bambax/Remsi 
 
 'video2numpy - Optimized library for large-scale extraction of frames and audio from video.' by Maciej Kilian GitHub: github.com/iejMac/video2numpy
+
+【Design Editor：开源版Canva，图像/视频在线编辑器】’Design Editor - Image, Presentation and Video editor. Canva clone' by layerhub-io GitHub: github.com/layerhub-io/react-design-editor
+
+'ZLMediaKit：一个基于C++11的高性能运营级流媒体服务框架 - WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181 server and client framework based on C++11' GitHub: github.com/ZLMediaKit/ZLMediaKit
+
+【mp4grep：用于转录和搜索音频/视频的命令行工具】’mp4grep - a CLI for transcribing and searching audio/video files' by Oisin O'Connell GitHub: github.com/o-oconnell/mp4grep
+
+用于处理视频的 Python 库，它支持视频剪辑、自定义效果、视频合成、格式转化、插入文字等功能。专于注视频但不局限于此，还支持处理音频和 GIF 图片。虽然现在视频剪辑的工具很丰富，但如果要批量处理视频，用 Python+moviepy 写个脚本应该可以一劳永逸，节省时间
+https://github.com/Zulko/moviepy
+
+'Squirrel-RIFE Video Frame Interpolation - 效果更好的补帧软件，显存占用更小，是DAIN速度的10-25倍，包含抽帧处理，去除动漫卡顿感' by Justin62628 GitHub: github.com/Justin62628/Squirrel-RIFE
+
+### 【通过图形界面可视化创建复杂的FFmpeg命令】“FFmpeg.guide - One stop solution to all things FFmpeg” 
+https://ffmpeg.guide/
+
+'AutoCut: 通过字幕来剪切视频' by Mu Li GitHub: github.com/mli/autocut 
+
+### Frame Interpolation(帧插值)：用静态图片制作无缝平滑视频 runwayml.com
+
+【enhancr：图形界面的视频帧插值和超分辨率】’enhancr - Video Frame Interpolation & Super Resolution using NVIDIA's TensorRT & Tencent's NCNN inference, beautifully crafted and packaged into a single app' by mafiosnik GitHub: github.com/mafiosnik777/enhancr 

@@ -362,3 +362,6 @@ https://arxiv.org/abs/2205.15463
 
 CyCLIP: Cyclic Contrastive Language-Image Pretraining
 https://arxiv.org/abs/2205.14459
+
+[CL]《Promptagator: Few-shot Dense Retrieval From 8 Examples》Z Dai, V Y. Zhao, J Ma, Y Luan, J Ni, J Lu, A Bakalov, K Guu, K B. Hall, M Chang [Google Research] (2022)
+https://arxiv.org/abs/2209.11755

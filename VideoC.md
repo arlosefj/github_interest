@@ -311,3 +311,5 @@ github.com/alibaba/EssentialMC2
 
 ### 用视频和图像共同训练的Transformer改善动作识别
 https://ai.googleblog.com/2022/03/co-training-transformer-with-videos-and.html
+
+'video-transformers - Easiest way of fine-tuning HuggingFace video classification models' by fatih GitHub: github.com/fcakyon/video-transformers

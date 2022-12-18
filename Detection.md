@@ -1109,3 +1109,30 @@ https://arxiv.org/abs/2207.02696
 https://arxiv.org/abs/2203.03800
 
 【YOLOAir：基于PyTorch的一系列YOLO检测算法组合工具箱。用来组合不同模块构建不同网络】'YOLOAir：Including YOLOv5, YOLOv7, Transformer, YOLOX, YOLOR and other networks... Support to improve backbone, head, loss, IoU, NMS...The original version was created based on YOLOv5' by iscyy GitHub: github.com/iscyy/yoloair
+
+'YOLOSeries：基于PaddleDetection的YOLO系列模型库，支持PP-YOLOE,YOLOv3,YOLOX,YOLOv5,MT-YOLOv6,YOLOv7等模型' by Feng Ni GitHub: github.com/nemonameless/PaddleDetection_YOLOSeries
+
+【YOLOv7目标自动模糊】’YOLOv7 Object Blurring Using PyTorch and OpenCV' by Muhammad Rizwan Munawar GitHub: github.com/RizwanMunawar/yolov7-object-blurring
+
+[CV]《Detecting the unknown in Object Detection》D Fontanel, M Tarantino, F Cermelli, B Caputo [Politecnico di Torino] (2022)
+https://arxiv.org/abs/2208.11641
+
+[CV]《A Survey of Deep Learning for Low-Shot Object Detection》Q Huang, H Zhang, M Xue, J Song, M Song [Zhejiang University] (2021) https://arxiv.org/abs/2112.02814
+
+【Change Detection Laboratory：用 PyTorch 开发的基于深度学习遥感影像变化检测项目，可作为算法开发、训练框架，也可作为基线测试平台】'Change Detection Laboratory - Yet another repository for developing and benchmarking deep learning-based change detection methods.' by Lin Manhui GitHub: github.com/Bobholamovic/CDLab
+
+【detrex：基于Transformer的检测算法工具包】’detrex - IDEA Open Source Toolbox for Transformer Based Object Detection Algorithms' by IDEA-Research GitHub: github.com/IDEA-Research/detrex 
+
+'mmyolo - OpenMMLab YOLO series toolbox and benchmark' by OpenMMLab GitHub: github.com/open-mmlab/mmyolo 
+
+[CV]《SuperYOLO: Super Resolution Assisted Object Detection in Multimodal Remote Sensing Imagery》J Zhang, J Lei, W Xie, Z Fang, Y Li, Q Du [Xidian University & Simon Fraser University & Mississippi State University] (2022)
+https://arxiv.org/abs/2209.13351
+
+【PyTorch Out-of-Distribution Detection：PyTorch分布外检测(OOD)研究库】’PyTorch Out-of-Distribution Detection - PyTorch-based library to accelerate research in Out-of-Distribution (OOD) Detection’ by kkirchheim GitHub: github.com/kkirchheim/pytorch-ood
+
+'Easy Object Detection with Transformers: Simple Implementation of Pix2Seq model in PyTorch' by Moein Shariatnia GitHub: github.com/moein-shariatnia/Pix2Seq 
+
+[CV]《DiffusionDet: Diffusion Model for Object Detection》S Chen, P Sun, Y Song, P Luo [The University of Hong Kong & Tencent AI Lab] (2022) 
+https://arxiv.org/abs/2211.09788
+
+【Roboflow 100: 富多域目标检测基准】'Roboflow 100: A Rich, Multi-Domain Object Detection Benchmark ' by Roboflow GitHub: github.com/roboflow-ai/roboflow-100-benchmark

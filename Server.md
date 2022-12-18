@@ -458,3 +458,27 @@ GitHub：github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources
 
 'Acorn - A simple application deployment framework for Kubernetes' by Acorn Labs GitHub: github.com/acorn-io/acorn
 
+【黑客工具速查】《Hacking Tools Cheat Sheet》 Github: github.com/CompassSecurity/Hacking_Tools_Cheat_Sheet https://blog.compass-security.com/2019/10/hacking-tools-cheat-sheet/
+
+'Kubernetes Tutorials ｜ k8s 教程' by liguangzheng GitHub: github.com/guangzhengli/k8s-tutorials
+
+【MLOps Platform Skeleton：MLOps简化平台】’MLOps Platform Skeleton - A MLOps platform using prefect, mlflow, FastAPI, Prometheus/Grafana und streamlit' by Daniel Pleus GitHub: github.com/dpleus/mlops
+
+多功能主机管理平台。Go 写的主机管理 Web 平台，支持 shell 和远程桌面管理 Linux、Windows 和 macOS 系统的主机。
+https://github.com/lwch/natpass
+
+用 Python 操作 Kubernetes 的框架。Kubernetes(k8s) 是一个容器编排系统，它本身提供了命令行工具(kubectl)，但有时无法实现较为复杂的操作。通过该项目可以用 Python 轻松完成，需要条件判断、事件触发等复杂的 k8s 操作。
+https://github.com/nolar/kopf
+
+多服务器云监控。轻松监控多台服务器状态的工具，用于解决多个不同平台下的服务器状态监控问题
+https://github.com/cppla/ServerStatus
+
+平铺的监控工具。安装简单配置方便的“监控墙”，所有监控指标以平铺的方式展示，美观且一目了然。支持 Linux、macOS 和 Windows 主流操作系统
+https://github.com/monitoror/monitoror
+
+【DevOps路线图】’DevOps Roadmap 2022. - DevOps Roadmap for 2022. with learning resources' by Milan Milanovic GitHub: github.com/milanm/DevOps-Roadmap 带你快速了解最新的 DevOps 技术栈。
+里面包含了 Git、常用编程语言、Linux、网络安全、容器、IaC、CI/CD 等各种 DevOps 相关的学习资料。
+
+'Podman Desktop - A graphical tool for developing on containers and Kubernetes' by Containers GitHub: github.com/containers/podman-desktop
+
+【Kubernetes学习路线图】’kubernetes-learning-path - A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)' by TechiesCamp GitHub: github.com/techiescamp/kubernetes-learning-path 

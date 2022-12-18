@@ -705,3 +705,19 @@ https://huggingface.co/spaces/akhaliq/ArcaneGAN
 
 PaddleBoBo：基于飞桨开发的虚拟主播
 github.com/JiehangXie/PaddleBoBo
+
+卡通脸转换模型
+https://colab.research.google.com/github/williamyang1991/VToonify/blob/master/notebooks/inference_playground.ipynb
+https://huggingface.co/PKUWilliamYang/VToonify
+https://huggingface.co/spaces/PKUWilliamYang/VToonify
+https://arxiv.org/abs/2209.11224
+
+【《深度学习产品应用》随书代码】’Production-Ready Applied Deep Learning - Production-Ready Applied Deep Learning' GitHub: github.com/PacktPublishing/Production-Ready-Applied-Deep-Learning
+
+'MLOps for Vision Models (TensorFlow) from Transformers with TensorFlow Extended (TFX) - shows how to build Machine Learning pipeline for a vision model (TensorFlow) from Transformers using the TensorFlow Ecosystem' by Chansung Park GitHub: github.com/deep-diver/mlops-hf-tf-vision-models
+
+【CircularNet垃圾识别：用机器学习从废品中分拣可回收材料】《CircularNet: Reducing waste with Machine Learning | The TensorFlow Blog》
+
+【labml.ai深度学习论文注释与复现集】’labml.ai Deep Learning Paper Implementations - 50! Implementations/tutorials of deep learning papers with side-by-side notes; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), reinforcement learning (ppo, dqn), capsnet, distillation, ...' GitHub: github.com/labmlai/annotated_deep_learning_paper_implementations
+
+’Creative AI’ by Sony GitHub: github.com/sony/creativeai

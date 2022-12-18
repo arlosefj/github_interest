@@ -264,3 +264,63 @@ https://law.xmu.edu.cn/__local/C/50/A6/8949079917E598AF39968777D8F_A60C45FB_E671
 【ArXiv LaTeX论文提交准备工具】’Submission Sanitizer & Flattener - Simple Python scripts to clean up and flatten ArXiv LaTeX submissions.' by David Stutz GitHub: github.com/davidstutz/arxiv-submission-sanitizer-flattener 
 
 【神经网络架构演示图集(draw.io)】’Neural Network Architecture Diagrams - Diagrams for visualizing neural network architecture (Created with diagrams.net)' by Kenneth Leung GitHub: github.com/kennethleungty/Neural-Network-Architecture-Diagrams
+
+【Paper Picture Writing Code：基于LaTex开源论文中常用的画图代码，帮助同学们提高论文写作画图的质量和效率、学会更好地利用LaTex画图】’Paper Picture Writing Code - Paper Picture Writing Code' by MLNLP-World GitHub: github.com/MLNLP-World/Paper-Picture-Writing-Code 
+
+【Zotero PDF Preview：Zotero的PDF预览插件】’Zotero PDF Preview - PDF Preview for Zotero.' by windingwind GitHub: github.com/windingwind/zotero-pdf-preview 
+
+【Enhance Your English Writing：…阅读论文过程中收集整理的一些好的英语用法，希望能帮助到你的写作】'Enhance Your English Writing' by Crazyang GitHub: github.com/yzy1996/English-Writing
+
+【写论文的十条简单规则】《Ten simple rules for structuring papers》
+http://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1005619
+
+【CVPR / ICCV LaTeX Template：CVPR/ICCV论文扩展LaTeX模板】'CVPR / ICCV LaTeX Template - Extended LaTeX template for CVPR/ICCV papers' by Apoorv Khandelwal GitHub: github.com/apoorvkh/cvpr-latex-template
+
+帮助同学们阅读论文的工具网站。沈向洋大力推荐。
+https://readpaper.com/paper/707019812055322624
+
+LaTeX 画图代码库：Paper Picture Writing Code。
+里面包含了几种 AI 论文中常用的画图代码，如折线图、柱状图、散点图、注意力可视化以及结构图等。
+该代码库可帮助大家提高论文写作画图的质量和效率、学会更好地利用 LaTeX 画图。
+GitHub：github.com/MLNLP-World/Paper-Picture-Writing-Code
+此外，项目中附有详细的代码笔记讲解，供同学们进一步学习以及拓展实践。
+
+GitHub 上开源的学习资料：《Enhance Your English Writing》，作者是香港城市大学的一名博士生。主要收录他在阅读论文的过程中，发现的一些好的英语用法。
+GitHub：github.com/yzy1996/English-Writing ​​​​
+
+【科技论文写作：手把手入门指南】《Writing a scientific article: A step-by-step guide for beginners》
+https://www.sciencedirect.com/science/article/abs/pii/S1878764915001606
+
+【SciSpace：论文阅读助手，可解释高亮话语、自动回答关于文献的提问，支持自己上传文档】“SciSpace：Discover, Create, and Publish your research paper” 
+https://typeset.io/
+
+【Elicit：基于GPT-3的AI科研工具，可以辅助对数据集分类、在论文中搜索研究问题】“Elicit - The AI Research Assistant”
+https://elicit.org/
+
+【学术写作实用指南】《Academic writing - Academic writing: a practical guide - Subject Guides at University of York》
+https://subjectguides.york.ac.uk/academic-writing
+
+【78K的Google Scholars数据，太赞了！[酷]】’AI Scholar Dataset - 78K Google Scholars data’ by CausalNLP GitHub: github.com/causalNLP/AI-Scholar
+
+计算机视觉方向的博士，如何做到一直follow新技术？
+https://www.zhihu.com/question/478158497
+
+为什么有的计算机本科生就能发表顶会，但是许多博士生还是一篇都没有？ - 知乎
+https://www.zhihu.com/question/565784411
+
+【AI-Paper-collector：AI顶会论文采集工具】’AI-Paper-collector - Fully-automated scripts for collecting AI-related papers' by Gordon Lee GitHub: github.com/Doragd/AI-Paper-collector 
+
+AI论文搜索(WEB版)
+https://ai-paper-collector.vercel.app/
+
+你的导师对你说过哪些让你至今难以忘怀的话？ - 知乎
+https://www.zhihu.com/question/558479983
+
+有没有人可以一个人在家发表 AI 顶会论文？ - 知乎
+https://www.zhihu.com/question/552884856
+
+读博总结的总结：整理优质的CS读博(PhD)总结和建议文章 - 知乎
+https://zhuanlan.zhihu.com/p/347223193
+
+你的科研能力从什么时候开始突飞猛进的？ - 知乎
+https://www.zhihu.com/question/524855881

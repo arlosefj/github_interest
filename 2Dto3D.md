@@ -551,3 +551,13 @@ https://arxiv.org/abs/2206.03048
 【深度学习3D视觉最新论文列表】’Trending-in-3D-Vision - An on-going paper list on new trends in 3D vision with deep learning' by Xiaolong GitHub: github.com/dragonlong/Trending-in-3D-Vision
 
 【SL Sensor：基于ROS的开源结构光传感器，用于高精度3D扫描】'SL Sensor: an open-source, ROS-based, structured light sensor for high-accuracy 3D scanning' by ETHZ ASL GitHub: github.com/ethz-asl/sl_sensor 
+
+[CV]《GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images》J Gao, T Shen, Z Wang, W Chen, K Yin, D Li, O Litany, Z Gojcic, S Fidler [NVIDIA] (2022) 
+https://arxiv.org/abs/2209.11163
+
+'Depth Maps for Stable Diffusion WebUI' by thygate GitHub: github.com/thygate/stable-diffusion-webui-depthmap-script
+
+'ONNX SCDepth Monocular Depth Estimation' by Ibai Gorordo GitHub: github.com/ibaiGorordo/ONNX-SCDepth-Monocular-Depth-Estimation 
+
+[CV]《SSDNeRF: Semantic Soft Decomposition of Neural Radiance Fields》S Ranade, C Lassner, K Li, C Haene, S Chen, J Bazin, S Bouaziz [Meta & University of Utah] (2022)
+https://arxiv.org/abs/2212.03406

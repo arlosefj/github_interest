@@ -310,3 +310,36 @@ https://arxiv.org/abs/2207.11347
 介绍下我们最近的工作，我们的论文“Knowledge Inheritance for Pre-trained Language Models”被NAACL-HLT 2022录用。在本次工作中，我们重点探讨了一个加速预训练的问题，即如何利用已经训练的 PLM 帮助未来训练更大的 PLM。具体来说，我们提出了一个名为“知识继承”（KI）的预训练框架，并探讨了知识蒸馏如何在预训练期间作为辅助监督信号来提升更大的 PLM的训练效率。实验结果证明了KI的优越性。我们还进行了系统、全面的分析，以探索已有模型的模型架构、预训练数据等设置对 KI 的影响。最后，我们表明 KI 在跨领域适配和知识迁移等方向具有很好的应用价值。该工作与腾讯微信模式识别中心合作完成。欢迎感兴趣的朋友尝试。
 论文链接：https://aclanthology.org/2022.naacl-main.288/
 代码地址：https: //github.com/thunlp/Knowledge-Inheritance
+
+【深度学习集体智慧：最新发展概览】《Collective Intelligence for Deep Learning: A Survey of Recent Developments | 大トロ》 
+https://blog.otoro.net/2022/10/01/collectiveintelligence/
+
+### 16份AI通讯(Newsletter)/博客
+1、The Batch https://www.deeplearning.ai/the-batch/
+2、Paper with Code Newsletter https://paperswithcode.com/newsletter
+3、Ahead of AI By Sebastian Raschka https://newsletter.sebastianraschka.com/
+4、Import AI https://jack-clark.net/
+5、AI Weekly https://aiweekly.co/
+6、Deep Learning Weekly https://www.deeplearningweekly.com/
+7、The Algorithm by MIT Technology Review https://forms.technologyreview.com/newsletters/ai-demystified-the-algorithm/
+8、Inside AI https://inside.com/ai
+9、Last Week in AI https://lastweekin.ai/
+10、Eye on A.I. https://fortune.com/newsletter/eye-on-ai
+11、The European AI Newsletter https://www.europeanartificialintelligence.com/
+12、ChinAI Newsletter https://chinai.substack.com/
+13、TLDR https://tldr.tech/
+14、NLP News By Sebastian Ruder http://newsletter.ruder.io/
+15、The AssemblyAI blog https://www.assemblyai.com/blog/an-introduction-to-poisson-flow-generative-models/
+16、5 Minutes of Data Science https://pedromadruga.com/newsletter/
+
+[CV]《Harmonizing the object recognition strategies of deep neural networks with humans》T Fel, I Felipe, D Linsley, T Serre [Brown University] (2022)
+https://arxiv.org/abs/2211.04533
+
+[LG]《Finding Differences Between Transformers and ConvNets Using Counterfactual Simulation Testing》N Ruiz, S A Bargal, C Xie, K Saenko, S Sclaroff [Boston University & Georgetown University & University of California, Santa Cruz] (2022)
+https://arxiv.org/abs/2211.16499
+
+【Transformer权重矩阵奇异值分解(SVD)具有高度可解释性】《The Singular Value Decompositions of Transformer Weight Matrices are Highly Interpretable》by beren, Sid Black
+https://arxiv.org/abs/2211.17256
+
+深度学习领域，你心目中 idea 最惊艳的论文是哪篇？ - 知乎
+https://www.zhihu.com/question/440729199

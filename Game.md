@@ -187,3 +187,13 @@ github.com/mgerdes/Open-Golf
 
 Awesome Open Source Games：开源游戏大列表
 github.com/michelpereira/awesome-open-source-games
+
+一款用 Unity 制作的联机赛车游戏。这是一套完整的网络联机游戏解决方案，项目包含游戏端、服务器端、网络传输和管理后台。游戏支持计时赛、多人比赛、个人成就、资源热更等特性，可以运行在 iOS/Android/Windows 设备上。
+https://github.com/TastSong/CrazyCar
+
+基于快手开源的斗地主强化学习框架，实现的欢乐斗地主 AI 助手
+https://github.com/tianqiraf/DouZero_For_HappyDouDiZhu
+
+【Pyxel：Python经典像素风游戏制作引擎】’Pyxel - A retro game engine for Python' by Takashi Kitao GitHub: github.com/kitao/pyxel 
+
+【smolnes：任天堂红白机袖珍模拟器】’smolnes - NES emulator in <5000 bytes of C++' by Ben Smith GitHub: github.com/binji/smolnes 

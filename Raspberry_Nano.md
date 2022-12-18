@@ -174,3 +174,7 @@ github.com/wxlscm/raspberry_tutorial
 
 'YOLOV5 GPU optimization sample' by NVIDIA AI IOT GitHub: github.com/NVIDIA-AI-IOT/yolov5_gpu_optimization 
 
+### 【NVIDIA Jetson上深度学习加速器(DLA)开发入门】’Getting started with the Deep Learning Accelerator on NVIDIA Jetson Orin - A tutorial for getting started with the Deep Learning Accelerator (DLA) on NVIDIA Jetson' by NVIDIA AI IOT GitHub: github.com/NVIDIA-AI-IOT/jetson_dla_tutorial 
+
+### 'JetNet - Easy to use neural networks for NVIDIA Jetson (and desktop too!)' by NVIDIA-AI-IOT 
+GitHub: github.com/NVIDIA-AI-IOT/jetnet

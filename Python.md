@@ -956,3 +956,40 @@ Python几何处理工具箱】’A Python Geometry Processing Toolbox - A collec
 
 【Aquarel：轻松设置matplotlib可视化风格】’Aquarel - Styling matplotlib made easy' by Lukas Gienapp GitHub: github.com/lgienapp/aquarel 
 
+【用Jupyter创建dashboard指南】《How to create a dashboard in Python with Jupyter Notebook? | MLJAR》by Aleksandra Płońska, Piotr Płoński 
+https://mljar.com/blog/dashboard-python-jupyter-notebook/
+
+用 top 的方式分析 Python 程序性能的工具。一款 Python 程序性能分析工具，它可以让你在不重启程序或修改代码的情况，直观地看到 Python 程序中每个函数花费的时间。
+https://github.com/benfred/py-spy
+
+可运行在单片机上的 Python。众所周知 Python 是一门语法非常简单的编程语言，如果能用 Python 操控硬件岂不美哉！该项目就是单片机上的“迷你” Python，通过它就可以用 Python3 进行单片机开发了，大大地降低了硬件开发的入门门槛。
+https://github.com/micropython/micropython
+
+Python 的内存分析器。帮你分析 Python 应用的内存使用情况，找到内存泄漏的原因、占用内存多的代码、内存使用率高的原因。支持生成内存报告（火焰图、表格、树状图）和实时报告等模式，以及统计结果等功能
+https://github.com/bloomberg/memray
+
+用 Python 操作 Docker 的库。Docker 官方出品的 Python 库，可以用来批量、自动管理镜像
+https://github.com/docker/docker-py
+
+快速构建 Web 应用的 Python 工具。通过该项目你可在不写 HTML、CSS、JS 代码的前提下，仅用 Python 快速完成一个包含数据展示、表单的小型 Web 应用页面
+https://github.com/pywebio/PyWebIO
+
+【Jupyter Notebook速查】《Jupyter Notebook Cheat Sheet | DataCamp》
+https://www.datacamp.com/cheat-sheet/jupyter-notebook-cheat-sheet
+
+【latexify_py：用Python生成LaTeX数学公式(基于规则)】’latexify_py - Generates LaTeX math description from Python functions.' by Yusuke Oda GitHub: github.com/google/latexify_py
+
+【NiceGUI：易用的Python UI框架，显示在Web浏览器里，可创建按钮，对话框，markdown，3D场景，绘图等】’NiceGUI - an easy-to-use, Python-based UI framework, which shows up in your web browser. You can create buttons, dialogs, markdown, 3D scenes, plots and much more.' by Zauberzeug GmbH GitHub: github.com/zauberzeug/nicegui
+
+【Daily Python Scripts：Python日常脚本库，用于自动化日常任务】'Daily Python Scripts - A repository of python scripts that come in handy in automating day-to-day tasks' by Metafy GitHub: github.com/metafy-social/daily-python-scripts
+
+【Textual：受网页开发启发的Python文本用户界面库】’Textual - a TUI (Text User Interface) framework for Python inspired by modern web development.' by Will McGugan GitHub: github.com/willmcgugan/textual
+
+AutoProfiler：Jupyter侧边栏里的dataframe图形化概览和分析工具，开箱即用
+Github: github.com/cmudig/AutoProfiler
+
+【Lumi：可以将Python函数无痛转为REST API的微框架】’Lumi - an nano framework to convert your python functions into a REST API without any extra headache.' by Tanmoy Sarkar GitHub: github.com/Tanmoy741127/lumi 
+
+【Codon：高性能Python编译器，可将Python代码编译成本机代码，无需任何运行时开销。单线程对Python的典型加速10-100倍或更多，其的性能通常与C/C + +相当(有时甚至更好)。Codon支持本机多线程，可能带来更高的加速倍数】’Codon - A high-performance, zero-overhead, extensible Python compiler using LLVM' by Exaloop GitHub: github.com/exaloop/codon
+
+### 【Pynecone：轻松构建和部署Web应用的Python框架】’Pynecone - a full-stack Python framework that makes it easy to build and deploy web apps in minutes' GitHub: github.com/pynecone-io/pynecone 

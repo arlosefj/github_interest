@@ -932,3 +932,48 @@ github.com/wangwen-whu/WTW-Dataset
 ### 【文档图像整改相关论文资源列表】'Awesome Document Image Rectification - A comprehensive list of awesome document image rectification papers.' by Hao Feng GitHub: github.com/fh2019ustc/Awesome-Document-Image-Rectification
 
 'OcrPy - OCR, Archive, Index and Search: Implementation agnostic OCR framework.' by maxent GitHub: github.com/maxent-ai/ocrpy
+
+[CV]《Boosting Modern and Historical Handwritten Text Recognition with Deformable Convolutions》S Cascianelli, M Cornia, L Baraldi, R Cucchiara [University of Modena and Reggio Emilia] (2022) 
+https://arxiv.org/abs/2208.08109
+
+【OCRmyPDF：为扫描PDF增加OCR文本层，可实现文本内容搜索】’OCRmyPDF - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched' GitHub: github.com/ocrmypdf/OCRmyPDF
+
+【text_normalization：中文文本规范化工具】’text_normalization' by pengzhendong GitHub: github.com/pengzhendong/text_normalization
+
+【Text-Grab：Win10的截屏OCR文字识别工具】’Text-Grab - Use OCR in Windows 10 quickly and easily with Text Grab. With optional background process and popups.' by Joseph Finney GitHub: github.com/TheJoeFin/Text-Grab 
+
+'Umi-OCR 批量图片转文字工具 - OCR批量图片转文字识别软件，带界面，离线运行。可排除图片中水印区域的干扰，提取干净的文本。基于 PaddleOCR 。' by hiroi-sora GitHub: github.com/hiroi-sora/Umi-OCR
+
+'通用信息抽取 UIE(Universal Information Extraction) PyTorch版' by heiheiyoyo GitHub: github.com/heiheiyoyo/uie_pytorch 
+
+[CV]《PreSTU: Pre-Training for Scene-Text Understanding》J Kil, S Changpinyo, X Chen, H Hu, S Goodman, W Chao, R Soricut [The Ohio State University & Google Research] (2022) 
+https://arxiv.org/abs/2209.05534
+
+模拟手写体中文的 Python 库。基于 PIL 开发实现的工具库，能够输出手写体中文的图片，支持自定义背景图
+https://github.com/Gsllchb/Handright
+
+增值税发票 OCR 识别项目。包含训练好的模型和微服务，启动后可直接通过接口调用
+https://github.com/guanshuicheng/invoice
+
+【文本纠错相关文献资源列表】’Text Correction Papers - text correction papers' by HuYong 
+GitHub: github.com/nghuyong/text-correction-papers
+
+【Deslanting Algorithm：手写体倾斜校正】’Deslanting Algorithm - The deslanting algorithm sets text upright in images. Python, C++ and OpenCL implementations provided.' by Harald Scheidl GitHub: github.com/githubharald/DeslantImg
+
+【AutoCorrect：基于 Rust 编写的 CLI 工具，用于「自动纠正」或「检查并建议」文案，给 CJK（中文、日语、韩语）与英文混写的场景，补充正确的空格，纠正单词，同时尝试以安全的方式自动纠正标点符号等等】'AutoCorrect - AutoCorrect is a linter and formatter to help you to improve copywriting, correct spaces, words, punctuations between CJK (Chinese, Japanese, Korean).' by Jason Lee GitHub: github.com/huacnlee/autocorrect 
+
+'Umi-OCR 批量图片转文字工具 - OCR批量图片转文字识别软件，带界面，离线运行。可排除图片中水印区域的干扰，提取干净的文本。基于 PaddleOCR 。' by hiroi-sora GitHub: github.com/hiroi-sora/Umi-OCR 
+
+「GitHub多星项目 ✨」8K⭐️ DayBreak-u/chineseocr_lite: 「超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M 
+
+### 【PyTorch-IE: PyTorch实现的最先进的信息抽取】’PyTorch-IE: State-of-the-art Information Extraction in PyTorch - PyTorch-IE: State-of-the-art Information Extraction in PyTorch' by Christoph Alt GitHub: github.com/ChristophAlt/pytorch-ie
+
+【OpenFind：苹果手机用来搜索图片中文字的App】’OpenFind - An app to find text in real life. Now open-source!' by Andrew Zheng GitHub: github.com/aheze/OpenFind
+
+《Document AI: LiLT a better language agnostic LayoutLM model》 
+https://www.philschmid.de/fine-tuning-lilt
+
+【加速文档AI(图像分类、图像转文本、文档问答、表格问答、视觉问答等)】《Accelerating Document AI》
+https://huggingface.co/blog/document-ai
+
+'Bob - 一款 macOS 平台翻译和 OCR 软件' by zongyi GitHub: github.com/ripperhe/Bob 

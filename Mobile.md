@@ -196,3 +196,7 @@ GitHub 上开源的 WhatsApp 克隆项目：What's App Clone Project，实现了
 - 使用 Kotlin 协程执行后台任务；
 - 将聊天系统与 Stream Chat SDK 集成以进行实时事件处理。
 GitHub：github.com/GetStream/whatsApp-clone-compose
+
+'ComWeChatRobot - PC微信机器人，实现获取通讯录，发送文本、图片、文件等消息，封装COM接口供Python等调用' by Jack Li GitHub: github.com/ljc545w/ComWeChatRobot
+
+'lamda - Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/自动化辅助框架' by REV1SI0N GitHub: github.com/rev1si0n/lamda

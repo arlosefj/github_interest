@@ -347,3 +347,12 @@ github.com/jiseongHAN/Super-Mario-RL
 https://space.bilibili.com/471559565/channel/seriesdetail?sid=2413153
 
 'MO-Gym: Multi-Objective Reinforcement Learning Environments' by Lucas Alegre GitHub: github.com/LucasAlegre/mo-gym
+
+'Scikit-decide for Python - AI framework for Reinforcement Learning, Automated Planning and Scheduling' by Airbus GitHub: github.com/airbus/scikit-decide
+
+'RLcode - 白话强化学习‘ by louisnino GitHub: github.com/louisnino/RLcode 
+
+【强化学习手把手实战课程】《Reinforcement Learning Course: Hands-On, Step by Step, and Free》
+https://datamachines.xyz/the-hands-on-reinforcement-learning-course-page/
+
+【huggingface深度强化学习开放课程2.0】《Deep Reinforcement Learning Course》 simoninithomas.github.io/deep-rl-course/ 

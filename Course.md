@@ -316,3 +316,27 @@ https://le.ouchn.cn/#/home
 https://www.zhuanzhi.ai/vip/cfaf10ab05c984aaed78f3b981d207ba
 
 【Artificial Intelligence for Beginners - A Curriculum：微软的12周24节人工智能入门课程】’Artificial Intelligence for Beginners - A Curriculum - 12 Weeks, 24 Lessons, AI for All!' by Microsoft GitHub: github.com/microsoft/AI-For-Beginners
+
+【《机器学习理论》课程】《STATS 231C: Theories of Machine Learning -- Spring 22 - YouTube》
+https://www.youtube.com/playlist?list=PLN_qg0-2-0SxKyZLv_FotPDED5ET_rQmo
+
+【《深度学习系统：算法和实现》课程】《Deep Learning Systems: Algorithms and Implementation - YouTube》
+https://www.youtube.com/channel/UC3-KIvmiIaZimgXMNt7F99g/videos
+
+【免费教材及课程：计算与推理思维——数据科学基础】《Computational and Inferential Thinking: The Foundations of Data Science》by Ani Adhikari, John DeNero, David Wagner GitHub: github.com/data-8/textbook 
+http://data8.org/fa21/
+https://inferentialthinking.com/chapters/intro
+
+南大《机器学习初步》慕课
+https://www.xuetangx.com/course/nju0802bt/14363483
+
+【日内瓦大学《深度学习》课程】《UNIGE 14x050 – Deep Learning | University of Geneva》by François Fleuret
+https://fleuret.org/dlc/
+
+【斯坦福《CS231A计算机视觉：从3D重建到识别》课程资料】《CS231A: Computer Vision, From 3D Reconstruction to Recognition》by Silvio Savarese, Jeannette Bohg 
+https://web.stanford.edu/class/cs231a/index.html
+https://web.stanford.edu/class/cs231a/course_notes.html
+
+【图宾根大学《深度学习数学基础》课程】《Math for Deep Learning》by Andreas Geiger www.youtube.com/playlist?list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm
+
+【Data Science for Beginners：微软10周20堂数据科学课】’Data Science for Beginners - A Curriculum - 10 Weeks, 20 Lessons, Data Science for All!' by Microsoft microsoft.github.io/Data-Science-For-Beginners GitHub: https:// github.com/microsoft/Data-Science-For-Beginners

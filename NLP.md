@@ -660,3 +660,139 @@ https://aman.ai/papers/
 
 Python几何处理工具箱】’A Python Geometry Processing Toolbox - A collection of utility functions to prototype geometry processing research in python' by Silvia Sellán GitHub: github.com/sgsellan/gpytoolbox
 https://txt.cohere.ai/running-large-language-models-in-production-a-look-at-the-inference-framework-tif
+
+【PyCantonese:Python粤语NLP库】’PyCantonese: Cantonese Linguistics and NLP in Python' by jacksonllee GitHub: github.com/jacksonllee/pycantonese
+
+【DeepPavlov：构建在TensorFlow, Keras, PyTorch上的开源对话AI库】'DeepPavlov - an open-source conversational AI library built on TensorFlow, Keras and PyTorch’ GitHub: github.com/deeppavlovteam/DeepPavlov
+
+推荐一个大模型开发神器，可以在线免费体验用 1750 亿参数的 OPT 模型完成多种文本生成任务，包括事实问答、聊天机器人、文章创作等，非常便捷。
+在线体验：[O网页链接](https://service.colossalai.org/)
+该项目核心背后，用到了面向大模型时代的通用深度学习系统 Colossal-AI，仅需几行代码，便能高效快速部署 AI 大模型训练和推理，促进 AI 大模型低成本应用和落地。
+目前代码已在 GitHub 开源，并附有详细的中文使用教程。github.com/hpcaitech/ColossalAI
+
+GLM-130B 是一个开源开放的双语（中文和英文）双向稠密模型，拥有 1300 亿参数，模型架构采用通用语言模型（GLM）。模型完全开放、共享；相关代码也完全开放。直接下载去吧 O网页链接 目标是助力研究、产业界超低成本理解大模型、超低成本使用大模型。经过量化至INT4，GLM-130B可以 4 张 3090 / 8 张 2080 Ti 上完成推理。这下大家不会说预训练模型贵了吧。。。
+模型特点：
+双语：同时支持中文和英文。
+高精度（英文）： 在 LAMBADA 上优于 GPT-3 175B（+4.0%）、OPT-175B（+5.5%）和 BLOOM-176B（+13.0%），在 MMLU 上略优于 GPT-3 175B（+0.9%）。
+高精度（中文）：在 7 个零样本 CLUE 数据集（+24.26%）和 5 个零样本 FewCLUE 数据集（+12.75%）上明显优于 ERNIE TITAN 3.0 260B。
+快速推理：支持用一台 A100 服务器使用 SAT 和 FasterTransformer 进行快速推理（提速最高可达 2.5 倍）。
+可复现性：所有结果（超过 30 个任务）均可通过我们的开源代码和模型参数轻松复现。
+跨平台：支持在 NVIDIA、海光DCU、华为Ascend 910 和 神威Sunway 处理器上进行训练与推理。
+https://keg.cs.tsinghua.edu.cn/glm-130b/zh/posts/glm-130b/
+https://models.aminer.cn/democenter?demo=fill_blank_and_choice
+
+'PKU-TANGENT nlp-tutorial - NLP新手入门教程' by PKU-TANGENT GitHub: github.com/PKU-TANGENT/nlp-tutorial 
+
+简单易用的 NLP 框架。基于 PyTorch 的 NLP 框架，支持文本命名实体识别(NER)、词性标注(PoS)、词义消歧和分类。项目中包含详细的使用教程，介绍了如何标记文本、训练语言模型等。
+https://github.com/flairNLP/flair
+
+【YATO：深度学习文本分析工具包】'YATO: Yet Another deep learning based Text analysis Open toolkit' by Jie Yang GitHub: github.com/jiesutd/YATO
+
+【natbot：用GPT-3操作浏览器】’natbot - Drive a browser with GPT-3' by Nat Friedman GitHub: github.com/nat/natbot
+
+'Pretty-Pytorch-Text-Classification - A (very pretty) Pytorch based Framework for Text Classification' by Haorui HE GitHub: github.com/HarryHe11/Pretty-Pytorch-Text-Classification 
+
+'timeparser - (中文)时间抽取、解析、标准化工具' by Junhui Yu GitHub: github.com/yujunhuics/timeparser 
+
+Answer，一个功能齐全的开源问答系统，可应用于产品技术支持、用户交流、工单管理等各种场景。完整适配了移动端，可通过 Docker 快速部署。
+GitHub：github.com/answerdev/answer 
+
+[CL]《Creative Writing with an AI-Powered Writing Assistant: Perspectives from Professional Writers》D Ippolito, A Yuan, A Coenen, S Burnam [Google Research] (2022) 
+https://arxiv.org/abs/2211.05030
+
+【chat-miner: 对话数据解析和可视化工具支持WhatsApp, Signal, Telegram, Facebook Messenger导出文件】’chat-miner: parsing of chat histories - Lean parsers and visualizations for chat data' by Jonas Weich GitHub: github.com/joweich/chat-miner
+
+'MiniRBT (中文小型预训练模型)' by iFLYTEK GitHub: github.com/iflytek/MiniRBT
+
+【Galactica：面向科研的大型语言模型，可以摘要学术文献、求解数学问题、生成维基文章、编写科研代码、标注分子和蛋白质等等】“Galactica Demo - an AI trained on humanity's scientific knowledge” O网页链接 Github: github.com/paperswithcode/galai 
+
+【BertViz：NLP模型(BERT, GPT2, BART, etc.)注意力可视化工具】’BertViz - BertViz: Visualize Attention in NLP Models (BERT, GPT2, BART, etc.)' by Jesse Vig GitHub: github.com/jessevig/bertviz 
+
+【ThoughtSource：大型语言模型思维链推理相关数据工具资源】'ThoughtSource - A central, open resource for data and tools related to chain-of-thought reasoning in large language models' by OpenBioLink GitHub: github.com/OpenBioLink/ThoughtSource 
+
+【深度学习现象识别与理解相关文献列表】’Awesome Deep Phenomena - A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...' by Minghui Chen GitHub: github.com/MinghuiChen43/awesome-deep-phenomena
+
+【nessie：语料库标注错误检测】’nessie - Automatically detect errors in annotated corpora.' by UKPLab GitHub: github.com/UKPLab/nessie 
+
+【Notion刚发布了Notion AI，用AI交互生成博客文章、交互修正语法、智能翻译】“Notion AI” 
+https://www.notion.so/product/ai
+
+【BERTopic+Whisper做视频话题聚类】《Using BERTopic and Whisper on Kurzgesagt’s videos》by Maarten Grootendorst towardsdatascience.com/using-whisper-and-bertopic-to-model-kurzgesagts-videos-7d8a63139bdf
+
+【语义搜索相关资源列表】’awesome-semantic-search - Semantic search with embeddings: index anything' by Romain Beaumont GitHub: github.com/rom1504/awesome-semantic-search
+
+【kogito：Python的NLP常识推理工具】'kogito - A Python Knowledge Inference Toolkit' by epfl-nlp GitHub: github.com/epfl-nlp/kogito 
+
+【无需大量计算资源改进现有语言模型】《Better Language Models Without Massive Compute | Google AI Blog》 
+https://ai.googleblog.com/2022/11/better-language-models-without-massive.html
+
+【到目前为止我们所知的关于ChatGPT的一切】《The Day The AGI Was Born - L-Space Diaries》
+https://lspace.swyx.io/p/everything-we-know-about-chatgpt
+
+【用ChatGPT进行协同写作】《Collaborative Creative Writing with OpenAI’s ChatGPT》by Andrew Mayne andrewmayneblog.wordpress.com/2022/11/30/collaborative-creative-writing-with-openais-chatgpt/
+
+'ChatGPT for Mac, living in your menubar.' by Vince Lwt GitHub: github.com/vincelwt/chatgpt-mac
+
+'ChatGPT - Lightweight reverse engineered ChatGPT by OpenAI. No dependencies' by Antonio Cheong GitHub: github.com/acheong08/ChatGPT
+
+'ChatGPT API - Node.js wrapper around ChatGPT. Uses headless Chrome until the official API is released.' byTravis Fischer GitHub: github.com/transitive-bullshit/chatgpt-api
+
+'ChatGPT Telegram Bot - This is a very early attempt at having chatGPT work within a telegram bot' by altryne GitHub: github.com/altryne/chatGPT-telegram-bot
+
+【ChatGPT-Google：(另一款)在Google搜索结果里显示ChatGPT应答的Chrome扩展】'ChatGPT-Google - Chrome Extension that Integrates ChatGPT (Unofficial) into Google Search' by Zohaib Ahmed GitHub: github.com/ZohaibAhmed/ChatGPT-Google
+
+【ChatGPT for Google：在Google搜索结果里显示ChatGPT应答的Chrome扩展】’ChatGPT for Google - A Chrome extension to show ChatGPT response in Google search results' by Wang Dàpéng GitHub: github.com/wong2/chat-gpt-google-extension 
+
+【PyChatGPT：轻量基于TLS的ChatGPT API，在命令行无需手动登录即可使用ChatGPT】’PyChatGPT - Lightweight, TLS-Based ChatGPT API on your CLI without requiring a browser or access token' by Rawand Ahmed Shaswar GitHub: github.com/rawandahmad698/PyChatGPT 
+
+'GPTReview - Get OpenAI GPT models to review your PR's' by Maciej Kilian GitHub: github.com/iejMac/GPTReview
+
+'ChatGPT-bot - Run your own GPTChat Telegram bot, with a single command!' by Miguel Piedrafita GitHub: github.com/m1guelpf/chatgpt-telegram 
+
+【ChatGPT(非官方)API】’Unofficial Python SDK for OpenAI's ChatGPT' by labteral GitHub: github.com/labteral/chatgpt-python
+
+【ChatGPT-wechat-bot：(另一个)微信ChatGPT机器人】’ChatGPT-wechat-bot - ChatGPT for wechat' by AutumnWhj GitHub: github.com/AutumnWhj/ChatGPT-wechat-bot
+
+【Welcome to wechat-chatgpt：在微信里玩ChatGPT，基于wechaty的ChatGPT微信接口】’Welcome to wechat-chatgpt - Use ChatGPT On Wechat via wechaty' by Holegots GitHub: github.com/fuergaosi233/wechat-chatgpt
+
+'awesome-chinese-ner - 中文命名实体识别。包含目前最新的中文命名实体识别论文、中文实体识别相关工具、数据集，以及中文预训练模型、词向量、实体识别综述等。' by taishan1994 GitHub: github.com/taishan1994/awesome-chinese-ner 
+
+【Awesome ChatGPT：ChatGPT/GPT-3相关工具、Demo、文档大列表】’Awesome ChatGPT - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3' by Humanloop GitHub: github.com/humanloop/awesome-chatgpt
+
+【ChatGPT Advanced：用搜索引擎结果增强ChatGPT的chrome插件】’ChatGPT Advanced - A browser extension that augments your ChatGPT prompts with web results.' by qunash GitHub: github.com/qunash/chatgpt-advanced 
+
+【用语音和ChatGPT对话】’chatgpt-conversation - Have a conversation with ChatGPT using your voice, and have it talk back.' by Giorgio Momigliano GitHub: github.com/platelminto/chatgpt-conversation 
+
+【ChatGPT Chrome Extension：将ChatGPT集成到每个文本框的Chrome扩展】’ChatGPT Chrome Extension - A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.' by Gabe Ragland GitHub: github.com/gragland/chatgpt-chrome-extension 
+
+【ChatGPT Desktop App：Mac, Windows, Linux都能用的跨平台第三方ChatGPT客户端应用】’ChatGPT Desktop App - OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust' by Sonny Lazuardi GitHub: github.com/sonnylazuardi/chatgpt-desktop
+
+【AntiFraudChatBot：简单的基于prompt的预训练大模型中文聊天人工智能框架】'AntiFraudChatBot - A simple prompt-chatting AI based on wechaty and fintuned NLP model' GitHub: github.com/Turing-Project/AntiFraudChatBot
+
+GitHub 上的开源库：Awesome ChatGPT Prompts，里面整理了一系列与 ChatGPT 互动的玩法与技巧。
+你可以通过这些玩法，让 ChatGPT 变成 Linux 终端、文本翻译与修正、技术面试官、故事家、脱口秀演员、写作指导顾问、心理咨询家等等。
+GitHub：github.com/f/awesome-chatgpt-prompts 
+
+为什么ChatGPT这么强？—— 一文读懂ChatGPT原理！
+https://zhuanlan.zhihu.com/p/590220208
+
+【ChatGPT VSCode Extension：用ChatGPT开发的VSCode的ChatGPT插件】’ChatGPT VSCode Extension - A VS code plugin for ChatGPT built by ChatGPT' by Jay Barnes GitHub: github.com/barnesoir/chatgpt-vscode-plugin 
+
+'Awesome ChatGPT - Curated list of ChatGPT related resource, tools, prompts, apps / ChatGPT 相關優質資源、工具、應用的精選清單' by Eason Chang GitHub: github.com/Kamigami55/awesome-chatgpt
+
+'ChatGPT Mirai QQ Bot - 使用 OpenAI 的 ChatGPT 进行聊天的 QQ 机器人，每个群组/好友单独一个 Conversation，文字转图片发送， Docker 快速部署，正/反向代理加速' by Dark Litss GitHub: github.com/lss233/chatgpt-mirai-qq-bot
+
+【ChatGPT最佳用例分享网站】“The best ChatGPT examples from around the web” 
+https://www.learngpt.com/
+
+无需注册国内可访问的ChatGPT(反向代理) 
+https://gpt.chatapi.art/
+
+'wechatbot - 为个人微信接入ChatGPT' by 869413421 GitHub: github.com/869413421/wechatbot 
+
+【ChatGPT相关资源大列表】’awesome-chatgpt - Selected ChatGPT demos, tools, articles, and more ✨' by Sahar GitHub: github.com/saharmor/awesome-chatgpt 
+
+'QChatGPT - 基于OpenAI ChatGPT 开发的 QQ 机器人 bot，mirai+ChatGPT QQ实现，多平台一键部署，高稳定性' by Rock Chin GitHub: github.com/RockChinQ/QChatGPT
+
+【Open-Chat-GPT：LAION-AI
+的开放众包ChatGPT计划】’Open-Chat-GPT' by LAION AI GitHub: github.com/LAION-AI/Open-Chat-GPT

@@ -1196,3 +1196,95 @@ GitHub：github.com/bee-san/pyWhat
 不仅如此，pyWhat 还可对文件和目录进行扫描，通过递归搜索，快速获取核心信息，并对结果进行筛选、过滤、排序、导出等操作。 ​​​​
 
 【eInk VNC：适合eInk屏的命令行VNC远程屏幕浏览工具】’eInk VNC' by Maxim Marshall GitHub: github.com/everydayanchovies/eink-vnc 
+
+【TuGraph：高效的图数据库，支持高数据量、低延迟查找和快速图分析】'TuGraph - an efficient graph database that supports high data volume, low latency lookup and fast graph analytics’ GitHub: github.com/TuGraph-db/tugraph-db 
+
+### 【duf：替代df的命令行工具，方便查看磁盘使用情况】《duf - Disk Usage/Free Utility for Linux, BSD, macOS & Windows - nixCraft》
+https://www.cyberciti.biz/open-source/command-line-hacks/duf-disk-usage-free-utility-for-linux-bsd-macos-windows/
+
+【Cuby Text：开源个人知识管理应用】'Cuby Text - An open-source knowledge management app.' by Vincent Chan GitHub: github.com/vincentdchan/CubyText
+
+【Obsidian Tasks：Obsidian知识库的任务管理器】’Obsidian Tasks - Task management for the Obsidian knowledge base.' GitHub: github.com/obsidian-tasks-group/obsidian-tasks 
+
+github.com/Giampaolo/psutil: 「Cross-platform lib for process and system monitoring in Python」
+
+CodeGeeX，可以根据注释文字生成代码，支持生成Python、C++、Java、JavaScript和Go等多种主流编程语言的代码，在HumanEval-X代码生成任务上取得47%~60%求解率，较其他开源基线模型有更佳的平均性能。还可以在不同的编程语言之间相互翻译转换。支持C/C++/Java/Python/HTML等十几种编程语言。模型训练支持英伟达和华为升腾910。我们还做了一个VSCode插件，可以在VSCode商场里面下载。
+https://models.aminer.cn/codegeex/zh-CN/playground
+https://models.aminer.cn/codegeex/zh-CN/codeTranslator
+https://marketplace.visualstudio.com/items?itemName=aminer.codegeex
+
+简单易用的家庭云系统。只需一键即可安装在 NAS、树莓派等各种家庭智能设备上，让你可以随时随地管理个人数据和设备。
+https://github.com/IceWhaleTech/CasaOS
+
+简单易用的 DDNS 工具。众所周知域名解析中域名对应的是固定 IP，但是本地机器的 IP 一般是动态的，所以无法完成域名解析实现公网访问。动态 DNS(DDNS) 技术就是用来解决动态 IP 的域名解析问题，该项目能够自动获取你本机的公网 IP，并自动更新到域名服务商，从而实现公网访问本地机器
+https://github.com/jeessy2/ddns-go
+
+用 Python 代码图解系统架构。程序员在做技术方案的时候，系统架构图是必不可少的。该项目将绘制架构图时所需的图标，封装成了对应的类极易调用，文档还提供了丰富的示例，让你分分钟就能上手，轻松用 Python 快速绘制出一份精美且清晰的架构图，这样不仅能省去拖拽调整连线的步骤，而且代码还可以复用，以便应对不断迭代升级的架构。
+https://github.com/mingrammer/diagrams
+
+多用户的屏幕分享服务。它可以快速启动一个在线共享屏幕的服务，让用户无需安装任何软件，仅使用浏览器就能分享自己的屏幕画面。项目基于网页实时通信(WebRTC) 实现，由 STUN/TURN 协议完成内网穿透和浏览器端对端的连接，既实用又有源码可以学习。
+https://github.com/screego/server
+
+小巧的汉字处理 JS 库。支持简体字拼音、多音字、笔画数等功能
+https://github.com/theajack/cnchar
+
+在终端查看图片、动图、视频的命令行工具
+https://github.com/hzeller/timg
+
+管理和解决网络问题的工具。它集成了 IP 和端口扫描、WiFi 分析器、跟踪路由、DNS 查询等工具
+https://github.com/BornToBeRoot/NETworkManager
+
+浏览器远程+实时操作命令行的工具。让开发者安全实时的共享终端，特别适合服务器非桌面系统的环境。有了它下次再遇到问题，求助大佬远程协助就方便多了
+https://github.com/cs01/termpair
+
+青岛大学开源的在线评测系统（OJ），采用 Django+Vue.js 实现。
+https://github.com/QingdaoU/OnlineJudge
+
+【基于WebSocket的OBS远程控制工具】’obs-websocket - Remote-control of OBS Studio through WebSocket' GitHub: github.com/obsproject/obs-websocket
+
+### 【sharing：用于分享文件或目录给(安卓/苹果)系统的命令行工具】’Sharing - a command-line tool to share directory and files with ios and android devices without an extra client app' by parvardegr GitHub: github.com/parvardegr/sharing 
+
+一款开源的 iPad 代码编辑器：Code App。内置 Node.js、Python、C、C++、PHP 等多种开发环境，自带 Git、Pip、NPM 等工具，可连接并管理远程服务器。
+GitHub：github.com/thebaselab/codeapp ​​​​
+
+【Fastfetch：C写的硬件信息高效获取工具】’Fastfetch - Like neofetch, but much faster because written in C.' by Linus Dierheimer GitHub: github.com/LinusDierheimer/fastfetch
+
+【pdf2docx：将PDF转换为DOCX的开源Python库】’pdf2docx - Open source Python library converting pdf to docx' by dothinking GitHub: github.com/dothinking/pdf2docx
+
+'Sshwifty Web SSH & Telnet Client - Web SSH & Telnet (WebSSH & WebTelnet client)' by nirui GitHub: github.com/nirui/sshwifty
+
+'hiSHtory: Better Shell History - Your shell history: synced, queryable, and in context' by David Dworken GitHub: github.com/ddworken/hishtory
+
+【Answer：开源知识社区，可以用来快速构建Q&A社区，以获得产品技术支持、客户支持、用户沟通等】'Answer - Build Q&A community - An open-source knowledge based community software. You can use it to quickly build your Q&A community for product technical support, customer support, user communication, and more.' by answerdev GitHub: github.com/answerdev/answer
+
+'md2report - 用于将Markdown文件转换为可以直接提交给学校的docx实验报告/大作业报告/期末小论文的工具' by woolen-sheep GitHub: github.com/woolen-sheep/md2report
+
+### Sharing，一款开源的命令行工具。无需安装任何移动端 App，即可实现 PC 到移动端的文件共享功能，支持 iOS 和 Android。
+GitHub：github.com/parvardegr/sharing 
+
+Stash，一款开源的视频与图像管理 Web 应用，基于 Go 编写，支持自部署，可将视频和图像按标签进行分类，以及信息提取与统计等功能。
+项目支持通过 Windows、macOS、Linux、Docker 等方式进行安装部署，并拥有多种 CSS 样式可供定制。
+GitHub：github.com/stashapp/stash ​​​​​​​​
+
+'Perlite - A web-based markdown viewer optimized for Obsidian' by sec77 GitHub: github.com/secure-77/Perlite
+
+【Memphis：开源实时数据处理平台】'Memphis - Memphis is an Open-Source, Real-Time Data Processing Platform' GitHub: github.com/memphisdev/memphis-broker
+
+Relingo这个浏览器插件可以根据词本（TOFEL等）高亮显示词本里的单词，如果发现记住了可以点击记下下次就不会高亮了。买断这个插件之后，现在上推的目的之一居然是为了学单词，有点在玩记单词版本的“扫雷游戏”的意思，还有个问题你正经看文档的时候也会被这些高亮给吸引注意力，一个不小心就给忘了看这个文档的目的是啥。
+总而言之，这个插件学单词挺好用的。
+开源同类产品，地址：https:////github.com/jiangqizheng/BlueSea
+
+【memos：具有知识管理和协作功能的开源自托管备忘/笔记中心】'memos - An open-source, self-hosted memo hub with knowledge management and collaboration.' by Memos GitHub: github.com/usememos/memos
+
+### 'bilix - 快如闪电的bilibili下载工具，基于Python现代Async特性，高速批量下载整部动漫，电视剧，up投稿等' by Frost GitHub: github.com/HFrost0/bilix
+
+【sniffnet：轻松监控网络流量的跨平台应用】’sniffnet - Cross-platform application to monitor your network traffic with ease' by Giuliano Bellini GitHub: github.com/GyulyVGC/sniffnet 
+
+【ThoughtPartner for Obsidian：Obsidian的AI助手】’ThoughtPartner for Obsidian - The AI assistant for Obsidian that helps you write better and think more clearly' by Humanloop GitHub: github.com/humanloop/obsidian-thought-partner 
+
+### 【MirrorX：安全、快速与轻量的远程桌面&文件管理工具】'MirrorX - Secure, Fast and Light remote desktop & file manager tool powered by Tauri and egui.' GitHub: github.com/MirrorX-Desktop/MirrorX
+
+【Silver Bullet：以markdown为核心的可扩展开源个人知识平台】'Silver Bullet - Markdown as a platform' GitHub: github.com/silverbulletmd/silverbullet 
+
+这个一键配置脚本挺好用的，有类似需求的同学可以看看 https:///github.com/MvsCode/frps-onekey/ ​​​​
+建议试试nps，个人感觉比frp更好用一些

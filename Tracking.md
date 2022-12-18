@@ -385,3 +385,9 @@ github.com/roboflow-ai/zero-shot-object-tracking
 
 Visual-Tracking-Development：视觉追踪文献集
 github.com/DavidZhangdw/Visual-Tracking-Development
+
+[CV]《DanceTrack: Multi-Object Tracking in Uniform Appearance and Diverse Motion》P Sun, J Cao, Y Jiang, Z Yuan, S Bai, K Kitani, P Luo [The University of Hong Kong & CMU & ByteDance Inc] (2022) 
+https://arxiv.org/abs/2111.14690
+https://github.com/DanceTrack
+
+【AS-One : 用于YOLO目标检测和对象跟踪的模块化库】'AS-One : A Modular Libary for YOLO Object Detection and Object Tracking - Run YOLOv7,v6,v5,R,X in under 20 lines of code.' by Augmented Startups GitHub: github.com/augmentedstartups/AS-One

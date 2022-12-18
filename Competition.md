@@ -352,3 +352,7 @@ amontgomerie.github.io/2022/02/10/kaggle-journey.html
 
 ### 'AI-Competition-Collections - 收集整理各种人工智能比赛经验帖' by SWHL GitHub: github.com/SWHL/AI-Competition-Collections
 
+【Paddy Disease Kaggle比赛手把手实战演练】“Live-coding (aka walk-thrus) - Part 1 2022 - fast.ai Course Forums” by Jeremy Howard 
+https://forums.fast.ai/t/live-coding-aka-walk-thrus/96617
+
+【Kaggle No.1之路】《Dieters Blog - Becoming world’s 1st - Achieving competitions grandmaster》by Christof Henkel christofhenkel.github.io/dieters-blog-v2/posts/2022-11-20-chapter-3.html 

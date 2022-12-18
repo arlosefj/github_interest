@@ -47,3 +47,7 @@ github.com/anl13/animal_papers
 
 multiview_notebooks：多视几何和计算机视觉教学notebooks集
 github.com/maxcrous/multiview_notebooks
+
+【“深度视觉与图形”课程资料】’Course about deep learning for computer vision and graphics co-developed by YSDA and Skoltech.' by Yandex School of Data Analysis GitHub: github.com/yandexdataschool/deep_vision_and_graphics
+
+【计算机图形相关数据库及资源】’CGI databases and resources - List of some useful databases and resources for Computer Graphics' by Alban GitHub: github.com/afichet/cgi-resources

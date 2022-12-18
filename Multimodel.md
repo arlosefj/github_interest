@@ -1495,3 +1495,180 @@ vinvl
 https://arxiv.org/abs/2208.08493
 
 【Chinese-CLIP：CLIP模型的中文版本，使用大规模中文数据进行训练(~2亿图文对)，旨在帮助用户实现中文领域的跨模态检索、图像表示等】'Chinese-CLIP - Chinese version of CLIP which achieves Chinese cross-modal retrieval and representation generation.' by billjie1 GitHub: github.com/billjie1/Chinese-CLIP 
+
+[CV]《Discovering Bugs in Vision Models using Off-the-shelf Image Generation and Captioning》O Wiles, I Albuquerque, S Gowal [DeepMind] (2022) 
+https://arxiv.org/abs/2208.08831
+
+【MinImagen：Imagen文本图像生成模型的最小化实现】’MinImagen: A minimal implementation of the Imagen text-to-image model' by AssemblyAI GitHub: github.com/AssemblyAI-Examples/MinImagen
+
+[CV]《Understanding Attention for Vision-and-Language Tasks》F Cao, S C Han, S Long, C Xu, J Poon [The University of Sydney] (2022) 
+https://arxiv.org/abs/2208.08104
+
+[CV]《Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks》W Wang, H Bao, L Dong, J Bjorck, Z Peng, Q Liu, K Aggarwal, O K Mohammed, S Singhal, S Som, F Wei [Microsoft Corporation] (2022) 
+https://arxiv.org/abs/2208.10442
+
+[CV]《FashionVQA: A Domain-Specific Visual Question Answering System》M Wang, A Mahjoubfar, A Joshi [Target Corporation] (2022) 
+https://arxiv.org/abs/2208.11253
+
+[CV]《MaskCLIP: Masked Self-Distillation Advances Contrastive Language-Image Pretraining》X Dong, Y Zheng, J Bao, T Zhang, D Chen, H Yang, M Zeng, W Zhang, L Yuan, D Chen, F Wen, N Yu [University of Science and Technology of China & Xiamen University & Microsoft Research Asia & Microsoft Cloud + AI] (2022)
+https://arxiv.org/abs/2208.12262
+
+[CV]《Opal: Multimodal Image Generation for News Illustration》V Liu, H Qiao, L Chilton [Columbia University & University of Toronto] (2022) 
+https://arxiv.org/abs/2204.09007
+
+[CV]《DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation》N Ruiz, Y Li, V Jampani, Y Pritch, M Rubinstein, K Aberman [Google Research] (2022)
+https://arxiv.org/abs/2208.12242
+
+微软亚洲研究院联合微软图灵团队推出了最新升级的 BEiT-3 预训练模型[毕业帽]，在广泛的视觉及视觉-语言任务上，包括目标检测（COCO）、实例分割（COCO）、语义分割（ADE20K）、图像分类（ImageNet）、视觉推理（NLVR2）、视觉问答（VQAv2）、图片描述生成（COCO）和跨模态检索（Flickr30K，COCO）等，实现了 SOTA 的迁移性能。BEiT-3 创新的设计和出色的表现为多模态研究打开了新思路，也预示着 AI 大一统渐露曙光。
+https://weibo.com/ttarticle/p/show?id=2309404808248644468949
+
+【Stable Diffusion模型相关资源大列表】’Awesome Stable-Diffusion - Curated list of awesome resources for the Stable Diffusion AI Model.' GitHub: github.com/awesome-stable-diffusion/awesome-stable-diffusion
+
+CogVideo，文本到视频生成的预训练模型，94亿参数。CogVideo将预训练文本到图像生成模型（CogView2）有效地利用到文本到视频生成模型，并使用了多帧率分层训练策略。
+https://models.aminer.cn/cogvideo/
+
+'Experiments with Stable Diffusion' by Justin GitHub: github.com/justinpinkney/stable-diffusion
+
+'Peacasso - UI interface for experimenting with multimodal (text, image) models (stable diffusion).' by Victor Dibia GitHub: github.com/victordibia/peacasso 
+
+[CV]《What does a platypus look like? Generating customized prompts for zero-shot image classification》S Pratt, R Liu, A Farhadi [University of Washington & Google Research] (2022)
+https://arxiv.org/abs/2209.03320 https://github.com/sarahpratt/CuPL
+
+【Stable Diffusion长文本图像生成】’long_stable_diffusion - Long Stable Diffusion: Long-form text to images’ by Sharon Zhou GitHub: github.com/sharonzhou/long_stable_diffusion 
+
+[CV]《An Empirical Study of End-to-End Video-Language Transformers with Masked Visual Modeling》T Fu, L Li, Z Gan, K Lin, W Y Wang, L Wang, Z Liu [UC Santa Barbara & Microsoft] (2022) 
+https://arxiv.org/abs/2209.01540
+
+[CV]《Pre-training image-language transformers for open-vocabulary tasks》A Piergiovanni, W Kuo, A Angelova [Google Research] (2022)
+https://arxiv.org/abs/2209.04372
+
+【视觉-语言预训练相关资源大列表】’Awesome Vision-and-Language Pre-Training' by Zhihong Chen GitHub: github.com/zhjohnchan/awesome-vision-and-language-pretraining 
+
+【Deforum Stable Diffusion Local Version：Deforum Stable Diffusion本地版，可生成动画】’Deforum Stable Diffusion Local Version - Local version of Deforum Stable Diffusion, supports txt settings file input and animation features!' by Eddu Hu GitHub: github.com/HelixNGC7293/DeforumStableDiffusionLocal
+
+[LG]《Diffusion Models: A Comprehensive Survey of Methods and Applications》L Yang, Z Zhang, S Hong, R Xu, Y Zhao, Y Shao, W Zhang, M Yang, B Cui [Peking University & University of California, Los Angeles & CMU & BUPT & Mila & University of California at Merced] (2022) 
+https://arxiv.org/abs/2209.00796v5
+
+[CV]《CLIP-ViP: Adapting Pre-trained Image-Text Model to Video-Language Representation Alignment》H Xue, Y Sun, B Liu, J Fu, R Song, H Li, J Luo [University of Science and Technology of China & Renmin University of China & Microsoft Research Asia & University of Rochester] (2022) 
+https://arxiv.org/abs/2209.06430 https://github.com/microsoft/XPretrain/tree/main/CLIP-ViP
+
+[CV]《PaLI: A Jointly-Scaled Multilingual Language-Image Model》X Chen, X Wang, S Changpinyo, A Piergiovanni... [Google Research] (2022) 
+https://arxiv.org/abs/2209.06794
+
+[CL]《Towards Multi-Lingual Visual Question Answering》S Changpinyo, L Xue, I Szpektor, A V. Thapliyal, J Amelot, X Chen, R Soricut [Google Research] (2022) 
+https://arxiv.org/abs/2209.05401
+
+'txt2img2img for Stable Diffusion - Improve the editability of any Stability Diffusion subject while retaining a high degree of likeness' by ThereforeGames GitHub: github.com/ThereforeGames/txt2img2img
+
+Cogview第2个版本CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers
+https://www.aminer.cn/pub/626f3dd05aee126c0f8f76a7/cogview-faster-and-better-text-to-image-generation-via-hierarchical-transformers
+https://models.aminer.cn/CogView/index.html
+
+[CV]《OmniVL:One Foundation Model for Image-Language and Video-Language Tasks》J Wang, D Chen, Z Wu, C Luo, L Zhou, Y Zhao, Y Xie, C Liu, Y Jiang, L Yuan [Fudan University & Microsoft Cloud + AI & Microsoft Research Asia] (2022)
+https://arxiv.org/abs/2209.07526
+
+[CV]《X-CLIP: End-to-End Multi-grained Contrastive Learning for Video-Text Retrieval》Y Ma, G Xu, X Sun, M Yan, J Zhang, R Ji [Xiamen University & DAMO Academy, Alibaba Group] (2022)
+https://arxiv.org/abs/2207.07285
+
+[CV]《Diffusion Models in Vision: A Survey》F Croitoru, V Hondru, R T Ionescu, M Shah [University of Bucharest & University of Central Florida] (2022)
+https://arxiv.org/abs/2209.04747
+
+[CV]《StoryDALL-E: Adapting Pretrained Text-to-Image Transformers for Story Continuation》A Maharana, D Hannan, M Bansal [UNC Chapel Hill] (2022) 
+https://arxiv.org/abs/2209.06192
+
+[CV]《LAVIS: A Library for Language-Vision Intelligence》D Li, J Li, H Le, G Wang, S Savarese, S C.H. Hoi [Salesforce Research] (2022) 
+https://arxiv.org/abs/2209.09019
+
+[CV]《I2DFormer: Learning Image to Document Attention for Zero-Shot Image Classification》M F Naeem, Y Xian, L V Gool, F Tombari [ETH Zurich & TUM] (2022) 
+https://arxiv.org/abs/2209.10304
+
+[CV]《Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models》M Shu, W Nie, D Huang, Z Yu, T Goldstein, A Anandkumar, C Xiao [University of Maryland & NVIDIA] (2022) 
+https://arxiv.org/abs/2209.07511
+
+[CV]《UniColor: A Unified Framework for Multi-Modal Colorization with Transformer》Z Huang, N Zhao, J Liao [City University of Hong Kong & University of Bath] (2022)
+https://arxiv.org/abs/2209.11223
+
+[CV]《Semantic scene descriptions as an objective of human vision》A Doerig, T C Kietzmann, E Allen, Y Wu, T Naselaris, K Kay, I Charest [Donders Institute for Brain & University of Minnesota] (2022) 
+https://arxiv.org/abs/2209.11737
+
+[CV]《UniCLIP: Unified Framework for Contrastive Language-Image Pre-training》J Lee, J Kim, H Shon, B Kim, S H Kim, H Lee, J Kim [LG AI Research & KAIST] (2022) 
+https://arxiv.org/abs/2209.13430
+
+[CV]《Towards Multimodal Multitask Scene Understanding Models for Indoor Mobile Agents》Y H Tsai, H Goh, A Farhadi, J Zhang [Apple] (2022)
+https://arxiv.org/abs/2209.13156
+
+[CV]《TVLT: Textless Vision-Language Transformer》Z Tang, J Cho, Y Nie, M Bansal [UNC Chapel Hill] (2022)
+https://arxiv.org/abs/2209.14156
+
+[CL]《SpeechCLIP: Integrating Speech with Pre-Trained Vision and Language Model》Y Shih, H Wang, H Chang, L Berry, H Lee, D Harwath [National Taiwan University & The University of Texas at Austin] (2022) 
+https://arxiv.org/abs/2210.00705
+
+[CV]《Paraphrasing Is All You Need for Novel Object Captioning》C Yang, Y H Tsai, W Fan, R Salakhutdinov, L Morency, Y F Wang [UCLA & CMU & National Taiwan University] (2022)
+https://arxiv.org/abs/2209.12343
+
+【(CVPR2022 Tutorial)视觉-语言预训练最新进展】《CVPR2022 Tutorial: Recent Advanced in Vision-and-Language Pre-training》 vlp-tutorial.github.io/2022/
+
+[CL]《Linearly Mapping from Image to Text Space》J Merullo, L Castricato, C Eickhoff, E Pavlick [Brown University] (2022) 
+https://arxiv.org/abs/2209.15162
+
+[CV]《F-VLM: Open-Vocabulary Object Detection upon Frozen Vision and Language Models》W Kuo, Y Cui, X Gu, A Piergiovanni, A Angelova [Google Research] (2022) 
+https://arxiv.org/abs/2209.15639
+
+【TencentPretrain：用于对文本、图像、语音等模态数据进行预训练和微调的工具包】'TencentPretrain - Tencent Pre-training framework in PyTorch & Pre-trained Model Zoo' by Tencent GitHub: github.com/Tencent/TencentPretrain
+
+[CV]《Open-Vocabulary Semantic Segmentation with Mask-adapted CLIP》F Liang, B Wu, X Dai, K Li, Y Zhao, H Zhang, P Zhang, P Vajda, D Marculescu [The University of Texas at Austin & Meta Reality Labs & Cruise] (2022) 
+https://arxiv.org/abs/2210.04150
+
+【多模态强化学习相关文献资源大列表】’Awesome Multi-Modal Reinforcement Learning - A curated list of Multi-Modal Reinforcement Learning resources' by OpenDILab GitHub: github.com/opendilab/awesome-multi-modal-reinforcement-learning
+
+[CV]《Vision-Language Pre-training: Basics, Recent Advances, and Future Trends》Z Gan, L Li, C Li, L Wang, Z Liu, J Gao [Microsoft Corporation] (2022)
+https://arxiv.org/abs/2210.09263
+
+'clip-as-service - Embed/reason/rank images and sentences with CLIP models' by Jina AI GitHub: github.com/jina-ai/clip-as-service
+
+不需要任何标注，在翻译、图像标题生成等生成类任务的自动评估上取得了SOTA
+https://arxiv.org/pdf/2210.05035.pdf
+
+[CL]《Text-Only Training for Image Captioning using Noise-Injected CLIP》D Nukrai, R Mokady, A Globerson [Tel Aviv University] (2022)
+https://arxiv.org/abs/2211.00575
+
+[CL]《BLOOM: A 176B-Parameter Open-Access Multilingual Language Model》T L Scao, A Fan, C Akiki, E Pavlick, S Ilić, D Hesslow, R Castagné... (2022)
+https://arxiv.org/abs/2211.05100
+
+[CV]《CLOP: Video-and-Language Pre-Training with Knowledge Regularizations》G Li, H Yang, F He, Z Feng, Y Lyu, H Wu, H Wang [Baidu Inc] (2022) 
+https://arxiv.org/abs/2211.03314
+
+【VideoX - 多模态视频内容理解模型集】’VideoX - a collection of video cross-modal models' by Microsoft GitHub: github.com/microsoft/VideoX 
+
+[CV]《I Can't Believe There's No Images! Learning Visual Tasks Using only Language Data》S Gu, C Clark, A Kembhavi [Allen Institute for Artificial Intelligence]
+https://arxiv.org/abs/2211.09778
+
+[CV]《Uni-Perceiver v2: A Generalist Model for Large-Scale Vision and Vision-Language Tasks》H Li, J Zhu, X Jiang, X Zhu, H Li, C Yuan, X Wang, Y Qiao, X Wang, W Wang, J Dai [The Chinese University of Hong Kong & Xi’an Jiaotong University & Tsinghua University & SenseTime Research] (2022)
+https://arxiv.org/abs/2211.09808
+
+[CV]《Retrieval-Augmented Multimodal Language Modeling》M Yasunaga, A Aghajanyan, W Shi, R James, J Leskovec, P Liang, M Lewis, L Zettlemoyer, W Yih [Stanford University & Meta AI & University of Washington] (2022) 
+https://arxiv.org/abs/2211.12561
+
+[CV]《Human or Machine? Turing Tests for Vision and Language》M Zhang, G Dellaferrera, A Sikarwar, M Armendariz... [CFAR and I2R & IBM Research & Harvard Medical School...] (2022) 
+https://arxiv.org/abs/2211.13087
+
+[CV]《Exploiting Category Names for Few-Shot Classification with Vision-Language Models》T Xiao, Z Wang, L Cao, J Yu, S Dai, M Yang [Google & University of California, Merced & Apple] (2022) 
+https://arxiv.org/abs/2211.16594
+
+Vision-and-Language Navigation github.com/nuaa-nlp/paper-reading
+
+'CLIP-Chinese：中文多模态对比学习CLIP预训练模型' by Yang JianXin GitHub: github.com/yangjianxin1/CLIP-Chinese
+
+【阿里达摩院发布的中文版CLIP模型，旨在帮助用户快速实现中文领域的图文特征&相似度计算、跨模态检索、零样本图片分类等任务】’Chinese-CLIP - Chinese version of CLIP which achieves Chinese cross-modal retrieval and representation generation.' by OFA-Sys GitHub: github.com/OFA-Sys/Chinese-CLIP 
+
+[CV]《 Unifying (统一) Vision, Text, and Layout for Universal Document Processing》Z Tang, Z Yang, G Wang, Y Fang, Y Liu, C Zhu, M Zeng, C Zhang, M Bansal [Microsoft Azure & University of North Carolina at Chapel Hill] (2022) 
+https://arxiv.org/abs/2212.02623
+
+【OFASys：用于构建通用模型的多模态多任务学习系统】'OFASys: A Multi-Modal Multi-Task Learning System for Building Generalist Models' by OFA Sys GitHub: github.com/OFA-Sys/OFASys
+
+【Big-Interleaved-Dataset：开源多模态数据集】’Big-Interleaved-Dataset - Big-Interleaved-Dataset' by LAION-AI GitHub: github.com/LAION-AI/Big-Interleaved-Dataset 
+
+[CV]《REVEAL: Retrieval-Augmented Visual-Language Pre-Training with Multi-Source Multimodal Knowledge Memory》Z Hu, A Iscen, C Sun, Z Wang, K Chang, Y Sun, C Schmid, D A. Ross, A Fathi [Google Research & University of California, Los Angeles] (2022)
+https://arxiv.org/abs/2212.05221
+
+【Data2vec 2.0: 视觉、语音和文本高效自监督学习】《Data2vec 2.0: Highly efficient self-supervised learning for vision, speech and text》 GitHub: github.com/facebookresearch/fairseq/tree/main/examples/data2vec

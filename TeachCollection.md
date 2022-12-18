@@ -90,3 +90,35 @@ https://sebastian.itch.io/neural-network-experiment
 
 【免费课程：全栈深度学习(2022)】《Full Stack Deep Learning - Course 2022》
 https://fullstackdeeplearning.com/course/2022/
+
+【哈佛《CS50 Python人工智能入门》课程 (2020)】《CS50's Introduction to Artificial Intelligence with Python》
+https://www.bilibili.com/video/BV1UK4y1r7xm/
+
+### 'my-awesome-cs - 有关各类计算机相关教学网站、小工具的合集' by Sanbucat GitHub: github.com/sanbuphy/my-awesome-cs 
+
+【Andrej Karpathy的“深入浅出神经网络”系列讲座】’nn-zero-to-hero - Neural Networks: Zero to Hero' by Andrej Karpathy GitHub: github.com/karpathy/nn-zero-to-hero
+
+12 周，26 节课，52 次测验，适合所有人的经典机器学习 教程 microsoft.github.io/ML-For-Beginners -- 微软出品
+
+【PyTorch深度学习从入门到精通】“Zero to Mastery Learn PyTorch for Deep Learning”  https://www.learnpytorch.io/
+
+【深度学习实例集】’Deep Learning Examples' by LambdaLabsML GitHub: github.com/LambdaLabsML/examples
+
+【Neograd：用Python和NumPy从头开发的深度学习框架】’Neograd - A deep learning framework created from scratch with Python and NumPy' by pranftw GitHub: github.com/pranftw/neograd
+
+'How To Ask Questions The Smart Way 《提问的智慧》中文版' by Ray GitHub: github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way
+
+’书稿《矩阵力量》 | 从加减乘除到机器学习' by Visualize-ML GitHub: github.com/Visualize-ML/Book4_Power-of-Matrix
+’书稿《数学要素》 | 从加减乘除到机器学习’ by Visualize-ML GitHub: github.com/Visualize-ML/Book3_Fundamentals-of-Mathematics
+
+### 【智能蓝图：1943-2020神经网络可视化简史】《Blueprints for Intelligence - A visual history of artificial neural networks from 1943 to 2020》 
+https://philippschmitt.com/blueprints-for-intelligence/?continueFlag=6b141c51e41f0a76d63e7eed12a7064a
+
+深度学习调参有哪些技巧？ - 知乎
+https://www.zhihu.com/question/25097993
+
+深度学习刷SOTA有哪些trick？ - 知乎
+https://www.zhihu.com/question/540433389
+
+深度学习的多个loss如何平衡？ - 知乎
+https://www.zhihu.com/question/375794498

@@ -500,3 +500,8 @@ BangBang：跟神经网络比赛“打炮”(网页版)，谁先调好角度力�
 github.com/victorqribeiro/bangBang
 
 [文言文白话文互转：文言文转白话文（现代文），白话文（现代文）转文言文](https://github.com/NiuTrans/Classical-Modern)
+
+【Gaming using Computer Vision：用计算机视觉玩City Island 5的机器人】’Gaming using Computer Vision - A simple python bot (powered by computer vision) used to play a game (City Island 5)' by Paul Onteri GitHub: github.com/paulonteri/play-game-with-computer-vision
+
+【AI工具集市】《Futurepedia - The Largest AI Tools Directory | Home》
+https://www.futurepedia.io/

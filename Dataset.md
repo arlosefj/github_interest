@@ -954,3 +954,66 @@ https://arxiv.org/abs/2207.12393
 【CROSSTALK-GENERATION：目前为止最大的中文开源相声数据集】'CROSSTALK-GENERATION - Code and data for crosstalk text generation tasks, exploring whether large models and pre-trained language models can understand humor.' by anon.W GitHub: github.com/anonNo2/crosstalk-generation 
 
 【密集材料分割数据集】'The Dense Material Segmentation Dataset' by Apple GitHub: github.com/apple/ml-dms-dataset
+
+【3D数据集和建模相关资源列表】’laion-3d - Collect large 3d dataset and build models' by LAION AI GitHub: github.com/LAION-AI/laion-3d
+
+### 【COYO-700M: 大规模图像-文本对数据集】'COYO-700M: Large-scale Image-Text Dataset' by Kakao Brain GitHub: github.com/kakaobrain/coyo-dataset
+
+【Dolt：面向数据的版本控制，数据的Git】’Dolt – It's Git for Data' GitHub: https:// github.com/dolthub/dolt
+
+【SFHQ-dataset：合成人脸高质量数据集】’Synthetic Faces High Quality (SFHQ) dataset - Synthetic Faces High Quality (SFHQ) Dataset' by David Beniaguev GitHub: github.com/SelfishGene/SFHQ-dataset
+
+日本九州大学最近在3D模型网站 Sketchfab 上公开了 1400余个 水生生物、昆虫及植物的3D模型，涵盖了700多个物种，所有模型都可以免费下载使用。据学校官网介绍，这些模型是使用 摄影测量 （在多个角度拍摄照片构建模型）技术创建的，保证了它们外观的鲜活程度。
+https://sketchfab.com/ffishAsia-and-floraZia
+
+【包含船只的卫星图像数据集列表】’Satellite imagery datasets containing ships. - A list of radar and optical satellite datasets for ship detection, classification, semantic segmentation and instance segmentation tasks.' by Jason Manesis GitHub: github.com/JasonManesis/Satellite-Imagery-Datasets-Containing-Ships 
+
+### 【Datasets server：数据集服务器】’Datasets server - Integrate into your apps over 10,000 datasets via simple HTTP requests, with pre-processed responses and scalability built-in.' by Hugging Face GitHub: github.com/huggingface/datasets-server
+
+【音频-视频学习方法与数据集列表】'A curated list of audio-visual learning methods and datasets.' by GeWu-Lab GitHub: github.com/GeWu-Lab/awesome-audiovisual-learnin
+
+【OpenCC：无人驾驶长尾/角落案例场景数据集】'OpenCC - Automatic driving long tail / corner cases scenarios dataset (Anomaly detection)' by Wei ZHANG GitHub: github.com/Charmve/OpenCC
+
+【Multiview Bootstrapping in the wild (MBW) - Zoo Dataset：动物园实际场景多视数据集】’Multiview Bootstrapping in the wild (MBW) - Zoo Dataset - Cite this repository' by Mosam Dabhi GitHub: github.com/mosamdabhi/MBW-Data
+
+【TJ4DRadSet: 面向无人驾驶的4D雷达数据集】'TJ4DRadSet: A 4D Radar Dataset for Autonomous Driving' by TJRadarLab GitHub: github.com/TJRadarLab/TJ4DRadSet
+
+【Crossmodal-3600：具有地理多样性的图像多语言参考描述数据集】《Crossmodal-3600 — Multilingual Reference Captions for Geographically Diverse Images | Google AI Blog》
+https://ai.googleblog.com/2022/10/crossmodal-3600-multilingual-reference.html
+
+【MnTTS: 开源蒙古文到语音合成数据集和配套基准】'MnTTS: An Open-Source Mongolian Text-to-Speech Synthesis Dataset and Accompanied Baseline' by WALKER GitHub: github.com/walker-hyf/MnTTS
+
+'pCLUE: 1000000+基于提示的大规模预训练数据集，用于多任务学习和零样本学习' by CLUE benchmark GitHub: github.com/CLUEbenchmark/pCLUE
+
+【Laion coco：6亿网络图像高质量AI生成描述数据集】《Laion coco: 600M synthetic captions from Laion2B-en | LAION》
+https://laion.ai/blog/laion-coco/
+
+【有史以来最大的3D室内空间语义标注数据集】《Habitat-Matterport 3D Semantics Dataset》 
+https://aihabitat.org/datasets/hm3d-semantics/
+
+【DART：关节式手部模型数据集】'DART: Articulated Hand Model with Diverse Accessories and Rich Textures (NeurIPS 2022 - Datasets and Benchmarks Track)' by DART2022 GitHub: github.com/DART2022/DART
+
+【TVSM Dataset：电视语音和音乐(TVSM)数据集】'TVSM Dataset - The TV Speech and Music (TVSM) dataset' by biboamy GitHub: github.com/biboamy/TVSM-dataset
+
+### 0个优质#数据科学#数据集来源：
+1、data,gov https://data.gov/
+2、kaggle.com https://www.kaggle.com/datasets
+3、Datahub https://datahub.io/collections
+4、FiveThirtyEight https://data.fivethirtyeight.com/
+5、Tensorflow https://www.tensorflow.org/datasets
+6、HuggingFace https://huggingface.co/datasets
+7、Data.world https://data.world/datasets/open-data
+8、UC Irvine http://archive.ics.uci.edu/ml/datasets.php
+9、Google Research https://datasetsearch.research.google.com/
+10、Awesome Public Datasets GitHub: github.com/awesomedata/awesome-public-datasets
+
+【BEANS：面向分类和检测的动物叫声基准】'BEANS: The Benchmark of Animal Sounds - BEANS: The Benchmark of Animal Sounds' by Earth Species Project GitHub: github.com/earthspecies/beans
+
+【40个开源机器学习音频数据集】《40 Open-Source Audio Datasets for ML》by Nir Barazida towardsdatascience.com/40-open-source-audio-datasets-for-ml-59dc39d48f06
+
+【Harry-Potter-Dialogue-Dataset：哈利波特对话数据集】’Harry-Potter-Dialogue-Dataset - This the repository of Harry Potter Dialogue Dataset.' by Jerryn Chen GitHub: github.com/nuochenpku/Harry-Potter-Dialogue-Dataset
+
+【GLAMI-1M: 多语言图-文时尚数据集】'GLAMI-1M: A Multilingual Image-Text Fashion Dataset - The largest multilingual image-text classification dataset. It contains fashion products.' by GLAMI GitHub: github.com/glami/glami-1m
+
+'GenshinVoice - Voice dataset of Genshin Impact 原神语音数据集' by w4123 GitHub: github.com/w4123/GenshinVoice
+

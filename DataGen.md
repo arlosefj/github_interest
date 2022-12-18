@@ -529,3 +529,191 @@ https://arxiv.org/abs/2205.15996
 
 [CV]《Image Augmentation for Satellite Images》O Adedeji, P Owoade, O Ajayi, O Arowolo [CMU] (2022) 
 https://arxiv.org/abs/2207.14580
+
+【UnstableFusion：(又一款)桌面版Stable Diffusion前端，支持补全、图到图变换等】’UnstableFusion - A Stable Diffusion desktop frontend with inpainting, img2img and more!' by ahrm GitHub: github.com/ahrm/UnstableFusion
+
+【Stable Diffusion入门：创作者指南】《Getting Started With Stable Diffusion: A Guide For Creators》by Jon Stokes
+https://www.jonstokes.com/p/getting-started-with-stable-diffusion
+
+文字直接生成3D模型的工具 —— DreamFusion
+是的，用嘴建模。输入文字，就能生成带深度图和法线的3D模型。
+项目地址：dreamfusion3d.github.io
+
+【Video Killed The Radio Star：用生成式AI根据给定音乐自动生成音乐视频】’Video Killed The Radio Star - Notebook and tools for end-to-end automation of music video production with generative AI' by David Marx GitHub: github.com/dmarx/video-killed-the-radio-star
+
+【diffusion-ui：深度学习图像生成前端】’diffusion-ui - Frontend for deeplearning Image generation' by Hanusz Leszek GitHub: github.com/leszekhanusz/diffusion-ui
+
+【make-a-video-pytorch：META最新用文本生成视频模型复现】’make-a-video-pytorch - Implementation of Make-A-Video, new SOTA text to video generator from Meta AI, in Pytorch' by Phil Wang GitHub: github.com/lucidrains/make-a-video-pytorch 
+
+【Stable Diffusion in Docker：用Docker运行Stable Diffusion】’Stable Diffusion in Docker - Runs the official Stable Diffusion release in a Docker container.' by fboulnois GitHub: github.com/fboulnois/stable-diffusion-docker
+
+[CV]《Diffusion-based Image Translation using Disentangled Style and Content Representation》G Kwon, J C Ye [KAIST] (2022)
+https://arxiv.org/abs/2209.15264
+
+[CV]《Imagen Video: High Definition Video Generation with Diffusion Models》J Ho, W Chan, C Saharia, J Whang, R Gao, A Gritsenko, D P. Kingma, B Poole, M Norouzi, D J. Fleet, T Salimans [Google Research] (2022)
+https://arxiv.org/abs/2210.02303
+
+【文本到图像生成模型提示设计入门指南】《A Beginner’s Guide to Prompt Design for Text-to-Image Generative Models》by Leonie Monigatti towardsdatascience.com/a-beginners-guide-to-prompt-design-for-text-to-image-generative-models-8242e1361580
+
+【stable-diffusion-deploy：大规模提供稳定Stable Diffusion模型服务】’stable-diffusion-deploy - Serve Stable Diffusion model at scale. This app also contains a web UI and a Slack Command Bot that can generate art in your slack workspace' by Lightning AI GitHub: github.com/Lightning-AI/stable-diffusion-deploy
+
+【Shanghai - 本地运行Stable Diffusion生成图像的Discord Bot】’Shanghai - AI Powered Art in a Discord Bot! - A neat Discord bot to run Stable Diffusion locally' by harubaru GitHub: github.com/harubaru/discord-stable-diffusion 
+
+【手把手用DreamBooth微调Stable Diffusion (Colab)——用自己的照片生成各种角色的Cos照片】《How to Use DreamBooth to Fine-Tune Stable Diffusion (Colab)》by EdXD 
+https://bytexd.com/how-to-use-dreambooth-to-fine-tune-stable-diffusion-colab/
+
+【AI Render - Stable Diffusion in Blender：Blender的Stable Diffusion插件[酷]】'AI Render - Stable Diffusion in Blender - Stable Diffusion in Blender' by Ben Rugg GitHub: github.com/benrugg/AI-Render 
+
+【Stable Diffusion提示创作模板】’Prompt Templates for Stable Diffusion' by Daniel Schosser GitHub: github.com/Dalabad/stable-diffusion-prompt-templates
+
+[CV]《UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image》D Valevski, M Kalman, Y Matias, Y Leviathan [Google Research] (2022) 
+https://arxiv.org/abs/2210.09477
+
+【把玩Stable Diffusion的各种方式大列表 】 Github: github.com/sw-yx/prompt-eng/blob/main/README.md#sd-distros ​​​​
+
+'Yet Another Stable Diffusion Discord Bot' by AmericanPresidentJimmyCarter GitHub: github.com/AmericanPresidentJimmyCarter/yasd-discord-bot
+
+'AWSIM - the best scene simulator for Autoware’ by TIER IV, Inc GitHub: github.com/tier4/AWSIM 
+
+【Real-time inference for Stable Diffusion：Stable Diffusion的实时推断(0.88s)】’Real-time inference for Stable Diffusion - 0.88s latency. Covers AITemplate, nvFuser, TensorRT, FlashAttention.' by Stochastic GitHub: github.com/stochasticai/x-stable-diffusion
+
+【Stability.AI Easy Diffusion：扩展版Stable Diffusion Notebook，支持文本到图片、图到图、图像补全、打开和关闭色情过滤、管线缓存等】’Stability.AI Easy Diffusion - Easy Diffusion is an advanced Stable Diffusion Notebook with a feature rich image processing suite.' by Jordan Thompson GitHub: github.com/WASasquatch/easydiffusion
+
+'diffusion for beginners - denoising diffusion models, as simple as possible' by ozanciga GitHub: github.com/ozanciga/diffusion-for-beginners
+
+【Imagic Stable Diffusion基于文本的图片编辑复现】’Imagic training example' by ShivamShrirao GitHub: github.com/ShivamShrirao/diffusers/tree/main/examples/imagic 
+
+【stable-diffusion-nvidia-docker：支持GPU的 Dockerfile，用于运行Stability.AI具有简单 Web界面的stable-diffusion模型，包括多GPU支持】'stable-diffusion-nvidia-docker - GPU-ready Dockerfile to run Stability.AI stable-diffusion model with a simple web interface. Includes multi-GPUs support.' by Nicolò Lucchesi GitHub: github.com/NickLucche/stable-diffusion-nvidia-docker
+
+'Aesthetic Gradients - Aesthetic gradients extension for web ui' by AUTOMATIC1111 GitHub: github.com/AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients
+
+'Stable Diffusion Book |关于 Ai 绘画的全面中文Wiki|入门到入土|开源文档 - 关于使用 Ai 绘画的 Wiki ，翻译，教程，相关资源’ by Jasmine GitHub: github.com/sudoskys/StableDiffusionBook
+
+【迈进Stable Diffusion的世界】《Getting Started in the World of Stable Diffusion | Bipin》 bipinkrishnan.github.io/posts/getting-started-in-the-world-of-stable-diffusion
+
+【DiffusionDB：基于Stable Diffusion的大规模文本到图像提示库数据集】'DiffusionDB - A large-scale text-to-image prompt gallery dataset based on Stable Diffusion' by Polo Club of Data Science GitHub: github.com/poloclub/diffusiondb
+
+【stable-diffusion-pytorch：Stable Diffusion的PyTorch实现】’stable-diffusion-pytorch - Yet another PyTorch implementation of Stable Diffusion' by Jinseo Kim GitHub: github.com/kjsman/stable-diffusion-pytorch 
+
+这个Stable Diffusion模型挺有意思 《nitrosocke/archer-diffusion · Hugging Face》 https://huggingface.co/nitrosocke/archer-diffusion
+
+【还有这个Cyberpunk Anime Diffusion】《DGSpitzer/Cyberpunk-Anime-Diffusion · Hugging Face》
+https://huggingface.co/DGSpitzer/Cyberpunk-Anime-Diffusion
+
+【Stable Diffusion微调模型集】《Finetuned Diffusion - a Hugging Face Space by anzorq》 
+https://huggingface.co/spaces/anzorq/finetuned_diffusion
+
+【DALL·E Mini：根据文本提示生成图片的迷你版DALL·E】’DALL·E Mini - DALL·E Mini - Generate images from a text prompt' by Boris Dayma GitHub: github.com/borisdayma/dalle-mini
+
+[CV]《Towards Real-Time Text2Video via CLIP-Guided, Pixel-Level Optimization》P Schaldenbrand, Z Liu, J Oh [CMU] (2022)
+https://arxiv.org/abs/2210.12826
+https://pschaldenbrand.github.io/text2video/
+
+【Naruto diffusion：火影风格的Stable Diffusion微调模型[酷]】《lambdalabs/sd-naruto-diffusers · Hugging Face》
+https://huggingface.co/lambdalabs/sd-naruto-diffusers
+
+【Stableboost：快速AI图像与视频生成，简单的交互式提示工程】”Stableboost“ 
+https://stableboost.ai/
+
+【Stable Diffusion提示创作参考手册】《Stable Diffusion Prompt Book - OpenArt | OpenArt》
+https://openart.ai/promptbook
+
+【Mubert-Text-to-Music：基于Mubert API根据文字提示自动生成音乐】'Mubert-Text-to-Music - A simple notebook demonstrating prompt-based music generation via Mubert API' by MubertAI GitHub: github.com/MubertAI/Mubert-Text-to-Music
+
+【Basic Dreambooth Guide：Dreambooth基础指南】’Basic Dreambooth Guide' by nitrosocke GitHub: github.com/nitrosocke/dreambooth-training-guide
+
+【DiffusionCraft AI (An InvokeAI Fork)：用Stable Diffusion实时美化Minecraft(我的世界)图像】'DiffusionCraft AI (An InvokeAI Fork) - This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features and other enhancements.' by TSF GitHub: github.com/TSFSean/InvokeAI-DiffusionCraftAI
+
+【自然语言提示的时装选型界面，基于对比语言-图像预训练模型】"Inter Alia"
+https://interalia.vcflab.org/
+https://weibo.com/tv/show/1034:4831061180612650?from=old_pc_videoshow
+
+【《创战纪》（TRON: Legacy)风格微调的Stable Diffusion模型】《dallinmackay/Tron-Legacy-diffusion · Hugging Face》
+https://huggingface.co/dallinmackay/Tron-Legacy-diffusion
+
+【DiffusionBee：Mac上本地运行的高效Stable Diffusion图形界面App】“DiffusionBee - Stable Diffusion GUI App” 
+https://diffusionbee.com/
+
+GitHub 上的开源技术教程：《Stable Diffusion Book》，关于 AI 绘画的全面中文 Wiki、入门教程、开源文档。
+覆盖 AI 绘画相关的术语解释、安装配置、配置与调试、模型训练等相关内容。
+GitHub：github.com/sudoskys/StableDiffusionBook 
+
+【Stable Diffusion多人协作版】《Stable Diffusion Multiplayer - a Hugging Face Space by huggingface-projects》
+https://huggingface.co/spaces/huggingface-projects/stable-diffusion-multiplayer?roomid=room-0
+
+【迪斯尼经典画风微调版Stable Diffusion模型】《nitrosocke/classic-anim-diffusion · Hugging Face》
+https://huggingface.co/nitrosocke/classic-anim-diffusion
+
+【用电影《梵高》画面微调的Stable Diffusion模型[酷]】《dallinmackay/Van-Gogh-diffusion · Hugging Face》
+https://huggingface.co/dallinmackay/Van-Gogh-diffusion
+
+【在IPhone上运行Stable Diffusion生成图像的App】“Draw Things: AI Generation on the App Store” 
+https://apps.apple.com/pt/app/draw-things-ai-generation/id6444050820?l=en
+
+【diffusers：Huggingface Diffusers的OneFlow移植版，比PyTorch版性能更高】’diffusers - oneflow fork of 🤗 Diffusers' by Oneflow GitHub: github.com/Oneflow-Inc/diffusers
+
+“Taiyi-Stable-Diffusion-1B-Chinese-EN-v0.1 - 首个开源的中英双语Stable Diffusion模型，基于0.2亿筛选过的中文图文对训练” 
+https://huggingface.co/IDEA-CCNL/Taiyi-Stable-Diffusion-1B-Chinese-EN-v0.1
+
+' Stable Diffusion in NCNN with c++' by WuJinxuan GitHub: github.com/EdVince/stable-diffusion-ncnn
+
+'DreamArtist (webui Eextension) - DreamArtist for Stable-Diffusion-webui extension ' by 7eu7d7 GitHub: github.com/7eu7d7/DreamArtist-sd-webui-extension
+
+'Stable Diffusion 2.0 - High-Resolution Image Synthesis with Latent Diffusion Models' by Stability AI GitHub: github.com/Stability-AI/stablediffusion 
+
+[CV]《SinDiffusion: Learning a Diffusion Model from a Single Natural Image》W Wang, J Bao, W Zhou, D Chen, D Chen, L Yuan, H Li [University of Science and Technology of China (USTC) & Microsoft Research Asia] (2022) 
+https://arxiv.org/abs/2211.12445
+
+[CV]《SceneComposer: Any-Level Semantic Image Synthesis》Y Zeng, Z Lin, J Zhang, Q Liu, J Collomosse, J Kuen, V M. Patel [Johns Hopkins University & Adobe Research] (2022)
+https://arxiv.org/abs/2211.11742
+
+【Stable Diffusion 2.0轻量界面】’Lightweight Stable Diffusion v 2.0 web UI' by qunash GitHub: github.com/qunash/stable-diffusion-2-gui 
+
+### [CV]《Sketch-Guided Text-to-Image Diffusion Models》A Voynov, K Aberman, D Cohen-Or [Google Research] (2022) 
+https://arxiv.org/abs/2211.13752
+
+【Core ML Stable Diffusion：基于Core ML适用于苹果平台的Stable Diffusion】’Core ML Stable Diffusion - Stable Diffusion with Core ML on Apple Silicon' by Apple GitHub: github.com/apple/ml-stable-diffusion 
+
+【像素艺术微调的Stable Diffusion模型】“isopixel-diffusion-v1: Stable Diffusion v2-768 model trained on to generate isometric pixel art · Hugging Face”
+https://huggingface.co/nerijs/isopixel-diffusion-v1
+
+'diffusers-webui - a Gradio WebUI working with the Diffusers format of Stable Diffusion' by Nitrosocke GitHub: github.com/nitrosocke/diffusers-webui 
+
+【Image Generator with Stable Diffusion v2：苹果系统上用Stable Diffusion v2生成图片的开源App】’Image Generator with Stable Diffusion v2 - An iOS app that generates images using Stable Diffusion v2.' by Yasuhito Nagatomo GitHub: github.com/ynagatomo/ImgGenSD2
+
+【OpenAI Image Generator：Node.js+OpenAI实现的根据描述生成图片应用，需要自备API KEY】’OpenAI Image Generator - Web app that uses Node.js and OpenAI to generate images' by Brad Traversy GitHub: github.com/bradtraversy/nodejs-openai-image 
+
+'Diffusion Toolkit - an image viewer built in .NET that scans your images for PNGInfo generated by diffusion image generators like AUTOMATIC1111, NovelAI, NKMD and others' by David Khristepher Santos GitHub: github.com/RupertAvery/DiffusionToolkit
+
+AI绘画平台汇总：
+DALL·E
+https://openai.com/dall-e-2/
+Imagen: Text-to-Image Diffusion Models
+https://imagen.research.google/
+NUWA-Infinity
+https://nuwa-infinity.microsoft.com/#/
+文心一格 - AI艺术和创意辅助平台 (中文)
+https://yige.baidu.com/
+6pen Art (中文)
+https://6pen.art/?invite=173722#no_universal_links
+Midjourney
+https://www.midjourney.com/home/
+NovelAI
+https://novelai.net/
+AI Art Generator, AI Art Maker - NightCafe Creator
+https://creator.nightcafe.studio
+
+由浅入深了解Diffusion Model - 知乎
+https://zhuanlan.zhihu.com/p/525106459
+
+diffusion model最近在图像生成领域大红大紫，如何看待它的风头开始超过GAN？ - 知乎
+https://www.zhihu.com/question/536012286
+
+[CV]《3DHumanGAN: Towards Photo-Realistic 3D-Aware Human Image Generation》Z Yang, S Li, W Wu, B Dai [Shanghai AI Lab & SenseTime Research] (2022)
+https://arxiv.org/abs/2212.07378
+
+【Riffusion App：基于Stable diffusion的实时音乐生成】’Riffusion App - Stable diffusion for real-time music generation' by Hayk Martiros
+https://www.riffusion.com/about
+Web app: github.com/hmartiro/ riffusion-app
+Inference server: github.com/hmartiro/ riffusion-inference
+Model checkpoint: huggingface.co/ riffusion/riffusion-model-v1

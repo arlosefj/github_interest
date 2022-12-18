@@ -257,3 +257,9 @@ https://arxiv.org/abs/2204.08870
 
 [CV]《Masked Siamese ConvNets》L Jing, J Zhu, Y LeCun [Meta AI & NYU] (2022)
 https://arxiv.org/abs/2206.07700
+
+【Finding all pairs of similar documents：省时省空间地从文档集中找出所有相似文档对】’Finding all pairs of similar documents - Finding all pairs of similar documents time- and memory-efficiently' by legalforce-research GitHub: github.com/legalforce-research/find-simdoc
+
+对比学习（Contrastive Learning）:研究进展精要
+https://zhuanlan.zhihu.com/p/367290573
+

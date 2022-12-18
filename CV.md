@@ -1228,3 +1228,54 @@ https://arxiv.org/abs/2207.11617
 ### 【stitching：Python写的图片无缝拼接工具包】’stitching - A Python package for fast and robust Image Stitching' by Lukas Weber GitHub: github.com/lukasalexanderweber/stitching 
 
 【哥伦比亚大学《计算机视觉第一原理》课程】《First Principles of Computer Vision》by Shree Nayar Youtube: www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw/playlists
+
+[CV]《PDRF: Progressively Deblurring Radiance Field for Fast and Robust Scene Reconstruction from Blurry Images》C Peng, R Chellappa [Johns Hopkins University] (2022) 
+https://arxiv.org/abs/2208.08049
+
+【CvComposer：OpenCV的高级图形界面，可方便构建工作流、快捷查看结果】’CvComposer - Advanded GUI for OpenCV, to compose various filters and quickly see the result' by Erwan MATHIEU GitHub: github.com/wawanbreton/cvcomposer 
+
+【A Toolbox for Video Restoration：视频恢复工具包，包括超分辨率、去模糊、压缩视频质量提升等】’A Toolbox for Video Restoration - Video Restoration Toolbox including FGST (ICML 2022), S2SVR (ICML 2022), etc.' by linjing7 GitHub: github.com/linjing7/VR-Baseline
+
+【NeRF-Factory: PyTorch的NeRF 库】’NeRF-Factory: An awesome PyTorch NeRF library' by Kakao Brain GitHub: github.com/kakaobrain/NeRF-Factory
+
+加速训练 NeRF 模型的项目。英伟达开源的最快只需 5 秒，训练出一只狐狸 NeRF 模型的技术。即根据静态的 2D 图片通过神经网络建模，快速训练出可以放大且从任何角度观察都清晰的图片
+https://github.com/NVlabs/instant-ngp
+
+### 简单实用的删除图像背景/抠图工具
+https://github.com/danielgatis/rembg
+
+【实际场景计算机视觉相关文献列表】’CVinW Readings - A collection of papers on the topic of ``Computer Vision in the Wild (CVinW)''' by Computer-Vision-in-the-Wild GitHub: github.com/Computer-Vision-in-the-Wild/CVinW_Readings
+
+【光场显著物体检测相关文献资源列表】’Light Field Salient Object Detection: A Review and Benchmark' by kerenfu GitHub: github.com/kerenfu/LFSOD-Survey
+
+[CV]《EVA3D: Compositional 3D Human Generation from 2D Image Collections》F Hong, Z Chen, Y Lan, L Pan, Z Liu [Nanyang Technological University] (2022) 
+https://arxiv.org/abs/2210.04888
+
+【现代图像滤波技术】《A Tour of Modern Image Filtering》by Peyman Milanfar
+https://users.soe.ucsc.edu/~milanfar/publications/journal/ModernTour.pdf
+
+'数字绘画 - AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等）' by hua1995116 GitHub: github.com/hua1995116/awesome-ai-painting
+
+【Image-Processing-Node-Editor：用节点编辑器执行图像/视频处理的应用】'Image-Processing-Node-Editor - An application that performs image processing with the node editor' by KazuhitoTakahashi GitHub: github.com/Kazuhito00/Image-Processing-Node-Editor
+
+### Microsoft/computervision-recipes: 「Best Practices, code samples, and documentation for Computer Vision.」
+https://github.com/microsoft/computervision-recipes
+
+【电子书《计算机视觉：算法与应用(第二版)》】《Computer Vision: Algorithms and Applications, 2nd ed.》by Richard Szeliski, 
+https://szeliski.org/Book/
+
+【MIT《计算机视觉进展》课程】《6.819/6.869: Advances in Computer Vision | MIT CSAIL》
+http://6.869.csail.mit.edu/sp22/schedule.html
+
+FLYCV：高性能计算视觉系统(库)】’FLYCV —— High-performance Compute Vision System' by PaddlePaddle GitHub: github.com/PaddlePaddle/FlyCV 
+
+【Kangas: 大规模多媒体数据集探索工具，用于探索、分析和可视化大规模多媒体数据】’Kangas: Explore Multimedia Datasets at Scale - a tool for exploring, analyzing, and visualizing large-scale multimedia data' by Comet GitHub: github.com/comet-ml/kangas
+
+[CV]《SinDDM: A Single Image Denoising Diffusion Model》V Kulikov, S Yadin, M Kleiner, T Michaeli [Technion – Israel Institute of Technology] (2022)
+https://arxiv.org/abs/2211.16582
+
+【计算机视觉性能提升的9个技巧】《9 Computer Vision Tricks to Improve Performance | Kaggle》
+https://www.kaggle.com/competitions/happy-whale-and-dolphin/discussion/310105
+
+关于视觉识别领域发展的个人观点
+https://zhuanlan.zhihu.com/p/558646681

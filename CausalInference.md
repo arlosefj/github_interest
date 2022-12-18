@@ -115,3 +115,12 @@ github.com/py-why/dowhy
 【Auto-Causality: 自动化因果推理库】’Auto-Causality: A library for automated Causal Inference model estimation and selection - AutoML for causal inference.' by TransferWise Ltd. GitHub: github.com/transferwise/auto-causality 
 
 【YLearn：因果学习算法工具包，主要支持因果学习任务中的各类相关任务，从因果效应识别，到因果效应估计，到因果发现等等】' - YLearn, a pun of "learn why", is a python package for causal inference' by DataCanvas GitHub: github.com/DataCanvasIO/YLearn
+
+【UCI《因果推理》课程】《CS 295 - Spring 2021, Causal Reasoning | UCI》by Rina Dechter
+https://www.ics.uci.edu/~dechter/courses/ics-295cr/spring-2021/?continueFlag=7aa1e0f49440de8613ea25f1f8e384fb
+
+【因果推理可视化指南集锦】’Visual Guides for Causal Inference - A collection of visual guides to help applied scientists learn causal inference.' by Kat Hoffman GitHub: github.com/kathoffman/causal-inference-visual-guides
+
+【Project Causica：开发机器学习解决方案以进行高效的决策，在跨领域达到人类专家水准】’Project Causica - aims to develop machine learning solutions for efficient decision making that demonstrate human expert-level performance across all domains' by Microsoft GitHub: github.com/microsoft/causica
+
+【《机器学习与因果推断》课程资料】’Machine-Learning - Machine Learning and Causal Inference taught by Brigham Frandsen' by Mixtape-Sessions GitHub: github.com/Mixtape-Sessions/Machine-Learning

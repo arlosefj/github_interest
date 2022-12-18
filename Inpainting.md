@@ -183,3 +183,13 @@ https://keras.io/examples/vision/masked_image_modeling/
 
 [CV]《Flow-Guided Transformer for Video Inpainting》K Zhang, J Fu, D Liu [University of Science and Technology of China & Microsoft Research Asia] (2022) 
 https://arxiv.org/abs/2208.06768
+
+【图像补全相关文献资源列表】’Awesome-Inpainting-Tech - A curated list of image inpainting and video inpainting papers and resources' by Yanhong Zeng GitHub: github.com/zengyh1900/Awesome-Image-Inpainting
+
+### 【Lama Cleaner：采用最先进AI模型的开箱即用图像内容擦除/补全工具，可以轻松去水印[赞]】'Lama Cleaner - Image inpainting tool powered by SOTA AI Model' by Sanster GitHub: github.com/Sanster/lama-cleaner
+
+一个开源的图片去水印解决方案：Watermark-Removal，可基于机器学习的图像修复方法，自动去除图片水印。经处理后的图片，与原图几乎一致。
+GitHub：github.com/zuruoke/watermark-removal ​​​​
+
+[CV]《A Structure-Guided Diffusion Model for Large-Hole Diverse Image Completion》D Horita, J Yang, D Chen, Y Koyama, K Aizawa [The University of Tokyo & Microsoft Research Asia & AIST] (2022)
+https://arxiv.org/abs/2211.10437

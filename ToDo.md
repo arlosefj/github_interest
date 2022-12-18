@@ -236,3 +236,66 @@ https://github.com/microsoft/DaVinci
 【ZigZag：用于识别时序峰值和谷值的Python库】’ZigZag - Python library for identifying the peaks and valleys of a time series.' by John B Nelson GitHub: github.com/jbn/ZigZag 
 
 'Morphling - Automatic tuning for ML model deployment on Kubernetes' by kubedl-io GitHub: github.com/kubedl-io/morphling
+
+'2022阿里天池真实场景篡改图像检测挑战赛-冠军方案（1/1149）' by Kingdrone GitHub: github.com/Junjue-Wang/Rank1-Ali-Tianchi-Real-World-Image-Forgery-Localization-Challenge
+
+[CL]《FormNet: Structural Encoding beyond Sequential Modeling in Form Document Information Extraction》C Lee, C Li, T Dozat, V Perot, G Su, N Hua, J Ainslie, R Wang, Y Fujii, T Pfister [Google Cloud AI Research & Google Research] (2022) 
+https://arxiv.org/abs/2203.08411
+
+《给学术研究者的机器学习避坑指南》
+https://arxiv.org/pdf/2108.02497.pdf
+
+智慧手语，在我国手语语言特点的基础上，自主构建大规模多模态手语语料库，通过AI手语数字脑完成语义蒸馏、手语翻译，经由高逼真数字人模型生成高准确率的动作、表情、口型，实现自然专业、易懂度高的手语效果。
+https://vip.aminer.cn/sign/
+
+'fcmaes - A Python 3 gradient-free optimization library' by dietmarwo GitHub: github.com/dietmarwo/fast-cma-es 
+
+### 用 Python 为模型创建演示界面。这是一个用于构建机器学习和数据科学演示的 Python 库，它包含多种输入和展示的组件，使用起来极其方便，只用几行代码就可以创建出演示机器学习模型的 Web 界面。
+https://github.com/gradio-app/gradio
+
+高性能、轻量级的神经网络部署框架。支持人脸关键点检测、卡通图像风格化、天气场景识别等功能，打包全部功能后的 SDK 体积还不到 3 MB，适用于 Android、iOS 等操作系统
+https://github.com/joyycom/VNN
+
+基于图像识别的 AI 自动化框架，支持吃鸡类、射击类、MOBA 类等游戏类型。内置多种图像识别算法和 AI 算法，不用抠图完全基于图像识别的 AI 训练和框架
+https://github.com/Tencent/GameAISDK
+
+【THINGSvision：用于从最先进的计算机视觉神经网络中提取和分析图像表示的Python包】’THINGSvision - Python package to extract and analyze image representations from state-of-the-art neural networks for computer vision' by ViCCo-Group GitHub: github.com/ViCCo-Group/THINGSvision 
+
+[CV]《Where Should I Spend My FLOPS? Efficiency Evaluations of Visual Pre-training Methods》S Koppula, Y Li, E Shelhamer, A Jaegle, N Parthasarathy, R Arandjelovic, J Carreira, O Hénaff [DeepMind] (2022) 
+https://arxiv.org/abs/2209.15589
+
+### 【Deep Lake: 一种数据集格式，提供简单的 API 以用于创建、存储和协作处理任何规模的 AI 数据集】'Deep Lake: Data Lake for Deep Learning - Data Lake for Deep Learning. Build, manage, query, version, & visualize datasets. Stream data real-time to PyTorch/TensorFlow' by Activeloop GitHub: github.com/activeloopai/deeplake 
+
+【AITemplate：将神经网络转换成高性能CUDA/HIP C++代码，用于FP16 TensorCore (NVIDIA GPU) / MatrixCore (AMD GPU) 快速推理服务】’AITemplate - a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.' by Meta Incubator GitHub: github.com/facebookincubator/AITemplate 
+
+【Ikomia API：用来轻松快速构建和部署计算机视觉工作流的开源工具】’IkomiaApi - Python API - State-of-the-art algorithms in Computer Vision with a few lines of code.' by Ikomia GitHub: github.com/Ikomia-dev/IkomiaApi
+
+【kernl：仅需一行代码在GPU上以几倍速度运行Pytorch transformer模型】’kernl - lets you run Pytorch transformer models several times faster on GPU with a single line of code, and is designed to be easily hackable.' by Lefebvre Dalloz Services GitHub: github.com/ELS-RD/kernl
+
+### 【Hawkeye：基于PyTorch构建的开源深度学习细粒度图像识别工具箱】'Hawkeye - Open source deep learning based fine-grained image recognition toolbox built on PyTorch' by Hawkeye-FineGrained GitHub: github.com/Hawkeye-FineGrained/Hawkeye
+
+[LG]《Unsupervised visualization of image datasets using contrastive learning》J N Böhm, P Berens, D Kobak [University of Tubingen] (2022) 
+https://arxiv.org/abs/2210.09879
+
+### 【基于LAION-5B图片嵌入索引得到的图片去重数据集】’Image Deduplication - Testset' by LAION-AI GitHub: github.com/LAION-AI/image-deduplication-testset 
+
+### 【ModelScope：一个“模型即服务”(MaaS)平台，旨在汇集AI社区最先进的机器学习模型，并简化利用和应用AI模型的过程】'ModelScope - a “Model-as-a-Service” (MaaS) platform that seeks to bringing together most advanced machine learning models from the AI community, and to streamlining the process of leveraging and applying AI models' GitHub: github.com/modelscope/modelscope 
+
+### 【GPU环境管理】’genv (GPU Environment Management)' by run:ai GitHub: github.com/run-ai/genv 
+
+【video2dataset：从视频链接轻松创建大规模视频数据集】'video2dataset - Easily create large video dataset from video urls' by Maciej Kilian GitHub: github.com/iejMac/video2dataset 
+
+[CV]《Image Deblurring with Domain Generalizable Diffusion Models》M Ren, M Delbracio, H Talebi, G Gerig, P Milanfar [Google Research & New York University] (2022)
+https://arxiv.org/abs/2212.01789
+
+[LG]《The Forward-Forward Algorithm: Some Preliminary Investigations》G Hinton [Google Brain] (2022)
+https://www.cs.toronto.edu/~hinton/FFA13.pdf
+
+【Renate：采用先进的持续学习和终身学习算法，用于神经网络模型自动重训练的Python包】'Renate - Library for automatic retraining and continual learning' by Amazon Web Services - Labs GitHub: github.com/awslabs/Renate
+
+【机器学习可解释性相关资源列表】’Resources for Machine Learning Explainability' by van_der_Schaar \LAB GitHub: github.com/vanderschaarlab/Interpretability
+
+【My backup scripts：用ssh和rsync备份的脚本集】’My backup scripts - The various scripts I use to back up my home computers using ssh and rsync' by Eamonn Sullivan GitHub: github.com/eamonnsullivan/backup-scripts
+
+[CV]《What do Vision Transformers Learn? A Visual Exploration》A Ghiasi, H Kazemi, E Borgnia, S Reich, M Shu, M Goldblum, A G Wilson, T Goldstein [University of Maryland & New York University] (2022) 
+https://arxiv.org/abs/2212.06727

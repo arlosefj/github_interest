@@ -163,3 +163,15 @@ github.com/belosthomas/libCML
 '多传感器定位融合学习笔记' by kahowang GitHub: github.com/kahowang/sensor-fusion-for-localization-and-mapping
 
 'Isaac ROS Image Pipeline - Hardware-accelerated ROS2 packages for camera image processing.' by NVIDIA Isaac ROS GitHub: github.com/NVIDIA-ISAAC-ROS/isaac_ros_image_pipeline
+
+【XRLocalization：可视化定位工具包和服务器】'XRLocalization - OpenXRLab Visual Localization Toolbox and Server' by OpenXRLab GitHub: github.com/openxrlab/xrlocalization
+
+'ROS package for official YOLOv7' by Lukas Ewecker GitHub: github.com/lukazso/yolov7-ros
+
+'Awesome Dynamic SLAM - Dynamic SLAM, Life-long SLAM Research(Lidar, Visual, Sensor Fusion etc. )' by Hu Zhu GitHub: github.com/zhuhu00/Awesome_Dynamic_SLAM
+
+【Image Sequence Localizer：在室外环境用图像序列进行视觉定位的框架】'Image Sequence Localizer - The framework for visual place recognition in outdoor environments using image sequences.' by Olga Vysotska GitHub: github.com/ovysotska/image_sequence_localizer
+
+【Object SLAM相关文献资源列表】’Awesome Object SLAM - A curated list of Object SLAM papers and resources' by Ziqi Lu GitHub: github.com/520xyxyzq/awesome-object-SLAM
+
+'SLAM-All-In-One - SLAM汇总，包括多传感器融合建图、定位、VIO系列、常用工具包、开源代码注释和公式推导、文章综述' by zhouyong1234 GitHub: github.com/zhouyong1234/SLAM-All-In-One

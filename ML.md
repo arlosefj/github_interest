@@ -1720,3 +1720,70 @@ https://peterbloem.nl/blog/pca
 【《机器学习可解释性实战》随书代码】’Applied Machine Learning Explainability Techniques, published by Packt' by Packt GitHub: github.com/PacktPublishing/Applied-Machine-Learning-Explainability-Techniques
 
 ### "我们发现现在国内研究算法的人很多，但很多人缺乏对机器学习系统的理解。这样一方面可能会限制算法研究的想象力，另一方面也不利于学科的发展。因此，我们认为有必要编写一本系统化的《机器学习系统》书籍。" 此书开源链接： （+https）openmlsys.github.io/ ​​​​
+
+【imodels：可解释机器学习包，用于简洁、透明和准确的预测建模】'Interpretable machine learning models (imodels) - Interpretable ML package for concise, transparent, and accurate predictive modeling (sklearn-compatible).' by Chandan Singh GitHub: github.com/csinva/imodels
+
+【凸优化课程资料】’Course: Convex Optimization - Repository for my convex optimization course.' by Niao He GitHub: github.com/niaohe/Convex-Optimization-Course
+
+【迁移学习路线图】’A Roadmap for Transfer Learning' by THUML GitHub: github.com/thuml/A-Roadmap-for-Transfer-Learning
+
+【机器学习相关资源大列表】’Awesome-Machine-Unlearning - A collection of academic articles, published methodology, and datasets on the subject of machine unlearning.' by tamlhp GitHub: github.com/tamlhp/awesome-machine-unlearning 
+
+【Mjx：麻将AI研究框架】’Mjx - Mjx: A framework for Mahjong AI research' GitHub: github.com/mjx-project/mjx
+
+【Data Engineering for Machine Learning：机器学习数据工程实战】’Data Engineering for Machine Learning - Construct a modern data stack and orchestration the workflows to create high quality data for analytics and ML applications.' by Goku Mohandas GitHub: github.com/GokuMohandas/data-engineering
+
+【Testing ML：通过代码、数据、模型的测试创建可靠的机器学习模型】’Testing ML - Learn how to create reliable ML systems by testing code, data and models.' by Goku Mohandas GitHub: github.com/GokuMohandas/testing-ml
+
+### 【redframes：用于机器学习和可视化的数据操纵库】'redframes - [re]ctangular[d]ata[frames], a data manipulation library for ML and visualization’ by Max Humber GitHub: github.com/maxhumber/redframes
+
+【35天机器学习之旅】’Journey of 66DaysOfData in Machine Learning - I am sharing my journey of 66DaysOfData in Machine Learning' by Saugat Regmi GitHub: github.com/regmi-saugat/66Days_MachineLearning
+
+解释机器学习模型输出的库。它基于博弈论中的 Shapley Value 理论，将所有特征视为贡献者，然后计算每个特征对于模型输出结果的贡献。
+https://github.com/slundberg/shap
+
+【5分钟XGBoost算法解析】《XGBoost Algorithm Explained in Less Than 5 Minutes》by Nilesh Verma
+https://medium.com/@techynilesh/xgboost-algorithm-explained-in-less-than-5-minutes-b561dcc1ccee
+
+【开源书：机器学习系统：设计和实现(中文版)】’《Machine Learning Systems: Design and Implementation》- Chinese Version' openmlsys.github.io/ GitHub: github.com/openmlsys/openmlsys-zh
+
+【flashlight：快速、灵活的C++机器学习库，由Facebook AI研究语音团队及Torch和Deep Speech的创作者用C++编写】’flashlight - a fast, flexible machine learning library written entirely in C++ from the Facebook AI Research Speech team and the creators of Torch and Deep Speech' GitHub: https:// github.com/flashlight/flashlight
+
+【DeepCAVE：用于实时可视化和分析AutoML流程的交互式框架】'DeepCAVE - An interactive framework to visualize and analyze your AutoML process in real-time.' by AutoML-Freiburg-Hannover GitHub: github.com/automl/DeepCAVE
+
+### 【Intel提供的Scikit-learn扩展补丁，通过替换算法优化实现，仅需一行代码即可将Scikit-learn算法运行提速10倍-100倍[酷]】《Intel® Extension for Scikit-learn》 intel.github.io/scikit-learn-intelex/
+
+【机器学习微积分入门】《Calculus for Machine Learning (7-day mini-course)》by Adrian Tam 
+https://machinelearningmastery.com/calculus-for-machine-learning-7-day-mini-course/
+
+【全栈机器学习工程课程列表】’Awesome Full Stack Machine Learning Engineering Courses - Curated list of publicly accessible machine learning engineering courses from CalTech, Columbia, Berkeley, MIT, and Stanford.' by Hanchung Lee GitHub: github.com/leehanchung/awesome-full-stack-machine-courses
+
+【MMEval：机器学习算法评测库，提供高效准确的分布式评测以及多种机器学习框架后端支持】'MMEval - A unified and open cross-framework evaluation library' by OpenMMLab GitHub: github.com/open-mmlab/mmeval
+
+【Failed Machine Learning (FML)：机器学习知名失败案例集锦】’Failed Machine Learning (FML) - Compilation of high-profile real-world examples of failed machine learning projects' by Kenneth Leung GitHub: github.com/kennethleungty/Failed-ML
+
+【机器学习部署类型】《Machine Learning Deployment Types, Spark - Architecture and more...》 
+https://swirlai.substack.com/p/sai-03-machine-learning-deployment
+
+【Practical Machine Learning：机器学习实战资料(Jupyter Notebooks)】’Practical Machine Learning - Learn by experimenting on state-of-the-art machine learning models and algorithms with Jupyter Notebooks.' by Eugene Siow GitHub: github.com/eugenesiow/practical-ml 
+
+【Yachay: 开源机器学习平台】’Yachay: an open-source platform for Machine Learning' by 1712n GitHub: github.com/1712n/yachay-public/tree/master/conf_geotagging_model 
+
+GitHub上的#机器学习#集锦类资源汇总：
+1、Awesome Machine Learning
+GitHub: github.com/josephmisiti/awesome-machine-learning
+2、Machine Learning & Deep Learning Tutorials
+GitHub: github.com/ujjwalkarn/Machine-Learning-Tutorials
+3、TensorFlow Examples
+GitHub: github.com/aymericdamien/TensorFlow-Examples
+4、notebooks of Machine Learning tutorials
+GitHub: github.com/patchy631/machine-learning
+5、Made With ML
+GitHub: github.com/GokuMohandas/Made-With-ML
+6、Best-of Machine Learning with Python
+GitHub: github.com/ml-tooling/best-of-ml-python
+7、Minimum Viable Study Plan for Machine Learning Interviews
+GitHub: github.com/khangich/machine-learning-interview
+
+如何向深度学习模型中加入先验知识？ - 知乎
+https://www.zhihu.com/question/279012198

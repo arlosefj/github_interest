@@ -883,3 +883,50 @@ https://githubdaily.gitee.io/posts/2022-07-21-pytorch-book/
 【river-torch：Python在线深度学习库DeepRiver基于PyTorch的API】’river-torch - a Python library for online deep learning' by OnlineML GitHub: github.com/online-ml/river-torch
 
 【Uni-Core：高性能分布式PyTorch框架】’Uni-Core - an efficient distributed PyTorch framework' by DP Technology GitHub: github.com/dptech-corp/Uni-Core 
+
+【pytorch-optimizer：PyTorch实现的优化器集】’pytorch-optimizer - Bunch of optimizer implementations in PyTorch' by Hyeongchan Kim GitHub: github.com/kozistr/pytorch_optimizer 
+
+### 'wandb使用教程 - 免费机器学习训练过程记录工具wandb使用教程’ by Shiyu Huang GitHub: github.com/huangshiyu13/wandb_tutorial
+
+【EasyCV：PyTorch一站式计算机视觉工具箱，聚焦自监督学习、图像分类、度量学习、目标检测等方面】'EasyCV - An all-in-one toolkit for computer vision' by Alibaba GitHub: github.com/alibaba/EasyCV
+
+【《Fastai & Pytorch深度学习入门》第二版代码】’The fastai book - The fastai book, 2nd edition (in progress)' by
+fast.ai GitHub: github.com/fastai/fastbook2e
+
+### 【PyTorch模型性能调优指南】《Performance Tuning Guide — PyTorch Tutorials》by Szymon Migacz 
+https://pytorch.org/tutorials/recipes/recipes/tuning_guide.html
+
+'PyTorch Template Using DistributedDataParallel - This is a seed project for distributed PyTorch training, which was built to customize your network quickly' by Liangwei Jiang GitHub: github.com/Janspiry/distributed-pytorch-template
+
+【Streaming：用于神经网络高效训练的数据流库(PyTorch)】’Streaming - a PyTorch compatible dataset that enables users to stream training data from cloud-based object stores.‘ by MosaicML GitHub: github.com/mosaicml/streaming
+
+【Torch-RecHub：易用易扩展的Pytorch Lighting推荐模型框架】'Torch-RecHub - A Lighting Pytorch Framework for Recommendation Models, Easy-to-use and Easy-to-extend' by Datawhale GitHub: github.com/datawhalechina/torch-rechub 
+
+【Tensorflow & PyTorch多GPU深度学习模板】’tf-torch-template - Deep learning project template with tensorflow & pytorch (multi-gpu version)' by Junho Kim GitHub: github.com/taki0112/tf-torch-template 
+
+【Pytorch Wavelet Toolbox (ptwt)：Pytorch小波变换工具包】’Pytorch Wavelet Toolbox (ptwt) - Differentiable fast wavelet transforms in PyTorch with GPU support.' by Moritz Wolter GitHub: github.com/v0lta/PyTorch-Wavelet-Toolbox
+
+### 'TorchEval - A library that contains a rich collection of performant PyTorch model metrics, a simple interface to create new metrics, a toolkit to facilitate metric computation in distributed training and tools for PyTorch model evaluations.' by pytorch GitHub: github.com/pytorch/torcheval
+
+【GeoTorch: 空时深度学习框架】'GeoTorch: A Spatiotemporal Deep Learning Framework - GeoTorch: A Spatiotemporal Deep Learning Framework' by Data Systems Lab GitHub: github.com/DataSystemsLab/GeoTorch
+
+【9个深度学习模型并行和分布式训练/推理库】《9 libraries for parallel & distributed training/inference of deep learning models》 medium.com/@mlblogging.k/9-libraries-for-parallel-distributed-training-inference-of-deep-learning-models-5faa86199c1f
+
+Cadene/pretrained-models.pytorch: 「Pretrained ConvNets for pytorch: NASNet, ResNeXt, ResNet, InceptionV4, InceptionResn
+https://github.com/Cadene/pretrained-models.pytorch
+
+'torchnnprofiler - Context Manager to profile the forward and backward times of PyTorch's nn.Module' by Kshiteej K GitHub: github.com/kshitij12345/torchnnprofiler
+
+'finetuning-scheduler - A PyTorch Lightning extension that accelerates and enhances foundational model experimentation with flexible finetuning schedules.' by Dan Dale GitHub: github.com/speediedan/finetuning-scheduler
+
+### 《Visualizing and Debugging Neural Networks with PyTorch and Weights & Biases – Weights & Biases》
+https://wandb.ai/ayush-thakur/debug-neural-nets/reports/Debugging-Neural-Networks-with-PyTorch-and-W&B--Vmlldzo2OTUzNA
+
+【Merlin Dataloader：加速训练TensorFlow和PyTorch推荐模型，数据加载速度最高可提升10倍】’Merlin Dataloader - lets you quickly train recommender models for TensorFlow and PyTorch’ by NVIDIA-Merlin GitHub: github.com/NVIDIA-Merlin/dataloader 
+
+'Hailo Model Zoo - includes pre-trained models and a full building and evaluation environment' by Hailo GitHub: github.com/hailo-ai/hailo_model_zoo 
+
+### 【PyTorch学习速率规划器可视化指南】《A Visual Guide to Learning Rate Schedulers in PyTorch》by Leonie Monigatti towardsdatascience.com/a-visual-guide-to-learning-rate-schedulers-in-pytorch-24bbb262c863
+![](https://wx1.sinaimg.cn/mw2000/5396ee05ly1h8x7ywg9tsj212w0jgn2h.jpg)
+
+### 【torchview：PyTorch模型可视化】’torchview - torchview: visualize pytorch models' by mert-kurttutan GitHub: github.com/mert-kurttutan/torchview 

@@ -711,3 +711,15 @@ github.com/deepinsight/insightface
 
 [CV]《Multiface: A Dataset for Neural Face Rendering》C Wuu, N Zheng, S Ardisson, R Bali, D Belko, E Brockmeyer, L Evans, T Godisart, H Ha, A Hypes, T Koska, S Krenn, S Lombardi, X Luo, K McPhail, L Millerschoen... [Meta Reality Labs Research] (2022) 
 https://arxiv.org/abs/2207.11243v1
+
+【FaceLivenessDiscovery-SDK：3D被动人脸活体检测(反欺诈)与Deepfake换脸检测】'Getting started - 3D Passive Face Liveness Detection (Anti-Spoofing) & Deepfake detection. A single image is needed to compute liveness score. 99,67% accuracy on our dataset and perfect scores on multiple public datasets (NUAA, CASIA FASD, MSU...).' by DoubangoTelecom GitHub: github.com/DoubangoTelecom/FaceLivenessDetection-SDK
+
+【DigiFace-1M Dataset：面向人脸识别的百万人脸图像数据集】’DigiFace-1M Dataset' by Microsoft GitHub: github.com/microsoft/DigiFace1M
+
+【GFPGAN：旨在开发一种实用算法，用于现实世界的人脸修复】'GFPGAN - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration' by TencentARC GitHub: github.com/TencentARC/GFPGAN
+
+【FaceDancer: 姿态/遮挡感知的高保真换脸】’FaceDancer: Pose- and Occlusion-Aware High Fidelity Face Swapping' by Felix Rosberg GitHub: github.com/felixrosberg/FaceDancer
+
+【YOLO7人脸检测】’yolov7-face - yolov7 face detection with landmark' by Derron GitHub: github.com/derronqi/yolov7-face
+
+### 【深度人脸复原(去噪、超分辨率、去模糊和伪影去除)相关文献资源列表】’Awesome-Face-Restoration - A comprehensive list of recources (papers, repositories etc.) about face restoration methods.' by Tao Wang GitHub: github.com/TaoWangzj/Awesome-Face-Restoration

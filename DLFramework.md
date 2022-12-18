@@ -164,3 +164,12 @@ github.com/unifyai/ivy
 'Ecosystem：使用了OpenMMLab体系的开源项目’ by OpenMMLab GitHub: github.com/open-mmlab/ecosystem
 
 【TinyMaix：面向单片机的超轻量级的神经网络推理库，即TinyML推理库】'TinyMaix - a tiny inference library for microcontrollers (TinyML).' by Sipeed GitHub: github.com/sipeed/TinyMaix
+
+### 'sio4onnx - Simple tool to change the INPUT and OUTPUT shape of ONNX.' by Katsuya Hyodo GitHub: github.com/PINTO0309/sio4onnx
+
+'MegCC - 运行时超轻量，高效，移植简单的深度学习模型编译器' by MegEngine GitHub: github.com/MegEngine/MegCC 
+
+Dmlc/dgl: 「Python package built to ease deep learning on graph, on top of existing DL frameworks.」
+https://github.com/dmlc/dgl
+
+【ivy：机器学习统一框架，支持所有框架，目前支持 Jax，TensorFlow，PyTorch，MXNet 和 Numpy】’ivy - The Unified Machine Learning Framework' GitHub: github.com/unifyai/ivy 
