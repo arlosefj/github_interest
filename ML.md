@@ -1787,3 +1787,61 @@ GitHub: github.com/khangich/machine-learning-interview
 
 如何向深度学习模型中加入先验知识？ - 知乎
 https://www.zhihu.com/question/279012198
+
+【tsai：基于Pytorch & fastai的深度学习时序处理库】’tsai - Time series Timeseries Deep Learning Machine Learning Pytorch fastai | State-of-the-art Deep Learning library for Time Series and Sequences in Pytorch / fastai' by timeseriesAI GitHub: github.com/timeseriesAI/tsai 
+
+【LearnML：三个月入门机器学习指南】’LearnML - This is the Study Guide for Learn Machine Learning in 3 Months (PyTorch Curriculum) by Siraj Raval on Youtube' by llSourcell GitHub: github.com/llSourcell/LearnML
+
+深入浅出过拟合
+https://arxiv.org/abs/2209.03032
+
+神经搜索框架盘点
+http://aicoco.net/s/a
+
+【《深入机器学习算法：贝叶斯推断和深度学习》随书代码】’Machine Learning Algorithms in Depth - ML algorithms in depth' by Vadim Smolyakov GitHub: github.com/vsmolyakov/ml_algo_in_depth
+
+【深度学习系统/AI系统，探讨和学习人工智能、深度学习的计算机系统设计】’Deep Learning System/AI System - Deep Learning System core principles introduction.' by ZOMI GitHub: github.com/chenzomi12/DeepLearningSystem
+
+【MLE Interview Questions：机器学习工程师面试问题与答案(大部分答案由ChatGPT生成[坏笑])】’MLE Interview Questions - Interview Questions and Answers for Machine Learning Engineer roles' by backpropagation64 GitHub: github.com/backpropagation64/mle-interview-questions
+
+【面向软件工程的机器学习相关文献资源列表】’Machine Learning for Software Engineering - A curated list of papers, theses, datasets, and tools related to the application of Machine Learning for Software Engineering' Software Analytics Lab GitHub: github.com/saltudelft/ml4se 
+
+【时序图学习现状与展望】《Temporal Graph Learning in 2023. The story so far | by Shenyang(Andy) Huang》 
+https://towardsdatascience.com/temporal-graph-learning-in-2023-d28d1640dbf2
+
+【ML Papers Explained：机器学习论文主要概念解析集】’ML Papers Explained - Explanation to key concepts in ML' DAIR.AI GitHub: github.com/dair-ai/ML-Papers-Explained 
+
+【图解机器学习】“The Illustrated Machine Learning Website” 
+github.com/illustrated-machine-learning/illustrated-machine-learning.github.io
+https://illustrated-machine-learning.github.io/
+
+【最小化的机器学习项目模板】’minimal-stateless-ml-template - A very minimal ml project template that uses HF transformers and wandb to train a simple NN and evaluate it, in a stateless manner compatible with Spot instances kubernetes workflows' BayesWatch GitHub: github.com/BayesWatch/minimal-ml-template
+
+【《深度学习调优手册》- 系统最大化深度学习模型性能】'Deep Learning Tuning Playbook - A playbook for systematically maximizing the performance of deep learning models.' Google Research GitHub: github.com/google-research/tuning_playbook
+
+如何为机器学习和分析准备数据集
+https://blog.jetbrains.com/datalore/2022/11/08/how-to-prepare-your-dataset-for-machine-learning-and-analysis/?twclid=2-5ym7z4lr53evelkfmdco7lk7b
+
+【UpTrain：用于跟踪和改进机器学习模型的开源工具】'UpTrain - an open-source tool for machine learning model monitoring and refinement.’ GitHub: github.com/uptrain-ai/uptrain 
+
+【Babylog：轻量日志记录(Python)，用于机器学习团队在生产中记录图像和预测结果】’Babylog - A lightweight logger for machine learning teams to log images and predictions in production.' BabylonAI, Inc GitHub: github.com/thebabylonai/babylog
+
+【如何快速搭建AI产品原型？这里是一份最新的AI黑客马拉松备用工具栈清单】’AI Hackathon Stack' by sw-yx GitHub: github.com/sw-yx/ai-notes/blob/main/Resources/AI-hackathon-stack.md
+
+【“解释机器学习模型”课程资料】’Interpreting ML Models - Course for Interpreting ML Models' Nazneen Rajani GitHub: github.com/nazneenrajani/interpreting-ml-models-course 
+
+【Oxen：机器学习数据集版本控制工具，针对结构化和非结构化数据类型进行了优化，比现有工具快10-100倍】'Oxen - Official repository for docs and releases of the Oxen CLI' Oxen.ai GitHub: github.com/Oxen-AI/oxen-release
+
+【Time Series Library (TSlib)：时间序列深度学习库，提供了简洁的代码库来评估先进的深度时间序列模型或开发自己的模型，包括五个主流任务: 长期和短期预测、估算、异常检测和分类】’Time Series Library (TSlib) - A Library for Advanced Deep Time Series Models.' THUML GitHub: github.com/thuml/Time-Series-Library
+
+### 'Helix - a framework for building multi-model, feedback-looping AI systems. It's like a modular synthesizer for AI.' Rich Jones GitHub: github.com/Miserlou/Helix 
+
+[LG]《Out-of-Domain Robustness via Targeted Augmentations》I Gao, S Sagawa, P W Koh, T Hashimoto, P Liang [Stanford University & University of Washington] (2023)
+通过目标性增强来改善机器学习模型的域外(OOD)性能，相比最高水平提高了3.2-15.2%。 https://arxiv.org/abs/2302.11861
+
+[LG]《Images as Weight Matrices: Sequential Image Generation Through Synaptic Learning Rules》K Irie, J Schmidhuber [IDSIA] (2023) 
+神经网络可以用通用的突触学习规则和外积生成自然图像，从而实现复杂连接模式的人工可理解的可视化。 https://openreview.net/forum?id=ddad0PNUvV
+
+【ClearML：用于机器学习模型简易部署的命令行实用程序】’ClearML - Model-Serving Orchestration and Repository Solution' GitHub: github.com/allegroai/clearml-serving
+
+'trytouca - Continuous Regression Testing for Engineering Teams' Touca GitHub: github.com/trytouca/trytouca

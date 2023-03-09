@@ -391,3 +391,5 @@ https://arxiv.org/abs/2111.14690
 https://github.com/DanceTrack
 
 【AS-One : 用于YOLO目标检测和对象跟踪的模块化库】'AS-One : A Modular Libary for YOLO Object Detection and Object Tracking - Run YOLOv7,v6,v5,R,X in under 20 lines of code.' by Augmented Startups GitHub: github.com/augmentedstartups/AS-One
+
+'YOLOv8 Object Detection with DeepSORT Tracking(ID + Trails) - YOLOv8 Object Tracking using PyTorch, OpenCV and DeepSORT' Muhammad Moin GitHub: github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking

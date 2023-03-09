@@ -977,3 +977,9 @@ https://www.philschmid.de/fine-tuning-lilt
 https://huggingface.co/blog/document-ai
 
 'Bob - 一款 macOS 平台翻译和 OCR 软件' by zongyi GitHub: github.com/ripperhe/Bob 
+
+日本人文学科开放数据中心(CODH)开发出了一款名为"KuroNet"的日文书法识别系统，能从书法照片里自动检测文本字符并识别成对应的文本，再以增强现实的方式实时显示在相机画面里。非常实用的项目，期待中文版的出现
+http://codh.rois.ac.jp/miwo/
+
+[LG]《PLay: Parametrically Conditioned Layout Generation using Latent Diffusion》C Cheng, F Huang, G Li, Y Li [Google Research] (2023)
+https://arxiv.org/abs/2301.11529

@@ -356,3 +356,7 @@ https://space.bilibili.com/471559565/channel/seriesdetail?sid=2413153
 https://datamachines.xyz/the-hands-on-reinforcement-learning-course-page/
 
 【huggingface深度强化学习开放课程2.0】《Deep Reinforcement Learning Course》 simoninithomas.github.io/deep-rl-course/ 
+
+'DI-1024：深度强化学习 + 1024游戏 人机协作共同解密 (Deep Reinforcement Learning + 1024 Game)' OpenDILab GitHub: github.com/opendilab/DI-1024 
+
+【强化学习实战教程】’The Hands-on Reinforcement Learning course - Free course that takes you from zero to Reinforcement Learning PRO' Pau Labarta Bajo GitHub: github.com/Paulescu/hands-on-rl 

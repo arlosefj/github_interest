@@ -930,3 +930,14 @@ https://wandb.ai/ayush-thakur/debug-neural-nets/reports/Debugging-Neural-Network
 ![](https://wx1.sinaimg.cn/mw2000/5396ee05ly1h8x7ywg9tsj212w0jgn2h.jpg)
 
 ### 【torchview：PyTorch模型可视化】’torchview - torchview: visualize pytorch models' by mert-kurttutan GitHub: github.com/mert-kurttutan/torchview 
+
+【Holistic Trace Analysis：PyTorch性能分析库】’Holistic Trace Analysis - A library to analyze PyTorch traces.' Meta Research GitHub: github.com/facebookresearch/HolisticTraceAnalysis
+
+【tensor_parallel：一行代码将 PyTorch 大模型分到多个GPU上运行(训练/推理)】’tensor_parallel - Automatically split your PyTorch models on multiple GPUs for training & inference' Andrei Panferov GitHub: github.com/BlackSamorez/tensor_parallel
+
+【PaDiff：基于PaddlePaddle与PyTorch的模型精度对齐工具】'PaDiff - paddle debug toolkits' PaddlePaddle GitHub: github.com/PaddlePaddle/PaDiff
+
+【PaConvert：API代码转换工具，将Pytorch代码转换为PaddlePaddle代码】’PaConvert - paddle code convert toolkit' Zhou Wei GitHub: github.com/zhouwei25/PaConvert
+
+【PyTorch快速入门 (Colab)】《PyTorch-CrashCourse.ipynb - Colaboratory》
+https://colab.research.google.com/drive/1eiUBpmQ4m7Lbxqi2xth1jBaL61XTKdxp?usp=sharing

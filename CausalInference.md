@@ -124,3 +124,9 @@ https://www.ics.uci.edu/~dechter/courses/ics-295cr/spring-2021/?continueFlag=7aa
 【Project Causica：开发机器学习解决方案以进行高效的决策，在跨领域达到人类专家水准】’Project Causica - aims to develop machine learning solutions for efficient decision making that demonstrate human expert-level performance across all domains' by Microsoft GitHub: github.com/microsoft/causica
 
 【《机器学习与因果推断》课程资料】’Machine-Learning - Machine Learning and Causal Inference taught by Brigham Frandsen' by Mixtape-Sessions GitHub: github.com/Mixtape-Sessions/Machine-Learning
+
+现代因果推理入门
+https://alejandroschuler.github.io/mci/
+
+【用串流图入门因果推理】《An introduction to causal inference via string diagrams》
+https://piedeleu.com/posts/diagrammatic-causal-inference/

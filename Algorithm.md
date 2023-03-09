@@ -419,3 +419,5 @@ https://www.mltut.com/best-resources-to-learn-data-structures-and-algorithms/
 https://www.programmercarl.com/
 
 'hello-algo - 《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书' by Yudong Jin GitHub: github.com/krahets/hello-algo 
+
+【Pathfinding Visualizer：寻路算法可视化】’Pathfinding Visualizer - Pathfinding visualizations with Python and Pygame' Tauseef Hilal Tantary GitHub: github.com/Tauseef-Hilal/Pathfinding-Visualizer 

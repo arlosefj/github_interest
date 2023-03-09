@@ -905,3 +905,29 @@ https://www.zhihu.com/question/568791838
 
 一文解释 Diffusion Model (一) DDPM 理论推导 - 知乎
 https://zhuanlan.zhihu.com/p/565901160
+
+GPT能力从何而来? 语言模型涌现能力溯源
+https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1
+
+Rethinking Vision Transformers for MobileNet Size and Speed
+https://arxiv.org/abs/2212.08059
+
+Transformer机制可解释性初探
+https://www.neelnanda.io/mechanistic-interpretability/getting-started
+
+[CV]《BiMLP: Compact Binary Architectures for Vision Multi-Layer Perceptrons》Y Xu, X Chen, Y Wang [Huawei Noah’s Ark Lab] (2022) 
+https://arxiv.org/abs/2212.14158
+
+【图神经网络(GNNs)学习指南】’Graph Neural Networks (GNNs) Study Guide - A study guide to learn about Graph Neural Networks (GNNs)' DAIR.AI GitHub: github.com/dair-ai/GNNs-Recipe
+
+[CV]《Rethinking Mobile Block for Efficient Neural Models》J Zhang, X Li, J Li, L Liu, Z Xue, B Zhang, Z Jiang, T Huang, Y Wang, C Wang [Tencent & Peking University & Wuhan University] (2023) 
+https://arxiv.org/abs/2301.01146
+
+[CV]《Designing BERT for Convolutional Networks: Sparse and Hierarchical Masked Modeling》K Tian, Y Jiang, Q Diao, C Lin, L Wang, Z Yuan [Peking University & Bytedance Inc & University of Oxford] (2023) 
+https://arxiv.org/abs/2301.03580
+
+Transformer 进化史(时间线)
+https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/?continueFlag=6817c7861421f8b7a171c6db348c259e
+
+[LG]《Transformer models: an introduction and catalog》X Amatriain (2023)
+https://arxiv.org/abs/2302.07730

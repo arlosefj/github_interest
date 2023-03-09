@@ -1279,3 +1279,25 @@ https://www.kaggle.com/competitions/happy-whale-and-dolphin/discussion/310105
 
 关于视觉识别领域发展的个人观点
 https://zhuanlan.zhihu.com/p/558646681
+
+【Simple OpenCV：在一些移动场景下，替代OpenCV的功能，大部分实现均来自于ncnn】’Simple OpenCV - Make a minimal OpenCV runable on any where, WIP' by JinTian GitHub: github.com/jinfagang/simpleocv
+
+'CV-CUDA™ - an open-source, graphics processing unit (GPU)-accelerated library for cloud-scale image processing and computer vision.' by CVCUDA GitHub: github.com/CvCuda/CV-CUDA 
+
+【html_semantic_seg：从DOM创建网页截图语义分割数据集的工具】'html_semantic_seg - Tool to create a dataset of semantic segmentation on website screenshots from their DOM' by David Valdman GitHub: github.com/dmvaldman/html_semantic_seg
+
+【MindCV：基于 MindSpore 开发的，致力于计算机视觉相关技术研发的开源工具箱】'MindCV - A toolbox of vision models and algorithms based on MindSpore' MindSpore Lab GitHub: github.com/mindspore-lab/mindcv
+
+【EveryDream Tools：先进的视觉模型微调工具】'EveryDream Tools - Advanced fine tuning tools for vision models' Victor Hall GitHub: github.com/victorchall/EveryDream 
+
+'Implementation of DreamBooth using KerasCV and TensorFlow' Sayak Paul GitHub: github.com/sayakpaul/dreambooth-keras
+
+【不同自动图像增强方法的比较】《Comparing Different Automatic Image Augmentation Methods in PyTorch》by Sebastian Raschka
+https://sebastianraschka.com/blog/2023/data-augmentation-pytorch.html
+
+'Limbus: Computer Vision pipelining for PyTorch - Open Source async AI pipelines' kornia GitHub: github.com/kornia/limbus
+
+[CV]《Pic2Word: Mapping Pictures to Words for Zero-shot Composed Image Retrieval》K Saito, K Sohn, X Zhang, C Li, C Lee, K Saenko, T Pfister [Google Research & Google Cloud AI Research & Boston University] (2023)
+https://arxiv.org/abs/2302.03084
+
+【rerun：Rust写的计算机视觉可视化框架】’rerun - Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui' rerun.io GitHub: github.com/rerun-io/rerun

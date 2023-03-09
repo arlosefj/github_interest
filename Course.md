@@ -340,3 +340,16 @@ https://web.stanford.edu/class/cs231a/course_notes.html
 【图宾根大学《深度学习数学基础》课程】《Math for Deep Learning》by Andreas Geiger www.youtube.com/playlist?list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm
 
 【Data Science for Beginners：微软10周20堂数据科学课】’Data Science for Beginners - A Curriculum - 10 Weeks, 20 Lessons, Data Science for All!' by Microsoft microsoft.github.io/Data-Science-For-Beginners GitHub: https:// github.com/microsoft/Data-Science-For-Beginners
+
+CMU的Advanced NLP课程不错，把NLP最近的进展和高级案例方法作了详细的解释，还有课程录像可以一看。课程主页
+https://phontron.com/class/anlp2022/
+
+【CMU《机器学习导论》课程(2020)】《Schedule | Introduction to Machine Learning》by Ziv Bar-Joseph, Eric Xing
+https://www.cs.cmu.edu/~epxing/Class/10701-20/schedule.html
+
+Andrej Karpathy的“深入浅出神经网络”系列实战课程
+https://karpathy.ai/zero-to-hero.html
+https://www.bilibili.com/video/BV1qd4y1P7fP/?vd_source=755883b550cb633125f234c146e2e7cb
+
+【CMU《深度学习》课程(Fall 2022)】《Carnegie Mellon University Deep Learning - 11785 Fall 2022 Lectures - YouTube》
+https://www.youtube.com/playlist?list=PLp-0K3kfddPxRmjgjm0P1WT6H-gTqE8j9

@@ -446,3 +446,11 @@ https://ffmpeg.guide/
 ### Frame Interpolation(帧插值)：用静态图片制作无缝平滑视频 runwayml.com
 
 【enhancr：图形界面的视频帧插值和超分辨率】’enhancr - Video Frame Interpolation & Super Resolution using NVIDIA's TensorRT & Tencent's NCNN inference, beautifully crafted and packaged into a single app' by mafiosnik GitHub: github.com/mafiosnik777/enhancr 
+
+【Live Captions：Lnux上的实时音频字幕桌面应用】’Live Captions - Linux Desktop application that provides live captioning' by abb128 GitHub: github.com/abb128/LiveCaptions
+
+【Latent blending：基于提示为视频增加平滑过渡，底层基于stable diffusion 2.1实现】’Latent blending - enables video transitions with incredible smoothness between prompts, computed within seconds’ Lunar Ring GitHub: github.com/lunarring/latentblending 
+
+'FFMPEGCV - an alternative to OPENCV for video read and write.' ChenXF GitHub: github.com/chenxinfeng4/ffmpegcv
+
+【video-compare：分屏视频对比工具】’video-compare - Split screen video comparison tool using FFmpeg and SDL2' Pixop GitHub: github.com/pixop/video-compare

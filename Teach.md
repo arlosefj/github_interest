@@ -361,3 +361,12 @@ Kaggle机器学习/数据科学/数据可视化/深度学习入门Notebook推荐
 [TensorFlow deep NN](https://www.kaggle.com/code/kakauandme/tensorflow-deep-nn/notebook)
 
 【十分钟入门MLOps】《MLOps in 10 Minutes》by Alexey Grigorev towardsdatascience.com/mlops-in-10-minutes-165c746a9b8e
+
+从零开始实践深度学习的好代码
+【《Grokking Deep Learning(深入深度学习)》随书代码(Jupyter Notebooks)】GitHub: github.com/iamtrask/Grokking-Deep-Learning 
+
+### 【机器学习核心概念的可视化解释】
+“MLU-Explain - Visual explanations of core machine learning concepts” mlu-explain.github.io/
+
+【Teacherbot：面向教师的AI工具，根据提示生成教学相关内容，包括课程大纲、内容摘要、课堂练习等】“Teacherbot - can create anything teachers need” 
+https://teacherbot.io/?invite=ED4LT7

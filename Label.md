@@ -365,3 +365,11 @@ https://github.com/heartexlabs/label-studio
 ### 【WEBVICOB: 网页版可视化数据标注工具】’WEBVICOB: WEB based VIsual COrpus Builder' by Clova AI Research GitHub: github.com/clovaai/webvicob
 
 ### 【Streamlit文档/小票标注组件】’Streamlit - Labeling Component - Streamlit component for invoice document labeling' by Katana ML GitHub: github.com/katanaml/streamlit-sparrow-labeling-comp
+
+【vLabeler：开源的语音标注程序】'vLabeler - Open source voice labeling application' sdercolin GitHub: github.com/sdercolin/vlabeler
+
+【Song Describer：开源音乐数据标注工具，用于收集和评估音乐录音的文本描述】'Song Describer - Song Describer is a data collection platform for annotating music with textual descriptions.' Ilaria Manco GitHub: github.com/ilaria-manco/song-describer
+
+'OmniLabelTools - A Python toolkit for the OmniLabel benchmark providing code for evaluation and visualization' samschulter GitHub: github.com/samschulter/omnilabeltools
+
+【Text Highlighter：可以标注文本的 Streamlit 组件】’Text Highlighter - A Streamlit component for annotating text by text selecting.' Kevin GitHub: github.com/kevin91nl/text-highlighter

@@ -243,3 +243,19 @@ GitHub: github.com/xiaolincoder/CS-Base
 'runcode - 在线代码编辑器，支持C、C++、Go、Nodejs、Rust、Java、Python、C Sharp、PHP，在线 js-challenge' by xjq 
 GitHub: github.com/xjq7/runcode
 https://r.xjq.icu/
+
+「Git飞行规则(Flight Rules)，这是一个非常实在的repo。它直接给出了各种日常和犯错时如何处理的实例。
+https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md
+
+每个程序员都应该知道的知识。闲着的时候可以查漏补缺用
+https://github.com/mtdvio/every-programmer-should-know
+
+'programmer_case - 程序员案例集锦' plantegg GitHub: github.com/plantegg/programmer_case
+
+'360 安全规则集合 - 详细的C/C++编程规范指南，由360质量工程部编著，适用于桌面、服务端及嵌入式软件系统。' Qihoo 360 GitHub: github.com/Qihoo360/safe-rules 
+
+【Linux 服务器远程(命令行)管理课程】’Linux Upskill Challenge - Introduction to Linux Server Administration! - Learn the skills required to sysadmin a remote Linux server from the commandline.' Livia Lima https://linuxupskillchallenge.org/?continueFlag=6817c7861421f8b7a171c6db348c259e GitHub: github.com/livialima/linuxupskillchallenge
+
+【面向可扩展统计计算和机器学习的函数式编程入门课程资料】’An introduction to functional programming for scalable statistical computing and machine learning' Darren Wilkinson GitHub: github.com/darrenjw/fp-ssc-course
+
+每天学点Linux上能用到的命令来源 https:///github.com/jaywcjlove/linux-command 

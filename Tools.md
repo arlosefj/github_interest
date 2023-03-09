@@ -1288,3 +1288,42 @@ Relingo这个浏览器插件可以根据词本（TOFEL等）高亮显示词本�
 
 这个一键配置脚本挺好用的，有类似需求的同学可以看看 https:///github.com/MvsCode/frps-onekey/ ​​​​
 建议试试nps，个人感觉比frp更好用一些
+
+'RdViewer Pro Lite - 一款支持自建服务器的免费远控神器' by jackli GitHub: github.com/wisny101/RdViewer
+
+【graphic-walker：非常规的tableau开源替代，用简单的拖拉拽操作就可以探索数据并制作可视化图表】'graphic-walker - An open source alternative to Tableau. Use it as a lite react component.' Kanaries GitHub: github.com/Kanaries/graphic-walker
+
+mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。
+https://github.com/macrozheng/mall
+
+【SaaS AI Tools：生成式AI工具集市，以及最新的AI动态】“SaaS AI Tools - Directory of Generative AI Tools - your source for new AI tools & daily AI news to help supercharge your creativity to the next level” 
+https://saasaitools.com/?continueFlag=d82787f43a046c064cacd4605b78dad5
+
+【carbonyl：在终端命令行运行的 Chromium】’carbonyl - Chromium running inside your terminal' Fathy Boundjadj GitHub: github.com/fathyb/carbonyl 
+
+LocalSend，一款开源的 AirDrop 替代品，可在附近设备间快速共享文件，跨终端，无需联网。
+用户通过本地 LAN 网络，即可快速完成文件与消息的传输。
+GitHub：github.com/localsend/localsend ​​​
+
+'cc compare - 一款可替换beycond compare, 免费使用的代码同步对比工具，来自中国' zuowei.yin GitHub: github.com/cxasm/cc-compare
+
+【StoryToolkitAI：与Davinci Resolve集成的一个编辑工具，通过AI语音转录实现对内容的语义搜索】'StoryToolkitAI - An editing tool that uses AI to transcribe and semantically search transcripts, integrated with Davinci Resolve.' Octavian Mot GitHub: github.com/octimot/StoryToolkitAI
+
+【py-obsidianmd：Obsidian笔记的Python接口】’py-obsidianmd - Python interface to your Obsidian notes' Selim Raboudi
+ GitHub: github.com/selimrbd/py-obsidianmd
+
+ Immich，一个开源的、高性能的自托管照片和视频备份方案。
+支持内容自动备份、快速上传与下载照片和视频、OAuth 认证、内容时间线索引、兼容 PC 与移动端，允许用户通过元数据、对象和标签搜索内容。
+GitHub：github.com/immich-app/immich 
+
+### 【textual-imageview：命令行图片查看库】’textual-imageview - A simple terminal-based image viewer.' Adam Viola GitHub: github.com/adamviola/textual-imageview
+
+'Obsidian Zotero Plugin - Obsidian.md integrates with Zotero, create literature notes and insert citations from a Zotero library.' aidenlx GitHub: github.com/aidenlx/obsidian-zotero
+
+【bilingual_book_maker：基于 OpenAI API 生成双语对照 epub 电子书】’bilingual_book_maker - Make bilingual epub books Using AI translate' yihong GitHub: github.com/yihong0618/bilingual_book_maker
+
+【FUXA：基于 Web 的过程可视化软件】’FUXA - Web-based Process Visualization (SCADA/HMI/Dashboard) software' frangoteam GitHub: github.com/frangoteam/FUXA 
+
+'AI 生词本 - 一个使用了 AI 技术的智能生词本制作工具' piglei GitHub: github.com/piglei/ai-vocabulary-builder
+
+'使用腾讯云函数一分钟搭建 OpenAI 免翻*代理' Ice-Hazymoon GitHub: github.com/Ice-Hazymoon/openai-scf-proxy

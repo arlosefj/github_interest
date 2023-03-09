@@ -299,3 +299,40 @@ https://www.cs.toronto.edu/~hinton/FFA13.pdf
 
 [CV]《What do Vision Transformers Learn? A Visual Exploration》A Ghiasi, H Kazemi, E Borgnia, S Reich, M Shu, M Goldblum, A G Wilson, T Goldstein [University of Maryland & New York University] (2022) 
 https://arxiv.org/abs/2212.06727
+
+【Pynimate：Python统计数据动画包】'Pynimate - Python package for statistical data animations' by Md Julkarnaeen GitHub: github.com/julkaar9/pynimate
+
+'MyArxiv - 基于Arxiv官方API与Github Actions相关服务，提供Arxiv的定制化服务，使用者可以通过配置相关文件，从Arxiv每日发布的最新研究成果中，实现个性化轻松地阅览属于自己的Arxiv网站’ by MLNLP GitHub: github.com/MLNLP-World/MyArxiv
+
+'文件快递柜-轻量 - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）' by vastsa GitHub: github.com/vastsa/FileCodeBox
+
+【textra：借助Apple的API将图像、 PDF 和音频文件转换为文本的命令行工具】'textra - A command-line application to convert images, PDFs, and audio files to text using Apple's APIs' by Dylan Freedman GitHub: github.com/freedmand/textra 
+
+【Auto Synced & Translated Dubs：自动生成视频字幕并进行翻译，用语音合成实现配音，再利用字幕时间实现音画同步】'Auto Synced & Translated Dubs - Automatically translates the text of a video based on a subtitle file, and also uses AI voice to dub the video, and synced using the subtitle's timings' by ThioJoe GitHub: github.com/ThioJoe/Auto-Synced-Translated-Dubs
+
+文字语义纠错技术探索与实践-张健
+https://blogread.cn/news/item.php?id=15478&f=wb_blogread
+
+【nanoGPT：用于训练/微调中型GPT的最简单、最快的代码库，minGPT的改进版】’nanoGPT - The simplest, fastest repository for training/finetuning medium-sized GPTs.' by Andrej Karpathy GitHub: github.com/karpathy/nanoGPT
+
+基于Manim实现的卷积网络可视化 [酷] src: github.com/helblazer811/ManimML/blob/main/examples/cnn/cnn.py via:Alec Helbling 
+
+[CV]《SuperGF: Unifying Local and Global Features for Visual Localization》W Song, R Yan, B Lei, T Okatani [Megvii & Tohoku University] (2022) 
+https://arxiv.org/abs/2212.13105
+
+[LG]《Semantic match: Debugging feature attribution methods in XAI for healthcare》G Cinà, T E. Röber, R Goedhart, Ş. İ Birbil [University of Amsterdam] (2023) 
+https://arxiv.org/abs/2301.02080
+
+[CV]《Learning Good Features to Transfer Across Tasks and Domains》P Z Ramirez, A Cardace, L D Luigi, A Tonioni, S Salti, L D Stefano [University of Bologna & Google] (2023) 
+https://arxiv.org/abs/2301.11310
+
+Gemini2深度相机，OpenCV+Python几行代码便可获取深度图像
+
+'使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具 - 详细介绍如何使用 ChatGPT 完成各种任务' Xiaoquan Kong GitHub: github.com/howl-anderson/unlocking-the-power-of-llms 
+
+### 【分布漂移相关论文资源列表】’awesome-distribution-shift - A curated list of papers and resources about the distribution shift in machine learning.' TianxinWei GitHub: github.com/weitianxin/awesome-distribution-shift
+
+### 【VITS Fast Fine-tuning：VITS 快速微调(声线转换)】’VITS Fast Fine-tuning - This repo is a pipeline of VITS finetuning for fast speaker adaptation TTS, and any-to-any voice conversion' Plachtaa GitHub: github.com/Plachtaa/VITS-fast-fine-tuning 
+
+【深度学习DIY教程】“Deep Learning Do It Yourself!”  https:// dataflowr.github.io/website/
+GitHub: github.com/dataflowr/notebooks

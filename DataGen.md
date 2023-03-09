@@ -717,3 +717,31 @@ https://www.riffusion.com/about
 Web app: github.com/hmartiro/ riffusion-app
 Inference server: github.com/hmartiro/ riffusion-inference
 Model checkpoint: huggingface.co/ riffusion/riffusion-model-v1
+
+Karlo：DALL-E 2开源复现版，生成质量挺高，
+GitHub: github.com/kakaobrain/karlo ​​​​
+
+【Hugging Face的扩散模型课程】’Hugging Face Diffusion Models Course - Materials for the Hugging Face Diffusion Models Course' by Hugging Face GitHub: github.com/huggingface/diffusion-models-class 
+
+【Description：Stable Diffusion 提示创作艺术家列表】’Description - Curated list of artists for Stable Diffusion prompts' Kai Schmidt GitHub: github.com/kaikalii/stable-diffusion-artists
+
+'stable-karlo - Upscaling Karlo text-to-image generation using Stable Diffusion v2.' kpthedev GitHub: github.com/kpthedev/stable-karlo
+
+【手把手指南：花不到$5微调Stable Diffusion模型(Dreambooth)生成花样风格自定义肖像】《Guide for finetuning Stablediffusion with your images | by Vishnu Subramanian | Jan, 2023 | Medium》
+http://aicoco.net/s/14
+
+【图解 Stable Diffusion】《The Illustrated Stable Diffusion – Jay Alammar – Visualizing machine learning one concept at a time.》 
+https://jalammar.github.io/illustrated-stable-diffusion/
+
+'Seth's AI Tools: A Unity based Stable Diffusion front-end for AUTOMATIC1111's WebUI focused on gamedev' Seth Robinson GitHub: github.com/SethRobinson/aitools_client
+
+'SDA: Node - Stable Diffusion Accelerated - 60 steps per second!’ chavinlo GitHub: github.com/chavinlo/sda-node
+
+【Paint by Text：基于生成式 AI 模型通过聊天来修改图片】'Paint by Text - A microsite for InstructPix2Pix, Modify images by chatting with a generative AI model’ Replicate https://paintbytext.chat/?continueFlag=6817c7861421f8b7a171c6db348c259e GitHub: github.com/replicate/paint-by-text
+
+[CV]《Zero-shot Image-to-Image Translation》G Parmar, K K Singh, R Zhang, Y Li, J Lu, J Zhu [CMU & Adobe Research] (2023)
+https://arxiv.org/abs/2302.03027
+
+【Awesome Diffusion：扩散(Diffusion)相关notebooks、工具、软件、教程等相关资源列表】’Awesome Diffusion - A curated list of awesome Diffusion notebooks, tools, software, tutorials and resources.' Mert Cobanov GitHub: github.com/cobanov/awesome-diffusion 
+
+【Breadboard：跨平台 Stable Diffusion 浏览器，用于浏览、搜索和管理机器上用 Stable Diffusion 生成的所有图片】’Breadboard - Stable Diffusion Browser for Windows, Mac, and Linux' cocktailpeanut GitHub: github.com/cocktailpeanut/breadboard

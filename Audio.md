@@ -797,3 +797,46 @@ https://arxiv.org/abs/2210.07508
 【libf0：用于音乐录制中基频估计的Python库】'libf0 - A Python Library for Fundamental Frequency Estimation in Music Recordings' by GroupMM GitHub: github.com/groupmm/libf0 
 
 【ASR Corpus Creator：用伪标注创建自动语音识别语料库】’ASR Corpus Creator - This app is intended to automatically create a corpus for ASR systems using pseudo-labeling.' by Yehor Smoliakov GitHub: github.com/egorsmkv/asr-corpus-creator
+
+【WhisperX：强制时间对齐的时间戳精确版Whisper语音识别】’WhisperX - WhisperX: Timestamp-Accurate Automatic Speech Recognition.' by m-bain GitHub: github.com/m-bain/whisperX
+
+【Speech-Editing-Toolkit：集成最新深度学习算法的语音编辑工具箱】’Speech-Editing-Toolkit - It's a repository for implementations of neural speech editing algorithms.' by Jiangzy GitHub: github.com/Zain-Jiang/Speech-Editing-Toolkit
+
+【教程：基于视觉Transformer(ViT)的音频分类(Colab)】《Audio classification with Vision Transformers》
+https://colab.research.google.com/drive/1mnArj9S7cij3Ua-dHXoasKWqyNA-GCrT?usp=sharing
+
+【whisperer：基于Whisper的文本-音频数据集构建工具】’whisperer - Go from raw audio files to a text-audio dataset automatically with OpenAI's Whisper.' by Miguel Valente GitHub: github.com/miguelvalente/whisperer 
+
+### 【KAN-TTS：支持中英文的语音合成训练框架】’KAN-TTS - a speech-synthesis training framework' by Alibaba Damo Academy GitHub: github.com/alibaba-damo-academy/KAN-TTS
+
+【Speechbox：语音处理工具包】’Speechbox offers a set of speech processing tools, such as punctuation restoration' by Hugging Face GitHub: github.com/huggingface/speechbox
+
+### 【Larynx：快速的本地部署神经文本语音合成工具，目前支持英语、德语、丹麦语、挪威语、尼泊尔语、越南语等】’Larynx - A fast, local neural text to speech system' Rhasspy GitHub: github.com/rhasspy/larynx2
+
+'Fish Diffusion - 基于 diff-svc 实现的 TTS / SVS / SVC 的训练框架，用于实现歌声音色转换’ Fish Audio GitHub: github.com/fishaudio/fish-diffusion
+
+### 【Whisper：用 C++ 重写的 OpenAI's Whisper 语音识别程序的高性能 GPGPU 接口，64-bit Win版，比Pytorch版快一倍多】’Whisper - High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model'
+Konstantin GitHub: github.com/Const-me/Whisper 
+
+'SoftVC VITS Singing Voice Conversion - 基于vits与softvc的歌声音色转换模型' innnky GitHub: github.com/innnky/so-vits-svc
+
+【音频AI模型进展追踪】’Audio AI Timeline - A timeline of the latest AI models for audio generation, starting in 2023!' archinet GitHub: github.com/archinetai/audio-ai-timeline
+
+【Real Time Whisper Transcription：基于 OpenAI Whisper 的实时语音转录(语音识别)】’Real Time Whisper Transcription - Real time transcription with OpenAI Whisper.' davabase GitHub: github.com/davabase/whisper_real_time
+
+【WaaS - Whisper as a Service：基于 Whisper 的语音转录服务】’WaaS - Whisper as a Service - Whisper as a Service (GUI and API for OpenAI Whisper)' Schibsted GitHub: github.com/schibsted/WAAS
+
+【基于 CTranslate2 的更快的 Whisper 语音转录】’Faster Whisper transcription with CTranslate2 - Faster Whisper transcription with CTranslate2' Guillaume Klein GitHub: github.com/guillaumekln/faster-whisper
+
+【基于 OpenAI Whisper 的说话人分割】’Speaker Diarization Using OpenAI Whisper - Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper' Mahmoud Ashraf GitHub: github.com/MahmoudAshraf97/whisper-diarization
+
+【Audio Slicer：根据静默片段分割音频的Python脚本】’Audio Slicer - Python script that slices audio with silence detection' 
+Team OpenVPI GitHub: github.com/openvpi/audio-slicer
+
+【transcribe-anything：基于 Whisper 的语音转录服务】’transcribe-anything - Input a local file or url and this service will transcribe it using Whisper AI' Zachary Vorhies GitHub: github.com/zackees/transcribe-anything
+
+【audioFlux：音频/音乐分析与特征提取库】'audioFlux - A library for audio and music analysis, feature extraction.' audioFlux GitHub: github.com/libAudioFlux/audioFlux
+
+【Whisper OpenVINO：OpenVINO版运行更快的 Whisper 语音转录】’Whisper OpenVINO - openvino version of openai/whisper' Zilin Zhu GitHub: github.com/zhuzilin/whisper-openvino
+
+【同声翻译(文本到文本/语音到文本翻译)相关资源大列表】’Awesome Simultaneous Translation - Paper list of simultaneous translation, including text-to-text machine translation and speech-to-text translation.' ZhangShaolei1998 GitHub: github.com/Vily1998/Awesome-Simultaneous-Translation 

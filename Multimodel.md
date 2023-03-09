@@ -1672,3 +1672,63 @@ https://arxiv.org/abs/2212.02623
 https://arxiv.org/abs/2212.05221
 
 【Data2vec 2.0: 视觉、语音和文本高效自监督学习】《Data2vec 2.0: Highly efficient self-supervised learning for vision, speech and text》 GitHub: github.com/facebookresearch/fairseq/tree/main/examples/data2vec
+
+[CV]《VindLU: A Recipe for Effective Video-and-Language Pretraining》F Cheng, X Wang, J Lei, D Crandall, M Bansal, G Bertasius [UNC Chapel Hill & Indiana University] (2022) 
+https://arxiv.org/abs/2212.05051
+
+[CV]《Generalized Decoding for Pixel, Image, and Language》X Zou, Z Dou, J Yang, Z Gan, L Li, C Li, X Dai, H Behl, J Wang, L Yuan, N Peng, L Wang, Y J Lee, J Gao [Microsoft & University of Wisconsin-Madison & UCLA] (2022)
+https://arxiv.org/abs/2212.11270
+
+【Multimodal Machine Learning for Music (MML4Music)：音乐多模态机器学习相关学术资源列表】’Multimodal Machine Learning for Music (MML4Music) - List of academic resources on Multimodal ML for Music' by Ilaria Manco GitHub: github.com/ilaria-manco/multimodal-ml-music
+
+[CV]《LayoutDETR: Detection Transformer Is a Good Multimodal Layout Designer》N Yu, C Chen, Z Chen, R Meng, G Wu, P Josel, J C Niebles, C Xiong, R Xu [Salesforce Research] (2022) 
+https://arxiv.org/abs/2212.09877
+
+【以计算机视觉和多模态为重点的参数高效迁移学习论文列表】’Awesome-Parameter-Efficient-Transfer-Learning - A collection of parameter-efficient transfer learning papers focusing on computer vision and multimodal domains.' by Jiang Haojun GitHub: github.com/jianghaojun/Awesome-Parameter-Efficient-Transfer-Learning
+
+[CV]《Filtering, Distillation, and Hard Negatives for Vision-Language Pre-Training》F Radenovic, A Dubey, A Kadian, T Mihaylov, S Vandenhende, Y Patel, Y Wen, V Ramanathan, D Mahajan [Meta AI] (2023)
+https://arxiv.org/abs/2301.02280
+
+[CV]《HierVL: Learning Hierarchical Video-Language Embeddings》K Ashutosh, R Girdhar, L Torresani, K Grauman [Meta AI & UT Austin] (2023)
+https://arxiv.org/abs/2301.02311
+
+[CV]《What You Say Is What You Show: Visual Narration Detection in Instructional Videos》K Ashutosh, R Girdhar, L Torresani, K Grauman [Meta AI & UT Austin] (2023) 
+https://arxiv.org/abs/2301.02307
+
+[CV]《All in Tokens: Unifying Output Space of Visual Tasks via Soft Token》J Ning, C Li, Z Zhang, Z Geng, Q Dai, K He, H Hu [Microsoft Research Asia & Huazhong University of Science and Technology & ...] (2023) 
+https://arxiv.org/abs/2301.02229
+
+迷你书(270+页)《多模态深度学习》
+https://arxiv.org/abs/2301.04856
+
+[CV]《Zorro: the masked multimodal transformer》A Recasens, J Lin, J Carreira, D Jaegle, L Wang, J Alayrac, P Luc, A Miech, L Smaira, R Hemsley, A Zisserman [DeepMind] (2023) 
+https://arxiv.org/abs/2301.09595
+
+【深入视觉-语言模型】《A Dive into Vision-Language Models》
+https://huggingface.co/blog/vision_language_pretraining
+
+【MMRec：多模态推荐工具箱】'MMRec - A Toolbox for MultiModal Recommendation. Integrating 10+ Models...' enoche GitHub: github.com/enoche/MMRec 
+
+[CV]《Re-ViLM: Retrieval-Augmented Visual Language Model for Zero and Few-Shot Image Captioning》Z Yang, W Ping, Z Liu, V Korthikanti, W Nie, D Huang, L Fan, Z Yu, S Lan, B Li, M Liu, Y Zhu, M Shoeybi, B Catanzaro, C Xiao, A Anandkumar [NVIDIA & UIUC] (2023)
+https://arxiv.org/abs/2302.04858
+
+'TaiSu（太素）- a large-scale Chinese multimodal dataset(亿级大规模中文视觉语言预训练数据集)’ TaiSu-data GitHub: github.com/ksOAn6g5/TaiSu
+
+【多模态预训练大模型相关文献资源列表】’MultiModal_BigModels_Survey - A continuously updated paper list for multi-modal pre-trained big models' Xiao Wang GitHub: github.com/wangxiao5791509/MultiModal_BigModels_Survey
+
+一种改进视觉语言模型的新方法，用于提升其理解物体计数的能力，在下游任务中产生更可靠的结果。引入一种新的计数基准，CountBench，并展示了对 CLIP 和 BASIC 模型的重大改进。[CV]《Teaching CLIP to Count to Ten》R Paiss, A Ephrat, O Tov, S Zada, I Mosseri, M Irani, T Dekel [Google Research] (2023) 
+https://arxiv.org/abs/2302.12066
+
+[LG]《Aligning Text-to-Image Models using Human Feedback》K Lee, H Liu, M Ryu, O Watkins, Y Du, C Boutilier, P Abbeel, M Ghavamzadeh, S S Gu [Google Research & UC Berkeley] (2023) 
+利用人工反馈对文本到图像模型进行微调，以改善图像-文本对齐，可作为研究从人工反馈中学习以改进文本到图像模型的起点。https://arxiv.org/abs/2302.12192
+
+【UForm：多模态推理库，用于将多种语言的文本、图像以及音频、视频和文档编码到一个共享的向量空间】'UForm - Multi-Modal Inference Library For Semantic Search Applications and Mid-Fusion Vision-Language Transformers' Unum GitHub: github.com/unum-cloud/uform
+
+[CL]《Language Is Not All You Need: Aligning Perception with Language Models》S Huang, L Dong, W Wang, Y Hao, S Singhal… [Microsoft] (2023)
+多模态大型语言模型 Kosmos-1 能感知一般模态，进行上下文学习，并遵循指令，在语言和多模态任务上取得了令人印象深刻的表现，无需进行微调，这表明将语言和感知相结合，是迈向通用人工智能的关键一步。 https://arxiv.org/abs/2302.14045
+
+[CV]《Vid2Seq: Large-Scale Pretraining of a Visual Language Model for Dense Video Captioning》A Yang, A Nagrani, P H Seo, A Miech, J Pont-Tuset, I Laptev, J Sivic, C Schmid [Google Research] (2023)
+https://arxiv.org/abs/2302.14115 Vid2Seq 是一种用于稠密视频描述的视觉语言模型，利用未标记叙述视频进行大规模预训练，在各种基准上取得了最先进的结果。
+
+[CV]《Prismer: A Vision-Language Model with An Ensemble of Experts》S Liu, L Fan, E Johns, Z Yu, C Xiao, A Anandkumar [Imperial College London & NVIDIA] (2023)
+Prismer 是一个数据高效且参数高效的视觉语言模型，利用领域专家组合来实现高效的多模态生成。 https://arxiv.org/abs/2303.02506

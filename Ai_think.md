@@ -295,16 +295,16 @@ https://arxiv.org/abs/2207.05739
 【一位博士生对机器学习工程的思考】《Thoughts on ML Engineering After a Year of my PhD》by Shreya Shankar
 https://www.shreya-shankar.com/phd-year-one/
 
-[CV]《Performance degradation of ImageNet trained models by simple image transformations》H Maheshwari [Georgia Institute of Technology] (2022)
+✅ [CV]《Performance degradation of ImageNet trained models by simple image transformations》H Maheshwari [Georgia Institute of Technology] (2022)
 https://arxiv.org/abs/2207.08079
 
 [CV]《Is an Object-Centric Video Representation Beneficial for Transfer?》C Zhang, A Gupta, A Zisserman [University of Oxford & DeepMind] (2022) 
 https://arxiv.org/abs/2207.10075
 
-[LG]《Datamodels: Predicting Predictions from Training Data》A Ilyas, S M Park, L Engstrom, G Leclerc, A Madry [MIT] (2022)
+✅ [LG]《Datamodels: Predicting Predictions from Training Data》A Ilyas, S M Park, L Engstrom, G Leclerc, A Madry [MIT] (2022)
 https://arxiv.org/abs/2202.00622
 
-[CV]《An Impartial Take to the CNN vs Transformer Robustness Contest》F Pinto, P H.S. Torr, P K. Dokania [University of Oxford] (2022)
+✅ [CV]《An Impartial Take to the CNN vs Transformer Robustness Contest》F Pinto, P H.S. Torr, P K. Dokania [University of Oxford] (2022)
 https://arxiv.org/abs/2207.11347
 
 介绍下我们最近的工作，我们的论文“Knowledge Inheritance for Pre-trained Language Models”被NAACL-HLT 2022录用。在本次工作中，我们重点探讨了一个加速预训练的问题，即如何利用已经训练的 PLM 帮助未来训练更大的 PLM。具体来说，我们提出了一个名为“知识继承”（KI）的预训练框架，并探讨了知识蒸馏如何在预训练期间作为辅助监督信号来提升更大的 PLM的训练效率。实验结果证明了KI的优越性。我们还进行了系统、全面的分析，以探索已有模型的模型架构、预训练数据等设置对 KI 的影响。最后，我们表明 KI 在跨领域适配和知识迁移等方向具有很好的应用价值。该工作与腾讯微信模式识别中心合作完成。欢迎感兴趣的朋友尝试。
@@ -332,14 +332,49 @@ https://blog.otoro.net/2022/10/01/collectiveintelligence/
 15、The AssemblyAI blog https://www.assemblyai.com/blog/an-introduction-to-poisson-flow-generative-models/
 16、5 Minutes of Data Science https://pedromadruga.com/newsletter/
 
-[CV]《Harmonizing the object recognition strategies of deep neural networks with humans》T Fel, I Felipe, D Linsley, T Serre [Brown University] (2022)
+✅ [CV]《Harmonizing the object recognition strategies of deep neural networks with humans》T Fel, I Felipe, D Linsley, T Serre [Brown University] (2022)
 https://arxiv.org/abs/2211.04533
 
-[LG]《Finding Differences Between Transformers and ConvNets Using Counterfactual Simulation Testing》N Ruiz, S A Bargal, C Xie, K Saenko, S Sclaroff [Boston University & Georgetown University & University of California, Santa Cruz] (2022)
+✅ [LG]《Finding Differences Between Transformers and ConvNets Using Counterfactual Simulation Testing》N Ruiz, S A Bargal, C Xie, K Saenko, S Sclaroff [Boston University & Georgetown University & University of California, Santa Cruz] (2022)
 https://arxiv.org/abs/2211.16499
 
-【Transformer权重矩阵奇异值分解(SVD)具有高度可解释性】《The Singular Value Decompositions of Transformer Weight Matrices are Highly Interpretable》by beren, Sid Black
-https://arxiv.org/abs/2211.17256
+✅ 【Transformer权重矩阵奇异值分解(SVD)具有高度可解释性】《The Singular Value Decompositions of Transformer Weight Matrices are Highly Interpretable》by beren, Sid Black
+https://www.lesswrong.com/posts/mkbGjzxD8d8XqKHzA/the-singular-value-decomposition-of-transformer-weight
 
 深度学习领域，你心目中 idea 最惊艳的论文是哪篇？ - 知乎
 https://www.zhihu.com/question/440729199
+
+【2022 AI领域最新进展追踪】’2022: A Year Full of Amazing AI papers- - A curated list of the latest breakthroughs in AI (in 2022) by release date with a clear video explanation, link to a more in-depth article, and code.' by Louis-François Bouchard GitHub: github.com/louisfb01/best_AI_papers_2022 
+
+Vision Transformers Are Good Mask Auto-Labelers
+https://arxiv.org/abs/2301.03992
+
+【用域外数据可以减少标注需求吗？】《Can You Label Less by Using Out-of-Domain Data? | by Rafal Kocielnik》
+https://medium.com/trustworthy-social-media/can-you-label-less-by-using-out-of-domain-data-6e6e152b49df
+
+【AI 应用速查大列表】《AI Archive - List》
+https://orelmizrahii.github.io/Web-AI-Archive/thelist.html
+
+【AI 工具超级大列表】“An Ultimate list of 500 AI tools” 
+https://spectacular-party-fc2.notion.site/An-Ultimate-list-of-500-AI-tools-8f737bef33af49fc97336dc9c819c695?continueFlag=6817c7861421f8b7a171c6db348c259e
+
+【1000+ AI工具大列表】’1000 AI collection tools - More than 1000 Artificial Intelligence AI-powered tools - categorized & updated' Yousef Ebrahimi GitHub: github.com/yousefebrahimi0/1000-AI-collection-tools
+
+AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等）
+地址：github.com/hua1995116/awesome-ai-painting ​​​
+
+【AI研究的四项基本技能：构思选题、实验设计与实现、论文撰写、扩大影响】《Practicing AI research — Jason Wei》
+https://www.jasonwei.net/blog/practicing-ai-research
+
+【ChatGPT 背景下的教与学】《Why All Our Classes Suddenly Became AI Classes | Harvard Business Publishing Education》 
+https://hbsp.harvard.edu/inspiring-minds/why-all-our-classes-suddenly-became-ai-classes
+
+Stuart Russell专访：关于ChatGPT，更多数据和更多算力不能带来真正的智能
+https://mp.weixin.qq.com/s/BB1CG_KD7M7pSST2j47tLw
+
+著名数学家陶哲轩用数学的函数概念对传统计算机软件系统和AI系统做了一个简单形象的类比。
+传统的计算机软件类似于数学中的标准函数𝑓:𝑋→𝑌。给一个定义域𝑋中的输入𝑥，会确定性地输出一个单一的输出值𝑓(𝑥)，每次的结果都一样。如果输入超出了定义域，则会返回未定义或无意义的结果。错误的结果很容易检测和判断。
+而AI工具更像是概率函数X-Pr(Y)，输入x，会从分布在某个结果f(x)周围的值中按概率分布随机抽取输出一个值。输出会有随机偏差和不确定性，每次的结果会不一样。这样的系统可以更好地处理有噪音的输入，但是不准确甚至错误的结果在许多情况下是很微妙的，需要仔细斟酌和检查才能发现。
+https://mathstodon.xyz/@tao/109971907648866712
+
+eepMind有个工作把Attention机制用神经图灵机(Neural Turing Machine)类比:把图灵机的纸带换成一个存储阵列,把读写头换成并行读写头,把状态机换成神经网络控制器.原始论文:[网页链接 ](https://arxiv.org/abs/1410.5401) 推荐Medium一篇非常精彩的解读文章:https://jonathan-hui.medium.com/ne

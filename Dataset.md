@@ -1017,3 +1017,22 @@ https://aihabitat.org/datasets/hm3d-semantics/
 
 'GenshinVoice - Voice dataset of Genshin Impact 原神语音数据集' by w4123 GitHub: github.com/w4123/GenshinVoice
 
+
+【cantonese-list：按使用频次排序，带耶鲁粤语拼音及英文定义的4000汉字列表】'cantonese-list - List of 4000 Chinese characters sorted by historical usage frequency, with Cantonese yale romanization and definition' by Hardmaru GitHub: github.com/hardmaru/cantonese-list
+
+【VideoCC：包含(视频 URL，标题)对的数据集，用于训练视频-文本机器学习模型】'VideoCC - a dataset containing (video-URL, caption) pairs for training video-text machine learning models' by Google Research Datasets GitHub: github.com/google-research-datasets/videoCC-data
+
+「ChineseBQB 是一个开放的表情包数据源，共收录 5000 多张表情包，图片和标注数据都是开放的 」
+https://github.com/zhaoolee/ChineseBQB
+
+'MovieJSON - 电影JSON数据' Rocket-Factory GitHub: github.com/Rocket-Factory/MovieJSON
+
+'MNBVC(Massive Never-ending BT Vast Chinese corpus)超大规模中文语料集 - 对标chatGPT训练的40T网页数据。MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星文的数据' esbatmop GitHub: github.com/esbatmop/MNBVC 
+
+【用于卫星和遥感图像深度学习的数据集列表】’satellite-image-deep-learning.com - Datasets for deep learning with satellite & aerial imagery' GitHub: github.com/satellite-image-deep-learning/datasets 
+
+【计算机视觉数据集数据优化相关文献资源列表】’DataOptimization-CV - A Survey of Data Optimization for Problems in Computer Vision Datasets' Vivian-wzj GitHub: github.com/Vivian-wzj/DataOptimization-CV 
+
+### 【Text Detection Dataset：文本场景检索任务的数据集，包含了19 230张拉丁、俄罗斯和一些中文文本的图片，其中大部分是文字级别的印刷】’Text Detection Dataset - High-quality, manually marked-up dataset for text detection tasks.' Donkey Small GitHub: github.com/DonkeySmall/TextDetectionDataset
+
+【Foot3D：脚部 3D 扫描数据集】’Foot3D - Dataset of scanned 3D feet' Ollie Boyne GitHub: github.com/OllieBoyne/Foot3D

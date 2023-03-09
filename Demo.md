@@ -721,3 +721,31 @@ https://arxiv.org/abs/2209.11224
 【labml.ai深度学习论文注释与复现集】’labml.ai Deep Learning Paper Implementations - 50! Implementations/tutorials of deep learning papers with side-by-side notes; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), reinforcement learning (ppo, dqn), capsnet, distillation, ...' GitHub: github.com/labmlai/annotated_deep_learning_paper_implementations
 
 ’Creative AI’ by Sony GitHub: github.com/sony/creativeai
+
+【深度学习不良内容审核(内容审核，敏感内容检测，场景类型分类，裸体检测，暴力检测，物质检测)相关资源列表】’deep-learning-content-moderation - Deep learning based content moderation from text, audio, video & image input modalities.' by fatih GitHub: github.com/fcakyon/content-moderation-deep-learning 
+
+【给时装设计师的AI工具VisualHound：1、选择想要设计的产品 2、添加自定义特色(颜色，材质...) 3、自动生成设计样例】“VisualHound - Prototype your fashion design ideas with AI” 
+https://visualhound.com/create-products
+
+【大规模车辆分类(与价格预测)】《Large-Scale Vehicle Classification – Pickled ML》 
+https://blog.aqnichol.com/2022/12/31/large-scale-vehicle-classification/
+GitHub: github.com/unixpickle/car-data
+
+【AI 服务&工具集市】“All Things AI - The Complete Resource Of Artificial Intelligence Tools & Services” 
+https://allthingsai.com/
+
+【DeepPrivacy2：真实图片匿名化工具箱，自动改变图片中人脸等身份和隐私相关信息】’DeepPrivacy2 - A Toolbox for Realistic Image Anonymization - DeepPrivacy2 - A Toolbox for Realistic Image Anonymization' Håkon Hukkelås GitHub: github.com/hukkelas/deep_privacy2
+
+【RestorePhotos.io：肖像照片自动修复】’RestorePhotos.io - Restoring old and blurry face photos with AI.' Hassan El Mghari GitHub: github.com/Nutlope/restorePhotos
+
+'Chinese_license_plate_detection_recognition - yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持13种中文车牌 支持双层车牌' we0091234 GitHub: github.com/we0091234/Chinese_license_plate_detection_recognition
+
+'yolov7 车牌检测 车牌识别 中文车牌识别 检测 支持双层车牌 支持13种中文车牌' we0091234 GitHub: github.com/we0091234/yolov7_plate
+
+【YOLNP - YOLO车牌检测项目】’YOLNP - You Only Look Number Plates - Yolnp is a project based in YOLO to detect plates' Guilherme D. Alves GitHub: github.com/Guiflayrom/yolnp 
+
+'YoloV8 Raspberry Pi 4 - YoloV8 for a bare Raspberry Pi 4' Q-engineering GitHub: github.com/Qengineering/YoloV8-ncnn-Raspberry-Pi-4 
+
+【Web AI：在浏览器里运行最新的深度网络】’Web AI - Run modern deep learning models in the browser.' Alexander Visheratin GitHub: github.com/visheratin/web-ai 
+
+'BallonTranslator - 深度学习辅助漫画翻译工具, 支持一键机翻和简单的图像/文本编辑 | Yet another computer-aided comic/manga translation tool powered by deeplearning' dmMaze GitHub: github.com/dmMaze/BallonsTranslator

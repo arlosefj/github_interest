@@ -178,3 +178,5 @@ github.com/wxlscm/raspberry_tutorial
 
 ### 'JetNet - Easy to use neural networks for NVIDIA Jetson (and desktop too!)' by NVIDIA-AI-IOT 
 GitHub: github.com/NVIDIA-AI-IOT/jetnet
+
+【用 OpenCV 和树莓Pi 4 搭建的简单人脸识别系统】’Simple Facial Recognition with OpenCV and Raspberry Pi 4 - A simple facial recognition system using OpenCV and Raspberry Pi 4' Charles Calapini GitHub: github.com/calapsss/face_detection_tutorial 

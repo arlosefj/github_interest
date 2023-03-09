@@ -483,3 +483,5 @@ github.com/tensorlayer/hyperpose
 
 [CV]《AlphaPose: Whole-Body Regional Multi-Person Pose Estimation and Tracking in Real-Time》H Fang, J Li, H Tang, C Xu, H Zhu, Y Xiu, Y Li, C Lu [Shanghai Jiao Tong University]
 https://arxiv.org/abs/2211.03375
+
+【openpose-editor：适用于Automatic1111/stable-diffusion-webui 的Openpose Editor 插件，可直接编辑骨骼动作、从图像识别姿态】’openpose-editor - Openpose Editor for AUTOMATIC1111's stable-diffusion-webui' Fkunn1326 GitHub: github.com/fkunn1326/openpose-editor 

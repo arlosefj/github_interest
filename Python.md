@@ -993,3 +993,22 @@ Github: github.com/cmudig/AutoProfiler
 【Codon：高性能Python编译器，可将Python代码编译成本机代码，无需任何运行时开销。单线程对Python的典型加速10-100倍或更多，其的性能通常与C/C + +相当(有时甚至更好)。Codon支持本机多线程，可能带来更高的加速倍数】’Codon - A high-performance, zero-overhead, extensible Python compiler using LLVM' by Exaloop GitHub: github.com/exaloop/codon
 
 ### 【Pynecone：轻松构建和部署Web应用的Python框架】’Pynecone - a full-stack Python framework that makes it easy to build and deploy web apps in minutes' GitHub: github.com/pynecone-io/pynecone 
+
+'Spider Admin Pro - 集爬虫Scrapy+Scrapyd爬虫项目查看 和 爬虫任务定时调度的可视化管理工具，SpiderAdmin的升级版' by mouday GitHub: github.com/mouday/spider-admin-pro
+
+【Python Training：摩根大通的Python数值分析与可视化课程】’Python Training - Python training for business analysts and traders' J.P. Morgan Chase & Co. GitHub: github.com/jpmorganchase/python-training
+
+一版比较全的Python速查
+https://quickref.me/python
+
+【Xorbits: 可扩展的 Python 数据科学框架，旨在扩展整个 Python 数据科学世界，包括 numpy、 Pandas、 Scikit-Learn 和许多其他库，可以利用多核或 GPU 来加速单台机器上的计算，或者扩展到数千台机器以支持处理 TB 级的数据】'Xorbits - Scalable Python data science, in an API compatible & lightning fast way.' xprobe-inc GitHub: github.com/xprobe-inc/xorbits
+
+### 【PyComplexHeatmap：用来绘制复杂热力图的Python库】’PyComplexHeatmap: A Python package to plot complex heatmap (clustermap)' Wubin Ding GitHub: github.com/DingWB/PyComplexHeatmap
+
+【thisnotthat：以 Jupyter widget 方式实现的视觉标记系统，用于“数据地图”的处理、探索和交互】’thisnotthat - A visual labeling system implemented in Jupyter widgets.' Tutte Institute for Mathematics and Computing GitHub: github.com/TutteInstitute/thisnotthat
+
+【Python 开发者超级路线图】’Senior Python Developer Roadmap - The Ultimate Python Developer Roadmap✨' Yehor Dremliuha GitHub: github.com/pro1code1hack/Senior-Dev-Roadmap
+
+【python-blueprint：基于最佳实践的Python项目样板】’python-blueprint - Example Python project using best practices' johnthagen GitHub: github.com/johnthagen/python-blueprint
+
+【Voici：将 Jupyter Notebook 转换成静态网页应用(建设中)】’Voici - turns any Jupyter Notebook into a static web application' Voilà Dashboards GitHub: github.com/voila-dashboards/voici

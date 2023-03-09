@@ -175,3 +175,9 @@ github.com/belosthomas/libCML
 【Object SLAM相关文献资源列表】’Awesome Object SLAM - A curated list of Object SLAM papers and resources' by Ziqi Lu GitHub: github.com/520xyxyzq/awesome-object-SLAM
 
 'SLAM-All-In-One - SLAM汇总，包括多传感器融合建图、定位、VIO系列、常用工具包、开源代码注释和公式推导、文章综述' by zhouyong1234 GitHub: github.com/zhouyong1234/SLAM-All-In-One
+
+'Event-based Vision for VO/VIO/SLAM in Robotics' by ArcLab GitHub: github.com/arclab-hku/Event_based_VO-VIO-SLAM 
+
+【视觉为中心无人驾驶基准】'Are We Ready for Vision-Centric Driving Streaming Perception? The ASAP Benchmark' by Jeff Wang GitHub: github.com/JeffWang987/ASAP 
+
+【Pi Zero Bikecomputer：基于树莓派Zero的自行车车载电脑，带GPS & ANT+，定位/速度计，离线地图+导航】’Pi Zero Bikecomputer - An open source bike computer based on Raspberry Pi Zero (W, WH, 2W) with GPS and ANT+. Including offline map and navigation.' hishizuka GitHub: github.com/hishizuka/pizero_bikecomputer

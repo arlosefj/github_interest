@@ -385,3 +385,8 @@ github.com/tvdboom/ATOM
 【voltaML-fast-stable-diffusion：一行代码加速Stable Diffusion(10x)的轻量库】'voltaML-fast-stable-diffusion - Lightweight library to accelerate Stable-Diffusion, Dreambooth into fastest inference models with single line of code 🔥 🔥' by VoltaML GitHub: github.com/VoltaML/voltaML-fast-stable-diffusion
 
 【Intel平台加速版Hugging Face transformers扩展工具包，利用Intel神经压缩器提供的一套丰富的模型压缩技术: 量化、剪枝、蒸馏等，显著提高了英特尔平台上的推理效率】’Intel® Extension for Transformers: Accelerating Transformer-based Models on Intel Platforms' by Intel GitHub: github.com/intel/intel-extension-for-transformers
+
+【大型 Transformer 模型推理优化】《Large Transformer Model Inference Optimization | Lil'Log》 
+https://lilianweng.github.io/posts/2023-01-10-inference-optimization/
+
+'mperf - 面向移动/嵌入式平台的算子性能调优工具箱' MegEngine GitHub: github.com/MegEngine/mperf

@@ -1411,3 +1411,26 @@ https://arxiv.org/abs/2209.11228
 【BoxInstSeg：旨在提供最先进的框监督实例分割算法的工具包】’BoxInstSeg - A toolbox for box-supervised instance segmentation.' by sunshine.lwt GitHub: github.com/LiWentomng/BoxInstSeg 
 
 【Anime Segmentation：动漫人物分割】’Anime Segmentation - high-accuracy segmentation for anime character' by SkyTNT GitHub: github.com/SkyTNT/anime-segmentation
+
+[CV]《Peekaboo: Text to Image Diffusion Models are Zero-Shot Segmentors》R Burgert, K Ranasinghe, X Li, M S. Ryoo [Stony Brook University] (2022) 
+https://arxiv.org/abs/2211.13224
+
+【CLIPSeg零样本图像分割】《Zero-shot image segmentation with CLIPSeg》
+https://huggingface.co/blog/clipseg-zero-shot
+
+[CV]《TarViS: A Unified Approach for Target-based Video Segmentation》A Athar, A Hermans, J Luiten, D Ramanan, B Leibe [RWTH Aachen University & CMU] (2023) 
+https://arxiv.org/abs/2301.02657
+
+'Semantic Sementation model within ML pipeline' by Chansung Park GitHub: github.com/deep-diver/semantic-segmentation-ml-pipeline
+
+[CV]《Box2Mask: Box-supervised Instance Segmentation via Level-set Evolution》W Li, W Liu, J Zhu, M Cui, R Yu, X Hua, L Zhang [Zhejiang University & Alibaba Group & The Hong Kong Polytechnic University] (2022)
+https://arxiv.org/abs/2212.01579
+
+[CV]《Deep Learning for Human Parsing: A Survey》X Zhang, X Zhu, M Tang, Z Lei [Chinese Academy of Sciences] (2023) 
+https://arxiv.org/abs/2301.12416
+
+### [CV]《Contour-based Interactive Segmentation》D Galeev, P Popenova, A Vorontsova, A Konushin [Samsung AI Center] (2023)
+https://arxiv.org/abs/2302.06353
+
+【半监督语义分割相关文献资源列表】’Awesome-Semi-Supervised-Semantic-Segmentation - A summary of recent semi-supervised semantic segmentation methods' BB CHAN GitHub: github.com/BBBBchan/Awesome-Semi-Supervised-Semantic-Segmentation
+

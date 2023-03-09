@@ -723,3 +723,7 @@ https://arxiv.org/abs/2207.11243v1
 【YOLO7人脸检测】’yolov7-face - yolov7 face detection with landmark' by Derron GitHub: github.com/derronqi/yolov7-face
 
 ### 【深度人脸复原(去噪、超分辨率、去模糊和伪影去除)相关文献资源列表】’Awesome-Face-Restoration - A comprehensive list of recources (papers, repositories etc.) about face restoration methods.' by Tao Wang GitHub: github.com/TaoWangzj/Awesome-Face-Restoration
+
+【CelebV-Text: 大规模人脸文本视频数据集】'CelebV-Text: A Large-Scale Facial Text-Video Dataset - CelebV-Text: A Large-Scale Facial Text-Video Dataset' by celebv-text GitHub: github.com/celebv-text/CelebV-Text
+
+【facetorch：人脸检测分析库】’facetorch - Python library for analysing faces using PyTorch' Tomas Gajarsky GitHub: github.com/tomas-gajarsky/facetorch

@@ -86,3 +86,8 @@ https://lemire.me/blog/2022/11/10/measuring-the-memory-usage-of-your-c-program/
 '30天自制C++服务器，包含教程和源代码' by Baroquer GitHub: github.com/yuesong-feng/30dayMakeCppServer
 
 【免费书：标准C++算法完整指南】’Book: A Complete Guide to Standard C++ Algorithms' by RNDr. Simon Toth GitHub: github.com/HappyCerberus/book-cpp-algorithms 
+
+GitHub 上的开源技术资源：《标准 C++ 算法指南完整版》，覆盖了该书所有相关的 LaTeX 与代码示例讲解，帮助大家更好的学习与总结。
+GitHub：github.com/HappyCerberus/book-cpp-algorithms ​​​​
+
+【allocscope：调试工具，用于追踪在 C、 C + + 或 Rust 代码库中出现最大内存分配的地方】'allocscope - a tool for tracking down where the most egregiously large allocations are occurring in a C, C++ or Rust codebase' Matt Kimball GitHub: github.com/matt-kimball/allocscope 

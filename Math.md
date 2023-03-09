@@ -110,3 +110,8 @@ GitHub 上的开源技术教程：《线性代数的艺术》，主要针对 MIT
 GitHub：github.com/kenjihiranabe/The-Art-of-Linear-Algebra ​​​​
 
 'Manim Slides - Tool for live presentations using manim' by Jérome Eertmans GitHub: github.com/jeertmans/manim-slides
+
+【Math Anim：简单的 C + +/OpenGL 应用，用于快速创建精确的数学动画】'Math Anim - A simple C++/OpenGL application to create quick and dirty mathematically accurate animations' by ambrosiogabe GitHub: github.com/ambrosiogabe/MathAnimation
+
+【在线免费书(有源码)：交互式线性代数】《Interactive Linear Algebra》by Dan Margalit, Joseph Rabinoff [Georgia Institute of Technology] (2019) GitHub: github.com/QBobWatson/gt-linalg ​​​​
+http://textbooks.math.gatech.edu/ila/

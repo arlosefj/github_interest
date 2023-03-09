@@ -187,3 +187,6 @@ ADRepository: 现实世界异常检测数据集】'ADRepository: Real-world anom
 
 【DGLD：基于DGL的深度图异常检测库】'A Deep Graph Anomaly Detection Library based on DGL - Deep Graph Outlier Detection' by EagleLab-ZJU GitHub: github.com/EagleLab-ZJU/DGLD
 
+【工业异常检测相关工作大列表】’Awesome Industrial Anomaly Detection - Awesome-Industrial-Anomaly-Detection' M3LAB GitHub: github.com/M-3LAB/awesome-industrial-anomaly-detection
+
+【弱监督异常检测相关文献资源列表】’Weakly-supervised Anomaly Detection: A Survey - A Collection of Resources for Weakly-supervised Anomaly Detection (WSAD)' Yue Zhao GitHub: github.com/yzhao062/WSAD

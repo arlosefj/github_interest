@@ -88,3 +88,5 @@ Hotham：用来创建难以置信独立虚拟现实(VR)体验的框架
 github.com/leetvr/hotham
 
 'Omniverse Isaac Gym Reinforcement Learning Environments for Isaac Sim' by NVIDIA Omniverse GitHub: github.com/NVIDIA-Omniverse/OmniIsaacGymEnvs
+
+【AR/VR 指南】’AR/VR Guide - A guide covering Augmented Reality (AR), Virtual Reality (VR), Mixed Reality(MR), and Extended Reality(XR). Including headsets such as HoloLens, PlayStation VR, Apple Reality Pro, and Oculus Quest (2 and Pro).' Michael Royal GitHub: github.com/mikeroyal/AR-VR-Guide

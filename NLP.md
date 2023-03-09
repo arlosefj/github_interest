@@ -796,3 +796,79 @@ https://gpt.chatapi.art/
 
 【Open-Chat-GPT：LAION-AI
 的开放众包ChatGPT计划】’Open-Chat-GPT' by LAION AI GitHub: github.com/LAION-AI/Open-Chat-GPT
+
+【语言模型推理相关文献资源列表】’LM-Reasoning-Papers - Repository for sharing papers in the field of Reasoning with Language Models, since "Chain of Thought Prompting Elicits Reasoning in Large Language Models"' by Armando Fortes GitHub: github.com/atfortes/LM-Reasoning-Papers
+
+【bricks：模块化自然语言处理工具，包括分类器、提取器和生成器三大类众多基础模块】’bricks - Open-source natural language enrichments at your fingertips.' by Kern AI GitHub: github.com/code-kern-ai/bricks 
+
+【Potato: 方便易用的文本标注工具】’Potato: the POrtable Text Annotation TOol' by David Jurgens GitHub: github.com/davidjurgens/potato 
+
+深入浅出ChatGPT工作原理
+https://www.assemblyai.com/blog/how-chatgpt-actually-works/
+
+chatGPT们只是帮学生(老师)偷懒的工具吗？能否用chatGPT们提升课堂教学体验？最近看到两篇很有启发的文章，推荐给老师们：
+《New Modes of Learning Enabled by AI Chatbots: Three Methods and Assignments》 
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4300783&continueFlag=1007d600bf5b3984441151a13893b7dd
+《Update Your Course Syllabus for chatGPT》
+https://medium.com/@rwatkins_7167/updating-your-course-syllabus-for-chatgpt-965f4b57b003
+
+'MLNLP社区翻译的NLP入门课程(Lena Voita 博士的 NLP Course | For You)’ 
+https://mlnlp-world.github.io/NLP-Course-Chinese/index.html
+github.com/MLNLP-World/NLP-Course-Chinese
+
+【中文科幻小说语料库】’chinese NLP corpus of chinese science fiction,chinese science fiction corpus : About 4675 Chinese science fiction novels 大约有4675本科幻小说，中文科幻小说自然语言处理语料库，中文科幻小说文本语料库，中文科幻小说文本数据库，科幻小说语料' Guhhhhaa GitHub: github.com/guhhhhaa/4675-scifi
+
+【ChatRWKV：基于 RWKV (100% RNN) 语言模型的类似 ChatGPT 的对话机器人，支持中文】’ChatRWKV - ChatRWKV is like ChatGPT but powered by the RWKV (100% RNN) language model, and open source.' PENG Bo GitHub: github.com/BlinkDL/ChatRWKV
+
+一个中文语言分析工具包。支持中文分词 词性标注 命名实体识别 依存句法分析 语义依存分析 新词发现 关键词短语提取 自动摘要 文本分类聚类等
+https://github.com/hankcs/HanLP
+
+【GPTZero的开源实现】’GPTZero - An open-source implementation of GPTZero' Burhan Ul Tayyab GitHub: github.com/BurhanUlTayyab/GPTZero
+
+单核CPU实现每秒百万字中文分词！[哇]词频词库+隐马尔科夫模型打造，轻量级高性能中文分词项目，开源地址：github.com/fastcws/fastcws
+
+【GPT-3应用案例集市】《500+ ChatGPT and GPT-3 Examples, Demos, Apps, Showcase, and AI Use-cases | Discover AI use cases》
+https://gpt3demo.com/
+
+【TextReducer - 摘要和信息抽取工具】'TextReducer - A Tool for Summarization and Information Extraction' Henry Leonardi GitHub: github.com/helliun/targetedSummarization 
+
+ChatGPT可视化笔记
+https://www.linkedin.com/feed/update/urn:li:activity:7023226422127144960/
+https://media.licdn.com/dms/image/C4D22AQFgVliRJ4RsBQ/feedshare-shrink_2048_1536/0/1674467662862?e=1680739200&v=beta&t=Y2Ez8U4NpvWwmkBa_w46mpxDxgoHSnbu5ggUgJk-W70
+
+'GTS引擎 - GTS Engine: A powerful NLU Training System。GTS引擎（GTS-Engine）是一款开箱即用且性能强大的自然语言理解引擎，聚焦于小样本任务，能够仅用小样本就能自动化生产NLP模型。' IDEA-CCNL GitHub: github.com/IDEA-CCNL/GTS-Engine
+
+【用 NumPy 60行代码实现GPT】《GPT in 60 Lines of NumPy | Jay Mody》
+https://jaykmody.com/blog/gpt-from-scratch
+
+【为什么 GPT-3 的所有公开复现都失败了? 应该在哪些任务中使用 GPT-3.5/ChatGPT？】《Why did all of the public reproduction of GPT-3 fail? In which tasks should we use GPT-3.5/ChatGPT?》
+https://jingfengyang.github.io/gpt
+
+斯坦福大学对ChatGPT的介绍PPT，82页满满的干货
+https://web.stanford.edu/class/cs224n/slides/cs224n-2023-lecture11-prompting-rlhf.pdf
+
+【FlexGen：在单个 GPU 上运行像 OPT-175B/GPT-3 这样的大型语言模型，比其他基于 offloading 的系统快100倍】’FlexGen - Running large language models like OPT-175B/GPT-3 on a single GPU. Up to 100x faster than other offloading systems.' Foundation Model Inference GitHub: github.com/FMInference/FlexGen
+
+【nanoChatGPT：支持 RLHF 的 nanoGPT】’nanoChatGPT - A crude RLHF layer on top of nanoGPT with Gumbel-Softmax trick' sanjeevanahilan GitHub: github.com/sanjeevanahilan/nanoChatGPT
+
+![对标 ChatGPT 的模型及参数规模：](https://wx3.sinaimg.cn/orj360/5396ee05ly1hbgl6igi51j213a1jk4qp.jpg)
+- ChatGPT (GPT 3.5): 175B Parameters
+- Bard (Google LaMDA): 137B Parameters
+- Baidu Ernie: 260B Parameters
+- LG Exaone: 300B Parameters
+- Nvidia Megatron: 530B Parameters
+- Google PaLM: 540B Parameters
+via:Rowan Cheung ​​​
+
+【ChatLLaMA：集成 RLHF 的 LLaMA 开源实现，声称训练比 ChatGPT 快15倍】’ChatLLaMA - Open source implementation for LLaMA-based ChatGPT training process. Faster and cheaper training than ChatGPT (wip)' by Nebuly GitHub: github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama
+
+【WizMap：在浏览器里通过交互可视化探索和解释大规模嵌入(向量化)】’[WizMap](https://wx4.sinaimg.cn/mw690/5396ee05ly1hbmkueg8mhj2263180kjl.jpg) - Explore and interpret large embeddings in your browser with interactive visualization!' Polo Club of Data Science GitHub: github.com/poloclub/wizmap
+
+'BiliGPT 哔哩哔哩 · 视频内容一键总结' JimmyLv GitHub: github.com/JimmyLv/BiliGPT 
+
+'ChatGPT-WEB - chatGPT私有化部署' MicLon GitHub: github.com/mic1on/chatGPT-web
+
+ChatGPT：潜力、前景和局限｜复旦清华周杰、黄民烈、张军平等
+https://mp.weixin.qq.com/s/hOreVmWhVrRSIKve8imV1A
+
+【ChatLLaMA：基于 LLaMA 的开源 ChatGPT，训练 比 ChatGPT 快15倍】’ChatLLaMA - Open source implementation for LLaMA-based ChatGPT runnable in a single GPU. 15x faster training process than ChatGPT' Juncong Moo GitHub: github.com/juncongmoo/chatllama

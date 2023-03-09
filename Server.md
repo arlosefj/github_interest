@@ -482,3 +482,14 @@ https://github.com/monitoror/monitoror
 'Podman Desktop - A graphical tool for developing on containers and Kubernetes' by Containers GitHub: github.com/containers/podman-desktop
 
 【Kubernetes学习路线图】’kubernetes-learning-path - A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)' by TechiesCamp GitHub: github.com/techiescamp/kubernetes-learning-path 
+
+【cdebug：容器调试万能工具包】’cdebug - a swiss army knife of container debugging' by Ivan Velichko GitHub: github.com/iximiuz/cdebug
+
+一个 dockerfile 合集，有各种常用的软件
+https://github.com/jessfraz/dockerfiles
+
+【DevOps学习路线图】’DevOps Roadmap' by Ann Felix GitHub: github.com/annfelix/DEVOPS-WORLD
+
+【highlight.io: 开源全栈监控平台】'highlight.io: The open-source, fullstack monitoring platform. - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.' GitHub: github.com/highlight/highlight
+
+【Service Weaver：编写和部署云应用的编程框架】’Service Weaver - Programming framework for writing and deploying cloud applications.' GitHub: github.com/ServiceWeaver/weaver

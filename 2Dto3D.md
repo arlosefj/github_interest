@@ -561,3 +561,9 @@ https://arxiv.org/abs/2209.11163
 
 [CV]《SSDNeRF: Semantic Soft Decomposition of Neural Radiance Fields》S Ranade, C Lassner, K Li, C Haene, S Chen, J Bazin, S Bouaziz [Meta & University of Utah] (2022)
 https://arxiv.org/abs/2212.03406
+
+【MVTorch：用于多视图3D 理解和生成的Pytorch库】'MVTorch - a Pytorch library for multi-view 3D understanding and generation' by Abdullah Hamdi GitHub: github.com/ajhamdi/mvtorch
+
+'ONNX-FastACVNet-Stereo-Depth-Estimation - Python scripts performing stereo depth estimation using the Fast-ACVNet model in ONNX.' Ibai Gorordo GitHub: github.com/ibaiGorordo/ONNX-FastACVNet-Depth-Estimation
+
+【PaddleDepth：飞桨深度信息增强开发套件】'PaddleDepth - a lightweight, easy-to-extend, easy-to-learn, high-performance, and for-fair-comparison toolkit based on PaddlePaddle for depth information argumentation’ by PaddlePaddle GitHub: github.com/PaddlePaddle/PaddleDepth

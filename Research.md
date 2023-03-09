@@ -324,3 +324,33 @@ https://zhuanlan.zhihu.com/p/347223193
 
 你的科研能力从什么时候开始突飞猛进的？ - 知乎
 https://www.zhihu.com/question/524855881
+
+如何选择好的科学问题(科研主题)
+https://www.sciencedirect.com/science/article/pii/S1097276509006418
+
+给软件开发者的终极写作指南
+https://theankurtyagi.hashnode.dev/a-software-developers-guide-to-writing
+
+### 【Obsidian Zotero Integration：从Zotero插入和导入引用、参考文献、注释和PDF注释到Obsidian】'Obsidian Zotero Integration - Insert and import citations, bibliographies, notes, and PDF annotations from Zotero into Obsidian.' by Matthew Meyers GitHub: github.com/mgmeyers/obsidian-zotero-integration
+
+【ResearchGPT：基于 openai API 的论文内容问答系统】’ResearchGPT - An open-source LLM based research assistant that allows you to have a conversation with a research paper' mukul GitHub: github.com/mukulpatnaik/researchgpt
+
+【editGPT：浏览器扩展，基于 ChatGPT 的文本润色，类似 Grammarly】“editGPT - Easily proofread, edit, and track changes to your content in ChatGPT”
+https://chrome.google.com/webstore/detail/editgpt/mognjodfeldknhobgbnkoomipkmlnnhk
+
+【Ask my PDF：基于 GPT3 的PDF文档问答系统】’Ask my PDF - Question answering system for PDF files' Maciej Obarski GitHub: github.com/mobarski/ask-my-pdf
+
+### 'chatgpt_please_improve_my_paper_writing - a thin wrapper of chatgpt for improving paper writing.' kiui GitHub: github.com/ashawkey/chatgpt_please_improve_my_paper_writing
+
+【论文展示网页模板】’A project page template for academic papers' eliahuhorwitz GitHub: github.com/eliahuhorwitz/Academic-project-page-template
+
+【Paperpal：辅助更好更快写作的网站，使用最先进的机器学习，在学术写作时给出实时语言和语法建议，为学术写作量身定做，可以检测复杂的语法错误并提出改进建议，支持1,300多个学科领域】“AI Grammar Checker & Online Academic Writing Tool for Researchers | Paperpal”
+https://paperpal.com/?continueFlag=6817c7861421f8b7a171c6db348c259e
+
+【LaTeX/Markdown数学公式分享平台】“MathB.in - Share Mathematics with LaTeX and Markdown” 
+https://mathb.in/1?continueFlag=6817c7861421f8b7a171c6db348c259e
+
+【学术论文写作大纲】《Scholarly Writing Outline for Thesis or Dissertation》 by Michagi Marck
+https://www.researchgate.net/publication/321302350_Scholarly_Writing_Outline_for_Thesis_or_Dissertation
+
+'OpenAI Polisher Bob Plugin - 使用 ChatGPT API 给文本进行润色和语法纠错的 Bob 插件，完美代替 Grammarly' yetone GitHub: github.com/yetone/bob-plugin-openai-polisher

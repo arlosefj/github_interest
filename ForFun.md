@@ -488,7 +488,7 @@ GitHub：github.com/saurabhdaware/text-to-handwriting
 Demo：saurabhdaware.github.io/text-to-handwriting
 
 SberSwap：图像/视频换脸
-ithub.com/sberbank-ai/sber-swap
+github.com/sberbank-ai/sber-swap
 
 Lite.AI.ToolKit：开箱即用的C++ AI工具箱，包括70+流行的开源模型，如最新的RVM, YOLOX, YOLOP, YOLOR, YoloV5, DeepLabV3, ArcFace等模型，支持ONNXRuntime/NCNN/MNN/TNN
 ithub.com/DefTruth/lite.ai.toolkit
@@ -505,3 +505,26 @@ github.com/victorqribeiro/bangBang
 
 【AI工具集市】《Futurepedia - The Largest AI Tools Directory | Home》
 https://www.futurepedia.io/
+
+【StoryTeller：多模态AI叙事生成器——给出一个提示作为故事开头，用GPT写出剩下的情节，用Stable Diffusion为每个句子画出一幅图像，用TTS模型念出每一句，最后生成一个能听能看的短篇故事动画视频】’StoryTeller - Multimodal AI Story Teller, built with Stable Diffusion, GPT, and neural text-to-speech' by Jake Tae GitHub: github.com/jaketae/storyteller
+
+【Gauss：Mac上的原生Stable Diffusion图像生成App(SwiftUI+ ml-stable-diffusion CoreML models)】’Gauss - Stable Diffusion macOS native app' by Jake Teton-Landis GitHub: github.com/justjake/Gauss
+
+'FAY - 一个完整的数字人项目，包含Python内核及UE数字人模型，可以用于做数字助理及抖音自动直播' TheRamU GitHub: github.com/TheRamU/Fay
+
+【DeepStrike：基于视觉的AI拳击分析】“Jabbr.ai | DeepStrike - Throwing the First Punch for the Future of Boxing”
+https://jabbr.ai/
+
+### 【Scribble Diffusion：用 涂鸦 + 文本提示 生成图片】’Scribble Diffusion - Turn your rough sketch into a refined image using AI' Replicate GitHub: github.com/replicate/scribble-diffusion
+
+【ChatWaifu_Mobile：Android 手机版的 ChatGPT 二次元聊天器(年轻人的第一个移动版老婆聊天器) [笑而不语]】’ChatWaifu_Mobile' by Voine GitHub: github.com/Voine/ChatWaifu_Mobile 
+
+【iOS app - 用 Stable Diffusion 生成图像并显示在 AR 里】’iOS app - AR Diffusion Museum - an iOS app that generate images using Stable Diffusion and displays them in AR.' Yasuhito Nagatomo GitHub: github.com/ynagatomo/ARDiffMuseum
+
+### 【BilibiliSummary：基于 OpenAI API 的 Bilibili B站视频摘要生成插件，支持中文】’BilibiliSummary - A chrome extension helps you summary video on bilibili.' lxfater GitHub: github.com/lxfater/BilibiliSummary
+
+【roomGPT.io：上传室内照片，生成梦幻家居】’roomGPT.io - Upload a photo of your room to generate your dream room with AI.' Hassan El Mghari 网页链接 GitHub: github.com/Nutlope/roomGPT https://www.roomgpt.io/
+
+'Posex - Posex - Estimated Image Generator for Pose2Image' hnmr293 GitHub: github.com/hnmr293/posex ![](https://wx2.sinaimg.cn/mw690/5396ee05ly1hbrfj67xkfj20ju0nqtd4.jpg)
+
+Deep Agency：AI 影楼 & 虚拟模特经纪公司，可以“雇佣”不存在的模特，用指定的姿势摆拍，完全由AI生成

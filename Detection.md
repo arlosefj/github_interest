@@ -1136,3 +1136,13 @@ https://arxiv.org/abs/2209.13351
 https://arxiv.org/abs/2211.09788
 
 【Roboflow 100: 富多域目标检测基准】'Roboflow 100: A Rich, Multi-Domain Object Detection Benchmark ' by Roboflow GitHub: github.com/roboflow-ai/roboflow-100-benchmark
+
+【开集目标检测相关文献资源列表】’Awesome-Open-Vocabulary-Object-Detection' by YimingCui GitHub: github.com/YimingCuiCuiCui/awesome-open-vocabulary-object-detection
+
+'Yolov8_Efficient - Simple and efficient use for Ultralytics yolov8' Xu Lin GitHub: github.com/isLinXu/YOLOv8_Efficient
+
+【Ultralytics YOLOv8 ：在以前 YOLO 版本的成功基础上，引入了新的功能和改进，进一步提升了性能和灵活性】'Ultralytics YOLOv8 - a cutting-edge, state-of-the-art (SOTA) model that builds upon the success of previous YOLO versions and introduces new features and improvements to further boost performance and flexibility' Ultralytics GitHub: github.com/ultralytics/ultralytics
+
+【AdelaiDet：面向多实例级检测和识别任务的开源工具箱】'AdelaiDet - an open source toolbox for multiple instance-level detection and recognition tasks.' Advanced Intelligent Machines (AIM) GitHub: github.com/aim-uofa/AdelaiDet
+
+【深度学习CV领域模型加速部署案例，仓库实现的cuda c支持多batch图像预处理、推理、decode、NMS】’TensorRT-Alpha - supports YOLOv8, YOLOv7, YOLOv6, YOLOv5, YOLOv4, YOLOv3, YOLOX, YOLOR and so on. It implements CUDA C++ accelerated deployment models. CUDA IS ALL YOU NEED. Best Wish!' FeiYull GitHub: github.com/FeiYull/tensorrt-alpha
