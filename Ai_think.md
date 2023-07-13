@@ -378,3 +378,29 @@ https://mp.weixin.qq.com/s/BB1CG_KD7M7pSST2j47tLw
 https://mathstodon.xyz/@tao/109971907648866712
 
 eepMind有个工作把Attention机制用神经图灵机(Neural Turing Machine)类比:把图灵机的纸带换成一个存储阵列,把读写头换成并行读写头,把状态机换成神经网络控制器.原始论文:[网页链接 ](https://arxiv.org/abs/1410.5401) 推荐Medium一篇非常精彩的解读文章:https://jonathan-hui.medium.com/ne
+
+[CV]《Breaking Common Sense: WHOOPS! A Vision-and-Language Benchmark of Synthetic and Compositional Images》N Bitton-Guetta, Y Bitton, J Hessel, L Schmidt, Y Elovici, G Stanovsky, R Schwartz [The Hebrew University of Jerusalem & Ben Gurion University of the Negev & Allen Institute for Artificial Intelligence & University of Washington] (2023) 
+AI模型在识别和解释反常识的非常规图像方面很吃力，正如 WHOOPS！基准所证明的那样。 https://arxiv.org/abs/2303.07274
+
+[LG]《A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT》Y Cao, S Li, Y Liu, Z Yan, Y Dai, P S. Yu, L Sun [Lehigh University] (2023)
+人工智能内容生成(AIGC)的全面综述: 从GAN到ChatGPT的生成式人工智能简史。https://arxiv.org/abs/2303.04226
+
+从 ChatGPT 看 AI 未来的 7 种场景可能性
+https://mp.weixin.qq.com/s/Kf-WWJXGUW2FAWjI8o--bw
+
+比较使用FP8和INT8两种格式在设备端进行深度学习推理的效率和准确性，结果表明INT8是更好的选择。
+https://arxiv.org/abs/2303.17951
+[LG]《FP8 versus INT8 for efficient deep learning inference》M v Baalen, A Kuzmin, S S Nair, Y Ren, E Mahurin, C Patel, S Subramanian, S Lee, M Nagel, J Soriaga, T Blankevoort [Qualcomm AI Research] (2023)
+
+陆奇最新演讲实录：我的大模型世界观
+https://mp.weixin.qq.com/s/_ZvyxRpgIA4L4pqfcQtPTQ
+
+推友starzq（twitter.com/starzqeth）分享了他从可汗学院创始人TED演讲中学到的4个ChatGPT技巧：
+1️⃣ 阅读理解：直接和角色对话，再也不用瞎猜
+2️⃣ 1对1辅导：授之以渔
+3️⃣ AI辩手：锻炼思辨能力
+4️⃣ AI导师：分享学科意义
+🔗twitter.com/starzqeth/status/1654278492538937351
+
+吴恩达对话李飞飞：人工智能的过去和现在
+https://weibo.com/ttarticle/p/show?id=2309404903850258858230

@@ -96,3 +96,5 @@ https://www.arxiv-vanity.com/papers/2103.10957
 
 《U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection》(PR 2020) 
 github.com/dennisbappert/u-2-net-portrai
+
+【基于yoloV8的显著目标提取】’Salient Extract - Salient feature extractor based on yoloV8' Andrew Jouffray GitHub: github.com/andrewjouffray/salient-extract

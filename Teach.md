@@ -370,3 +370,51 @@ Kaggle机器学习/数据科学/数据可视化/深度学习入门Notebook推荐
 
 【Teacherbot：面向教师的AI工具，根据提示生成教学相关内容，包括课程大纲、内容摘要、课堂练习等】“Teacherbot - can create anything teachers need” 
 https://teacherbot.io/?invite=ED4LT7
+
+【神经网络的数学】《The Mathematics of Neural Networks - Speaker Deck》
+https://speakerdeck.com/gpeyre/the-mathematics-of-neural-networks/
+
+【Visual Blocks：Google的可视化编程框架，可以在无需编程的图形编辑器中创建机器学习(ML)流水线。可以通过连接拖放的ML组件(包括模型、用户输入、处理器和可视化)快速原型化工作流程。Visual Blocks提供了节点图编辑器、预置的ML模型和组件库以及输出展示和比较功能，旨在降低ML多媒体应用的开发门槛、加速工作流，并方便用户分享和发布应用】'Visual Blocks - Visual Blocks for ML is a Google visual programming framework that lets you create ML pipelines in a no-code graph editor. You – and your users – can quickly prototype workflows by connecting drag-and-drop ML components, including models, user inputs, processors, and visualizations.' GitHub: github.com/google/visualblocks
+
+【attention：可视化LLM注意力权重】'attention - visualizing attention for LLM users' Matt Neary GitHub: github.com/mattneary/attention
+
+今天做了一个关于如何做架构设计的分享，其中有个很重要的问题就是如何更好的做技术决策，我针对我们前端团队整理了5条做技术决策的原则。
+原则 0: 遵守公认的好的设计原则，比如说：
+- DRY - Don't repeat yourself （不要重复自己）
+- KISS - Keep it Simple, Silly （让设计尽可能的简单）
+- YAGNI - You aren't gonna need it （只做刚刚好的设计，不要过度设计）
+- … 其他
+原则1: 找出最本源的需求，而不应该局限于当前的技术实现和资源
+很多时候我们很容易被表面需求所误导，类似于乔布斯的名言：“如果亨利福特在发明汽车之前去做市场调查，他得到的答案一定是大家想要一辆更快的马车。”，如果我们在做设计和技术决策的时候，没有找出用户的真实需求，很容易就会在错误的方向上狂奔，做很多无用功！
+要找出本源的需求，还是需要多问为什么，多和干系人沟通，少考虑技术细节，少被现有的技术所误导或局限。
+- 案例：设计部门希望设计系统支持Angular （更多案例参考图一）(https://wx2.sinaimg.cn/mw690/66fd066bgy1gzyz7i952dj21wm10sqra.jpg)
+我们设计部门最近希望我们的设计系统提供Angular版本，因为当前只支持React版本。
+从这个需求来看，表面是是要我们开发Angular版本，其实如果仔细追问他们到底为什么需要Angular版本，是因为有一个团队还在用Angula，他们希望这个团队能用我们的设计系统，但是人家表示用不了。其实本源的需求是希望有更多的团队用设计系统，而不是要支持Angualr。
+那要满足这个团队的这个需求，是不是非要做一个Angular版本不可呢？当然不需要，如果我能提供一个类似于BootStrap的HTML和CSS版本，其实他们一样能用起来，而这么做成本不高，并且别的团队也可以用。
+原则2: 聚焦于 “收益”、“成本”和“风险”三者之间的平衡，而不是技术本身
+（图二）(https://wx3.sinaimg.cn/mw690/66fd066bgy1gzyzeepl2tj21wn10wn40.jpg)
+每一次技术决策，其实本质上就是一次取舍（Trade-Offs）
+每一次取舍（Trade-Offs），本质上就是在“收益”、“成本”和“风险”三者之间的平衡
+既然每一个决策都涉及到收益成本风险，那么就不能只看收益而无视成本和风险。就像前一个案例中提到的，设计部门考虑的是Angular版本带来的收益，但是他们却忽略了打造一套Angular版本的设计系统所需要的成本，以及可能带来的巨大风险。（图三）(https://wx2.sinaimg.cn/mw690/66fd066bgy1gzyzffq7igj21wz10o7e9.jpg)
+所以在做技术决策的时候，理性的考虑一下 决策背后的收益、成本和风险的关系是很必要的，而不是仅靠喜好或者直觉来做决策。
+原则3: 选择某个技术背后的生态系统而不是某个技术
+这条原则特别适用于前端领域，在前端，各种新技术、框架、工具层出不穷，如果总是追新，或者被某个软文吸引轻易选择了某个技术，最终会带来巨大的成本。
+案例：为什么我们从Preact迁移到React
+在早些年的时候，我们前端选择了Preact作为UI渲染技术，这有早年React License的原因，也有Preact更小性能更好的原因。
+然而这些年在使用过程中，还是有很多不足的地方，核心原因都是生态不够好。
+比如说Preact调试很麻烦，因为它不像React有一个强大的DevTools；比如说我们遇到过Preact在服务端渲染的内存泄漏问题，如果像我们这样大规模访问量的用户多一点，可能早就有人踩过坑了，不需要我们去花很长时间定位并最终去解决这个问题；比如最近我们在集成Nextjs，Nextjs是完全为React设计的，对Preact兼容性并不好。
+这样的案例还很多（图四）(https://wx4.sinaimg.cn/mw690/66fd066bgy1gzyzjuxwh2j21wr10utq0.jpg)，所以选择技术，它背后的生态和社区活跃度很重要。
+原则4: 不仅要考虑如何构建，还要考虑如何维护
+（图五）(https://wx3.sinaimg.cn/mw690/66fd066bgy1gzyzwc7m89j21wv10xk2v.jpg)
+这是一个常见的问题，很多人只管搭建新项目的时候爽，而不管后续维护是不是困难，用了一堆自己喜欢的新技术，最后难以维护。下一个人接手了，搞不好会推翻重写一遍，这样的循环一次又一次。
+这样的错误我也常犯，比如2年前React Hooks刚出的时候，我就迫不及待用它来替代Redux，结果上线后发现不好维护，有Bug也不好定位，不像以前Redux，数据流特别清晰，借助工具非常好重现和定位问题，最终上线没多久就改回去了。
+所以现在在做技术决策的时候，我们很注意的一个问题就是将来维护的时候是不是很麻烦。
+包括我在代码审查的时候，有时候看到一些功能能运行的很好PR，但是代码写的比较难懂的，或者没有遵守最佳实践的，只要是给未来的维护造成麻烦的，我都会毫不犹豫要求重写，避免增加未来的维护成本。
+上面就是我们现在实践的五个技术决策原则：
+- 原则 0: 遵守公认的好的设计原则
+- 原则 1: 找出最本源的需求，而不应该局限于当前的技术实现和资源
+- 原则 2: 聚焦于 “收益”、“成本”和“风险”三者之间的平衡，而不是技术本身
+- 原则 3: 选择某个技术背后的生态系统而不是某个技术
+- 原则 4: 不仅要考虑如何构建，还要考虑如何维护
+这些原则绝大部分时候都可以很好的帮助我们做出正确的决策，避免踩坑。但我也会一直在反思曾经做过的决策，对于做出的不太好的决策，会反过来考虑是否要修订这些原则，最终通过不断完善决策原则，帮助我和团队更好的做出技术决策。
+最后，推荐一下左耳朵耗子写的一篇：《我做系统架构的一些原则》我做系统架构的一些原则 ，非常有借鉴和参考价值。

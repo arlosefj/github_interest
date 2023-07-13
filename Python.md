@@ -1012,3 +1012,7 @@ https://quickref.me/python
 【python-blueprint：基于最佳实践的Python项目样板】’python-blueprint - Example Python project using best practices' johnthagen GitHub: github.com/johnthagen/python-blueprint
 
 【Voici：将 Jupyter Notebook 转换成静态网页应用(建设中)】’Voici - turns any Jupyter Notebook into a static web application' Voilà Dashboards GitHub: github.com/voila-dashboards/voici
+
+【pyobsplot：一个工具，可以在Jupyter笔记本、VSCode笔记本、Google Colab和Quarto文档中使用Observable Plot创建图表】'pyobsplot - Observable Plot in Jupyter notebooks and Quarto documents' Julien Barnier GitHub: github.com/juba/pyobsplot
+
+【Jupyter Real-Time Collaboration：支持Y documents的Jupyter实时协作插件，可在JupyterLab中添加协作UI元素】'Jupyter Real-Time Collaboration - A Jupyter Server Extension Providing Support for Y Documents' JupyterLab GitHub: github.com/jupyterlab/jupyter_collaboration

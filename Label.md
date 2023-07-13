@@ -373,3 +373,33 @@ https://github.com/heartexlabs/label-studio
 'OmniLabelTools - A Python toolkit for the OmniLabel benchmark providing code for evaluation and visualization' samschulter GitHub: github.com/samschulter/omnilabeltools
 
 【Text Highlighter：可以标注文本的 Streamlit 组件】’Text Highlighter - A Streamlit component for annotating text by text selecting.' Kevin GitHub: github.com/kevin91nl/text-highlighter
+
+【Segment Anything Labelling Tool (SALT)：基于Segment Anything(SAM)的原图像标注工具】’Segment Anything Labelling Tool (SALT)' Anurag Ghosh GitHub: github.com/anuragxel/salt
+
+【SAM-RBox：基于SAM (Segment Anything Model) + MMRotate的旋转标注框生成】’SAM-RBox - SAM (Segment Anything Model) for generating rotated bounding boxes with MMRotate, which is a comparison method of H2RBox-v2.' Li-Qingyun GitHub: github.com/Li-Qingyun/sam-mmrotate
+
+【Semantic-Segment-Anything：用稠密分类标注引擎增强了的Segment Anything dataset (SA-1B)】'Semantic-Segment-Anything - Automated dense category annotation engine that serves as the initial semantic labeling for the Segment Anything dataset (SA-1B).' Fudan Zhang Vision Group GitHub: github.com/fudan-zvg/Semantic-Segment-Anything
+
+【OpenContracts：免费开源协同文本标注平台】'OpenContracts - Free, Open Source collaborative text annotating platform based on React and Django' JSIV GitHub: github.com/JSv4/OpenContracts
+
+【AnyLabeling：Segment Anything + YOLO 图像标注工具】’AnyLabeling - Effortless AI-assisted data labeling with AI support from Segment Anything and YOLO, AnyLabeling = LabelImg + Labelme + Improved UI + Auto-labeling’ Viet-Anh, Nguyen GitHub: github.com/vietanhdev/anylabeling
+
+【LabelU：中文的开源数据标注工具】'LabelU - Uniform, Unlimited, Universal and Unbelievable Annotation Toolbox' opendatalab GitHub: github.com/opendatalab/labelU
+
+【Streamlit Image Annotation：用来做图像标注的Streamlit组件】’Streamlit Image Annotation - Streamlit component for image annotation.' hirune924 GitHub: github.com/hirune924/Streamlit-Image-Annotation 
+
+'ISAT with segment anything - Image segmentation annotation tool with segment anything.（图像分割标注工具，支持语义分割与实例分割，集成segment anything，实现快速图像分割标注）' yatengLG GitHub: github.com/yatengLG/ISAT_with_segment_anything
+
+【DeepDataSpace：开源的数据集工具，具备以下特点：交互式数据集可视化和探索、智能标注与协作工作流、高效的模型管理和性能分析】'DeepDataSpace - The Go-To Choice for CV Data Visualization, Annotation, and Model Analysis.' IDEA-Research GitHub: github.com/IDEA-Research/deepdataspace
+
+GitHub 上一个强大的图像标记基础模型：Recognize Anything Model (RAM)。 
+RAM 采用一种新的图像标记范例，可高精度地识别任何常见类别，并利用大规模图像文本对进行训练，而不是手动注释。
+GitHub：github.com/xinyu1205/Recognize_Anything-Tag2Text
+
+【X-AnyLabeling：一种简单的数据标注工具，支持使用AI进行标注，提供了多种功能，包括图像标注、文本检测和识别、关键信息提取等。支持多种语言，包括英文和中文。该工具具有高级检测器，例如YOLOv6、YOLOv7、YOLOv8和DETR系列，可以无缝转换为行业标准格式，如COCO-JSON、VOC-XML和YOLOv5-TXT】'X-AnyLabeling - Effortless data labeling with AI support from Segment Anything and other awesome models.' CVHub GitHub: github.com/CVHub520/X-AnyLabeling
+
+【Autolabel：自动标注、清洗和丰富文本数据集的Python库，为机器学习提供大规模、干净、多样化的标注数据，高精度、低成本、快速启动】'Autolabel - Label, clean and enrich text datasets with Large Language Models (LLMs)' refuel-ai GitHub: github.com/refuel-ai/autolabel
+
+【DLTA-AI：下一代标注工具，整合了计算机视觉最先进模型的强大功能，让标注图像数据集变得比以往更容易，提供无缝的体验和直观的工作流程】'DLTA-AI - Data Labeling, Tracking and Annotation with AI' Usama Ahmed GitHub: github.com/0ssamaak0/DLTA-AI
+
+### 【visuallayer：简化视觉数据操作，通过visual-layer/visuallayer发现和可视化计算机视觉数据集中的问题，如重复、异常、数据泄漏、错误标签等】'visuallayer - Simplify Your Visual Data Ops. Find and visualize issues with your computer vision datasets such as duplicates, anomalies, data leakage, mislabels and others.'  GitHub: github.com/visual-layer/visuallayer

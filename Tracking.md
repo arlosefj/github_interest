@@ -393,3 +393,7 @@ https://github.com/DanceTrack
 【AS-One : 用于YOLO目标检测和对象跟踪的模块化库】'AS-One : A Modular Libary for YOLO Object Detection and Object Tracking - Run YOLOv7,v6,v5,R,X in under 20 lines of code.' by Augmented Startups GitHub: github.com/augmentedstartups/AS-One
 
 'YOLOv8 Object Detection with DeepSORT Tracking(ID + Trails) - YOLOv8 Object Tracking using PyTorch, OpenCV and DeepSORT' Muhammad Moin GitHub: github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking
+
+【Segment Anything Model (SAM) + Associating Objects with Transformers (AOT) 实现的零样本目标追踪】’Segment and Track Anything (SAM-Track) - An open-source project dedicated to tracking and segmenting any objects in videos, either automatically or interactively' Zongxin Yang GitHub: github.com/z-x-yang/Segment-and-Track-Anything
+
+【Fast-Track：可扩展的目标跟踪管道，包括YOLO-NAS、YOLOv8和YOLOv7检测以及BYTETrack跟踪】'Fast-Track - Extendable object tracking pipelines complete with YOLO-NAS, YOLOv8, and YOLOv7 detection and BYTETrack tracking' Nate Haddad GitHub: github.com/nmhaddad/Fast-Track

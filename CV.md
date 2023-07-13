@@ -1301,3 +1301,70 @@ https://sebastianraschka.com/blog/2023/data-augmentation-pytorch.html
 https://arxiv.org/abs/2302.03084
 
 【rerun：Rust写的计算机视觉可视化框架】’rerun - Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui' rerun.io GitHub: github.com/rerun-io/rerun
+
+【AdverseCleaner：基于各向异性过滤的高效图片对抗噪声消除工具，CPU即可运行】’AdverseCleaner - Remove adversarial noise from images' Lvmin Zhang GitHub: github.com/lllyasviel/AdverseCleaner
+
+【CleanVision：用于自动发现图像数据集中问题的工具，目前可以检测原始图像本身的问题，例如模糊、黑暗、过曝、重复、缺失等，并可用于任何机器学习任务(分类、分割、目标检测、姿态估计、关键点检测等)】’CleanVision - Automatically find issues in image datasets and practice data-centric computer vision' Cleanlab GitHub: github.com/cleanlab/cleanvision
+
+ReBotNet是一种高效的视频增强框架，可以实时增强视频通话和视频流等实际应用场景下的视频质量，而比现有方法更省时、更省计算和内存。
+https://arxiv.org/abs/2303.13504
+
+MULLER是一种轻量的、基于多层拉普拉斯分解的图像缩放方法，能有效提高图像识别模型的性能和推理效率。
+https://arxiv.org/abs/2304.02859
+[CV]《MULLER: Multilayer Laplacian Resizer for Vision》Z Tu, P Milanfar, H Talebi [Google Research] (2023)
+
+palette.fm 
+一个用AI给老照片上色的网站。和其他配色网站不同的是你可以提供配色方面的关键词，然后系统会根据你给定的关键词来配色。
+500*500分辨率下免费。 ​​​
+
+推荐一款 AI 图像无损放大神器：Upscayl，可以快速将模糊图片秒变高清图。我用了挺长一段时间了，效果很不错。
+支持 macOS、Windows、Linux 等主流操作系统，底层模型用的是腾讯之前开源的 Real-ESRGAN，看了下官方的对比测试，效果要比 Waifu2x 的好不少。
+GitHub：github.com/upscayl/upscayl ​​​
+
+【Trainbot：一个计算机视觉项目，用Go编写，能监视火车轨道，检测火车，并拼接它们的图像，适用于任何video4linux USB摄像头或Raspberry Pi相机v3模块】'Trainbot - Trainbot watches a piece of train track, detects trains, and stitches together images of them. Computer vision exercise in Go.' Jo M GitHub: github.com/jo-m/trainbot
+
+### Real-ESRGAN
+实用的图像/视频修复算法
+🔗github.com/xinntao/Real-ESRGAN
+
+一个开源的命令行工具：Background Remover，可借助 AI 能力，快速移除图像和视频背景。
+Background Remover：github.com/nadermx/backgroundremover
+项目底层技术用的是 u2net，一个开源的目标检测算法。
+u2net：github.com/xuebinqin/U-2-Net ​​​
+
+《Photoswap: Personalized Subject Swapping in Images | Photoswap: 图像中的个性化主题替换》
+Photoswap，只需要一个参考图像而对参考图像进行预训练，就可以对目标图像进行无缝局部替换同时保留图像原始风格和构图。
+项目首页：photoswap.github.io
+
+pixian.ai，能够利用 AI 一键移除各种图像背景，并支持在线调整图片分辨率、背景颜色等等。
+目前在 Web 端可免费使用，效果不错。抠出来的图结合 AI 绘画和图像编辑工具，可以做出不少有意思的场景。 
+
+【PyFeats：一款开源软件，用于提取图像特征。支持多种特征提取方法，如纹理特征、形态学特征、直方图特征、多尺度特征等】'PyFeats - Open source software for image feature extraction.' Nikolaos Giakoumoglou GitHub: github.com/giakou4/pyfeats
+
+提出一种强大的图像标签基础模型——Recognize Anything Model(RAM)，通过自动文本语义解析获得大规模无标注图像标签，然后通过统一的标题和标签任务训练一个初步的模型，接着使用数据引擎生成额外的标注并清理错误标注，最后使用处理过的数据重新训练模型并使用较小但更高质量的数据集进行微调。
+https://arxiv.org/abs/2306.03514
+[CV]《Recognize Anything: A Strong Image Tagging Model》Y Zhang, X Huang, J Ma, Z Li, Z Luo, Y Xie, Y Qin, T Luo, Y Li, S Liu, Y Guo, L Zhang [OPPO Research Institute] (2023) 
+
+【Palette.fm：最先进的照片自动上色服务】《Colorize Photos - Try Free without Sign-up - Palette.fm》
+https://palette.fm/
+
+'clip.cpp - CLIP inference in plain C/C++ with no extra dependencies' M. Yusuf Sarıgöz GitHub: github.com/monatis/clip.cpp
+
+background-removal-js：完全在浏览器中工作的去图片背景工具
+地址：github.com/imgly/background-removal-js
+
+DragGAN图像编辑神器，源代码已经公开。
+地址：github.com/XingangPan/DragGAN
+
+【Semaphore Games：全身游戏控制器，使用OpenCV和MediaPipe的姿态检测实时捕捉身体动作并转化为键盘命令。在大空间、良好光照和纯色背景下体验最佳。通过伸臂、抬腿等动作来输入自定义按键或按键组合】'Semaphore Games - Full-body game controller built with Python, OpenCV, Mediapipe' everythingishacked GitHub: github.com/everythingishacked/Gamebody
+
+【图像匹配、姿态估计相关论文列表】’Image-Matching-Paper-List - A personal list of papers and resources of image matching and pose estimation, including perspective images and panoramas.' Xi Li GitHub: github.com/chicleee/Image-Matching-Paper-List
+
+【LVM-Med：用于医学图像的自监督学习大规模视觉预训练模型，可用于2D-3D分割、图像分类和目标检测等下游任务】'LMV-Med pre-trained models' duynhm GitHub: github.com/duyhominhnguyen/LVM-Med
+
+【LEDITS图像语义编辑Demo】《LEDITS - a Hugging Face Space by editing-images》
+https://huggingface.co/spaces/editing-images/ledits
+
+提出SAM-PT，一种将稀疏点跟踪结合SAM进行视频分割的方法，能有效地处理动态视频中的跟踪和分割问题，并且在各种视频对象分割基准测试中都显示出了强大的零样本性能。
+https://arxiv.org/abs/2307.01197
+[CV]《Segment Anything Meets Point Tracking》F Rajič, L Ke, Y Tai, C Tang, M Danelljan, F Yu [ETH Zurich & HKUST] (2023)

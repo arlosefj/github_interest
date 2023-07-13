@@ -931,3 +931,32 @@ https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e90
 
 [LG]《Transformer models: an introduction and catalog》X Amatriain (2023)
 https://arxiv.org/abs/2302.07730
+
+FastViT是一种高效的混合视觉Transformer架构，通过结构重参数化和进一步的架构改进，在多个计算平台上实现了出色的性能，特别是在较高分辨率下能够显著提高运行时效率。
+https://arxiv.org/abs/2303.14189
+
+提出一种新的CNN架构InceptionNeXt，通过将大卷积核分解为小卷积核和恒等映射，实现了高性能和高效率的平衡。
+https://arxiv.org/abs/2303.16900
+[CV]《InceptionNeXt: When Inception Meets ConvNeXt》W Yu, P Zhou, S Yan, X Wang [National University of Singapore & Sea AI Lab] (2023) 
+
+提出名为Slide Attention的局部注意力机制，可以高效集成到各种Vision Transformer模型和硬件设备，并在综合基准测试中取得了稳定的改进性能。
+https://arxiv.org/abs/2304.04237    
+[CV]《Slide-Transformer: Hierarchical Vision Transformer with Local Self-Attention》X Pan, T Ye, Z Xia, S Song, G Huang [Tsinghua University] (2023)
+
+提出一种名为EfficientViT的高速视觉Transformer模型，采用了新的构建块和级联组注意力模块，以实现内存效率和通道通信的提高，同时在速度和准确性之间取得了良好的平衡。
+https://arxiv.org/abs/2305.07027
+[CV]《EfficientViT: Memory Efficient Vision Transformer with Cascaded Group Attention》X Liu, H Peng, N Zheng, Y Yang, H Hu, Y Yuan [Microsoft Research & The Chinese University of Hong Kong] (2023)
+
+【C Transformers：用GGML库实现的C/C++ Transformer模型的Python bindings，支持多种模型，如GPT-2，GPT-J等】'C Transformers - Python bindings for the Transformer models implemented in C/C++ using GGML library.' Ravindra Marella GitHub: github.com/marella/ctransformers
+
+提出Hiera，一种极简的分层视觉Transformer，通过MAE预训练去除不必要的组件，提高了准确性和速度，使其成为图像和视频识别任务中的最先进模型。
+https://arxiv.org/abs/2306.00989
+[CV]《Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles》C Ryali, Y Hu, D Bolya, C Wei, H Fan, P Huang, V Aggarwal, A Chowdhury, O Poursaeed, J Hoffman, J Malik, Y Li, C Feichtenhofer [Meta AI] (2023) 
+
+对Transformer模型在深度学习任务中应用的全面综述，揭示了Transformer在五个主要应用领域(NLP、计算机视觉、多模态、音频和语音处理、信号处理)的潜力和未来可能性。
+https://arxiv.org/abs/2306.07303
+[LG]《A Comprehensive Survey on Applications of Transformers for Deep Learning Tasks》S Islam, H Elmekki, A Elsebai, J Bentahar, N Drawel, G Rjoub, W Pedrycz [Concordia University] (2023) 
+
+提出一种名为Conformer的结构，将卷积层和Transformer结合起来，用于训练大型语言模型，从而有效地提升了模型的性能。
+https://arxiv.org/abs/2307.00461
+[CL]《Conformer LLMs -- Convolution Augmented Large Language Models》P Verma [Stanford University] (2023)

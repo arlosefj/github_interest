@@ -193,3 +193,5 @@ GitHub：github.com/zuruoke/watermark-removal ​​​​
 
 [CV]《A Structure-Guided Diffusion Model for Large-Hole Diverse Image Completion》D Horita, J Yang, D Chen, Y Koyama, K Aizawa [The University of Tokyo & Microsoft Research Asia & AIST] (2022)
 https://arxiv.org/abs/2211.10437
+
+【Inpaint-Anything：SAM + 补全模型实现自动化清除图像里包含的目标】’Inpaint-Anything - Inpaint anything using SAM + inpainting models.' Tao Yu GitHub: github.com/geekyutao/Inpaint-Anything

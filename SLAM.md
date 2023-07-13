@@ -181,3 +181,7 @@ github.com/belosthomas/libCML
 【视觉为中心无人驾驶基准】'Are We Ready for Vision-Centric Driving Streaming Perception? The ASAP Benchmark' by Jeff Wang GitHub: github.com/JeffWang987/ASAP 
 
 【Pi Zero Bikecomputer：基于树莓派Zero的自行车车载电脑，带GPS & ANT+，定位/速度计，离线地图+导航】’Pi Zero Bikecomputer - An open source bike computer based on Raspberry Pi Zero (W, WH, 2W) with GPS and ANT+. Including offline map and navigation.' hishizuka GitHub: github.com/hishizuka/pizero_bikecomputer
+
+【PointSLOT：用于在动态环境中同时定位和跟踪目标的开源系统】’PointSLOT - An open source system for simultaneous localization and object tracking in dynamic environment' pkzhou GitHub: github.com/pkzhou/PointSLOT
+
+'DockerSLAM - User-friendly Docker images for SLAM' nowroad GitHub: github.com/HyeonJaeGil/DockerSLAM

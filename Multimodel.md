@@ -1732,3 +1732,119 @@ https://arxiv.org/abs/2302.14115 Vid2Seq 是一种用于稠密视频描述的视
 
 [CV]《Prismer: A Vision-Language Model with An Ensemble of Experts》S Liu, L Fan, E Johns, Z Yu, C Xiao, A Anandkumar [Imperial College London & NVIDIA] (2023)
 Prismer 是一个数据高效且参数高效的视觉语言模型，利用领域专家组合来实现高效的多模态生成。 https://arxiv.org/abs/2303.02506
+
+[CV]《ViperGPT: Visual Inference via Python Execution for Reasoning》D Surís, S Menon, C Vondrick [Columbia University] (2023)
+ViperGPT是一个框架，结合了视觉和语言模型，用代码生成来解决复杂的视觉查询，实现了最先进的结果。https://arxiv.org/abs/2303.08128
+
+[CV]《Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models》C Wu, S Yin, W Qi, X Wang, Z Tang, N Duan [Microsoft Research Asia] (2023)
+Visual ChatGPT 是一个结合了视觉基础模型的系统，使用户能够超越语言格式与 ChatGPT 交互，解决复杂的视觉任务。 https://arxiv.org/abs/2303.04671
+
+'visual-chatgpt-zh - Visual Chatgpt 支持中文版本' Shawn Wu GitHub: github.com/wxj630/visual-chatgpt-zh
+
+[CV]《HiCLIP: Contrastive Language-Image Pretraining with Hierarchy-aware Attention》S Geng, J Yuan, Y Tian, Y Chen, Y Zhang [Rutgers University & ByteDance Inc] (2023)
+https://arxiv.org/abs/2303.02995 HiCLIP 在 CLIP 的基础上进行了改进，纳入了层次感知的注意力，以无监督方式捕捉图像和文本中传达的高层次和细粒度的语义的层次性。
+
+[CV]《Learning Object-Language Alignments for Open-Vocabulary Object Detection》C Lin, P Sun, Y Jiang, P Luo, L Qu, G Haffari, Z Yuan, J Cai [Monash University & The University of Hong Kong & ByteDance] (2023)
+从语言中学习开放词表目标检测具有挑战性，所提出的 VLDet 从图像-标题对中学习免标注的物体-语言对齐，在 COCO 和 LVIS 上实现了新的最先进水平。
+https://openreview.net/forum?id=mjHlitXvReu&continueFlag=45b7de259cb193d01394f25ca952a334
+
+【用图片生成stable diffusion提示(图像描述)】“Image to Prompt - Go from image to stable diffusion prompt in 30s”
+https://imagetoprompt.com/
+
+'Visual OpenLLM - 基于开源模型, 以交互方式连接不同视觉模型的开源工具' visual-openllm GitHub: github.com/visual-openllm/visual-openllm
+
+'OFA-Chinese：中文多模态统一预训练模型 - transformers结构的中文OFA模型' Yang JianXin GitHub: github.com/yangjianxin1/OFA-Chinese 
+
+【OpenFlamingo：一个开源框架，允许训练和评估大型多模态模型(LMM)，是DeepMind的Flamingo模型的一个复现，包括Python框架、大规模多模态数据集、上下文学习评估基准和基于LLaMA的OpenFlamingo-9B模型的第一个版本，旨在推动多模态机器学习的进展】《Announcing OpenFlamingo: An open-source framework for training vision-language models with in-context learning | LAION》 github.com/mlfoundations/open_flamingo
+
+genmo.ai
+这是一个极其富有创造力的多模态聊天机器人，除了能接收图片输入之外，它还可以自动生成、编辑图片与视频。
+跟现在所流行的 #AI绘图# 工具 Midjourney 不同，它更像是一个 "交互式" 助手，能通过用户的指令反馈，及时更新与调整图像内容。
+微博视频中演示了 Genmo 的几个基础功能：
+1. 通过对话，将夜空图像转为动态图像；
+2. 融合图像与视频，做成电影，用淡入淡出转场效果；
+3. 生成更高分辨率，视野更宽的视频；
+同样，Genmo 也需要先加入 waitlist，等待通过才能使用。
+除了上述提到的这些功能，你还可以用它来进行一些比较简单的短视频创作，实时修改图片，生成多种不同风格的图片等。
+
+Scenex https://scenex.jina.ai/
+给一张图片，它用自然语言描述这张图片由什么内容。
+
+这个模型可以根据图片生成文字描述，甚至可以就图片回答一些简单的问题。
+🔗 huggingface.co/spaces/Salesforce/BLIP ​​​
+https://blog.salesforceairesearch.com/blip-bootstrapping-language-image-pretraining/
+
+【ChatGPT + BLIP2 + OFA + GRIT + Segment Anything + ControlNet 图像的文本段描述】’Transform Image Into Unique Paragraph - Transform Image into Unique Paragraph with ChatGPT, BLIP2, OFA, GRIT, Segment Anything, ControlNet.' Show Lab GitHub: github.com/showlab/Image2Paragraph
+
+一个类似于GPT-4的但是开源的多模态实现，可以执行复杂的视觉语言任务，例如：
+✍️ 为图片赋诗（想起@instagram四哥）
+🔍 指出问题并提供解决方案
+🌐 草图 ➡️生成 网站
+🔗 minigpt-4.github.io
+🔗 github.com/Vision-CAIR/MiniGPT-4
+
+Ask-Anything是一个简单而有趣的视频聊天工具，可以针对视频的内容提问，然后机器人会为你解答。
+🔗 github.com/OpenGVLab/Ask-Anything
+
+【GPT4Tools: 一个智能系统，可以自动决定、控制和利用不同的视觉基础模型，允许用户在对话过程中与图像进行交互】'GPT4Tools: Teaching LLM to Use Tools via Self-instruction - GPT4Tools is an intelligent system that can automatically deciding, controlling, and utilizing different visual foundation models, allowing the user to interact with images during a conversation.' Lin Song GitHub: github.com/StevenGrove/GPT4Tools
+
+RAM: Relate-Anything-Model RAM
+这个项目能分析图像中对象之间的关系
+这是一个将Meta的Segment-Anything 网页链接 模型与ECCV'22论文相结合的演示： Panoptic Scene Graph Generation 网页链接 。
+Relate Anything Model能够将一幅图像作为输入，并利用SAM来识别图像中的对象。然后RAM可以分析图像中对象之间的关系。
+🔗github.com/Luodian/RelateAnything
+
+'MiniGPT-4-ZH - MiniGPT-4 中文部署翻译' Ori GitHub: github.com/RiseInRose/MiniGPT-4-ZH
+
+【Graphit: 一个新模型，可以在一个框架内执行各种图像编辑任务，通过对文本到图像扩散模型进行额外训练来编辑图像，结合了文本到图像扩散模型，如Stable diffusion和unCLIP，可以实现广泛的图像编辑功能】'Graphit: A Unified Framework for Diverse Image Editing Tasks - Official Pytorch implementation of "Graphit: A Unified Framework for Diverse Image Editing Tasks"' NAVER/LINE Vision GitHub: github.com/navervision/Graphit 
+
+LLaVA: Large Language and Vision Assistant 大型语言和视觉助理
+ 一个轻量级、多模式的GPT-4 
+官方Demo：🔗llava-vl.github.io🔗
+Repo：🔗github.com/haotian-liu/LLaVA
+【多模态语言-图像数据集、LLaVA模型及在线Demo：利用语言模型生成多模态语言-图像指令遵循数据，并用这些数据训练出大型多模态模型LLaVA，用于通用的视觉和语言理解。用语言模型GPT-4生成多模态指令遵循数据，并在HuggingFace Dataset上公开了15.8万条样本；将预训练的CLIP ViT-L/14视觉编码器和大型语言模型LLaMA连接起来，并采用了两阶段的指令微调过程；在一个合成多模态指令遵循数据集上，LLaVA表现出了令人印象深刻的多模态聊天能力，有时甚至展现出了多模态GPT-4的行为，并获得了85.1%相对于GPT-4的得分；在Science QA数据集上，LLaVA和GPT-4的协同达到了92.53%的新的最佳准确率】“Visual Instruction Tuning - LLaVA: Large Language and Vision Assistant”
+
+【Dolphin：基于大型语言模型的通用视频交互平台，旨在为视频理解、处理和生成构建一个聊天机器人。主要功能包括：视频处理：用moviepy实现基本的视频剪辑、添加字幕、提取音频、添加音频等功能，还包括视频转换为姿态/深度/边缘等功能；视频生成：文本到视频、姿态/深度和文本到视频、视频pix2pix等；视频交互：使用先进的语言模型处理自然语言查询，并生成相关的视频回复，支持多种场景和上下文】’Dolphin - General video interaction platform based on LLMs' kaleido-lab GitHub: github.com/kaleido-lab/dolphin
+
+【MaMMUT是一个紧凑的、具有2B参数的多模态模型，由一个图像编码器和一个文本解码器组成，在图像-文本检索、文本-图像检索、视觉问答、视频问答、视频描述生成、开放词汇检测等多个视觉语言任务中取得了SOTA或竞争性表现。该模型使用Decoder-only架构，通过两遍学习的方法来训练生成任务和对比任务，从而同时实现了两种任务类型。在不需要自适应的情况下，MaMMUT在图像-文本和文本-图像检索任务中的效果都超过了之前的SOTA模型】《MaMMUT: A simple vision-encoder text-decoder architecture for multimodal tasks – Google AI Blog》
+https://ai.googleblog.com/2023/05/mammut-simple-vision-encoder-text.html    
+
+【mPLUG-Owl: 基于LLaMA和ViT并增加视觉摘要模块，构建多模态模块化语言模型，采用两阶段训练范式，第一阶段固定文本模块，微调训练视觉模块学习视觉语义知识，第二阶段采用增加少量参数的LoRA模块，并混合纯文本和多模态指令数据联合训练。mPLUG-Owl构建了一个公平比较的多模态指令评测集，评测效果较最近的miniGPT4和LLaVA取得一定提升，并涌现了些多语言、多图理解以及文档理解等能力】'mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality' X-PLUG GitHub: github.com/X-PLUG/mPLUG-Owl
+
+MetaAI 重磅开源 ImageBind，可让模型跨 6 种不同的模态（图像、文本、音频、深度、热能和 IMU 数据）进行联动！
+基于该项目，开发者可以「开箱即用」实现包括跨模态检索、使用算术合成模态、跨模态检测和生成等各类新兴应用。
+详细介绍：MetaAI 在 GitHub 丢出重磅炸弹，让 AI 再次成功进化！
+借助 ImageBind，则可以做到直接通过声音来直接生成图像。这使得 AI 能够更加深入了解人类情感，理解他们的喜怒哀乐，进而为人类提供更好的服务。
+当你举起手机，录制一个海边日落的视频时，AI 便能自动根据视频内容来生成文案和字幕，并匹配上合适的背景音乐。
+甚至 AI 还有可能通过一首歌，直接为歌手生成一段视频 MV。
+此举将为 AIGC 技术带来更为广泛的应用场景，一大波更为有趣、实用的 AI 项目也即将来袭。
+GitHub：github.com/facebookresearch/ImageBind
+
+【用LoRA微调ImageBind】’Unofficial ImageBind Fine-tuning with LoRA - Fine-tuning "ImageBind One Embedding Space to Bind Them All" with LoRA' Fares Abawi GitHub: github.com/fabawi/ImageBind-LoRA
+
+清华开源的多模态语言模型VisualGLM-6B来了！
+地址：github.com/THUDM/VisualGLM-6B
+VisualGLM-6B 是一个开源的，支持图像、中文和英文的多模态对话语言模型，语言模型基于 ChatGLM-6B，具有 62 亿参数；图像部分通过训练 BLIP2-Qformer 构建起视觉模型与语言模型的桥梁，整体模型共78亿参数。
+
+【Oryx Video-ChatGPT：一个大型视频语言模型，基于专用的视频编码器和大型语言模型(LLM) ，支持视频理解和视频对话】'Oryx Video-ChatGPT - Video-ChatGPT is a large vision-language model with a dedicated video-encoder and large language model (LLM), enabling video understanding and conversation about videos.' ORYX GitHub: github.com/mbzuai-oryx/Video-ChatGPT
+
+PandaGPT，整合了Meta的ImageNet和开源大语言模型（LLM）Vicuna，实现了LLM的多模态输入和输出。
+项目首页：panda-gpt.github.io🔗
+代码库：github.com/yxuansu/PandaGPT
+
+【ImageBind揭秘：Meta发布的最新模型ImageBind，是一种多模态AI模型，能理解六种不同类型的输入，并将它们结合起来，以与我们相似的方式看待世界。该模型可以与生成式AI解决方案一起使用，从声音中创建图像，将声音和图像组合成融合了两个概念的新图像，或者提供与给定图像相关的音频。通过这种高效、低成本的方法，ImageBind有望成为AI创新的先驱。该模型的关键在于创造了一个联合嵌入空间，将不同的输入形式结合到一个独特的潜空间中，使机器能以与我们类似的方式理解世界】《Unveiling ImageBind: Pictures That Speak, Hear, and Feel with Meta’s New Model | Medium》
+http://aicoco.net/s/33
+
+【Macaw-LLM: 一种多模态语言模型，无缝结合图像、视频、音频和文本数据，为语言建模带来突破，集成了CLIP、Whisper和LLaMA等先进模型】'Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration - Macaw-LLM: Multi-Modal Language Modeling with Image, Video, Audio, and Text Integration' Chenyang Lyu GitHub: github.com/lyuchenyang/Macaw-LLM
+
+【RWKV实现】’RWKV -  implementation of the pretrained RWKV model, with numerically-stable Triton kernels and code for doing LoRA fine-tuning' Ben Bolte GitHub: github.com/codekansas/rwkv 
+
+【nanoRWKV：RWKV语言模型的迷你版实现】’nanoRWKV - minimal implementation of RWKV language model following nanoGPT' Hannibal046 GitHub: github.com/Hannibal046/nanoRWKV
+
+'VoxelGPT - AI assistant that can query visual datasets, search the FiftyOne docs, and answer general computer vision questions' Voxel51 GitHub: github.com/voxel51/voxelgpt
+
+【God app：将图像生成、视频生成、音频生成和通用自然语言处理整合到一个界面中，只需一个提示，即可完成所有需求】'God app - an experimental project using OpenAI GPT Plugins and Replicate to combine all AI APis into one' by Nader Dabit GitHub: github.com/dabit3/openai-functions-god-app
+
+【SEEChat - 一见多模态对话模型，一个侧重视觉能力的多模态对话大模型，基于单模态专家缝合路线，重点是将视觉能力与文本对话能力相集成】’SEEChat - Multimodal chatbot with computer vision capabilities integrated' 360 AI Research Institute GitHub: github.com/360CVGroup/SEEChat 
+
+'Visual-Chinese-LLaMA-Alpaca（VisualCLA）- 基于中文LLaMA&Alpaca大模型项目开发的多模态中文大模型。VisualCLA在中文LLaMA/Alpaca模型上增加了图像编码等模块，使LLaMA模型可以接收视觉信息' by Ziqing Yang GitHub: github.com/airaria/Visual-Chinese-LLaMA-Alpaca

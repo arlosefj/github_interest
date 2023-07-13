@@ -353,3 +353,31 @@ https://www.bilibili.com/video/BV1qd4y1P7fP/?vd_source=755883b550cb633125f234c14
 
 【CMU《深度学习》课程(Fall 2022)】《Carnegie Mellon University Deep Learning - 11785 Fall 2022 Lectures - YouTube》
 https://www.youtube.com/playlist?list=PLp-0K3kfddPxRmjgjm0P1WT6H-gTqE8j9
+
+微软开源的AI课程：“人工智能系统（System for AI）”
+课程的中文名称设定为 人工智能系统，主要讲解支持人工智能的计算机系统设计，对应的英文课程名称为 System for AI。
+课程主要为本科生高年级和研究生设计，帮助学生：
+完整的了解支持深度学习的计算机系统架构，并通过实际的问题，来学习深度学习完整生命周期下的系统设计。
+介绍前沿的系统和人工智能相结合的研究工作，包括AI for Systems和Systems for AI，以帮助高年级的本科生和研究生更好的寻找和定义有意义的研究问题。
+从系统研究的角度出发设计实验课程。通过操作和应用主流和最新的框架、平台和工具来鼓励学生动手实现和优化系统模块，以提高解决实际问题的能力，而不仅仅是了解工具使用。
+🔗 microsoft.github.io/AI-System/
+🔗 github.com/microsoft/AI-System
+
+《解析 Transformers：理解 GPT，BERT 和 T5 模型背后的原理》
+过去五年中，Transformers，一种神经网络架构，完全改变了自然语言处理的最先进技术。想要使用机器学习来翻译文本吗？好奇一个机器学习模型如何能够写出诗歌或专栏文章吗？Transformers 可以做到所有这些。在这一集的“ML 制造”中，Dale Markowitz 解释了什么是 transformers，它们如何工作，以及它们为何具有如此大的影响力。观看此视频，了解你如何开始在你的应用中使用 transformers！
+章节：
+0:00 - 引言
+0:51 - 什么是 transformers？
+3:18 - transformers 是如何工作的？
+7:41 - transformers 是如何被使用的？
+8:35 - 如何开始使用 transformers
+原始视频：www.youtube.com/watch?v=SZorAJ4I-sA
+
+【DeepLearning.AI新推短课：扩散模型工作原理】《How Diffusion Models Work - DeepLearning.AI》
+https://www.deeplearning.ai/short-courses/how-diffusion-models-work/
+
+微软在 GitHub 开源的 5 个面向初学者的技术教程，包括机器学习、Web 开发、物联网、数据科学、人工智能
+https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ
+- 总课时均为期 12 周，共 24 节，让你可以合理安排学习计划；
+- 每个课程均附有项目实战开发讲解，强调实践出真知；
+- 每节课均附有测验说明、草图笔记、作业任务等内容，助你更系统、更全面的掌握课程内容。

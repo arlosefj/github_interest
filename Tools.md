@@ -1327,3 +1327,61 @@ GitHub：github.com/immich-app/immich
 'AI 生词本 - 一个使用了 AI 技术的智能生词本制作工具' piglei GitHub: github.com/piglei/ai-vocabulary-builder
 
 '使用腾讯云函数一分钟搭建 OpenAI 免翻*代理' Ice-Hazymoon GitHub: github.com/Ice-Hazymoon/openai-scf-proxy
+
+'EasySpider: Visual Code-Free Web Crawler - A visual no-code/code-free web crawler/spider一个可视化爬虫软件，可以无代码图形化设计和执行的爬虫任务' Naibo Wang GitHub: github.com/NaiboWang/EasySpider
+
+一个看起来比较专业的专门收录各种AI工具的网站
+futurepedia.io
+
+【Knowledge：个人知识库，用于保存、搜索、访问和浏览所有你喜欢的网站、文档和文件的工具】'Knowledge - a tool for saving, searching, accessing, and exploring all of your favorite websites, documents and files.' GitHub: github.com/KnowledgeCanvas/knowledge
+
+【killport：快速杀掉监听特定端口的进程】’killport - A command-line tool to easily kill processes running on a specified port.' Francisco Jiménez Cabrera GitHub: github.com/jkfran/killport
+
+【Clarity：层次化深度优先多粒度阅读应用，从摘要出发，可随时快速定位到相关细节】’Clarity - Layered, depth-first reading—start with summaries, tap to explore details, and gain clarity on complex topics.' rahul GitHub: github.com/1rgs/clarity-reader
+
+“Enpuz - 在线英语句子语法分析 - 一款英语学习 AI 小工具，旨在让用户获得专业、效率、细致、发散的英语学习体验，特色功能包括精准划分句子结构、识别从句类型及时态、详细标注成份含义、解析短语并拓展语法等” http://enpuz.com/
+
+【eSearch：一款多功能工具，可以进行截屏、离线OCR、搜索翻译、以图搜图、贴图、录屏和滚动截屏等操作。支持多种语言OCR识别，同时还具备语音合成和阅读功能。除此之外，该工具还支持快捷键设置、自动保存等实用功能，可以提高工作效率】'eSearch - Screenshot OCR search translate search for picture paste the picture on the screen screen recorder' xushengfeng GitHub: github.com/xushengfeng/eSearch
+
+### 【Rsync Time Machine：一个 rsync-time-backup 脚本的 Python 版，提供了类似 Time Machine 的备份功能，使用 rsync 创建文件和目录的增量备份，备份到选定的目标位置】'Rsync Time Machine - Time Machine-style backups using rsync' Bas Nijholt GitHub: github.com/basnijholt/rsync-time-machine.py
+
+EasySpider：一个在 GitHub 开源的可视化爬虫软件。使用图形化界面，无代码设计和执行爬虫任务。
+开发者只需在网页上选择爬取内容，并根据提示框操作，即可完成爬虫设计和执行。
+GitHub：github.com/NaiboWang/EasySpider
+同时，软件还可以单独以命令行的方式进行执行，快速嵌入到其他系统中。 ​​​
+
+Quivr，用 AI 来打造你的第二大脑。
+作为一个开源的 AI 知识库解决方案，Quivr 支持将文本、图像、视频、代码片段、PPT、Excel 数据表等内容直接上传云端，并通过大语言模型，快速实现信息检索、问答。
+GitHub：github.com/StanGirard/quivr
+该项目支持 GPT-3.5、GPT-4、Claude 等大语言模型，可自行部署，保障隐私安全。
+
+【DamnGood.Tools：一组用Next.js开放的出色工具，可用的工具包括：隐私策略生成、字体检测、与PDF聊天、URL摘要、截图、拼写检查和语法修正等】'DamnGood.Tools - A set of damn good tools built for fun to play with Next.js' Dmytro Krasun GitHub: github.com/krasun/damngood.tools
+
+【Cyte：适用于MacOS、iOS和Windows的后台屏幕录制和阅读器，可用于方便地搜索历史记录。可以作为一个知识库，如果提供了OpenAI密钥或类似LLaMA的本地语言模型。Cyte支持训练思路恢复、跨应用程序搜索、暂停/重新开始录制等功能】’Cyte - MacOS, iOS and Windows background screen recorder/reader for easy history search' Shaun GitHub: github.com/shaunnarayan/cytev2
+
+'eaio (Electron All in One) - 一个通过将磁盘上所有 Electron 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 pnpm 一样' Wankko Ree GitHub: github.com/WankkoRee/eaio
+
+【NextTrace：一个追求轻量化的开源可视化路由跟踪(route tracking)工具，使用Golang开发】'NextTrace - An open source visual route tracking CLI tool' sjlleo GitHub: github.com/sjlleo/nexttrace
+
+【vercel-reverse-proxy：vercel反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|github下载加速|google代理|vercel万能代理】'vercel-reverse-proxy' gaboolic GitHub: github.com/gaboolic/vercel-reverse-proxy
+
+### Linux 服务器运维管理面板：1Panel。
+开箱即用，通过可视化界面与丰富的开发组件，提供快速建站、一键备份、文件管理等功能，让你能更方便地管理 Linux 服务器。
+GitHub：github.com/1Panel-dev/1Panel
+另外，项目还提供了以下功能：
+- 快速建站：深度集成 Wordpress 和 Halo，域名绑定、SSL 证书配置等一键搞定；
+- 高效管理：通过 Web 端轻松管理 Linux 服务器，包括主机监控、文件管理、数据库管理、容器管理等；
+- 安全可靠：基于容器来管理和部署应用，最小漏洞暴露面，提供防火墙和日志审计等功能；
+- 一键备份：支持一键备份和恢复，备份数据到各类云端存储，永不丢失。
+
+【cs：命令行搜索工具，可在当前目录中的代码或文本文件中进行搜索。速度快，支持多行搜索，具有漂亮的TUI界面】'cs - command line codespelunker or code search' boyter GitHub: github.com/boyter/cs
+
+【Obsidian-copilot：Obsidian扩展，写作和思考的copilot助理，帮你检索相关笔记和文档，为你撰写段落，还可用于其他用途】'Obsidian-copilot - A prototype assistant for writing and thinking' Eugene Yan GitHub: github.com/eugeneyan/obsidian-copilot
+
+【FlowGod：基于 eBPF 的强大进程级网络流量嗅探工具，支持 UDP、TCP、HTTP、HTTPS (curl/wget/nc/python/go) 等常见协议】'FlowGod - a powerful process-level network flow sniffer tool.' Maxx GitHub: github.com/Your7Maxx/FlowGod
+
+【Novel：Notion风格的所见即所得AI编辑器，可实现自动撰写/自动补全】’Novel - Notion-style WYSYWIG editor with AI-powered autocompletions' Steven Tey GitHub: github.com/steven-tey/novel
+
+【Roadmaper - 用代码生成专业路线图(Roadmap)，更高效地创建和更新路线图，便于版本控制和共享】'Roadmaper - a Roadmap as Code (RaC) Tool - Roadmapper - A Roadmap as Code (Rac) python library. Generate professional roadmap diagram using python code.' CS Goh GitHub: github.com/csgoh/roadmapper
+
+【Companion: 基于AI的外语辅导工具，使用OpenAI ChatGPT和Google的文本转语音和翻译技术，可以帮助用户学习外语。用户可以用母语和选择的外语进行写作、对话、阅读和听力练习，并且该工具还可以纠正用户的错误】'Companion: Generative-AI-Powered Foreign-Language Private Tutor - Generative-AI-Powered Foreign-Language Private Tutor' Shaked Zychlinski GitHub: github.com/shakedzy/companion

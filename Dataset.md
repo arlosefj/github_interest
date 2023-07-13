@@ -1036,3 +1036,61 @@ https://github.com/zhaoolee/ChineseBQB
 ### 【Text Detection Dataset：文本场景检索任务的数据集，包含了19 230张拉丁、俄罗斯和一些中文文本的图片，其中大部分是文字级别的印刷】’Text Detection Dataset - High-quality, manually marked-up dataset for text detection tasks.' Donkey Small GitHub: github.com/DonkeySmall/TextDetectionDataset
 
 【Foot3D：脚部 3D 扫描数据集】’Foot3D - Dataset of scanned 3D feet' Ollie Boyne GitHub: github.com/OllieBoyne/Foot3D
+
+【D-Fire: 面向火灾和烟雾检测的图像数据集】'D-Fire: an image data set for fire and smoke detection.' Gaia, solutions on demand GitHub: github.com/gaiasd/DFireDataset
+
+### 【DocLayNet：大型文档布局分析人工标注数据集】'DocLayNet: A Large Human-Annotated Dataset for Document-Layout Analysis' DS4SD GitHub: github.com/DS4SD/DocLayNet
+
+【OpenEarthMap：由5000张航空和卫星图像组成的数据集，包含了8类土地覆盖标签和220万个分割区域，覆盖了6大洲的44个国家的97个地区】'open_earth_map - Quick start in OpenEarthMap' Bruno Adriano GitHub: github.com/bao18/open_earth_map
+
+新版arXiv论文数据集来了，将arXiv上的论文进行预处理，保留了数学符号等特殊格式和非文本内容，可用于NLP模型训练，论文地址（数据集地址包含在论文中）：
+https://arxiv.org/abs/2303.14957
+
+CelebV-Text：大规模面部文本视频数据集
+文字生成视频的时代真的来了！CelebV-Text是由悉尼大学、商汤研究院、南洋理工大学S-Lab和上海人工智能实验室联合发布的大规模面部文本视频数据集。
+CelebV-Text 包含 70,000 个野外面部视频剪辑，涵盖各种视觉内容。每个视频片段与所提出的半自动文本生成策略生成的 20 个文本配对，能够精确描述静态和动态属性。
+从演示上看，它不仅可以通过文本生成视频，甚至还可以集成到ChatGPT，从ChatGPT的文字生成GIF
+🔗 celebv-text.github.io/
+
+【WHU-Urban-3D：面向语义分割和实例分割的人工标注大规模3D数据集】'WHU-Urban-3D - a manually annotated large-scale 3D dataset, named WHU-Urban-3D, for semantic and instance segmentation.' WHU-USI3DV GitHub: github.com/WHU-USI3DV/WHU-Urban-3D
+
+由5.8亿图片、1亿文档、430亿token组成的超大文本图片交织数据集。这是训练开源大模型OpenFlamingo的训练数据集。
+https://arxiv.org/abs/2304.06939
+
+【面向NLP应用的多模态数据集列表】’Multimodal datasets for NLP Applications' Muskan Garg GitHub: github.com/drmuskangarg/Multimodal-datasets
+
+### 【BTS: 双语文本分割数据集，包含14250张图像，覆盖了室内和室外、不同字体、不同方向和曲线形状等各种情况，采用人工标注的方式，并通过两轮质量检查确保高质量标注】'BTS: A Bi-lingual Benchmark for Text Segmentation in the Wild - BTS: A Bi-lingual Benchmark for Text Segmentation in the Wild' ARC Lab, Tencent PCG GitHub: github.com/TencentARC/BTS
+
+【使用DataComp-1B数据集训练的CLIP ViT-L/14模型，可用于零样本、任意图像分类、图像和文本检索等任务，零样本准确率为79.2%，优于 OpenAI 的 CLIP，甚至是在 LAION-2B 上训练的更大的模型(ViT-g/14)，该模型的训练数据集为1.4亿样本的DataComp-1B数据集，该数据集为未加筛选的大规模多模态数据集】“laion/CLIP-ViT-L-14-DataComp.XL-s13B-b90K · Hugging Face”
+https://huggingface.co/laion/CLIP-ViT-L-14-DataComp.XL-s13B-b90K
+
+【RenderMe-360 Dataset：大型数字资产库和高保真头部头像基准】’RenderMe-360 Dataset - RenderMe-360: Large Digital Asset Library and Benchmark Towards High-fidelity Head Avatars' GitHub: github.com/RenderMe-360/RenderMe-360
+
+博物馆免费图库啦，这次是莫瑞泰斯美术馆~~
+相对于其他大博物馆，莫瑞泰斯的藏品并不多，但精品率确实很高，而且同样地，你都可以下载到超清扫描图，以及画框的背面和画框本框……？
+▶ 下载地址：www.mauritshuis.nl/en/our-collection
+
+【Youku-mPLUG：包含1000万条高质量视频和语言数据的中文预训练数据集。该数据集从中国知名的视频分享网站Youku采集而来，具备安全性、多样性和质量的严格标准。该数据集提供了三个不同的多模态视频基准任务，用于评估预训练模型的能力，包括视频分类预测、视频文本检索和视频字幕生成】'Youku-mPLUG 10M Chinese Large-Scale Video Text Dataset - Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Pre-training Dataset and Benchmarks' X-PLUG GitHub: github.com/X-PLUG/Youku-mPLUG
+
+【Zenseact Open Dataset：Zenseact团队的研究人员开发的大型多模态自动驾驶数据集。该数据集分为三个类别：Frames、Sequences和Drives】'Zenseact Open Dataset - Software Development Kit for the latest Zenseact Open Dataset (ZOD)' Zenseact GitHub: github.com/zenseact/zod
+
+【COP3D: 包含4,200个不同宠物视频的数据集】'COP3D: Common Pets in 3D - Common Pets in 3D' Meta Research GitHub: github.com/facebookresearch/cop3d
+
+【CAD-Estate：该数据集包含来自YouTube的RGB视频的两种类型的3D标注，第一种类型是视频内物体的全局一致的3D表示，第二种类型适用于室内房间的视频，包含其3D结构，如墙壁、地板和天花板】'CAD-Estate' by Google Research GitHub: github.com/google-research/cad-estate
+
+【PMC-VQA：大规模医学视觉问答数据集，涵盖多种模态/疾病的149k张图像，包含227k个VQA对】'PMC-VQA - a large-scale medical visual question-answering dataset, which contains 227k VQA pairs of 149k images that cover various modalities or diseases.' Xiaoman Zhang GitHub: github.com/xiaoman-zhang/PMC-VQA
+
+【OBELISC：庞大精选开放图像文本网页文档集合，包含141M个文档、115B个文本标记和353M张图像】'OBELISC - Code used for the creation of OBELISC, an open, massive and curated collection of interleaved image-text web documents, containing 141M documents, 115B text tokens and 353M images.' Hugging Face GitHub: github.com/huggingface/OBELISC 
+
+【Replay Dataset：包含68个社交互动场景的数据集，涵盖人们玩棋盘游戏、锻炼身体或拆礼物等情境。每个场景大约为5分钟】'Replay Dataset - Download scripts and tools for Replay dataset.' 
+Meta Research GitHub: github.com/facebookresearch/replay_dataset
+
+【commavq：包含10万个压缩驾驶视频的数据集，用于机器学习研究，可用于GPT视频预测模型的实验，还包含编码器/解码器和视频预测模型示例】'commaVQ - a dataset of compressed driving video' comma.ai GitHub: github.com/commaai/commavq
+
+【RGB-D数据集大列表】’Awesome RGB-D Datasets - This repository contains information for the paper "A Survey on RGB-D Datasets" and is a collaborative initiative to update the datasets list faster.' Alexandre Lopes GitHub: github.com/alelopes/awesome-rgbd-datasets
+
+'开源SFT数据集整理,' Huang Chao GitHub: github.com/chaoswork/sft_datasets
+
+【Pohang Canal Dataset：在韩国浦项的受限水域中获取的多模态海事数据集。传感器套件由三个LiDAR、一个海洋雷达、两个用作立体相机的视觉摄像头、一个红外摄像头、一个具有6个方向的全景相机、一个AHRS和一个带有RTK的GPS组成。该数据集包括传感器校准参数和基于SLAM的基准轨迹】'Pohang Canal Dataset - Additional descriptions about the Pohang Canal Dataset' Dongha Chung GitHub: github.com/dhchung/pohang_canal_dataset
+
+【JourneyDB：大规模生成图像理解数据集，包含4,429,295个高分辨率的Midjourney生成图像，带有相应的文本提示、图像标题和视觉问答的标注，支持的任务包括提示反演、风格检索、图像描述和视觉问答】'JourneyDB - a large-scale generated image understanding dataset’  GitHub: github.com/JourneyDB/JourneyDB

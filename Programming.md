@@ -259,3 +259,24 @@ https://github.com/mtdvio/every-programmer-should-know
 【面向可扩展统计计算和机器学习的函数式编程入门课程资料】’An introduction to functional programming for scalable statistical computing and machine learning' Darren Wilkinson GitHub: github.com/darrenjw/fp-ssc-course
 
 每天学点Linux上能用到的命令来源 https:///github.com/jaywcjlove/linux-command 
+
+免费的GitHub Copilot替代，Codeium是一款对个人免费的AI编码辅助工具，类似GitHub Copilot有自动生成代码、代码解释等功能。
+支持的编辑器也很多，比如VSCode、JetBrains、VIM、Jupyter Notebooks、Emacs、浏览器等
+https://codeium.com/
+
+salesforce发布了一个开源的、用于代码生成的大语言模型CodeT5+，内测效果已经超过了其他的开源产品（包括 OpenAI 的 code-cushman-001 模型，和前几天介绍的刚推出的StarCoder 微博正文 ）
+地址：github.com/salesforce/CodeT5/tree/main/CodeT5%2B
+论文：arxiv.org/pdf/2305.07922.pdf
+CodeT5+是一个新的开源代码大型语言模型家族，具有编码器-解码器架构，可以灵活地在不同模式（即仅编码器、仅解码器和编码器-解码器）中运行，以支持广泛的代码理解和生成任务。
+
+【StarCoder in C++：StarCoder用C++运行推理的示例，使用ggml库用CPU运行，无需显卡，支持各种StarCoder模型，性能强大】'StarCoder in C++' by BigCode Project GitHub: github.com/bigcode-project/starcoder.cpp
+
+【WizardCoder：新的编程大模型(Code LLM)，基于Evol-Instruct方法开发，专门用于编程任务。WizardCoder-15B-v1.0模型在HumanEval基准测试中取得了57.3％的pass@ 1得分，比开源Code LLMs高出了22.3个百分点。与闭源模型相比，WizardCoder表现出更小的模型大小，并且在HumanEval和MBPP基准测试中具有显著的性能优势】
+https://huggingface.co/TheBloke/WizardCoder-15B-1.0-GGML
+https://huggingface.co/TheBloke/WizardCoder-15B-1.0-GPTQ
+
+【Rift：本地化的Github Copilot，开源语言服务器和IDE扩展，让每个人都能部署个人的AI软件工程师，本地托管，私密，安全，开源、免费】“Rift | Morph - an open-source language server and IDE extension that lets everyone deploy a personal AI software engineer - locally hosted, private, secure, open-source, and free.”  GitHub: github.com/morph-labs/rift 
+
+【Diaphora：目前最先进的开源程序diffing分析工具，支持汇编、控制流图、符号名和注释移植等，还有独特的功能如并行分析、伪代码启发式算法等】'Diaphora - the most advanced Free and Open Source program diffing tool.' Joxean GitHub: github.com/joxeankoret/diaphora
+
+【Crabviz：支持多种编程语言的交互式调用图生成器】'Crabviz - interactive call graph generator that supports various programming languages' chanhx GitHub: github.com/chanhx/crabviz

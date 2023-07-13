@@ -126,3 +126,5 @@ motion.dev/tools
 
 Chrome Extensions Samples
 https://github.com/GoogleChrome/chrome-extensions-samples
+
+【react-llm：轻松运行LLM的headless React Hooks，可以在浏览器中通过WebGPU使用，只需使用useLLM()。无需离开浏览器，支持Vicuna 13B，自定义系统提示】'react-llm - Easy-to-use headless React Hooks to run LLMs in the browser with WebGPU. Just useLLM().' Matt Rickard GitHub: github.com/r2d4/react-llm

@@ -727,3 +727,5 @@ https://arxiv.org/abs/2207.11243v1
 【CelebV-Text: 大规模人脸文本视频数据集】'CelebV-Text: A Large-Scale Facial Text-Video Dataset - CelebV-Text: A Large-Scale Facial Text-Video Dataset' by celebv-text GitHub: github.com/celebv-text/CelebV-Text
 
 【facetorch：人脸检测分析库】’facetorch - Python library for analysing faces using PyTorch' Tomas Gajarsky GitHub: github.com/tomas-gajarsky/facetorch
+
+【Face Editor：Stable Diffusion生成人像的脸部修复工具】’Face Editor - Face editor for Stable Diffusion' KAWAKAMI Shinichi GitHub: github.com/ototadana/sd-face-editor

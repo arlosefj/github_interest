@@ -840,3 +840,58 @@ Team OpenVPI GitHub: github.com/openvpi/audio-slicer
 【Whisper OpenVINO：OpenVINO版运行更快的 Whisper 语音转录】’Whisper OpenVINO - openvino version of openai/whisper' Zilin Zhu GitHub: github.com/zhuzilin/whisper-openvino
 
 【同声翻译(文本到文本/语音到文本翻译)相关资源大列表】’Awesome Simultaneous Translation - Paper list of simultaneous translation, including text-to-text machine translation and speech-to-text translation.' ZhangShaolei1998 GitHub: github.com/Vily1998/Awesome-Simultaneous-Translation 
+
+【Decipher：基于 whisper 给视频自动加字幕】’Decipher - Effortlessly add AI-generated transcription subtitles to your videos' dsymbol GitHub: github.com/dsymbol/deciphe
+
+【whisper-timestamped：基于openai-whisper的多语言自动语音识别(ASR)工具，可以将音频文件转换为文本，并为每个单词提供时间戳】'whisper-timestamped - Multilingual Automatic Speech Recognition with word-level timestamps and confidence' linto.ai GitHub: github.com/linto-ai/whisper-timestamped
+
+【Subs AI：基于Whisper及其变体的字幕生成工具(】'Subs AI - Subtitles generation tool (Web-UI + CLI + Python package) powered by OpenAI's Whisper and its variants' Abdeladim Sadiki GitHub: github.com/abdeladim-s/subsa
+
+【SpeechGPT：免费、开源的ChatGPT语音聊天应用，支持100多种语言，具备优秀的隐私保护和语音识别、语音合成功能】'SpeechGPT - a web application that enables you to converse with ChatGPT.' Xi 网页链接 GitHub: github.com/hahahumble/speechgpt
+
+【Transcriber：采用 Flet 和 OpenAI Whisper 构建的实时语音转文字转录应用】'Transcriber - Real time speech to text transcription app.' davabase GitHub: github.com/davabase/transcriber_app
+
+【Whispering Tiger (Live Translate/Transcribe)：免费的开源工具，可以监听/观看机器上的任意音频流或游戏图像，通过Websockets或OSC将转录或翻译输出到Web浏览器】'Whispering Tiger (Live Translate/Transcribe) - Whispering Tiger - OpenAI's whisper with OSC and Websocket support. Allowing live transcription / translation in VRChat and Overlays in most Streaming Applications' Sharrnah GitHub: github.com/Sharrnah/whispering
+
+针对OpenAI开源的语音转文本模型whisper的UI界面
+🔗 gitlab.com/aadnk/whisper-webui
+
+【whisper_streaming：基于Whisper的语音实时转录，面向长语音文本转录和翻译】'whisper_streaming - Whisper realtime streaming for long speech-to-text transcription and translation' ÚFAL GitHub: github.com/ufal/whisper_streaming
+
+【Kesha v3.0 very early (aka Jarvis update)：基于 Silero TTS + Vosk STT + Picovoice Porcupine + ChatGPT 的智能语音助手实验】'Kesha v3.0 very early (aka Jarvis update) - Voice Assistant made as an experiment using Silero TTS + Vosk STT + Picovoice Porcupine + ChatGPT.' Abraham Tugalov GitHub: github.com/Priler/jarvis
+
+faster-whisper是对OpenAI的Whisper模型的重新实现，使用的是CTranslate2引擎，CTranslate2（github.com/OpenNMT/CTranslate2）是一个用于Transformer模型的快速推理引擎。
+这个模型的速度是官方的Whisper性能的4-8倍。
+🔗 github.com/guillaumekln/faster-whisper
+
+【支持音色克隆的文本到音频生成，支持中文】’Bark...but with the ability to use voice cloning on custom audio/text pairs - Text-prompted Generative Audio Model - With the ability to clone voices' SERP AI GitHub: github.com/serp-ai/bark-with-voice-clone
+
+【Audio Slicer：音频切片机，简约的 GUI 应用程序，通过静音检测对音频进行切片】'Audio Slicer - A simple GUI application that slices audio with silence detection' flutydeer GitHub: github.com/flutydeer/audio-slicer
+
+So-vits-svc（也称Sovits）是基于VITS、soft-vc、VISinger2等一系列项目开发的一款开源免费AI 语音转换软件。
+很多AI翻唱就是用Sovits训练的。
+🔗github.com/svc-develop-team/so-vits-svc
+
+### 【libvits-ncnn：VITS库的ncnn实现，可实现跨平台GPU加速语音合成。使用ncnn库实现深度学习推理，并支持CPU和GPU上的推理】'libvits-ncnn - libvits-ncnn is an ncnn implementation of the VITS library that enables cross-platform GPU-accelerated speech synthesis.' SgDylan GitHub: github.com/Sg4Dylan/libvits-ncnn
+
+【SummerTTS：基于C++的独立编译的中文语音合成项目，可以在本地运行且无需网络连接。它没有额外的依赖，可以在C++环境下独立编译和运行。项目使用Eigen库实现了神经网络的算子，无需依赖像pytorch，tensorflow, ncnn等其他神经网络环境。模型基于语音合成算法vits，可以在Ubuntu、Android和树莓派等Linux平台上运行。此项目提供了一键编译，用户可以将下载的模型放入项目的model目录中，然后通过命令行进行编译和测试语音合成。此外，该项目提供了不同大小的模型，以适应不同的计算能力和音质需求】'SummerTTS - a standalone Chinese speech synthesis(TTS) project that has almost no dependency and could be easily used for Chinese TTS with just one key build out' huakunyang GitHub: github.com/huakunyang/SummerTTS
+
+【Whisper API Streaming：项目旨在为OpenAI的Whisper模型API提供一个流接口。目前只支持响应的流功能】'Whisper API Streaming - Thin wrapper around OpenAI Whisper API with streaming support' George Korepanov GitHub: github.com/gkorepanov/whisper-stream
+
+【whisper-ctranslate2：与原始的基于CTranslate2的OpenAI客户端兼容的命令行客户端，使用CTranslate2和Faster-whisper Whisper实现，相较于openai/whisper，速度提高了4倍，同时占用更少的内存】’whisper-ctranslate2 - Whisper command line client compatible with original OpenAI client based on CTranslate2.' Softcatalà GitHub: github.com/Softcatala/whisper-ctranslate2
+
+【声音活动检测(VAD)相关论文和代码资源】’Voice activity detection (VAD) paper and code - Voice activity detection (VAD) paper（From 198*~2019）and its classification. The arrangement of these papers was arranged when I was studying for a double master degree in UNOKI LAB of JAIST. Now share it with those in need to learn.' LI NAN GitHub: github.com/linan2/Voice-activity-detection-VAD-paper-and-code
+
+### 【whisper-onnx-cpu：ONNX实现的whisper，不依赖于PyTorch or TensorFlow即可运行】’whisper-onnx-cpu - ONNX implementation of Whisper. PyTorch free.' Katsuya Hyodo GitHub: github.com/PINTO0309/whisper-onnx-cpu
+
+介绍了一种名为LibriTTS-R的语音数据集，通过语音修复技术提高了语音样本的质量，为TTS研究提供了加速。
+https://arxiv.org/abs/2305.18802
+[AS]《LibriTTS-R: A Restored Multi-Speaker Text-to-Speech Corpus》Y Koizumi, H Zen, S Karita, Y Ding, K Yatabe, N Morioka, M Bacchiani, Y Zhang, W Han, A Bapna [Google & Tokyo University of Agriculture] (2023)
+
+Meta 今天在 GitHub 开源的 Python 库：Audiocraft，可直接用 AI 生成音乐。
+GitHub：github.com/facebookresearch/audiocraft
+里面主要用到了一个名为 MusicGen 的音乐生成模型，MusicGen 是一个单级自回归 Transformer 模型，在 32kHz EnCodec 分词器上训练，具有 4 个以 50Hz 采样的码本。
+
+'TTS Generation WebUI (Bark v2, MusicGen, Tortoise, Vocos)' Roberts Slisans GitHub: github.com/rsxdalv/tts-generation-webui
+
+【在不超过2GB VRAM GPU的普通消费硬件上生成和训练短音频样本】'A repository for generating and training short audio samples with unconditional waveform diffusion on accessible consumer hardware (<2GB VRAM GPU)' Christopher Landschoot GitHub: github.com/crlandsc/tiny-audio-diffusion

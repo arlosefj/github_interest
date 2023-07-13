@@ -386,3 +386,21 @@ https://arxiv.org/abs/2209.13131
 
 ### Upscalo：效果很不错的超分辨率/图片增强缩放/抠图工具
 https://mortenjust.substack.com/p/upscalo
+
+【视频分辨率提升(2x or 4x)】’Upscales Video 2x or 4x using AI' David Lee GitHub: github.com/davlee1972/upscale_video
+
+【SuperImage：安卓图像超分辨率App】’SuperImage - Sharpen your low-resolution pictures with the power of AI upscaling' Lucchetto GitHub: github.com/Lucchetto/SuperImage
+
+基于Real-ESRGAN 微博正文 开发的开源图像修复放大软件，支持Windows、Mac和Linux
+项目：🔗github.com/upscayl/upscayl
+
+图片无损修复工具：SwinIR是一个能够帮助你修复和提升图片质量的工具。
+你可以把这个工具想象成一个超级强大的”图片医生”。比如说，如果你有一张分辨率不高的图片，你想让它变得更清晰，SwinIR就可以帮你做到这一点。或者，如果你有一张图片，但是图片中有很多噪声（比如颜色不正常的点）
+SwinIR也可以帮你去除这些噪声。又或者如果你有一张JPEG格式的图片，但是由于压缩过程中产生了一些不自然的效果（我们称之为”压缩伪影”）SwinIR也可以帮你减少这些效果。
+这个工具使用了一种叫做Swin Transformer的技术，这种技术在图像处理领域表现得非常出色。已经在Replicate网站上被运行了390万次！
+你可以在Replicate上直接运行这个模型，也可以查看他们的
+介绍：replicate.com/jingyunliang/swinir
+Github：github.com/jingyunliang/swinir
+论文：arxiv.org/abs/2108.10257
+
+【Final2x：将图像超分辨率提升到任意大小，旨在提高图像的分辨率和质量，使其更清晰、更详细，支持多个模型】’Final2x - 2^x Image Super-Resolution, Enhance Your Images with Effortless Cross-Platform Super-Resolution at Any Scale’ Tohrusky GitHub: github.com/Tohrusky/Final2

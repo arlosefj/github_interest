@@ -528,3 +528,81 @@ https://jabbr.ai/
 'Posex - Posex - Estimated Image Generator for Pose2Image' hnmr293 GitHub: github.com/hnmr293/posex ![](https://wx2.sinaimg.cn/mw690/5396ee05ly1hbrfj67xkfj20ju0nqtd4.jpg)
 
 Deep Agency：AI 影楼 & 虚拟模特经纪公司，可以“雇佣”不存在的模特，用指定的姿势摆拍，完全由AI生成
+
+BibiGPT
+基于ChatGPT API的音视频内容一键总结，支持：哔哩哔哩丨YouTube丨网页丨播客丨会议丨本地文件等。
+简单看了一下代码，总结的实现还是有点简单粗暴，由于OpenAI限制4096个tokens，所以对于字幕长度超过了限制，就随机删除掉一半字母，这样对结果的还是蛮大的。
+🔗 github.com/JimmyLv/BibiGPT
+
+【ChatdollKit：3D虚拟助手SDK，可以将3D模型转化为语音聊天机器人，支持面部表情控制，语音和动作同步等特性，支持多种语音识别和合成引擎】'ChatdollKit - ChatdollKit enables you to make your 3D model into a chatbot' uezo GitHub: github.com/uezo/ChatdollKit
+
+play.ht
+它可以从 20 秒的音频中快速生成克隆语音，并自动转换为英语。
+也就是说，即便你不会说英语，也可以通过语音克隆的方式，立刻说出一口流利的英语。
+在使用的过程中，我试了下自己的声音，确实有点震撼。
+🔗 playground.play.ht
+这里的技术采用了一个名为 Parrot 的模型，它能从几秒的音频克隆出声音，并基于文本，重新生成一段富有情感的语音。
+目前该模型只支持英语，不过技术团队已经在开始尝试支持更多语言。
+克隆声音的数据样本主要分两种：高保真（20 分钟）和零样本（20 秒），给的音频样本时间越长，其精度就更佳。
+未来，该工具将被应用到各类数字内容创作（如游戏、媒体、在线教育）等平台。
+微博视频中提供的两段音频示例，是基于雷总某个采访的声音样本进行克隆的。
+如果你感兴趣的话，也可以用自己的声音试下。
+
+【IEA: Image Editing Anything：Stable Diffusion + Segmentation Anything 实现图像内容编辑】’IEA: Image Editing Anything - Using stable diffusion and segmentation anything models for image editing' feizc GitHub: github.com/feizc/IEA
+
+【Caption-Anything：Segment Anything + 视觉描述 + ChatGPT 的图片目标描述项目】’Caption-Anything - Caption Anything via Clicking' Teng Wang GitHub: github.com/ttengwang/Caption-Anything
+
+【Semaphore：用全身肢体动作驱动的键盘[笑而不语]】’Semaphore - A full-body keyboard using gestures to type through computer vision' everythingishacked GitHub: github.com/everythingishacked/Semaphore
+
+awesome-ai-painting
+AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） stable diffusion tutorial、disco diffusion tutorial、 AI Platform
+🔗 github.com/hua1995116/awesome-ai-painting ​​​
+
+AnimatedDrawings
+Meta新的开源项目，可以把小孩子画的简笔画，识别出来骨骼，然后生成动画
+github.com/facebookresearch/AnimatedDrawings
+
+【OpenMMLab Playground：用于收集和展示 OpenMMLab 相关前沿和有趣应用的项目，旨在为社区搭建分享创新技术方案、玩转 OpenMMLab 的平台】'OpenMMLab Playground - A central hub for gathering and showcasing amazing projects that extend OpenMMLab with SAM and other exciting features.' OpenMMLab GitHub: github.com/open-mmlab/playground
+
+提出一种基于扩散的方法，使用姿态和图像引导合成具有人体和面料运动的时尚视频，称为DreamPose，并在时尚视频动画方面取得了最先进的结果。
+https://arxiv.org/abs/2304.06025    
+[CV]《DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion》J Karras, A Holynski, T Wang, I Kemelmacher-Shlizerman [University of Washington & UC Berkeley & NVIDIA] (2023)
+
+【Count Anything：Segment Anything + CLIP 实现的零样本计数】’Count Anything - This method uses Segment Anything and CLIP to ground and count any object that matches a custom text prompt, without requiring any point or box annotation.' ylqi GitHub: github.com/ylqi/Count-Anything
+
+根据你的草图，实时用Stable Diffusion将草图画成真实图片。
+它需要后台运行Stable Diffusion web UI（github.com/AUTOMATIC1111/stable-diffusion-webui）
+🔗 github.com/houseofsecrets/SdPaint
+
+'Paint-by-Skech - Stable Diffusion-based image manipulation method with a sketch and reference image' Kangyeol Kim GitHub: github.com/kangyeolk/Paint-by-Sketch
+
+灵瓜背单词
+这个产品蛮有创意，借助GPT编故事的能力，把枯燥的背单词变成读故事
+https://xlog.mekal.xyz/ling-gua-bei-dan-ci
+
+教你打造属于自己的AI孙燕姿，AI歌手模型使用及训练保姆级课程
+https://mp.weixin.qq.com/s/bXD1u6ysYkTEamt-PYI1RA
+https://mp.weixin.qq.com/s?__biz=MzU0MDk3NTUxMA
+
+让AI当Tony老师给你换发型，基于Stable Diffusion的重画功能实现的。
+原贴：twitter.com/shavonnewong_/status/1658096663226089473
+
+最近做了一个无代码AI工作流+知识库的产品，顺便开源了一个本地的版本放在Github上：AndersonBY/vector-vein
+即便没有代码能力的朋友也可以通过简单的拖拽连线的方式快速搭建一个你自己的AI工作流。
+软件采用pywebview框架开发，前端用AntDesignVue，AI接口调用OpenAI的API，向量数据库采用Qdrant。
+
+【Draw It：根据涂鸦自动生成图片】“Draw It | powered by Leap"
+https://www.drawit.art/
+
+实时将摄像头里的大叔变成美少女，不过现在运算速度还不够，看起来一帧一帧的有点卡。
+Stable Diffusion + Beautiful Realistic Asians（BRA）V4模型
+模型链接：civitai.com/models/25494/brabeautiful-realistic-asians-v2🔗
+原推：twitter.com/yokohara_h/status/1662653691906887685
+
+【Refacer: 一键Deepfake多人脸替换工具，只需一次点击，即可创建多人脸Deepfake，无需训练，仅需一张照片即可使用。支持MacOSX、Windows和Linux】'Refacer: One-Click Deepfake Multi-Face Swap Tool - Refacer: One-Click Deepfake Multi-Face Swap Tool' xaviviro GitHub: github.com/xaviviro/refacer 
+
+Roop，可以一键实现 AI 换脸功能的开源项目，基于 Python 开发。
+仅需一张换脸图像，无需数据集，无需训练，自带敏感图像检测功能。
+GitHub：github.com/s0md3v/roop ​​​
+
+【fashionAI：在线一键换装】’fashionAI - Take a picture of a person, then modify clothing or explore fashion using our AI.'  GitHub: github.com/naklecha/fashionAI

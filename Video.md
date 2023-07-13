@@ -454,3 +454,44 @@ https://ffmpeg.guide/
 'FFMPEGCV - an alternative to OPENCV for video read and write.' ChenXF GitHub: github.com/chenxinfeng4/ffmpegcv
 
 【video-compare：分屏视频对比工具】’video-compare - Split screen video comparison tool using FFmpeg and SDL2' Pixop GitHub: github.com/pixop/video-compare
+
+decipher
+借助OpenAI的Whisper帮助你给视频生成带时间轴的字幕，不需要联网，但是需要下载额外的数据包，找了个视频测试了一下效果挺好。
+是Python程序，需要Python运行环境和ffmpeg
+🔗 github.com/dsymbol/decipher ​​​
+
+video-subtitle-extractor
+反向将已经烧制到视频中的字幕提取成srt文件。
+视频硬字幕提取，生成srt文件。无需申请第三方API，本地实现文本识别。基于深度学习的视频字幕提取框架，包含字幕区域检测、字幕内容提取。
+🔗 github.com/YaoFANGUK/video-subtitle-extractor ​​​
+
+一个用于文本到视频生成和编辑的工具包
+目前包括以下三种模型：
+1. Base T2V：通用文本到视频生成
+2. VideoLoRA：类似于SD的LoRA，可以使用 LoRA 生成个性化文本到视频
+3. VideoControl：类似于ControlNet，对视频的生成结果可以有更多控制
+🔗 github.com/VideoCrafter/VideoCrafter
+
+【VideoCrafter：用于文本到视频生成和编辑的工具包】'VideoCrafter - A Toolkit for Text-to-Video Generation and Editing' GitHub: github.com/VideoCrafter/VideoCrafter
+
+视频生成视频
+制作工具：Stable Diffusion + ControlNet + Mov2mov 插件
+模型: Dark Sushi Mix
+使用了Topaz Video AI来提高质量和流畅度
+🔗www.reddit.com/r/StableDiffusion/comments/12y7z7i/tiktok_girls_hot_dancing/
+
+【Open Chat Video Editor：开源的短视频生成和编辑工具，Python 在线聊天视频编辑器，能实现快速将聊天记录转换为视频格式，支持自定义主题风格和配乐，并能输出多种视频格式。包含了丰富的 API 和示例代码，方便开发者进行二次开发和集成】’Open Chat Video Editor' by HaoyuLi GitHub: github.com/SCUTlihaoyu/open-chat-video-editor
+
+一个用AI剪辑视频的产品Opus Clip ，可以在几秒钟内将一个长视频转换成若干个病毒式的剪辑，一键发布到Tiktok、Shorts。
+目前只支持YouTube视频，推测是先语音/字幕转文本，再用GPT对文本进行归纳重点分段，根据文本段截出对应的视频段，配合视频焦点截取模型，加上字幕，齐活~ 场景仅限于直播、综艺、影视、口播、评测等视频拆条，重版权的，toB
+
+【Match cutting：一个有意思的视频混剪工具，可以在两个镜头之间使用相似的视觉构图、构图或动作进行过渡】’Match cutting' by Netflix GitHub: github.com/Netflix/matchcut
+
+【FFMPerative：简单的视频处理工具，利用大型语言模型(LLM)和HuggingFace的Agents & Tools，可以根据自然语言提示执行复杂的任务。该工具配备了一套用于常见视频处理工作流的工具，包括获取视频元数据、提取指定帧、从图像目录创建视频、水平/垂直翻转、裁剪视频、加速视频、压缩GIF/视频、调整音频级别等】'FFMPerative - Chat to Process Video' Remyx AI GitHub: github.com/remyxai/FFMPerative
+
+一边播放一边保存流媒体：
+ffmpeg -i host/input.m3u8 -c copy out.mkv -c copy -f matroska - | ffplay -
+
+【ZoomVideoComposer：缩放视频生成工具，用于将一组图片制作成缩小或放大的视频，可在几分钟内完成，可设置视频时长、分辨率、帧率、缩放方向和缓动效果，并可选择添加音频】'ZoomVideoComposer - Pyhton script for generating zoom in/out videos from a set of images' Marek Wydmuch GitHub: github.com/mwydmuch/ZoomVideoComposer
+
+【VideoCrafter：文本转视频生成和编辑的工具包】'VideoCrafter - A Toolkit for Text-to-Video Generation and Editing' GitHub: github.com/VideoCrafter/VideoCrafter

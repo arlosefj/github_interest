@@ -336,3 +336,93 @@ Gemini2深度相机，OpenCV+Python几行代码便可获取深度图像
 
 【深度学习DIY教程】“Deep Learning Do It Yourself!”  https:// dataflowr.github.io/website/
 GitHub: github.com/dataflowr/notebooks
+
+Git速查表-在线手册
+https://cheatsheet.wang/
+
+ChatPaper，一款可利用 ChatGPT 总结 arxiv 论文的开源工具。
+该项目可根据用户关键词下载 arxiv 上的最新论文，利用 ChatGPT3.5 API 强大的归纳能力，将其浓缩成固定格式，文字少且易读。
+GitHub：github.com/kaixindelele/ChatPaper
+作者为 ChatPaper 提供了一个 Web 图形界面，让用户可以选择在私有或公共环境中部设置 ChatPaper，或在 Hugging Face 上在线体验该项目功能。
+
+'利用ChatGPT实现Arxiv论文的快速阅读(中文)，可通过RSS分类订阅’ by qhduan GitHub: github.com/qhduan/cn-chat-arxiv
+
+'如何快速开发一个OpenAI/GPT应用：国内开发者笔记' Easy GitHub: github.com/easychen/openai-gpt-dev-notes-for-cn-developer
+
+'ChatWeb - 爬取任意网页并提取正文，然后根据正文内容回答你的问题' skywalker233 GitHub: github.com/SkywalkerDarren/chatWeb
+
+【ChatPaper：一款论文总结工具，根据用户输入的关键词，自动在arxiv上下载最新的论文，再利用ChatGPT3.5的API接口的总结能力，将论文总结为固定的格式】’ChatPaper - Use ChatGPT to summary the Arxiv papers.' kaixindelele GitHub: github.com/kaixindelele/ChatPaper 
+
+### 【Cformers：使用C语言作为后端，可在CPU上快速地进行Transformer模型的推理，支持多种预训练的变换器模型，如BERT、GPT-2、T5等】'Cformers - SoTA Transformers with C-backend for fast inference on your CPU.' Nolano.org GitHub: github.com/NolanoOrg/cformers
+
+【从头理解和编写大语言模型的自注意力机制】《Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch》 
+https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html
+
+提出一种新的图像Token化方案，使用可变大小的图像块替代标准的均匀块，从而实现更好的图像分类。
+[CV]《Vision Transformers with Mixed-Resolution Tokenization》T Ronen, O Levy, A Golbert [Tel Aviv University] (2023)
+https://arxiv.org/abs/2304.00287
+
+【GroundedSAM-zero-shot-anomaly-detection：基于Segment Anything(SAM)的零样本异常检测】’GroundedSAM-zero-shot-anomaly-detection - This project addresses zero-shot anomaly detection by combining SAM and Grouding DINO.' Yunkang Cao GitHub: github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection
+
+【PBRemTools：结合了 Segment Anything & CLIP 的自动抠图】’PBRemTools - Precise background remover' mattyamonaca GitHub: github.com/mattyamonaca/PBRemTools
+
+手语自动生成的api，随意输入任何文字，比如“你好，北京！我们一起开启新阶段”，秒级生成一个手语的3d视频 https://signit.ai/
+
+【SAM + OCR + Stable Diffusion 文本实例的自动检测、识别和分割，以及一些下游任务，如文本去除/补全等】’Optical Character Recognition with Segment Anything (OCR-SAM) - Combining MMOCR with Segment Anything & Stable Diffusion. Automatically detect, recognize and segment text instances, with serval downstream tasks, e.g., Text Removal and Text Inpainting' Zhenhua Yang GitHub: github.com/yeungchenwa/OCR-SAM
+
+Meta最新的开源项目DINOv2：具有自我监督学习功能的最先进的计算机视觉模型
+这款全新的自监督视觉Transformer模型可以作为几乎所有计算机视觉任务的主干模型。无需微调。
+• 无需大量标注数据，即可训练计算机视觉模型。
+• 多功能主干：图像分类、分割、图像检索和深度估计。
+• 直接从图像中学习特征，而无需依赖文本描述，这有助于更好地理解局部信息。
+• 可以从任何图像集合中学习。
+• DINOv2 的预训练版本已经上线，并在众多任务中与 CLIP 和 OpenCLIP 竞争。
+Meta继SAM（Segment Anything） 网页链接 之后又一计算机视觉领域的重量级开源项目。
+源码： github.com/facebookresearch/dinov2
+
+推荐一款开源的数据可视化分析神器：DataEase，操作简单易上手，开箱即用。
+该工具拥有多种丰富美观的图表展示、图表制作、数据引擎等功能。支持多种数据源连接，通过拖拉拽即可快速制作图表，并与他人分享。
+你可以用它来快速分析数据并洞察业务趋势，从而实现业务的改进与优化。
+GitHub：github.com/dataease/dataease
+除此之外，DataEase 还搭建了一个模板市场，里面的模板种类涵盖了多个使用场景和行业领域，用户不用自己费心设计就可以做出漂亮的大屏。
+“模板市场” 功能板块被内嵌在 DataEase 的操作界面中，用户选择模板就能直接应用，一键切换到自己的数据集，快速生成各种酷炫的可视化大屏。
+
+健康学习到150岁 - 人体系统调优不完全指南
+作者根据斯坦福的神经科学教授Huberman的研究成果整理的关于健康相关的内容，像调优软件程序那样来“调优”我们自身的人体系统。
+项目地址：github.com/zijie0/HumanSystemOptimization
+
+### 【llm-analysis：用于计算大型语言模型(LLM)或Transformer模型的训练或推理时延和内存使用的工具。可以根据指定的模型、GPU、数据类型和并行配置估算LLM的时延和内存使用情况。可以帮助回答许多问题，例如确定批量大小、数据类型和并行方案以获得可行且最佳的训练或推理设置。还支持通过命令行界面进行查询，并提供了快速开始指南和示例用法】'llm-analysis - Latency and Memory Analysis of Transformer Models for Training and Inference' Cheng Li GitHub: github.com/cli99/llm-analysis
+
+《ChatGPT+麦肯锡方法论，快速了解一个行业》
+简单总结一下内容：
+借助麦肯锡方法论了解一个行业主要是三个关键步骤：
+- 第1步是总结行业的100个关键词。
+- 第2步是找三五个专家访谈，了解各种行业问题。
+- 第3步是找三五本行业专业书籍，仔细阅读并找出共性。
+结合ChatGPT的话，可以：
+1. 先让ChatGPT给出50个关键字，这里借助上网插件效果更佳
+2. 让ChatGPT对这些关键字进行归类，生成Markdown表格
+3. 在对关键字排除优先级，以及提供参考的书籍资料。由于ChatGPT喜欢胡说八道，所以要加上“引用真实数据”
+4. 可以让GPT筛选行业宏观方面内容，例如产业结构、上下游等，并形成Markdown表格
+5. 可以借助“Show Me”这种导图插件生成思维导图
+6. 可以借助“AskYourPDF”插件或者ChatDoc平台辅助阅读PDF
+https://ki6j1b0d92h.feishu.cn/wiki/E4I1wSQY6i2GxAkMANuc0E8anRd
+
+【单块GPU上的高效训练】《Efficient Training on a Single GPU》
+https://huggingface.co/docs/transformers/perf_train_gpu_one
+
+FasterViT是一种新的混合CNN-ViT神经网络，通过引入分层注意力方法，有效地结合了CNN的快速本地表示学习和ViT的全局建模特性，实现了高图像吞吐，提高了计算机视觉任务的效率和准确性。
+https://arxiv.org/abs/2306.06189
+[CV]《FasterViT: Fast Vision Transformers with Hierarchical Attention》A Hatamizadeh, G Heinrich, H Yin, A Tao, J M. Alvarez, J Kautz, P Molchanov [NVIDIA] (2023)
+https://github.com/NVlabs/FasterViT
+
+400 行代码玩转 YOLOv8 检测/分割/关键点 NCNN 部署
+https://zhuanlan.zhihu.com/p/622596922
+
+GitHub 上一个简单的 AI 入门项目。
+实现了 AIGC 中常用的图像/文本模型、向量存储、身份验证、项目部署等一整套流程，可作为开发 AI 应用时的项目参考。
+GitHub：github.com/a16z-infra/ai-getting-started ​​​
+
+'Train and Deploy a Real-Time ML model - Train an ML model to predict crypto prices and deploy it as a REST API.' Pau Labarta Bajo GitHub: github.com/Paulescu/hands-on-train-and-deploy-ml
+
+'YOLOv8 TensorRT C++ Implementation' cyrusbehr GitHub: github.com/cyrusbehr/YOLOv8-TensorRT-CPP

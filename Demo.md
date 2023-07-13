@@ -749,3 +749,18 @@ https://allthingsai.com/
 【Web AI：在浏览器里运行最新的深度网络】’Web AI - Run modern deep learning models in the browser.' Alexander Visheratin GitHub: github.com/visheratin/web-ai 
 
 'BallonTranslator - 深度学习辅助漫画翻译工具, 支持一键机翻和简单的图像/文本编辑 | Yet another computer-aided comic/manga translation tool powered by deeplearning' dmMaze GitHub: github.com/dmMaze/BallonsTranslator
+
+一款开源的流程可视化 Web 应用：FUXA，可为机器的实时数据，构建多种不同设计风格的可视化流程图。
+GitHub：github.com/frangoteam/FUXA ​​​
+
+如果你想做一个在线服务，用户涂鸦后AI出图，那么这里有一个开源项目Scribble Diffusion你可以参考。
+网页链接
+🔗 github.com/replicate/scribble-diffusion
+像我昨天推荐的另一个用照片让AI生成房间布局的AI应用roomGPT 微博正文 类似，它也是基于Replicate （replicate.com）提供的API来实现的，同样也需要ControlNet来固定图形布局。
+网站程序是基于Nextjs，很方便就能部署到Vercel上。
+
+Temporalkit + Ebsynth + 后期处理
+以后真的别轻易相信网上的视频了😄
+原贴：🔗twitter.com/yokohara_h/status/1657191627452981248
+
+【Willow - 新一代开源、本地自托管的语音助手，匹敌Amazon Echo/Google Home，高效、准确、廉价且功能丰富。在本地设备上完全自掌控，无需担忧隐私问题】’Willow - A Practical, Open Source, Privacy-Focused Platform for Voice Assistants and other Applications - Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative' Tovera GitHub: github.com/toverainc/willow

@@ -390,3 +390,7 @@ github.com/tvdboom/ATOM
 https://lilianweng.github.io/posts/2023-01-10-inference-optimization/
 
 'mperf - 面向移动/嵌入式平台的算子性能调优工具箱' MegEngine GitHub: github.com/MegEngine/mperf
+
+【Dipoorlet：离线量化工具，可以对给定校准数据集上的ONNX模型进行离线量化。支持多种激活校准算法，如Mse、Minmax、Hist等；支持权重转换以获得更好的量化结果，如BiasCorrection、WeightEqualization等；支持最新的离线微调算法以提高量化性能，如Adaround、Brecq、Qdrop。此外，Dipoorlet能生成多个平台所需的量化参数，并提供详细的量化分析以帮助用户识别模型量化中的准确性瓶颈。安装和使用都很简单，用户需要准备校准数据集，并在Pytorch分布式环境或集群环境中运行Dipoorlet】'Dipoorlet - Offline Quantization Tools for Deploy.' ModelTC GitHub: github.com/ModelTC/Dipoorlet
+
+【Autodistill：一种利用基础模型训练监督模型的方法，可以在没有标签的图像上进行推理。通过自动蒸馏，可以实现从无标签图像到在边缘设备上进行推理的自定义模型，完全无需人工干预。目前，自动蒸馏支持目标检测和实例分割等视觉任务，未来还可以扩展到支持语言等其他模型】'Autodistill - Images to inference with no labeling (use foundation models to train supervised models)' GitHub: github.com/autodistill/autodistill

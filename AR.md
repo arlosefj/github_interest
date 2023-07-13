@@ -90,3 +90,12 @@ github.com/leetvr/hotham
 'Omniverse Isaac Gym Reinforcement Learning Environments for Isaac Sim' by NVIDIA Omniverse GitHub: github.com/NVIDIA-Omniverse/OmniIsaacGymEnvs
 
 【AR/VR 指南】’AR/VR Guide - A guide covering Augmented Reality (AR), Virtual Reality (VR), Mixed Reality(MR), and Extended Reality(XR). Including headsets such as HoloLens, PlayStation VR, Apple Reality Pro, and Oculus Quest (2 and Pro).' Michael Royal GitHub: github.com/mikeroyal/AR-VR-Guide
+
+lifeOS：
+一个适用于你整个生活的操作系统 🌐 
+通过AR智能眼镜直接提供的个人AI代理 👓 
+它使用计算机视觉来 👁️ 识别 👁️ 你的朋友的脸，然后根据你与他们的文本（记忆 🤯 ）提出相关的细节来谈论。
+AI和AR的交互融合是一种尝试，想想钢铁侠里面可不就是通过AR和贾维斯交互的么！
+🔗 twitter.com/bryanhpchiang/status/1645501260827885568
+
+【AR-RViz : 用增强现实(AR)可视化和控制ROS系统的Unity项目】'AR-RViz : Augmented Reality Robot Visualization - Unity Project for visualization and control of ROS systems in augmented reality' Kodie Artner GitHub: github.com/kodie-artner/AR-RViz

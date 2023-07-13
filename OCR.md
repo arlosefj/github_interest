@@ -983,3 +983,23 @@ http://codh.rois.ac.jp/miwo/
 
 [LG]《PLay: Parametrically Conditioned Layout Generation using Latent Diffusion》C Cheng, F Huang, G Li, Y Li [Google Research] (2023)
 https://arxiv.org/abs/2301.11529
+
+【Pix2Text (P2T)： Mathpix 的免费开源 Python 替代工具，可识别既包含文字又包含公式的混合图片，输出 Latex 格式的公式和纯文本】’Pix2Text (P2T) - Pix In, Latex & Text Out. Recognize Chinese, English Texts, and Math Formulas from Images.' BreezeDeus GitHub: github.com/breezedeus/pix2text 
+![](https://wx2.sinaimg.cn/mw690/5396ee05ly1hbxa3wtdwoj20zw11s7na.jpg)
+
+### 【DocTr++：深度无限制文档图像校正工具包】’DocTr++ - Deep Unrestricted Document Image Rectification' Hao F GitHub: github.com/fh2019ustc/DocTr-Plus
+
+FormNetV2采用中心化的多模态图对比学习策略，将所有模态的自监督预训练统一为一种损失函数，从而为各种表单文档的理解任务带来新的性能提升。
+https://arxiv.org/abs/2305.02549
+[CL]《FormNetV2: Multimodal Graph Contrastive Learning for Form Document Information Extraction》C Lee, C Li, H Zhang, T Dozat, V Perot, G Su, X Zhang, K Sohn, N Glushnev, R Wang, J Ainslie, S Long, S Qin, Y Fujii, N Hua, T Pfister [Google Cloud AI Research & Google Research] (2023)
+
+【用Hugging Face Transformers和Amazon SageMaker对基于Donut的模型进行微调和部署，用于文档理解/文档解析。Donut是一种新的文档理解模型，与其他模型(如LayoutLMv2/LayoutLMv3)相比，可用于商业目的并取得了最先进的性能。本教程包括设置开发环境、加载SROIE数据集、预处理和上传数据集至Donut、在Amazon SageMaker上微调Donut模型、在Amazon SageMaker上部署Donut模型等步骤】《Generative AI for Document Understanding with Hugging Face and Amazon SageMaker》
+https://www.philschmid.de/sagemaker-donut
+
+### 【M⁶Doc Dataset：用于现代文档版面分析研究的M⁶Doc数据集】'M⁶Doc_Dataset_Release' by HCIILAB GitHub: github.com/HCIILAB/M6Doc 
+
+【TabRecSet: 用于实际场景端到端表格识别的大规模数据集】'TabRecSet: A Large Scale Dataset for End-to-end Table Recognition in the Wild - A large scale camera-taken table detection and recognition dataset.' Fan Yang GitHub: github.com/MaxKinny/TabRecSet
+
+【MindOCR：基于MindSpore 框架开发的OCR开源工具箱，集成系列主流文字检测识别的算法、模型，并提供易用的训练和推理工具，可以帮助用户快速开发和应用业界SoTA文本检测、文本识别模型，如DBNet/DBNet++和CRNN/SVTR，满足图像文档理解的需求】'MindOCR - A toolbox of OCR models, algorithms, and pipelines based on MindSpore' MindSpore Lab GitHub: github.com/mindspore-lab/mindocr
+
+'语言模型中文识字率分析' Tao Wang GitHub: github.com/twang2218/vocab-coverage

@@ -313,3 +313,6 @@ github.com/alibaba/EssentialMC2
 https://ai.googleblog.com/2022/03/co-training-transformer-with-videos-and.html
 
 'video-transformers - Easiest way of fine-tuning HuggingFace video classification models' by fatih GitHub: github.com/fcakyon/video-transformers
+
+提出一种新的流视频模型，用于统一处理基于帧和序列的视频理解任务。 https://arxiv.org/abs/2303.17228
+[CV]《Streaming Video Model》Y Zhao, C Luo, C Tang, D Chen, N Codella, Z Zha [Microsoft Research Asia] (2023)

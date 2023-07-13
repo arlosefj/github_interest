@@ -190,3 +190,9 @@ ADRepository: 现实世界异常检测数据集】'ADRepository: Real-world anom
 【工业异常检测相关工作大列表】’Awesome Industrial Anomaly Detection - Awesome-Industrial-Anomaly-Detection' M3LAB GitHub: github.com/M-3LAB/awesome-industrial-anomaly-detection
 
 【弱监督异常检测相关文献资源列表】’Weakly-supervised Anomaly Detection: A Survey - A Collection of Resources for Weakly-supervised Anomaly Detection (WSAD)' Yue Zhao GitHub: github.com/yzhao062/WSAD
+
+提出一种零样本异常分割新框架SAA+，通过协同组装基础模型和混合提示正则化方法，实现了对多种异常模式的准确定位，并在多个基准测试数据集上取得了最先进的性能。
+https://arxiv.org/abs/2305.10724
+[CV]《Segment Any Anomaly without Training via Hybrid Prompt Regularization》Y Cao, X Xu, C Sun, Y Cheng, Z Du, L Gao, W Shen [Huazhong University of Science and Technology] (2023)
+
+【Python Deep Outlier/Anomaly Detection (DeepOD)：基于深度学习的多变量/时间序列数据的异常检测框架，提供了多个模型和统一的实现】’Python Deep Outlier/Anomaly Detection (DeepOD) - Deep learning-based outlier/anomaly detection' Hongzuo Xu GitHub: github.com/xuhongzuo/DeepOD

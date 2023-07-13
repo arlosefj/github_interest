@@ -360,3 +360,5 @@ https://datamachines.xyz/the-hands-on-reinforcement-learning-course-page/
 'DI-1024：深度强化学习 + 1024游戏 人机协作共同解密 (Deep Reinforcement Learning + 1024 Game)' OpenDILab GitHub: github.com/opendilab/DI-1024 
 
 【强化学习实战教程】’The Hands-on Reinforcement Learning course - Free course that takes you from zero to Reinforcement Learning PRO' Pau Labarta Bajo GitHub: github.com/Paulescu/hands-on-rl 
+
+【人工反馈强化学习(RLHF)简要解析】“Reinforcement Learning from Human Feedback (RLHF) - a simplified explanation” gist.github.com/JoaoLages/c6f2dfd13d2484aa8bb0b2d567fbf093 ​​​

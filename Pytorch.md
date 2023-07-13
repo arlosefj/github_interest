@@ -941,3 +941,13 @@ https://wandb.ai/ayush-thakur/debug-neural-nets/reports/Debugging-Neural-Network
 
 【PyTorch快速入门 (Colab)】《PyTorch-CrashCourse.ipynb - Colaboratory》
 https://colab.research.google.com/drive/1eiUBpmQ4m7Lbxqi2xth1jBaL61XTKdxp?usp=sharing
+
+【加快 PyTorch 模型训练的一些技巧】《Some Techniques To Make Your PyTorch Models Train (Much) Faster》
+GitHub: github.com/rasbt/faster-pytorch-blog
+https://sebastianraschka.com/blog/2023/pytorch-faster.html
+
+【Modulus (Alpha)：基于 PyTorch 的深度学习工具包，用于为物理系统开发深度学习模型】'Modulus (Alpha) - A PyTorch based deep-learning toolkit for developing DL models for physical systems' NVIDIA GitHub: github.com/NVIDIA/modulus
+
+【StarLight：帮助实现轻量深度神经网络的开源项目，主要包含三个模块：网络压缩、神经架构搜索和可视化，还提供了一个方便的工具 QuiverPyTorch，用于可视化任意网络的中间特征】'StarLight - helps in obtaining lightweight deep neural networks’ by ICT-ANS GitHub: github.com/ICT-ANS/StarLight
+
+【SSLRec: 基于PyTorch的深度学习框架，通过自监督学习技术增强了推荐系统，包含常用数据集、数据处理、训练、测试、评估和最先进的研究模型的代码脚本，提供了大量实用函数和易于使用的界面，简化了推荐模型的开发和评估过程】’SSLRec: A Self-Supervised Learning Library for Recommendation - SSLRec: A Self-Supervised Learning Library for Recommendation' HKUDS GitHub: github.com/HKUDS/SSLRec

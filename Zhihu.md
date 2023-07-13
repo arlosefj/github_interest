@@ -1295,3 +1295,78 @@ https://zhuanlan.zhihu.com/p/610774199
 
 关于Instruct GPT复现的一些细节与想法
 https://zhuanlan.zhihu.com/p/609078527
+
+这个ChatGPT真像某些人那样吹得神乎其神吗？
+https://www.zhihu.com/question/584515782
+
+OpenAI 发布 GPT-4，有哪些技术上的优化或突破？
+https://www.zhihu.com/question/589639535
+
+OpenAI 发布多模态 GPT-4 模型，会开创哪些新的研究方向？
+https://www.zhihu.com/question/589640227
+
+模型部署入门教程（一）：模型部署简介 
+https://zhuanlan.zhihu.com/p/477743341
+
+目标检测正负样本区分策略和平衡策略总结(一)
+https://zhuanlan.zhihu.com/p/138824387
+
+Kaggle冠军方案--使用Autoencoder MLP+XGBoost做金融市场预测
+https://zhuanlan.zhihu.com/p/552237170
+
+Adversarial Weight Perturbation，一文了解kaggle金牌方案都在用的AWP
+https://zhuanlan.zhihu.com/p/563641649
+
+因果推断（causal inference）是回归（regression）问题的一种特例吗？
+https://www.zhihu.com/question/266812683
+
+矩阵的本质是什么？
+https://www.zhihu.com/question/22047061
+
+谷歌发布史上最大「通才」AI 模型，可让机器人更自主，具有哪些意义？应用前景如何？
+https://www.zhihu.com/question/588318882
+
+用 ChatGPT 开放的 API 接口可以做哪些自研工具？
+https://www.zhihu.com/question/587168092
+
+深度学习方面的科研工作中的实验代码有什么规范和写作技巧？如何妥善管理实验数据？
+https://www.zhihu.com/question/268193800
+
+如何评价 OpenAI 的超级对话模型 ChatGPT ？
+https://www.zhihu.com/question/570189639
+
+如何自然地演讲 PPT，而不是念 PPT？
+https://www.zhihu.com/question/432657311
+
+为什么现在的LLM都是Decoder only的架构？
+https://www.zhihu.com/question/588325646
+
+2023年后，AI 还有什么研究方向有前景？
+https://www.zhihu.com/question/591140366
+
+ChatGPT 为什么不用 Reward-Model 的数据直接 fine-tune，而用 RL？
+https://www.zhihu.com/question/596230048
+
+如何为GPT/LLM模型添加额外知识？
+https://www.zhihu.com/question/591935281
+
+MLC-LLM: 在任何设备上编译运行大语言模型
+https://zhuanlan.zhihu.com/p/625959003
+
+「走出新手村」十次 CV 论文会议投稿的经验总结
+https://zhuanlan.zhihu.com/p/627032371
+
+如何克服科研中不想写论文的心理? 
+https://www.zhihu.com/question/442152051
+
+搞科研的你一般在什么情况/条件下最容易产生灵感？
+https://www.zhihu.com/question/457212453
+
+世界的参数倒影：为何GPT通过Next Token Prediction可以产生智能
+https://zhuanlan.zhihu.com/p/632795115
+
+为什么说大模型训练很难？
+https://www.zhihu.com/question/498271491
+
+如何才能快乐地做科研？
+https://www.zhihu.com/question/452940941

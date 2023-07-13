@@ -53,3 +53,5 @@ github.com/maxcrous/multiview_notebooks
 【计算机图形相关数据库及资源】’CGI databases and resources - List of some useful databases and resources for Computer Graphics' by Alban GitHub: github.com/afichet/cgi-resources
 
 【OpenGraphic：图形引擎/游戏引擎开源资源大列表】’OpenGraphic - Graphic Engine & Game Engine lists' Gforcex GitHub: github.com/Gforcex/OpenGraphic
+
+【深度学习相机标定方法相关资源列表(相机标定是指估计相机的内部参数和外部参数，以便对拍摄的图像进行几何校正和3D重建)】’Awesome-Deep-Camera-Calibration - Deep Learning for Camera Calibration and Beyond: A Survey' Kang Liao GitHub: github.com/KangLiao929/Awesome-Deep-Camera-Calibration

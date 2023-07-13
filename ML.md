@@ -1845,3 +1845,43 @@ https://blog.jetbrains.com/datalore/2022/11/08/how-to-prepare-your-dataset-for-m
 【ClearML：用于机器学习模型简易部署的命令行实用程序】’ClearML - Model-Serving Orchestration and Repository Solution' GitHub: github.com/allegroai/clearml-serving
 
 'trytouca - Continuous Regression Testing for Engineering Teams' Touca GitHub: github.com/trytouca/trytouca
+
+【CircuitsVis：可视化工具，用于展示机制可解释性的概念，即如何通过分析神经网络的内部结构和功能来理解其行为】'CircuitsVis - Mechanistic Interpretability Visualizations using React' Alan GitHub: github.com/alan-cooney/CircuitsVis
+
+【Rubbrband：机器学习训练/推理命令行工具，允许快速微调、评估最新的开源机器学习模型】'Rubbrband - Rapidly experiment with open-source machine learning models’ GitHub: github.com/rubbrband/rubbrband
+
+【大模型训练的秘诀】《A Recipe for Training Large Models | report – Weights & Biases》
+https://wandb.ai/craiyon/report/reports/Recipe-Training-Large-Models--VmlldzozNjc4MzQz
+
+【Visual Blocks for ML：低代码/免代码机器学习应用开发框架，让用户在可视化组装的机器学习管线上高效开发、测试和迭代，加速机器学习的原型制作】《Visual Blocks for ML: Accelerating machine learning prototyping with interactive tools – Google AI Blog》
+https://ai.googleblog.com/2023/04/visual-blocks-for-ml-accelerating.html
+
+'Awesome-AITools - Collection of AI-related utilities. Welcome to submit issues and pull requests /收藏AI相关的实用工具' ikaijua GitHub: github.com/ikaijua/Awesome-AITools
+
+【基础模型相关文献资源列表】’Awesome-Foundation-Models - A curated list of foundation models for vision and language tasks' uncbiag GitHub: github.com/uncbiag/Awesome-Foundation-Models
+
+【Mojo：一种新的编程语言，旨在统一机器学习和人工智能基础架构的平台，与Python兼容，可使用Python库，结合Python的可用性和C语言的性能，具有可扩展的编程能力、强大的编译时元编程以及与自适应编译技术的集成等附加优势，使开发人员能够在整个堆栈上执行通用编程，包括使用异构系统(如CPU、GPU和用C++编写的外部系统工作，尚处于开发阶段，可通过Mojo Playground试用】“Mojo - a new programming language for all Al developers”
+github.com/modularml/mojo
+
+'深度学习调优指南中文版 - 一本系统地教你将深度学习模型的性能最大化的战术手册。' schrodingercatss GitHub: github.com/schrodingercatss/tuning_playbook_zh_cn
+
+【Axolotl：一个用于微调的代码库，支持使用不同的模型和注意力机制进行微调】'Axolotl - Go ahead and axolotl questions' OpenAccess-AI-Collective GitHub: github.com/OpenAccess-AI-Collective/axolotl
+
+炼丹不易，用丹有趣：State of GPT的番外解读
+https://mp.weixin.qq.com/s/KOaiqw0w6clIZkhQACBVgg
+
+推荐AI学习网站：通往AGI之路
+waytoagi.com
+网站内容很全，包含了学习AI知识相关的各种图文和视频资料，包括Prompt、AI绘画、插件等众多内容
+
+研究了特征可视化的可靠性，发现特征可视化在理解神经网络处理自然图像方面存在局限性，为可靠的方法和可视化工具的发展提供了思路。
+https://arxiv.org/abs/2306.04719
+[CV]《Don't trust your eyes: on the (un)reliability of feature visualizations》R Geirhos, R S. Zimmermann, B Bilodeau, W Brendel, B Kim [Google DeepMind & Tübingen AI Center & University of Toronto] (2023)
+
+【《Effective XGBoost》随书代码】’Effective XGBoost Code Repository' by matt harrison GitHub: github.com/mattharrison/effective_xgboost_book
+
+【生成式AI的应用路线图】’The Roadmap of Generative AI: use cases and applications' SeedV GitHub: github.com/SeedV/generative-ai-roadmap
+
+【Pezzo：开的AI开发工具包，旨在简化提示设计、版本管理、发布、协作、故障排除、可观察性等功能】'Pezzo - an open-source AI development toolkit designed to streamline prompt design, version management, publishing, collaboration, troubleshooting, observability and more.' Pezzo GitHub: github.com/pezzolabs/pezzo
+
+【HuggingFace Model Downloader：HuggingFace模型下载器，从HuggingFace网站下载模型/数据集的实用工具，提供了多线程下载LFS文件的能力，并通过检查SHA256校验和确保已下载模型的完整性】'HuggingFace Model Downloader - Simple go utility to download HuggingFace Models and Datasets' bodaay GitHub: github.com/bodaay/HuggingFaceModelDownloader

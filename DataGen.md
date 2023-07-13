@@ -745,3 +745,49 @@ https://arxiv.org/abs/2302.03027
 【Awesome Diffusion：扩散(Diffusion)相关notebooks、工具、软件、教程等相关资源列表】’Awesome Diffusion - A curated list of awesome Diffusion notebooks, tools, software, tutorials and resources.' Mert Cobanov GitHub: github.com/cobanov/awesome-diffusion 
 
 【Breadboard：跨平台 Stable Diffusion 浏览器，用于浏览、搜索和管理机器上用 Stable Diffusion 生成的所有图片】’Breadboard - Stable Diffusion Browser for Windows, Mac, and Linux' cocktailpeanut GitHub: github.com/cocktailpeanut/breadboard
+
+【Web Stable Diffusion：完全在浏览器里运行的 Stable Diffusion，无需服务器即可运行】’Web Stable Diffusion - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.' mlc-ai GitHub: github.com/mlc-ai/web-stable-diffusion 
+
+【用Docker运行并提供REST API接口的的Diffusers / Stable Diffusion】’docker-diffusers-api ("banana-sd-base") - Diffusers / Stable Diffusion in docker with a REST API, supporting various models, pipelines & schedulers.' kiri-art GitHub: github.com/kiri-art/docker-diffusers-api
+
+'SkyPaint-Chinese-EN-v-1.0 - 基于Stable Diffusion优化的AI绘画模型。支持输入中英文文本，可生成多种现代艺术风格的高质量图像' SkyWorkAIGC GitHub: github.com/SkyWorkAIGC/SkyPaint-AI-Diffusion
+
+【sdkit：易于使用的Python库，用于在AI艺术项目中使用Stable Diffusion算法，快速、功能丰富、内存高效】'sdkit - sdkit (stable diffusion kit) is an easy-to-use library for using Stable Diffusion in your AI Art projects. It is fast, feature-packed, and memory-efficient.' easydiffusion GitHub: github.com/easydiffusion/sdkit
+
+### 提出一种名为“布局指导”的简单方法，通过操纵交叉注意力层来实现对图像布局的有效控制，无需训练或微调图像生成器。
+https://arxiv.org/abs/2304.03373
+[CV]《Training-Free Layout Control with Cross-Attention Guidance》M Chen, I Laina, A Vedaldi [University of Oxford] (2023)
+
+deep-floyd/IF
+一个新的开源diffusion模型，看起来生成图片的质量很好。
+🔗github.com/deep-floyd/IF
+
+【用自己的数据训练Stable Diffusion模型】’Stable Diffusion Training with MosaicML' by MosaicML GitHub: github.com/mosaicml/diffusion
+
+GeneFace++: 通用和稳定的实时音频驱动的人脸说话视频。
+🏡主页：🔗genefaceplusplus.github.io
+
+MultiDiffusion： 融合扩散路径以实现可控的图像生成
+应用场景包括：
+- 对多张图片进行无缝拼接
+- 从文本生成高质量的全景图（比如清河上明图）
+- 让图像画在指定区域
+等等
+项目地址：🔗multidiffusion.github.io/
+
+【Anything To Image： ImageBind+Stable Diffusion相结合，能从任意内容生成图像的工具。利用统一潜空间和Stable Diffusion技术实现图像生成，无需进行训练。可与Diffusers集成，并提供在线演示和Huggingface Gradio的演示。支持的任务包括从音频、音频+文本、音频+图像、图像和文本生成图像】'Anything To Image - Generate image from anything with ImageBind and Stable Diffusion' Zeqiang-Lai GitHub: github.com/Zeqiang-Lai/Anything2Image
+
+StyleDrop是一种通过少量样式图像和文本描述实现任意风格合成的方法，具有极高的灵活性和合成质量。
+https://arxiv.org/abs/2306.00983
+[CV]《StyleDrop: Text-to-Image Generation in Any Style》K Sohn, N Ruiz, K Lee, D C Chin, I Blok, H Chang, J Barber, L Jiang, G Entis, Y Li, Y Hao, I Essa, M Rubinstein, D Krishnan [Google Research] (2023)
+
+【基于Stable Diffusion图像合成系统的完整C++ ONNX实现，包括原始的txt2img、img2img和修复图像的功能以及安全检查器。该方案不依赖Python，在单进程中运行整个图像生成过程，性能竞争力强，使部署变得更加简单和轻量化，只需要几个可执行文件、库文件和模型权重】’a C++ ONNX implementation of StableDiffusion.' Péter Major GitHub: github.com/axodox/axodox-machinelearning
+
+【Deepshot：全球首个完全可定制的对话生成和替换软件，可生成声音、口形都能以假乱真的口播视频。轻松创作专业级视频，生成完美同步的音频和视频，适用于任何场景。快速生成内容，直观用户界面，用强大的剪辑工具实现创意】
+https://deepshot.ai/
+
+根据照片生成3D立体头像
+项目地址：sizhean.github.io/panohead
+源码：github.com/sizhean/panohead
+
+【Stability AI的生成式模型】’Generative Models by Stability AI' Stability AI GitHub: github.com/Stability-AI/generative-models

@@ -493,3 +493,37 @@ https://github.com/jessfraz/dockerfiles
 【highlight.io: 开源全栈监控平台】'highlight.io: The open-source, fullstack monitoring platform. - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.' GitHub: github.com/highlight/highlight
 
 【Service Weaver：编写和部署云应用的编程框架】’Service Weaver - Programming framework for writing and deploying cloud applications.' GitHub: github.com/ServiceWeaver/weaver
+
+'NVIDIA Container Toolkit - Build and run containers leveraging NVIDIA GPUs' NVIDIA GitHub: github.com/NVIDIA/nvidia-container-toolkit
+
+【Primus：通用的分布式调度框架，针对机器学习应用进行管理并控制训练生命周期和数据分布，帮助TensorFlow等训练工具实现大规模分布式训练】'Primus - a generic distributed scheduling framework for machine learning applications’ by bytedance GitHub: github.com/bytedance/primus
+
+### 'HAI Platform - 一种以任务级分时调度GPU算力的高性能深度学习训练平台' 
+High-Flyer AI GitHub: github.com/HFAiLab/hai-platform
+
+【Nanocl：一个分布式系统，简化了容器和虚拟机的管理。提供了容器和虚拟机的测试、部署、扩展、监控和编排功能。Nanocl旨在通过使用Rust技术，简化容器和虚拟机的管理，提供易用性和高效性】'Nanocl - Distributed System that simplifies the management of containers and virtual machines.' Next Hat GitHub: github.com/nxthat/nanocl
+
+【KubeBlocks：开源的云原生数据基础设施，帮助开发者和平台工程师在Kubernetes上管理数据库和分析工作负载。支持多个云服务商，提高DevOps效率】'KubeBlocks - KubeBlocks helps developers and platform engineers manage database workloads (MySQL, PostgresSQL, Redis, MongoDB, Kafka and vector databases) on K8s inside your own cloud account. It supports multiple clouds, including AWS, Azure, GCP, and Alibaba Cloud.' ApeCloud GitHub: github.com/apecloud/kubeblocks
+
+【DevOps平台、工具、实践和相关资源列表】’Awesome DevOps - A curated list of awesome DevOps platforms, tools, practices and resources' Marius Stanca GitHub: github.com/wmariuss/awesome-devops
+
+JumpServer，符合 4A 规范的专业运维安全审计系统，于 2014 年开源，至今仍在持续迭代更新。
+项目界面简洁、功能强大，对于初学者来说也十分容易上手，适合各种规模的运维团队使用。
+GitHub：github.com/jumpserver/jumpserver
+项目主要拥有以下功能：
+- 开源: 零门槛，线上快速获取和安装；
+- 无插件: 仅需浏览器，极致的 Web Terminal 使用体验；
+- 分布式: 支持分布式部署和横向扩展，轻松支持大规模并发访问；
+- 多云支持: 一套系统，同时管理不同云上面的资产；
+- 多租户: 一套系统，多个子公司或部门同时使用；
+- 云端存储: 审计录像云端存储，永不丢失。
+此次之外，JumpServer 还可以帮助企业以更安全的方式管控和登录各种类型的资产。
+包括 Linux/SSH、Windows、数据库、Kubernetes、远程应用在内的一切资产皆可连接，同时还支持事前授权、事中监察、事后审计，符合 4A 规范，满足了等保合规的要求。
+
+【Prem：提供了一个统一的环境，用于开发AI应用并在基础设施上部署AI模型。Prem抽象了所有技术复杂性，为AI部署带来了新的隐私中心化AI应用程序时代】'Prem - Self Sovereign AI Infrastructure - Prem provides a unified environment to develop AI applications and deploy AI models on your infrastructure' GitHub: github.com/premAI-io/prem-app
+
+### 【Dynolog: 性能监控和追踪的遥测守护进程，从系统的不同组件(如Linux内核、CPU、磁盘、Intel PT、GPU等)导出指标】'Dynolog: a performance monitoring daemon for heterogeneous CPU-GPU systems - Dynolog is a telemetry daemon for performance monitoring and tracing. It exports metrics from different components in the system like the linux kernel, CPU, disks, Intel PT, GPUs etc. Dynolog also integrates with pytorch and can trigger traces for distributed training applications.' Meta Incubator GitHub: github.com/facebookincubator/dynolog
+
+【nvshare：一种GPU共享机制，允许多个进程(或在Kubernetes上运行的容器)在同一物理GPU上安全运行，并且每个进程都可以使用整个GPU内存，通过使用系统RAM作为交换空间，透明地启用GPU页面故障来实现】’nvshare: Transparent GPU Sharing Without Memory Size Constraints' George Alexopoulos GitHub: github.com/grgalex/nvshare
+
+【Trippy：结合了traceroute和ping功能的网络分析工具，支持使用多种协议进行追踪，包括ICMP、UDP和TCP】'Trippy - A network diagnostic tool' FujiApple GitHub: github.com/fujiapple852/trippy

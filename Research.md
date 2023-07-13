@@ -354,3 +354,56 @@ https://mathb.in/1?continueFlag=6817c7861421f8b7a171c6db348c259e
 https://www.researchgate.net/publication/321302350_Scholarly_Writing_Outline_for_Thesis_or_Dissertation
 
 'OpenAI Polisher Bob Plugin - 使用 ChatGPT API 给文本进行润色和语法纠错的 Bob 插件，完美代替 Grammarly' yetone GitHub: github.com/yetone/bob-plugin-openai-polisher
+
+【ChatPaper：一款论文总结工具，根据用户输入的关键词，自动在arxiv上下载最新的论文，再利用ChatGPT3.5的API接口的总结能力，将论文总结为固定的格式】’ChatPaper - Use ChatGPT to summary the Arxiv papers.' kaixindelele GitHub: github.com/kaixindelele/ChatPaper
+
+分享一个用GPT4查文献的方法。  
+之前大家都吐槽Chatgpt会给生成假文献，我也遇到过这个问题，就不用他查了。但是今天邻座韩国同学跟我说他最近一直用gpt查文献，他避免上述问题的方式就是加一个简单的限制：can be found on google scholar, with more than xxx citations  
+试了一下，挺管用的 ​​​
+
+【ChatGPT-Paper-Reader：一个简单的界面，可以帮助阅读和总结PDF格式的科研论文，可以在阅读后提出一些问题得到自动解答，基于openai API使用GPT-3.5-turbo模型开发】’ChatGPT-Paper-Reader - a simple interface that helps you to read&summerize research papers in pdf format. You can ask some questions after reading. This interface is developed based on openai API and using GPT-3.5-turbo model.' Chen GitHub: github.com/talkingwallace/ChatGPT-Paper-Reader
+
+'中科院科研工作专用ChatGPT，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能' binary-husky GitHub: github.com/binary-husky/chatgpt_academic
+
+【paper_downloader：论文及补充材料下载工具】’paper_downloader - Download papers and supplemental materials from paper website, such as AAAI, ACCV, AISTATS, COLT, CVPR, ECCV, ICCV, ICLR, ICML, IJCAI, JMLR, NIPS.' SilenceEagle GitHub: github.com/SilenceEagle/paper_downloader
+
+基于 GPT-4 的科学总结
+地址：consensus.app/search/
+这个网站让你可以输入问题，然后它利用GPT-4来帮你找到最贴切的 5-10 篇论文里的答案。目前不支持中文输入。
+
+' ChatGenTitle：使用百万arXiv论文信息在LLaMA模型上进行微调的论文题目生成模型' WangRongsheng GitHub: github.com/WangRongsheng/ChatGenTitle
+
+【Zotero RA：Zotero的AI科研助理】’Zotero RA - Your AI Research Assistant - Zotero Research Assistant Powered by Large Language Models' Fan Li GitHub: github.com/lifan0127/zotero-research-assistant 
+
+ChatPaper，最近集成了一个新能力，可通过 AI 速读 5 万篇 AI 顶会论文。
+github.com/kaixindelele/ChatPaper
+
+【Zotero GPT：Zotero的GPT增强插件，支持语义搜索、自动问答等】'Zotero GPT - GPT Meet Zotero.' Polygon GitHub: github.com/MuiseDestiny/zotero-gpt
+
+“AI 论文速递”
+作者Rick Yu（twitter.com/cosmtrek）有感于 AI 发展太快，写了个小项目 BriefGPT，抓取 Arxiv AI 领域论文，通过 GPT 生成中文标题和论文概要，高亮顶会论文，方便快速筛选。目前抓取了 2023 年论文，后面会补充前几年论文。
+https://briefgpt.xyz/
+
+【Chrome-GPT: 一个强大的AutoGPT智能体程序，利用Langchain和Selenium实现对整个Chrome会话的控制。AutoGPT代理可以交互式地滚动、点击和输入文本，以浏览和操作Web内容。支持Google搜索、长期和短期记忆管理、Chrome动作(描述网页、滚动到元素、单击按钮/链接、输入表单、切换选项卡)等多种特性，并支持多种智能体类型，如Zero-shot、BabyAGI和Auto-GPT。需要安装Chrome和Python > 3.8，设置OpenAI API密钥】'Chrome-GPT: An AutoGPT agent that interacts with Chrome - An AutoGPT agent that controls Chrome on your desktop' Richard He GitHub: github.com/richardyc/Chrome-GPT
+
+LaTex翻译工具，支持谷歌翻译引擎和腾讯翻译引擎，能一键翻译 arxiv 上的大部分（有LaTex源文件的）论文
+🔗github.com/SUSYUSTC/MathTranslate
+
+【MathTranslate：将含有大量数学公式的科研论文在任意语言之间翻译。项目的主要工作是基于纯文字的谷歌翻译实现 LaTeX 文件的翻译，从而最终实现 pdf 的翻译】'MathTranslate - translate scientific papers with math' Jiace Sun GitHub: github.com/SUSYUSTC/MathTranslate
+
+【Elements：科研代码常见问题解决方案，包含几个模块：用于记录数组类型的日志的Logger、不可变的嵌套配置目录Config、类似argparse的命令行标志解析器Flags、类似于pathlib的文件系统抽象Path、用于保存和加载对象的集合Checkpoint、用于收集程序中不同部分的运行时间统计信息的Timer、用于定义在指定时间点运行代码的辅助函数when、用于存储、加载和绘制数据的工具plotting等】’Elements - Building blocks for productive research' Danijar Hafner GitHub: github.com/danijar/elements
+
+【2023更新版Sci-Hub访问指南】《Working Sci-Hub Proxy Links - 2023 - iLovePhD》
+https://www.ilovephd.com/working-sci-hub-proxy-links-updated/
+
+如何才能快乐地做科研？
+https://arxiv.org/abs/2306.05422
+
+Better Notes，需搭配文献管理工具 Zotero 使用。
+该插件开箱即用，集成了论文阅读、段落注释、做笔记、元数据分析、知识输出、AI 写作等功能。
+GitHub：github.com/windingwind/zotero-better-notes
+插件完全开源、免费，支持双链笔记、Markdown 与标记语言，并深度集成了文献管理与阅读功能。
+
+【ChatGPT Prompts for Academic Writing：学术写作提示工程实战指南】’ChatGPT Prompts for Academic Writing - This list of writing prompts covers a range of topics and tasks, including brainstorming research ideas, improving language and style, conducting literature reviews, and developing research plans.' Ahmet Bahaddin Ersoz GitHub: github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing
+
+'ChatGenTitle：使用百万arXiv论文信息在LLaMA模型上进行微调的论文题目生成模型' WangRongsheng GitHub: github.com/WangRongsheng/ChatGenTitl

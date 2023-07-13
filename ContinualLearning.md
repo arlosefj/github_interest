@@ -110,3 +110,5 @@ https://arxiv.org/abs/2209.11629
 【Encord Active：开源主动学习工具包】'Encord Active - The open source active learning toolkit to find failure modes in your computer vision models, prioritize data to label next, and drive data curation to improve model performance.' Encord GitHub: github.com/encord-team/encord-active
 
 【DeepAL+: 深度主动学习工具包】'DeepAL+: Deep Active Learning Toolkit - This is a toolbox for Deep Active Learning’ SineZHAN GitHub: github.com/SineZHAN/deepALplus 
+
+【ContinualLM：聚焦语言模型(LM)的可扩展持续学习框架】'ContinualLM - An Extensible Continual Learning Framework Focused on Language Models (LMs)' UIC-Liu-Lab GitHub: github.com/UIC-Liu-Lab/ContinualLM

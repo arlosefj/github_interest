@@ -1434,3 +1434,75 @@ https://arxiv.org/abs/2302.06353
 
 【半监督语义分割相关文献资源列表】’Awesome-Semi-Supervised-Semantic-Segmentation - A summary of recent semi-supervised semantic segmentation methods' BB CHAN GitHub: github.com/BBBBchan/Awesome-Semi-Supervised-Semantic-Segmentation
 
+[CV]《Open-world Instance Segmentation: Top-down Learning with Bottom-up Supervision》T Kalluri, W Wang, H Wang, M Chandraker, L Torresani, D Tran [Meta AI & UC San Diego] (2023) 
+提出一种新的开放世界实例分割方法，结合自下而上和自上而下的学习，实现了对最先进方法的显著改进。 https://arxiv.org/abs/2303.05503
+
+Grounded-Segment-Anything
+上次推荐的Meta的Segment Anything 微博正文 我把它比喻成AI抠图还是太狭隘了，其实它最强大的还是物体识别，以前在识别物体是都是针对特定物体的识别，而现在Segment Anything的能力是任意物体的识别，不必事先针对某个特定物体的训练
+这带来很多可能，比如说可以应用在自动驾驶帮助识别路面物体，可以在军事上用来标注卫星拍出来的各种目标。
+现在已经有国内的开发者把Segment Anything（从图片识别分离对象）和BLIP（一个图片生成文字模型）、Stable Diffusion（AI画图工具）集成在一起，将图片的“分割”、“检测”和“生成”三种能力组合在一起，产生很多新的有价值的应用场景，比如：
+- 替换图片中的物体生成新的图片
+- 对图片中的物体生成标签
+作者博文：最强Zero-Shot视觉应用：Grounding DINO + Segment Anything + Stable Diffusion
+项目地址：
+🔗 github.com/IDEA-Research/Grounded-Segment-Anything
+
+【Magic Copy：一个 Chrome 扩展程序，利用 Meta 的 "Segment Anything"，从图像中提取前景目标并将其复制到剪贴板】'Magic Copy -一个 Chrome 扩展程序，使用 Meta 的 "Segment Anything" 模型，从图像中提取前景对象并将其复制到剪贴板。.' Kevin Wang GitHub: github.com/kevmo314/magic-copy
+
+【SegDrawer：基于Segment Anything Model (SAM)的简单图片分割静态页面前端】’SegDrawer - Simple static web-based mask drawer, supporting semantic drawing with Segment Anything Model (SAM).' Harry GitHub: github.com/lujiazho/SegDrawer
+
+【Prompt-Segment-Anything：基于Segment Anything的零样本实例分割】’Prompt-Segment-Anything - This is an implementation of zero-shot instance segmentation using Segment Anything.' Rockey GitHub: github.com/RockeyCoss/Prompt-Segment-Anything
+
+'Awesome-Anything - AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask' Gongfan Fang GitHub: github.com/VainF/Awesome-Anything
+
+【Segment Anything EO tools：基于 Meta AI Segment Anything 的地球观测工具】'Segment Anything EO tools - Earth observation tools for Meta AI Segment Anything' Aliaksandr Hancharenka GitHub: github.com/aliaksandr960/segment-anything-eo
+
+【Segment Anything Model (SAM) 相关扩展/项目/应用大列表】’Awesome-segment-anything-extensions - Segment-anything related awesome extensions/projects/repos.' Xiaohao XU GitHub: github.com/JerryX1110/awesome-segment-anything-extensions
+
+’Grounded-Segment-Anything - Marrying Grounding DINO with Segment Anything & Stable Diffusion & BLIP & Whisper' IDEA-Research GitHub: github.com/IDEA-Research/Grounded-Segment-Anything
+
+lama-cleaner
+
+Lama Cleaner：  一个由SOTA AI模型驱动的免费开源图像清理工具 
+这个工具可以本地运行，帮助你擦除图片中你不想要的内容，移除背景、面部修复等工作
+前段时间刚好用过，有gpu版本和cpu版本的，处理速度比较依赖设备，cpu大概十几秒完成一次拔除，rtx3070 2-3s左右完成一次擦除，效果都挺好。本地部署略微麻烦一点，同款替代的在线产品有magic eraser和remove bg，免费免登录的的，效果也很好。
+🔗 github.com/Sanster/lama-cleaner
+
+【Zero-shot panoptic segmentation using SAM：Segment Anything (SAM) + Grounded DINO 零样本目标分割】’Zero-shot panoptic segmentation using SAM - Combining Segment Anything (SAM) with Grounded DINO for zero-shot object detection and CLIPSeg for zero-shot segmentation' Segments.ai GitHub: github.com/segments-ai/panoptic-segment-anything
+
+【Segment Anything相关资源大列表】’Awesome Segment Anything - Tracking and collecting papers/projects/others related to Segment Anything.' Dylan GitHub: github.com/Hedlen/awesome-segment-anything
+
+【Anything-3D：Segment Anything + 3D】’Anything-3D - Segment-Anything + 3D. Let's lift the anything to 3D.' Anything-of-Anything GitHub: github.com/Anything-of-anything/Anything-3D
+
+【napari-segment-anything：SAM的本地Qt UI界面】’napari-segment-anything - Segment Anything Model (SAM) native Qt UI' Jordão Bragantini GitHub: github.com/JoOkuma/napari-segment-anything
+
+【Transformer 视觉分割相关资源列表】’Transformer-Based Visual Segmentation: A Survey' by Xiangtai Li GitHub: github.com/lxtGH/Awesome-Segmenation-With-Transformer
+
+【SAM及相关研究的论文、源代码和工具列表】’Awesome-Segment-Anything - A collection of project, papers, and source code for Meta AI's Segment Anything Model (SAM) and related studies.'  GitHub: github.com/Vision-Intelligence-and-Robots-Group/Awesome-Segment-Anything
+
+提出一种基于单张图像的无需训练的方法，名为PerSAM，用于将Segment Anything Model(SAM)个性化，从而能针对特定的视觉概念进行图像分割，且能够在10秒内进行优化，可在个性化场景中有效自适应SAM。
+https://arxiv.org/abs/2305.03048
+[CV]《Personalize Segment Anything Model with One Shot》R Zhang, Z Jiang, Z Guo, S Yan, J Pan, H Dong, P Gao, H Li [Shanghai Artificial Intelligence Laboratory & Tencent Youtu Lab] (2023)
+
+【Segment Anything(SAM)相关工作列表】’Awesome Segment Anything' by Li Liu GitHub: github.com/liliu-avril/Awesome-Segment-Anything
+
+【SegmentAnything for Microscopy：基于SAM的显微镜分割和跟踪工具】'SegmentAnything for Microscopy - Segment Anything for Microscopy' computational-cell-analytics GitHub: github.com/computational-cell-analytics/micro-sam
+
+【Segment Every Grain：基于 SAM 的谷物(或类似谷物的目标)图像实例分割模型】'Segment Every Grain - A SAM-based model for instance segmentation of images of grains' Zoltán Sylvester Sylvester GitHub: github.com/zsylvester/segmenteverygrain 
+
+### 【SAMIST：使用SAM进行图像分割的Python GUI工具。使用SAMIST，可以选择模型类型、加载图像进行分割，并导出生成的蒙版】’SAMIST - Segment Anything Model (SAM) Image Segmentation Tool - SAMIST. Python GUI for image segmentation using SAM by Meta AI.' Alexander Dibrov GitHub: github.com/dibrale/samist
+
+### Matting Anything Model(MAM)是一个能处理各种类型图像抠图任务的模型，利用了Segment Anything Model(SAM)的特征图，并采用一个轻量的Mask-to-Matte(M2M)模块来预测alpha matte，实验结果表明，MAM在各种图像抠图基准测试中都达到了与专门抠图模型相当的性能。
+https://arxiv.org/abs/2306.05399
+[CV]《Matting Anything》J Li, J Jain, H Shi [UIUC & Oregon] (2023)
+https://github.com/SHI-Labs/Matting-Anything
+
+提出一种加速的替代方法，通过将任务重新构造为风格生成和提示，并直接使用SAM作者发布的SA-1B数据集的1/50来训练现有的实例分割方法，实现了与SAM方法相当的性能，但运行速度快50倍。
+https://arxiv.org/abs/2306.12156
+[CV]《Fast Segment Anything》X Zhao, W Ding, Y An, Y Du, T Yu, M Li, M Tang, J Wang [Chinese Academy of Sciences] (2023) 
+
+### 【SAM Exporter：快速导出Segment Anything模型至不同格式，方便使用，可用于快速推理】'SAM Exporter - Export Segment Anything Models to ONNX' Viet-Anh, Nguyen GitHub: github.com/vietanhdev/samexporter
+
+FastSAM，快速分割一切
+地址：github.com/CASIA-IVA-Lab/FastSAM
+这个项目基于CNN，其性能与 之前Facebook提出的 SAM （分割一切）类似，但运行速度提高了 50 倍。 ​​​

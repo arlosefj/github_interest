@@ -355,3 +355,9 @@ github.com/rwightman/pytorch-image-models
 GitHub：github.com/linyiLYi/pose-monitor
 
 【Hua：Stable Diffusion图像编辑器】’Hua - an AI image editor with Stable Diffusion (and more).' by PENG Bo GitHub: github.com/BlinkDL/Hua
+
+使用Parallel-UNet架构，提出一种基于扩散的方法，实现了在保留服装细节的同时处理复杂的身体姿势变化，达到了最先进的效果。
+https://arxiv.org/abs/2306.08276
+[CV]《TryOnDiffusion: A Tale of Two UNets》L Zhu, D Yang, T Zhu, F Reda, W Chan, C Saharia, M Norouzi, I Kemelmacher-Shlizerman [Google Research & University of Washington] (2023) 
+
+【Live Face Recognition App：实时人脸识别应用，在实时视频流中识别人脸，可在浏览器上运行】'Live Face Recognition App - Simple Live Face Recognition Streamlit App' Martin Knoche GitHub: github.com/Martlgap/livefaceidapp
