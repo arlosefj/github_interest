@@ -1162,3 +1162,8 @@ https://arxiv.org/abs/2304.08069
 【开放词表目标检测相关论文、数据集和资源列表】’Awesome-Open-Vocabulary-Object-Detection - A curated list of papers, datasets and resources pertaining to open vocabulary object detection.' kario GitHub: github.com/witnessai/Awesome-Open-Vocabulary-Object-Detection
 
 【RT-DETR：实时端到端目标检测器】'RT-DETR - official rtdetr, official rt-detr, rtdetr, rt-detr, Real-Time DEtection TRansformer, DETRs Beat YOLOs on Real-time Object Detection' Wenyu GitHub: github.com/lyuwenyu/RT-DETR
+
+【BEVDet的TensorRT推理实现，使用C++编程】'BEVDet implemented by TensorRT, C++ - BEVDet implemented by TensorRT, C++； Achieving real-time performance on Orin' Chuanhao1999
+ GitHub: github.com/LCH1238/bevdet-tensorrt-cpp
+
+ 【基于Transformer的目标检测相关文献资源列表】’Object Detection with Transformers: A Review' by mindgarage-shan GitHub: github.com/mindgarage-shan/transformer_object_detection_survey 

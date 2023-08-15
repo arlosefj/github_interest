@@ -403,3 +403,10 @@ GitHub：github.com/xinyu1205/Recognize_Anything-Tag2Text
 【DLTA-AI：下一代标注工具，整合了计算机视觉最先进模型的强大功能，让标注图像数据集变得比以往更容易，提供无缝的体验和直观的工作流程】'DLTA-AI - Data Labeling, Tracking and Annotation with AI' Usama Ahmed GitHub: github.com/0ssamaak0/DLTA-AI
 
 ### 【visuallayer：简化视觉数据操作，通过visual-layer/visuallayer发现和可视化计算机视觉数据集中的问题，如重复、异常、数据泄漏、错误标签等】'visuallayer - Simplify Your Visual Data Ops. Find and visualize issues with your computer vision datasets such as duplicates, anomalies, data leakage, mislabels and others.'  GitHub: github.com/visual-layer/visuallayer
+
+【That is good data：旨在记录和修正评估数据集中的错误，提供了报告个别样本问题和整个数据集问题的方法】’That is good data' by Hugging Face GitHub: github.com/huggingface/that_is_good_data
+
+【MONAI VISTA：用于医学图像分割的多功能标注与应用平台】'MONAI VISTA - MONAI Versatile Imaging Segmentation and Annotation'  GitHub: github.com/Project-MONAI/VISTA
+
+【大规模自动化数据质量提升：借助Cleanlab Studio等工具，可以自动发现和修复大规模数据中的问题，轻松策划高质量的数据集，以ImageNet数据集为案例研究，展示了Cleanlab Studio等工具如何分析这个包含120万张图像的数据集，找出和修复图像数据集中常见的问题，如错误标签、异常值和近似重复图像，还能从整体上对数据集进行高层次的洞察，如改进本体结构】《Automated Data Quality at Scale》
+https://cleanlab.ai/blog/automated-data-quality-at-scale/

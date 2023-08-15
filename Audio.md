@@ -895,3 +895,18 @@ GitHub：github.com/facebookresearch/audiocraft
 'TTS Generation WebUI (Bark v2, MusicGen, Tortoise, Vocos)' Roberts Slisans GitHub: github.com/rsxdalv/tts-generation-webui
 
 【在不超过2GB VRAM GPU的普通消费硬件上生成和训练短音频样本】'A repository for generating and training short audio samples with unconditional waveform diffusion on accessible consumer hardware (<2GB VRAM GPU)' Christopher Landschoot GitHub: github.com/crlandsc/tiny-audio-diffusion
+
+【PhoneLM：用音素作为输入和音频编解码码字作为输出的文本转语音(TTS)，基于MegaByte、VALL-E和Encodec模型，使用G2P将文本编码为音素，使用encodec对音频进行编码和解码】’PhoneLM - (R&D) Text to speech using phonemes as inputs and audio codec codes as outputs. Loosely based on MegaByte, VALL-E and Encodec.' MiscellaneousStuff GitHub: github.com/MiscellaneousStuff/PhoneLM
+
+【free-music-demixer：免费的客户端静态网站，用于音乐分离(也称为音源分离)，使用了Open-Unmix的AI模型(UMX-L权重)】’free-music-demixer - Open-Unmix (UMX-L) running client-side in the browser with WebAssembly' Sevag H GitHub: github.com/sevagh/free-music-demixer
+
+Memo - AI 驱动的视频、播客转文字、字幕工具
+字幕识别和翻译的工具Memo
+支持多平台，利用Whisper技术识别语音到到字幕，然后可以对识别的字幕进行简单的编辑。
+另外可以对识别的字幕翻译，支持Google翻译和OpenAI（需要自己的API Key）
+界面操作友好，语音识别效果不错，普通句子翻译效果也挺好，不过遇到复杂的句子，不能对字幕合并稍微有点麻烦。
+https://mxmefbp9p0g.feishu.cn/docx/ZI3ldweTXorTvMxYLbucT00Un5n
+
+【RTVC: Real-Time Voice Conversion GUI：实时语音转换(变声)界面】’RTVC: Real-Time Voice Conversion GUI' Fish Audio GitHub: github.com/fishaudio/realtime-vc-gui
+
+【Wordcab Transcribe：用faster-whisper和多尺度自适应谱聚类进行语音识别(ASR)的FastAPI服务】'Wordcab Transcribe- ASR FastAPI server using faster-whisper and Multi-Scale Auto-Tuning Spectral Clustering for diarization.' Wordcab GitHub: github.com/Wordcab/wordcab-transcribe

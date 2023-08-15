@@ -407,3 +407,8 @@ GitHub：github.com/windingwind/zotero-better-notes
 【ChatGPT Prompts for Academic Writing：学术写作提示工程实战指南】’ChatGPT Prompts for Academic Writing - This list of writing prompts covers a range of topics and tasks, including brainstorming research ideas, improving language and style, conducting literature reviews, and developing research plans.' Ahmet Bahaddin Ersoz GitHub: github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing
 
 'ChatGenTitle：使用百万arXiv论文信息在LLaMA模型上进行微调的论文题目生成模型' WangRongsheng GitHub: github.com/WangRongsheng/ChatGenTitl
+
+【peS2o：约4000万篇学术论文集合，经过清理、过滤和格式化，用于语言模型预训练】“allenai/peS2o - a collection of ~40M creative open-access academic papers, cleaned, filtered, and formatted for pre-training of language models · Datasets at Hugging Face”
+https://huggingface.co/datasets/allenai/peS2o
+
+【Mozi(墨子): 科技论文大模型，用于问答和情感支持等任务，通过大规模语言模型和证据检索模型SciDPR提供帮助】’Mozi: A Scientific Large-scale Language Model - Science-LLM' GMFTBY GitHub: github.com/gmftbyGMFTBY/science-llm

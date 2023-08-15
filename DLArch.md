@@ -960,3 +960,9 @@ https://arxiv.org/abs/2306.07303
 提出一种名为Conformer的结构，将卷积层和Transformer结合起来，用于训练大型语言模型，从而有效地提升了模型的性能。
 https://arxiv.org/abs/2307.00461
 [CL]《Conformer LLMs -- Convolution Augmented Large Language Models》P Verma [Stanford University] (2023)
+
+NaViT是一种新的视觉Transformer，通过在训练过程中使用序列打包来处理任意分辨率和宽高比的输入，从而在训练效率、模型适应性和推理灵活性方面超越了传统的Vision Transformer。
+https://arxiv.org/abs/2307.06304
+
+【一种名为Monarch Mixer BERT(M2-BERT)的新架构，通过用Monarch矩阵替代Transformer的主要组成部分，实现了全新的子线性架构，在质量相匹配的情况下，降低了参数数量和FLOPs，有用于处理更长序列的潜力】《Monarch Mixer: Revisiting BERT, Without Attention or MLPs · Hazy Research》
+https://hazyresearch.stanford.edu/blog/2023-07-25-m2-bert

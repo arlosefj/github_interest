@@ -1337,3 +1337,74 @@ llama.cpp现在支持分布式推理，可以运行在树莓派Raspberry Pis集�
 
 ### 一键翻译各类图片内文字，特别适合漫画的翻译，支持DeepL和ChatGPT的API。
 项目代码：github.com/zyddnys/manga-image-translator
+
+LLM是大脑，各种API是手脚，这样AI才能“大展拳脚”。大模型的应用日新月异，推荐微软的TaskMatrix.ai，某认为这将是AI的主流架构
+https://arxiv.org/pdf/2303.16434.pdf
+
+'微调LLAMA的中文指南' chaoyi-wu GitHub: github.com/chaoyi-wu/Finetune_LLAMA
+
+【Xorbits Inference: ：功能强大、多用途的库，旨在为LLM、语音识别模型和多模态模型提供服务，甚至在笔记本电脑上也能使用，支持各种模型组合。Xinference简化了大规模语言、语音识别和多模态模型的服务过程，支持的模型包括baichuan、chatglm、chatglm2、wizardlm、vicuna、orca等】’Xorbits Inference: Model Serving Made Easy - Xorbits Inference (Xinference) is a powerful and versatile library designed to serve LLMs, speech recognition models, and multimodal models, even on your laptop. It supports a variety of models compatible with GGML, such as chatglm, baichuan, whisper, vicuna, orac, and many others.' Xorbits GitHub: github.com/xorbitsai/inference
+
+提出Retentive Network(RETNET)，作为大型语言模型的基础架构，实现了低成本推理、训练并行化和有利的扩展性能。
+https://arxiv.org/abs/2307.08621
+
+【llm-toys：小型(7B 及以下)、面向产品化的微调LLM，，适用于多种使用任务，包括释义、改变段落语气、从对话中生成摘要和主题、检索增强 QA等】’llm-toys - Small(7B and below), production-ready finetuned LLMs for a diverse set of useful tasks.' Kumar Utsav GitHub: github.com/kuutsav/llm-toys
+
+【llama-2可以用Colab试玩起来了】’A colab gradio web UI for running Large Language Models' camenduru GitHub: github.com/camenduru/text-generation-webui-colab
+
+【fastllm：通过docker或modal labs自托管LLM服务集，用于支持应用开发】'fastllm - A collection of LLM services you can self host via docker or modal labs to support your applications development' Jason Liu GitHub: github.com/jxnl/fastllm
+
+【RAGstack：部署一个位于VPC内的私有ChatGPT替代品，可将其连接到组织知识库，用作企业oracle，支持Llama 2、Falcon和GPT4All等开源LLM】'RAGstack - Deploy a private ChatGPT alternative hosted within your VPC. Connect it to your organization's knowledge base and use it as a corporate oracle. Supports open-source LLMs like Llama 2, Falcon, and GPT4All.' Psychic GitHub: github.com/psychic-api/rag-stack
+
+【中文版 Llama2 模型及中英文 SFT 数据集】《LinkSoul/Chinese-Llama-2-7b · Hugging Face》
+https://huggingface.co/LinkSoul/Chinese-Llama-2-7b
+
+【minigpt4.cpp：MiniGPT4的C++移植版】’minigpt4.cpp - Port of MiniGPT4 in C++ (4bit, 5bit, 6bit, 8bit, 16bit CPU inference with GGML)' Henry Zhu GitHub: github.com/Maknee/minigpt4.cpp
+
+【LightLLM：基于Python的LLM推理和服务框架，其轻量化设计、易于扩展和高性能值得注意】'LightLLM - a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.' ModelTC GitHub: github.com/ModelTC/lightllm
+
+【Llama 2本地运行指南：介绍了如何在本地运行和调试Llama 2，不需要互联网连接，提供了三种开源工具在不同设备上运行Llama 2：Llama.cpp适用于Mac/Windows/Linux，Ollama适用于Mac，MLC LLM适用于iOS和Android】《A comprehensive guide to running Llama 2 locally - Replicate – Replicate》
+https://replicate.com/blog/run-llama-locally?continueFlag=dbcfad60de01c63138e323bb44da5fc7
+
+【三步上手 LLaMA2】'Docker LLaMA2 Chat - Play LLaMA2 (official / 中文版 / INT4 / llama2.cpp) Together! ONLY 3 STEPS! ( non GPU / 5GB vRAM / 8~14GB vRAM)' Su Yang GitHub: github.com/soulteary/docker-llama2-chat 
+
+【llama2.c：用纯C语言实现的Llama 2模型推断】'llama2.c - Inference Llama 2 in one file of pure C' Andrej Karpathy GitHub: github.com/karpathy/llama2.c
+
+【llama2-webui：在本地使用Gradio用户界面在GPU或CPU上运行Llama 2，支持Linux/Windows/Mac系统。支持Llama-2-7B/13B/70B模型，支持8位和4位模式】'llama2-webui - Run Llama 2 locally with gradio UI on GPU or CPU from anywhere (Linux/Windows/Mac). Supporting Llama-2-7B/13B/70B with 8-bit, 4-bit. Supporting GPU inference (6 GB VRAM) and CPU inference.' Tom GitHub: github.com/liltom-eth/llama2-webui
+
+'Chinese Llama 2 7B - 开源社区第一个能下载、能运行的中文 LLaMA2 模型' LinkSoul-AI GitHub: github.com/LinkSoul-AI/Chinese-Llama-2-7b
+
+【Secondbrain：跨平台桌面应用程序，可在本机下载和运行大型语言模型(LLM)，允许在本地使用AI对话，无需联网，保护隐私，可自由表达想法】'Secondbrain - Multi-platform desktop app to download and run Large Language Models(LLM) locally in your computer.' Julio Andres GitHub: github.com/juliooa/secondbrain
+
+【llama2.c for Dummies：llama2.c手把手代码解析】’llama2.c for Dummies - Step by step explanation/tutorial of llama2.c' Rahul Shiv Chand GitHub: github.com/RahulSChand/llama2.c-for-dummies
+
+在个人电脑上部署ChatGLM2-6B中文对话大模型
+https://blog.csdn.net/u011236348/article/details/131479974
+
+【TitanML | Takeoff Server：为了优化大型语言模型的推理而设计的服务器，具有易于部署和流式响应、优化的int8量化、聊天和类似试炼场的界面等特性】'TitanML | Takeoff Server' by titanml GitHub: github.com/titanml/takeoff 
+
+【如何微调Transformer】《How to fine-tune a Transformer?》
+https://radekosmulski.com/how-to-fine-tune-a-transformer/
+
+【DevOpsGPT: DevOpsGPT: AI驱动的智能软件开发平台，将 LLM 和 DevOps 工具相结合，通过利用Chat-GPT等大型语言模型的能力，将自然语言需求转化为可工作的软件】'DevOpsGPT: AI-Driven Software Development Automation Solution - Multi agent system for AI-driven software development. convert natural language requirements into working software.' KuafuAI GitHub: github.com/kuafuai/DevOpsGPT
+
+【Llama 2 Powered By ONNX：ONNX优化版Llama 2实现】’Llama 2 Powered By ONNX' by Microsoft GitHub: github.com/microsoft/Llama-2-Onnx
+
+【大型语言模型相关资源列表，关于大型模型训练或服务的系统论文、框架、代码和工具的总结】’Awesome Large Model (LM) System - Summary of system papers/frameworks/codes/tools on training or serving large model' ModelTC GitHub: github.com/ModelTC/awesome-lm-system
+
+【cometLLM：一个Python库，可轻松跟踪和可视化LLM的提示和输出。用户可以识别有效的策略，高效解决问题，并确保可重复的工作流程。通过cometLLM，可以简化流程，充分释放LLM的潜力】'cometLLM - comet llm support' Comet GitHub: github.com/comet-ml/comet-llm
+
+【通义千问大模型系列的70亿参数规模的模型，基于Transformer的大语言模型, 在超大规模的预训练数据上进行训练得到】’Qwen-7B (通义千问-7B) chat & pretrained large language model' Qwen GitHub: github.com/QwenLM/Qwen-7B
+
+'中文儿童情感陪伴大模型“巧板” - 旨在构建一个面向儿童情感陪伴的大模型’ by HIT-SCIR-SC GitHub: github.com/HIT-SCIR-SC/QiaoBan
+
+【Swift Transformers：苹果设备端优化的Transformer，可将大型语言模型如Llama转换至苹果设备上的Core ML格式,从而在iOS和macOS应用中使用】《Releasing Swift Transformers: Run On-Device LLMs in Apple Devices》
+https://huggingface.co/blog/swift-coreml-llm
+
+【LLM实战入门】
+https://www.kaggle.com/code/jhoward/getting-started-with-llms/
+
+中文 LLaMA-2 & Alpaca-2 大模型二期项目 + 本地CPU/GPU训练部署 (ChineseLLaMA-2 & Alpaca-2 LLMs)
+项目：github.com/ymcui/Chinese-LLaMA-Alpaca-2 ​​​
+
+'Llama2 Embeddings FastAPI Service' by Dicklesworthstone GitHub: github.com/Dicklesworthstone/Jeff Emanuel

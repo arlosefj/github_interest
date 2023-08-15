@@ -527,3 +527,7 @@ GitHub：github.com/jumpserver/jumpserver
 【nvshare：一种GPU共享机制，允许多个进程(或在Kubernetes上运行的容器)在同一物理GPU上安全运行，并且每个进程都可以使用整个GPU内存，通过使用系统RAM作为交换空间，透明地启用GPU页面故障来实现】’nvshare: Transparent GPU Sharing Without Memory Size Constraints' George Alexopoulos GitHub: github.com/grgalex/nvshare
 
 【Trippy：结合了traceroute和ping功能的网络分析工具，支持使用多种协议进行追踪，包括ICMP、UDP和TCP】'Trippy - A network diagnostic tool' FujiApple GitHub: github.com/fujiapple852/trippy
+
+【MLOps Python Package：灵活、健壮和高效的Python软件包，用于支持MLOps(机器学习运维)项目】'MLOps Python Package - Kickstart your MLOps initiative with a flexible, robust, and productive Python package.' Médéric Hurier GitHub: github.com/fmind/mlops-python-package
+
+【Incus：现代、安全、功能强大的系统容器和虚拟机管理器，为在容器或虚拟机内运行和管理完整 Linux 系统提供统一体验】'Incus - Powerful system container and virtual machine manager' LXC - Linux Containers GitHub: github.com/lxc/incus

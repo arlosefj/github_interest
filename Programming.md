@@ -280,3 +280,8 @@ https://huggingface.co/TheBloke/WizardCoder-15B-1.0-GPTQ
 【Diaphora：目前最先进的开源程序diffing分析工具，支持汇编、控制流图、符号名和注释移植等，还有独特的功能如并行分析、伪代码启发式算法等】'Diaphora - the most advanced Free and Open Source program diffing tool.' Joxean GitHub: github.com/joxeankoret/diaphora
 
 【Crabviz：支持多种编程语言的交互式调用图生成器】'Crabviz - interactive call graph generator that supports various programming languages' chanhx GitHub: github.com/chanhx/crabviz
+
+【Putting the "You" in CPU：详细介绍计算机从启动到运行程序的全过程，包括程序是否直接在CPU上执行，syscalls的工作原理以及多个程序如何同时运行，旨在向读者解释作者所学到的知识，并提供了章节链接，方便读者查看感兴趣的内容】’Putting the "You" in CPU - A technical explainer by @ kognise of how your computer runs programs, from start to finish.' Hack Club GitHub: github.com/hackclub/putting-the-you-in-cpu
+
+【Linux高级用户指南：内容包括窗口管理器、终端、i3status、nvim、git、fish、壁纸和 Dunst 配置，包管理器的基本用法等】《Linux guide for power users | xnacly - blog》
+https://xnacly.me/posts/2022/linux-for-powerusers/?continueFlag=dbcfad60de01c63138e323bb44da5fc7

@@ -1370,3 +1370,30 @@ https://www.zhihu.com/question/498271491
 
 如何才能快乐地做科研？
 https://www.zhihu.com/question/452940941
+
+大模型功能这么强大，小模型的存在必要性还能体现在哪里？
+https://www.zhihu.com/question/612412439/answer/3121882192
+
+人和大模型的最大差距是什么？
+https://www.zhihu.com/question/612407081/answer/3125806459
+
+How To Do Great Work / 如何做出伟大的工作
+github.com/gantrol/great-work-cn
+
+国内大模型正处于什么阶段，有关键的技术壁垒吗？
+https://www.zhihu.com/question/612412394/answer/3127290605
+
+如何看待“知识图谱真的不行”这种说法？
+https://www.zhihu.com/question/606286309/answer/3132289529
+
+有哪些大模型榜单值得看？如何判断它们的权威性和客观度
+https://www.zhihu.com/question/602929508/answer/3132680986
+
+大模型是参数量越大越好吗？边界在哪里？
+https://www.zhihu.com/question/612411166/answer/3128456512
+
+大模型到底是开源好还是闭源好？
+https://www.zhihu.com/question/615455501/answer/3151147477
+
+LLM大模型的fine-tune如何避免过拟合？
+https://www.zhihu.com/question/604676469/answer/3153913193

@@ -1385,3 +1385,7 @@ GitHub：github.com/1Panel-dev/1Panel
 【Roadmaper - 用代码生成专业路线图(Roadmap)，更高效地创建和更新路线图，便于版本控制和共享】'Roadmaper - a Roadmap as Code (RaC) Tool - Roadmapper - A Roadmap as Code (Rac) python library. Generate professional roadmap diagram using python code.' CS Goh GitHub: github.com/csgoh/roadmapper
 
 【Companion: 基于AI的外语辅导工具，使用OpenAI ChatGPT和Google的文本转语音和翻译技术，可以帮助用户学习外语。用户可以用母语和选择的外语进行写作、对话、阅读和听力练习，并且该工具还可以纠正用户的错误】'Companion: Generative-AI-Powered Foreign-Language Private Tutor - Generative-AI-Powered Foreign-Language Private Tutor' Shaked Zychlinski GitHub: github.com/shakedzy/companion
+
+【Obsidian AI：将AI功能引入Obsidian，提供强大的语义搜索和生成式问答功能】’Obsidian AI - Adding powerful semantic search, generative answers, and other AI tools to Obsidian, using Supabase + OpenAI.' Sudharshan  GitHub: github.com/solderneer/obsidian-ai-tools
+
+【Pop：从终端发送电子邮件】’Pop - Send emails from your terminal' Charm GitHub: github.com/charmbracelet/pop

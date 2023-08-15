@@ -1003,3 +1003,6 @@ https://www.philschmid.de/sagemaker-donut
 【MindOCR：基于MindSpore 框架开发的OCR开源工具箱，集成系列主流文字检测识别的算法、模型，并提供易用的训练和推理工具，可以帮助用户快速开发和应用业界SoTA文本检测、文本识别模型，如DBNet/DBNet++和CRNN/SVTR，满足图像文档理解的需求】'MindOCR - A toolbox of OCR models, algorithms, and pipelines based on MindSpore' MindSpore Lab GitHub: github.com/mindspore-lab/mindocr
 
 '语言模型中文识字率分析' Tao Wang GitHub: github.com/twang2218/vocab-coverage
+
+提出一种新的文档布局分析方法，通过将PDF页面表示为结构化的图，并引入一种轻量图神经网络模型GLAM，实现了与最先进模型的竞争性能，同时具有更小的模型大小和更高的效率。
+https://arxiv.org/abs/2308.02051

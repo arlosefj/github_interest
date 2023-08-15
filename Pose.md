@@ -485,3 +485,6 @@ github.com/tensorlayer/hyperpose
 https://arxiv.org/abs/2211.03375
 
 【openpose-editor：适用于Automatic1111/stable-diffusion-webui 的Openpose Editor 插件，可直接编辑骨骼动作、从图像识别姿态】’openpose-editor - Openpose Editor for AUTOMATIC1111's stable-diffusion-webui' Fkunn1326 GitHub: github.com/fkunn1326/openpose-editor 
+
+DWPose，通过两阶段蒸馏法实现有效的人体全身骨骼姿态预测
+项目地址：github.com/IDEA-Research/DWPose

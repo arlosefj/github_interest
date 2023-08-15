@@ -112,3 +112,6 @@ https://arxiv.org/abs/2209.11629
 【DeepAL+: 深度主动学习工具包】'DeepAL+: Deep Active Learning Toolkit - This is a toolbox for Deep Active Learning’ SineZHAN GitHub: github.com/SineZHAN/deepALplus 
 
 【ContinualLM：聚焦语言模型(LM)的可扩展持续学习框架】'ContinualLM - An Extensible Continual Learning Framework Focused on Language Models (LMs)' UIC-Liu-Lab GitHub: github.com/UIC-Liu-Lab/ContinualLM
+
+提出一种针对CNN的持续学习解决方案--通道级轻量重编程方法，通过任务特定的轻量参数实现新任务的学习和旧任务的保留，提供了更好的稳定性-可塑性权衡，实现了更低的额外参数需求，并在挑战性图像分类任务上实现了最优性能。
+https://arxiv.org/abs/2307.11386

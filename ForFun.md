@@ -606,3 +606,36 @@ Roop，可以一键实现 AI 换脸功能的开源项目，基于 Python 开发�
 GitHub：github.com/s0md3v/roop ​​​
 
 【fashionAI：在线一键换装】’fashionAI - Take a picture of a person, then modify clothing or explore fashion using our AI.'  GitHub: github.com/naklecha/fashionAI
+
+【Stable Doodle：将涂鸦加文字描述转化为动态图像，为各行业的专业人士和爱好者提供了无限的图像创作可能性】《Clipdrop Launches Stable Doodle — Stability AI》
+https://clipdrop.co/stable-doodle
+
+RealChar，可帮助你快速创建、自定义各种 AI 角色。项目主要特性如下：
+- 易于使用：无需编码，即可创建自己的 AI 角色；
+- 可定制化：AI 角色支持个性、背景、声音等属性定制；
+- 实时通信：与 AI 角色实时交谈或发送消息；
+- 多平台：支持 Web、PC、移动端等平台；
+- 模块化：通过各种模块组装，来自定义流程。
+GitHub：github.com/Shaunwei/RealChar
+你可以通过该项目，来定制各种专属的 AI 角色，与名人明星进行任意的对话，交流。
+
+【和喜欢的角色沉浸式对话(ChatGLM2-6B+声音克隆)】’ChatGLM2 Voice Cloning - Chat with any character you like: ChatGLM2-6B+Voice Cloning' Kevin Wang GitHub: github.com/KevinWang676/ChatGLM2-Voice-Cloning
+
+【Al Zebra: 面向儿童的AI数学辅导软件，旨在提供互动学习体验，通过根据孩子之前的回答情况提出逐渐增加难度的问题，验证答案，并为正确解决方案提供逐步解释，帮孩子们学习数学，有智能递进的问题复杂性、逐步解释正确答案以及互动有趣的学习体验等特点】’Al Zebra: AI-Powered Maths Tutor for Kids - Math Tutor for kids' moreshk GitHub: github.com/moreshk/alzebra
+
+【AI Basketball Referee v2.0：AI篮球裁判，旨在提高篮球比赛的公正性，使用经过训练的YOLO机器学习模型，在实时视频中准确识别篮球，并通过YOLO姿态估计检测球员身体的关键点】'AI Basketball Referee v2.0 - AI Basketball Referee' Ayush Pai GitHub: github.com/ayushpai/AI-Basketball-Referee
+
+DreamGenerator：基于Stable Diffusion+ControlNet能根据预设提示“美化”拍照内容的相机，很棒的想法！
+
+【OnnxStream：在树莓派Zero 2上运行Stable Diffusion】’OnnxStream - Running Stable Diffusion on a RPI Zero 2 (or in 260MB of RAM)' Vito Plantamura GitHub: github.com/vitoplantamura/OnnxStream
+
+学习外语时，最好有一个对话环境，可以练习口语。现在有一个 AI 应用，解决了这个问题。
+它目前提供26种语言（包括中文、日文和韩文），你在网页上选择一种，就可以与 AI 进行口语练习了。
+感觉以后国内的外语培训产业，都要被 AI 取代了。 ​​​
+https://www.prettypolly.app
+
+【高质量唇形合成】'High quality Lip sync' Ajay Sainy GitHub: github.com/ajay-sainy/Wav2Lip-GFPGAN
+
+【FaceChain：可以用来打造个人数字形象的深度学习模型工具，仅需要提供最低三张照片即可获得独属于自己的个人形象数字替身】'FaceChain - FaceChain is a deep-learning toolchain for generating your Digital-Twin.' ModelScope GitHub: github.com/modelscope/facechain
+
+'VirtualWife - 一个虚拟主播项目，目前支持在B站进行直播，用户可以自由更换VRM人物模型，大家可以将他作为一个虚拟主播入门demo，在上面扩展自己喜欢功能。' yakami GitHub: github.com/yakami129/VirtualWife

@@ -495,3 +495,7 @@ ffmpeg -i host/input.m3u8 -c copy out.mkv -c copy -f matroska - | ffplay -
 【ZoomVideoComposer：缩放视频生成工具，用于将一组图片制作成缩小或放大的视频，可在几分钟内完成，可设置视频时长、分辨率、帧率、缩放方向和缓动效果，并可选择添加音频】'ZoomVideoComposer - Pyhton script for generating zoom in/out videos from a set of images' Marek Wydmuch GitHub: github.com/mwydmuch/ZoomVideoComposer
 
 【VideoCrafter：文本转视频生成和编辑的工具包】'VideoCrafter - A Toolkit for Text-to-Video Generation and Editing' GitHub: github.com/VideoCrafter/VideoCrafter
+
+【INVE：实时视频编辑解决方案，可以通过将稀疏帧编辑一致地传播到整个视频来辅助视频编辑过程。说白了，就是在视频上画的东西会跟着目标和场景“合理地”动起来，必将成为B站视频创作者的又一利器】《INVE: Interactive Nerual Video Editing》
+https://gabriel-huang.github.io/
+https://arxiv.org/abs/2307.07663

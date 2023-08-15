@@ -173,3 +173,5 @@ Dmlc/dgl: 「Python package built to ease deep learning on graph, on top of exis
 https://github.com/dmlc/dgl
 
 【ivy：机器学习统一框架，支持所有框架，目前支持 Jax，TensorFlow，PyTorch，MXNet 和 Numpy】’ivy - The Unified Machine Learning Framework' GitHub: github.com/unifyai/ivy 
+
+【LightNet：基于流行的darknet平台优化的深度学习框架，旨在为计算机视觉任务创建高效和高速的卷积神经网络，结合了多任务学习、2:4结构稀疏性、通道修剪和后训练量化等多项优化技术，提高了CNN模型的性能】’LightNet - an optimized deep learning framework based on the popular darknet platform. It is optimized to create efficient and high-speed Convolutional Neural Networks (CNNs) for computer vision tasks.' daniel89710 GitHub: github.com/daniel89710/lightNet

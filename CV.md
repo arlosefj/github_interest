@@ -1368,3 +1368,12 @@ https://huggingface.co/spaces/editing-images/ledits
 提出SAM-PT，一种将稀疏点跟踪结合SAM进行视频分割的方法，能有效地处理动态视频中的跟踪和分割问题，并且在各种视频对象分割基准测试中都显示出了强大的零样本性能。
 https://arxiv.org/abs/2307.01197
 [CV]《Segment Anything Meets Point Tracking》F Rajič, L Ke, Y Tai, C Tang, M Danelljan, F Yu [ETH Zurich & HKUST] (2023)
+
+【Mixer：很有创意的图像混合工具】”Mixer - Create images by blending together images and text with AI.“
+https://www.artbreeder.com/create/mixer
+
+【CV基础模型大列表】’Awesome CV Foundational Models' by Awais GitHub: github.com/awaisrauf/Awesome-CV-Foundational-Models 
+
+【CoreML实现的NafNet去模糊模型推理】’NafNet deblur CoreML model - NAFNet model inference using CoreML' Vadim Titko GitHub: github.com/Vadbeg/nafnet-coreml
+
+【Color Diffusion：用扩散模型为黑白图像上色】'Color Diffusion - A diffusion model to colorize black and white images' Erwann Millon GitHub: github.com/ErwannMillon/Color-diffusion

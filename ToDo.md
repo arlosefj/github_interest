@@ -426,3 +426,19 @@ GitHub：github.com/a16z-infra/ai-getting-started ​​​
 'Train and Deploy a Real-Time ML model - Train an ML model to predict crypto prices and deploy it as a REST API.' Pau Labarta Bajo GitHub: github.com/Paulescu/hands-on-train-and-deploy-ml
 
 'YOLOv8 TensorRT C++ Implementation' cyrusbehr GitHub: github.com/cyrusbehr/YOLOv8-TensorRT-CPP
+
+【FlashAttention-2：改进的注意力算法，用于加速注意力计算并减少内存使用，比v1快2倍，比标准注意力快 5-9 倍，在 A100 上达到 225 TFLOPs/s 的训练速度】《FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning》
+https://crfm.stanford.edu/2023/07/17/flash2.html
+
+【AI4S Embedded: 边缘设备上的音频事件识别，旨在通过在边缘设备(如树莓派)上使用卷积网络进行音频事件识别，实现实时音频分析和分类】’AI4S Embedded: Audio Event Recognition on Edge Devices' Gabriel Bibbó GitHub: github.com/gbibbo/ai4s-embedded
+
+【YOLOExplorer：用于快速迭代和处理计算机视觉数据集的工具，支持使用简单的API进行SQL筛选、向量语义搜索以及与Pandas的本地接口等功能】'YOLOExplorer - YOLOExplorer : Iterate on your YOLO / CV datasets using SQL, Vector semantic search, and more within seconds' LanceDB GitHub: github.com/lancedb/yoloexplorer
+
+【"Segment Anything"和"MobileSAM”的C++封装，运行时无Python依赖】’Segment Anything CPP Wrapper - a pure C++ inference api for Segment Anything and MobileSAM, with no dependence on Python during runtime' by dinglufe GitHub: github.com/dinglufe/segment-anything-cpp-wrapper
+
+【可视化解释Stable Diffusion的工作原理，一步一步展示文本提示是如何生成图像的】“Diffusion Explainer - Learn how Stable Diffusion transformsyour text promptintoimage!” GitHub: github.com/poloclub/diffusion-explainer
+
+【Rapid Latex OCR：将公式图像转为latex格式的工具】'Rapid Latex OCR - Convert images of equations into LaTeX code' RapidAI GitHub: github.com/RapidAI/RapidLatexOCR
+
+【用Huggingface Transformers来优化文本转语音(TTS)模型，以提高推理速度和内存使用效率】《Optimizing Bark using Huggingface Transformers》
+https://huggingface.co/blog/optimizing-bark

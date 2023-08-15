@@ -1848,3 +1848,26 @@ http://aicoco.net/s/33
 【SEEChat - 一见多模态对话模型，一个侧重视觉能力的多模态对话大模型，基于单模态专家缝合路线，重点是将视觉能力与文本对话能力相集成】’SEEChat - Multimodal chatbot with computer vision capabilities integrated' 360 AI Research Institute GitHub: github.com/360CVGroup/SEEChat 
 
 'Visual-Chinese-LLaMA-Alpaca（VisualCLA）- 基于中文LLaMA&Alpaca大模型项目开发的多模态中文大模型。VisualCLA在中文LLaMA/Alpaca模型上增加了图像编码等模块，使LLaMA模型可以接收视觉信息' by Ziqing Yang GitHub: github.com/airaria/Visual-Chinese-LLaMA-Alpaca
+
+【VisualRWKV：RWKV语言模型的视觉增强版本，使RWKV能够处理各种视觉任务】'VisualRWKV - the visual-enhanced version of the RWKV language model, enabling RWKV to handle various visual tasks.' Haowen Hou GitHub: github.com/howard-hou/VisualRWKV
+
+'PaddleMIX：基于飞桨的跨模态大模型开发套件，聚合图像、文本、视频等多种模态，覆盖视觉语言预训练，文生图，文生视频等丰富的跨模态任务。提供开箱即用的开发体验，同时满足开发者灵活定制需求，探索通用人工智能' by PaddlePaddle GitHub: github.com/PaddlePaddle/PaddleMIX
+
+【AI fashion assistant：将计算机视觉模型和LLM结合起来，以实现高级图像数据集查询】’AI fashion assistant - Our idea is to combine the power of computer vision model and LLMs. We use YOLO, CLIP and DINOv2 to extract high-level features from images. We pass the prompt, along with the extracted features, to LLM, allowing for advanced image dataset queries.' Piotr Skalski GitHub: github.com/SkalskiP/fashion-assistant
+
+【LLM Engine：一个开源引擎，用于微调和提供大型语言模型的服务，是定制和提供LLM的最简单方式】’LLM Engine - Scale LLM Engine public repository' Scale GitHub: github.com/scaleapi/llm-engine
+
+【多模态推理相关文献资源列表】’Awesome Multimodal Reasoning - Collection of papers and resources on Multimodal Reasoning, including Vision-Language Models, Multimodal Chain-of-Thought, Visual Inference, and others.' Armando Fortes GitHub: github.com/atfortes/Awesome-Multimodal-Reasoning
+
+【Starlight Vision：多模态AI模型，可以使用文本、图像或视频片段作为输入，生成高质量的新颖视频内容。该模型利用先进的深度学习技术合成逼真而令人印象深刻的视频，可用于电影制作、广告、虚拟现实等多种应用】'Starlight Vision - A multi-modal AI Model that can generate high quality novel videos with text, images, or video clips.' Eternal Reclaimer GitHub: github.com/kyegomez/StarlightVision
+
+【Transformer网络架构全面解析：详细解析了Transformer的各个关键组成部分，从注意力机制到编-解码器结构，探讨了利用Transformer的大型语言模型在自然语言处理之外的应用，探讨了该架构当前面临的挑战以及未来的发展方向，文章还提供了一份开源实现和其他补充资源的精选列表】《The Transformer Blueprint: A Holistic Guide to the Transformer Neural Network Architecture》
+https://deeprevision.github.io/posts/001-transformer/
+
+综述了新兴的视觉和语言基础模型，强调了它们在计算机视觉中的重要性和潜力。
+https://arxiv.org/abs/2307.13721
+
+'Chinese LLaVA - 支持中英文双语视觉-文本对话的开源可商用多模态模型' LinkSoul-AI GitHub: github.com/LinkSoul-AI/Chinese-LLaVA
+
+探究了文本模型中的多模态神经元，发现这些神经元能够将图像信息转换为文本描述，并对图像描述生成产生系统性影响。
+https://arxiv.org/abs/2308.01544

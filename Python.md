@@ -1016,3 +1016,5 @@ https://quickref.me/python
 【pyobsplot：一个工具，可以在Jupyter笔记本、VSCode笔记本、Google Colab和Quarto文档中使用Observable Plot创建图表】'pyobsplot - Observable Plot in Jupyter notebooks and Quarto documents' Julien Barnier GitHub: github.com/juba/pyobsplot
 
 【Jupyter Real-Time Collaboration：支持Y documents的Jupyter实时协作插件，可在JupyterLab中添加协作UI元素】'Jupyter Real-Time Collaboration - A Jupyter Server Extension Providing Support for Y Documents' JupyterLab GitHub: github.com/jupyterlab/jupyter_collaboration
+
+【st-paywall：用于在Streamlit应用中创建付费(订阅)功能的Python包，可以帮助数据科学家和开发人员围绕Streamlit应用创建小型业务】’st-paywall - A python package for creating subscription Streamlit apps' Tyler Richards GitHub: github.com/tylerjrichards/st-paywall

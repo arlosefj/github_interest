@@ -951,3 +951,5 @@ https://sebastianraschka.com/blog/2023/pytorch-faster.html
 【StarLight：帮助实现轻量深度神经网络的开源项目，主要包含三个模块：网络压缩、神经架构搜索和可视化，还提供了一个方便的工具 QuiverPyTorch，用于可视化任意网络的中间特征】'StarLight - helps in obtaining lightweight deep neural networks’ by ICT-ANS GitHub: github.com/ICT-ANS/StarLight
 
 【SSLRec: 基于PyTorch的深度学习框架，通过自监督学习技术增强了推荐系统，包含常用数据集、数据处理、训练、测试、评估和最先进的研究模型的代码脚本，提供了大量实用函数和易于使用的界面，简化了推荐模型的开发和评估过程】’SSLRec: A Self-Supervised Learning Library for Recommendation - SSLRec: A Self-Supervised Learning Library for Recommendation' HKUDS GitHub: github.com/HKUDS/SSLRec
+
+'torchkeras：通用的pytorch模型训练模版工具，旨在提供优雅、易用且易于修改的训练工具，支持进度条、评估指标、early stopping等功能，同时还支持tensorboard和wandb回调函数等扩展功能’ lyhue1991 GitHub: github.com/lyhue1991/torchkeras

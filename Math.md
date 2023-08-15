@@ -120,3 +120,5 @@ http://textbooks.math.gatech.edu/ila/
 
 【你一直想知道的关于数学的一切：此书由布兰登·W·沙利文(Brendan W. Sullivan)撰写，他是CMU数学科学系的博士生，这本书也是他博士论文的一部分。此书的目的是引导读者进入抽象数学和证明写作的世界，帮助他们培养数学思维和表达能力。主要内容分为两部分：学习数学思维和学习数学主题。每一部分包含几个章节，每个章节都有定义、定理、例子、练习和小测验，涵盖了集合、逻辑、归纳法、关系、函数、基数和组合数学等主题，这些主题是抽象数学的基础和工具。该书风格轻松幽默，既有严谨的证明，也有趣味性的问题，旨在激发读者的兴趣和好奇心】《Everything You Always Wanted To Know About Mathematics - A Guided Journey Into the World of Abstract Mathematics and the Writing of Proofs》by Brendan W. Sullivan
 https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf
+
+【线性代数的艺术可视化图释中文版】'The-Art-of-Linear-Algebra - Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"' Kefang Liu GitHub: github.com/kf-liu/The-Art-of-Linear-Algebra-zh-CN

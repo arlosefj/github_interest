@@ -1885,3 +1885,7 @@ https://arxiv.org/abs/2306.04719
 【Pezzo：开的AI开发工具包，旨在简化提示设计、版本管理、发布、协作、故障排除、可观察性等功能】'Pezzo - an open-source AI development toolkit designed to streamline prompt design, version management, publishing, collaboration, troubleshooting, observability and more.' Pezzo GitHub: github.com/pezzolabs/pezzo
 
 【HuggingFace Model Downloader：HuggingFace模型下载器，从HuggingFace网站下载模型/数据集的实用工具，提供了多线程下载LFS文件的能力，并通过检查SHA256校验和确保已下载模型的完整性】'HuggingFace Model Downloader - Simple go utility to download HuggingFace Models and Datasets' bodaay GitHub: github.com/bodaay/HuggingFaceModelDownloader
+
+【DataGradients：开源的Python库，专门用于计算机视觉数据集分析。它可以自动从数据集中提取特征并将它们合并到一个用户友好的报告中，支持图像级评估、类别分布分析、热力图生成等功能】'DataGradients - Computer Vision dataset analysis' deci.ai GitHub: github.com/Deci-AI/data-gradients
+
+【OpenModelZ：能在任意集群上(如GCP、AWS、Lambda labs、个人实验室甚至单台机器)一键式部署机器学习模型的工具】'OpenModelZ - One-click machine learning deployment (LLM, text-to-image and so on) at scale on any cluster (GCP, AWS, Lambda labs, your home lab, or even a single machine).' TensorChord GitHub: github.com/tensorchord/openmodelz

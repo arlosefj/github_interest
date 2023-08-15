@@ -91,3 +91,5 @@ GitHub 上的开源技术资源：《标准 C++ 算法指南完整版》，覆�
 GitHub：github.com/HappyCerberus/book-cpp-algorithms ​​​​
 
 【allocscope：调试工具，用于追踪在 C、 C + + 或 Rust 代码库中出现最大内存分配的地方】'allocscope - a tool for tracking down where the most egregiously large allocations are occurring in a C, C++ or Rust codebase' Matt Kimball GitHub: github.com/matt-kimball/allocscope 
+
+【Bark语音合成推理部分的C/C++移植版】’Port of Suno AI's Bark in C/C++ for fast inference' PAB GitHub: github.com/PABannier/bark.cpp

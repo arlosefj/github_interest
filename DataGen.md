@@ -791,3 +791,7 @@ https://deepshot.ai/
 源码：github.com/sizhean/panohead
 
 【Stability AI的生成式模型】’Generative Models by Stability AI' Stability AI GitHub: github.com/Stability-AI/generative-models
+
+【在仅有1GB VRAM的GPU上运行Stable Diffusion】'Tiny optimized Stable-diffusion that can run on GPUs with just 1GB of VRAM.' ThisisBillhe GitHub: github.com/ThisisBillhe/tiny-stable-diffusion
+
+【Segmind-Distill-SD：基于知识蒸馏更小更快的Stable Diffusion版本】'Segmind-Distill-SD - 知识蒸馏，较小的稳定扩散版本' Segmind GitHub: github.com/segmind/distill-sd
