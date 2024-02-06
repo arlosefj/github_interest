@@ -729,3 +729,5 @@ https://arxiv.org/abs/2207.11243v1
 【facetorch：人脸检测分析库】’facetorch - Python library for analysing faces using PyTorch' Tomas Gajarsky GitHub: github.com/tomas-gajarsky/facetorch
 
 【Face Editor：Stable Diffusion生成人像的脸部修复工具】’Face Editor - Face editor for Stable Diffusion' KAWAKAMI Shinichi GitHub: github.com/ototadana/sd-face-editor
+
+【FaceFusion：下一代换脸和人脸增强器】'FaceFusion - Next generation face swapper and enhancer' GitHub: github.com/facefusion/facefusion

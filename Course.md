@@ -381,3 +381,25 @@ https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ
 - 总课时均为期 12 周，共 24 节，让你可以合理安排学习计划；
 - 每个课程均附有项目实战开发讲解，强调实践出真知；
 - 每节课均附有测验说明、草图笔记、作业任务等内容，助你更系统、更全面的掌握课程内容。
+
+【François Fleuret深度学习全套课程资源(讲义/视频/教材/虚拟机)】《UNIGE 14x050 – Deep Learning - slides, recordings, and a virtual machine for François Fleuret's deep-learning courses 14x050 of the University of Geneva, Switzerland》
+https://fleuret.org/dlc/
+
+《深度学习系统&人工智能系统》
+地址：github.com/chenzomi12/DeepLearningSystem
+这个开源项目英文名字叫做 Deep Learning System 或者 AI System(AISys)，中文名字叫做 深度学习系统 或者 AI系统。
+本开源项目主要是跟大家一起探讨和学习人工智能、深度学习的系统设计，而整个系统是围绕着 ZOMI 在工作当中所积累、梳理、构建 AI 系统全栈的内容。希望跟所有关注 AI 开源项目的好朋友一起探讨研究，共同促进学习讨论。
+
+开放式机器学习课程：mlcourse.ai
+https://mlcourse.ai/book/index.html
+
+在线课：程序员的实用深度学习 
+https://course.fast.ai/
+
+【华盛顿大学《深度神经网络应用》课程资料】’T81 558:Applications of Deep Neural Networks - T81-558: PyTorch - Applications of Deep Neural Networks washington University in St. Louis' Jeff Heaton GitHub: github.com/jeffheaton/app_deep_learning
+
+'手把手带你实战 Huggingface Transformers 课程视频&资料’ zyds GitHub: github.com/zyds/transformers-code 
+
+昆士兰大学的公开课《程序员实用深度学习 2022》
+地址：course.fast.ai/
+这个免费课程是为具有一定编码经验、想要学习如何将深度学习和机器学习应用于实际问题的人（和兔子！）而设计的。 ​​​

@@ -567,3 +567,6 @@ https://arxiv.org/abs/2212.03406
 'ONNX-FastACVNet-Stereo-Depth-Estimation - Python scripts performing stereo depth estimation using the Fast-ACVNet model in ONNX.' Ibai Gorordo GitHub: github.com/ibaiGorordo/ONNX-FastACVNet-Depth-Estimation
 
 【PaddleDepth：飞桨深度信息增强开发套件】'PaddleDepth - a lightweight, easy-to-extend, easy-to-learn, high-performance, and for-fair-comparison toolkit based on PaddlePaddle for depth information argumentation’ by PaddlePaddle GitHub: github.com/PaddlePaddle/PaddleDepth
+
+【3D网格模型资源集】’compilation-of-3d-mesh-model-resources
+ - A compilation of 3D mesh models found on the web for research purposes' Zeeshan Khan Suri GitHub: github.com/zshn25/compilation-of-3d-mesh-model-resources

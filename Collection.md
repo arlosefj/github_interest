@@ -120,3 +120,16 @@ https://ciechanow.ski/
 
 解谜英语语法
 https://www.yinwang.org/blog-cn/2018/11/23/grammar
+
+全国标准信息公共服务平台：
+https://std.samr.gov.cn/
+
+国家标准全文公开系统
+https://openstd.samr.gov.cn/bzgk/gb/index
+
+中国古典学术资源导航：www.yanhainav.cn
+包含数字资源、古籍文献、宗教文献、文字学、语言学、古籍整理、老地图多个类别……每一类下面都收藏了多个相关网站，需要的保存。 ​​​
+
+IT Book.store：
+https://itbook.store/books/free
+一个IT、编程和计算机科学书籍下载平台，还提供科学杂志和期刊等内容。大部分书籍都可以直接免费下载，质量较高，纯英文。 ​​​

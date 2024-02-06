@@ -442,3 +442,77 @@ https://crfm.stanford.edu/2023/07/17/flash2.html
 
 【用Huggingface Transformers来优化文本转语音(TTS)模型，以提高推理速度和内存使用效率】《Optimizing Bark using Huggingface Transformers》
 https://huggingface.co/blog/optimizing-bark
+
+【LLaMa.cpp深度解析：讨论了使用原生C++对LLaMa推理代码进行重写，并通过一些优化和权重量化，实现在多种硬件上本地运行LLM(Large Language Model)。探讨了GPU在深度学习中的作用，指出其在内存带宽和计算能力方面的优势。对于运行LLMa的推理性能，文中进行了一些粗略的计算，涉及模型参数、内存需求、矩阵乘法等，着重强调了内存带宽在Transformer模型的采样中是限制因素，而减少模型的内存需求(如量化)对于提高服务效率很重要。介绍了在不同硬件上运行LLMa的预期性能，如A100、M1 MacBook Air和Raspberry Pi 4等。最后，强调了蒸馏和训练更小模型的重要性】《How is LLaMa.cpp possible?》
+https://finbarr.ca/how-is-llama-cpp-possible/
+
+【最新扩散模型论文集，涵盖视觉文本生成、字体生成、文本消除、文本图像超分辨率、文本编辑和手写生成等】’Recommendations of Diffusion for Text-Image - A paper collection of recent diffusion models for text-image generation tasks, e,g., visual text generation, font generation, text removal, text image super resolution, text editing, and handwritten generation.' Zhenhua Yang GitHub: github.com/yeungchenwa/Recommendations-Diffusion-Text-Image
+
+【Youtube-to-Webpage：根据Youtube视频及对应转录文字生成视频图文解说页面的Perl脚本】’Youtube-to-Webpage - I learn much better from text than from videos' Jesse Vincent GitHub: github.com/obra/Youtube2Webpage
+
+【为什么GPU特适合深度学习？】
+- GPU相较于CPU更快的原因在于其高效的矩阵乘法和卷积运算，但很少有人解释了为什么会如此。
+- GPU之所以快，是因为其内存带宽，而不仅仅是并行计算。CPU以低延迟为优化目标，而GPU则以高带宽为优化目标。
+- CPU可以迅速获取RAM中的少量内存(包)，而GPU在此方面速度较慢(延迟较高)。然而，GPU可以一次获取更多的内存。
+- GPU之所以能在大内存块上提供最佳内存带宽，是因为线程并行性掩盖了延迟，使得GPU在大数据块上提供高带宽，同时不受延迟的影响。
+- GPU的寄存器内存比CPU多30多倍，速度则达到了两倍。这意味着GPU可以存储大量数据在寄存器和L1缓存中，以便复用卷积和矩阵乘法的片。
+- GPU的寄存器和L1缓存更易于编程，这使得它们在深度学习中非常适用。
+- 性能瓶颈主要取决于内存访问，因此GPU之所以快速适用于深度学习，是因为其高带宽主存储、线程并行性隐藏内存访问延迟，以及大而快的寄存器和L1缓存。
+《Tim Dettmers's answer to Why are GPUs well-suited to deep learning? - Quora》
+https://www.quora.com/Why-are-GPUs-well-suited-to-deep-learning/answer/Tim-Dettmers-1
+
+ICCV2023 Demo集
+https://huggingface.co/collections/ICCV2023/iccv-2023-demos-651dce77682adc4dcf303450
+
+《多模态和多模态大模型 (LMM) | Multimodality and Large Multimodal Models (LMMs)》这篇文章非常赞👍🏻 基本讲清楚了多模态和多模态大模型（LMMs）。
+https://huyenchip.com/2023/10/10/multimodal.html
+文章主要分三部分：
+- 第一部分涵盖了多模态的背景，包括为什么要使用多模态、不同的数据模态以及多模态任务的类型。
+- 第二部分深入探讨了多模态系统的神奇之处。通过 CLIP 这个例子，我们可以看到它如何为未来的系统铺平了道路；而 Flamingo 的出色表现，则为 LMMs 这类技术带来了新的启示。
+- 第三部分带我们走进 LMMs 的研究前沿，看看如何生成多模态的结果，以及如何更高效地进行多模态训练。当然，还会介绍一些新晋的多模态技术，例如 BLIP-2、LLaVA、LLaMA-Adapter V2 和 LAVIN。
+
+【Can my GPU run this LLM?：用于计算在训练或推理大型语言模型（LLM）时所需的GPU内存的工具，包括详细的内存分配情况。工具支持不同的量化技术，包括GGML和bnb（bitsandbytes），以帮助用户选择适合其GPU的模型量化方式】'Can my GPU run this LLM? - Calculate GPU memory requirement & breakdown for training/inference of LLM models. Supports ggml/bnb quantization' Rahul Shiv Chand GitHub: github.com/RahulSChand/gpu_poor
+
+【The Interactive Transformer：用于理解和解释Transformer的可视化界面】'The Interactive Transformer - A visual interface for understanding and interpreting Transformers' Yi Zhe Ang GitHub: github.com/yizhe-ang/interactive-transformer
+
+产品级深度学习系统入门指南
+地址：github.com/alirezadir/Production-Level-Deep-Learning
+本文可以作为一篇工程指南去构建一个产品级的深度学习系统，并且该系统可以部署在真实的生产环境中。
+
+《高并发的哲学原理 Philosophical Principles of High Concurrency》简称《PPHC》
+https://pphc.lvwenhan.com/?continueFlag=d2d539229d1229db64d5eb77e293b25d
+
+《Ollama —— 在本地启动并运行大语言模型》
+项目地址：https://www.oschina.net/p/ollama
+Ollama 是一款命令行工具，可在 macOS 和 Linux 上本地运行 Llama 2、Code Llama 和其他模型。目前适用于 macOS 和 Linux，并计划支持 Windows。
+Ollama 目前支持近二十多个语言模型系列，每个模型系列都有许多可用的 "tags"。Tags 是模型的变体，这些模型使用不同的微调方法以不同的规模进行训练，并以不同的级别进行量化，以便在本地良好运行。量化级别越高，模型越精确，但运行速度越慢，所需的内存也越大。
+
+### 【flopth：可以计算和可视化Pytorch模型的FLOPs和参数数量，提供了方便的命令行工具和Python API来展示每层的信息，支持输入有多个张量,模型初始化的参数,以及每个层占总算力和参数的比例】’flopth - A simple program to calculate and visualize the FLOPs and Parameters of Pytorch models, with handy CLI and easy-to-use Python API.' Yunfeng Wang GitHub: github.com/vra/flopth
+
+【机器学习和深度学习应避免的7种错误】
+- 使用低质量数据——缺失数据、噪音数据、不具代表性的数据都会降低模型性能。   
+- 忽略离群值——离群数据点会对模型产生较大影响，需要妥善处理。   
+- 数据集太大或太小——数据集需要适中且高质量，过大或过小会导致过拟合或欠拟合。   
+- 使用性能不足的硬件——深度学习需要高性能计算资源，使用老旧系统会限制性能。   
+- 集成错误——需要谨慎地将深度学习技术集成到旧系统中。   
+- 重复使用单一模型——应该训练和评估多个模型，获得更全面的结果。   
+- 首个模型就想要最佳效果——不同模型各有擅长，需要迭代和变化来获得鲁棒结果。
+https://www.exxactcorp.com/blog/Deep-Learning/7-Common-Machine-Learning-and-Deep-Learning-Mistakes-and-Limitations-to-Avoid
+
+【GraphWriter：为Tensorboard SummaryWriter提供的强大、交互式及视觉友好的封装，可在终端提供实时训练监控和统计分析功能，为深度学习训练工作提供了一站式实时可视化解决方案】’GraphWriter - A wrapper for TensorBoard SummaryWriter with real-time terminal visualization using the Rich library.' STAS Nicolas GitHub: github.com/COLVERTYETY/GraphWriter
+
+[LG]《Simplifying Transformer Blocks》https://arxiv.org/abs/2311.01906
+通过信号传播理论和实证观察，提出一种简化Transformer模块的方法，移除了多个组件，提高了训练吞吐量并减少了参数数量。
+
+【LLaVaVision：用llama.cpp/llava实现的简单摄像头画面描述App】’LLaVaVision - A simple "Be My Eyes" web app with a llama.cpp/llava backend' Aleksey Smolenchuk GitHub: github.com/lxe/llavavision
+
+提出一种统一的神经架构，用于视觉识别和推理，通过系统研究不同的视觉识别任务对推理能力的影响，发现目标检测对推理任务最有益，并展示了隐式的物体中心表示的生成。
+https://arxiv.org/abs/2311.06386
+[CV]《Towards A Unified Neural Architecture for Visual Recognition and Reasoning》C Luo, B Gong, T Chen, C Sun [Google & Brown University] (2023)
+
+Dify 是一个 LLM 应用开发平台，融合了 Backend as Service 和 LLMOps 的理念。使用 Dify，你可以基于任何模型自部署类似 Assistants API 和 GPTs 的能力。
+github.com/langgenius/dify ​​​
+
+[CV] MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training  
+https://arxiv.org/abs/2311.17049
+提出一种节能和实时性能强的图像文本模型MobileCLIP及其训练方法。MobileCLIP使用混合卷积-Transformer结构的图像和文本编码器，实现了低延迟且高准确度。提出一种多模态增强训练方法，利用图像解释模型生成的合成字幕和集成老师模型的向量来帮助训练，显著提高了学习效率。MobileCLIP共设计了S0、S1、S2和B四个变体，它们在延迟和容量上实现了不同水平的平衡。其中S0变体的延迟相比标准的ViT-B/16基于CLIP模型小5倍，但平均准确度保持一致。文章还显示，在1B级训练规模下，MobileCLIP-B实现了多项指标的新领先水平。总体而言，本文通过混合卷积-Transformer结构设计了移动端优化的图像文本模型MobileCLIP，提出利用合成字幕和集成知识增强训练数据集的方法，实现了灵活平衡延迟和准确度的网络变体。文章证明MobileCLIP家族在零样本分类和检索任务上取得了领先性能，为移动端部署机器学习服务提供了有意义的实践。

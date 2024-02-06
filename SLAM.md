@@ -185,3 +185,11 @@ github.com/belosthomas/libCML
 【PointSLOT：用于在动态环境中同时定位和跟踪目标的开源系统】’PointSLOT - An open source system for simultaneous localization and object tracking in dynamic environment' pkzhou GitHub: github.com/pkzhou/PointSLOT
 
 'DockerSLAM - User-friendly Docker images for SLAM' nowroad GitHub: github.com/HyeonJaeGil/DockerSLAM
+
+### 【Slam Tricks：SLAM中常用到的一些算法和小技巧】'Slam Tricks - small, powerful and beautiful slam tricks with theory and practice' Unsigned-Long GitHub: github.com/Unsigned-Long/slam-tricks
+![](https://wx3.sinaimg.cn/mw690/5396ee05ly8hheqmr6nvwj20qy0fpjt2.jpg)
+
+【slamplay：用C++实现的SLAM工具集】’slamplay - slamplay is a collection of powerful tools to start playing and experimenting with SLAM in C++' 
+Luigi Freda GitHub: github.com/luigifreda/slamplay
+
+【ROS SAM：SAM分割模型的ROS封装】’ROS SAM - ROS wrapper for Meta's Segment-Anything model' robot-UFR Robot Learning GitHub: github.com/robot-learning-freiburg/ros_sam

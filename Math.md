@@ -122,3 +122,6 @@ http://textbooks.math.gatech.edu/ila/
 https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf
 
 【线性代数的艺术可视化图释中文版】'The-Art-of-Linear-Algebra - Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"' Kefang Liu GitHub: github.com/kf-liu/The-Art-of-Linear-Algebra-zh-CN
+
+分享一个数学纪录片的网站
+https://cosmolearning.org/mathematics/documentaries/

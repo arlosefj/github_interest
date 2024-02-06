@@ -418,3 +418,14 @@ https://speakerdeck.com/gpeyre/the-mathematics-of-neural-networks/
 - 原则 4: 不仅要考虑如何构建，还要考虑如何维护
 这些原则绝大部分时候都可以很好的帮助我们做出正确的决策，避免踩坑。但我也会一直在反思曾经做过的决策，对于做出的不太好的决策，会反过来考虑是否要修订这些原则，最终通过不断完善决策原则，帮助我和团队更好的做出技术决策。
 最后，推荐一下左耳朵耗子写的一篇：《我做系统架构的一些原则》我做系统架构的一些原则 ，非常有借鉴和参考价值。
+
+【老师/教育工作者如何用好ChatGPT】
+- 教师如何使用ChatGPT：分享了一些教师如何使用ChatGPT来加速学生学习的故事，以及一些帮助教育者开始使用这个工具的提示。还提供了一个新的FAQ，包含了一些领先的教育组织关于如何用AI教学和学习的资源，一些新的AI驱动的教育工具的例子，以及一些教师关于ChatGPT的工作原理、局限性、AI检测器的有效性和偏差等常见问题的答案。
+- ChatGPT的用途：文章介绍了不同领域和水平的教师如何利用ChatGPT来帮助学生理解材料、提高英语能力、制作测验和课程计划、开展辩论和讨论等。文章给出了一些具体的例子，如使用ChatGPT作为特定角色的替代者、作为教学辅助工具、作为翻译助手、作为超级导师等。
+- ChatGPT的使用提示：文章提供了一些可以复制粘贴到ChatGPT中的提示，让教育者可以尝试使用它。这些提示包括让ChatGPT扮演一个友好而有用的教学指导员、一个清晰而简单地解释概念和例子的教学设计师、一个展示自己知识水平的学生、一个通过解释和提问帮助学生理解概念的导师等。文章还提醒教师注意ChatGPT可能不总是产生正确或可靠的信息，需要批判性地思考是否应该信任它，并通过其他主要资源来确认信息。文章的目标是帮助教育者“理解不断提高他们原始的批判性思维、问题解决和创造力技能的重要性”。
+https://openai.com/blog/teaching-with-ai?continueFlag=00e04aadc24a9613f7588f221fdef879
+
+【用矩阵运算3D可视化工具mm可视化矩阵乘法、注意力机制等】《Inside the Matrix: Visualizing Matrix Multiplication, Attention and Beyond | PyTorch》
+https://pytorch.org/blog/inside-the-matrix/
+
+【uneebee：面向教育领域的开源互动课程平台，采用Elixir和Phoenix等技术框架设计，提供创建和管理在线课程的功能，帮助学校和个人开发者打造类似Duolingo的学习体验】'uneebee - Platform for creating interactive courses.' Zoonk GitHub: github.com/zoonk/uneebee 

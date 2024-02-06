@@ -412,3 +412,95 @@ GitHub：github.com/windingwind/zotero-better-notes
 https://huggingface.co/datasets/allenai/peS2o
 
 【Mozi(墨子): 科技论文大模型，用于问答和情感支持等任务，通过大规模语言模型和证据检索模型SciDPR提供帮助】’Mozi: A Scientific Large-scale Language Model - Science-LLM' GMFTBY GitHub: github.com/gmftbyGMFTBY/science-llm
+
+【免费书：《撰写和发表科研论文：非英语使用者入门指南》】《Writing and Publishing Scientific Papers: A Primer for the Non-English Speaker | Open Book Publishers》
+https://www.openbookpublishers.com/books/10.11647/obp.0235
+
+【NLP论文撰写技巧：总结了撰写学术论文的一些标准，特别是在自然语言处理领域。作者建议在论文中遵循一些实践，以使论文更加清晰、简洁和易于理解】
+https://medium.com/@vered1986/tips-for-writing-nlp-papers-9c729a2f9e1f
+
+'ChatPaper2XMind - 论文XMind笔记生成工具，将论文pdf通过ChatGPT转换为带有图片和公式的简要XMind笔记，提高论文阅读效率' Raymon Yip GitHub: github.com/MasterYip/ChatPaper2Xmind
+
+Consensus ChatGPT上线“论文神器”插件！无需关键字即可搜索2亿文章，链接绝对保真
+https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247694303&idx=4&sn=30fec020f4a4c8b944b0c50130205650
+
+【教师专用提示集锦】《Teacher Prompts | 250+ Student Resources》
+https://ignacio-velasquez.notion.site/250-Student-Resources-41d589b8def14b0cb15ca55de9921376
+
+【ArXiv ChatGuru: 使用LangChain, OpenAI, Streamlit和Redis，和ArXiv上的科研论文实现问答式交互，用户可以就他们提交的主题检索到的论文提出问题，系统将返回最相关的答案】’ArXiv ChatGuru: Exploring Conversational Scientific Literature - Use ArXiv ChatGuru to talk to research papers. This app uses LangChain, OpenAI, Streamlit, and Redis as a vector database/semantic cache.' 
+Redis Ventures GitHub: github.com/RedisVentures/ArXivChatGuru
+
+awesome-latex-drawing 是 20 多个LaTeX学术绘图示例的集合，包括贝叶斯网络、函数绘图、图形模​​型、张量结构和技术框架等。 
+地址：github.com/xinychen/awesome-latex-drawing ​​​
+
+由中国科学院等单位联合建设的PubScholar公益学术平台正式对社会公众开放。该平台首期整合集成了中国科学院的科技成果资源、科技出版资源和学术交流资源，内容包含期刊论文、学位论文、预发布论文、专利文献、领域快报、动态快讯、科学数据、图书专著等，目前通过平台可检索的科技文献资源量约1.7亿篇。
+https://pubscholar.cn/
+
+【导师们，请善待你们的研究生】
+- 讨论了导师应该如何以负责任的方式指导和培养科研学生。   
+- 导师应该避免忽视学生的情感和生活需要，要把学生视为完整的人，而不仅是劳动力。   
+- 导师应该给学生提供清晰、公正、及时的反馈，帮助他们成长，而不是简单批评错误。   
+- 应该为学生提供弹性的工作时间，让他们有时间放松和照顾自己。过度工作会损害创造力。   
+- 要尊重学生的自主权，给他们探索不同方向的空间，而不是强加己见。   
+- 沟通方式也很重要，应该给学生感觉他们是团队的重要部分，而不仅是下属。   
+- 良好的师生关系需要相互理解和尊重，导师也可以从学生那里学习到东西。   
+- 总之，导师应该按照他们希望被对待的方式来对待学生。
+《Mentors, don't neglect scientific trainees. Treat them as you'd like to be treated | Science | AAAS》
+https://www.science.org/content/article/mentors-don-t-neglect-scientific-trainees-treat-them-you-d-be-treated
+
+【ChatGPT学术提示集合，收集了使用ChatGPT助力学术写作的各种模板问题，比如修改文本以符合学术标准、思考主题或关键词、撰写摘要、书评等】’ChatGPT-Academic-Prompt - Use ChatGPT for academic writing' Nick Chen GitHub: github.com/xuhangc/ChatGPT-Academic-Prompt
+
+### 推荐一个检索和学习论文的强大工具，Aminer，www.aminer.cn，它是由清华大学计算机系研发的学术信息挖掘平台，可以很大程度帮助我们降低检索和学习论文的门槛，十分有用。
+如果你有一个明确的研究方向，可以在它的「必读论文」模块中找到对应的优质论文集[（如图一）](https://wx1.sinaimg.cn/mw690/6c0378f8ly1hjxbcjk0jlj22by1o67wi.jpg)，这些内容都是由 AI 初筛 + 学者复核后呈现出来的，可以为自己省去海量的信息挖掘时间。
+你也可以使用它的检索工具，根据具体的关键词找到最新、最热或者最高引用的论文（[如图二](https://wx3.sinaimg.cn/mw690/6c0378f8ly1hjxbcl33f4j22by1o64qq.jpg)），在左侧可以根据不同的期刊、顶会对查询结果进行二次过滤；如果 SCI / CCF 的分类不能满足你的需求，你还可以下载一个叫做 easyScholar 的 Chrome 插件，它可以在搜索结果中增加更多的期刊分级（[如图三](https://wx2.sinaimg.cn/mw690/6c0378f8ly1hjxbcmolnzj226u1eiqv5.jpg)），分级信息可以让我们一眼看出论文的含金量。
+Google Scholar 是数据更新效率最高的学术信息挖掘工具，如果你对实时性要求比较高，可以结合 Google 学术工具一起看，也可以直接去各个顶会的官网查看最新 accept paper，非专业研究一般也用不上。
+Aminer 还提供了一个 ChatBot 工具（[如图四](https://wx2.sinaimg.cn/mw690/6c0378f8ly1hjxbcq6uhgj22by1o6b2a.jpg)），支持全库对话和单篇对话，全库精选了 600w+ 的优质论文，单篇对话支持在平台论文详情页直接发起，也支持上传 PDF 后跟它交流，背后应该是对接了一个 LLM，理解能力还不错。
+另外，关于 AI 的研究，还推荐订阅 Hugging Face 的 Daily Papers，huggingface.co/papers，它也是通过 AI + 人工复核的方式，结合平台热度给用户每日推荐最热/最佳内容，你可以注册一个账号，订阅到自己的[邮箱](https://wx2.sinaimg.cn/mw690/6c0378f8ly1hjxbctzmemj229i1lqx6p.jpg)。
+
+【Typst：帮助用户更高效写论文的在线文档编辑器】
+- 实时预览功能。用户编写时可以实时预览排版效果，避免反复编辑排版错误。   
+- 清晰的错误提示。与LaTeX相比，Typst的错误提示更清晰易懂，减少解决问题难度。   
+- 强大的模板系统。用户可以使用和定制各种模板，自动实现文档格式设置。这大幅提高了写作效率。   
+- 支持团队协作。Typst是在线编辑器，团队成员可以同时共享文档进行实时协作。   
+- 优秀的数学公式支持。Typst采用人性化的代码语法编写公式，避免了LaTeX的难用性。   
+- 开源和隐私保护。Typst支持本地编译，不保留用户数据，为用户提供更高选择性。   
+- 持续更新。Typst团队还将推出更多实用功能，比如HTML导出、拼写检查等，令产品持续优化。   
+- 轻松上手。Typst培训文档完善，新用户只需1小时即可上手使用。
+《Typst: Compose papers faster》
+https://typst.app/
+
+《研究生如何高效看文献？ - 知乎》
+https://www.zhihu.com/question/621699828
+
+《如何阅读一篇论文》，看到 Srinivasan Keshav 教授在很多年前就写了一篇文献，给研究人员和论文审稿人提出了一些建议，也是“三遍法”，更为系统和详细：
+1）5~10min，鸟瞰纸张，回答五个问题：类别/上下文/正确性/贡献点/明晰性
+2）最多 1h，看图表和参考文献，确认准确性，事实依据是否充分；善用划词评论，跟论文作者对话
+3）初学者 5h，老手 1h，假设自己是创作者，以同样的命题重新实现论文，对比本篇论文的创新性，审视细节、挑战内容
+https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf
+
+【怎么读论文】
+- 第一遍快速浏览标题、摘要、引言和结论部分，获取论文的整体概览。   
+- 第二遍通读全文，关注图表、公式推导、引用等要点，对论文内容形成理解，能概括论文的主要内容。   
+- 第三遍仔细阅读全文，逐段逐句推敲，对每个假设提出质疑，并思考自己如何呈现每一点，以全面理解论文的核心思路和创新点。   
+- 第一遍大约5-10分钟，第二遍1小时，第三遍4-5小时，重复阅读可加深理解，不同阅读深度可应对不同需求。   
+- 该方法可扩展到文献综述，通过快速浏览确定关键论文和作者，迭代获取高质量相关文献。   
+- 该三遍阅读法是一项重要但常被忽视的技能，可以显著提高研究人员的论文阅读效率。
+
+为学术论文提供校对服务的GPT，以便它们能顺利提交给学术期刊。 英文校正GPT
+Academic paper English proofreading assistant.
+https://chat.openai.com/g/g-xk6AdDGIW-ying-wen-xiao-zheng-gpt
+
+学术网站大全：
+https://cnspub.com
+
+【科研人员使用ChatGPT的反思】
+- ChatGPT可用于改写文字风格，为科普撰写引言，但可能产生虚构内容。   
+- 在医疗领域，ChatGPT可能加剧偏见，应谨慎使用，需要研究如何提高社会责任，而非仅效率。   
+- ChatGPT适合创造结构而非内容，可作为学术写作的思路激发伙伴。   
+- 在教学科普写作课上，ChatGPT可提供思路和内容，但学生仍应反思其局限。   
+- ChatGPT结果不可靠，但可激发好奇心，仍需人类记者考量更广泛影响。   
+- 教师不应回避课堂上使用ChatGPT，而应将其融入教学中。   
+- ChatGPT无法明确知识来源，缺乏透明度，目前不适合撰写学术论文。   
+- 专家认为ChatGPT有助思考，但也有潜在风险，需要审慎使用。
+《ChatGPT one year on: who is using it, how and why?》
+https://www.nature.com/articles/d41586-023-03798-6

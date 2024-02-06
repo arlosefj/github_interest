@@ -488,3 +488,11 @@ https://arxiv.org/abs/2211.03375
 
 DWPose，通过两阶段蒸馏法实现有效的人体全身骨骼姿态预测
 项目地址：github.com/IDEA-Research/DWPose
+
+【基于骨架行为识别相关论文资源列表】’Awesome Skeleton-based Action Recognition - A curated paper list of awesome skeleton-based action recognition.' Hongda Liu GitHub: github.com/firework8/Awesome-Skeleton-based-Action-Recognition
+
+提出了一个用户友好的手势识别框架，用户可以自定义手势识别并且无需专业的机器学习知识，具备实时性能和较少的训练数据要求。
+https://arxiv.org/abs/2309.10858
+[CV]《On-device Real-time Custom Hand Gesture Recognition》E Uboweja, D Tian, Q Wang, Y Kuo, J Zou, L Wang, G Sung, M Grundmann [Google LLC] 
+
+【音频驱动手势生成相关论文资源列表】’Awesome Gesture Generation - Awesome Gesture Generation' OpenHuman GitHub: github.com/OpenHuman-ai/awesome-gesture_generation

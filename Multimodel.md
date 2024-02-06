@@ -1871,3 +1871,41 @@ https://arxiv.org/abs/2307.13721
 
 探究了文本模型中的多模态神经元，发现这些神经元能够将图像信息转换为文本描述，并对图像描述生成产生系统性影响。
 https://arxiv.org/abs/2308.01544
+
+'Heron - 可无缝集成多种图像/视频和语言模型的库. 此外, 它还提供在各种数据集上训练的预训练权重' by Turing GitHub: github.com/turingmotors/heron
+
+【blip-caption：用Salesforce BLIP实现的命令行图像描述生成工具】’blip-caption - Generate captions for images with Salesforce BLIP' Simon Willison GitHub: github.com/simonw/blip-caption
+
+【多模态和大型多模态模型 (LMM)】
+- 多模态让模型能处理和生成不同模态的数据，如文本、图像、音频等，这对实际应用的AI系统至关重要。
+- LMM将额外的模态集成到大型语言模型中，例如CLIP(文本+图像)、Flamingo(文本+图像+视频)。
+- LMM的关键组件包括每个模态的编码器，多模态嵌入的对齐，以及用于文本生成的语言模型。
+- CLIP通过对网页规模的文本-图像对进行对比学习来对齐多模态嵌入，支持零样本分类和检索。
+- Flamingo通过Perceiver Resampler和GATED XATTN-DENSE等技术微调语言模型，以基于文本和视觉条件化地生成文本。
+- LMM的前沿研究关注融入更多模态，指令遵循，使用适配器的高效训练，多模态生成，以及评估基准的建立。
+- 多模态系统可以处理多种格式的数据，如文本、图像、音频等，这对真实世界的AI应用至关重要。   
+- LMM通过在大型语言模型中加入图像等其他模态，扩展了其能力。   
+- 多模态系统通常包含专门的编码器、跨模态嵌入对齐方法，以及生成模块。   
+- CLIP通过自然语言监督和对比学习得到强大的视觉编码器，为后续LMM奠定基础。   
+- Flamingo在CLIP基础上加入语言模型，可以生成文本，使用新的网络结构使语言模型可以处理多模态输入。   
+- 当前的研究方向包括支持更多数据格式、使LMM遵循指令、用Adapter使训练更高效等。   
+- 生成多模态输出是下一个重要方向，需要定义统一的中间表示。   
+- 多模态系统仍在早期，但其重要性日益凸显。LLM的表现依赖基础语言模型。
+《Multimodality and Large Multimodal Models (LMMs)》
+https://huyenchip.com/2023/10/10/multimodal.html
+
+CogVLM 是一个170亿参数的开源视觉语言模型，利用视觉专家模块深度整合语言编码和视觉编码，在 10来个项权威跨模态基准上取得了 SOTA 性能，可惜有2/3个指标还不是最好。好像可以把夜间的校门照片“自强不息，厚德载物”识别出来清华校园，大家试试自己的学校能否识别出来。哈哈，模型开源在github上了，欢迎大家去玩玩。
+http://36.103.203.44:7861/
+
+【UI-Act：一个 Transformer 模型，用于使用图形用户界面与计算机进行交互，其动机是为了无缝集成到人机工作流中，模型可以自然地使用专家的人工演示进行训练】’UI-Act - An AI agent for interacting with a computer using the graphical user interface' Tobias Norlund GitHub: github.com/TobiasNorlund/UI-Act
+
+【Fuyu-8b多模态模型在线Demo】《Fuyu Multimodal - a Hugging Face Space by adept》
+https://huggingface.co/spaces/adept/fuyu-8b-demo
+
+提出一种新的目标位置建模方法(pixel2emb)，通过将位置嵌入编码为特定标记，实现了对不同位置格式的支持，提高了多模态对话中的视觉理解能力。
+https://arxiv.org/abs/2311.04498
+[CV]《NExT-Chat: An LMM for Chat, Detection and Segmentation》A Zhang, L Zhao, C Xie, Y Zheng, W Ji, T Chua [National University of Singapore & Alibaba Group] (2023)
+
+Video-LLaVA：北大开源的视觉语言大模型
+地址：github.com/PKU-YuanGroup/Video-LLaVA
+可以理解图片和理解视频内容。

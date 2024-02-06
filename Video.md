@@ -499,3 +499,12 @@ ffmpeg -i host/input.m3u8 -c copy out.mkv -c copy -f matroska - | ffplay -
 【INVE：实时视频编辑解决方案，可以通过将稀疏帧编辑一致地传播到整个视频来辅助视频编辑过程。说白了，就是在视频上画的东西会跟着目标和场景“合理地”动起来，必将成为B站视频创作者的又一利器】《INVE: Interactive Nerual Video Editing》
 https://gabriel-huang.github.io/
 https://arxiv.org/abs/2307.07663
+
+【FFmpeg Explorer：交互式定制FFmpeg命令行的在线工具】“FFmpeg Explorer! - A tool to help you explore FFmpeg filters”  Github: github.com/antiboredom/ffmpeg-explorer
+
+【BMF：跨平台、可定制多媒体/视频处理框架，支持强大的GPU加速、异构设计、多语言支持、易于使用、兼容多框架和高性能等特点，非常适合转码、AI推理、算法集成、视频直播等】'BMF - Cross-platform, customizable video processing framework with strong GPU acceleration' BabitMF GitHub: github.com/BabitMF/bmf 
+
+### 【auto ai subtitle translator：视频语音识别+字幕翻译】’auto ai subtitle translator' by Dunyang Chen GitHub: github.com/qinL-cdy/auto_ai_subtitle
+
+【浏览器移植版ffmpeg，在网页上转换视频文件】《ffmpeg-online》
+https://ffmpeg-online.vercel.app/

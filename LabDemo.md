@@ -361,3 +361,19 @@ https://arxiv.org/abs/2306.08276
 [CV]《TryOnDiffusion: A Tale of Two UNets》L Zhu, D Yang, T Zhu, F Reda, W Chan, C Saharia, M Norouzi, I Kemelmacher-Shlizerman [Google Research & University of Washington] (2023) 
 
 【Live Face Recognition App：实时人脸识别应用，在实时视频流中识别人脸，可在浏览器上运行】'Live Face Recognition App - Simple Live Face Recognition Streamlit App' Martin Knoche GitHub: github.com/Martlgap/livefaceidapp
+
+一个在 GitHub 开源的计算机视觉 AI 工具箱：supervision，安装简便，可供开发者重复使用，大幅提升效率。
+该项目里面提供了对象检测、数据集处理、模型评估、数据分析与计算等多种实用工具。可使用 pip 一键安装，简单快捷。
+GitHub：github.com/roboflow/supervision
+
+【NanoSAM：可实时运行的SAM蒸馏版模型，基于NVIDIA TensorRT】’NanoSAM - A distilled Segment Anything (SAM) model capable of running real-time with NVIDIA TensorRT' NVIDIA-AI-IOT GitHub: github.com/NVIDIA-AI-IOT/nanosam
+
+'基于vue2+vuex+router+echarts的数据可视化大屏' onlooker GitHub: github.com/My-bin/vue2-visualization-LargeScreen
+
+【Simon：用于构建语义搜索系统的Python组件库，包括OCR（光学字符识别）、数据导入、语义搜索、问题回答、文本推荐和AI聊天等功能】'Simon - AI search: your data + 10 lines of code.' Shabang GitHub: github.com/Shabang-Systems/simon
+
+DA-CLIP。该方法能够通过去雾、去模糊、去噪、去雨、去雪、去除不需要的阴影、雨滴或改善照明来恢复图像。所以，基本上一切都可以修复！
+模糊的照片, 去除阴影，去除雨滴，图像去噪
+项目：github.com/Algolzw/daclip-uir
+试用：huggingface.co/spaces/fffiloni/DA-CLIP
+论文：arxiv.org/abs/2310.01018

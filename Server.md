@@ -531,3 +531,23 @@ GitHub：github.com/jumpserver/jumpserver
 【MLOps Python Package：灵活、健壮和高效的Python软件包，用于支持MLOps(机器学习运维)项目】'MLOps Python Package - Kickstart your MLOps initiative with a flexible, robust, and productive Python package.' Médéric Hurier GitHub: github.com/fmind/mlops-python-package
 
 【Incus：现代、安全、功能强大的系统容器和虚拟机管理器，为在容器或虚拟机内运行和管理完整 Linux 系统提供统一体验】'Incus - Powerful system container and virtual machine manager' LXC - Linux Containers GitHub: github.com/lxc/incus
+
+【deployKF：Kubernetes 的下一代机器学习工具包，轻松集成 Kubeflow 和其他领先的 ML/AI 工具】'deployKF - deployKF is a next-generation machine learning toolkit for Kubernetes which effortlessly integrates Kubeflow and other leading ML/AI tools.' GitHub: github.com/deployKF/deployKF
+
+Docker 101：轻松部署应用教程。
+“在我电脑上运行的好好的”这句话让你头疼吗？试试 Docker，它或许能为你解决这个问题！
+Docker 彻底地刷新了我们对软件开发和部署的认知。下面，我们来看看它的主要特点：
+1. 一站式打包：Docker 能够将应用及其所有相关组件整合到一个便捷的容器中，包含了代码、运行环境、工具、库文件以及配置，整齐划一，方便管理。
+2. 虚拟隔离：容器技术不仅提供了打包功能，还带来了隔离效果。借助 Linux 的命名空间和 cgroups，你可以在同一个主机上运行多个有不同配置的应用，它们之间互不干扰。
+3. 不是传统虚拟机：Docker 容器与传统资源消耗大的虚拟机有所不同，因为它与宿主机共享操作系统内核，因此更为高效。没有多余的负担，启动迅速，管理简便。⚡
+4. 适用于 Windows：尽管 Docker 起初是为 Linux 设计，但它同样适用于 Windows 系统。Docker Desktop for Windows 利用了基于 Linux 的虚拟机技术，使得 Windows 应用也可以实现容器化。
+转译自Alex Xu：twitter.com/alexxubyte/status/1712852668052631763
+
+【OptScale：结合了FinOps和MLOps的平台，旨在进行云成本优化并提供ML/AI开发工具。提供云成本优化、虚拟机权益调整、PaaS仪器、S3重复项查找、RI/SP使用、异常检测，以及ML团队的AI开发工具，包括ML/AI排行榜、实验跟踪、ML实验分析和性能成本优化】'FinOps platform for any cloud workloads + MLOps functionality for ML/AI teams - FinOps and MLOps platform. Cloud cost optimization combined with ML/AI developer tools.' Hystax GitHub: github.com/hystax/optscale
+
+企业划分网段的最佳实践。
+地址：github.com/sergiomarotco/Network-segmentation-cheat-sheet
+从简单到复杂，该项目列出了4个不同级别的划分网段的最佳实践。
+附图为最简单的级别。 
+
+【Dockge：托管的Docker Compose管理器，具有时尚而反应灵敏的用户界面，可轻松管理compose.yaml，更新Docker镜像，并提供交互式编辑器和Web终端】'Dockge - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager' Louis Lam GitHub: github.com/louislam/dockge

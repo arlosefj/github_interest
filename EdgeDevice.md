@@ -110,3 +110,4 @@ github.com/datamllab/BED_main
 
 'TPG: TensorRT Plugin Generator - A simple tool that can generate TensorRT plugin code quickly.' by
 NVIDIA AI IOT GitHub: github.com/NVIDIA-AI-IOT/tensorrt_plugin_generator
+

@@ -966,3 +966,18 @@ https://arxiv.org/abs/2307.06304
 
 【一种名为Monarch Mixer BERT(M2-BERT)的新架构，通过用Monarch矩阵替代Transformer的主要组成部分，实现了全新的子线性架构，在质量相匹配的情况下，降低了参数数量和FLOPs，有用于处理更长序列的潜力】《Monarch Mixer: Revisiting BERT, Without Attention or MLPs · Hazy Research》
 https://hazyresearch.stanford.edu/blog/2023-07-25-m2-bert
+
+提出一种将RetNet和Transformer相结合的方法(RMT)，通过引入显式衰减机制和在图像两个坐标轴上分解建模过程，RMT在计算机视觉任务中取得了显著的性能提升，突出了RetNet在视觉领域的潜力和优势。
+https://arxiv.org/abs/2309.11523
+[CV]《RMT: Retentive Networks Meet Vision Transformers》Q Fan, H Huang, M Chen, H Liu, R He [CASIA] (2023)
+
+一个transformer如何工作的可视化页面
+网址：ig.ft.com/generative-ai/ ​​​
+
+提出一种近似注意力机制HyperAttention，通过细粒度的参数衡量问题的难度，实现了线性时间采样算法，可以处理大型语言模型中的长上下文，并通过使用局部敏感哈希技术提高了速度。
+https://arxiv.org/abs/2310.05869
+[LG]《HyperAttention: Long-context Attention in Near-Linear Time》I Han, R Jarayam, A Karbasi, V Mirrokni, D P. Woodruff, A Zandieh [Google Research & Yale University] (2023)
+
+提出一种嵌套Transformer架构MatFormer，通过联合优化不同粒度的模型，实现弹性推断，从而满足不同的部署需求。
+https://arxiv.org/abs/2310.07707
+[LG]《MatFormer: Nested Transformer for Elastic Inference》Devvrit, S Kudugunta, A Kusupati, T Dettmers, K Chen, I Dhillon, Y Tsvetkov, H Hajishirzi, S Kakade, A Farhadi, P Jain [Google Research & University of Texas at Austin & University of Washington] (2023)

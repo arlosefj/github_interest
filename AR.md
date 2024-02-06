@@ -99,3 +99,5 @@ AI和AR的交互融合是一种尝试，想想钢铁侠里面可不就是通过A
 🔗 twitter.com/bryanhpchiang/status/1645501260827885568
 
 【AR-RViz : 用增强现实(AR)可视化和控制ROS系统的Unity项目】'AR-RViz : Augmented Reality Robot Visualization - Unity Project for visualization and control of ROS systems in augmented reality' Kodie Artner GitHub: github.com/kodie-artner/AR-RViz
+
+'虚拟人说话头生成(NeRF虚拟人实时驱动)' by artra soong GitHub: github.com/waityousea/xuniren

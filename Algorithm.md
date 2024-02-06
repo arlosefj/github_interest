@@ -421,3 +421,23 @@ https://www.programmercarl.com/
 'hello-algo - 《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书' by Yudong Jin GitHub: github.com/krahets/hello-algo 
 
 【Pathfinding Visualizer：寻路算法可视化】’Pathfinding Visualizer - Pathfinding visualizations with Python and Pygame' Tauseef Hilal Tantary GitHub: github.com/Tauseef-Hilal/Pathfinding-Visualizer 
+
+线段树（Segment Tree）是常用的维护区间信息的数据结构，它可以在 O (logn) 的时间复杂度下实现单点修改、区间修改、区间查询（区间求和、区间最大值或区间最小值）等操作，常用来解决 RMQ 问题。
+https://my.oschina.net/u/4090830/blog/10116569
+
+路径规划算法的gif演示
+Github地址：github.com/zhm-real/PathPlanning
+
+【免费书《Hello 算法》动画图解、一键运行的数据结构与算法教程】《Hello 算法》
+https://www.hello-algo.com/
+
+算法竞赛模板库 by 灵茶山艾府
+地址：github.com/EndlessCheng/codeforces-go
+“由于算法知识点繁杂，将自己学习到的算法、做过的题目分类整理好是有必要的。
+一个算法模板应当涵盖以下几点：
+    对该算法的基本介绍（核心思想、复杂度等）
+    参考链接或书籍章节（讲的比较好的资料）
+    模板代码（可以包含一些注释、使用说明）
+    模板补充内容（常见题型中的额外代码、建模技巧等）
+    相关题目链接（模板题、经典题、思维转换题等）”
+

@@ -359,3 +359,5 @@ https://forums.fast.ai/t/live-coding-aka-walk-thrus/96617
 
 【Kaggle Models 发布，Kaggle 官方的预训练模型集市，用户可以在这里发现和使用预训练模型，目前提供了近 2000 个Google、DeepMind 和其他开放模型的精选集，旨在通过社区的帮助创建一个繁荣的模型中心】“Kaggle Models: Find Pre-trained Models” 
 https://www.kaggle.com/models https://www.kaggle.com/discussions/product-feedback/391200
+
+【(Kaggle) Google - ASL Fingerspelling Recognition竞赛优胜解决方案】'1st place solution to the Google - American Sign Language Fingerspelling Recognition competition' ChristofHenkel GitHub: github.com/ChristofHenkel/kaggle-asl-fingerspelling-1st-place-solution

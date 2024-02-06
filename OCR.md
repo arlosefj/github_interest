@@ -1006,3 +1006,56 @@ https://www.philschmid.de/sagemaker-donut
 
 提出一种新的文档布局分析方法，通过将PDF页面表示为结构化的图，并引入一种轻量图神经网络模型GLAM，实现了与最先进模型的竞争性能，同时具有更小的模型大小和更高的效率。
 https://arxiv.org/abs/2308.02051
+
+'WeSubtitle: 用 OCR 提取视频硬字幕' WeNet Community GitHub: github.com/wenet-e2e/wesubtitle
+
+介绍了一种方法，在OCR系统中通过生成和附加领域特定语言模型来显著降低专业领域材料的识别错误率。
+[CL]《OCR Language Models with Custom Vocabularies》P Garst, R Ingle, Y Fujii [Google] (2023) 
+https://arxiv.org/abs/2308.09671
+
+介绍了一种名为Nougat的神经光学理解学术文档的方法，通过视觉Transformer模型实现光学字符识别，将科学文档转化为标记语言，提高科学知识的可访问性。
+https://arxiv.org/abs/2308.13418
+[LG]《Nougat: Neural Optical Understanding for Academic Documents》L Blecher, G Cucurull, T Scialom, R Stojnic [Meta AI] (2023)
+![](https://wx3.sinaimg.cn/mw2000/0061Dh3Qly1hhepdxqlzqj31dj0u0ar8.jpg)
+
+介绍了在测试时对文本行识别模型进行自适应的问题，在单个测试图像上进行自训练迭代，以纠正模型在手写文档上的错误。
+https://arxiv.org/abs/2308.15037
+[CV]《Is it an i or an l: Test-time Adaptation of Text Line Recognition Models》D Tula, S Paul, G Madan, P Garst, R Ingle, G Aggarwal [Google Research] (2023) 
+
+介绍了一种基于Transformer的在线手写字符分割方法，通过习得字符查询在Transformer解码器块中形成每个簇，实现了最佳的分割结果。
+https://arxiv.org/abs/2309.03072
+[CV]《Character Queries: A Transformer-based Approach to On-Line Handwritten Character Segmentation》M Jungo, B Wolf, A Maksai, C Musat, A Fischer [University of Applied Sciences and Arts Western Switzerland & Google Research] (2023) 
+
+【PDF文档识别/转换引擎Nougat的Transformer实现Demo】《Nougat Transformers - a Hugging Face Space by hf-vision》
+https://huggingface.co/spaces/hf-vision/nougat-transformers
+
+KOSMOS-2.5：阅读「文本密集图像」的多模态大语言模型
+https://t.cj.sina.com.cn/articles/view/5703921756/153faf05c019012g62
+
+一个中文Lint脚本，可以帮你检查中文里面的标点符合和格式，例如自动在中文和英文之间加上空格。
+github.com/Jinjiang/zhlint ​​​
+
+【RapidOCRPDF：依托于RapidOCR仓库，快速提取PDF中文字，包括扫描版PDF、加密版PDF】'RapidOCRPDF - Based on RapidOCR, extract the PDF content.' RapidAI GitHub: github.com/RapidAI/RapidOCRPDF
+
+### 提出一种新方法，Hierarchical Text Spotter(HTS)，用于同时进行文本定位和布局分析，通过两个新的组件实现了最先进的结果。
+https://arxiv.org/abs/2310.17674
+[CV]《Hierarchical Text Spotter for Joint Text Spotting and Layout Analysis》S Long, S Qin, Y Fujii, A Bissacco, M Raptis [Google Research] (2023)
+
+### 【BetterOCR：将多个 OCR 引擎的结果与大语言模型(LLM)相结合，以纠正和重建输出，目前支持 EasyOCR 和 Tesseract】’BetterOCR - Better text detection by combining multiple OCR engines (EasyOCR, Tesseract) with LLM.' Junho Yeo GitHub: github.com/junhoyeo/BetterOCR
+
+pix2tex - LaTeX OCR
+地址：github.com/lukas-blecher/LaTeX-OCR
+截图将图片中的公式转为LaTeX代码
+
+pycorrector: 中文文本纠错工具。支持中文音似、形似、语法错误纠正，python3开发。
+地址：github.com/shibing624/pycorrector
+本项目重点解决其中的"音似、形字、语法、专名错误"等类型。最近发布的v1.0.0版本：新增了ChatGLM3/LLaMA2等GPT模型用于中文文本纠错，发布了基于ChatGLM3-6B的shibing624/chatglm3-6b-csc-chinese-lora拼写和语法纠错模型；重写了DeepContext、ConvSeq2Seq、T5等模型的实现。
+
+### 【DocDiff：文档增强模型，可用于文档去模糊、文档去噪、文档二值化、文档去水印和印章等任务】'DocDiff - ACM Multimedia 2023: DocDiff: Document Enhancement via Residual Diffusion Models. Also contains 1597 red seals in Chinese scenes, along with their corresponding binary masks.' Zongyuan Yang GitHub: github.com/Royalvice/DocDiff 
+
+一个能够把pdf修改成“扫描”效果的 工具：网页链接（github地址：https:////github.com/rwv/lookscanned.io ），虽然我也不知道把pdf做成扫描效果有什么用。
+
+'Umi-OCR V2 文字识别工具 - 开源、免费、实用的离线OCR软件。截屏/粘贴/批量导入图片，支持段落排版/排除水印，扫描/生成二维码。全程无需联网，内置多国语言识别库。' hiroi-sora GitHub: github.com/hiroi-sora/Umi-OCR_v2
+
+【M6Doc_Dataset_Release：用于现代文档布局分析研究的数据集，包含9,080张现代文档图像，涵盖科学文章、教材、试卷、杂志、报纸、笔记和书籍等七个子集，子集来源多样，包括arXiv、中国人民日报官网、VKontakte等，数据标注定义了74个详细的文档布局标注标签，使用了维基百科定义，确保标签的通用性和特异性】’M6Doc_Dataset_Release' by 
+Deep Learning and Vision Computing Lab, SCUT GitHub: github.com/HCIILAB/M6Doc

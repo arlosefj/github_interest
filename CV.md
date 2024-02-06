@@ -1377,3 +1377,38 @@ https://www.artbreeder.com/create/mixer
 【CoreML实现的NafNet去模糊模型推理】’NafNet deblur CoreML model - NAFNet model inference using CoreML' Vadim Titko GitHub: github.com/Vadbeg/nafnet-coreml
 
 【Color Diffusion：用扩散模型为黑白图像上色】'Color Diffusion - A diffusion model to colorize black and white images' Erwann Millon GitHub: github.com/ErwannMillon/Color-diffusion
+
+【Roboflow Inference：用于在最先进的计算机视觉模型上运行推理的工具，可以在没有机器学习或特定于设备部署的先验知识的情况下，将计算机视觉模型部署到设备和环境】’Roboflow Inference - An opinionated tool for running inference on state-of-the-art computer vision models.' GitHub: github.com/roboflow/inference
+
+腾讯开源的AI模型GFPGAN，能帮助恢复老照片
+github.com/TencentARC/GFPGAN ​​​
+
+【基于扩散模型的图像处理相关文献列表】’Awesome-diffusion-image-processing - one summary of diffusion-based image processing, including restoration, enhancement, coding, quality assessment' Xin Li GitHub: github.com/lixinustc/Awesome-diffusion-model-for-image-processing
+
+【CLIP Knowledge Distillation：通过执行 OpenCLIP 模型的知识蒸馏，用零标记数据创建自定义图像分类模型】'CLIP Knowledge Distillation - Zero-label image classification via OpenCLIP knowledge distillation' NVIDIA AI IOT GitHub: github.com/NVIDIA-AI-IOT/clip-distillation
+
+【nutsh：旨在通过人工反馈进行视觉学习的平台，具有用户友好的界面和 API，支持一系列视觉模式、多样化的人工输入方法以及基于人工反馈的学习机制】'nutsh - A Platform for Visual Learning from Human Feedback' ETH VIS Group GitHub: github.com/SysCV/nutsh
+
+【图像信号处理(ISP)指南】'Image Signal Processing (ISP) Guide - Image Signal Processing (ISP) Guide' Michael Royal GitHub: github.com/mikeroyal/ISP-Guide
+
+'ACG2vec(Anime Comics Games to vector)：一些基于二次元相关的深度学习领域实践与探索（文本语义检索、以图搜图、语义搜图、图片超分辨率等）' OysterQAQ GitHub: github.com/OysterQAQ/ACG2vec
+
+RedFill 是一种全新的图像修复技术，可以用真实存在的内容去补全图像中确实的部分。只需要不超过 5 张场景参考图片，就可以生成与原始场景高度匹配的补全图像。并且对参考图片的要求不需要多高，哪怕是不同角度、光线或者拍摄方式也不影响。
+比较适合将同一场景内的多张照片合成一张好的照片
+项目Repo：github.com/thuanz123/realfill
+
+【The Blessing of Randomness: 用SDE解算器实现图像编辑任务，提供了基于SDE-Drag的可视化编辑界面，支持蒙版绘制功能】’The Blessing of Randomness: SDE Beats ODE in General Diffusion-based Image Editing' by ML-GSAI GitHub: github.com/ML-GSAI/SDE-Drag
+
+【Wav2Lip-HD: 在视频中实现高保真口型同步，用 Wav2Lip 算法实现口型同步，用 Real-ESRGAN 算法实现超分辨率】'Wav2Lip-HD: Improving Wav2Lip to achieve High-Fidelity Videos - High-Fidelity Lip-Syncing with Wav2Lip and Real-ESRGAN' Saif Hassan GitHub: github.com/saifhassan/Wav2Lip-HD
+
+【ICCV 2023论文概览】《ICCV 2023 top papers, general trends, and personal picks | AI Summer》
+https://theaisummer.com/iccv-2023/
+
+提出视频实例抠图(Video Instance Matting， VIM)这个新任务，即给出视频序列，预测每个关键帧每个前景实例的α蒙版序列。构建了一个新任务VIM的基准数据集VIM50，包含50个视频片段，每个片段有2-4个人物实例前景对象，给出实例级α蒙版真值。提出新评估指标视频实例识别质量(Video Instance-aware Matting Quality， VIMQ)，可以同时评估识别、跟踪和蒙版质量。提出蒙版序列引导视频实例蒙版网络(Mask Sequence Guided Video Instance Matting network， MSG-VIM)作为VIM基线方法，利用视频实例分割给出的蒙版序列作为引导，输出更高质量的实例级α蒙版序列。在训练中加入蒙版扰动数据增强策略包括蒙版擦除、粘贴、合并，使模型对错误掩模更加鲁棒。同时加入Temporal Mask Guidance和Temporal Feature Guidance deux提高跨帧一致性。实验表明采用MSG-VIM在新基准集VIM50上明显超过其它相关方法，验证了视频实例蒙版这一新任务和MSG-VIM的有效性。https://arxiv.org/abs/2311.04212
+
+【Labelformat - Label Conversion, Simplified：开源计算机视觉标签格式转换工具，可以在流行的计算机视觉标签格式之间无缝转换】'Labelformat - Label Conversion, Simplified - A tool for converting computer vision label formats.' Lightly GitHub: github.com/lightly-ai/labelformat 
+
+【vit.cpp：纯C/C++ + ggml实现的ViT高效推理】’vit.cpp - Inference Vision Transformer (ViT) in plain C/C++ with ggml' Said Taghadouini GitHub: github.com/staghado/vit.cpp
+
+用各种例子和交互demo来介绍卷积的一篇文章。从基本的应用场景、概念到最后拿来消除图像模糊
+https://betterexplained.com/articles/intuitive-convolution/?continueFlag=28c06c5174dd965379c98cffbe61370c

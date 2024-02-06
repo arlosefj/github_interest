@@ -1094,3 +1094,35 @@ Meta Research GitHub: github.com/facebookresearch/replay_dataset
 【Pohang Canal Dataset：在韩国浦项的受限水域中获取的多模态海事数据集。传感器套件由三个LiDAR、一个海洋雷达、两个用作立体相机的视觉摄像头、一个红外摄像头、一个具有6个方向的全景相机、一个AHRS和一个带有RTK的GPS组成。该数据集包括传感器校准参数和基于SLAM的基准轨迹】'Pohang Canal Dataset - Additional descriptions about the Pohang Canal Dataset' Dongha Chung GitHub: github.com/dhchung/pohang_canal_dataset
 
 【JourneyDB：大规模生成图像理解数据集，包含4,429,295个高分辨率的Midjourney生成图像，带有相应的文本提示、图像标题和视觉问答的标注，支持的任务包括提示反演、风格检索、图像描述和视觉问答】'JourneyDB - a large-scale generated image understanding dataset’  GitHub: github.com/JourneyDB/JourneyDB
+
+【书生·万卷多模态语料库：万卷多模态语料库的首个开源版本，包含文本数据集、图文数据集、视频数据集三部分，数据总量超过2TB】'书生·万卷多模态语料库' OpenDataLab GitHub: github.com/opendatalab/WanJuan1.0
+
+【雷达相机融合相关数据集资源列表】’Awesome Radar-Camera Fusion'  GitHub: github.com/Radar-Camera-Fusion/Awesome-Radar-Camera-Fusion
+
+【ArXiv QA数据集：提供了AI论文相关问题的claude 100k回应】《taesiri/arxiv_qa · Datasets at Hugging Face》https://huggingface.co/datasets/taesiri/arxiv_qa
+
+【Fondant-cc-25m: 包含2500万图像-文本对的数据集】《fondant-ai/fondant-cc-25m · Datasets at Hugging Face》
+https://huggingface.co/datasets/fondant-ai/fondant-cc-25m
+
+【OpenWebMath：包含互联网上大部分高质量数学文本的数据集，从 Common Crawl 的超过 2000 亿 HTML 文件中过滤并提取出包含 147 亿 Token 的 630 万份文档，OpenWebMath 旨在用于预训练和微调大型语言模型】《open-web-math/open-web-math · Datasets at Hugging Face》
+https://huggingface.co/datasets/open-web-math/open-web-math
+
+【Radar Dataset：用于无人驾驶深度学习目标检测和跟踪的双雷达数据集】'Radar Dataset' by adept-thu GitHub: github.com/adept-thu/Dual-Radar
+
+【法律AI相关的资源列表，包括数据集、网站和其他有用链接】'Awesome-LegalAI-Resources - This repository aims to collect all LegalAI data to facilitate the development of intelligent justice systems' Haitao Li GitHub: github.com/CSHaitao/Awesome-LegalAI-Resources 
+
+'质衡: 通用基础模型在底层视觉上的基准测试，包含中文版【底层视觉问答】和【底层视觉描述】数据集，以及中文提示下的图片质量评价。 We will release Q-Bench in more languages in the future.' NTU Visual Quality Assessment Group GitHub: github.com/VQAssessment/Chinese-Q-Bench
+
+【The Data Provenance Initiative：旨在提高AI训练数据集的透明性、文档化和负责任使用。倡议通过对44个数据集的大规模审核，跨1800多个文本到文本微调数据集，即所谓的"数据出处收集"，详细记录它们的网络和机器源、许可证、创作者和其他元数据】'The Data Provenance Initiative'  GitHub: github.com/Data-Provenance-Initiative/Data-Provenance-Collection
+
+【(n)ASAP: the (note-)Aligned Scores And Performances dataset：汇集了丰富的古典乐实录资源和各层次标注信息的古典音乐数据集，汇集了222份西方古典钢琴曲曲谱，以及这些曲谱对应的1068个钢琴表演音频(总计超过92小时)】'(n)ASAP: the (note-)Aligned Scores And Performances dataset - A dataset of 222 digital musical scores aligned with 1068 performances (more than 92 hours) of Western classical piano music.' Institute of Computational Perception GitHub: github.com/CPJKU/asap-dataset
+
+[AS] The Song Describer Dataset: a Corpus of Audio Captions for Music-and-Language Evaluation  
+https://arxiv.org/abs/2311.10057 
+提出一份新的数据集——歌曲描述数据集(SDD)，旨在评估音乐和自然语言之间的模型。该数据集收集了706首公开许可音乐的人工描述，共计1106条单句描述，覆盖了乐曲的多样特征。与其他同类数据集相比，SDD的数据 音频片段时间更长，许可更便于公开获取，描述质量通过复核获得保障。此外，SDD还提供了描述同一乐曲的多个样本，适用于自动度量评价。为展示SDD的应用，本文评测了一些著名模型在音乐描述生成、文本到音乐生成和音乐检索三项任务上的表现。结果显示，跨数据集评估能更全面检验模型的泛化能力。SDD数据规模相对较小，但已初步促进了音乐与自然语言任务的标准化评估。总体而言，SDD数据集建立了一个公开透明的评价平台。未来可考虑扩充音乐类型和标注参与者，以加强数据集在评估模型泛化能力中的作用。本文从数据采集到示范应用，展示了SDD如何促进音乐与自然语言任务的交叉研究。
+
+### 【Inspection of Power Line Assets: the Dataset (InsPLAD)：电力线路资产检查数据集】'Inspection of Power Line Assets: the Dataset (InsPLAD) - Inspection of Power Line Assets: the Dataset (InsPLAD)' André Luiz Vieira GitHub: github.com/andreluizbvs/InsPLAD
+
+【GVLM Dataset Version 1.0：大规模开源的遥感图像地质灾害点变化检测数据集，包含17对时变超高分辨率遥感图像，分辨率0.59m，采集自谷歌地球服务。总覆盖面积163.77平方公里。图像来自不同地理位置、时间、地表类型的地质灾害点，具有丰富的光谱异质性】’GVLM Dataset Version 1.0' by zxk GitHub: github.com/zxk688/GVLM
+
+‘百度QA100万数据集' CyberCommy GitHub: github.com/CyberCommy/baidu-qa-100w 

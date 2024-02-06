@@ -910,3 +910,71 @@ https://mxmefbp9p0g.feishu.cn/docx/ZI3ldweTXorTvMxYLbucT00Un5n
 【RTVC: Real-Time Voice Conversion GUI：实时语音转换(变声)界面】’RTVC: Real-Time Voice Conversion GUI' Fish Audio GitHub: github.com/fishaudio/realtime-vc-gui
 
 【Wordcab Transcribe：用faster-whisper和多尺度自适应谱聚类进行语音识别(ASR)的FastAPI服务】'Wordcab Transcribe- ASR FastAPI server using faster-whisper and Multi-Scale Auto-Tuning Spectral Clustering for diarization.' Wordcab GitHub: github.com/Wordcab/wordcab-transcribe
+
+【april-asr：C语言写的语音转文本(STT)库】’april-asr - Speech-to-text library in C' abb128 GitHub: github.com/abb128/april-asr
+
+’SummerAsr - 基于C++的可独立编译且几乎没有额外依赖库的本地中文语音识别器。 Summer Asr is a Chinese automatic speech recognize project written with C++ that can be easily built standalone without any depencency.' huakunyang GitHub: github.com/huakunyang/SummerAsr
+
+【基于Grad-TTS的歌唱转换】’Grad-SVC based Grad-TTS from HUAWEI Noah's Ark Lab - Singing Voice Conversion based on Grad-TTS. The core algorithm is diffusion.' PlayVoice GitHub: github.com/PlayVoice/Grad-SVC
+
+### 【SpeechMOS：只需 2 行代码即可预测主观语音得分，支持多种 MOS 预测系统】'SpeechMOS - Easy-to-Use Speech MOS predictors' tarepan GitHub: github.com/tarepan/SpeechMOS
+
+【开源自动语音识别(ASR)模型排行榜】《Open ASR Leaderboard - a Hugging Face Space by hf-audio》
+https://huggingface.co/spaces/hf-audio/
+
+【Light Speed：基于 VITS 的开源文本转语音模型】'Light Speed - A modified VITS that utilizes phoneme duration's ground truth for better robustness' NTT123 GitHub: github.com/NTT123/light-speed
+
+lalal.ai，这个音频处理工具太牛了，它可以对复杂的合成音轨进行精准分离和无损提取。我试了一下，效果非常好。
+它主要用于两个场景，一个是音轨剥离，一个是声音移除，例如它可以提取人声、鼓、贝斯、吉他和弦乐等声音，也可以去除背景音乐、麦克风隆隆声以及其他不需要的噪音。下面的视频演示了剥离伴奏和人声的效果，还是比较直观的。
+也去搜罗了下实现原理，找到一篇介绍 MSS（Musical Source Separation）的论文：inria.hal.science/hal-01945345/document，它介绍了基于模型和基于信号处理的两种较为传统的处理方式，也提到，当前引入深度神经网络来解决这个问题的应用越来越多，不过最大的局限性还是可用于学习的数据太少，例如你让工具单独提取音频中鸟叫的声音，可能就比较吃力。
+
+Whisper语音识别模型 INT4 低精度版，可以在计算资源有限的环境中更快地运行：
+huggingface.co/Intel/whisper-tiny-onnx-int4
+huggingface.co/Intel/whisper-base-onnx-int4
+huggingface.co/Intel/whisper-small-onnx-int4
+huggingface.co/Intel/whisper-medium-onnx-int4
+huggingface.co/Intel/whisper-large-onnx-int4
+huggingface.co/Intel/whisper-large-v2-onnx-int4
+
+'Open-Lyrics - Transcribe (whisper) and translate (gpt) voice into LRC file. 用whisper和gpt将音频转录、翻译为字幕文件' zh-plus GitHub: github.com/zh-plus/openlrc
+
+【Insanely Fast Whisper：超快的Whisper语音识别脚本，用OpenAI的Whisper Large v2在10分钟内转录5小时的音频】’Insanely Fast Whisper' by Vaibhav Srivastav GitHub: github.com/Vaibhavs10/insanely-fast-whisper
+
+Voice Changer 是一款实时语音转换客户端，支持Windows和Mac。
+它可以实时变声成其他人或者虚拟角色的音色，可以接入多种语音转换技术，例如：
+- MMVC（github.com/isletennos/MMVC_Trainer）
+- so-vits-svc （github.com/svc-develop-team/so-vits-svc）
+- RVC(Retrieval-based-Voice-Conversion) （github.com/liujing04/Retrieval-based-Voice-Conversion-WebUI）
+- DDSP-SVC （github.com/yxlllc/DDSP-SVC）
+对于如何使用，有一个YouTube教学视频讲的蛮详细：www.youtube.com/watch?v=_JXbvSTGPoo
+项目地址：github.com/w-okada/voice-changer
+
+【Distil-Whisper：蒸馏版Whisper，将语音识别速度提高6倍，模型瘦身49%】’Distil-Whisper' by Hugging Face GitHub: github.com/huggingface/distil-whisper
+
+Insanely Fast Whisper：使用 OpenAI 的 Whisper Large v2 在 10 分钟内转录 300 分钟（5 小时）的音频。
+地址：github.com/Vaibhavs10/insanely-fast-whisper
+
+【RealtimeSTT：实时语音转文本库，实现了语音转文本的主流算法，性能优异，易于集成和应用，对开发语音助手、语音表单应用等实时语音交互系统很有帮助】’RealtimeSTT - A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription. Designed for real-time applications like voice assistants.' Kolja Beigel GitHub: github.com/KoljaB/RealtimeSTT
+
+声音克隆项目，只要几秒钟的音频样本就能创造出AI语音克隆。刚刚的发布了XTTS v2，包括以下重要更新：
+✅ 更出色的零样本克隆能力
+✅ 可以用更多数据进行克隆
+✅ 更加自然的语调和表达力
+✅ 支持匈牙利语和韩语
+项目地址：github.com/coqui-ai/tts
+
+【whisper-cpp-python：whisper.cpp的Python封装】’whisper-cpp-python - whisper.cpp bindings for python' Carlos Cardoso Dias GitHub: github.com/carloscdias/whisper-cpp-python
+
+Meta 新推出的实时语音翻译模型 Seamless，能保持原声的表情和风格。
+它比较先进的地方在于能判断当前的上下文是否足够输出，如果还不足以判断语音的真实含义，会等待有足够输入后再输出。
+号称在语音生成文本和语音翻译方面超越了 Whisper 和 AudioPalm 2。
+Seamless 包含一系列的语音模型：
+- SeamlessM4Tv2：一款基础的多语种模型
+- SeamlessStreaming：提供实时翻译功能
+- SeamlessExpressive：能在翻译过程中保留原声的表情和风格
+- Seamless：将以上所有模型集成在一起
+Github: github.com/facebookresearch/seamless_communication
+
+【Insanely Fast Whisper (CLI)：基于Whisper语音识别模型的超快音频转文字命令行工具，用Whisper Large v2在10分钟内转录300分钟音频】’Insanely Fast Whisper (CLI) - The fastest Whisper optimization for automatic speech recognition as a command-line interface' ochen1 GitHub: github.com/ochen1/insanely-fast-whisper-cli
+
+【abracadabra: Python写的歌曲识别工具，实现了Shazam论文中的音频搜索算法，可以通过电脑的麦克风识别正在播放的歌曲，可以用于多个视频的音频对齐和音乐库去重等应用】'abracadabra: Sound recognition in Python' Cameron MacLeod GitHub: github.com/notexactlyawe/abracadabra

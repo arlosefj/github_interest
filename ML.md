@@ -1889,3 +1889,56 @@ https://arxiv.org/abs/2306.04719
 【DataGradients：开源的Python库，专门用于计算机视觉数据集分析。它可以自动从数据集中提取特征并将它们合并到一个用户友好的报告中，支持图像级评估、类别分布分析、热力图生成等功能】'DataGradients - Computer Vision dataset analysis' deci.ai GitHub: github.com/Deci-AI/data-gradients
 
 【OpenModelZ：能在任意集群上(如GCP、AWS、Lambda labs、个人实验室甚至单台机器)一键式部署机器学习模型的工具】'OpenModelZ - One-click machine learning deployment (LLM, text-to-image and so on) at scale on any cluster (GCP, AWS, Lambda labs, your home lab, or even a single machine).' TensorChord GitHub: github.com/tensorchord/openmodelz
+
+'最完整的AI算法面试题目仓库，1000道，25个类目' zixian2021 GitHub: github.com/zixian2021/AI-interview-cards
+
+Andrew NG老师近期回顾了六个经典机器学习算法的起源、发展，深入浅出
+https://read.deeplearning.ai/the-batch/issue-146/
+
+【local.ai：可用于本地、私密、安全的 AI 实验的桌面应用，包括可靠的模型 API 和模型下载器、简单的笔记应用，以及模型推理流服务器】’local.ai - local.ai - Run AI locally on your PC!' louisgv GitHub: github.com/louisgv/local.ai
+
+### 'nndeploy：支持多平台、简单易用、高性能的机器学习部署框架，可在多端(云、边、端)完成模型的高性能部署' Always GitHub: github.com/Alwaysssssss/nndeploy
+
+【AiDB：使用C++完成的深度学习模型部署工具箱。将主流深度学习推理框架抽象成统一接口，包括ONNXRUNTIME、MNN、NCNN、TNN、PaddleLite和OpenVINO】'AiDB - A toolbox for deep learning model deployment using C++ YoloX | YoloV7 | YoloV8 | Gan | OCR | MobileVit | Scrfd ........' Hulk GitHub: github.com/TalkUHulk/ai.deploy.box
+
+将机器学习模型编译为 C 语言，从编译器的视角来理解神经网络 ​​​
+https://bernsteinbear.com/blog/compiling-ml-models/?continueFlag=00e04aadc24a9613f7588f221fdef879
+- 机器学习模型可以表示为静态的数据流图，进行前向和后向传播，类似于树遍历解释器，可以编译来提高性能。   
+- 以Micrograd为例，通过拓扑排序生成C代码实现前向和后向传播。   
+- 生成的C代码避免了图的重复构建、拓扑排序等开销，大大提升了性能。   
+- 将Micrograd模型编译成C扩展后，训练速度从每秒1幅图像提升到2000幅。   
+- 编译成C代码同时加速了训练和推理。可在正确性校验后替代解释器版本。   
+- 编译需要处理好Python和C代码之间的参数传递、内存共享等接口。   
+- 编译机器学习模型类似于编译解释器，可以冻结动态特性来获得性能收益。   
+- 讨论了一些后续可探索的优化方向，如融合乘加指令、张量计算等。
+
+'从Huggingface下载模型（断点续传） - huggingface mirror download' git-cloner GitHub: github.com/git-cloner/aliendao
+
+【spo4onnx：用于部分优化ONNX模型的简单工具】'spo4onnx - Simple tool for partial optimization of ONNX' Katsuya Hyodo GitHub: github.com/PINTO0309/spo4onnx 
+
+Deep Learning Tuning Playbook，深度学习调优手册
+地址：github.com/google-research/tuning_playbook
+一本用于系统地最大化深度学习模型性能的手册。“本文档适用于有兴趣最大化深度学习模型性能的工程师和研究人员(个人和团队)。我们假设他们已具备机器学习和深度学习的基础知识。
+我们强调的是超参数调优的过程。我们会涉及深度学习训练的其他方面,例如管道实现和优化,但我们对这些方面的处理并不打算做到全面完整。
+我们假设机器学习问题是一个监督学习问题,或者很像一个监督学习问题(例如自监督)。也就是说,本文档中的一些规定也可能适用于其他类型的问题。”
+
+'awesome_LLMs_interview_notes：大模型（LLMs）算法工程师相关的面试题和参考答案' MK GitHub: github.com/jackaduma/awesome_LLMs_interview_notes
+
+【SWIFT(Scalable lightWeight Infrastructure for Fine-Tuning)：可扩展的轻量级一站式训练、推理深度学习框架。它集成了各种高效的微调方法，如LoRA、QLoRA、阿里云自研的ResTuning-Bypass等，以及开箱即用的训练推理脚本，使开发者可以在单张商业级显卡上微调推理LLM&AIGC模型】'SWIFT(Scalable lightWeight Infrastructure for Fine-Tuning) - SWIFT (Scalable lightWeight Infrastructure for Fine-Tuning) is an extensible framwork designed to facilitate lightweight model fine-tuning.' ModelScope GitHub: github.com/modelscope/swift
+
+### 【NOS：功能强大、易于使用的推理服务框架，有利于用户高性能部署AI服务和研发定制化解决方案】’NOS - Nitrous oxide for your AI infrastructure.' Autonomi AI GitHub: github.com/autonomi-ai/nos 
+
+电子书《Probabilistic Machine Learning: An Introduction》概率机器学习:导论
+地址：probml.github.io/pml-book/book1.html
+作者Kevin Patrick Murphy
+"凯文·墨菲的这本关于机器学习的书是一本非常出色的著作,全面系统地阐述了该领域,并建立在概率论的基础之上。它既严谨又通俗易懂,是任何有志于深入理解机器学习的人的必读书。"
+
+【pytrendseries：时间序列处理库，可以检测时序数据如股票价格、月销售额等的趋势性变化】’pytrendseries - Detect trend in time series, drawdown, drawdown within a constant look-back window , maximum drawdown, time underwater.' RAFAEL RODRIGUES GitHub: github.com/rafa-rod/pytrendseries
+
+提出一种自适应的特征归因方法Greedy PIG，通过统一的离散优化框架实现特征归因和特征选择，提高了深度学习模型的可解释性。
+https://arxiv.org/abs/2311.06192
+[LG]《Greedy PIG: Adaptive Integrated Gradients》K Axiotis, S Abu-al-haija, L Chen, M Fahrbach, G Fu [Google Research] (2023)
+
+电子书 《Machine Learning from Scratch》从零开始的机器学习 
+地址：dafriedman97.github.io/mlbook/content/introduction.html
+本书涵盖了机器学习中最常见方法的构建。 每一章都侧重于ML工具箱中的一个工具。 每章分为三节。 概念部分从概念上介绍了这些方法，并从数学上推导出它们的结果。 构造部分展示了如何使用Python从头开始构造方法。 实现部分演示了如何使用Python中的包（如scikit-learn、statmodels和tensorflow）应用这些方法。

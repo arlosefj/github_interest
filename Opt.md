@@ -401,3 +401,74 @@ https://lilianweng.github.io/posts/2023-01-10-inference-optimization/
 
 【Mobile GPU工作原理解析(漫画版)】
 https://armkeil.blob.core.windows.net/developer/Files/pdf/graphics-and-multimedia/how-does-a-mobile-gpu-work.pdf
+
+'天池 NVIDIA TensorRT Hackathon 2023 —— 生成式AI模型优化赛 初赛第三名方案' TRT2022 GitHub: github.com/TRT2022/ControlNet_TensorRT
+
+【Useful Transformers：Transformer模型高效推理库，重点是在边缘运行推理的低成本、低能耗处理器，tiny.en Whisper模型以30倍的实时速度运行转录语音，比最知名的实现快2倍】’Useful Transformers - Efficient Inference of Transformer models' Useful Sensors Inc GitHub: github.com/usefulsensors/useful-transformers
+
+【MIT的“TinyML语高效深度学习计算”课程，涵盖了、模型压缩、剪枝、量化、神经架构搜索、分布式训练、数据/模型并行、梯度压缩以及设备端微调等主题】《6.5940 TinyML and Efficient Deep Learning Computing》
+https://efficientml.ai/
+
+通过广泛比较神经网络量化和剪枝两种技术，得出量化通常优于剪枝，应作为模型压缩的首选的结论，帮助指导神经网络硬件设计选择更合适的压缩方法。
+https://arxiv.org/abs/2307.02973
+[LG]《Pruning vs Quantization: Which is Better?》A Kuzmin, M Nagel, M v Baalen, A Behboodi, T Blankevoort [Qualcomm AI Research] (2023)
+
+### 【生产环境大语言模型优化】
+- 部署大规模语言模型(LLM)需要应对计算和内存需求，关键是提高模型在长文本输入下的计算和内存效率。   
+- 降低参数精度，如8比特或4比特量化，可以减少内存需求，仅轻微影响性能。   
+- Flash Attention算法可以线性提高内存利用率，并加速计算，是默认自注意力的更高效替代。   
+- 相对位置Embedding如ALiBi和RoPE可以更好处理长文本输入，并支持长度外推。   
+- 关键值cache机制可以重复使用先前计算，减少计算量，对会话等任务尤其重要。   
+- MQA和GQA通过共享键值投影或分组，可以显著减少cache内存需求。   
+- Falcon、PaLM、LLAMA等新模型设计都采用了这些优化技术，以支持长文本场景。   
+- 持续研究工作致力于进一步提升大模型计算和内存效率，部署LLM仍面临挑战。选择合适的算法和模型架构十分关键。
+https://huggingface.co/blog/optimize-llm
+
+### 【EETQ：针对transformer模型的量化工具，使用Flash-Attention V2优化attention的推理性能，简单易用，只需一行代码即可适配您的PyTorch模型】’EETQ - Easy and Efficient Quantization for Transformers' NetEase-FuXi GitHub: github.com/NetEase-FuXi/EETQ 
+
+每个开发人员都应该了解 GPU 计算的知识 
+https://codeconfessions.substack.com/p/gpu-computing
+
+【Together公司推出全新高效大模型推断引擎——Together Inference Engine】
+- 经过多月优化，同时集成了FlashAttention-2，Flash-Decoding和Medusa等技术，在相同硬件条件下，其推理速度可比TGI或vLLM快3倍，比竞品Perplexity等快2倍。   
+- 使用开源的LLMPerf进行测试表明，Together引擎在Llama-2-70B模型上可实现117个词/秒的速度，在Llama-2-13B模型上达到171词/秒。此外，该引擎不影响模型质量，不同精度测试结果与HuggingFace一致。   
+- 此外，Together引擎新增了弹性SERVERLESS Endpoint，支持超过100个优质模型。用户可选择DEDICATED Instance或弹性部署，同时支持自动扩缩容。模型库不断增添，现已超过100个模型。   
+- 鉴于性能提升带来的计算效率，Together将Llama-2-70B模型优价下调至0.0009美元/1000字，为用户提供更低成本的高性能服务。这对推动AI在各行业的应用具有重要意义。   
+- TogetherInference Engine实现了目前最高效的LLM推理，为AI发展提供了强劲助力。
+《Announcing Together Inference Engine – the fastest inference available》
+https://www.together.ai/blog/together-inference-engine-v1
+
+提出一种内存高效的预训练语言模型微调方法，通过矩阵分解和量化技术，减少内存占用，并在适应性和压缩性能上优于基线方法。
+https://arxiv.org/abs/2311.12023
+[CL]《LQ-LoRA: Low-rank Plus Quantized Matrix Decomposition for Efficient Language Model Finetuning》H Guo, P Greengard, E P. Xing, Y Kim [CMU & Columbia University] (2023)
+
+【xFasterTransformer：在X86 CPU上为大语言模型(LLM)推理进行高度优化的解决方案，支持流行的LLM模型，如ChatGPT、ChatGPT-2、LLama、LLama2等，为单节点和多节点多套系统推理提供高性能实现，提供C++和Python两种API，覆盖了从高级到低级的接口，使用户容易将其集成到自己的解决方案中】’xFasterTransformer' by Intel Corporation GitHub: github.com/intel/xFasterTransformer
+
+【用PyTorch加快生成式AI：将LLaMa 7B性能提升10倍】
+- 使用torch.compile减少CPU开销，将更多工作量一次性送入GPU。   
+- 使用int8量化缩小权重大小，减轻内存带宽压力。torch.compile可自动生成密集的int8量化核。   
+- 使用推理解码(speculative decoding)，使用小模型预测大模型的输出，可打破序列依赖。   
+- 使用int4量化进一步缩小权重大小，可使用GPTQ量化策略提高准确率。   
+- 结合torch.compile、量化、推理解码等技术，可将性能提升10倍左右。   
+- 使用并行技术，分配工作到多个GPU，可进一步减少延迟，易于在PyTorch中实现。   
+- 以上优化技术可以很好地组合使用，所有优化仅需不到1000行PyTorch代码。   
+- PyTorch提供了强大的工具来加速生成式模型，保持简单性、易用性和灵活性。
+《Accelerating Generative AI with PyTorch II: GPT, Fast | PyTorch》
+https://pytorch.org/blog/accelerating-generative-ai-2/
+
+unsloth：让AI训练和微调最高提速30倍
+地址：github.com/unslothai/unsloth
+商业公司的产品，开源版只支持单GPU，2x faster ，40% less memory ​​​
+
+【unsloth：旨在提供2倍速度和50%内存占用的语言模型(LLM)微调，支持本地 QLoRA 微调】'unsloth - 2x faster 50% less memory LLM finetuning' GitHub: github.com/unslothai/unsloth
+
+【用稀疏化微调和DeepSparse在CPU上部署Llama 2】
+- 展示了如何通过在微调过程中应用剪枝和量化来压缩Llama 2模型，无损准确率。   
+- 采用INT8量化和60%稀疏化后，精度不变。   
+- DeepSparse可以加速稀疏化量化的Llama 2模型推理，在60-80%稀疏化下比基准快6-8倍。   
+- 详细介绍了实现Llama 2的权重和激活量化的技术。   
+- 这些技术已经在SparseML开源库中实现，可供企业机器学习工程师使用。   
+- 下一步将进一步提升稀疏化率，扩展模型支持，并产品化稀疏化微调。   
+- 该方法可有效实现Llama 2在CPU高性能部署，为GenAI应用提供支持。
+《Fast Llama 2 on CPUs With Sparse Fine-Tuning and DeepSparse - Neural Magic》
+https://neuralmagic.com/blog/fast-llama-2-on-cpus-with-sparse-fine-tuning-and-deepsparse/

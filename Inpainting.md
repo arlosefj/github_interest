@@ -195,3 +195,8 @@ GitHub：github.com/zuruoke/watermark-removal ​​​​
 https://arxiv.org/abs/2211.10437
 
 【Inpaint-Anything：SAM + 补全模型实现自动化清除图像里包含的目标】’Inpaint-Anything - Inpaint anything using SAM + inpainting models.' Tao Yu GitHub: github.com/geekyutao/Inpaint-Anything
+
+真实性惊人，谷歌、康奈尔提出真实的图像补全技术RealFill
+https://mp.weixin.qq.com/s/j0_z_AoBnAHuom8d6pdwxg
+
+【Inpaint-web：基于Webgpu技术和wasm技术的免费开源inpainting工具, 纯浏览器端实现】'Inpaint-web - A free and open-source inpainting tool powered by webgpu and wasm on the broswer.' lxfater GitHub: github.com/lxfater/inpaint-web

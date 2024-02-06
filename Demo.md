@@ -764,3 +764,18 @@ Temporalkit + Ebsynth + 后期处理
 原贴：🔗twitter.com/yokohara_h/status/1657191627452981248
 
 【Willow - 新一代开源、本地自托管的语音助手，匹敌Amazon Echo/Google Home，高效、准确、廉价且功能丰富。在本地设备上完全自掌控，无需担忧隐私问题】’Willow - A Practical, Open Source, Privacy-Focused Platform for Voice Assistants and other Applications - Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative' Tovera GitHub: github.com/toverainc/willow
+
+'本地AI - Mac和Windows一键安装Stable Diffusion WebUI,LamaCleaner,SadTalker,ChatGLM2-6B,等AI工具,使用国内镜像,无需魔法。' dxcweb GitHub: github.com/dxcweb/local-ai
+
+【EcoAssist：一款开源应用，旨在简化生态学家处理相机陷阱图像的工作。EcoAssist是一个人工智能平台，可以对自动物种检测的自定义模型进行标注、训练和部署，为生态学家提供了一种节省图像审查时间并专注于保护工作的方法】'EcoAssist - an open-source application designed to streamline the work of ecologists dealing with camera trap images' Peter van Lunteren GitHub: github.com/PetervanLunteren/EcoAssist
+
+【pyvideotrans：一个视频翻译工具，可将一种语言的视频翻译为另一种语言和配音的视频。 语音识别基于 openai-whisper 离线模型、文字翻译使用google翻译接口，文字合成语音使用 Microsoft Edge tts，背景音乐去除使用 Spleeter,无需购买任何商业接口，也无需付费】'pyvideotrans - Translate the video from one language to another and add dubbing. ' okaymyworld GitHub: github.com/jianchang512/pyvideotrans
+
+'MyHeyGen：平民版视频翻译工具，音频翻译，翻译校正，视频唇纹合成全流程解决方案’ by AIFSH GitHub: github.com/AIFSH/MyHeyGen
+
+'基于AI的视频硬字幕去除、水印去除，无损分辨率生成去字幕、去水印后的视频文件。无需申请第三方API，本地实现。AI-based tool for removing hard-coded subtitles and watermarks from videos.' YaoFANGUK GitHub: github.com/YaoFANGUK/video-subtitle-remover
+
+【FunASR-APP：基于阿里巴巴FunASR开源语音模型的多功能语音应用库，当前包含两个主要功能模块：ClipVideo和TransAudio：ClipVideo可以根据语音识别结果帮助提取视频或音频中的指定片段，生成剪辑后的视频或音频；TransAudio支持语音转写】’FunASR-APP - Applications based on speech related models from FunASR (Modelscope).' Alibaba Damo Academy GitHub: github.com/alibaba-damo-academy/FunASR-APP
+
+【一个python脚本,可以高效地将YouTube播放列表或单个视频转变为高质量的文字脚本，整合了Whisper模型、SpaCy和CUDA等技术进行视频内容的转录】'Bulk Transcribe Youtube Videos from Playlists - Easily take an entire YouTube playlist and turn it into high quality transcripts using Whisper.' 
+Jeff Emanuel GitHub: github.com/Dicklesworthstone/bulk_transcribe_youtube_videos_from_playlist 

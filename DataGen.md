@@ -795,3 +795,47 @@ https://deepshot.ai/
 【在仅有1GB VRAM的GPU上运行Stable Diffusion】'Tiny optimized Stable-diffusion that can run on GPUs with just 1GB of VRAM.' ThisisBillhe GitHub: github.com/ThisisBillhe/tiny-stable-diffusion
 
 【Segmind-Distill-SD：基于知识蒸馏更小更快的Stable Diffusion版本】'Segmind-Distill-SD - 知识蒸馏，较小的稳定扩散版本' Segmind GitHub: github.com/segmind/distill-sd
+
+【stable-diffusion.cpp：纯C/C++实现的Stable Diffusion，采用类似llama.cpp的方式】’stable-diffusion.cpp - Stable Diffusion in pure C/C++' leejet GitHub: github.com/leejet/stable-diffusion.cpp
+
+用达芬奇手稿微调的Stable Diffusion XL模型
+https://replicate.com/cbh123/sdxl-davinci
+
+Würstchen是一个扩散模型，其文本条件组件在高度压缩的图像潜空间工作。压缩数据可以将训练和推理的计算成本降低几个数量级。Würstchen通过新设计实现了42倍的空间压缩
+https://huggingface.co/blog/wuertschen
+
+stable diffusion原理解读通俗易懂，史诗级万字爆肝长文
+https://mp.weixin.qq.com/s/WbbotOH-awemHxSkw5X_Iw
+
+【AI生成图像作为数据源相关文献列表】’AI-Generated Images as Data Source: The Dawn of Synthetic Era [Paper]' Zuhao Yang GitHub: github.com/mwxely/AIGS
+
+【MIMIC-CXR-VQA：医学领域的视觉问答(VQA)任务的复杂、多样和大规模数据集】’MIMIC-CXR-VQA - A new collection of medical visual question answering dataset on MIMIC-CXR database' baeseongsu GitHub: github.com/baeseongsu/mimic-cxr-vqa
+
+【Stable Fast：用于 HuggingFace Diffusers 在 NVIDIA GPU 上进行推断优化的超轻量推断优化库】'Stable Fast - An ultra lightweight inference performance optimization library for HuggingFace Diffusers on NVIDIA GPUs.' chengzeyi GitHub: github.com/chengzeyi/stable-fast
+
+【Seg2Sat：利用Stable Diffusion算法和ControlNet合成航拍图像，数据集源自IGN的FLAIR（法国航空图像地面覆盖数据），用于法国各地区的地面覆盖信息】’Seg2Sat - Segmentation to aerial view using pretrained diffuser models - Using StableDiffusion and ControlNet to generate synthetic aerial images' Retronyme GitHub: github.com/RubenGres/Seg2Sat
+
+【SSD-1B：用于文本到图像生成的模型，相比其前身Stable Diffusion XL(SDXL)，提供了60%的速度提升。该模型经过多样的数据集训练，包括Grit和Midjourney的数据，因此能够根据文本提示生成各种视觉内容】《Segmind Stable Diffusion 1B (SSD-1B) Model Card | segmind/SSD-1B · Hugging Face》
+https://huggingface.co/segmind/SSD-1B
+github.com/segmind/SSD-1B
+
+【Kandinsky-3: 基于 Kandinsky2-x 模型族构建的开源文本到图像扩散模型】'Kandinsky-3: Text-to-image diffusion model' by AI Forever GitHub: github.com/ai-forever/Kandinsky-3
+
+【Stable Diffusion web UI with DirectML：基于Gradio库的Stable Diffusion的浏览器界面，提供了各种功能，包括文本到图像、图像到图像模式、生成高分辨率图像等】'Stable Diffusion web UI with DirectML - A browser interface based on Gradio library for Stable Diffusion' Seunghoon Lee GitHub: github.com/lshqqytiger/stable-diffusion-webui-directml
+
+### 【Demo：基于跨图像注意力的零样本外观迁移】《Cross Image Attention - a Hugging Face Space by yuvalalaluf》
+https://huggingface.co/spaces/yuvalalaluf/cross-image-attention
+
+SDXL Turbo，Stability AI 推出的实时文本到图像生成模型。速度超快。
+详细介绍：stability.ai/news/stability-ai-sdxl-turbo
+
+上海人工智能实验室的视频生成模型开源项目 Vchitect 
+📽️LaVie (Text2Video Model)
+- Code: github.com/Vchitect/LaVie
+- huggingface.co/spaces/Vchitect/LaVie 网页链接
+📽️SEINE (Image2Video Model)
+- Code: github.com/Vchitect/SEINE
+- huggingface.co/spaces/Vchitect/SEINE
+
+北邮  清华  英国萨里大学  英国爱丁堡大学的一项研究，DemoFusion，让AI绘制高分辨率图像的成本更低。在单张RTX 3090 GPU上就能生成高分辨率图片（如4k图片）
+地址：ruoyidu.github.io/demofusion/demofusion.html

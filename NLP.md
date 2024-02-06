@@ -1408,3 +1408,103 @@ https://www.kaggle.com/code/jhoward/getting-started-with-llms/
 项目：github.com/ymcui/Chinese-LLaMA-Alpaca-2 ​​​
 
 'Llama2 Embeddings FastAPI Service' by Dicklesworthstone GitHub: github.com/Dicklesworthstone/Jeff Emanuel
+
+【GPT-vup Live2D数字人直播：支持BiliBili和抖音直播，基于生产者-消费者模型设计，使用了openai嵌入、GPT3.5 api】'GPT-vup BIliBili | 抖音 | AI | 虚拟主播' JiRan GitHub: github.com/jiran214/GPT-vup
+
+'AI Vtuber - 由 [ChatterBot/ChatGPT/claude/langchain（本地/llm）/chatglm/text-generation-webui/闻达] 驱动的虚拟主播(Live2D)，可以与观众实时互动 或 直接在本地进行聊天，使用自然语言处理和文本转语音技术 [edge-tts/VITS/elevenlabs/bark-gui] 生成对观众问题的回答并可以选择 [so-vits-svc/DDSP-SVC]变声；通过特定指令协同Stable Diffusion进行画图展示。并且可以自定义文案进行循环播放' Ikaros GitHub: github.com/Ikaros-521/AI-Vtuber
+
+SillyTavern 这是一个可以本地部署的虚拟角色聊天软件，支持多种虚拟角色，也可以自己创造角色，后台可以连多种不同LLM，比如OpenAI、Claude、Llama等，支持TTS（文字转语音）
+另外它支持NSFW，也就是传说中的文爱。
+项目地址：github.com/SillyTavern/SillyTavern ​​​
+
+【AI-Waifu-Vtuber：AI伴侣虚拟YouTuber，基于VoiceVox Engine、DeepL、Whisper OpenAI、Seliro TTS和VtubeStudio等技术构建】’AI-Waifu-Vtuber - AI Vtuber for Streaming on Youtube/Twitch' Ardha GitHub: github.com/ardha27/AI-Waifu-Vtuber
+
+【LlamaGPT：自托管离线聊天机器人，类似于ChatGPTm由Llama 2提供支持，保证100%隐私，没有数据会离开设备，根据硬件选择合适的模型大小，如7B、13B和70B】’LlamaGPT - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device.' Umbrel GitHub: github.com/getumbrel/llama-gpt 
+
+【TinyGPT：GPT-2的从头用C++11实现​​的微小推理实现，主要基于 picoGPT 项目】'TinyGPT - Tiny C++11 GPT-2 inference implementation from scratch' Keith GitHub: github.com/keith2018/TinyGPT
+
+【Qwen-VL(通义千问)：阿里云的大规模视觉语言模型(Large Vision Language Model, LVLM)，可以以图像、文本、检测框作为输入，并以文本和检测框作为输出】'Qwen-VL - The official repo of Qwen-VL (通义千问-VL) chat & pretrained large vision language model proposed by Alibaba Cloud.' Qwen GitHub: github.com/QwenLM/Qwen-VL 
+
+### 【TinyChatEngine: 设备端大型语言模型(LLM)推断库，可用于边缘计算，可以在笔记本电脑、车载娱乐系统、机器人或飞船上运行代码助手、办公应用和智能回复等服务】'TinyChatEngine: On-Device LLM Inference Library' MIT HAN Lab GitHub: github.com/mit-han-lab/TinyChatEngine
+
+【基于Transformer的LLM原理可视化解析】《Generative AI exists because of the transformer》
+http://aicoco.net/s/5k
+
+【面向不同任务微调Llama-2经验总结】
+- 研究了3个不同任务的Llama-2微调，包括从非结构文本提取功能性表示、SQL生成和学龄前数学推理。  
+- 微调可以明显提升Llama-2在这些任务上的表现，有时甚至超过GPT-4。
+- 对每个任务，讨论了微调的可行性，评估方法，结果比较以及关键收获。   
+- 微调的重点是学习特定任务的结构，而不仅是事实知识。   
+- 合理的评估流程对模型开发非常重要。 
+- 整体而言，微调可以有效提升模型在特定任务上的表现，是实现生产可用的LLM应用的一种重要途径。  
+《Fine-Tuning Llama-2: A Comprehensive Case Study for Tailoring Models to Unique Applications》
+https://www.anyscale.com/blog/fine-tuning-llama-2-a-comprehensive-case-study-for-tailoring-models-to-unique-applications
+
+'敏感词检测API - 私有化部署 - 敏感词检测，违禁词过滤，敏感词过滤，敏感词库，一键启动，本地运行，私有化部署，1分钟接入完成，支持docker，支持在线api' bosnzt GitHub: github.com/bosnzt/wordscheck
+
+【Translumo：高级屏幕翻译工具，能够实时检测和翻译选定区域中出现的文字】'Translumo - Advanced real-time screen translator for games, hardcoded subtitles in videos, static text and etc.' Danil I. GitHub: github.com/Danily07/Translumo
+
+'qwen.cpp - C++ implementation of Qwen-LM for real-time chatting on your MacBook' GitHub: github.com/QwenLM/qwen.cpp
+
+【localpilot：在本地运行的GitHub Copilot】’localpilot - Use GitHub Copilot locally on your Macbook with one-click!’ by Daniel Gross GitHub: github.com/danielgross/localpilot
+
+【用于改善效率和学习的教育提示设计，旨在改变 K-12 和高等教育机构的学生、教育工作者和工作人员与 ChatGPT 和 Bing Chat 等生成式 AI 技术互动的方式】’Prompts for Education: Enhancing Productivity & Learning' by Microsoft GitHub: github.com/microsoft/prompts-for-edu
+
+【llm-python：LLM应用实例教程(覆盖langchain, openai, llamaindex, gpt, chromadb & pinecone等)】’llm-python - Large Language Models (LLMs) tutorials & sample scripts, ft. langchain, openai, llamaindex, gpt, chromadb & pinecone' Samuel Chan GitHub: github.com/onlyphantom/llm-python
+
+【用 LoRA 和 QLoRA 微调 LLM：数百次实验的启示】《Finetuning LLMs with LoRA and QLoRA: Insights from Hundreds of Experiments - Lightning AI》 
+https://lightning.ai/pages/community/lora-insights/
+
+'Baichuan2-Explained - Baichuan2代码的逐行解析版本，适合小白' Doc.Artificial GitHub: github.com/ArtificialZeng/Baichuan2-Explained
+
+### Prompts 的 Cheatsheet：hansimov.github.io/GPT-Sharing/prompts-cheat-sheet.html
+
+【LLaVA C++ Server：简单API服务器，用于LLaVA的C++实现】'LLaVA C++ Server - LLaVA server (llama.cpp).' Bart Trzynadlowski GitHub: github.com/trzy/llava-cpp-server
+
+【LLM推理资源合集(Papers|Blogs|Docs)】'A small Collection for Awesome LLM inference [Papers|Blogs|Docs] with codes, contains TensorRT-LLM, streaming-llm, SmoothQuant, WINT8/4, Continuous Batching, FlashAttention, PagedAttention etc.' DefTruth GitHub: github.com/DefTruth/Awesome-LLM-Inference
+
+'Chat-嬛嬛 2.0 - 利用《甄嬛传》剧本中所有关于甄嬛的台词和语句，基于ChatGLM2进行LoRA微调得到的模仿甄嬛语气的聊天语言模型' KMnO4-zx GitHub: github.com/KMnO4-zx/huanhuan-chat
+
+'中文LLaMA-2 & Alpaca-2大模型二期项目 + 16K超长上下文模型 (Chinese LLaMA-2 & Alpaca-2 LLMs, including 16K long context models)' Yiming Cui GitHub: github.com/ymcui/Chinese-LLaMA-Alpaca-2
+
+电子书《LLM 应用开发实践笔记》
+地址：github.com/morsoli/llm-books
+理论学习部分由Langchain、LlamaIndex等开源工具文档、一些最佳实践的技术博客、论文阅读三部分组成。在每个工具的理论学习结束后，辅以实践性代码帮助理解。最后会将各个模块整合起来实现一个信息处理系统。 ​​​
+
+'孙思邈中文医疗大模型(Sunsimiao)：提供安全、可靠、普惠的中文医疗大模型' thomas-yanxin GitHub: github.com/thomas-yanxin/Sunsimiao
+
+大模型与知识图谱的优缺点，可否互补？[](https://wx4.sinaimg.cn/mw690/3c2bdea5ly1hjlgqlzexfj20xc0ljtjo.jpg)
+
+【LoRAX：可以高效地在单个GPU设备上部署和运行多个微调大语言模型的框架，显著降低了服务成本，支持动态加载不同的适配器模型，能根据请求实时加载必要的模型权重，不影响并发请求】’LoRAX - Serve 100s of Fine-Tuned LLMs in Production for the Cost of 1' Predibase GitHub: github.com/predibase/lorax
+
+【用LoRA微调LLM的实用技巧】《Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation)》
+https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms
+
+【(免费电子书)动手学大模型应用开发：旨在帮助小白开发者通过实践构建个人知识库助手，学习大模型应用开发的基础入门】《动手学大模型应用开发》 GitHub: github.com/datawhalechina/llm-universe
+
+电子书《大规模语言模型：从理论到实践》
+地址：intro-llm.github.io/
+复旦大学张奇、桂韬、郑锐、黄萱菁老师作品。本书将介绍大语言模型的基础理论包括语言模型、分布式模型训练以及强化学习，并以Deepspeed-Chat框架为例介绍实现大语言模型和类ChatGPT系统的实践。
+本书围绕大语言模型构建的四个主要阶段：预训练、有监督微调、奖励建模和强化学习，详细介绍各阶段使用的算法、数据、难点以及实践经验。
+网站内含电子书和课件。
+
+【Open-Llama：一个开源项目，提供了一整套用于构建大型语言模型的训练流程，从数据集准备到分词、预训练、指令调优，lora, 以及强化学习技术 RLHF】'Open-Llama - The complete training code of the open-source high-performance Llama model, including the full process from pre-training to RLHF.' RapidAI GitHub: github.com/RapidAI/Open-Llama
+
+【llamafile：旨在通过单一文件分发和运行LLM(大语言模型)，主要目标是实现“一次构建，随处运行”的愿景，使AI开发人员能够将应用构建为单一文件，可在大多数PC和服务器上本地运行】'llamafile - Distribute and run LLMs with a single file.' Mozilla Ocho GitHub: github.com/Mozilla-Ocho/llamafile
+
+LLM Visualization
+一个将 ChatGPT 背后的小型 LLM 可视化的网页，它采用三维渲染，显示了运行单标记推理的所有步骤。
+https://bbycroft.net/llm
+https://github.com/bbycroft/llm-viz
+
+【在笔记本电脑上训练自己的LLM模型】
+- 介绍了Low Rank Adapters(LoRA)和QLoRA两种降低LLM微调内存需求的方法。   
+- QLoRA通过量化预训练语言模型来实现内存需求减小。   
+- 结合梯度检查点技术，QLoRA可以在CPU上运行。   
+- 文章展示了如何通过Intel® Extension for Transformers在CPU上实现QLoRA。   
+- 结果显示，QLoRA可以在消费级CPU上进行LLM微调，并取得与LoRA相当的指标，但大大减少资源需求。   
+- 关键是优化了dropout运算和量化权重张量的反量化流程。   
+- 文章鼓励读者在自己的笔记本电脑上尝试QLoRA，创建自己的聊天机器人。   
+- 这种技术有望使消费级硬件也能进行LLM的有效训练和部署。
+《Creating Your Own LLMs on Your Laptop | by Intel(R) Neural Compressor | Dec, 2023 | Medium》
+https://medium.com/intel-analytics-software/creating-your-own-llms-on-your-laptop-a08cc4f7c91b

@@ -1167,3 +1167,20 @@ https://arxiv.org/abs/2304.08069
  GitHub: github.com/LCH1238/bevdet-tensorrt-cpp
 
  【基于Transformer的目标检测相关文献资源列表】’Object Detection with Transformers: A Review' by mindgarage-shan GitHub: github.com/mindgarage-shan/transformer_object_detection_survey 
+
+ 【Hugging Face新推出的开放目标检测排行榜】《Open Object Detection Leaderboard - a Hugging Face Space by rafaelpadilla》
+ https://huggingface.co/spaces/rafaelpadilla/object_detection_leaderboard
+
+ 【目标检测模型的评估】
+- 平均精度(AP)是目标检测模型常用的评估指标，综合考虑了精确率和召回率。   
+- AP有多个变体，适用于不同的使用场景，如AP@ 0.5、AP@ 0.75等。平均召回率(AR)更侧重召回率。   
+- 计算AP需要确定真正例和假正例，绘制精确率-召回率曲线，求曲线下面积。   
+- 评估时需要注意许多参数的影响，如置信度阈值、批量大小、转换框格式等。   
+- 选择评估指标要考虑应用目的和数据集特点。没有一个通用的最佳指标。   
+- 理解评估指标的计算和局限非常必要，是对模型性能做出准确判断的基础。
+https://huggingface.co/blog/object-detection-leaderboard
+![](https://wx1.sinaimg.cn/mw690/5396ee05ly8hi1ll9dkwuj21gl0prwla.jpg)
+
+【用于目标检测的知识蒸馏相关论文和代码列表】'Awesome Knowledge Distillation for Object Detection - A curated list of awesome knowledge distillation papers and codes for object detection.' Luting Wang GitHub: github.com/LutingWang/awesome-knowledge-distillation-for-object-detection
+
+【与描述目标检测、开放词汇/开放世界目标检测和指称表达理解相关的论文和资源列表】’Awesome Described Object Detection - A curated list of papers and resources related to Described Object Detection, Open-Vocabulary/Open-World Object Detection and Referring Expression Comprehension.' Chi Xie GitHub: github.com/Charles-Xie/awesome-described-object-detection

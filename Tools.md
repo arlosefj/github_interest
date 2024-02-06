@@ -1389,3 +1389,53 @@ GitHub：github.com/1Panel-dev/1Panel
 【Obsidian AI：将AI功能引入Obsidian，提供强大的语义搜索和生成式问答功能】’Obsidian AI - Adding powerful semantic search, generative answers, and other AI tools to Obsidian, using Supabase + OpenAI.' Sudharshan  GitHub: github.com/solderneer/obsidian-ai-tools
 
 【Pop：从终端发送电子邮件】’Pop - Send emails from your terminal' Charm GitHub: github.com/charmbracelet/pop
+
+【集成各种常用操作的免费PDF工具，支持加密，解密，优化，合并，旋转，删页、分割等功能，无需上传文件到云端，完全在本地操作，保证隐私】“PDF 工具 - 编辑 PDF 文件，集成隐私保护功能” https://www.pdftool.org/zh
+
+【Stirling-PDF：强大的基于Docker的本地托管的Web PDF操作工具，可以执行拆分、合并、转换、重新组织、添加图像、旋转、压缩等多种PDF操作，最初是由ChatGPT创建的应用程序，已经发展为具备广泛功能的PDF处理工具】’Stirling-PDF - locally hosted web application that allows you to perform various operations on PDF files' Anthony Stirling GitHub: github.com/Frooodle/Stirling-PDF
+
+免费 AI 工具列表：
+→ 写作: Claude
+→ 搜索: Bing Chat
+→ 图片生成: Playground
+→ 设计: Microsoft Designer
+→ 笔记: Docs AI
+→ 表格: Sheets AI
+→ 学术: Consensus
+→ 音乐: Google MusicLM
+
+【Vizro：用于创建模块化数据可视化应用的工具包】'Vizro - a toolkit for creating modular data visualization applications.' Open Source by McKinsey GitHub: github.com/mckinsey/vizro
+
+【Mercury：可以与任意文档或网站进行对话，使用自定义的GPT模型，可以在用户上传的文档或网页上进行训练，工具的主要步骤包括上传文件、爬取网页、查询和回应】'Mercury - Train your own custom GPT. Chat with any file, or website.' Nolansym GitHub: github.com/Jordan-Gilliam/ai-template
+
+Tai：在 Windows 上统计 软件 使用时长和 网站 浏览时长
+地址：github.com/Planshit/Tai
+帮助你了解自己把时间花在了什么地方，从而更好地做一些计划。
+
+《用Obsidian做了1年个人管理，我最喜欢的7个功能》
+https://forum-zh.obsidian.md/t/topic/14906/1
+
+DoubleKiller 是一款针对个人用户免费使用，在 Windows 上查找并删除重复文件的小工具。基于文件名、尺寸、日期、CRC32 校验四种方式相互结合完成重复文件的查找与删除。
+https://www.appinn.com/doublekiller-2/
+
+网易有道今天官宣了全球首个虚拟人口语私教Hi Echo，可以直接跟这个虚拟人英语对话，非常还原真实练口语场景，口音很正，对社恐练习口语太友好了，这年头的学英语的孩子太幸福了。
+
+【PairDrop：本地文件共享工具，灵感来自于苹果的AirDrop，可以在浏览器中使用。它是Snapdrop的分支，允许在本地网络上发送图像、文档或文本，也可以通过互联网传输文件】'PairDrop: Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop.' schlagmichdoch GitHub: github.com/schlagmichdoch/PairDrop
+
+'蜂鸟物联网平台：由Golang编写的超轻量级物联网平台，具有轻量级、快速、极低的内存占用等特性，特别适用于个人开发者或初创公司承接中小型物联网项目。' winc-link GitHub: github.com/winc-link/hummingbird 
+
+chsrc：自动帮助用户测速，挑选最快的镜像站。
+全平台命令行换源工具，目标支持 Linux, Windows, macOS, BSD 等尽可能多的操作系统，龙芯、飞腾等尽可能多的CPU。
+地址：github.com/RubyMetric/chsrc
+
+【HertzBeat：易用友好的开源实时监控告警系统，无需Agent，高性能集群，强大自定义监控能力】'HertzBeat - An open source, real-time monitoring system with custom-monitoring, high performance cluster and agentless. Support monitoring web, database, os, middleware, cloudnative, network and more.' dromara GitHub: github.com/dromara/hertzbeat
+
+YAKC：一个鼠标、键盘操作可视化显示工具（比如用在录屏时显示当前的键盘鼠标操作
+地址：github.com/iammodev/YAKC
+
+【Windrecorder | 捕风记录仪：连续记录屏幕内容，通过OCR技术识别记录内容，支持任意时间点查询搜索记录内存，实现在Windows平台搜索桌面活动记忆的需求】’Windrecorder | 捕风记录仪 - MacOS App Rewind's alternative on Windows platform, your personal memorize search engine. It can continuously recording your screen locally in small file size, and OCR the content so you can backtrack and query memory any time.' Antonoko GitHub: github.com/Antonoko/Windrecorder
+
+【sshx：开源在线ssh终端共享工具，支持跨平台快速安装，只需运行一条命令即可使用，可实现实时交互式ssh终端会话，支持多人协作操作同一个ssh终端，还提供了端到端加密、自动重连以及低延迟等功能】’sshx - Fast, collaborative live terminal sharing over the web' Eric Zhang GitHub: github.com/ekzhang/sshx
+
+GKD：基于 无障碍 + 高级选择器 + 订阅规则 的安卓自定义屏幕点击 APP
+地址：github.com/gkd-kit/gkd

@@ -180,3 +180,5 @@ github.com/wxlscm/raspberry_tutorial
 GitHub: github.com/NVIDIA-AI-IOT/jetnet
 
 【用 OpenCV 和树莓Pi 4 搭建的简单人脸识别系统】’Simple Facial Recognition with OpenCV and Raspberry Pi 4 - A simple facial recognition system using OpenCV and Raspberry Pi 4' Charles Calapini GitHub: github.com/calapsss/face_detection_tutorial 
+
+【Jetson知识蒸馏简介教程】’Jetson Introduction to Knowledge Distillation - A tutorial introducing knowledge distillation as an optimization technique for deployment on NVIDIA Jetson' NVIDIA AI IOT GitHub: github.com/NVIDIA-AI-IOT/jetson-intro-to-distillation

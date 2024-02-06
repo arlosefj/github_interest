@@ -953,3 +953,33 @@ https://sebastianraschka.com/blog/2023/pytorch-faster.html
 【SSLRec: 基于PyTorch的深度学习框架，通过自监督学习技术增强了推荐系统，包含常用数据集、数据处理、训练、测试、评估和最先进的研究模型的代码脚本，提供了大量实用函数和易于使用的界面，简化了推荐模型的开发和评估过程】’SSLRec: A Self-Supervised Learning Library for Recommendation - SSLRec: A Self-Supervised Learning Library for Recommendation' HKUDS GitHub: github.com/HKUDS/SSLRec
 
 'torchkeras：通用的pytorch模型训练模版工具，旨在提供优雅、易用且易于修改的训练工具，支持进度条、评估指标、early stopping等功能，同时还支持tensorboard和wandb回调函数等扩展功能’ lyhue1991 GitHub: github.com/lyhue1991/torchkeras
+
+'Pytorch Docker Images - Pure Pytorch Docker Images.' cnstark GitHub: github.com/cnstark/pytorch-docker
+
+【comgra：一个与 pytorch 一起使用的库，可以更轻松地检查神经网络的内部结构，允许可视化计算图并检查不同时间点的各张量的值】’comgra - a library for use with pytorch that makes it easier to inspect the internals of your neural networks' by Florian Dietz GitHub: github.com/FlorianDietz/comgra
+
+'tinytorch - A really tiny autograd engine' joey00072 GitHub: github.com/joey00072/Tinytorch
+
+【ExecuTorch：PyTorch发布的移动和边缘设备推理工具包】
+- ExecuTorch提供了轻量级运行时和算子注册表，覆盖了PyTorch生态系统中的各类模型。   
+- ExecuTorch包含了从模型创作到训练和部署的端到端SDK和工具链。   
+- ExecuTorch具有可组合性，支持第三方集成，可以加速不同硬件平台上的模型推理。   
+- ExecuTorch强调多平台可移植性、高生产效率和利用硬件性能的高性能。   
+- ExecuTorch由Arm、苹果和高通的自定义智能体组件优化，可在其各自的硬件平台上实现高效的模型推理。   
+- PyTorch Edge及ExecuTorch使研究环境和生产环境更加贴近，为PyTorch社区带来端到端的在设备上部署解决方案。   
+- ExecuTorch为移动设备和边缘设备上的在设备推理奠定基础，有望推动各类创新应用的产生。 
+《PyTorch Edge: Enabling On-Device Inference Across Mobile and Edge Devices with ExecuTorch | PyTorch》
+github.com/pytorch/executorch#executorch
+
+【PyTorch Frame：PyTorch表格深度学习库，专门用于处理异构的表格数据，包括数值、分类、时间、文本和图像等不同列类型，旨在促进表格数据的深度学习研究，为初学者和专家提供支持，以解决传统基于树的模型在处理复杂列类型（如文本、序列、图像）和与下游模型（如GNNs）集成的困难等问题】’PyTorch Frame - Tabular Deep Learning Library for PyTorch' PyG GitHub: github.com/pyg-team/pytorch-frame
+
+电子书《Deep Learning with PyTorch》
+https://livebook.manning.com/book/deep-learning-with-pytorch
+本书的目的是为大家介绍PyTorch深度学习的基础知识，并以一个实际项目来展示。我们力图介绍深度学习底层的核心思想，并向读者展示PyTorch如何将其实现。 ​​​
+
+深入浅出PyTorch
+阅读地址：datawhalechina.github.io/thorough-pytorch/
+“PyTorch是利用深度学习进行数据科学研究的重要工具，在灵活性、可读性和性能上都具备相当的优势，近年来已成为学术界实现深度学习算法最常用的框架。
+考虑到PyTorch的学习兼具理论储备和动手训练，两手都要抓两手都要硬的特点，我们（Datawhale）开发了《深入浅出PyTorch》课程，期望以组队学习的形式，帮助大家从入门到熟练掌握PyTorch工具，进而实现自己的深度学习算法。”
+
+【TorchFix：PyTorch代码静态分析工具，具备自动修复功能的代码检查器，它利用LibCST库操作Python具体语法树，支持自动修复（codemods）以及问题报告】'TorchFix - a linter for PyTorch-using code with autofix support - TorchFix - a linter for PyTorch-using code with autofix support' PyTorch Labs GitHub: github.com/pytorch-labs/torchfix 

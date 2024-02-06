@@ -115,3 +115,5 @@ https://arxiv.org/abs/2209.11629
 
 提出一种针对CNN的持续学习解决方案--通道级轻量重编程方法，通过任务特定的轻量参数实现新任务的学习和旧任务的保留，提供了更好的稳定性-可塑性权衡，实现了更低的额外参数需求，并在挑战性图像分类任务上实现了最优性能。
 https://arxiv.org/abs/2307.11386
+
+【NeuroEvoBench: 神经进化优化算法基准测试平台，支持4类11个深度学习任务,如图像分类、机器人控制等,可以评估不同进化算法的泛化能力】’NeuroEvoBench: Benchmarking Evolutionary Optimizers for Deep Learning Applications - Neuroevolution Benchmark in JAX' GitHub: github.com/neuroevobench/neuroevobench

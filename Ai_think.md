@@ -404,3 +404,14 @@ https://mp.weixin.qq.com/s/_ZvyxRpgIA4L4pqfcQtPTQ
 
 吴恩达对话李飞飞：人工智能的过去和现在
 https://weibo.com/ttarticle/p/show?id=2309404903850258858230
+
+通过提出卷积神经特征猜想和使用基于图块的平均梯度外积，深入理解了卷积神经网络的特征学习机制，并在卷积核机器中实现了深度特征学习。
+https://arxiv.org/abs/2309.00570
+[LG]《Mechanism of feature learning in convolutional neural networks》D Beaglehole, A Radhakrishnan, P Pandit, M Belkin [UC San Diego & MIT] (2023) 
+
+通过在大规模数据集上预训练和微调ConvNet模型，挑战了ConvNets与Vision Transformers的竞争能力，发现它们在类似计算预算的情况下具有可比较的性能
+https://arxiv.org/abs/2310.16764
+
+提出一种名为“Battle of the Backbones”的方法，通过全面比较不同预训练模型在多种计算机视觉任务上的性能，揭示了传统卷积神经网络仍然表现最好的事实，并强调了自监督学习模型的竞争力和未来发展方向。
+https://arxiv.org/abs/2310.19909
+[CV]《Battle of the Backbones: A Large-Scale Comparison of Pretrained Models across Computer Vision Tasks》M Goldblum, H Souri, R Ni, M Shu, V Prabhu, G Somepalli, P Chattopadhyay, M Ibrahim, A Bardes, J Hoffman, R Chellappa, A G Wilson, T Goldstein [New York University & Johns Hopkins University & University of Maryland] (2023)

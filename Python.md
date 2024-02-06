@@ -1018,3 +1018,7 @@ https://quickref.me/python
 【Jupyter Real-Time Collaboration：支持Y documents的Jupyter实时协作插件，可在JupyterLab中添加协作UI元素】'Jupyter Real-Time Collaboration - A Jupyter Server Extension Providing Support for Y Documents' JupyterLab GitHub: github.com/jupyterlab/jupyter_collaboration
 
 【st-paywall：用于在Streamlit应用中创建付费(订阅)功能的Python包，可以帮助数据科学家和开发人员围绕Streamlit应用创建小型业务】’st-paywall - A python package for creating subscription Streamlit apps' Tyler Richards GitHub: github.com/tylerjrichards/st-paywall
+
+【Clusterfun：用于探索图像数据的 Python 绘图库。支持通过 pandas DataFrame 提供的数据进行可视化，提供多种绘图类型，包括柱状图、混淆矩阵、网格、直方图、饼图、散点图和小提琴图】'Clusterfun - Python plotting library to explore data in your plots.' Jochem Gietema GitHub: github.com/gietema/clusterfun
+
+【用于Python数据工程师的Kurtosis包，可部署Jupyter笔记本、可配置的数据库和可视化工具（Streamlit)，将Jupyter、选择的数据库以及Streamlit无缝连接，使用Jupyter原型化数据收集，使用Streamlit原型化数据可视化】'Jupyter Notebook + Database + Streamlit App - A Kurtosis package for Python data engineers, deploying a Jupyter notebook along with a configurable set of databases, and a visualization tool (Streamlit)' Galen Marchetti GitHub: github.com/galenmarchetti/jupyter-notebook-package

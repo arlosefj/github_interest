@@ -196,3 +196,7 @@ https://arxiv.org/abs/2305.10724
 [CV]《Segment Any Anomaly without Training via Hybrid Prompt Regularization》Y Cao, X Xu, C Sun, Y Cheng, Z Du, L Gao, W Shen [Huazhong University of Science and Technology] (2023)
 
 【Python Deep Outlier/Anomaly Detection (DeepOD)：基于深度学习的多变量/时间序列数据的异常检测框架，提供了多个模型和统一的实现】’Python Deep Outlier/Anomaly Detection (DeepOD) - Deep learning-based outlier/anomaly detection' Hongzuo Xu GitHub: github.com/xuhongzuo/DeepOD
+
+提出一种利用CLIP进行零样本异常检测的方法，通过生成多样化的嵌入向量，利用前馈神经网络提取正常和异常特征，实现了通用的异常检测器。
+https://arxiv.org/abs/2308.11119
+[CV]《Random Word Data Augmentation with CLIP for Zero-Shot Anomaly Detection》M Tamura [Hitachi America] (2023)

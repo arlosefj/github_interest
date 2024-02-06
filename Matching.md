@@ -265,3 +265,9 @@ https://zhuanlan.zhihu.com/p/367290573
 
 [CV]《DeepMatcher: A Deep Transformer-based Network for Robust and Accurate Local Feature Matching》T Xie, K Dai, K Wang, R Li, L Zhao [Harbin Institute of Technology] (2023) 
 https://arxiv.org/abs/2301.02993
+
+【Glue Factory：用于训练和评估提取和匹配局部视觉特征的深度神经网络的开发库】’Glue Factory - CVG's library for training and evaluating deep neural network that extract and match local visual feature' CVG GitHub: github.com/cvg/glue-factory
+
+【SMATCH++：用于处理图形的软件包，包括图形对齐和匹配，主要关注语义AMR图的标准化评估，使用结构匹配(Smatch)方法】’SMATCH++ - A package for handy processing of semantic graphs such as AMR, with a special focus on standardized evaluation' Juri Opitz GitHub: github.com/flipz357/smatchpp
+
+【图像匹配相关文献资源列表】’Awesome-Image-Matching' by Zhenjun Zhao GitHub: github.com/ericzzj1989/Awesome-Image-Matching

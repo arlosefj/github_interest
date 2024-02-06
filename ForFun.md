@@ -639,3 +639,53 @@ https://www.prettypolly.app
 【FaceChain：可以用来打造个人数字形象的深度学习模型工具，仅需要提供最低三张照片即可获得独属于自己的个人形象数字替身】'FaceChain - FaceChain is a deep-learning toolchain for generating your Digital-Twin.' ModelScope GitHub: github.com/modelscope/facechain
 
 'VirtualWife - 一个虚拟主播项目，目前支持在B站进行直播，用户可以自由更换VRM人物模型，大家可以将他作为一个虚拟主播入门demo，在上面扩展自己喜欢功能。' yakami GitHub: github.com/yakami129/VirtualWife
+
+【FaceChain：可以用来打造个人数字形象的深度学习模型工具，仅需要提供最低三张照片即可获得独属于自己的个人形象数字替身】'FaceChain - FaceChain is a deep-learning toolchain for generating your Digital-Twin.' ModelScope GitHub: github.com/modelscope/facechain
+Colab上可以运行的版本：github.com/camenduru/facechain-colab
+
+【TINY DREAM： C++ 实现的Stable Diffusion无依赖嵌入式头文件库，主要关注 CPU 效率和更小的内存占用，在普通消费级硬件上运行速度相当快，仅需要 1.7 ~ 5.5 GB 的 RAM 即可执行，不强制使用 GPU】’TINY DREAM - An embedded, Header Only, Stable Diffusion C++ implementation' PixLab | Symisc Systems GitHub: github.com/symisc/tiny-dream
+
+【EasyPhoto：一款Webui UI插件，用于生成AI肖像画，该代码可用于训练数字分身。建议使用 5 到 20 张肖像图片进行训练，最好是半身照片且不要佩戴眼镜（少量可以接受）。训练完成后，可以在推理部分生成图像。支持使用预设模板图片与上传自己的图片进行推理】'EasyPhoto | Your Smart AI Photo Generator' aigc-apps GitHub: github.com/aigc-apps/sd-webui-EasyPhoto
+
+ProPainter 一键移除视频内的移动物体，一键移除视频水印。
+代码库：github.com/sczhou/ProPainter
+
+'Rust + candle + CLIP 实现的搜图工具' flaribbit GitHub: github.com/flaribbit/imgfind 
+
+Manga-Image-Translator：一个开源的漫画图片翻译器
+能够自动翻译漫画图像中的文本，当然普通的图片也可以。翻译完成后在图像在原位置替换译文。干净简洁，速度很快。
+主要支持日语，汉语、英文和韩语。
+GitHub：github.com/zyddnys/manga-image-translator/blob/main/README_CN.md
+
+Drawdata：随手涂鸦创建2D数据集 github: github.com/patchy631/machine-learning/blob/main/awesome_tools/drawdata.ipynb
+
+【EasyPhoto：智能 AI 照片生成器，用于生成AI肖像画，代码可用于训练与您相关的数字分身】'EasyPhoto | Your Smart AI Photo Generator. Without Stable-Diffusion-Webui' aigc-apps GitHub: github.com/aigc-apps/EasyPhoto
+
+音频输入生成口型同步视频 https://bhaasha.iiit.ac.in/lipsync/
+代码仓库：github.com/Rudrabha/Wav2Lip
+
+### 【CPU上运行的快速stable diffusion，Core i7-12700上生成一张512x512图片只要21秒】’Fast stable diffusion CPU' Rupesh Sreeraman GitHub: github.com/rupeshs/fastsdcpu
+
+【XTalker：四代 Xeon CPU 上更快的说话脸实现，基于SadTalker，利用低精度和并行将推理速度提高了 10 倍】’XTalker - Faster Talking Face Animation on 4th Gen Xeon CPU' Sihan Chen GitHub: github.com/Spycsh/xtalker
+
+【Wunjo AI：合成和克隆英语/俄语/中文语音、实时语音识别、深度换脸和唇动合成、通过文本提示更改视频、分割和修饰】'Wunjo AI: Synthesize & clone voices in English, Russian & Chinese, real-time speech recognition, deepfake face & lips animation, face swap with one photo, change video by text prompts, segmentation, and retouching. Open-source, local & free.' Wladislav Radchenko GitHub: github.com/wladradchenko/wunjo.wladradchenko.ru
+
+【基于LCM的SD准实时图片流生成[酷]】《Real-Time Latent Consistency Model - a Hugging Face Space by radames》
+github.com/radames/Real-Time-Latent-Consistency-Model
+
+pyvideotrans：这是一个视频翻译工具，可将一种语言的视频翻译为另一种语言和配音的视频。 
+地址：github.com/jianchang512/pyvideotrans
+其语音识别基于 openai-whisper 离线模型、文字翻译使用google翻译接口，文字合成语音使用 Microsoft Edge tts，背景音乐去除使用 Spleeter,无需付费的商业接口
+
+【SAM + MetaCLIP + ProPainter实现的视频自动目标掩码补全】《SAM And ProPainter - a Hugging Face Space by SkalskiP》
+https://huggingface.co/spaces/SkalskiP/SAM_and_ProPainter
+
+【Mirror：本地运行的AI镜子 Webster 应用，利用开源的 LLama.cpp 服务器和 Bakllava 多模态 AI 模型，可以实时分析来自笔记本摄像头的数据流并作出描述性响应】'Mirror - Hackable AI Powered Mirror on your laptop’ by cocktailpeanut GitHub: github.com/cocktailpeanut/mirror 
+
+这个开源项目可以实时将草图渲染成真实的图片，背后使用的是LCM（Latent Consistency Models）
+latent-consistency-models.github.io/
+https://www.fal.ai/models/latent-consistency-sd
+项目地址：github.com/tldraw/draw-fast
+
+阿里推出的视频生成技术，只要一张图片加上骨骼动作就可以生成平滑稳定的动画视频，甚至头发都能跟着一起动！
+https://humanaigc.github.io/animate-anyone/

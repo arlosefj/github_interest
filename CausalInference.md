@@ -130,3 +130,7 @@ https://alejandroschuler.github.io/mci/
 
 【用串流图入门因果推理】《An introduction to causal inference via string diagrams》
 https://piedeleu.com/posts/diagrammatic-causal-inference/
+
+github.com/apoorvalal/ding_causalInference_python
+【因果推断第一课：伯克利《因果推断》课程讲义，涵盖了潜在结果、随机实验、观察研究、工具变量、因果机制和中介分析等主题。此外，还附有一些关于概率和统计、线性回归和逻辑回归以及简单随机抽样的附录，旨在以严谨易懂的方式介绍因果推断的基本概念和方法】《A First Course in Causal Inference》
+https://arxiv.org/abs/2305.18793

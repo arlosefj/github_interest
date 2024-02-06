@@ -1506,3 +1506,29 @@ https://arxiv.org/abs/2306.12156
 FastSAM，快速分割一切
 地址：github.com/CASIA-IVA-Lab/FastSAM
 这个项目基于CNN，其性能与 之前Facebook提出的 SAM （分割一切）类似，但运行速度提高了 50 倍。 ​​​
+
+【用Tensorrt加速SAM模型推理】’Segment anything tensorrt - Accelerate segment anything model inference using Tensorrt 8.6.1.6' BooHwang GitHub: github.com/BooHwang/segment_anything_tensorrt
+
+【SAM.cpp：使用纯C/C++实现的Meta’s Segment Anything(SAM)分割模型推理】'SAM.cpp' by Yavor Ivanov GitHub: github.com/YavorGIvanov/sam.cpp
+
+[CV]《High-Quality Entity Segmentation》L Qi, J Kuen, W Guo, T Shen, J Gu, J Jia, Z Lin, M Yang [The University of California, Merced & Adobe Research & QQ Brower Lab] (2022)
+https://arxiv.org/abs/2211.05776
+提出一种新的高质量实体分割数据集和CropFormer模型，通过融合高分辨率图像裁剪和完整图像来改进分割结果，并取得了显著的性能提升。
+
+【SAM批量离线推断版】’Segment anything ... Fast - A batched offline inference oriented version of segment-anything' PyTorch Labs GitHub: github.com/pytorch-labs/segment-anything-fast
+
+通过自蒸馏的方式改进了图像特征学习，提出SILC模型，在多个计算机视觉任务上取得了显著的性能提升，特别是在零样本和开放词表分割任务上。
+https://arxiv.org/abs/2310.13355
+[CV]《SILC: Improving Vision Language Pretraining with Self-Distillation》M F Naeem, Y Xian, X Zhai, L Hoyer, L V Gool, F Tombari [ETH Zurich & Google & Google Deepmind] (2023)
+
+【用PyTorch将Segment Anything加速8倍】
+- PyTorch团队使用纯PyTorch优化实现了Meta的Segment Anything(SAM)模型，比原实现快8倍，同时保持了准确性。   
+- 实现中使用了多项新的PyTorch特性：Torch.compile、GPU量化、缩放点积注意力、半结构化稀疏、嵌套张量和Triton定制算子。   
+- Torch.compile通过融合操作加速；GPU量化通过降低精度加速；缩放点积注意力实现内存高效的注意力机制。   
+- 半结构化稀疏可在保持密集输出的同时节省50%内存；嵌套张量可高效处理不同大小的批次；Triton可自定义GPU算子。   
+- 通过这些技术的组合，实现了SAM模型在纯PyTorch下的性能提升，包括吞吐量提高和内存开销降低。   
+- 证明了PyTorch原生的各项新特性能有效地加速生成式AI模型，未来将继续分享这方面的经验。
+《Accelerating Generative AI with PyTorch: Segment Anything, Fast | PyTorch》
+https://pytorch.org/blog/accelerating-generative-ai/
+
+【视频目标分割相关论文资源列表】’Awesome Video Object Segmentation - A curated list of video object segmentation (vos) papers, datasets, and projects.' Mingqi Gao GitHub: github.com/gaomingqi/Awesome-Video-Object-Segmentation
